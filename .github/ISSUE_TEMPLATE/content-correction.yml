@@ -1,0 +1,37 @@
+name: 内容纠错
+description: 修正归属、作品、年代、翻译或思想关系
+title: "[内容] "
+labels: ["content"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 命题归属或作品
+        - 译写或解释
+        - 年代、学派或名称
+        - 思想关系
+        - 其他内容问题
+    validations:
+      required: true
+  - type: input
+    id: record
+    attributes:
+      label: 涉及的哲学家或命题
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: 需要修正的内容
+      description: 请说明当前文本、问题所在和建议改法。
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 可核验来源
+      description: 请提供原典位置、学术出版物或可靠百科条目，不要只提供 AI 回答。
+    validations:
+      required: true

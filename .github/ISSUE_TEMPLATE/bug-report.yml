@@ -1,0 +1,44 @@
+name: Bug 报告
+description: 报告可以稳定复现的界面或扩展问题
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: 感谢反馈。请先确认问题发生在最新版本。
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题
+      description: 实际发生了什么？你原本期待什么？
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1. 打开……
+        2. 点击……
+        3. 看到……
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: AGORA 版本
+      placeholder: 例如 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 浏览器与操作系统
+      placeholder: 例如 Chrome 126 / macOS 15
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 截图或控制台信息
+      description: 请先移除账号、路径或其他敏感信息。
