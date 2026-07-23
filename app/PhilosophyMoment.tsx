@@ -6,17 +6,28 @@ import {
   downloadBlob,
   renderThoughtCard,
   thoughtCardFilename,
+  type ThoughtCardFormat,
 } from "./exportThoughtCard";
 
 import {
-  thoughts,
-  thoughtConnections,
   type ConnectionKind,
   type Thought,
   type ThoughtConnection,
 } from "../content/philosophy";
+import {
+  allThoughtConnections,
+  allThoughts,
+  contentLibraries,
+  contentLibraryForThought,
+  contentLibraryOptions,
+  contentLibraryStorageKey,
+  isContentLibraryId,
+  type ContentLibraryId,
+  type TopicOption,
+} from "../content/libraries";
+import { nextRandomThoughtIndex } from "../lib/randomThoughtIndex";
 
-const thoughtById = new Map(thoughts.map((item) => [item.id, item]));
+const thoughtById = new Map(allThoughts.map((item) => [item.id, item]));
 type LineageView = "upstream" | "dialogue" | "downstream";
 const lineageViews: LineageView[] = ["upstream", "dialogue", "downstream"];
 
@@ -27,16 +38,7 @@ type ResolvedConnection = {
   key: string;
 };
 
-const topics = ["全部", "存在", "伦理", "知识", "政治", "语言"] as const;
-type Topic = (typeof topics)[number];
-const topicEnglish: Record<Topic, string> = {
-  全部: "All",
-  存在: "Existence",
-  伦理: "Ethics",
-  知识: "Knowledge",
-  政治: "Politics",
-  语言: "Language",
-};
+type ActiveTopic = TopicOption["id"];
 const visualStyles = [
   { id: "trajectory", label: "思想轨迹", englishLabel: "Thought Trajectory" },
   { id: "marginalia", label: "意识手稿", englishLabel: "Mind Manuscript" },
@@ -50,7 +52,22 @@ const languageModes = [
 ] as const;
 type LanguageMode = (typeof languageModes)[number]["id"];
 type TextConverter = (text: string) => string;
-type ActionNotice = "copied" | "image-saving" | "image-saved" | "image-error";
+type ActionNotice =
+  | "copied"
+  | "thought-copied"
+  | "recommendation-copied"
+  | "platform-opened"
+  | "image-saving"
+  | "image-saved"
+  | "image-error";
+type SharePlatform = "x" | "weibo" | "facebook" | "linkedin";
+type OnboardingHint = "quote" | "navigate" | "menu";
+type OnboardingHints = Record<OnboardingHint, boolean>;
+const initialOnboardingHints: OnboardingHints = {
+  quote: true,
+  navigate: true,
+  menu: true,
+};
 let cachedTraditionalConverter: TextConverter | null = null;
 let traditionalConverterPromise: Promise<TextConverter> | null = null;
 const storageKeys = {
@@ -58,7 +75,11 @@ const storageKeys = {
   visualStyle: "agora-visual-style",
   languageMode: "agora-language-mode",
   includeEnglishQuote: "agora-include-english-quote",
+  shareFormat: "agora-share-format",
+  onboardingComplete: "agora-onboarding-complete",
+  contentLibrary: contentLibraryStorageKey,
 } as const;
+const onboardingVersion = "2";
 
 function loadTraditionalConverter(): Promise<TextConverter> {
   if (cachedTraditionalConverter) return Promise.resolve(cachedTraditionalConverter);
@@ -125,15 +146,32 @@ function preferredScrollBehavior(): ScrollBehavior {
   return window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
 }
 
-export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }) {
+export function PhilosophyMoment({
+  initialIndex = 0,
+  initialLibrary = "western",
+}: {
+  initialIndex?: number;
+  initialLibrary?: ContentLibraryId;
+}) {
+  const initialThoughts = contentLibraries[initialLibrary].thoughts;
   const safeInitialIndex = Number.isFinite(initialIndex)
-    ? Math.abs(Math.trunc(initialIndex)) % thoughts.length
+    ? Math.abs(Math.trunc(initialIndex)) % initialThoughts.length
     : 0;
-  const [activeTopic, setActiveTopic] = useState<Topic>("全部");
+  const [contentLibrary, setContentLibrary] = useState<ContentLibraryId>(initialLibrary);
+  const [activeTopic, setActiveTopic] = useState<ActiveTopic>("all");
   const [index, setIndex] = useState(safeInitialIndex);
   const [saved, setSaved] = useState<string[]>([]);
   const [detailOpen, setDetailOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [shareOpen, setShareOpen] = useState(false);
+  const [onboardingOpen, setOnboardingOpen] = useState(false);
+  const [onboardingHints, setOnboardingHints] = useState<OnboardingHints>(initialOnboardingHints);
+  const [shareFormat, setShareFormat] = useState<ThoughtCardFormat>("mobile");
+  const [shareBlob, setShareBlob] = useState<Blob | null>(null);
+  const [sharePreviewUrl, setSharePreviewUrl] = useState<string | null>(null);
+  const [shareLoading, setShareLoading] = useState(false);
+  const [shareError, setShareError] = useState(false);
+  const [shareRenderVersion, setShareRenderVersion] = useState(0);
   const [visualStyle, setVisualStyle] = useState<VisualStyle>("trajectory");
   const [languageMode, setLanguageMode] = useState<LanguageMode>("zh-hans");
   const [includeEnglishQuote, setIncludeEnglishQuote] = useState(true);
@@ -150,16 +188,26 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
   const menuButtonRef = useRef<HTMLButtonElement | null>(null);
   const detailSheetRef = useRef<HTMLElement | null>(null);
   const detailCloseButtonRef = useRef<HTMLButtonElement | null>(null);
+  const shareDialogRef = useRef<HTMLElement | null>(null);
+  const shareCloseButtonRef = useRef<HTMLButtonElement | null>(null);
+  const shareReturnFocusRef = useRef<HTMLElement | null>(null);
+  const shareGenerationRef = useRef(0);
   const comparisonRef = useRef<HTMLDivElement | null>(null);
   const returnFocusRef = useRef<HTMLElement | null>(null);
   const noticeTimerRef = useRef<number | null>(null);
   const imageSavingRef = useRef(false);
+  const lineageContentRef = useRef<HTMLDivElement | null>(null);
 
+  const activeLibrary = contentLibraries[contentLibrary];
   const filtered = useMemo(
-    () => (activeTopic === "全部" ? thoughts : thoughts.filter((item) => item.topic === activeTopic)),
-    [activeTopic],
+    () => activeTopic === "all"
+      ? activeLibrary.thoughts
+      : activeLibrary.thoughts.filter((item) => item.topic === activeTopic),
+    [activeLibrary, activeTopic],
   );
-  const thought = filtered[index % filtered.length] ?? thoughts[0];
+  const thought = filtered[index % filtered.length] ?? activeLibrary.thoughts[0] ?? allThoughts[0];
+  const thoughtTopic = activeLibrary.topics.find((topic) => topic.id === thought.topic)
+    ?? { id: thought.topic, label: thought.topic, englishLabel: thought.topic };
   const lineage = useMemo(() => {
     const resolved: Record<LineageView, ResolvedConnection[]> = {
       upstream: [],
@@ -167,7 +215,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
       downstream: [],
     };
 
-    thoughtConnections.forEach((connection) => {
+    allThoughtConnections.forEach((connection) => {
       const key = `${connection.source}:${connection.target}:${connection.kind}`;
       const isDialogue = connection.kind === "dialogues"
         || connection.kind === "resonates"
@@ -200,9 +248,13 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
       .find((entry) => entry.key === comparisonKey) ?? null,
     [comparisonKey, lineage],
   );
-  const thoughtNumber = thoughts.findIndex((item) => item.id === thought.id) + 1;
+  const thoughtNumber = activeLibrary.thoughts.findIndex((item) => item.id === thought.id) + 1;
   const isChineseLanguage = languageMode !== "en";
   const showEnglishQuote = languageMode === "en" || (isChineseLanguage && includeEnglishQuote);
+  const chineseQuoteFirst = contentLibrary === "mao" && isChineseLanguage;
+  const comparisonChineseQuoteFirst = comparison
+    ? contentLibraryForThought(comparison.related.id) === "mao" && isChineseLanguage
+    : false;
   const localizeChinese = useCallback(
     (text: string) => languageMode === "zh-hant" && traditionalConverter
       ? traditionalConverter(text)
@@ -224,6 +276,35 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
   const displayedQuestion = languageMode === "en"
     ? thought.englishQuestion
     : localizeChinese(thought.question);
+  const localizedBrandName = languageMode === "en"
+    ? brand.nameEn
+    : languageMode === "zh-hant"
+      ? brand.nameZhHant
+      : brand.nameZhHans;
+  const localizedSlogan = languageMode === "en"
+    ? brand.sloganEn
+    : languageMode === "zh-hant"
+      ? brand.sloganZhHant
+      : brand.sloganZhHans;
+  const shareQuote = languageMode === "en"
+    ? thought.english
+    : includeEnglishQuote
+      ? chineseQuoteFirst
+        ? `${localizeChinese(thought.text)}\n${thought.english}`
+        : `${thought.english}\n${localizeChinese(thought.text)}`
+      : localizeChinese(thought.text);
+  const shareAttribution = languageMode === "en"
+    ? `— ${thought.englishName} · ${thought.englishWork}`
+    : `—— ${displayedName} · ${displayedWork}`;
+  const shareSignature = languageMode === "en"
+    ? `${localizedBrandName} — ${localizedSlogan}`
+    : `${localizedBrandName}｜${localizedSlogan}`;
+  const thoughtCopyText = `${shareQuote}\n\n${shareAttribution}`;
+  const shareText = `${thoughtCopyText}\n\n${shareSignature}`;
+  const recommendationText = languageMode === "en"
+    ? `Try AGORA, a philosophy new tab for Chrome. Each new tab opens a thought you can trace through its source, lineage, and related ideas.\n\n${brand.storeUrl}`
+    : `${localizeChinese("推荐你试试 AGORA：把每次打开 Chrome 新标签页，变成一次与思想的短暂相遇。每则观点都可以继续读解它的来源、思想脉络与相似观点。")}\n\n${brand.storeUrl}`;
+  const shareTitle = `${localizedBrandName} · ${displayedName}`;
   const menuLabel = (chinese: string, english: string) => {
     if (languageMode === "en") return english;
     return localizeChinese(chinese);
@@ -239,6 +320,13 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
     };
     return menuLabel(...labels[kind]);
   };
+  const relatedThoughtLabel = (related: Thought) => contentLibraryForThought(related.id) === "mao"
+    ? languageMode === "en"
+      ? related.englishWork
+      : localizeChinese(related.work)
+    : languageMode === "en"
+      ? related.englishName
+      : localizeChinese(related.name);
 
   const showActionNotice = useCallback((notice: ActionNotice, duration = 1800) => {
     if (noticeTimerRef.current !== null) window.clearTimeout(noticeTimerRef.current);
@@ -257,6 +345,13 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
     const timer = window.setTimeout(() => {
       const storedSaved = readStoredPreference(storageKeys.saved, legacyStorageKeys.saved);
       if (storedSaved !== null) setSaved(parseSavedIds(storedSaved));
+
+      const storedLibrary = window.localStorage.getItem(storageKeys.contentLibrary);
+      if (isContentLibraryId(storedLibrary)) {
+        setContentLibrary(storedLibrary);
+        setActiveTopic("all");
+        setIndex((current) => current % contentLibraries[storedLibrary].thoughts.length);
+      }
 
       const storedStyle = readStoredPreference(
         storageKeys.visualStyle,
@@ -284,6 +379,16 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
         setIncludeEnglishQuote(storedEnglishQuote === "true");
       } else if (storedLanguage === "both") {
         setIncludeEnglishQuote(true);
+      }
+
+      const storedShareFormat = window.localStorage.getItem(storageKeys.shareFormat);
+      if (storedShareFormat === "mobile" || storedShareFormat === "desktop") {
+        setShareFormat(storedShareFormat);
+      }
+
+      if (window.localStorage.getItem(storageKeys.onboardingComplete) !== onboardingVersion) {
+        setOnboardingHints(initialOnboardingHints);
+        setOnboardingOpen(true);
       }
     }, 0);
     return () => window.clearTimeout(timer);
@@ -316,25 +421,75 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
         : "zh-Hans";
   }, [languageMode]);
 
+  const completeOnboarding = useCallback(() => {
+    window.localStorage.setItem(storageKeys.onboardingComplete, onboardingVersion);
+    setOnboardingHints({ quote: false, navigate: false, menu: false });
+    setOnboardingOpen(false);
+  }, []);
+
+  const dismissOnboardingHint = useCallback((hint: OnboardingHint) => {
+    if (!onboardingOpen || !onboardingHints[hint]) return;
+
+    const nextHints = { ...onboardingHints, [hint]: false };
+    setOnboardingHints(nextHints);
+    if (!Object.values(nextHints).some(Boolean)) {
+      window.localStorage.setItem(storageKeys.onboardingComplete, onboardingVersion);
+      setOnboardingOpen(false);
+    }
+  }, [onboardingHints, onboardingOpen]);
+
+  const openOnboarding = useCallback(() => {
+    setMenuOpen(false);
+    setDetailOpen(false);
+    setShareOpen(false);
+    setComparisonKey(null);
+    setOnboardingHints(initialOnboardingHints);
+    setOnboardingOpen(true);
+  }, []);
+
+  useEffect(() => {
+    if (!onboardingOpen) return;
+    const timer = window.setTimeout(completeOnboarding, 12000);
+    return () => window.clearTimeout(timer);
+  }, [completeOnboarding, onboardingHints, onboardingOpen]);
+
   const next = useCallback(() => {
+    dismissOnboardingHint("navigate");
     setDetailOpen(false);
     setMenuOpen(false);
     setComparisonKey(null);
     setLineageView("upstream");
     setIndex((value) => (value + 1) % filtered.length);
     window.requestAnimationFrame(() => quoteStageRef.current?.focus({ preventScroll: true }));
-  }, [filtered.length]);
+  }, [dismissOnboardingHint, filtered.length]);
 
   const previous = useCallback(() => {
+    dismissOnboardingHint("navigate");
     setDetailOpen(false);
     setMenuOpen(false);
     setComparisonKey(null);
     setLineageView("upstream");
     setIndex((value) => (value - 1 + filtered.length) % filtered.length);
     window.requestAnimationFrame(() => quoteStageRef.current?.focus({ preventScroll: true }));
-  }, [filtered.length]);
+  }, [dismissOnboardingHint, filtered.length]);
 
-  const chooseTopic = (topic: Topic) => {
+  const chooseContentLibrary = (nextLibrary: ContentLibraryId) => {
+    if (nextLibrary === contentLibrary) return;
+
+    const nextThoughts = contentLibraries[nextLibrary].thoughts;
+    const nextIndex = nextRandomThoughtIndex(nextThoughts.length, null);
+    setContentLibrary(nextLibrary);
+    setActiveTopic("all");
+    setIndex(nextIndex);
+    setDetailOpen(false);
+    setMenuOpen(false);
+    setComparisonKey(null);
+    setLineageView("upstream");
+    window.localStorage.setItem(storageKeys.contentLibrary, nextLibrary);
+    window.requestAnimationFrame(() => quoteStageRef.current?.focus({ preventScroll: true }));
+  };
+
+  const chooseTopic = (topic: ActiveTopic) => {
     setActiveTopic(topic);
     setIndex(0);
     setDetailOpen(false);
@@ -373,6 +528,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
   };
 
   const openDetail = useCallback(() => {
+    dismissOnboardingHint("quote");
     const activeElement = document.activeElement instanceof HTMLElement
       ? document.activeElement
       : null;
@@ -384,7 +540,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
     setMenuOpen(false);
     setComparisonKey(null);
     setDetailOpen(true);
-  }, []);
+  }, [dismissOnboardingHint]);
 
   const closeDetail = useCallback(() => {
     setComparisonKey(null);
@@ -438,6 +594,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
     if (!nextView) return;
     setLineageView(nextView);
     setComparisonKey(null);
+    lineageContentRef.current?.scrollTo({ top: 0, behavior: "auto" });
     document.getElementById(`lineage-tab-${nextView}`)?.focus();
   };
 
@@ -453,78 +610,178 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
     }
   };
 
-  const share = useCallback(async () => {
-    const chineseQuote = `${localizeChinese("命题译写：")}${localizeChinese(thought.text)}`;
-    const englishQuote = `Interpretive rendering: ${thought.english}`;
-    const quote = languageMode === "en"
-      ? englishQuote
-      : includeEnglishQuote
-        ? `${englishQuote}\n${chineseQuote}`
-        : chineseQuote;
-    const attribution = languageMode === "en"
-      ? `— ${thought.englishName} · ${thought.englishWork}`
-      : `—— ${displayedName} · ${displayedWork}`;
-    const content = `${quote}\n${attribution}`;
+  const createThoughtCardBlob = useCallback((format: ThoughtCardFormat) => renderThoughtCard({
+    quoteEnglish: showEnglishQuote ? thought.english : undefined,
+    quoteChinese: isChineseLanguage ? localizeChinese(thought.text) : undefined,
+    quoteChineseFirst: chineseQuoteFirst,
+    author: displayedName,
+    work: displayedWork,
+    palette: thought.palette,
+    format,
+  }), [chineseQuoteFirst, displayedName, displayedWork, isChineseLanguage, localizeChinese, showEnglishQuote, thought]);
+
+  const openShare = useCallback(() => {
+    const activeElement = document.activeElement instanceof HTMLElement
+      ? document.activeElement
+      : null;
+    shareReturnFocusRef.current = activeElement?.closest(".corner-menu")
+      ? menuButtonRef.current
+      : activeElement && activeElement !== document.body
+        ? activeElement
+        : detailOpen
+          ? detailCloseButtonRef.current
+          : quoteStageRef.current;
+    setMenuOpen(false);
+    setShareBlob(null);
+    setSharePreviewUrl(null);
+    setShareError(false);
+    setShareLoading(true);
+    setShareOpen(true);
+  }, [detailOpen]);
+
+  const closeShare = useCallback(() => {
+    setShareOpen(false);
+    window.requestAnimationFrame(() => {
+      (shareReturnFocusRef.current ?? quoteStageRef.current)?.focus({ preventScroll: true });
+    });
+  }, []);
+
+  useEffect(() => {
+    if (!shareOpen) return;
+    const frame = window.requestAnimationFrame(() => {
+      shareCloseButtonRef.current?.focus({ preventScroll: true });
+    });
+    return () => window.cancelAnimationFrame(frame);
+  }, [shareOpen]);
+
+  const onShareKeyDown = (event: React.KeyboardEvent<HTMLElement>) => {
+    if (event.key !== "Tab") return;
+    const focusable = Array.from(shareDialogRef.current?.querySelectorAll<HTMLElement>(
+      'button:not(:disabled), a[href], [tabindex]:not([tabindex="-1"])',
+    ) ?? []).filter((element) => !element.hasAttribute("inert"));
+    if (focusable.length === 0) return;
+    const first = focusable[0];
+    const last = focusable[focusable.length - 1];
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
+  };
+
+  const chooseShareFormat = (format: ThoughtCardFormat) => {
+    if (format === shareFormat) return;
+    setShareFormat(format);
+    setShareBlob(null);
+    setSharePreviewUrl(null);
+    setShareLoading(true);
+    setShareError(false);
+    window.localStorage.setItem(storageKeys.shareFormat, format);
+  };
+
+  useEffect(() => {
+    if (!shareOpen) return;
+
+    const generation = ++shareGenerationRef.current;
+    let objectUrl: string | null = null;
+
+    void createThoughtCardBlob(shareFormat)
+      .then((blob) => {
+        if (shareGenerationRef.current !== generation) return;
+        objectUrl = URL.createObjectURL(blob);
+        setShareBlob(blob);
+        setSharePreviewUrl(objectUrl);
+      })
+      .catch(() => {
+        if (shareGenerationRef.current === generation) setShareError(true);
+      })
+      .finally(() => {
+        if (shareGenerationRef.current === generation) setShareLoading(false);
+      });
+
+    return () => {
+      shareGenerationRef.current += 1;
+      if (objectUrl) URL.revokeObjectURL(objectUrl);
+    };
+  }, [createThoughtCardBlob, shareFormat, shareOpen, shareRenderVersion]);
+
+  const copyThoughtText = useCallback(async () => {
     try {
-      if (navigator.share) {
-        await navigator.share({
-          title: languageMode === "en" ? brand.nameEn : brand.nameZhHans,
-          text: content,
-        });
-        setMenuOpen(false);
-        if (!detailOpen) {
-          window.requestAnimationFrame(() => menuButtonRef.current?.focus({ preventScroll: true }));
-        }
+      await navigator.clipboard.writeText(thoughtCopyText);
+      showActionNotice("thought-copied");
+    } catch {
+      setActionNotice(null);
+    }
+  }, [showActionNotice, thoughtCopyText]);
+
+  const copyRecommendation = useCallback(async () => {
+    try {
+      await navigator.clipboard.writeText(recommendationText);
+      showActionNotice("recommendation-copied", 2400);
+    } catch {
+      setActionNotice(null);
+    }
+  }, [recommendationText, showActionNotice]);
+
+  const openPlatformShare = useCallback((platform: SharePlatform) => {
+    const encodedLink = encodeURIComponent(brand.storeUrl);
+    const encodedText = encodeURIComponent(shareText);
+    const destinations: Record<SharePlatform, string> = {
+      x: `https://x.com/intent/tweet?text=${encodedText}&url=${encodedLink}`,
+      weibo: `https://service.weibo.com/share/share.php?title=${encodedText}&url=${encodedLink}`,
+      facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedLink}`,
+      linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedLink}`,
+    };
+    window.open(destinations[platform], "_blank", "noopener,noreferrer,width=760,height=720");
+    showActionNotice("platform-opened", 2600);
+  }, [shareText, showActionNotice]);
+
+  const shareViaSystem = useCallback(async () => {
+    try {
+      if (!navigator.share) {
+        await navigator.clipboard.writeText(`${shareText}\n${brand.storeUrl}`);
+        showActionNotice("copied");
         return;
       }
-      await navigator.clipboard.writeText(content);
-      showActionNotice("copied");
-      setMenuOpen(false);
-      if (!detailOpen) {
-        window.requestAnimationFrame(() => menuButtonRef.current?.focus({ preventScroll: true }));
+
+      const shareData: ShareData = {
+        title: shareTitle,
+        text: shareText,
+        url: brand.storeUrl,
+      };
+      if (shareBlob) {
+        const file = new File(
+          [shareBlob],
+          thoughtCardFilename(localizedBrandName, displayedName, shareFormat),
+          { type: "image/png" },
+        );
+        if (navigator.canShare?.({ files: [file] })) shareData.files = [file];
       }
+      await navigator.share(shareData);
+      closeShare();
     } catch (error) {
       if (!(error instanceof DOMException && error.name === "AbortError")) {
         setActionNotice(null);
       }
     }
-  }, [detailOpen, displayedName, displayedWork, includeEnglishQuote, languageMode, localizeChinese, showActionNotice, thought]);
+  }, [closeShare, displayedName, localizedBrandName, shareBlob, shareFormat, shareText, shareTitle, showActionNotice]);
 
-  const saveImage = useCallback(async () => {
+  const saveImage = useCallback(async (
+    format: ThoughtCardFormat = "mobile",
+    prefetchedBlob?: Blob | null,
+    closeMenuAfter = true,
+  ) => {
     if (imageSavingRef.current) return;
     imageSavingRef.current = true;
     setImageSaving(true);
-    const shouldReturnFocusToMenu = menuOpen;
-    setMenuOpen(false);
+    const shouldReturnFocusToMenu = closeMenuAfter && menuOpen;
+    if (closeMenuAfter) setMenuOpen(false);
     showActionNotice("image-saving", 8000);
     try {
-      const localizedBrandName = languageMode === "en"
-        ? brand.nameEn
-        : languageMode === "zh-hant"
-          ? brand.nameZhHant
-          : brand.nameZhHans;
-      const slogan = languageMode === "en"
-        ? brand.sloganEn
-        : languageMode === "zh-hant"
-          ? brand.sloganZhHant
-          : brand.sloganZhHans;
-      const blob = await renderThoughtCard({
-        brandName: localizedBrandName,
-        brandNameEnglish: brand.nameEn,
-        slogan,
-        topic: languageMode === "en"
-          ? topicEnglish[thought.topic]
-          : localizeChinese(thought.topic),
-        sequence: `${String(thoughtNumber).padStart(2, "0")} / ${thoughts.length}`,
-        quoteEnglish: showEnglishQuote ? thought.english : undefined,
-        quoteChinese: isChineseLanguage ? localizeChinese(thought.text) : undefined,
-        author: displayedName,
-        work: displayedWork,
-        palette: thought.palette,
-        style: visualStyle,
-        language: languageMode,
-      });
-      downloadBlob(blob, thoughtCardFilename(localizedBrandName, displayedName));
+      const blob = prefetchedBlob ?? await createThoughtCardBlob(format);
+      downloadBlob(blob, thoughtCardFilename(localizedBrandName, displayedName, format));
       showActionNotice("image-saved", 2200);
     } catch {
       showActionNotice("image-error", 2600);
@@ -535,7 +792,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
     if (shouldReturnFocusToMenu && !detailOpen) {
       window.requestAnimationFrame(() => menuButtonRef.current?.focus({ preventScroll: true }));
     }
-  }, [detailOpen, displayedName, displayedWork, isChineseLanguage, languageMode, localizeChinese, menuOpen, showActionNotice, showEnglishQuote, thought, thoughtNumber, visualStyle]);
+  }, [createThoughtCardBlob, detailOpen, displayedName, localizedBrandName, menuOpen, showActionNotice]);
 
   const openComparison = useCallback((entry: ResolvedConnection) => {
     setComparisonKey(entry.key);
@@ -546,14 +803,19 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
   }, []);
 
   const goToThought = useCallback((thoughtId: string) => {
-    const nextIndex = thoughts.findIndex((item) => item.id === thoughtId);
+    const nextLibraryId = contentLibraryForThought(thoughtId);
+    if (!nextLibraryId) return;
+    const nextLibrary = contentLibraries[nextLibraryId];
+    const nextIndex = nextLibrary.thoughts.findIndex((item) => item.id === thoughtId);
     if (nextIndex < 0) return;
-    setActiveTopic("全部");
+    setContentLibrary(nextLibraryId);
+    setActiveTopic("all");
     setIndex(nextIndex);
     setLineageView("upstream");
     setComparisonKey(null);
     setMenuOpen(false);
     setDetailOpen(true);
+    window.localStorage.setItem(storageKeys.contentLibrary, nextLibraryId);
     window.requestAnimationFrame(() => {
       detailSheetRef.current?.scrollTo({ top: 0, behavior: preferredScrollBehavior() });
       detailCloseButtonRef.current?.focus({ preventScroll: true });
@@ -563,10 +825,14 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
   useEffect(() => {
     const onKeyDown = (event: KeyboardEvent) => {
       if (event.key === "Escape") {
-        if (comparisonKey || detailOpen || menuOpen) {
+        if (onboardingOpen || shareOpen || comparisonKey || detailOpen || menuOpen) {
           event.preventDefault();
         }
-        if (comparisonKey) {
+        if (onboardingOpen) {
+          completeOnboarding();
+        } else if (shareOpen) {
+          closeShare();
+        } else if (comparisonKey) {
           setComparisonKey(null);
         } else if (detailOpen) {
           closeDetail();
@@ -577,6 +843,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
         return;
       }
 
+      if (shareOpen) return;
       if (event.metaKey || event.ctrlKey || event.altKey) return;
       const target = event.target instanceof HTMLElement ? event.target : null;
       if (target?.closest('input, textarea, select, [contenteditable]:not([contenteditable="false"])')) return;
@@ -590,7 +857,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
           toggleSaved();
         } else if (!event.repeat && lowerKey === "s") {
           event.preventDefault();
-          void share();
+          openShare();
         } else if (!event.repeat && lowerKey === "d") {
           event.preventDefault();
           void saveImage();
@@ -612,7 +879,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
         toggleSaved();
       } else if (!event.repeat && lowerKey === "s") {
         event.preventDefault();
-        void share();
+        openShare();
       } else if (!event.repeat && lowerKey === "d") {
         event.preventDefault();
         void saveImage();
@@ -620,9 +887,13 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
     };
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
-  }, [closeDetail, comparisonKey, detailOpen, menuOpen, next, openDetail, previous, saveImage, share, toggleSaved]);
+  }, [closeDetail, closeShare, comparisonKey, completeOnboarding, detailOpen, menuOpen, next, onboardingOpen, openDetail, openShare, previous, saveImage, shareOpen, toggleSaved]);
 
   const onTouchEnd = (event: React.TouchEvent) => {
+    if (shareOpen) {
+      touchStart.current = null;
+      return;
+    }
     if (touchStart.current === null) return;
     const distance = event.changedTouches[0].clientX - touchStart.current;
     if (Math.abs(distance) > 55) {
@@ -642,7 +913,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
   return (
     <main className="app-shell" style={style}>
       <section
-        className={`moment style-${visualStyle} ${detailOpen ? "detail-open" : ""}`}
+        className={`moment style-${visualStyle} ${detailOpen ? "detail-open" : ""} ${shareOpen ? "share-open" : ""}`}
         lang={languageMode === "en" ? "en" : languageMode === "zh-hant" ? "zh-Hant" : "zh-Hans"}
         onTouchStart={(event) => (touchStart.current = event.touches[0].clientX)}
         onTouchEnd={onTouchEnd}
@@ -656,8 +927,8 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
         </div>
         <div className="manuscript-index" aria-hidden="true">
           <span>{languageMode === "en"
-            ? `${topicEnglish[thought.topic]} Proposition`
-            : localizeChinese(`${thought.topic}命题`)}</span>
+            ? `${thoughtTopic.englishLabel} Proposition`
+            : localizeChinese(`${thoughtTopic.label}命题`)}</span>
           <strong>{String(thoughtNumber).padStart(2, "0")}</strong>
         </div>
 
@@ -676,13 +947,18 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
           onKeyDown={onQuoteKeyDown}
         >
           <div className="quote-content">
-            <blockquote className={`primary-quote language-${languageMode}${isChineseLanguage && includeEnglishQuote ? " with-english" : ""}`}>
+            <blockquote className={`primary-quote language-${languageMode}${isChineseLanguage && includeEnglishQuote ? " with-english" : ""}${chineseQuoteFirst ? " quote-chinese-first" : ""}`}>
+              {chineseQuoteFirst && isChineseLanguage ? (
+                <span className="main-quote-line main-quote-chinese">
+                  <PunctuatedQuote text={localizeChinese(thought.text)} />
+                </span>
+              ) : null}
               {showEnglishQuote ? (
                 <span className="main-quote-line main-quote-english" lang="en">
                   {thought.english}
                 </span>
               ) : null}
-              {isChineseLanguage ? (
+              {!chineseQuoteFirst && isChineseLanguage ? (
                 <span className="main-quote-line main-quote-chinese">
                   <PunctuatedQuote text={localizeChinese(thought.text)} />
                 </span>
@@ -702,13 +978,47 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
               )}
             </div>
           </div>
+          <div
+            className={`onboarding-hint onboarding-hint-quote ${onboardingOpen && onboardingHints.quote && !detailOpen && !shareOpen && !menuOpen ? "visible" : ""}`}
+            role="status"
+            aria-hidden={!onboardingOpen || !onboardingHints.quote || detailOpen || shareOpen || menuOpen}
+          >
+            <span>{menuLabel("点击观点，读深一层", "Select the thought to read deeper")}</span>
+            <kbd>Enter</kbd>
+          </div>
         </div>
 
+        <div
+          className={`corner-menu-scrim ${menuOpen ? "open" : ""}`}
+          aria-hidden="true"
+          onClick={() => setMenuOpen(false)}
+        />
         <div
           className={`corner-menu language-${languageMode} ${menuOpen ? "open" : ""}`}
           aria-hidden={!menuOpen}
           inert={!menuOpen ? true : undefined}
         >
+          <div className="menu-content-picker">
+            <span className="menu-label">{menuLabel("内容库", "Content Library")}</span>
+            <div
+              className="content-options"
+              role="radiogroup"
+              aria-label={menuLabel("内容库", "Content Library")}
+            >
+              {contentLibraryOptions.map((item) => (
+                <button
+                  key={item.id}
+                  type="button"
+                  role="radio"
+                  aria-checked={contentLibrary === item.id}
+                  className={contentLibrary === item.id ? "active" : ""}
+                  onClick={() => chooseContentLibrary(item.id)}
+                >
+                  {languageMode === "en" ? item.shortEnglishLabel : localizeChinese(item.label)}
+                </button>
+              ))}
+            </div>
+          </div>
           <div className="menu-style-picker">
             <span className="menu-label">{menuLabel("手稿样式", "Manuscript Style")}</span>
             <div className="style-options">
@@ -760,13 +1070,13 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
           </div>
           <nav className="menu-topics" aria-label={menuLabel("思想主题", "Thought themes")}>
             <span className="menu-label">{menuLabel("思想类型", "Thought Type")}</span>
-            {topics.map((topic) => (
+            {activeLibrary.topics.map((topic) => (
               <button
-                key={topic}
-                className={activeTopic === topic ? "active" : ""}
-                onClick={() => chooseTopic(topic)}
+                key={topic.id}
+                className={activeTopic === topic.id ? "active" : ""}
+                onClick={() => chooseTopic(topic.id)}
               >
-                {menuLabel(topic, topicEnglish[topic])}
+                {menuLabel(topic.label, topic.englishLabel)}
               </button>
             ))}
           </nav>
@@ -790,12 +1100,12 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
                 : menuLabel("收藏", "Save")}</span>
               <kbd>F</kbd>
             </button>
-            <button onClick={share} aria-keyshortcuts="S">
-              <span>{menuLabel("分享", "Share")}</span>
+            <button onClick={openShare} aria-keyshortcuts="S">
+              <span>{menuLabel("分享观点", "Share Thought")}</span>
               <kbd>S</kbd>
             </button>
             <button
-              onClick={saveImage}
+              onClick={() => void saveImage()}
               aria-keyshortcuts="D"
               aria-busy={imageSaving}
               disabled={imageSaving}
@@ -809,16 +1119,19 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
           </div>
           <div className="menu-project">
             <span className="menu-label">{menuLabel("项目", "Project")}</span>
-            <a href={brand.repositoryUrl} target="_blank" rel="noreferrer">
-              <span>{menuLabel("开源代码与反馈", "Source & feedback")}</span>
-              <span aria-hidden="true">↗</span>
-            </a>
+            <button type="button" onClick={openOnboarding}>
+              <span>{menuLabel("新手引导", "Quick guide")}</span>
+              <span aria-hidden="true">?</span>
+            </button>
           </div>
         </div>
         <button
           ref={menuButtonRef}
           className={`corner-menu-button ${menuOpen ? "open" : ""}`}
-          onClick={() => setMenuOpen((value) => !value)}
+          onClick={() => {
+            if (!menuOpen) dismissOnboardingHint("menu");
+            setMenuOpen((value) => !value);
+          }}
           aria-label={menuOpen
             ? menuLabel("收起菜单", "Close menu")
             : menuLabel("打开菜单", "Open menu")}
@@ -827,49 +1140,89 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
           <span aria-hidden="true">•••</span>
         </button>
 
+        <div
+          className={`onboarding-hint onboarding-hint-navigation ${onboardingOpen && onboardingHints.navigate && !detailOpen && !shareOpen && !menuOpen ? "visible" : ""}`}
+          role="status"
+          aria-hidden={!onboardingOpen || !onboardingHints.navigate || detailOpen || shareOpen || menuOpen}
+        >
+          <span className="onboarding-key-pair"><kbd>←</kbd><kbd>→</kbd></span>
+          <span>{menuLabel("换一则", "Another thought")}</span>
+        </div>
+        <div
+          className={`onboarding-hint onboarding-hint-menu ${onboardingOpen && onboardingHints.menu && !detailOpen && !shareOpen && !menuOpen ? "visible" : ""}`}
+          role="status"
+          aria-hidden={!onboardingOpen || !onboardingHints.menu || detailOpen || shareOpen || menuOpen}
+        >
+          <span>{menuLabel("设置、分享与内容切换", "Settings, sharing and content")}</span>
+        </div>
+
         <div className={`detail-scrim ${detailOpen ? "open" : ""}`} onClick={closeDetail} />
         <aside
           ref={detailSheetRef}
           className={`detail-sheet ${detailOpen ? "open" : ""}`}
           role="dialog"
-          aria-modal="true"
+          aria-modal={detailOpen && !shareOpen}
           aria-labelledby="detail-title"
-          aria-hidden={!detailOpen}
-          inert={!detailOpen ? true : undefined}
+          aria-hidden={!detailOpen || shareOpen}
+          inert={!detailOpen || shareOpen ? true : undefined}
           onKeyDown={onDetailKeyDown}
         >
           <div className="sheet-handle" />
-          <div className="sheet-heading">
-            <span id="detail-title">{menuLabel("读深一层", "Read Deeper")}</span>
-            <button
-              ref={detailCloseButtonRef}
-              onClick={closeDetail}
-              aria-label={menuLabel("关闭解读", "Close interpretation")}
-              aria-keyshortcuts="Escape"
-            >×</button>
-          </div>
-          <p className="detail-topic">{languageMode === "en"
-            ? `${topicEnglish[thought.topic]} · ${displayedSchool}`
-            : `${localizeChinese(thought.topic)} · ${displayedSchool}`}</p>
-          <div className="detail-quote" aria-label={menuLabel("这一则命题译写", "Interpretive rendering of this thought")}>
-            <span className="detail-quote-label">{menuLabel("命题译写", "INTERPRETIVE RENDERING")}</span>
-            {showEnglishQuote ? (
-              <div className="detail-quote-line detail-quote-english" lang="en">
-                <p>“{thought.english}”</p>
+          <div className="detail-sheet-content">
+            <div className="sheet-heading">
+              <span id="detail-title">{menuLabel("读深一层", "Read Deeper")}</span>
+              <button
+                ref={detailCloseButtonRef}
+                onClick={closeDetail}
+                aria-label={menuLabel("关闭解读", "Close interpretation")}
+                aria-keyshortcuts="Escape"
+              >×</button>
+            </div>
+            <div className="detail-layout">
+              <div className="detail-primary">
+                <p className="detail-topic">{languageMode === "en"
+                  ? `${thoughtTopic.englishLabel} · ${displayedSchool}`
+                  : `${localizeChinese(thoughtTopic.label)} · ${displayedSchool}`}</p>
+                <div className="detail-quote" aria-label={thought.rendering === "short-quote"
+                  ? menuLabel("这一则原文短句", "Short passage from the source")
+                  : menuLabel("这一则命题译写", "Interpretive rendering of this thought")}>
+                  <span className="detail-quote-label">{thought.rendering === "short-quote"
+                    ? menuLabel("原文短句", "SOURCE PASSAGE")
+                    : menuLabel("命题译写", "INTERPRETIVE RENDERING")}</span>
+                  {chineseQuoteFirst && isChineseLanguage ? (
+                    <div className="detail-quote-line">
+                      <p>「<PunctuatedQuote text={localizeChinese(thought.text)} />」</p>
+                    </div>
+                  ) : null}
+                  {showEnglishQuote ? (
+                    <div className="detail-quote-line detail-quote-english" lang="en">
+                      <p>“{thought.english}”</p>
+                    </div>
+                  ) : null}
+                  {!chineseQuoteFirst && isChineseLanguage ? (
+                    <div className="detail-quote-line">
+                      <p>「<PunctuatedQuote text={localizeChinese(thought.text)} />」</p>
+                    </div>
+                  ) : null}
+                </div>
+                <h2>{languageMode === "en"
+                  ? `What might ${displayedName} ask us to notice?`
+                  : `${displayedName}${localizeChinese("想提醒我们什么？")}`}</h2>
+                <p className="reflection">{displayedReflection}</p>
+                <div className="question-card">
+                  <span>{menuLabel("留给此刻的问题", "A question for this moment")}</span>
+                  <p>{displayedQuestion}</p>
+                </div>
+                <p className="source-note">{thought.rendering === "short-quote"
+                  ? languageMode === "en"
+                    ? `Source: ${displayedWork} · Short source passage; English is an editorial translation`
+                    : `${localizeChinese("原文出处：")}${displayedWork} · ${localizeChinese("英文为编辑性翻译")}`
+                  : languageMode === "en"
+                    ? `Source: ${displayedWork} · Interpretive rendering and paraphrase for readability; not a verbatim quotation`
+                    : `${localizeChinese("思想线索：")}${displayedWork} · ${localizeChinese("内容为便于阅读的命题译写与转述，并非逐字引文")}`}</p>
               </div>
-            ) : null}
-            {isChineseLanguage ? (
-              <div className="detail-quote-line">
-                <p>「<PunctuatedQuote text={localizeChinese(thought.text)} />」</p>
-              </div>
-            ) : null}
-          </div>
-          <h2>{languageMode === "en"
-            ? `What might ${displayedName} ask us to notice?`
-            : `${displayedName}${localizeChinese("想提醒我们什么？")}`}</h2>
-          <p className="reflection">{displayedReflection}</p>
 
-          <section className="lineage-section" aria-labelledby="lineage-title">
+              <section className="lineage-section" aria-labelledby="lineage-title">
             <div className="lineage-heading">
               <div>
                 <span>{menuLabel("思想脉络", "IDEAS IN CONTEXT")}</span>
@@ -900,6 +1253,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
                     onClick={() => {
                       setLineageView(view);
                       setComparisonKey(null);
+                      lineageContentRef.current?.scrollTo({ top: 0, behavior: "auto" });
                     }}
                   >
                     <span>{viewLabel}</span>
@@ -910,41 +1264,41 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
             </div>
 
             <div
-              className="lineage-list"
+              ref={lineageContentRef}
+              className="lineage-tab-content"
               id="lineage-panel"
               role="tabpanel"
               aria-labelledby={`lineage-tab-${effectiveLineageView}`}
             >
-              {lineage[effectiveLineageView].map((entry) => (
-                <button
-                  type="button"
-                  key={entry.key}
-                  className={`lineage-card ${comparisonKey === entry.key ? "active" : ""}`}
-                  aria-expanded={comparisonKey === entry.key}
-                  aria-controls={comparisonKey === entry.key ? "comparison-panel" : undefined}
-                  onClick={() => openComparison(entry)}
-                >
-                  <span className="lineage-card-meta">
-                    <span className={`relation-kind kind-${entry.connection.kind}`}>
-                      {relationLabel(entry.connection.kind)}
+              <div className="lineage-list">
+                {lineage[effectiveLineageView].map((entry) => (
+                  <button
+                    type="button"
+                    key={entry.key}
+                    className={`lineage-card ${comparisonKey === entry.key ? "active" : ""}`}
+                    aria-expanded={comparisonKey === entry.key}
+                    aria-controls={comparisonKey === entry.key ? "comparison-panel" : undefined}
+                    onClick={() => openComparison(entry)}
+                  >
+                    <span className="lineage-card-meta">
+                      <span className={`relation-kind kind-${entry.connection.kind}`}>
+                        {relationLabel(entry.connection.kind)}
+                      </span>
+                      <span aria-hidden="true">↗</span>
                     </span>
-                    <span aria-hidden="true">↗</span>
-                  </span>
-                  <strong>{languageMode === "en"
-                    ? entry.related.englishName
-                    : localizeChinese(entry.related.name)}</strong>
-                  <p>{languageMode === "en"
-                    ? entry.connection.englishSummary
-                    : localizeChinese(entry.connection.summary)}</p>
-                  <span className="lineage-card-quote">{languageMode === "en"
-                    ? `“${entry.related.english}”`
-                    : `「${localizeChinese(entry.related.text)}」`}</span>
-                </button>
-              ))}
-            </div>
+                    <strong>{relatedThoughtLabel(entry.related)}</strong>
+                    <p>{languageMode === "en"
+                      ? entry.connection.englishSummary
+                      : localizeChinese(entry.connection.summary)}</p>
+                    <span className="lineage-card-quote">{languageMode === "en"
+                      ? `“${entry.related.english}”`
+                      : `「${localizeChinese(entry.related.text)}」`}</span>
+                  </button>
+                ))}
+              </div>
 
-            {comparison ? (
-              <div
+              {comparison ? (
+                <div
                 className="comparison-panel"
                 id="comparison-panel"
                 ref={comparisonRef}
@@ -960,9 +1314,7 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
                     aria-label={menuLabel("收起观点对读", "Close comparison")}
                   >×</button>
                 </div>
-                <h4 id="comparison-title">{displayedName}<i>×</i>{languageMode === "en"
-                  ? comparison.related.englishName
-                  : localizeChinese(comparison.related.name)}</h4>
+                <h4 id="comparison-title">{displayedName}<i>×</i>{relatedThoughtLabel(comparison.related)}</h4>
                 <p className="comparison-summary">{languageMode === "en"
                   ? comparison.connection.englishSummary
                   : localizeChinese(comparison.connection.summary)}</p>
@@ -970,21 +1322,25 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
                 <div className="comparison-quotes">
                   <article>
                     <span>{displayedName}</span>
+                    {chineseQuoteFirst && isChineseLanguage ? <p>「{localizeChinese(thought.text)}」</p> : null}
                     {showEnglishQuote ? <p className="comparison-quote-english" lang="en">“{thought.english}”</p> : null}
-                    {isChineseLanguage ? <p>「{localizeChinese(thought.text)}」</p> : null}
+                    {!chineseQuoteFirst && isChineseLanguage ? <p>「{localizeChinese(thought.text)}」</p> : null}
                     <small>{displayedWork}</small>
                   </article>
                   <div className={`comparison-relation kind-${comparison.connection.kind}`}>
                     <span>{relationLabel(comparison.connection.kind)}</span>
                   </div>
                   <article>
-                    <span>{languageMode === "en"
-                      ? comparison.related.englishName
-                      : localizeChinese(comparison.related.name)}</span>
+                    <span>{relatedThoughtLabel(comparison.related)}</span>
+                    {comparisonChineseQuoteFirst && isChineseLanguage ? (
+                      <p>「{localizeChinese(comparison.related.text)}」</p>
+                    ) : null}
                     {showEnglishQuote ? (
                       <p className="comparison-quote-english" lang="en">“{comparison.related.english}”</p>
                     ) : null}
-                    {isChineseLanguage ? <p>「{localizeChinese(comparison.related.text)}」</p> : null}
+                    {!comparisonChineseQuoteFirst && isChineseLanguage ? (
+                      <p>「{localizeChinese(comparison.related.text)}」</p>
+                    ) : null}
                     <small>{languageMode === "en"
                       ? comparison.related.englishWork
                       : localizeChinese(comparison.related.work)}</small>
@@ -993,32 +1349,195 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
 
                 <div className="comparison-actions">
                   <button type="button" onClick={() => goToThought(comparison.related.id)}>
-                    <span>{menuLabel("转到", "Go to")} {languageMode === "en"
-                      ? comparison.related.englishName
-                      : localizeChinese(comparison.related.name)}</span>
+                    <span>{menuLabel("转到", "Go to")} {relatedThoughtLabel(comparison.related)}</span>
                     <span aria-hidden="true">→</span>
                   </button>
                   <button type="button" onClick={() => setComparisonKey(null)}>
                     {menuLabel("收起对读", "Collapse")}
                   </button>
                 </div>
-              </div>
-            ) : null}
+                </div>
+              ) : null}
+            </div>
 
             <p className="lineage-disclaimer">{menuLabel(
               "上下游包含直接影响、传统中介与编辑性重构；“呼应 / 分歧”不等于直接影响或明确引用。",
               "Origins and afterlives may reflect direct influence, mediated traditions, or editorial reframing; an echo or contrast does not imply direct influence or explicit citation.",
             )}</p>
-          </section>
+              </section>
 
-          <div className="question-card">
-            <span>{menuLabel("留给此刻的问题", "A question for this moment")}</span>
-            <p>{displayedQuestion}</p>
+            </div>
           </div>
-          <p className="source-note">{languageMode === "en"
-            ? `Source: ${displayedWork} · Interpretive rendering and paraphrase for readability; not a verbatim quotation`
-            : `${localizeChinese("思想线索：")}${displayedWork} · ${localizeChinese("内容为便于阅读的命题译写与转述，并非逐字引文")}`}</p>
         </aside>
+
+        <div
+          className={`share-scrim ${shareOpen ? "open" : ""}`}
+          aria-hidden="true"
+          onClick={closeShare}
+        />
+        <section
+          ref={shareDialogRef}
+          className={`share-dialog ${shareOpen ? "open" : ""}`}
+          role="dialog"
+          aria-modal="true"
+          aria-labelledby="share-title"
+          aria-describedby="share-description"
+          aria-hidden={!shareOpen}
+          inert={!shareOpen ? true : undefined}
+          onKeyDown={onShareKeyDown}
+          onTouchStart={(event) => event.stopPropagation()}
+          onTouchEnd={(event) => event.stopPropagation()}
+        >
+          <div className="share-heading">
+            <div>
+              <span id="share-title">{menuLabel("分享这则思想", "Share this thought")}</span>
+              <small>{displayedName} · {displayedWork}</small>
+            </div>
+            <button
+              ref={shareCloseButtonRef}
+              type="button"
+              onClick={closeShare}
+              aria-label={menuLabel("关闭分享", "Close share dialog")}
+              aria-keyshortcuts="Escape"
+            >×</button>
+          </div>
+          <p id="share-description" className="sr-only">{menuLabel(
+            "预览并选择移动端或 PC 端分享图，然后分享到平台、保存图片、复制观点文本或推荐给好友。",
+            "Preview a mobile or desktop share image, then share it, save it, copy the thought, or recommend AGORA to a friend.",
+          )}</p>
+
+          <div
+            className={`share-preview share-preview-${shareFormat}`}
+            aria-busy={shareLoading}
+          >
+            {sharePreviewUrl ? (
+              // Blob URLs are generated locally and should not pass through an image optimizer.
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                src={sharePreviewUrl}
+                alt={menuLabel(
+                  `${displayedName}观点分享图预览`,
+                  `Preview of ${displayedName} thought card`,
+                )}
+              />
+            ) : shareError ? (
+              <div className="share-preview-state" role="status">
+                <span>{menuLabel("预览生成失败", "Could not create preview")}</span>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setShareLoading(true);
+                    setShareError(false);
+                    setShareRenderVersion((version) => version + 1);
+                  }}
+                >{menuLabel("重试", "Try again")}</button>
+              </div>
+            ) : (
+              <div className="share-preview-state" role="status">
+                <span className="share-spinner" aria-hidden="true" />
+                <span>{menuLabel("正在生成预览…", "Creating preview…")}</span>
+              </div>
+            )}
+          </div>
+
+          <div className="share-format-row">
+            <span className="share-section-label">{menuLabel("分享图版式", "Image layout")}</span>
+            <div
+              className="share-format-options"
+              role="radiogroup"
+              aria-label={menuLabel("分享图版式", "Share image layout")}
+            >
+              <button
+                type="button"
+                role="radio"
+                aria-checked={shareFormat === "mobile"}
+                className={shareFormat === "mobile" ? "active" : ""}
+                onClick={() => chooseShareFormat("mobile")}
+              >
+                <span>{menuLabel("移动端", "Mobile")}</span>
+                <small>4:5</small>
+              </button>
+              <button
+                type="button"
+                role="radio"
+                aria-checked={shareFormat === "desktop"}
+                className={shareFormat === "desktop" ? "active" : ""}
+                onClick={() => chooseShareFormat("desktop")}
+              >
+                <span>{menuLabel("PC 端", "Desktop")}</span>
+                <small>16:9</small>
+              </button>
+            </div>
+          </div>
+
+          <div className="share-platform-section">
+            <span className="share-section-label">{menuLabel("分享到", "Share to")}</span>
+            <div className="share-platforms">
+              <button
+                type="button"
+                onClick={() => void shareViaSystem()}
+                disabled={shareLoading || shareError}
+              >
+                <span className="share-platform-mark" aria-hidden="true">↗</span>
+                <span>{menuLabel("系统分享", "System")}</span>
+              </button>
+              <button type="button" onClick={() => openPlatformShare("x")}>
+                <span className="share-platform-mark" aria-hidden="true">𝕏</span>
+                <span>X</span>
+              </button>
+              <button type="button" onClick={() => openPlatformShare("weibo")}>
+                <span className="share-platform-mark share-platform-mark-cjk" aria-hidden="true">微</span>
+                <span>{menuLabel("微博", "Weibo")}</span>
+              </button>
+              <button type="button" onClick={() => openPlatformShare("facebook")}>
+                <span className="share-platform-mark" aria-hidden="true">f</span>
+                <span>Facebook</span>
+              </button>
+              <button type="button" onClick={() => openPlatformShare("linkedin")}>
+                <span className="share-platform-mark share-platform-mark-small" aria-hidden="true">in</span>
+                <span>LinkedIn</span>
+              </button>
+            </div>
+          </div>
+
+          <div className="share-utilities">
+            <button
+              type="button"
+              className="share-save-button"
+              onClick={() => void saveImage(shareFormat, shareBlob, false)}
+              disabled={shareLoading || shareError || imageSaving}
+              aria-busy={imageSaving}
+            >
+              <span aria-hidden="true">↓</span>
+              <span>{imageSaving
+                ? menuLabel("正在保存", "Saving")
+                : menuLabel("保存图片", "Save image")}</span>
+            </button>
+            <button
+              type="button"
+              className="share-copy-button"
+              onClick={() => void copyThoughtText()}
+            >
+              <span aria-hidden="true">“”</span>
+              <span>{menuLabel("仅复制文本", "Copy text only")}</span>
+            </button>
+          </div>
+          <p className="share-platform-note">{menuLabel(
+            "平台按钮会带入当前观点；如需携带图片，请使用系统分享或先保存图片。",
+            "Platform buttons include the current thought. To include the image, use System Share or save it first.",
+          )}</p>
+
+          <div className="share-recommend-section">
+            <div>
+              <span className="share-section-label">{menuLabel("推荐给好友", "Recommend to a friend")}</span>
+              <small>{menuLabel("复制插件说明和 Chrome 商店链接", "Copy an introduction and Chrome Web Store link")}</small>
+            </div>
+            <button type="button" onClick={() => void copyRecommendation()}>
+              <span aria-hidden="true">＋</span>
+              <span>{menuLabel("复制推荐语", "Copy recommendation")}</span>
+            </button>
+          </div>
+        </section>
 
         <div
           className={`toast ${actionNotice ? "show" : ""}`}
@@ -1027,14 +1546,20 @@ export function PhilosophyMoment({ initialIndex = 0 }: { initialIndex?: number }
           aria-atomic="true"
         >
           {actionNotice === "copied"
-            ? menuLabel("已复制", "Thought copied")
-            : actionNotice === "image-saving"
-              ? menuLabel("正在生成图片…", "Creating image…")
-              : actionNotice === "image-saved"
-                ? menuLabel("图片已保存", "Image saved")
-                : actionNotice === "image-error"
-                  ? menuLabel("图片生成失败", "Could not create image")
-                  : null}
+            ? menuLabel("分享文案已复制", "Share text copied")
+            : actionNotice === "thought-copied"
+              ? menuLabel("观点文本已复制", "Thought copied")
+              : actionNotice === "recommendation-copied"
+                ? menuLabel("推荐语和商店链接已复制", "Recommendation and store link copied")
+                : actionNotice === "platform-opened"
+                ? menuLabel("已打开分享页；图片需手动添加", "Share page opened; add the image manually")
+                : actionNotice === "image-saving"
+                  ? menuLabel("正在生成图片…", "Creating image…")
+                  : actionNotice === "image-saved"
+                    ? menuLabel("图片已保存", "Image saved")
+                    : actionNotice === "image-error"
+                      ? menuLabel("图片生成失败", "Could not create image")
+                      : null}
         </div>
       </section>
     </main>

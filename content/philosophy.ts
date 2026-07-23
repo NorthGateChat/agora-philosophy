@@ -6,7 +6,18 @@ export type Thought = {
   englishLife: string;
   school: string;
   englishSchool: string;
-  topic: "存在" | "伦理" | "知识" | "政治" | "语言";
+  topic:
+    | "存在"
+    | "伦理"
+    | "知识"
+    | "政治"
+    | "语言"
+    | "实践"
+    | "矛盾"
+    | "群众"
+    | "方法"
+    | "文化"
+    | "战略";
   text: string;
   english: string;
   work: string;
@@ -16,6 +27,7 @@ export type Thought = {
   question: string;
   englishQuestion: string;
   palette: [string, string, string, string];
+  rendering?: "short-quote" | "paraphrase";
 };
 
 export const thoughts: Thought[] = [

@@ -1,22 +1,72 @@
-export type ThoughtCardStyle = "trajectory" | "marginalia" | "archive";
+export type ThoughtCardFormat = "mobile" | "desktop";
 
 export type ThoughtCardExport = {
-  brandName: string;
-  brandNameEnglish: string;
-  slogan: string;
-  topic: string;
-  sequence: string;
   quoteEnglish?: string;
   quoteChinese?: string;
+  quoteChineseFirst?: boolean;
   author: string;
   work: string;
   palette: readonly [string, string, string, string];
-  style: ThoughtCardStyle;
-  language: "zh-hans" | "zh-hant" | "en";
+  format?: ThoughtCardFormat;
 };
 
-const CARD_WIDTH = 1080;
-const CARD_HEIGHT = 1350;
+type CardLayout = {
+  width: number;
+  height: number;
+  quoteMaxWidth: number;
+  quoteMaxHeight: number;
+  bilingualEnglishSize: number;
+  bilingualChineseSize: number;
+  singleEnglishSize: number;
+  singleChineseSize: number;
+  minimumScale: number;
+  maxEnglishLines: number;
+  maxChineseLines: number;
+  attributionGap: number;
+  accentToAuthor: number;
+  authorToWork: number;
+  authorSize: number;
+  workSize: number;
+};
+
+const CARD_LAYOUTS: Record<ThoughtCardFormat, CardLayout> = {
+  mobile: {
+    width: 1080,
+    height: 1350,
+    quoteMaxWidth: 852,
+    quoteMaxHeight: 760,
+    bilingualEnglishSize: 41,
+    bilingualChineseSize: 61,
+    singleEnglishSize: 62,
+    singleChineseSize: 72,
+    minimumScale: 0.68,
+    maxEnglishLines: 5,
+    maxChineseLines: 4,
+    attributionGap: 72,
+    accentToAuthor: 34,
+    authorToWork: 14,
+    authorSize: 30,
+    workSize: 19,
+  },
+  desktop: {
+    width: 1600,
+    height: 900,
+    quoteMaxWidth: 1240,
+    quoteMaxHeight: 460,
+    bilingualEnglishSize: 43,
+    bilingualChineseSize: 64,
+    singleEnglishSize: 66,
+    singleChineseSize: 76,
+    minimumScale: 0.6,
+    maxEnglishLines: 4,
+    maxChineseLines: 3,
+    attributionGap: 52,
+    accentToAuthor: 26,
+    authorToWork: 10,
+    authorSize: 26,
+    workSize: 17,
+  },
+};
 const SANS_FONT = '"PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif';
 const SERIF_FONT = '"Songti SC", "STSong", "Noto Serif CJK SC", serif';
 
@@ -95,61 +145,100 @@ function drawLines(
   lines.forEach((line, index) => context.fillText(line, centerX, top + index * lineHeight));
 }
 
-function drawCornerMark(
+function drawTrackedText(
   context: CanvasRenderingContext2D,
-  x: number,
-  y: number,
-  horizontalDirection: 1 | -1,
-  verticalDirection: 1 | -1,
+  text: string,
+  right: number,
+  baseline: number,
+  tracking: number,
 ) {
-  context.beginPath();
-  context.moveTo(x + horizontalDirection * 34, y);
-  context.lineTo(x, y);
-  context.lineTo(x, y + verticalDirection * 34);
-  context.stroke();
+  const characters = Array.from(text);
+  const width = characters.reduce(
+    (total, character) => total + context.measureText(character).width,
+    tracking * Math.max(characters.length - 1, 0),
+  );
+  let x = right - width;
+
+  characters.forEach((character) => {
+    context.fillText(character, x, baseline);
+    x += context.measureText(character).width + tracking;
+  });
 }
 
-function drawStyleSignature(
+function drawOrbitSignature(
   context: CanvasRenderingContext2D,
-  style: ThoughtCardStyle,
   accent: string,
   softAccent: string,
+  card: CardLayout,
+  format: ThoughtCardFormat,
 ) {
   context.save();
-  context.lineWidth = 1.5;
-  context.strokeStyle = rgba(accent, 0.42);
-  context.fillStyle = rgba(accent, 0.56);
+  context.lineWidth = format === "desktop" ? 1.6 : 1.8;
 
-  if (style === "trajectory") {
+  const verticalX = card.width * (format === "desktop" ? 0.86 : 0.82);
+  const horizontalY = card.height * (format === "desktop" ? 0.83 : 0.86);
+  const verticalTop = card.height * (format === "desktop" ? 0.62 : 0.68);
+  const horizontalLeft = card.width * (format === "desktop" ? 0.66 : 0.48);
+
+  const verticalFade = context.createLinearGradient(verticalX, card.height, verticalX, verticalTop);
+  verticalFade.addColorStop(0, rgba(accent, 0.09));
+  verticalFade.addColorStop(1, rgba(accent, 0));
+  context.strokeStyle = verticalFade;
+  context.beginPath();
+  context.moveTo(verticalX, card.height);
+  context.lineTo(verticalX, verticalTop);
+  context.stroke();
+
+  const horizontalFade = context.createLinearGradient(card.width, horizontalY, horizontalLeft, horizontalY);
+  horizontalFade.addColorStop(0, rgba(accent, 0.09));
+  horizontalFade.addColorStop(1, rgba(accent, 0));
+  context.strokeStyle = horizontalFade;
+  context.beginPath();
+  context.moveTo(card.width, horizontalY);
+  context.lineTo(horizontalLeft, horizontalY);
+  context.stroke();
+
+  const rings = format === "desktop"
+    ? [
+        { x: 0.9, y: 1.036, radius: 0.46, color: accent, opacity: 0.1 },
+        { x: 0.83, y: 1.018, radius: 0.33, color: softAccent, opacity: 0.13 },
+        { x: 0.78, y: 1.018, radius: 0.18, color: accent, opacity: 0.16 },
+      ]
+    : [
+        { x: 0.93, y: 1.144, radius: 0.85, color: accent, opacity: 0.09 },
+        { x: 0.79, y: 1.024, radius: 0.64, color: softAccent, opacity: 0.12 },
+        { x: 0.7, y: 0.976, radius: 0.36, color: accent, opacity: 0.15 },
+      ];
+
+  rings.forEach((ring) => {
+    context.strokeStyle = rgba(ring.color, ring.opacity);
     context.beginPath();
-    context.moveTo(846, 1121);
-    context.bezierCurveTo(892, 1098, 934, 1116, 982, 1067);
+    context.arc(
+      card.width * ring.x,
+      card.height * ring.y,
+      card.width * ring.radius,
+      0,
+      Math.PI * 2,
+    );
     context.stroke();
-    [846, 916, 982].forEach((x, index) => {
-      const y = [1121, 1107, 1067][index];
-      context.beginPath();
-      context.arc(x, y, index === 1 ? 4.5 : 3, 0, Math.PI * 2);
-      context.fill();
-    });
-  } else if (style === "marginalia") {
-    context.strokeStyle = rgba(softAccent, 0.5);
-    context.beginPath();
-    context.moveTo(93, 245);
-    context.bezierCurveTo(73, 476, 109, 807, 86, 1078);
-    context.stroke();
-    context.beginPath();
-    context.moveTo(77, 513);
-    context.lineTo(99, 505);
-    context.moveTo(76, 535);
-    context.lineTo(96, 530);
-    context.stroke();
-  } else {
-    context.strokeStyle = rgba(accent, 0.36);
-    drawCornerMark(context, 62, 62, 1, 1);
-    drawCornerMark(context, CARD_WIDTH - 62, 62, -1, 1);
-    drawCornerMark(context, 62, CARD_HEIGHT - 62, 1, -1);
-    drawCornerMark(context, CARD_WIDTH - 62, CARD_HEIGHT - 62, -1, -1);
-  }
+  });
+
+  context.fillStyle = rgba(accent, 0.23);
+  context.beginPath();
+  context.arc(verticalX, horizontalY, format === "desktop" ? 4 : 4.5, 0, Math.PI * 2);
+  context.fill();
+
+  context.textAlign = "left";
+  context.textBaseline = "alphabetic";
+  setFont(context, format === "desktop" ? 17 : 20, SANS_FONT, 600);
+  context.fillStyle = rgba(accent, 0.5);
+  drawTrackedText(
+    context,
+    "AGORA",
+    card.width - (format === "desktop" ? 76 : 62),
+    card.height - (format === "desktop" ? 56 : 54),
+    format === "desktop" ? 5 : 6,
+  );
   context.restore();
 }
 
@@ -157,17 +246,22 @@ function fitQuoteLayout(
   context: CanvasRenderingContext2D,
   quoteEnglish: string | undefined,
   quoteChinese: string | undefined,
+  card: CardLayout,
 ) {
   const isBilingual = Boolean(quoteEnglish && quoteChinese);
   let scale = 1;
 
-  while (scale >= 0.68) {
-    const englishSize = Math.round((isBilingual ? 41 : 62) * scale);
-    const chineseSize = Math.round((isBilingual ? 61 : 72) * scale);
+  while (scale >= card.minimumScale) {
+    const englishSize = Math.round(
+      (isBilingual ? card.bilingualEnglishSize : card.singleEnglishSize) * scale,
+    );
+    const chineseSize = Math.round(
+      (isBilingual ? card.bilingualChineseSize : card.singleChineseSize) * scale,
+    );
     setFont(context, englishSize, SERIF_FONT, 400, "italic");
-    const englishLines = quoteEnglish ? wrapWords(context, quoteEnglish, 852) : [];
+    const englishLines = quoteEnglish ? wrapWords(context, quoteEnglish, card.quoteMaxWidth) : [];
     setFont(context, chineseSize, SERIF_FONT, 400);
-    const chineseLines = quoteChinese ? wrapCharacters(context, quoteChinese, 852) : [];
+    const chineseLines = quoteChinese ? wrapCharacters(context, quoteChinese, card.quoteMaxWidth) : [];
     const englishLineHeight = Math.round(englishSize * 1.42);
     const chineseLineHeight = Math.round(chineseSize * 1.55);
     const gap = isBilingual ? Math.round(49 * scale) : 0;
@@ -175,7 +269,11 @@ function fitQuoteLayout(
       + chineseLines.length * chineseLineHeight
       + gap;
 
-    if (height <= 620 && englishLines.length <= 5 && chineseLines.length <= 4) {
+    if (
+      height <= card.quoteMaxHeight
+      && englishLines.length <= card.maxEnglishLines
+      && chineseLines.length <= card.maxChineseLines
+    ) {
       return {
         englishLines,
         chineseLines,
@@ -190,116 +288,103 @@ function fitQuoteLayout(
     scale -= 0.04;
   }
 
-  setFont(context, 31, SERIF_FONT, 400, "italic");
-  const englishLines = quoteEnglish ? wrapWords(context, quoteEnglish, 852) : [];
-  setFont(context, 46, SERIF_FONT, 400);
-  const chineseLines = quoteChinese ? wrapCharacters(context, quoteChinese, 852) : [];
+  const fallbackEnglishSize = Math.round(card.bilingualEnglishSize * card.minimumScale);
+  const fallbackChineseSize = Math.round(card.bilingualChineseSize * card.minimumScale);
+  setFont(context, fallbackEnglishSize, SERIF_FONT, 400, "italic");
+  const englishLines = quoteEnglish ? wrapWords(context, quoteEnglish, card.quoteMaxWidth) : [];
+  setFont(context, fallbackChineseSize, SERIF_FONT, 400);
+  const chineseLines = quoteChinese ? wrapCharacters(context, quoteChinese, card.quoteMaxWidth) : [];
+  const fallbackEnglishLineHeight = Math.round(fallbackEnglishSize * 1.42);
+  const fallbackChineseLineHeight = Math.round(fallbackChineseSize * 1.55);
+  const fallbackGap = quoteEnglish && quoteChinese ? Math.round(49 * card.minimumScale) : 0;
   return {
     englishLines,
     chineseLines,
-    englishSize: 31,
-    chineseSize: 46,
-    englishLineHeight: 44,
-    chineseLineHeight: 71,
-    gap: quoteEnglish && quoteChinese ? 34 : 0,
-    height: englishLines.length * 44 + chineseLines.length * 71 + (quoteEnglish && quoteChinese ? 34 : 0),
+    englishSize: fallbackEnglishSize,
+    chineseSize: fallbackChineseSize,
+    englishLineHeight: fallbackEnglishLineHeight,
+    chineseLineHeight: fallbackChineseLineHeight,
+    gap: fallbackGap,
+    height: englishLines.length * fallbackEnglishLineHeight
+      + chineseLines.length * fallbackChineseLineHeight
+      + fallbackGap,
   };
 }
 
 export async function renderThoughtCard(input: ThoughtCardExport): Promise<Blob> {
   if (document.fonts) await document.fonts.ready;
 
+  const format = input.format ?? "mobile";
+  const card = CARD_LAYOUTS[format];
   const canvas = document.createElement("canvas");
-  canvas.width = CARD_WIDTH;
-  canvas.height = CARD_HEIGHT;
+  canvas.width = card.width;
+  canvas.height = card.height;
   const context = canvas.getContext("2d");
   if (!context) throw new Error("Canvas rendering is unavailable");
 
   const [paper, softAccent, accent, ink] = input.palette;
   context.fillStyle = paper;
-  context.fillRect(0, 0, CARD_WIDTH, CARD_HEIGHT);
-  drawStyleSignature(context, input.style, accent, softAccent);
+  context.fillRect(0, 0, card.width, card.height);
+  drawOrbitSignature(context, accent, softAccent, card, format);
 
   context.textBaseline = "top";
-  context.textAlign = "left";
-  context.fillStyle = ink;
-  setFont(context, 33, SANS_FONT, 600);
-  context.fillText(input.brandName, 88, 78);
-  setFont(context, 13, SANS_FONT, 500);
-  context.letterSpacing = "2.8px";
-  context.globalAlpha = 0.52;
-  context.fillText(input.brandNameEnglish.toUpperCase(), 88, 125);
-
-  context.textAlign = "right";
-  setFont(context, 13, SANS_FONT, 500);
-  context.fillText(`${input.topic.toUpperCase()}  /  ${input.sequence}`, 992, 92);
-  context.letterSpacing = "0px";
-  context.globalAlpha = 1;
-
-  context.strokeStyle = rgba(ink, 0.2);
-  context.lineWidth = 1;
-  context.beginPath();
-  context.moveTo(88, 176);
-  context.lineTo(992, 176);
-  context.stroke();
-
   context.textAlign = "center";
-  context.fillStyle = rgba(ink, 0.48);
-  setFont(context, 13, SANS_FONT, 500);
-  context.letterSpacing = "2.6px";
-  context.fillText(
-    input.language === "en" ? "INTERPRETIVE RENDERING" : "命题译写  ·  INTERPRETIVE RENDERING",
-    CARD_WIDTH / 2,
-    244,
+  const layout = fitQuoteLayout(context, input.quoteEnglish, input.quoteChinese, card);
+  const authorLineHeight = Math.round(card.authorSize * 1.35);
+  const workLineHeight = Math.round(card.workSize * 1.45);
+  const attributionHeight = card.attributionGap
+    + 2
+    + card.accentToAuthor
+    + authorLineHeight
+    + card.authorToWork
+    + workLineHeight;
+  const quoteBlockTop = Math.max(
+    72,
+    (card.height - layout.height - attributionHeight) / 2,
   );
-  context.letterSpacing = "0px";
-
-  const layout = fitQuoteLayout(context, input.quoteEnglish, input.quoteChinese);
-  const quoteAreaTop = 318;
-  const quoteAreaHeight = 616;
-  let quoteTop = quoteAreaTop + Math.max(0, (quoteAreaHeight - layout.height) / 2);
+  let quoteTop = quoteBlockTop;
   context.fillStyle = ink;
 
-  if (layout.englishLines.length > 0) {
+  const drawEnglishQuote = (hasFollowingQuote: boolean) => {
+    if (layout.englishLines.length === 0) return;
     setFont(context, layout.englishSize, SERIF_FONT, 400, "italic");
     context.globalAlpha = input.quoteChinese ? 0.67 : 0.9;
-    drawLines(context, layout.englishLines, CARD_WIDTH / 2, quoteTop, layout.englishLineHeight);
-    quoteTop += layout.englishLines.length * layout.englishLineHeight + layout.gap;
-  }
+    drawLines(context, layout.englishLines, card.width / 2, quoteTop, layout.englishLineHeight);
+    quoteTop += layout.englishLines.length * layout.englishLineHeight
+      + (hasFollowingQuote ? layout.gap : 0);
+  };
 
-  if (layout.chineseLines.length > 0) {
+  const drawChineseQuote = (hasFollowingQuote: boolean) => {
+    if (layout.chineseLines.length === 0) return;
     setFont(context, layout.chineseSize, SERIF_FONT, 400);
     context.globalAlpha = 0.92;
-    drawLines(context, layout.chineseLines, CARD_WIDTH / 2, quoteTop, layout.chineseLineHeight);
+    drawLines(context, layout.chineseLines, card.width / 2, quoteTop, layout.chineseLineHeight);
+    quoteTop += layout.chineseLines.length * layout.chineseLineHeight
+      + (hasFollowingQuote ? layout.gap : 0);
+  };
+
+  if (input.quoteChineseFirst) {
+    drawChineseQuote(layout.englishLines.length > 0);
+    drawEnglishQuote(false);
+  } else {
+    drawEnglishQuote(layout.chineseLines.length > 0);
+    drawChineseQuote(false);
   }
   context.globalAlpha = 1;
 
+  const accentY = quoteBlockTop + layout.height + card.attributionGap;
+  const authorY = accentY + 2 + card.accentToAuthor;
+  const workY = authorY + authorLineHeight + card.authorToWork;
   context.fillStyle = accent;
-  context.fillRect(CARD_WIDTH / 2 - 22, 1015, 44, 2);
+  context.fillRect(card.width / 2 - 22, accentY, 44, 2);
   context.fillStyle = ink;
   context.textAlign = "center";
-  setFont(context, 28, SANS_FONT, 500);
-  context.fillText(input.author, CARD_WIDTH / 2, 1052);
+  setFont(context, card.authorSize, SANS_FONT, 500);
+  context.fillText(input.author, card.width / 2, authorY);
   context.globalAlpha = 0.56;
-  setFont(context, 18, SERIF_FONT, 400);
-  context.fillText(input.work, CARD_WIDTH / 2, 1102);
+  setFont(context, card.workSize, SERIF_FONT, 400);
+  context.fillText(input.work, card.width / 2, workY);
   context.globalAlpha = 1;
-
-  context.strokeStyle = rgba(ink, 0.16);
-  context.beginPath();
-  context.moveTo(88, 1192);
-  context.lineTo(992, 1192);
-  context.stroke();
-
-  context.textAlign = "left";
-  context.fillStyle = rgba(ink, 0.55);
-  setFont(context, 16, SANS_FONT, 400);
-  context.fillText(input.slogan, 88, 1236);
-  context.textAlign = "right";
-  setFont(context, 12, SANS_FONT, 500);
-  context.letterSpacing = "2.2px";
-  context.fillText("PHILOSOPHY / NEW TAB", 992, 1241);
-  context.letterSpacing = "0px";
 
   return new Promise((resolve, reject) => {
     canvas.toBlob((blob) => {
@@ -329,7 +414,12 @@ export function downloadBlob(blob: Blob, filename: string) {
   window.setTimeout(() => URL.revokeObjectURL(url), 1000);
 }
 
-export function thoughtCardFilename(brandName: string, author: string) {
+export function thoughtCardFilename(
+  brandName: string,
+  author: string,
+  format?: ThoughtCardFormat,
+) {
   const date = new Date().toISOString().slice(0, 10).replaceAll("-", "");
-  return `${safeFilePart(brandName)}-${safeFilePart(author)}-${date}.png`;
+  const formatSuffix = format ? `-${format}` : "";
+  return `${safeFilePart(brandName)}-${safeFilePart(author)}${formatSuffix}-${date}.png`;
 }
