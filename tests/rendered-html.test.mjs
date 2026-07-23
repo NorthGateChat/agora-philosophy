@@ -61,9 +61,11 @@ test("server-renders the minimal full-screen AGORA experience", async () => {
   assert.match(html, /移动端/);
   assert.match(html, /PC 端/);
   assert.match(html, /系统分享/);
-  assert.match(html, /仅复制文本/);
+  assert.match(html, /复制文本/);
   assert.match(html, /推荐给好友/);
-  assert.match(html, /复制推荐语/);
+  assert.match(html, /复制推荐语和 Chrome 商店链接/);
+  assert.match(html, /menu-project[\s\S]*推荐给好友[\s\S]*share-dialog/);
+  assert.doesNotMatch(html, /share-recommend-section/);
   assert.match(html, /保存图片/);
   assert.match(html, /<kbd>D<\/kbd>/);
   assert.match(html, /<kbd>Esc<\/kbd>/);
@@ -194,8 +196,12 @@ test("hydrates the website index and chooses a fresh thought from the selected c
   assert.match(client, /chooseShareFormat\("desktop"\)/);
   assert.match(client, /navigator\.clipboard\.writeText\(thoughtCopyText\)/);
   assert.match(client, /navigator\.clipboard\.writeText\(recommendationText\)/);
-  assert.match(client, /openPlatformShare\("x"\)/);
-  assert.match(client, /openPlatformShare\("weibo"\)/);
+  assert.match(client, /className="share-action-primary"/);
+  assert.match(client, /className="share-action-secondary"/);
+  assert.match(client, /系统分享/);
+  assert.match(client, /保存图片/);
+  assert.match(client, /复制文本/);
+  assert.doesNotMatch(client, /openPlatformShare|SharePlatform|share-platforms/);
   assert.match(client, /navigator\.canShare\?\.\(\{ files: \[file\] \}\)/);
   assert.match(client, /url: brand\.storeUrl/);
   assert.match(client, /分享观点/);

@@ -8,19 +8,24 @@
 | `small-promo-440x280.png` | 440×280 | 小型宣传图，商店必需 |
 | `marquee-1400x560.png` | 1400×560 | Marquee 宣传图，可选 |
 | `screenshot-1280x800-main.png` | 1280×800 | 首页真实体验截图，商店截图 1 |
-| `screenshot-1280x800-context.png` | 1280×800 | 思想脉络详情真实体验截图，商店截图 2 |
+| `screenshot-1280x800-detail.png` | 1280×800 | 双栏深度解读，商店截图 2 |
+| `screenshot-1280x800-share.png` | 1280×800 | 分享图及保存图片、复制文本与系统分享，商店截图 3 |
+| `screenshot-1280x800-controls.png` | 1280×800 | 内容、样式、语言与快捷键设置，商店截图 4 |
+| `screenshot-1280x800-onboarding.png` | 1280×800 | 首次使用引导，商店截图 5 |
 
 ## 后台上传位置
 
 - **商店图标**：`store-icon-128.png`
-- **全球通用的屏幕截图（必填回退素材）**：依次上传 `screenshot-1280x800-main.png`、`screenshot-1280x800-context.png`
-- **以当地语言显示的屏幕截图（简体中文）**：可以复用上面两张；它们本身就是简中主界面并同时呈现英文原句
+- **全球通用的屏幕截图（必填回退素材）**：依次上传 `screenshot-1280x800-main.png`、`screenshot-1280x800-detail.png`、`screenshot-1280x800-share.png`、`screenshot-1280x800-controls.png`、`screenshot-1280x800-onboarding.png`
+- **以当地语言显示的屏幕截图（简体中文）**：可以复用上面五张；它们本身就是简中主界面并同时呈现英文原句
 - **小型宣传图块**：`small-promo-440x280.png`
 - **顶部宣传图块**：`marquee-1400x560.png`
 - **宣传视频**：可留空，等有真实演示视频后再填 YouTube 链接
 
-商店图标是带透明留白的 128×128 PNG；两张产品截图与两张宣传图均为无透明通道的 24 位 RGB PNG。
+商店图标是带透明留白的 128×128 PNG；五张产品截图与两张宣传图均为无透明通道的 24 位 RGB PNG。
+
+`screenshot-1280x800-context.png` 是为旧脚本保留的详情截图兼容副本，与 `screenshot-1280x800-detail.png` 内容相同，不要重复上传。
 
 `public/social-share.png`（1200×630）用于网站链接预览和社交媒体，不上传到 Chrome Web Store。
 
-图标与宣传图会由 `npm run build:extension` 重新生成；两张产品截图不会自动生成。发布前如 UI 有变化，应重新截取 1280×800、无边框、无留白的真实页面，并运行 `npm run test:extension` 校验格式、尺寸与透明通道。
+图标与宣传图会由 `npm run build:extension` 重新生成；五张产品截图不会自动生成。发布前如 UI 有变化，应重新截取 1280×800、无边框、无留白的真实页面，并运行 `npm run test:extension` 校验格式、尺寸与透明通道。

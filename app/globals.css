@@ -41,7 +41,7 @@ button {
   isolation: isolate;
   width: 100%;
   min-height: 100svh;
-  overflow: hidden;
+  overflow: clip;
   background: var(--paper);
   color: var(--ink);
   transition: background-color 700ms ease, color 700ms ease;
@@ -870,6 +870,12 @@ blockquote {
   opacity: 1;
 }
 
+.menu-project-action {
+  font-size: 8px;
+  letter-spacing: 0.08em;
+  opacity: 0.58;
+}
+
 .style-archive .manuscript-index strong {
   font-size: 70px;
   font-weight: 300;
@@ -949,6 +955,7 @@ blockquote {
   bottom: 0;
   left: 0;
   z-index: 11;
+  visibility: hidden;
   max-height: 92svh;
   padding: 11px 0 0;
   overflow-y: auto;
@@ -958,7 +965,9 @@ blockquote {
   background: color-mix(in srgb, var(--paper) 93%, white);
   box-shadow: 0 -18px 60px rgb(0 0 0 / 0.14);
   transform: translateY(104%);
-  transition: transform 450ms cubic-bezier(0.22, 1, 0.36, 1);
+  transition:
+    transform 450ms cubic-bezier(0.22, 1, 0.36, 1),
+    visibility 450ms;
 }
 
 .detail-sheet-content {
@@ -967,6 +976,7 @@ blockquote {
 }
 
 .detail-sheet.open {
+  visibility: visible;
   transform: translateY(0);
 }
 
@@ -1626,7 +1636,7 @@ blockquote {
 }
 
 .share-format-row,
-.share-platform-section {
+.share-actions-section {
   margin-top: 18px;
 }
 
@@ -1683,155 +1693,74 @@ blockquote {
   opacity: 1;
 }
 
-.share-platform-section > .share-section-label {
+.share-actions-section > .share-section-label {
   display: block;
   margin-bottom: 10px;
 }
 
-.share-platforms {
-  display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
-  gap: 7px;
-}
-
-.share-platforms button {
-  display: flex;
-  min-width: 0;
-  min-height: 61px;
-  padding: 8px 3px 7px;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-  border: 1px solid color-mix(in srgb, var(--ink) 12%, transparent);
-  border-radius: 3px;
-  background: transparent;
-  cursor: pointer;
-  font-size: clamp(7px, 2.25vw, 9px);
-  line-height: 1.2;
-  opacity: 0.7;
-  transition: border-color 160ms ease, background-color 160ms ease, opacity 160ms ease;
-}
-
-.share-platforms button:hover {
-  border-color: color-mix(in srgb, var(--ink) 28%, transparent);
-  background: color-mix(in srgb, var(--wave-1) 8%, transparent);
-  opacity: 1;
-}
-
-.share-platforms button:disabled {
-  cursor: wait;
-  opacity: 0.28;
-}
-
-.share-platform-mark {
-  display: grid;
-  width: 27px;
-  height: 27px;
-  place-items: center;
-  border: 1px solid color-mix(in srgb, var(--ink) 24%, transparent);
-  border-radius: 50%;
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-  font-weight: 600;
-  line-height: 1;
-}
-
-.share-platform-mark-cjk {
-  font-family: var(--sans);
-  font-size: 11px;
-}
-
-.share-platform-mark-small {
-  font-size: 10px;
-}
-
-.share-utilities {
+.share-actions {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 9px;
-  margin-top: 16px;
 }
 
-.share-utilities button {
+.share-actions button {
   display: inline-flex;
+  min-width: 0;
+  min-height: 44px;
+  padding: 10px 12px;
   align-items: center;
   justify-content: center;
   gap: 9px;
-  min-height: 43px;
-  padding: 9px 12px;
-  border: 1px solid var(--ink);
+  border: 1px solid color-mix(in srgb, var(--ink) 26%, transparent);
   border-radius: 3px;
   cursor: pointer;
   font-size: 10px;
   letter-spacing: 0.04em;
+  transition:
+    transform 100ms ease-out,
+    border-color 160ms ease,
+    background-color 160ms ease,
+    opacity 160ms ease;
 }
 
-.share-save-button {
+.share-action-secondary {
+  background: transparent;
+  color: var(--ink);
+}
+
+.share-action-primary {
+  grid-row: 1;
+  grid-column: 1 / -1;
+  border-color: var(--ink);
   background: var(--ink);
   color: var(--paper);
 }
 
-.share-copy-button {
-  background: transparent;
-  color: var(--ink);
+.share-actions button:hover:not(:disabled) {
+  border-color: color-mix(in srgb, var(--ink) 55%, transparent);
 }
 
-.share-utilities button:disabled {
+.share-action-secondary:hover:not(:disabled) {
+  background: color-mix(in srgb, var(--wave-1) 8%, transparent);
+}
+
+.share-action-primary:hover:not(:disabled) {
+  background: color-mix(in srgb, var(--ink) 91%, var(--paper));
+}
+
+.share-actions button:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.share-actions button:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--ink) 60%, transparent);
+  outline-offset: 2px;
+}
+
+.share-actions button:disabled {
   cursor: wait;
   opacity: 0.38;
-}
-
-.share-platform-note {
-  margin: 10px 0 0;
-  font-size: 8px;
-  line-height: 1.55;
-  text-align: center;
-  opacity: 0.38;
-}
-
-.share-recommend-section {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 18px;
-  margin-top: 16px;
-  padding-top: 14px;
-  border-top: 1px solid color-mix(in srgb, var(--ink) 10%, transparent);
-}
-
-.share-recommend-section > div {
-  min-width: 0;
-}
-
-.share-recommend-section small {
-  display: block;
-  margin-top: 5px;
-  font-size: 8px;
-  line-height: 1.45;
-  opacity: 0.4;
-}
-
-.share-recommend-section button {
-  display: inline-flex;
-  flex: 0 0 auto;
-  align-items: center;
-  justify-content: center;
-  gap: 7px;
-  min-height: 37px;
-  padding: 8px 12px;
-  border: 1px solid color-mix(in srgb, var(--ink) 20%, transparent);
-  border-radius: 3px;
-  background: transparent;
-  color: var(--ink);
-  cursor: pointer;
-  font-size: 9px;
-  transition: border-color 160ms ease, background-color 160ms ease;
-}
-
-.share-recommend-section button:hover {
-  border-color: color-mix(in srgb, var(--ink) 38%, transparent);
-  background: color-mix(in srgb, var(--ink) 4%, transparent);
 }
 
 .onboarding-hint {
@@ -2094,7 +2023,7 @@ button:focus-visible {
   }
 
   .share-dialog {
-    position: absolute;
+    position: fixed;
     top: 50%;
     right: auto;
     bottom: auto;
@@ -2115,8 +2044,13 @@ button:focus-visible {
     width: 276px;
   }
 
-  .share-platforms button {
-    font-size: 9px;
+  .share-actions {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.55fr);
+  }
+
+  .share-action-primary {
+    grid-row: auto;
+    grid-column: auto;
   }
 
   .detail-sheet {

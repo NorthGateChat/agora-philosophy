@@ -98,7 +98,11 @@ test("extension icons and release artwork have exact dimensions", async () => {
     ["store-assets/small-promo-440x280.png", 440, 280],
     ["store-assets/marquee-1400x560.png", 1400, 560],
     ["store-assets/screenshot-1280x800-main.png", 1280, 800],
+    ["store-assets/screenshot-1280x800-detail.png", 1280, 800],
     ["store-assets/screenshot-1280x800-context.png", 1280, 800],
+    ["store-assets/screenshot-1280x800-share.png", 1280, 800],
+    ["store-assets/screenshot-1280x800-controls.png", 1280, 800],
+    ["store-assets/screenshot-1280x800-onboarding.png", 1280, 800],
     ["public/social-share.png", 1200, 630],
   ];
 
@@ -113,7 +117,11 @@ test("store screenshots and promo artwork are 24-bit RGB PNGs", async () => {
     "store-assets/small-promo-440x280.png",
     "store-assets/marquee-1400x560.png",
     "store-assets/screenshot-1280x800-main.png",
+    "store-assets/screenshot-1280x800-detail.png",
     "store-assets/screenshot-1280x800-context.png",
+    "store-assets/screenshot-1280x800-share.png",
+    "store-assets/screenshot-1280x800-controls.png",
+    "store-assets/screenshot-1280x800-onboarding.png",
   ]) {
     const buffer = await readFile(resolve(projectRoot, path));
     assert.equal(pngColorType(buffer), 2, `${path} must not contain alpha`);

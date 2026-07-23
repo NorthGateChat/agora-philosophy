@@ -56,11 +56,9 @@ type ActionNotice =
   | "copied"
   | "thought-copied"
   | "recommendation-copied"
-  | "platform-opened"
   | "image-saving"
   | "image-saved"
   | "image-error";
-type SharePlatform = "x" | "weibo" | "facebook" | "linkedin";
 type OnboardingHint = "quote" | "navigate" | "menu";
 type OnboardingHints = Record<OnboardingHint, boolean>;
 const initialOnboardingHints: OnboardingHints = {
@@ -632,6 +630,8 @@ export function PhilosophyMoment({
           ? detailCloseButtonRef.current
           : quoteStageRef.current;
     setMenuOpen(false);
+    setDetailOpen(false);
+    setComparisonKey(null);
     setShareBlob(null);
     setSharePreviewUrl(null);
     setShareError(false);
@@ -649,6 +649,7 @@ export function PhilosophyMoment({
   useEffect(() => {
     if (!shareOpen) return;
     const frame = window.requestAnimationFrame(() => {
+      shareDialogRef.current?.scrollTo({ top: 0 });
       shareCloseButtonRef.current?.focus({ preventScroll: true });
     });
     return () => window.cancelAnimationFrame(frame);
@@ -724,19 +725,6 @@ export function PhilosophyMoment({
       setActionNotice(null);
     }
   }, [recommendationText, showActionNotice]);
-
-  const openPlatformShare = useCallback((platform: SharePlatform) => {
-    const encodedLink = encodeURIComponent(brand.storeUrl);
-    const encodedText = encodeURIComponent(shareText);
-    const destinations: Record<SharePlatform, string> = {
-      x: `https://x.com/intent/tweet?text=${encodedText}&url=${encodedLink}`,
-      weibo: `https://service.weibo.com/share/share.php?title=${encodedText}&url=${encodedLink}`,
-      facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedLink}`,
-      linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedLink}`,
-    };
-    window.open(destinations[platform], "_blank", "noopener,noreferrer,width=760,height=720");
-    showActionNotice("platform-opened", 2600);
-  }, [shareText, showActionNotice]);
 
   const shareViaSystem = useCallback(async () => {
     try {
@@ -1123,6 +1111,17 @@ export function PhilosophyMoment({
               <span>{menuLabel("新手引导", "Quick guide")}</span>
               <span aria-hidden="true">?</span>
             </button>
+            <button
+              type="button"
+              onClick={() => void copyRecommendation()}
+              aria-label={menuLabel(
+                "复制推荐语和 Chrome 商店链接",
+                "Copy recommendation and Chrome Web Store link",
+              )}
+            >
+              <span>{menuLabel("推荐给好友", "Recommend to a friend")}</span>
+              <span className="menu-project-action">{menuLabel("复制", "Copy")}</span>
+            </button>
           </div>
         </div>
         <button
@@ -1402,8 +1401,8 @@ export function PhilosophyMoment({
             >×</button>
           </div>
           <p id="share-description" className="sr-only">{menuLabel(
-            "预览并选择移动端或 PC 端分享图，然后分享到平台、保存图片、复制观点文本或推荐给好友。",
-            "Preview a mobile or desktop share image, then share it, save it, copy the thought, or recommend AGORA to a friend.",
+            "预览并选择移动端或 PC 端分享图，然后使用系统分享、保存图片或复制观点文本。",
+            "Preview a mobile or desktop share image, then use system share, save the image, or copy the thought.",
           )}</p>
 
           <div
@@ -1470,73 +1469,41 @@ export function PhilosophyMoment({
             </div>
           </div>
 
-          <div className="share-platform-section">
-            <span className="share-section-label">{menuLabel("分享到", "Share to")}</span>
-            <div className="share-platforms">
+          <div className="share-actions-section">
+            <span className="share-section-label">{menuLabel("分享到", "Share")}</span>
+            <div className="share-actions">
               <button
                 type="button"
+                className="share-action-secondary"
+                onClick={() => void saveImage(shareFormat, shareBlob, false)}
+                disabled={shareLoading || shareError || imageSaving}
+                aria-busy={imageSaving}
+              >
+                <span aria-hidden="true">↓</span>
+                <span>{imageSaving
+                  ? menuLabel("正在保存", "Saving")
+                  : menuLabel("保存图片", "Save image")}</span>
+              </button>
+              <button
+                type="button"
+                className="share-action-secondary"
+                onClick={() => void copyThoughtText()}
+              >
+                <span aria-hidden="true">“”</span>
+                <span>{menuLabel("复制文本", "Copy text")}</span>
+              </button>
+              <button
+                type="button"
+                className="share-action-primary"
                 onClick={() => void shareViaSystem()}
                 disabled={shareLoading || shareError}
               >
-                <span className="share-platform-mark" aria-hidden="true">↗</span>
-                <span>{menuLabel("系统分享", "System")}</span>
-              </button>
-              <button type="button" onClick={() => openPlatformShare("x")}>
-                <span className="share-platform-mark" aria-hidden="true">𝕏</span>
-                <span>X</span>
-              </button>
-              <button type="button" onClick={() => openPlatformShare("weibo")}>
-                <span className="share-platform-mark share-platform-mark-cjk" aria-hidden="true">微</span>
-                <span>{menuLabel("微博", "Weibo")}</span>
-              </button>
-              <button type="button" onClick={() => openPlatformShare("facebook")}>
-                <span className="share-platform-mark" aria-hidden="true">f</span>
-                <span>Facebook</span>
-              </button>
-              <button type="button" onClick={() => openPlatformShare("linkedin")}>
-                <span className="share-platform-mark share-platform-mark-small" aria-hidden="true">in</span>
-                <span>LinkedIn</span>
+                <span aria-hidden="true">↗</span>
+                <span>{menuLabel("系统分享", "System share")}</span>
               </button>
             </div>
           </div>
 
-          <div className="share-utilities">
-            <button
-              type="button"
-              className="share-save-button"
-              onClick={() => void saveImage(shareFormat, shareBlob, false)}
-              disabled={shareLoading || shareError || imageSaving}
-              aria-busy={imageSaving}
-            >
-              <span aria-hidden="true">↓</span>
-              <span>{imageSaving
-                ? menuLabel("正在保存", "Saving")
-                : menuLabel("保存图片", "Save image")}</span>
-            </button>
-            <button
-              type="button"
-              className="share-copy-button"
-              onClick={() => void copyThoughtText()}
-            >
-              <span aria-hidden="true">“”</span>
-              <span>{menuLabel("仅复制文本", "Copy text only")}</span>
-            </button>
-          </div>
-          <p className="share-platform-note">{menuLabel(
-            "平台按钮会带入当前观点；如需携带图片，请使用系统分享或先保存图片。",
-            "Platform buttons include the current thought. To include the image, use System Share or save it first.",
-          )}</p>
-
-          <div className="share-recommend-section">
-            <div>
-              <span className="share-section-label">{menuLabel("推荐给好友", "Recommend to a friend")}</span>
-              <small>{menuLabel("复制插件说明和 Chrome 商店链接", "Copy an introduction and Chrome Web Store link")}</small>
-            </div>
-            <button type="button" onClick={() => void copyRecommendation()}>
-              <span aria-hidden="true">＋</span>
-              <span>{menuLabel("复制推荐语", "Copy recommendation")}</span>
-            </button>
-          </div>
         </section>
 
         <div
@@ -1551,8 +1518,6 @@ export function PhilosophyMoment({
               ? menuLabel("观点文本已复制", "Thought copied")
               : actionNotice === "recommendation-copied"
                 ? menuLabel("推荐语和商店链接已复制", "Recommendation and store link copied")
-                : actionNotice === "platform-opened"
-                ? menuLabel("已打开分享页；图片需手动添加", "Share page opened; add the image manually")
                 : actionNotice === "image-saving"
                   ? menuLabel("正在生成图片…", "Creating image…")
                   : actionNotice === "image-saved"

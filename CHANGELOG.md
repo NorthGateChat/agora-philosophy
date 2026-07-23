@@ -6,6 +6,18 @@
 
 暂无。
 
+## [0.2.1] - 2026-07-24
+
+### Added
+
+- 新增五张与当前界面一致的 Chrome Web Store 产品截图，并补充截图规格校验。
+
+### Changed
+
+- 分享面板精简为“系统分享、保存图片、复制文本”三个操作，突出系统分享主入口。
+- “推荐给好友”移至设置菜单的“项目”分组，复制推荐语与 Chrome 商店链接更符合使用场景。
+- 优化详情弹窗与分享弹窗的打开状态、滚动位置和键盘焦点体验。
+
 ## [0.2.0] - 2026-07-24
 
 ### Added
@@ -32,6 +44,7 @@
 - 可公开贡献的独立开源仓库、社区规范与自动化检查。
 - 独立的哲学内容目录，以及设置菜单中的源码与反馈入口。
 
-[Unreleased]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.2.0...HEAD
+[Unreleased]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.2.1...HEAD
+[0.2.1]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/NorthGateChat/agora-philosophy/releases/tag/v0.1.0
