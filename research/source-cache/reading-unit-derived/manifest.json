@@ -374,6 +374,35 @@
       ]
     },
     {
+      "batch": "curation-2026-08-30",
+      "sourceUrl": "https://repository.rothamsted.ac.uk/id/eprint/20740",
+      "retrievalUrl": "https://repository.rothamsted.ac.uk/id/eprint/20740/1/Fisher%20Arrangment%20of%20field%20experiments%20J%20Ministry%20%20of%20Agriculture%201926%20p%20503%20to%20513.pdf",
+      "useBasis": "open-license",
+      "sourcePdfPath": "research/source-cache/reading-unit-origins/papers/fisher-arrangement-field-experiments-1926.pdf",
+      "sourcePdfSha256": "b7bedcda96ac77bbee3c9f750318bbe5d6104fec9db012bfe5d99d8d16049432",
+      "command": "pdftotext -layout research/source-cache/reading-unit-origins/papers/fisher-arrangement-field-experiments-1926.pdf - for cover metadata; render article pages at 180 dpi, OCR them, then visually collate every paragraph against the scan",
+      "boundary": {
+        "pdfPageIndexesInclusive": [
+          2,
+          12
+        ],
+        "printedPagesInclusive": [
+          503,
+          513
+        ]
+      },
+      "corrections": [
+        "The PDF is an image scan: retain the complete article body and references after OCR, then verify the transcription against the original-journal pages.",
+        "Omit running page numerals and the two-dimensional labels inside Figure 1; retain its caption and surrounding discussion."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/fisher-arrangement-field-experiments-1926.txt",
+      "outputBytes": 24792,
+      "outputSha256": "835f1cbd5ca157db8c7d86c4f7460d05b812a3ad04a76cb1cbe3627c93356df8",
+      "matchedThoughtIds": [
+        "science-fisher-randomized-plots"
+      ]
+    },
+    {
       "sourceUrl": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf",
       "useBasis": "public-domain",
       "sourcePdfPath": "research/source-cache/reading-unit-origins/papers/festinger-carlsmith-1959.pdf",

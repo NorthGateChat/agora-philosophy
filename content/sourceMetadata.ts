@@ -546,6 +546,59 @@ const economicsThoughtReferenceLinks: Partial<Record<string, readonly ReferenceL
   "economics-principles-menger-higher-order-goods": economicsReferenceLinks.menger,
 };
 
+const psychologyThoughtReferenceLinks: Partial<Record<string, readonly ReferenceLink[]>> = {
+  "psychology-foundations-allport-odbert-lexical-traits": [{
+    href: "https://doi.org/10.1037/h0093360",
+    label: "DOI：奥尔波特与奥德伯特〈特质名称：心理—词汇研究〉",
+    englishLabel: "DOI: Allport and Odbert, Trait-Names: A Psycho-Lexical Study",
+  }],
+  "psychology-foundations-tupes-christal-recurrent-factors": [{
+    href: "https://apps.dtic.mil/sti/citations/AD0267788",
+    label: "DTIC：图普斯与克里斯特尔 ASD 技术报告 61-97",
+    englishLabel: "DTIC: Tupes and Christal, ASD Technical Report 61-97",
+  }],
+  "psychology-foundations-fiske-rating-structure": [{
+    href: "https://doi.org/10.1037/h0057198",
+    label: "DOI：菲斯克〈不同来源人格评分的因素结构一致性〉",
+    englishLabel: "DOI: Fiske, Consistency of the Factorial Structures of Personality Ratings from Different Sources",
+  }],
+  "psychology-foundations-spearman-general-factor": [{
+    href: "https://psychclassics.yorku.ca/Spearman/chap5.htm",
+    label: "York University：斯皮尔曼 1904 年论文第五章转录",
+    englishLabel: "York University: transcription of Chapter V of Spearman's 1904 paper",
+  }],
+  "psychology-foundations-cronbach-meehl-construct-network": [{
+    href: "https://psychclassics.yorku.ca/Cronbach/construct.htm",
+    label: "York University：克隆巴赫与米尔〈构念效度〉转录",
+    englishLabel: "York University: Cronbach and Meehl, Construct Validity transcription",
+  }],
+  "psychology-foundations-calkins-self-relational": [{
+    href: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mary_Whiton_Calkins_-_A_First_Book_in_Psychology_%281st_edition%2C_1910_printing%29.pdf",
+    label: "Wikimedia Commons：卡尔金斯《心理学初阶》1910 年公版扫描",
+    englishLabel: "Wikimedia Commons: Calkins, A First Book in Psychology (1910), public-domain scan",
+  }],
+  "psychology-cognition-beck-cognitive-distortions": [{
+    href: "https://doi.org/10.1001/archpsyc.1963.01720160014002",
+    label: "JAMA Psychiatry：贝克〈思维与抑郁 I〉书目与原刊入口",
+    englishLabel: "JAMA Psychiatry: Beck, Thinking and Depression I, record and article route",
+  }],
+  "psychology-social-harlow-contact-comfort": [{
+    href: "https://psychclassics.yorku.ca/Harlow/love.htm",
+    label: "York University：哈洛〈爱的本质〉转录",
+    englishLabel: "York University: Harlow, The Nature of Love transcription",
+  }],
+  "psychology-social-hazan-shaver-adult-attachment": [{
+    href: "https://doi.org/10.1037/0022-3514.52.3.511",
+    label: "DOI：哈赞与谢弗〈把浪漫爱情理解为依恋过程〉",
+    englishLabel: "DOI: Hazan and Shaver, Romantic Love Conceptualized as an Attachment Process",
+  }],
+  "psychology-social-clark-mills-communal-exchange": [{
+    href: "https://doi.org/10.1037/0022-3514.37.1.12",
+    label: "DOI：克拉克与米尔斯〈交换关系与共同关系中的人际吸引〉",
+    englishLabel: "DOI: Clark and Mills, Interpersonal Attraction in Exchange and Communal Relationships",
+  }],
+};
+
 const gretilReference: ReferenceLink = {
   href: "https://gretil.sub.uni-goettingen.de/gretil.html",
   label: "哥廷根大学 GRETIL 印度语言原典库",
@@ -601,6 +654,71 @@ const indianPrimaryTextLinks: Record<string, ReferenceLink> = {
 };
 
 const indianThoughtPrimaryTextLinks: Partial<Record<string, ReferenceLink>> = {
+  "indian-carvaka-indirect-perception": {
+    href: "https://www.gutenberg.org/files/34125/34125-h/34125-h.htm",
+    label: "Project Gutenberg：《一切哲学摄要》第一章英译（敌对后世记述）",
+    englishLabel: "Project Gutenberg: Sarva-darsana-sangraha, Chapter I (later hostile report)",
+  },
+  "indian-carvaka-indirect-practical-inference": {
+    href: "https://www.gutenberg.org/files/34125/34125-h/34125-h.htm",
+    label: "Project Gutenberg：《一切哲学摄要》第一章英译（敌对后世记述）",
+    englishLabel: "Project Gutenberg: Sarva-darsana-sangraha, Chapter I (later hostile report)",
+  },
+  "indian-kautilya-anvikshiki-inquiry": {
+    href: "https://www.swaveda.com/texts/arthashastra/2/",
+    label: "Swaveda：《政事论》第一卷第二章梵文与 Shamasastry 英译",
+    englishLabel: "Swaveda: Arthashastra I.2, Sanskrit and Shamasastry translation",
+  },
+  "indian-kautilya-subject-welfare": {
+    href: "https://www.swaveda.com/texts/arthashastra/19/",
+    label: "Swaveda：《政事论》第一卷第十九章梵文与 Shamasastry 英译",
+    englishLabel: "Swaveda: Arthashastra I.19, Sanskrit and Shamasastry translation",
+  },
+  "indian-kautilya-counsel-secrecy": {
+    href: "https://www.swaveda.com/texts/arthashastra/15/",
+    label: "Swaveda：《政事论》第一卷第十五章梵文与 Shamasastry 英译",
+    englishLabel: "Swaveda: Arthashastra I.15, Sanskrit and Shamasastry translation",
+  },
+  "indian-guru-nanak-hukam": {
+    href: "https://www.srigranth.org/servlet/gurbani.gurbani?Action=Page&Param=1&english=t&id=1",
+    label: "Sri Granth：《贾普吉》开篇与第 1—2 段原文入口",
+    englishLabel: "Sri Granth: Japji opening and Pauris 1–2 source route",
+  },
+  "indian-guru-nanak-truthful-living": {
+    href: "https://www.srigranth.org/servlet/gurbani.gurbani?Action=Page&Param=1&english=t&id=1",
+    label: "Sri Granth：《贾普吉》第 1 段原文入口",
+    englishLabel: "Sri Granth: Japji Pauri 1 source route",
+  },
+  "indian-guru-nanak-air-water-earth": {
+    href: "https://www.srigranth.org/servlet/gurbani.gurbani?Action=KeertanPage&K=8&L=11&id=381",
+    label: "Sri Granth：《贾普吉》结尾 Salok 原文入口",
+    englishLabel: "Sri Granth: Japji closing Salok source route",
+  },
+  "indian-abhinavagupta-rasa-shared-savor": {
+    href: "https://www.columbia.edu/~aso2101/projects/abhinavabharati/index.html",
+    label: "Columbia University：《舞论注》第六章数字样本",
+    englishLabel: "Columbia University: Abhinavabharati Chapter 6 digital sample",
+  },
+  "indian-abhinavagupta-aesthetic-distance": {
+    href: "https://www.columbia.edu/~aso2101/projects/abhinavabharati/index.html",
+    label: "Columbia University：《舞论注》第六章数字样本",
+    englishLabel: "Columbia University: Abhinavabharati Chapter 6 digital sample",
+  },
+  "indian-abhinavagupta-recognition-agency": {
+    href: "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhinavagupta-IzvarapratyabhijJAvimarzinI.htm",
+    label: "GRETIL：《自在再认识释》梵文转录（仍待专家校勘）",
+    englishLabel: "GRETIL: Isvarapratyabhijnavimarsini Sanskrit transcription (specialist collation still required)",
+  },
+  "indian-gargi-woven-in-what": {
+    href: "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/4_upa/brup___u.htm",
+    label: "GRETIL：《广林奥义书》3.6 梵文原典",
+    englishLabel: "GRETIL: Brihadaranyaka Upanishad 3.6 Sanskrit text",
+  },
+  "indian-gargi-imperishable-boundary": {
+    href: "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/4_upa/brup___u.htm",
+    label: "GRETIL：《广林奥义书》3.8 梵文原典",
+    englishLabel: "GRETIL: Brihadaranyaka Upanishad 3.8 Sanskrit text",
+  },
   "indian-vedic-creation-question": {
     href: "https://en.wikisource.org/wiki/The_Hymns_of_the_Rigveda/Book_10/Hymn_129",
     label: "Wikisource：《梨俱吠陀》第10卷第129首，Griffith 1897年公版英译",
@@ -1225,7 +1343,7 @@ function sourceMetadataForThoughtBase(thought: Thought): SourceMetadata {
       englishProvenanceNote: isSourceExcerpt
         ? "The original-language field is a verbatim excerpt from the listed primary text; the other language is a NOTHING FINAL study translation. It is for intellectual-history study only and does not constitute psychological diagnosis or clinical advice."
         : "Both languages are editorial restatements prepared by NOTHING FINAL from the listed source. They are not verbatim quotations and do not constitute psychological diagnosis or clinical advice.",
-      referenceLinks: [],
+      referenceLinks: psychologyThoughtReferenceLinks[thought.id] ?? [],
     };
   }
 

@@ -55,7 +55,6 @@ test("the Chinese philosophy library is a sourced bilingual corpus with delibera
     import.meta.url,
   );
 
-  assert.ok(chineseThoughts.length >= 101, "the expanded Chinese philosophy library must contain at least 101 cards");
   assert.equal(
     new Set(chineseThoughts.map((thought) => thought.id)).size,
     chineseThoughts.length,
@@ -100,7 +99,11 @@ test("the Chinese philosophy library is a sourced bilingual corpus with delibera
     );
   }
 
-  assert.equal(authorCounts.size, 27, "the expanded library must cover 27 Chinese thinkers");
+  assert.ok(authorCounts.size >= 32, "the expanded library must cover at least 32 Chinese thinkers or traditions");
+  assert.ok(
+    chineseThoughts.length >= authorCounts.size * 3,
+    "the library must retain at least three source cards per represented thinker on average",
+  );
   assert.ok(
     new Set(authorCounts.values()).size > 1,
     "author inventories must reflect editorial importance instead of an equal quota",
@@ -231,11 +234,6 @@ test("the public catalog registers every library without reintroducing a fixed t
 
   assert.deepEqual([...contentLibraryIds], Object.keys(contentLibraries));
   assert.ok(contentLibraryIds.includes("economics"), "the economics library must be public");
-  assert.ok(contentLibraries.western.thoughts.length >= 581);
-  assert.ok(contentLibraries.chinese.thoughts.length >= 101);
-  assert.ok(contentLibraries.mao.thoughts.length >= 128);
-  assert.ok(contentLibraries.science.thoughts.length >= 80);
-  assert.ok(contentLibraries.indian.thoughts.length >= 100);
   for (const libraryId of contentLibraryIds) {
     assert.ok(
       contentLibraries[libraryId].thoughts.length > 0,

@@ -1789,7 +1789,11 @@ export async function fetchGutenbergSource(rawUrl, options = {}) {
     try {
       return await fetchRemoteSource(candidate, options);
     } catch (error) {
-      if (error?.code !== "http-error") throw error;
+      // In offline verification the preferred `-0.txt` mirror may be absent
+      // while the equally valid legacy `.txt` mirror is already cached. Keep
+      // walking the deterministic mirror list before declaring the source
+      // unavailable.
+      if (!["http-error", "network-disabled"].includes(error?.code)) throw error;
       failures.push(error.message);
     }
   }

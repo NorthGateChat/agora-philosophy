@@ -68,7 +68,7 @@ test("the Indian-philosophy library distinguishes verified excerpts from editori
     import.meta.url,
   );
 
-  assert.ok(indianThoughts.length >= 100, "India must launch as a substantial corpus");
+  assert.equal(indianThoughts.length, 109, "India curation must preserve the catalog size");
   assert.equal(
     new Set(indianThoughts.map((thought) => thought.id)).size,
     indianThoughts.length,
@@ -157,6 +157,54 @@ test("the Indian-philosophy library distinguishes verified excerpts from editori
   }
 
   const byId = new Map(indianThoughts.map((thought) => [thought.id, thought]));
+  for (const removedId of [
+    "indian-nagarjuna-motion-relational",
+    "indian-aryadeva-attachment-object",
+    "indian-aryadeva-emptiness-medicine",
+    "indian-candrakirti-consequence-method",
+    "indian-asanga-transform-basis",
+    "indian-asanga-ethics-training",
+    "indian-vasubandhu-nonconceptual-turn",
+    "indian-dignaga-two-sources",
+    "indian-shankara-that-thou-art",
+    "indian-ramanuja-devotion-knowledge",
+    "indian-madhva-text-hierarchy",
+    "indian-kabir-inner-ritual",
+    "indian-kabir-lived-search",
+  ]) {
+    assert.ok(!byId.has(removedId), `${removedId} must stay merged into its survivor card`);
+  }
+  for (const addedId of [
+    "indian-carvaka-indirect-perception",
+    "indian-carvaka-indirect-practical-inference",
+    "indian-kautilya-anvikshiki-inquiry",
+    "indian-kautilya-subject-welfare",
+    "indian-kautilya-counsel-secrecy",
+    "indian-guru-nanak-hukam",
+    "indian-guru-nanak-truthful-living",
+    "indian-guru-nanak-air-water-earth",
+    "indian-abhinavagupta-rasa-shared-savor",
+    "indian-abhinavagupta-aesthetic-distance",
+    "indian-abhinavagupta-recognition-agency",
+    "indian-gargi-woven-in-what",
+    "indian-gargi-imperishable-boundary",
+  ]) {
+    assert.ok(byId.has(addedId), `${addedId} must be included in the curated corpus`);
+  }
+
+  for (const carvakaId of [
+    "indian-carvaka-indirect-perception",
+    "indian-carvaka-indirect-practical-inference",
+  ]) {
+    const thought = byId.get(carvakaId);
+    assert.equal(resolveThoughtPresentationNature(thought), "editorial-synthesis");
+    assert.match(
+      [thought.context, thought.englishContext, ...thought.sourceLocator].join(" "),
+      /间接传承|对手|非直接可靠引文|indirect-transmission|opponent|not a directly reliable quotation/i,
+      `${carvakaId} must expose its indirect and hostile transmission`,
+    );
+  }
+
   const sourceExcerptIds = indianThoughts
     .filter((thought) => resolveThoughtPresentationNature(thought) === "source-excerpt")
     .map((thought) => thought.id)
@@ -179,7 +227,7 @@ test("the Indian-philosophy library distinguishes verified excerpts from editori
     byId.get("indian-buddha-dependent-arising")?.englishWork,
     "Upon Awakening (3rd) (Udāna 1.3)",
   );
-  assert.match(byId.get("indian-aryadeva-attachment-object")?.sourceLocator?.[0] ?? "", /第七品/);
+  assert.match(byId.get("indian-aryadeva-senses-not-final")?.sourceLocator?.[0] ?? "", /第十三品/);
 
   assert.ok(indianThoughtConnections.length >= 20, "India must include an idea network");
   const allThoughtIds = new Set(allThoughts.map((thought) => thought.id));

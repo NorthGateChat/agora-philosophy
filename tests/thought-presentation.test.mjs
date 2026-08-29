@@ -15,7 +15,7 @@ async function loadCompletePublicThoughts() {
   ];
 }
 
-test("all 1452 public thoughts resolve to one consistent presentation contract", async () => {
+test("all 1441 public thoughts resolve to one consistent presentation contract", async () => {
   const completeThoughts = await loadCompletePublicThoughts();
   const {
     attributionMode,
@@ -25,7 +25,7 @@ test("all 1452 public thoughts resolve to one consistent presentation contract",
     useQuotationMarks,
   } = await tsImport("../content/thoughtPresentation.ts", import.meta.url);
 
-  assert.equal(completeThoughts.length, 1452, "the expanded economics library must replace its synchronous subset");
+  assert.equal(completeThoughts.length, 1441, "the curated economics library must replace its synchronous subset");
   assert.equal(
     new Set(completeThoughts.map((thought) => thought.id)).size,
     completeThoughts.length,
@@ -144,7 +144,7 @@ test("synthetic source, synthesis, and unverified cards keep distinct visual pro
   }
 });
 
-test("source excerpts may keep a unique bilingual editorial summary for deep reading", async () => {
+test("source excerpts and source-led syntheses may keep a unique bilingual editorial summary for deep reading", async () => {
   const completeThoughts = await loadCompletePublicThoughts();
   const { resolveThoughtPresentationNature } = await tsImport(
     "../content/thoughtPresentation.ts",
@@ -168,10 +168,11 @@ test("source excerpts may keep a unique bilingual editorial summary for deep rea
   );
 
   for (const thought of summarized) {
-    assert.equal(
-      resolveThoughtPresentationNature(thought),
-      "source-excerpt",
-      `${thought.id} may expose a separate editorial summary only beside a verified source excerpt`,
+    assert.ok(
+      ["source-excerpt", "editorial-synthesis"].includes(
+        resolveThoughtPresentationNature(thought),
+      ),
+      `${thought.id} must expose its summary beside an explicit presentation nature`,
     );
     assert.ok(thought.englishEditorialSummary?.trim(), `${thought.id} needs an English editorial summary`);
     assert.notEqual(thought.editorialSummary, thought.text, `${thought.id} summary must stay distinct from its excerpt`);

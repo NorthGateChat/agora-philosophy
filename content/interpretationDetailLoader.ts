@@ -1,4 +1,5 @@
 import type { ContentLibraryId } from "./libraries";
+import { curation2026RetiredThoughtIds } from "./curation2026Registry";
 import type { InterpretationDetail } from "./interpretationTypes";
 
 type InterpretationDetailRegistry = Readonly<Record<string, InterpretationDetail>>;
@@ -29,6 +30,15 @@ const loadedDetailChunks: Partial<
   Record<InterpretationDetailChunk, Promise<InterpretationDetailRegistry>>
 > = {};
 
+function withoutRetiredDetails(
+  details: InterpretationDetailRegistry,
+): InterpretationDetailRegistry {
+  return Object.fromEntries(
+    Object.entries(details)
+      .filter(([thoughtId]) => !curation2026RetiredThoughtIds.has(thoughtId)),
+  );
+}
+
 function detailChunkForLibrary(
   libraryId: ContentLibraryId,
 ): InterpretationDetailChunk {
@@ -56,7 +66,7 @@ export function loadInterpretationDetailsForLibrary(
     return cached;
   }
 
-  const pending = detailChunkLoaders[chunk]();
+  const pending = detailChunkLoaders[chunk]().then(withoutRetiredDetails);
   loadedDetailChunks[chunk] = pending;
   void pending.catch(() => {
     if (loadedDetailChunks[chunk] === pending) {

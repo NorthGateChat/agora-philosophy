@@ -1,0 +1,624 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-the-mode-of-communication-of-cholera-whole-work-de736cc7",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《霍乱的传播方式》",
+  "englishWork": "On the Mode of Communication of Cholera",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "斯诺《霍乱的传播方式》第二版（伦敦：John Churchill，1855），印刷页74—75；UCLA转录与Wellcome Collection公版扫描交叉核对",
+  "englishVersion": "Snow, On the Mode of Communication of Cholera, 2nd ed. (London: John Churchill, 1855), print pp. 74–75; cross-checked between the UCLA transcription and Wellcome Collection public-domain scan",
+  "sourceUrl": "https://epi-snow.ph.ucla.edu/Stream3_GrandExperiment_a.html",
+  "source": {
+    "url": "https://epi-snow.ph.ucla.edu/Stream3_GrandExperiment_a.html",
+    "contentType": "text/html",
+    "sha256": "b2d624c75282e1223b3009a08aa649728046c4833e59e54f902374d408cfa87d"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "229d7d094f012d639bbda8d07c5a681089562b72b8a3282018a43ffab31385ce",
+  "inputHash": "21601d6b28ca7781b46526da46f0330ed70c235290043fc2736701a460b8d247",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "ON THE MODE OF COMMUNICATION OF CHOLERA, PART 3"
+    },
+    {
+      "id": "p0002",
+      "text": "This second edition of John Snow's book, issued in 1855 three years before his death, is the historical treatise for which Snow is most famous in epidemiology. Included here is the third part of the book, pages 55-98, that addresses the \"Grand Experiment.\" To peruse the 138 page book in its entirety, click on \"JS Cholera Book\" in the navbar at the top of each page."
+    },
+    {
+      "id": "p0003",
+      "text": "Source : Snow, John. On the Mode of Communication of Cholera , 2nd Edition, London: John Churchill, New Burlington Street, England, 1855, pp. 55-98."
+    },
+    {
+      "id": "p0004",
+      "text": "Contents of Part 3, pages 55-98"
+    },
+    {
+      "id": "p0005",
+      "text": "Outbreak of cholera at Deptford caused by polluted water"
+    },
+    {
+      "id": "p0006",
+      "text": "Communication of cholera by means of the water of rivers which receive the contents of sewers"
+    },
+    {
+      "id": "p0007",
+      "text": "Influence of the water supply on the epidemic of 1832, in London"
+    },
+    {
+      "id": "p0008",
+      "text": "Table II showing the mortality from cholera, and the water supply"
+    },
+    {
+      "id": "p0009",
+      "text": "Influence of the water supply on the epidemic of 1849, in London"
+    },
+    {
+      "id": "p0010",
+      "text": "Table III showing this influence"
+    },
+    {
+      "id": "p0011",
+      "text": "Communication of cholera by Thames water in the autumn of 1848"
+    },
+    {
+      "id": "p0012",
+      "text": "New water supply of the Lambeth Company"
+    },
+    {
+      "id": "p0013",
+      "text": "Effect of this new supply in the epidemic of autumn 1853"
+    },
+    {
+      "id": "p0014",
+      "text": "Table V showing this effect"
+    },
+    {
+      "id": "p0015",
+      "text": "Table VI showing this effect"
+    },
+    {
+      "id": "p0016",
+      "text": "Intimate mixture of the water supply of the Lambeth with that of the Southwark and Vauxhall Company"
+    },
+    {
+      "id": "p0017",
+      "text": "Opportunity thus afforded of gaining conclusive evidence of the effect of the water supply on the mortality from cholera"
+    },
+    {
+      "id": "p0018",
+      "text": "Account of inquiry for obtaining this evidence"
+    },
+    {
+      "id": "p0019",
+      "text": "Result of the inquiry as regards the first four weeks of the epidemic in 1854"
+    },
+    {
+      "id": "p0020",
+      "text": "Result of the inquiry as regards the first seven weeks of the epidemic in 1854"
+    },
+    {
+      "id": "p0021",
+      "text": "Table VII illustrating these results"
+    },
+    {
+      "id": "p0022",
+      "text": "Table VIII illustrating these results"
+    },
+    {
+      "id": "p0023",
+      "text": "Inquiry of the Registrar-General respecting the effect of the water supply of the above-mentioned companies during the later period of the epidemic"
+    },
+    {
+      "id": "p0024",
+      "text": "Comparison of the mortality of 1849 and 1854, in districts supplied by the above-mentioned companies"
+    },
+    {
+      "id": "p0025",
+      "text": "Effect of the water supply on the mortality from cholera amongst the inmates of workhouses and prisons"
+    },
+    {
+      "id": "p0026",
+      "text": "Cholera in the district of the Chelsea Water Company"
+    },
+    {
+      "id": "p0027",
+      "text": "Effect of dry weather to increase the impurity of the Thames"
+    },
+    {
+      "id": "p0028",
+      "text": "Relation between the greater or less mortality from cholera in London and the less or greater elevation of the ground"
+    },
+    {
+      "id": "p0029",
+      "text": "This relation shown to depend on the difference of water supply at different elevations"
+    },
+    {
+      "id": "p0030",
+      "text": "OUTBREAK OF CHOLERA AT DEPTFORD CAUSED BY POLLUTED WATER"
+    },
+    {
+      "id": "p0031",
+      "text": "Just at the time when the great outbreak of cholera occurred in the neighborhood of Broad Street, Golden Square, there was an equally violent irruption in Deptford, but of a more limited extent. About ninety deaths took place in a few days, amongst two or three score of small houses, in the north end of New Street and an adjoining row called French's Fields. Deptford is supplied with very good water from the river Ravensbourne by the Kent Water Works, and until this outbreak there was but little cholera in the town, except amongst some poor people, who had no water except what they got by pailsful from Deptford Creek -- an inlet of the Thames. There had, however, been a few cases in and near New Street, just before the great outbreak. On going to the spot on September 12th and making inquiry, I found that the houses in which the deaths had occurred were supplied by the Kent Water Works, and the inhabitants never used any other water. The people informed me, however, that for some few weeks the water had been extremely offensive when first turned on; they said it smelt like a cesspool, and frothed like soap suds. They were in the habit of throwing away a few pailsful of that which first came in, and collecting some for use after it became clear. On inquiring in the surrounding streets, to which this outbreak of cholera did not extend, viz., Wellington Street, Old King Street, and Hughes's Fields, I found that there had been no alteration in the water. I concluded, therefore, that a leakage had taken place into the pipes supplying the places where the outbreak occurred, during the intervals when the water was not turned on. Gas is known to get into the water-pipes occasionally in this manner, when they are partially empty, and to impart its taste to the water. There are no sewers in New Street or French's Fields, and the refuse of all kinds consequently saturates the ground in which the pipes are laid. I found that the water collected by the people, after throwing away the first portion, still contained more organic matter than that supplied to the adjoining streets. On adding nitrate of silver and exposing the specimens to the light, a deeper tint of brown was developed in the former than in the latter."
+    },
+    {
+      "id": "p0032",
+      "text": "COMMUNICATION OF CHOLERA BY MEANS OF THE WATER OF RIVERS WHICH RECEIVE THE CONTENTS OF THE SEWERS"
+    },
+    {
+      "id": "p0033",
+      "text": "All the instances of communication of cholera through the medium of water, above related, have resulted from the contamination of a pump-well, or some other limited supply of water; and the outbreaks of cholera connected with the contamination, though sudden and intense, have been limited also; but when the water of a river becomes infected with the cholera evacuations emptied from on board ship, or passing down drains and sewers, the communication of the disease, though generally less sudden and violent, is much more widely extended; more especially when the river water is distributed by the steam engine and pipes connected with water-works. Cholera may linger in the courts and alleys crowded with the poor, for reasons previously pointed out, but I know of no instance in which it has been generally spread through a town or neighborhood, amongst all classes of the community, in which the drinking water has not been the medium of its diffusion. Each epidemic of cholera in London has borne a strict relation to the nature of the water-supply of its different districts, being modified only by poverty, and the crowding and want of cleanliness which always attend it."
+    },
+    {
+      "id": "p0034",
+      "text": "INFLUENCE OF THE WATER SUPPLY ON THE EPIDEMIC OF 1832, IN LONDON"
+    },
+    {
+      "id": "p0035",
+      "text": "The following table shows the number of deaths from cholera in the various districts of London in 1832, together with the nature of the water supply at that period.[1]"
+    },
+    {
+      "id": "p0036",
+      "text": "TABLE II SHOWING THE MORTALITY FROM CHOLERA, AND THE WATER SUPPLY"
+    },
+    {
+      "id": "p0037",
+      "text": "This table shows that in the greater part of Southwark, which was supplied with worse water than any other part of the metropolis, the mortality from cholera was also much higher than anywhere else. The other south districts, supplied with water obtained at points higher up the Thames, and containing consequently less impurity, were less affected. On the north of the Thames, the east districts, supplied, in 1832, with water from the river Lea, at Old Ford, where it contained the sewage of a large population, suffered more than other parts on the north side of London. Whitechapel suffered more than the other east districts; probably not more from the poverty and crowded state of the population, than from the great number of mariners, coalheavers, and others, living there, who were employed on the Thames, and got their water, whilst at work, direct from the river. There were one hundred and thirty-nine deaths from cholera amongst persons afloat on the Thames. The cholera passed very lightly over most of the districts supplied by the New River Company. St Giles' was an exception, owing to the overcrowding of the common lodging-houses in the part of the parish called the Rookery. The City of London also suffered severely in 1839. Now when the engine at Broken Wharf was employed to draw water from the Thames, this water was supplied more particularly to the City, and not at all to the higher districts supplied by the New River Company. This would offer an explanation of the high mortality from cholera in the City at that time, supposing the engine were actually used during 1832; but I have not yet been able to ascertain that circumstance with certainty. I know, however, that it was still used occasionally some years later."
+    },
+    {
+      "id": "p0038",
+      "text": "Westminster suffered more in 1832 than St. George, Hanover Square, and Kensington, which at that time had the same water. This arose from the poor and crowded state of part of its population. The number of cases of cholera communicated by the water would be the same in one district as in the other; but in one district the disease would spread also from person to person more than in the others."
+    },
+    {
+      "id": "p0039",
+      "text": "INFLUENCE OF THE WATER SUPPLY ON THE EPIDEMIC OF 1849, IN LONDON"
+    },
+    {
+      "id": "p0040",
+      "text": "Between 1839 and 1849 many changes took place in the water-supply of London. The Southwark Water Company united with the South London Water Company, to form a new Company under the name of the Southwark and Vauxhall Company. The water works at London Bridge were abolished, and the united company derived their supply from the Thames at Battersea Fields, about half-a-mile above Vauxhall Bridge. The Lambeth Water Company continued to obtain their supply opposite to Hungerford Market; but they had established a small reservoir at Brixton."
+    },
+    {
+      "id": "p0041",
+      "text": "But whilst these changes had been made by the water companies, changes still greater had taken place in the river, partly from the increase of population, but much more from the abolition of cesspools and the almost universal adoption of water closets in their stead. The Thames in 1849 was more impure at Battersea Fields than it had been in 1839. at London Bridge. A clause which vented the South London Water Company from laying their pipes within two miles of the Lambeth Water Works was repealed in 1834, and the two Companies were in active competition for many years, the result of which is, that the pipes of the Lambeth Water Company and those of the Southwark and Vauxhall Company pass together down all the streets of several of the south districts. As the water of both these Companies was nearly equal in its impurity in 1849, this circumstance was of but little consequence at that time; but it will be shown further on that it afterwards led to very important results."
+    },
+    {
+      "id": "p0042",
+      "text": "On the north side of the Thames the Water Companies and their districts remained the same, but some alterations were made in the sources of supply. The East London Water Company ceased to obtain water at Old Ford, and got it from the river Lea, above Lea Bridge, out of the influence of the tide and free from sewage, except that from some part of Upper Clapton. The Grand Junction Company removed their works from Chelsea to Brentford, where they formed large settling reservoirs. The New River Company entirely ceased to employ the steam-engine for obtaining water from the Thames. The supply of the other Water Companies remained the same as in 1832."
+    },
+    {
+      "id": "p0043",
+      "text": "The accompanying table (No. 3), shows the mortality from cholera in the various registration districts of London in 1849, together with the water supply."
+    },
+    {
+      "id": "p0044",
+      "text": "TABLE III SHOWING THIS INFLUENCE"
+    },
+    {
+      "id": "p0045",
+      "text": "The following table exhibits the chronological features of this terrible outbreak of cholera."
+    },
+    {
+      "id": "p0046",
+      "text": "The annual value of house and shop-room for each person is also shown, as a criterion, to a great extent, of the state of overcrowding or the reverse. The deaths from cholera and the value of house-room, are taken from the \"Report on the Cholera of 1849,\" by Dr. William Farr, of the General Register Office. The water supply is indicated merely by the name of the Companies. After the explanation given above of the source of supply, this will be sufficient. It is only necessary to add, that the Kent Water Company derive their supply from the river Ravensbourne, and the Hampstead Company from springs and reservoirs at Hampstead."
+    },
+    {
+      "id": "p0047",
+      "text": "A glance at the table shows that in every district to which the supply of the Southwark and Vauxhall, or the Lambeth Water Company extends, the cholera was more fatal than in any other district whatever. The only other water company deriving a supply from the Thames, in a situation where it is much contaminated with the contents of the sewers, was the Chelsea Company. But this company, which supplies some of the most fashionable parts of London, took great pains to filter the water before its distribution, and in so doing no doubt separated, amongst other matters, the greater portion of that which causes cholera. On the other hand, although the Southwark and Vauxhall and the Lambeth Water Companies professed to filter the water, they supplied it in a most impure condition. Even in the following year, when Dr. Arthur Hill Hassall made an examination of it, he found in it the hairs of animals and numerous substances which had passed through the alimentary canal. Speaking of the water supply of London generally, Dr. Hassall says: --"
+    },
+    {
+      "id": "p0048",
+      "text": "\"It will be observed, that the water of the companies on the Surrey side of London, viz., the Southwark, Vauxhall, and Lambeth, is by far the worst of all those who take their supply from the Thames.\" [2]"
+    },
+    {
+      "id": "p0049",
+      "text": "In the north districts of London, which suffered much less from cholera than the south districts, the mortality was chiefly influenced by the poverty and crowding of the population. The New River Company having entirely left off the use of their engine in the city, their water, being entirely free from sewage, could have had no share in the propagation of cholera. It is probable also, that the water of the East London Company, obtained above Lea Bridge, had no share in propagating the malady; and that this is true also of the West Middlesex Company, obtaining their supply from the Thames at Hammersmith; and of the Grand Junction Company, obtaining their supply at Brentford. All these Water Companies have large settling reservoirs. It is probable also, as I stated above, that the Chelsea Company in 1849, by careful filtration and by detaining the water in their reservoirs, rendered it in a great degree innocuous."
+    },
+    {
+      "id": "p0050",
+      "text": "ome parts of London suffered by the contamination of the pump-wells in 1849, and the cholera in the districts near the river was increased by the practice, amongst those who are occupied on the Thames, of obtaining water to drink by dipping a pail into it. It will be shown further on, that persons occupied on the river suffered more from cholera than others. Dr. Baly makes the following inquiry in his Report to the College of Physicians.[3]"
+    },
+    {
+      "id": "p0051",
+      "text": "\"How did it happen, if the character of the water has a great influence on the mortality from cholera, that in the Belgrave district only 28 persons in 10,000 died, and in the Westminster district, also supplied by the Chelsea Company, 68 persons in 10,000; and, again, that in the Wandsworth district the mortality was only 100, and in the district of St. Olave 181 in 10,000 inhabitants -- both these districts receiving their supply from the Southwark Company?\""
+    },
+    {
+      "id": "p0052",
+      "text": "The water of the Chelsea Company has been alluded to above, but whether this water had any share in the propagation of cholera or not, it is perfectly in accordance with the mode of communication of the disease which I am advocating, that it should spread more in the crowded habitations of the poor, in Westminster, than in the commodious houses of the Belgrave district. In examining the effect of polluted water as a medium of the cholera poison, it is necessary to bear constantly in mind the more direct way in which the poison is also swallowed, as I explained in the commencement of this work. As regards St. Olave's and Wandsworth, Dr. Baly was apparently not aware that, whilst almost every house in the first of these districts is supplied by the water company, and has no other supply, the pipes of the company extend to only a part of the Wandsworth district, a large part of it having only pump-wells."
+    },
+    {
+      "id": "p0053",
+      "text": "COMMUNICATION OF CHOLERA BY THAMES WATER IN THE AUTUMN OF 1848"
+    },
+    {
+      "id": "p0054",
+      "text": "The epidemic of 1849 was a continuance or revival of that which commenced in the autumn of 1848, and there are some circumstances connected with the first cases which are very remarkable, and well worthy of notice. It has been already stated that the first case of decided Asiatic cholera in London, in the autumn of 1848, was that of a seaman from Hamburgh, and that the next case occurred in the very room in which the first patient died. These cases occurred in Horsleydown, close to the Thames. In the evening of the day on which the second case occurred in Horsleydown, a man was taken ill in Lower Fore Street, Lambeth, and died on the following morning. At the same time that this case occurred in Lambeth, the first of a series of cases occurred in White Hart Court, Duke Street, Chelsea, near the river. A day or two afterwards, there was a case at 3, Harp Court, Fleet Street. The next case occurred on October 2nd, on board the hulk Justitia, lying off Woolwich; and the next to this in Lower Fore Street, Lambeth, three doors from where a previous case had occurred. The first thirteen cases were all situated in the localities just mentioned; and on October 5th there were two cases in Spitalfields."
+    },
+    {
+      "id": "p0055",
+      "text": "Now, the people in Lower Fore Street, Lambeth, obtained their water by dipping a pail into the Thames, there being no other supply in the street. In White Hart Court, Chelsea, the inhabitants obtained water for all purposes in a similar way. A well was afterwards sunk in the court; but at the time these cases occurred the people had no other means of obtaining water, as I ascertained by inquiry on the spot. The inhabitants of Harp Court, Fleet Street, were in the habit, at that time, of procuring water from St. Bride's pump, which was afterwards closed on the representation of Mr. Hutchinson, surgeon, of Farringdon Street, in consequence of its having been found that the well had a communication with the Fleet Ditch sewer, up which the tide flows from the Thames. I was informed by Mr. Dabbs, that the hulk Justitia was supplied with spring-water from the Woolwich Arsenal; but it is not improbable that water was occasionally taken from the Thames alongside, as was constantly the practice in some of the other hulks, and amongst the shipping generally."
+    },
+    {
+      "id": "p0056",
+      "text": "When the epidemic revived again in the summer of 1849, the first case in the sub-district \"Lambeth; Church, 1st part,\" was in Lower Fore Street, on June 27th; and on the commencement of the epidemic of the present year, the first case of cholera in any part of Lambeth, and one of the earliest in London, occurred at 52, Upper Fore Street, where also the people had no water except what they obtained from the Thames with a pail, as I ascertained by calling at the house. Many of the earlier cases this year occurred in persons employed amongst the shipping in the river, and the earliest cases in Wandswroth and Battersea have generally been amongst persons getting water direct from the Thames, or from streams up which the Thames flows with the tide. It is quite in accordance with what might be expected from the propagation of cholera through the medium of the Thames water, that it should generally affect those who draw it directly from the river somewhat sooner than those who receive it by the more circuitous route of the pipes of a water company."
+    },
+    {
+      "id": "p0057",
+      "text": "NEW WATER SUPPLY OF THE LAMBETH COMPANY"
+    },
+    {
+      "id": "p0058",
+      "text": "London was without cholera from the latter part of 1849 to August 1853. During this interval an important change had taken place in the water supply of several of the south districts of London. The Lambeth Company removed their water works, in 1852, from opposite Hungerford Market to Thames Ditton; thus obtaining a supply of water quite free from the sewage of London. The districts supplied by the Lambeth Company are, however, also supplied, to a certain extent, by the Southwark and Vauxhall Company, the pipes of both companies going down every street, in the places where the supply is mixed, as was previously stated. In consequence of this intermixing of the water supply, the effect of the alteration made by the Lambeth Company on the progress of cholera was not so evident, to a cursory observer, as it would otherwise have been. It attracted the attention, however, of the Registrar-General, who published a table in the \" Weekly Return of Births and Deaths\" for 26th November 1853, of which the following is an abstract, containing as much as applies to the south districts of London."
+    },
+    {
+      "id": "p0059",
+      "text": "EFFECT OF THIS NEW SUPPLY IN THE EPIDEMIC OF AUTUMN 1853"
+    },
+    {
+      "id": "p0060",
+      "text": "It thus appears that the districts partially supplied with the improved water suffered much less than the others, although, in 1849, when the Lambeth Company obtained their supply opposite Hungerford Market, these same districts suffered quite as much as those supplied entirely by the Southwark and Vauxhall Company, as was shown in Table III. The Lambeth water extends to only a small portion of some of the districts necessarily included in the groups supplied by both Companies; and when the division is made a little more in detail, by taking sub-districts instead of districts, the effect of the new water supply is shown to be greater than appears in the above table. The Kent Water Company was introduced into the table by the Registrar-General on account of its supplying a small part of Rotherhithe. The following interesting remarks appeared, respecting this portion of Rotherhithe, in the \" Weekly Return\" of December 10, 1853:--"
+    },
+    {
+      "id": "p0061",
+      "text": "\"Southwark and Vauxhall Water Comany.-- The following is an extract from a letter which the Registrar-General has received from Mr. Pitt, the Registrar of Rotherhithe:--"
+    },
+    {
+      "id": "p0062",
+      "text": "\" 'I consider Mr. Morris's description of the part of the parish through which the pipes of the Kent Water Company were laid in 1849, is in the main correct; for though the Company had entered the parish, the water was but partially taken by the inhabitants up to the time of the fearful visitation in the above year.'"
+    },
+    {
+      "id": "p0063",
+      "text": "\" ' With respect to the deaths in 1849, they were certainly more numerous in the district now generally supplied by the Kent Company than in any other part of the parish. I only need mention Charlotte Row, Ram Alley, and Silver Street, -- places where the scourge fell with tremendous severity.'"
+    },
+    {
+      "id": "p0064",
+      "text": "\" 'Among the recent cases of cholera, not one has occurred in the district supplied by the Kent Water Company.'"
+    },
+    {
+      "id": "p0065",
+      "text": "\" 'The parish of Rotherhithe has been badly supplied with water for many ages past. The people drank from old wells, old pumps, open ditches, and the muddy stream of the Thames.'"
+    },
+    {
+      "id": "p0066",
+      "text": "\" 'In 1848-9 the mortality from cholera in Rotherhithe was higher than it was in any other district of London. This is quite in conformity with the general rule, that when cholera prevails, it is most fatal where the waters are most impure.'\""
+    },
+    {
+      "id": "p0067",
+      "text": "TABLE V SHOWING THIS EFFECT"
+    },
+    {
+      "id": "p0068",
+      "text": "The following table (which, with a little alteration in the arrangement, is taken from the \"Weekly Return of Births and Deaths\" for 31st December 1853) shows the mortality from cholera, in the epidemic of 1853, down to a period when the disease had almost disappeared."
+    },
+    {
+      "id": "p0069",
+      "text": "The districts are arranged in the order of their mortality from Cholera."
+    },
+    {
+      "id": "p0070",
+      "text": "It will be observed that Lambeth, which is supplied with water in a great measure by the Lambeth Company, occupies a lower position in the above table than it did in the previous table showing the mortality in 1849. Rotherhithe also has been removed from the first to the fifth Place; owing, no doubt, to the portion of the district supplied with water from the Kent Water Works, instead of the ditches, being altogether free from the disease, as was noticed above."
+    },
+    {
+      "id": "p0071",
+      "text": "As the Registrar-General published a list of all the deaths from cholera which occurred in London in 1853, from the commencement of the epidemic in August to its conclusion in January 1854, I have been able to add up the number which occurred in the various sub-districts on the south side of the Thames, to which the water supply of the Southwark and Vauxhall, and the Lambeth Companies, extends. I have presented them in the table opposite, arranged in three groups."
+    },
+    {
+      "id": "p0072",
+      "text": "TABLE VI SHOWING THIS EFFECT"
+    },
+    {
+      "id": "p0073",
+      "text": "Besides the general result shown in the table, there are some particular facts well worthy of consideration. In 1849, when the water of the Lambeth Company was quite as impure as that of the Southwark and Vauxhall Company, the parish of Christchurch suffered a rather higher rate of mortality from cholera than the adjoining parish of St. Saviour; but in 1853, whilst the mortality in St. Saviour's was at the rate of two hundred and twenty-seven to one hundred thousand living, that of Christchurch was only at the rate of forty-three. Now St. Saviour's is supplied with water entirely by the Southwark and Vauxhall Company, and Christchurch is chiefly supplied by the Lambeth Company. The pipes and other property of the Lambeth Company, in the parish of Christchurch, are rated at about 3l6 pounds, whilst the property of the Southwark and Vauxhall Company in this parish is only rated at about 108 pounds. Waterloo Road, 1st part, suffered almost as much as St. Saviour's in 1849, and had but a single death in 1853; it is supplied almost exclusively by the Lambeth Company. The sub-districts of Kent Road and Borough Road, which suffered severely from cholera, are supplied, through a great part of their extent, exclusively by the Southwark and Vauxhall Company; the supply of the Lambeth Company being intermingled with that of the other only in a part of these districts, as may be seen by consulting the accompanying map (No. II)."
+    },
+    {
+      "id": "p0074",
+      "text": "MAP II ( note: blue has faded to green )"
+    },
+    {
+      "id": "p0075",
+      "text": "Click for Snowmap2.pdf (8.4 mb)"
+    },
+    {
+      "id": "p0076",
+      "text": "Click for Snowmap2_HR.pdf (434 mb)"
+    },
+    {
+      "id": "p0077",
+      "text": "The rural districts of Wandsworth and Peckham contain a number of pump-wells, and are only partially supplied by the Water Company; on this account they suffered a lower mortality than the other sub-districts supplied with the water from Battersea Fields. In the three sub-districts to which this water does not extend, there was no death from cholera in 1853."
+    },
+    {
+      "id": "p0078",
+      "text": "INTIMATE MIXTURE OF THE WATER SUPPLY OF THE LAMBETH WITH THAT OF THE SOUTHWARK AND VAUXHALL COMPANY"
+    },
+    {
+      "id": "p0079",
+      "text": "Although the facts shown in the above table afford very strong evidence of the powerful influence which the drinking of water containing the sewage of a town exerts over the spread of cholera, when that disease is present, yet the question does not end here; for the intermixing of the water supply of the Southwark and Vauxhall Company with that of the Lambeth Company, over an extensive part of London, admitted of the subject being sifted in such a way as to yield the most incontrovertible proof on one side or the other. In the sub-districts enumerated in the above table as being supplied by both Companies, the mixing of the supply is of the most intimate kind. The pipes of each Company go down all the streets, and into nearly all the courts and alleys. A few houses are supplied by one Company and a few by the other, according to the decision of the owner or occupier at that time when the Water Companies were in active competition. In many cases a single house has a supply different from that on either side. Each company supplies both rich and poor, both large houses and small; there is no difference either in the condition or occupation of the persons receiving the water of the different Companies. Now it must be evident that, if the diminution of cholera, in the districts partly supplied with the improved water, depended on this supply, the houses receiving it would be the houses enjoying the whole benefit of the diminution of the malady, whilst the houses supplied with the water from Battersea Fields would suffer the same mortality as they would if the improved supply did not exist at all. As there is no difference whatever, either in the houses or the people receiving the supply of the two Water Companies, or in any of the physical conditions with which they are surrounded, it is obvious that no experiment could have been devised which would more thoroughly test the effect of water supply on the progress of cholera than this, which circumstances placed ready made before the observer."
+    },
+    {
+      "id": "p0080",
+      "text": "OPPORTUNITY THUS AFFORDED OF GAINING CONCLUSIVE EVIDENCE OF THE EFFECT OF THE WATER SUPPLY ON THE MORTALITY FROM CHOLERA"
+    },
+    {
+      "id": "p0081",
+      "text": "The experiment, too, was on the grandest scale. No fewer than three hundred thousand people of both sexes, of every age and occupation, and of every rank and station, from gentlefolks down to the very poor, were divided into two groups without their choice, and, in most cases, without their knowledge; one group being supplied with water containing the sewage of London, and, amongst it, whatever might have come from the cholera patients, the other group having water quite free from such impurity."
+    },
+    {
+      "id": "p0082",
+      "text": "To turn this grand experiment to account, all that was required was to learn the supply of water to each individual house where a fatal attack of cholera might occur. I regret that, in the short days at the latter part of last year, I could not spare the time to make the inquiry; and, indeed, I was not fully aware, at that time, of the very intimate mixture of the supply of the two Water Companies, and the consequently important nature of the desired inquiry."
+    },
+    {
+      "id": "p0083",
+      "text": "When the cholera returned to London in July of the present year, however, I resolved to spare no exertion which might be necessary to ascertain the exact effect of the water supply on the progress of the epidemic, in the places where all the circumstances were so happily adapted for the inquiry. I was desirous of making the investigation myself, in order that I might have the most satisfactory proof of the truth or fallacy of the doctrine which I had been advocating for five years. I had no reason to doubt the correctness of the conclusions I had drawn from the great number of facts already in my possession, but I felt that the circumstance of the cholera-poison passing down the sewers into a great river, and being distributed through miles of pipes, and yet producing its specific effects, was a fact of so startling a nature, and of so vast importance to the community, that it could not be too rigidly examined, or established on too firm a basis."
+    },
+    {
+      "id": "p0084",
+      "text": "I accordingly asked permission at the General Register Office to be supplied with the addresses of persons dying of cholera, in those districts where the supply of the two Companies is intermingled in the manner I have stated above. Some of these addresses were published in the \"Weekly Returns,\" and I was kindly permitted to take a copy of others. I commenced my inquiry about the middle of August with two sub-districts of Lambeth, called Kennington, first part, and Kennington, second part. There were forty-four deaths in these sub-districts down to 12th August, and I found that thirty-eight of the houses in which these deaths occurred were supplied with water by the Southwark and Vauxhall Company, four houses were supplied by the Lambeth Company, and two had pump-wells on the premises and no supply from either of the Companies."
+    },
+    {
+      "id": "p0085",
+      "text": "ACCOUNT OF THE INQUIRY FOR OBTAINING THIS EVIDENCE"
+    },
+    {
+      "id": "p0086",
+      "text": "As soon as I had ascertained these particulars I communicated them to Dr. William Farr, who was much struck with the result, and at his suggestion the Registrars of all the south districts of London were requested to make a return of the water supply of the house in which the attack took place, in all cases of death from cholera. This order was to take place after the 26th August, and I resolved to carry my inquiry down to that date, so that the facts might be ascertained for the whole course of the epidemic. I pursued my inquiry over the various other sub-districts of Lambeth, Southwark, and Newington, where the supply of the two Water Companies is intermixed, with a result very similar to that already given, as will be seen further on. In cases where persons had been removed to a workhouse or any other place, after the attack of cholera had commenced, I inquired the water supply of the house where the individuals were living when the attack took place."
+    },
+    {
+      "id": "p0087",
+      "text": "The inquiry was necessarily attended with a good deal of trouble. There were very few instances in which I could at once get the information I required. Even when the water-rates are paid by the residents, they can seldom remember the name of the Water Company till they have looked for the receipt. In the case of working people who pay weekly rents, the rates are invariably paid by the landlord or his agent, who often lives at a distance, and the residents know nothing about the matter. It would, indeed, have been almost impossible for me to complete the inquiry, if I had not found that I could distinguish the water of the two companies with perfect certainty by a chemical test. The test I employed was founded on the great difference in the quantity of chloride of sodium contained in the two kinds of water, at the time I made the inquiry. On adding solution of nitrate of silver to a gallon of the water of the Lambeth Company, obtained at Thames Ditton, beyond the reach of the sewage of London, only 2.28 grains of chloride of silver were obtained, indicating the presence of 0.95 grains of chloride of sodium in the water. On treating the water of the Southwark and Vauxhall Company in the same manner, 91 grains of chloride of silver were obtained, showing the presence of 37.9 grains of common salt per gallon. Indeed, the difference in appearance on adding nitrate of silver to the two kinds of water was so great, that they could be at once distinguished without any further trouble. Therefore when the resident could not give clear and conclusive evidence about the Water Company, I obtained some of the water in a small phial, and wrote the address on the cover, when I could examine it after coming home. The mere appearance of the water generally afforded a very good indication of its source, especially if it was observed as it came in, before it had entered the water-butt or cistern ; and the time of its coming in also afforded some evidence of the kind of water, after I had ascertained the hours when the turncocks of both Companies visited any street. These points were, however, not relied on, except as corroborating more decisive proof, such as the chemical test, or the Company's receipt for the rates."
+    },
+    {
+      "id": "p0088",
+      "text": "A return had been made to Parliament of the entire number of houses supplied with water by each of the Water Companies, but as the number of houses which they supplied in particular districts was not stated, I found that it would be necessary to carry my inquiry into all the districts to which the supply of either Company extends, in order to show the full bearing of the facts brought out in those districts where the supply is intermingled. I inquired myself respecting every death from cholera in the districts to which the supply of the Lambeth Company extends, and I was fortunate enough to obtain the assistance of a medical man, Mr. John Joseph Whiting, L.A.C., to make inquiry in Bermondsey, Rotherhithe, Wandsworth, and certain other districts, which are supplied only by the Southwark and Vauxhall Company. Mr. Whiting took great pains with his part of the inquiry, which was to ascertain whether the houses in which the fatal attacks took place were supplied with the Company's water, or from a pump-well, or some other source."
+    },
+    {
+      "id": "p0089",
+      "text": "RESULT OF THE INQUIRY AS REGARDS THE FIRST FOUR WEEKS OF THE EPIDEMIC OF 1854"
+    },
+    {
+      "id": "p0090",
+      "text": "Mr. Whiting's part of the investigation extended over the first four weeks of the epidemic, from 8th July to 5th August; and as inquiry was made respecting every death from cholera during this part of the epidemic, in all the districts to which the supply of either of the Water Companies extends, it may be well to consider this period first. There were three hundred and thirty-four deaths from cholera in these four weeks, in the districts to which the water supply of the Southwark and Vauxhall and the Lambeth Company extends. Of these it was ascertained, that in two hundred and eighty-six cases the house where the fatal attack of cholera took place was supplied with water by the Southwark and Vauxhall Company, and in only fourteen cases was the house supplied with the Lambeth Company's water; in twenty-two cases the water was obtained by dipping a pail directly into the Thames, in four instances it was obtained from pump-wells, in four instances from ditches, and in four cases the source of supply was not ascertained, owing to the person being taken ill whilst traveling, or from some similar cause. The particulars of all the deaths which were caused by cholera in the first four weeks of the late epidemic, were published by the Registrar-General in the \"Weekly Returns of Births and Deaths in London,\" and I have had the three hundred and thirty-four above enumerated reprinted in an appendix to this edition, as a guarantee that the water supply was inquired into, and to afford any person who wishes it an opportunity of verifying the result. Any one who should make the inquiry must be careful to find the house where the attack took place, for in many streets there are several houses having the same number."
+    },
+    {
+      "id": "p0091",
+      "text": "According to a return which was made to Parliament, the Southwark and Vauxhall Company supplied 40,046 houses from January 1st to December 31st, 1853, and the Lambeth Company supplied 26,107 houses during the same period; consequently, as 286 fatal attacks of cholera took place, in the first four weeks of the epidemic, in houses supplied by the former Company, and only 14 in houses supplied by the latter, the proportion of fatal attacks to each 10,000 houses was as follows. Southwark and Vauxhall 71. Lambeth 5. The cholera was therefore fourteen times as fatal at this period, amongst persons having the impure water of the Southwark and Vauxhall Company, as amongst those having the purer water from Thames Ditton."
+    },
+    {
+      "id": "p0092",
+      "text": "It is extremely worthy of remark, that whilst only five hundred and sixty-three deaths from cholera occurred in the whole of the metropolis, in the four weeks ending 5th August, more than one half of them took place amongst the customers of the Southwark and Vauxhall Company, and a great portion of the remaining deaths were those of mariners and persons employed amongst the shipping in the Thames, who almost invariably draw their drinking water direct from the river."
+    },
+    {
+      "id": "p0093",
+      "text": "It may, indeed, be confidently asserted, that if the Southwark and Vauxhall Water Company had been able to use the same expedition as the Lambeth Company in completing their new works, and obtaining water free from the contents of sewers, the late epidemic of cholera would have been confined in a great measure to persons employed among the shipping, and to poor people who get water by pailsful direct from the Thames or tidal ditches."
+    },
+    {
+      "id": "p0094",
+      "text": "The number of houses in London at the time of the last census was 327,391. If the houses supplied with water by the Southwark and Vauxhall Company, and the deaths from cholera occurring in these houses, be deducted, we shall have in the remainder of London 287,345 houses, in which 277 deaths from cholera took place in the first four weeks of the epidemic. This is at the rate of nine deaths to each 10,000. But the houses supplied with water by the Lambeth Company only suffered a mortality of five in each 10,000 at this period; it follows, therefore, that these houses, although intimately mixed with those of the Southwark and Vauxhall Company, in which so great a proportional mortality occurred, did not suffer even so much as the rest of London which was not so situated."
+    },
+    {
+      "id": "p0095",
+      "text": "In the beginning of the late epidemic of cholera in London, the Thames water seems to have been the great means of its diffusion, either through the pipes of the Southwark and Vauxhall Company, or more directly by dipping a pail in the river. Cholera was prevailing in the Baltic Fleet in the early part of summer, and the following passage from the \"Weekly Returns\" of the Registrar-General shows that the disease was probably imported thence to the Thames."
+    },
+    {
+      "id": "p0096",
+      "text": "\"Bermondsey, St. James. At 10, Marine Street, on 25th July, a mate mariner, aged 34 years, Asiatic cholera 101 hours, after premonitory diarrhea 16.5 hours. The medical attendant states: 'This patient was the chief mate to a steam-vessel taking stores to and bringing home invalids from the Baltic Fleet. Three weeks ago he brought home in his cabin the soiled linen of an officer who had been ill. The linen was washed and returned.' \""
+    },
+    {
+      "id": "p0097",
+      "text": "The time when this steam-vessel arrived in the Thames with the soiled linen on board, was a few days before the first cases of cholera appeared in London, and these first cases were chiefly amongst persons connected with the shipping in the river. It is not improbable therefore that a few simple precautions, with respect to the communications with the Baltic Fleet, might have saved London from the cholera this year, or at all events greatly retarded its appearance."
+    },
+    {
+      "id": "p0098",
+      "text": "RESULT OF THE INQUIRY AS REGARDS THE FIRST SEVEN WEEKS OF THE EPIDEMIC OF 1854"
+    },
+    {
+      "id": "p0099",
+      "text": "As the epidemic advanced, the disproportion between the number of cases in houses supplied by the Southwark and Vauxhall Company and those supplied by the Lambeth Company, became not quite so great, although it continued very striking. In the beginning of the epidemic the cases appear to have been almost altogether produced through the agency of the Thames water obtained amongst the sewers; and the small number of cases occurring in houses not so supplied, might be accounted for by the fact of persons not keeping always at at home and taking all their meals in the houses in which they live; but as the epidemic advanced it would necessarily spread amongst the customers of the Lambeth Company, as in parts of London where the water was not in fault, by all the usual means of its communication. The two subjoined tables, VII and VIII, show the number of fatal attacks in houses supplied respectively by the two Companies, in all the sub-districts to which their water extends. The cases in table VII, are again included in the larger number which appear in the next table. The sub-districts are arranged in three groups, as they were in table VI, illustrating the epidemic of 1853."
+    },
+    {
+      "id": "p0100",
+      "text": "TABLE VII ILLUSTRATING THESE RESULTS"
+    },
+    {
+      "id": "p0101",
+      "text": "TABLE VIII ILLUSTRATING THESE RESULTS"
+    },
+    {
+      "id": "p0102",
+      "text": "In table VIII, showing the mortality in the first seven weeks of the epidemic, the water supply is the result of my own personal inquiry, in every case, in all the sub-districts to which the supply of the Lambeth Company extends; but in some of the subdistricts supplied only by the Southwark and Vauxhall Company, the inquiry of Mr. Whiting having extended only to 5th August, the water supply of the last three weeks is calculated to have been in the same proportion by the Company, or by pump wells, etc., as in the first four weeks, -- a calculation which is perfectly fair, and must be very near the truth. The sub-districts in which the supply is partly founded on computation, are marked with an asterisk."
+    },
+    {
+      "id": "p0103",
+      "text": "The numbers in table VIII differ a very little from those of the table I communicated to the Medical Times and Gazette of 7th October, on account of the water supply having since been ascertained in some cases in which I did not then know it. The small number of instances in which the water supply remains unascertained are chiefly those of persons taken into a workhouse without their address being known."
+    },
+    {
+      "id": "p0104",
+      "text": "The following is the proportion of deaths to 10,000 houses, during the first seven weeks of the epidemic, in the population supplied by the Southwark and Vauxhall Company, in that supplied by the Lambeth Company, and in the rest of London."
+    },
+    {
+      "id": "p0105",
+      "text": "The mortality in the houses supplied by the Southwark and Vauxhall Company was therefore between eight and nine times as great as in the houses supplied by the Lambeth Company; and it will be remarked that the customers of the Lambeth Company continued to enjoy an immunity from cholera greater than the rest of London which is not mixed up as they are with the houses supplied by the Southwark and Vauxhall Company."
+    },
+    {
+      "id": "p0106",
+      "text": "As regards the period of the epidemic subsequent to the 26th August to which my inquiry extended, I have stated that the Registrar General requested the District Registrars to make a return of the water supply of the house of attack in all cases of death from cholera. Owing to difficulties such as I explained that I had met with in the beginning of my inquiry, the Registrars could not make the return in all cases, and as they could not be expected to seek out the landlord or his agent, or to apply chemical tests to the water as I had done, the water supply remaining unascertained in a number of cases, but the numbers may undoubtedly be considered to show the correct proportions as far as they extend, and they agree entirely with the results of my inquiry respecting the earlier part of the epidemic given above."
+    },
+    {
+      "id": "p0107",
+      "text": "INQUIRY OF THE REGISTRAR-GENERAL RESPECTING THE EFFECT OF THE WATER SUPPLY OF THE ABOVE-MENTIONED COMPANIES DURING THE LATER PERIOD OF THE EPIDEMIC"
+    },
+    {
+      "id": "p0108",
+      "text": "The Registrar General published the returns of the water supply, which he had obtained from the District Registrars, down to 14th October, in a table which is subjoined. As the whole of the south districts of London were included in the inquiry of the Registrar General, the deaths in the Greenwich and Lewisham districts, which are supplied by the Kent Water Company, and did not enter into my inquiry, are included in the table, but they do not in the least affect the numbers connected with the other companies."
+    },
+    {
+      "id": "p0109",
+      "text": "Now 2,353 deaths in 40,046 houses, the number supplied by the Southwark and Vauxhall Company, are 573 deaths to each 10,000 houses; and 302 deaths to 26,107, the number of houses supplied by the Lambeth Company, are 115 deaths to each 10,000 houses; consequently, in the second seven weeks of the epidemic, the population supplied by the Southwark and Vauxhall Company continued to suffer nearly five times the mortality of that supplied with water by the Lambeth Company. If the 795 deaths in which the water supply was not ascertained be distributed equally over the other sources of supply in the above table (No. X), the deaths in houses supplied by the Southwark and Vauxhall Company would be 2,830, and in houses supplied by the Lambeth Company would be 363. By adding the number of deaths which occurred in the first seven weeks of the epidemic, we get the numbers in the subjoined table (No. XI), where the population of the houses supplied by the two water companies is that estimated by the Registrar General.[4]"
+    },
+    {
+      "id": "p0110",
+      "text": "We see by the above table that the houses supplied with water from Thames Ditton, by the Lambeth Company, continued throughout the epidemic to enjoy an immunity from cholera, not only greater than London at large, but greater than every group of districts, except the north and central groups."
+    },
+    {
+      "id": "p0111",
+      "text": "COMPARISON OF THE MORTALITY OF 1849 AND 1854, IN DISTRICTS SUPPLIED BY THE ABOVE-MENTIONED COMPANIES"
+    },
+    {
+      "id": "p0112",
+      "text": "In the next table (No. XII), the mortality from cholera in 1849 is shown side by side with that of 1854, in the various sub-districts to which the supply of the two water companies with which we are particularly interested extends. The mortality of 1854 is down to October 21, and is extracted from a table published in the \"Weekly Return of Births and Deaths\" of October 28; that of 1849 is from the \"Report on Cholera\" by Dr. William Farr, previously quoted. The sub-districts are arranged in three groups as before, the first group being supplied only by the Southwark and Vauxhall Company, the second group by this Company and the Lambeth, and the third group by the Lambeth Company only. It is necessary to observe, however, that the supply of the Lambeth Company has been extended to Streatham, Norwood, and Sydenham since 1849, in which year these places were not supplied by any water company. The situation and extent of the various sub-districts are shown, together with the nature of the water supply, in Map II, which accompanies this work."
+    },
+    {
+      "id": "p0113",
+      "text": "The table exhibits an increase of mortality in 1854 as compared with 1849, in the sub-districts supplied by the Southwark and Vauxhall Company only, whilst there is a considerable diminution of mortality in the sub-districts partly supplied by the Lambeth Company. In certain sub-districts, where I know that the supply of the Lambeth Water Company is more general than elsewhere, as Christchurch, London Road, Waterloo Road 1st, and Lambeth Church 1st, the decrease of mortality in 1854 as compared with 1849 is greatest, as might be expected."
+    },
+    {
+      "id": "p0114",
+      "text": "Waterloo Road 1st, which suffered but little from cholera in the present year, is chiefly composed of very dirty narrow streets, in the neighborhood of Cornwall Road and the New Cut, inhabited by very poor people; and Lambeth Church 1st, which suffered still less, contains a number of skinyards and other factories, between Lambeth Palace and Vauxhall Bridge, which have often been inveighed against as promoting the cholera. The high mortality of the Streatham district in 1849 was caused by the outbreak of cholera in Drouett's Asylum for pauper children, previously mentioned."
+    },
+    {
+      "id": "p0115",
+      "text": "EFFECT OF THE WATER SUPPLY ON MORTALITY FROM CHOLERA AMONGST THE INMATES OF WORKHOUSES AND PRISONS"
+    },
+    {
+      "id": "p0116",
+      "text": "Whilst making inquiries in the south districts of London, I learned some circumstances with respect to the workhouses which deserve to be noticed. In Newington Workhouse, containing 650 inmates, and supplied with the water from Thames Ditton, there had been but two deaths from cholera amongst the inmates down to 21st September, when the epidemic had already greatly declined. In Lambeth Workhouse, containing, if I remember rightly, nearly 1,000 inmates, and supplied with the same water, there had been but one death amongst the inmates when I was there in the first week of September. In St. Saviour's workhouse, which is situated in the parish of Christchurch, and is supplied with water by the Lambeth Company, no inmate died of cholera before I called in the first week of September. On the other hand, in the workhouse of St. George, Southwark, supplied with the water of the Southwark and Vauxhall Company, six inmates died out of about 600 before the 26th August, when the epidemic had only run one-third of its course. The mortality was also high amongst the inmates of St. Olave's Workhouse, supplied with water by the Southwark and Vauxhall Company, but I do not know the number who died. I trust, however, that the Registrar General, in giving an account of the recent epidemic, will make a return of the deaths amongst the inmates of the various workhouses and other institutions on the south side of the Thames, together with the water supply of the buildings. Bethlehem Hospital, the Queen's Prison, Horsemonger Lane Gaol, and some other institutions, having deep wells on the premises, scarcely suffered at all from cholera in 1849, and there was no death in any of them during the part of the recent epidemic to which my inquiry extended."
+    },
+    {
+      "id": "p0117",
+      "text": "On the north side of the Thames the mortality during the recent epidemic seems to have been influenced more by the relative crowding and want of cleanly habits of the people, and by the accidental contamination of the pumpwells, than by the supply of the water companies. The water of the New River Company could have no share in the propagation of cholera, as I explained when treating of the epidemic of 1849; and the extensive districts supplied by this company have been very slightly visited by the disease, except in certain spots which were influenced by the causes above mentioned. The water of the East London Company is also free from the contents of sewers, unless it be those from the neighborhood of Upper Clapton, where there has been very little cholera. The districts supplied by this company have been lightly visited, except such as lie near the Thames, and are inhabited by mariners, coal and ballast-heavers, and others, who are employed on the river. Even Bethnal Green and Spitalfields, so notorious for their poverty and squalor, have suffered a mortality much below the average of the metropolis. The Grand Junction Company obtain their supply at Brentford, within the reach of the tide and near a large population, but they detain the water in large reservoirs, and their officers tell me they filter it; at all events, they supply it in as pure a state as that of the Lambeth Company obtained at Thames Ditton and their districts have suffered very little from cholera except at the spot where the irruption occurred from the contamination of the pumpwell in Broad Street, Golden Square. The West Middlesex Company obtaining their supply from the Thames at Hammersmith, have also very large reservoirs, and the districts they supply have suffered but little from cholera, except the Kensington brick fields, Starch Green, and certain other spots, crowded with poor people, chiefly Irish."
+    },
+    {
+      "id": "p0118",
+      "text": "CHOLERA IN THE DISTRICT OF THE CHELSEA WATER COMPANY"
+    },
+    {
+      "id": "p0119",
+      "text": "The districts supplied by the Chelsea Company have suffered a much greater mortality, during the recent epidemic, than the average of the whole metropolis, as the subjoined table (No. XIII) shows."
+    },
+    {
+      "id": "p0120",
+      "text": "But the mortality in these districts is only half as great as in the houses supplied by the Southwark and Vauxhall Company, who obtain their supply from the Thames just opposite the spot where the Chelsea Company obtain theirs. The latter company, however, by detaining the water in their reservoirs, and by filtering it, are enabled to distribute it in a state of comparative purity; but I had ample opportunities of observing, in August and September last, that this was far from being the state of the water supplied by the Southwark and Vauxhall Company. Many of the people receiving this latter supply were in the habit of tying a piece of linen or some other fabric over the tap by which the water entered the butt or cistern, and in two hours, as the water came in, about a tablespoon of dirt was collected, all in motion with a variety of water insects, whilst the strained water was far from being clear. The contents of the strainer were shown to me in scores of instances. I do not, of course, attribute the cholera either to the insects or the visible dirt; but it is extremely probable that the measures adopted by the Chelsea Company to free the water from these repulsive ingredients, either separated or caused the destruction of the morbid matter of cholera. It is very likely that the detention of the water in the company's reservoirs permitted the decomposition of the cholera poison, and was more beneficial than the filtering, for the following reasons. The water used in Millbank Prison, obtained from the Thames at Millbank, was filtered through sand and charcoal till it looked as clear as that of the Chelsea Company; yet, in every epidemic, the inmates of this prison suffered much more from cholera than the inhabitants of the neighboring streets and those of Tothill Fields Prison, supplied by that company.[5] In the early part of August last, the use of the Thames water was entirely discontinued in Millbank Prison, and water from the Artesian well in Trafalgar Square was used instead, on the recommendation of Dr. Baly, the physician to the prison. In three or four days after this change, the cholera, which was prevailing to an alarming extent, entirely ceased."
+    },
+    {
+      "id": "p0121",
+      "text": "EFFECT OF DRY WEATHER TO INCREASE THE IMPURITY OF THE THAMES"
+    },
+    {
+      "id": "p0122",
+      "text": "The quantity of impurity in the Thames was greatly increased during the late autumn, by the long course of dry weather. From 5th August to 12th September, a period of more than five weeks, only 0.29 of an inch of rain fell at Greenwich, as appears by the report of the Astronomer Royal. The stream of the Thames above the reach of the tide became so slender, that it was difficult to navigate barges above Richmond. The Thames in London is a very large body of water, and if the whole of it flowed away into the sea every day, the liquid which flows down the sewers in twelve hours would form but a very small part of it; but it must be remembered that the quantity of water which passes out to sea, with the ebb of every tide, is only equal to that which flows over Teddington Lock) and from a few small tributary streams. In hot dry weather this quantity is moreover greatly diminished by the evaporation taking place from the immense surface of water exposed between Richmond and Gravesend, so that the river becomes a kind of prolonged lake, the same water passing twice a day to and fro through London, and receiving the excrement of its two millions and more of inhabitants, which keeps accumulating till there is a fall of rain. In time of cholera, the evacuations of the patients keep accumulating in the river along with the other impurities; and it is probably in this way that the dry weather with a high barometer aids in promoting cholera, as it has often been observed to do."
+    },
+    {
+      "id": "p0123",
+      "text": "I thought at first that the quantity of common salt, previously mentioned as being present in the water of the Southwark and Vauxhall Company, consisted entirely of the salt which had passed down the sewers into the river, for I had no idea that any admixture of sea water reached as high as Battersea Fields. Mr. Quick, the engineer of the above Company, informed me, however, that an impregnation of salt water does extend as far after a long course of dry weather. It is obvious that a dry season, whilst it increases the quantity of impurity in the Thames, must also cause the sea water to flow further inland than at other times. I did not examine the water of the Thames in August or September, but I have done so now, at the latter part of November, and I am inclined to think that even yet a slight admixture of sea water may reach to Battersea Fields with every tide. I found 5.8 grains of chloride of sodium per gallon in water obtained at Hungerford Market, at half-flow of the tide, on 19th November, and 19.1 grains per gallon, in water obtained at the same place, on 27th November, at an hour and a half before high water; whilst water obtained at London Bridge, on 28th November, at high water, contained 63.3 grains per gallon."
+    },
+    {
+      "id": "p0124",
+      "text": "A specimen of water obtained on 21st November, from a house supplied by the Southwark and Vauxhall Company, contained 28.8 grains of common salt per gallon, or about three-quarters as much as it contained in September, when the quantity was 37.9 grains. It is very obvious from the above analyses, that the water company obtain their supply from the Thames at high water, or nearly so, although this is the time of the tide when the water contains the greatest amount of impurity. It is quite certain that the sea water cannot reach to Thames Ditton, any more than the contents of the London sewers, and therefore, whatever may be its source, the quantity of chloride of sodium in the water is quite conclusive as regards the purpose for which I examined into it, viz., to distinguish between the water of the two companies."
+    },
+    {
+      "id": "p0125",
+      "text": "When the water of the Southwark and Vauxhall Company was examined by Messrs. Graham, Miller, and Hofmann, at the latter part of January 1851, it contained only 1.99 grains of chloride of sodium, or about one-twentieth as much as it contained last September, and one-fifteenth as much as on 21st November 1854.[6]"
+    },
+    {
+      "id": "p0126",
+      "text": "RELATION BETWEEN THE GREATER OR LESS MORTALITY FROM CHOLERA IN LONDON AND THE LESS OR GREATER ELEVATION OF THE GROUND"
+    },
+    {
+      "id": "p0127",
+      "text": "Dr. William Farr discovered a remarkable coincidence between the mortality from cholera in the different districts of London in 1849, and the elevation of the ground; the connection being of an inverse kind, the higher districts suffering least, and the lowest suffering most from this malady. Dr. Farr was inclined to think that the level of the soil had some direct influence over the prevalence of cholera, but the fact of the most elevated towns in this kingdom, as Wolverhampton, Dolais, Merthyr Tydfil, and Newcastle-upon-Tyne, having suffered excessively from this disease on several occasions, is opposed to this view, as is also the circumstance of Bethlehem Hospital, the Queen's Prison, Horsemonger Lane Gaol, and several other large buildings, which are supplied with water from deep wells on the premises, having nearly or altogether escaped cholera, though situated on a very low level, and surrounded by the disease. The fact of Brixton, at an elevation fifty-six feet above Trinity high-water mark, having suffered a mortality of 55 in 10,000, whilst many districts on the north of the Thames, at less than half the elevation, did not suffer one-third as much, also points to the same conclusion."
+    },
+    {
+      "id": "p0128",
+      "text": "THIS RELATION SHOWN TO DEPEND ON THE DIFFERENCE OF WATER SUPPLY AT DIFFERENT ELEVATIONS"
+    },
+    {
+      "id": "p0129",
+      "text": "I expressed the opinion in 1849,[7] that the increased prevalence of cholera in the low-lying districts of London depended entirely on the greater contamination of the water in these districts, and the comparative immunity from this disease of the population receiving the improved water from Thames Ditton during the epidemics of last year and the present, as shown in the previous pages, entirely confirms this view of the subject; for the great bulk of this population live in the lowest districts of the metropolis."
+    },
+    {
+      "id": "p0130",
+      "text": "REFERENCES PART 3"
+    },
+    {
+      "id": "p0131",
+      "text": "[1] The deaths are obtained from the \"First Report of the Metropolitan Sanitary Commission\", 1847; and the water-supply, chiefly from a work entitled \"Hydraulia\", by William Matthews, 1835."
+    },
+    {
+      "id": "p0132",
+      "text": "[2] A Microscopic Examination of the Water supplied to London. London: 1850."
+    },
+    {
+      "id": "p0133",
+      "text": "[3] P. 207. In the table at page 206, Dr. Baly has fallen into the mistake of supposing that the Lambeth Water Company obtained their supply from Thames Ditton in 1849. It was not till 1852 that their works were removed to that place. Dr.Baly has also mistaken the name and identity of all the three Companies which supply the south districts of London with water."
+    },
+    {
+      "id": "p0134",
+      "text": "[4] Weekly Return, Oct. 14, p. 433"
+    },
+    {
+      "id": "p0135",
+      "text": "[5] In 1849, there were forty-eight deaths from cholera in Milbank prison, amounting to 4.3 per cent, of the average number of prisoners. In Tothill Fields prison there were thirteen deaths among eight hundred prisoners, or 1.6 percent. The other prisons on the north side of the Thames are supplied either by the New River Company, or from pump-wells, and there was but one death from cholera in all of them; that death took place in Newgate."
+    },
+    {
+      "id": "p0136",
+      "text": "[6] Report by the Government Commission on the Chemical Quality of the Supply of Water to the Metropolis. (177.)"
+    },
+    {
+      "id": "p0137",
+      "text": "[7] Medical Gazette, vol. xliv, p. 749."
+    },
+    {
+      "id": "p0138",
+      "text": "END OF"
+    },
+    {
+      "id": "p0139",
+      "text": "[[AGORA-H3]]PART 3[[/AGORA-H3]]"
+    },
+    {
+      "id": "p0140",
+      "text": ", pp 55-98"
+    },
+    {
+      "id": "p0141",
+      "text": "IF READING OTHER SNOW 1855 BOOK SECTIONS:"
+    },
+    {
+      "id": "p0142",
+      "text": "[[AGORA-H3]]Part 1[[/AGORA-H3]]"
+    },
+    {
+      "id": "p0143",
+      "text": "(pp 1-38)"
+    },
+    {
+      "id": "p0144",
+      "text": "[[AGORA-H3]]Part 2[[/AGORA-H3]]"
+    },
+    {
+      "id": "p0145",
+      "text": "(pp 38-55)"
+    },
+    {
+      "id": "p0146",
+      "text": "[[AGORA-H3]]Part 4[[/AGORA-H3]]"
+    },
+    {
+      "id": "p0147",
+      "text": "(pp 98-139)"
+    },
+    {
+      "id": "p0148",
+      "text": "Click to continue to Stream 3 - b: Photo Tour of History of London's Water Supply\""
+    }
+  ],
+  "anchors": {
+    "science-snow-ready-made-experiment": {
+      "paragraphId": "p0079",
+      "start": 1619,
+      "end": 2021,
+      "quote": "As there is no difference whatever, either in the houses or the people receiving the supply of the two Water Companies, or in any of the physical conditions with which they are surrounded, it is obvious that no experiment could have been devised which would more thoroughly test the effect of water supply on the progress of cholera than this, which circumstances placed ready made before the observer.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -36,6 +36,11 @@ test("detail chunks load by library and preserve shared-chunk caching", async ()
   const science = await loadInterpretationDetailsForLibrary("science");
   const indian = await loadInterpretationDetailsForLibrary("indian");
   const economics = await loadInterpretationDetailsForLibrary("economics");
+  const psychology = await loadInterpretationDetailsForLibrary("psychology");
+  const { curation2026RetiredThoughtIds } = await tsImport(
+    "../content/curation2026Registry.ts",
+    import.meta.url,
+  );
 
   assert.equal(west, chinese, "western and Chinese details share one lazy chunk");
   assert.equal(mao, science, "Mao and science details share one lazy chunk");
@@ -46,10 +51,29 @@ test("detail chunks load by library and preserve shared-chunk caching", async ()
     "the economics detail chunk is cached after its first load",
   );
   assert.equal(typeof economics, "object");
+  const loadedIds = new Set(
+    [west, mao, indian, economics, psychology]
+      .flatMap((details) => Object.keys(details)),
+  );
+  for (const thoughtId of curation2026RetiredThoughtIds) {
+    assert.ok(!loadedIds.has(thoughtId), `${thoughtId} must stay out of lazy detail chunks`);
+  }
   assert.ok(await loadInterpretationDetailForThought("plato", "western"));
   assert.ok(
     await loadInterpretationDetailForThought(
+      "sextus-opposes-appearances-judgements",
+      "western",
+    ),
+  );
+  assert.ok(
+    await loadInterpretationDetailForThought(
       "chinese-confucius-rectifying-names",
+      "chinese",
+    ),
+  );
+  assert.ok(
+    await loadInterpretationDetailForThought(
+      "chinese-xici-yin-yang-way",
       "chinese",
     ),
   );

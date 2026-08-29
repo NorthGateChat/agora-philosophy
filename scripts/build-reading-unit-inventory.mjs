@@ -17,9 +17,9 @@ import { verifiedSourcePassages } from "../content/verifiedSourcePassages.ts";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const RESEARCH_OUTPUT = path.join(ROOT, "research/reading-units/inventory.json");
 const PUBLIC_OUTPUT = path.join(ROOT, "public/readings/index.json");
-const GENERATED_ON = "2026-08-29";
-const EXPECTED_CATALOG_COUNT = 1_452;
-const EXPECTED_VERIFIED_COUNT = 890;
+const GENERATED_ON = "2026-08-30";
+const EXPECTED_CATALOG_COUNT = 1_441;
+const EXPECTED_VERIFIED_COUNT = 918;
 const MIN_UNIT_COUNT = 650;
 const MAX_UNIT_COUNT = 750;
 
@@ -283,6 +283,30 @@ function canonicalYogaBookIdentifier(citationHead) {
 }
 
 function workSpecificContainingUnit(citationHead, englishWork) {
+  if (/^Deliverance from Error \(translated in 1909 as The Confessions of Al Ghazzali\)$/iu.test(englishWork)) {
+    const section = citationHead.match(/\bsection\s+(\d+)\b/iu)?.[1];
+    return section
+      ? completedStructure([structurePart("section", section, "Section", "节")])
+      : undefined;
+  }
+
+  if (englishWork === "The Guide for the Perplexed") {
+    const chapter = citationHead.match(/\bThe Guide for the Perplexed\s+([IVXLCDM]+)\.(\d+)\b/iu);
+    return chapter
+      ? completedStructure([
+        structurePart("part", chapter[1], "Part", "部分", chapter.index),
+        structurePart("chapter", chapter[2], "Chapter", "章", chapter.index),
+      ])
+      : undefined;
+  }
+
+  if (englishWork === "The Great Calming and Contemplation") {
+    const fascicle = citationHead.match(/\bfascicle\s+(\d+)\b/iu)?.[1];
+    return fascicle
+      ? completedStructure([structurePart("fascicle", fascicle, "Fascicle", "卷")])
+      : undefined;
+  }
+
   if (englishWork === "Yoga Sutra") {
     return canonicalYogaBookIdentifier(citationHead);
   }

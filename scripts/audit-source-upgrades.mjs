@@ -18,7 +18,7 @@ import { resolveThoughtPresentationNature } from "../content/thoughtPresentation
 import { curatedThoughtEmphasis } from "../content/thoughtEmphasis.ts";
 import { verifiedSourcePassages } from "../content/verifiedSourcePassages.ts";
 
-const EXPECTED_PUBLIC_THOUGHT_COUNT = 1_452;
+const EXPECTED_PUBLIC_THOUGHT_COUNT = 1_441;
 const formats = new Set(["table", "tsv", "json"]);
 const dispositionDecisions = new Set(["pending-upgrade", "retain-editorial", "all"]);
 const retainedDispositionReasons = new Set([
@@ -547,8 +547,8 @@ function runChecks(state) {
     if (hasChineseSummary !== hasEnglishSummary) {
       errors.push(`${thought.id} must provide editorialSummary and englishEditorialSummary together`);
     }
-    if (hasChineseSummary && !isSource) {
-      errors.push(`${thought.id} has a deep-reading editorial summary but is not a source excerpt`);
+    if (hasChineseSummary && !["source-excerpt", "editorial-synthesis"].includes(nature)) {
+      errors.push(`${thought.id} has a deep-reading editorial summary but is not source-led content`);
     }
     if (isSource && !state.emphasisById.has(thought.id)) {
       warnings.push(`${thought.id} is a source excerpt without curated emphasis`);

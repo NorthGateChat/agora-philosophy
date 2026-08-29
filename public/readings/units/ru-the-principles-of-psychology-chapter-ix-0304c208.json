@@ -7,8 +7,8 @@
   "englishWork": "The Principles of Psychology",
   "locator": "章 IX",
   "englishLocator": "Chapter IX",
-  "version": "古登堡计划公版英文文本，《心理学原理》第一卷第 9 章第 239 页",
-  "englishVersion": "Project Gutenberg public-domain English text, The Principles of Psychology, Vol. I, Chapter IX, p. 239",
+  "version": "詹姆斯《心理学原理》1890年初版第一卷扫描，第9章，印刷页239（扫描序号259）；完整连续句，并以古登堡计划检索文本复核",
+  "englishVersion": "James, The Principles of Psychology, 1890 first edition, Vol. I scan, Chapter IX, print p. 239 (scan sequence 259); complete continuous sentence, cross-checked against the Project Gutenberg searchable text",
   "sourceUrl": "https://www.gutenberg.org/files/57628/57628-h/57628-h.htm",
   "preparedSourceUrl": "https://gutenberg.pglaf.org/5/7/6/2/57628/57628-0.txt",
   "source": {
@@ -18,7 +18,7 @@
   },
   "selectionMethod": "quote-guided-boundary",
   "contentHash": "fa3eb74e9572d13aa1957ac238ab677506c0691da24afd5ef40cca2162dea9de",
-  "inputHash": "8868ebb46bfec59c42144a861e631cf947e00825518f4e1ff2f50684d7ee4d75",
+  "inputHash": "bc5e05526cea42ec5d298bca30a0c20ad116cb7f3c6206b6143650f9c24252a0",
   "paragraphs": [
     {
       "id": "p0001",
@@ -902,13 +902,6 @@
     }
   ],
   "anchors": {
-    "james-stream-of-thought": {
-      "paragraphId": "p0045",
-      "start": 0,
-      "end": 66,
-      "quote": "Consciousness, then, does not appear to itself chopped up in bits.",
-      "match": "normalized-exact"
-    },
     "psychology-foundations-james-stream": {
       "paragraphId": "p0045",
       "start": 0,

@@ -1,3 +1,6 @@
+import { curation2026RetiredThoughtIds } from "./curation2026Registry";
+import { curationIllustrations } from "./curationIllustrations";
+
 export type ThoughtIllustration = {
   thoughtId: string;
   assetId: string;
@@ -11,7 +14,7 @@ export type ThoughtIllustration = {
   placement: readonly ("detail" | "share")[];
 };
 
-export const thoughtIllustrations = [
+const preCurationThoughtIllustrations = [
   {
     thoughtId: "husserl-sedimentation-geometry",
     assetId: "threshold-manuscript-562",
@@ -17439,6 +17442,13 @@ export const thoughtIllustrations = [
     placement: ["detail", "share"],
   },
 ] as const satisfies readonly ThoughtIllustration[];
+
+export const thoughtIllustrations: readonly ThoughtIllustration[] = [
+  ...preCurationThoughtIllustrations.filter(
+    (illustration) => !curation2026RetiredThoughtIds.has(illustration.thoughtId),
+  ),
+  ...curationIllustrations,
+];
 
 const illustrationsByThoughtId = new Map<string, ThoughtIllustration>(
   thoughtIllustrations.map(

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedOn": "2026-08-29",
-  "catalogThoughtCount": 1452,
-  "verifiedThoughtCount": 890,
-  "unitCount": 660,
+  "generatedOn": "2026-08-30",
+  "catalogThoughtCount": 1441,
+  "verifiedThoughtCount": 918,
+  "unitCount": 686,
   "thoughtMap": {
     "anscombe": {
       "unitId": "ru-modern-moral-philosophy-whole-work-256ba97f",
@@ -446,6 +446,33 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
+    "austin-saying-doing-three-senses": {
+      "unitId": "ru-how-to-do-things-with-words-lecture-viii-69cf4d28",
+      "locator": {
+        "zh": "J. L. 奥斯汀《如何以言行事》第八讲，第 91 页，第二版（1975）；所引为句中连续片段",
+        "en": "J. L. Austin, How to Do Things with Words, Lecture VIII, p. 91, 2nd ed. (1975); continuous clause from the sentence"
+      },
+      "originalField": "english",
+      "useBasis": "quotation-exception"
+    },
+    "austin-total-speech-situation": {
+      "unitId": "ru-how-to-do-things-with-words-lecture-xii-214c6dfa",
+      "locator": {
+        "zh": "J. L. 奥斯汀《如何以言行事》第十二讲，第 148 页，第二版（1975）",
+        "en": "J. L. Austin, How to Do Things with Words, Lecture XII, p. 148, 2nd ed. (1975)"
+      },
+      "originalField": "english",
+      "useBasis": "quotation-exception"
+    },
+    "austin-utterance-performs-action": {
+      "unitId": "ru-how-to-do-things-with-words-lecture-i-8501de42",
+      "locator": {
+        "zh": "J. L. 奥斯汀《如何以言行事》第一讲，第 6 页，第二版（1975）",
+        "en": "J. L. Austin, How to Do Things with Words, Lecture I, p. 6, 2nd ed. (1975)"
+      },
+      "originalField": "english",
+      "useBasis": "quotation-exception"
+    },
     "averroes": {
       "unitId": "ru-the-decisive-treatise-part-i-6fdef658",
       "locator": {
@@ -869,6 +896,33 @@
       "originalField": "text",
       "useBasis": "public-domain"
     },
+    "chinese-he-yin-zhen-revolutions-together": {
+      "unitId": "ru-womens-declaration-whole-work-746e8fd1",
+      "locator": {
+        "zh": "何殷震《女子宣布书》后段，《天义》1907 年；简体与现代标点",
+        "en": "He-Yin Zhen, “Women's Declaration,” concluding section, Natural Justice (1907); normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-he-yin-zhen-women-made-slaves": {
+      "unitId": "ru-the-question-of-womens-liberation-whole-work-17776513",
+      "locator": {
+        "zh": "何殷震《女子解放问题》中段，《天义》1907 年第 7 卷；简体与现代标点",
+        "en": "He-Yin Zhen, “The Question of Women's Liberation,” middle section, Natural Justice, no. 7 (1907); normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-he-yin-zhen-world-shared": {
+      "unitId": "ru-the-question-of-womens-liberation-whole-work-17776513",
+      "locator": {
+        "zh": "何殷震《女子解放问题》开篇，《天义》1907 年第 7 卷；简体与现代标点",
+        "en": "He-Yin Zhen, “The Question of Women's Liberation,” opening, Natural Justice, no. 7 (1907); normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
     "chinese-huang-zongxi-office-for-all": {
       "unitId": "ru-waiting-for-the-dawn-on-ministers-named-chapter-on-ministers-0a8f9018",
       "locator": {
@@ -1013,6 +1067,33 @@
       "originalField": "text",
       "useBasis": "public-domain"
     },
+    "chinese-lu-jiuyuan-heart-and-pattern": {
+      "unitId": "ru-collected-works-of-lu-jiuyuan-letter-to-zeng-zha-whole-work-be117d4b",
+      "locator": {
+        "zh": "陆九渊《陆九渊集》卷一《与曾宅之》；通行本简体与现代标点",
+        "en": "Lu Jiuyuan, Collected Works, fascicle 1, “Letter to Zeng Zhaizhi”; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-lu-jiuyuan-root-and-branches": {
+      "unitId": "ru-collected-works-of-lu-jiuyuan-letter-to-shao-shu-whole-work-c38e8cce",
+      "locator": {
+        "zh": "陆九渊《陆九渊集》卷一《与邵叔宜》；通行本简体与现代标点",
+        "en": "Lu Jiuyuan, Collected Works, fascicle 1, “Letter to Shao Shuyi”; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-lu-jiuyuan-way-fills-cosmos": {
+      "unitId": "ru-collected-works-of-lu-jiuyuan-letter-to-supervis-whole-work-b7eaabad",
+      "locator": {
+        "zh": "陆九渊《陆九渊集》卷一《与赵监》；通行本简体与现代标点",
+        "en": "Lu Jiuyuan, Collected Works, fascicle 1, “Letter to Supervisor Zhao”; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
     "chinese-mencius-compassion-sprout": {
       "unitId": "ru-mencius-gongsun-chou-i-named-chapter-gongsun-chou-i-274326ad",
       "locator": {
@@ -1066,6 +1147,33 @@
       },
       "originalField": "text",
       "useBasis": "public-domain"
+    },
+    "chinese-mohist-cause-definition": {
+      "unitId": "ru-mozi-canons-i-named-chapter-canons-i-80225a8e",
+      "locator": {
+        "zh": "《墨子·经上》“故”条；通行本简体与现代标点，宜与《经说上》对应条合读",
+        "en": "Mozi, Canons I, entry on gu (grounds); received text, normalized punctuation; read with the corresponding Explanations I entry"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-mohist-kinds-of-names": {
+      "unitId": "ru-mozi-canons-i-named-chapter-canons-i-80225a8e",
+      "locator": {
+        "zh": "《墨子·经上》“名”条；通行本简体与现代标点，参《经说上》对应条",
+        "en": "Mozi, Canons I, entry on names; received text, normalized punctuation; compare the corresponding Explanations I entry"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-mohist-name-claim-reason": {
+      "unitId": "ru-mozi-minor-illustrations-named-chapter-minor-illustrations-787d6cc1",
+      "locator": {
+        "zh": "《墨子·小取》篇；通行本简体与现代标点",
+        "en": "Mozi, Minor Illustrations; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
     },
     "chinese-mozi-against-aggression": {
       "unitId": "ru-mozi-condemnation-of-offensive-war-i-named-chapter-condemnation-of-offensive-war-i-338b5208",
@@ -1301,6 +1409,33 @@
       "originalField": "text",
       "useBasis": "public-domain"
     },
+    "chinese-xici-images-express-meaning": {
+      "unitId": "ru-zhouyi-xici-i-named-chapter-xici-i-66a0d7c4",
+      "locator": {
+        "zh": "《周易·系辞上》第十二章；通行本简体与现代标点",
+        "en": "Zhouyi, Xici I, chapter 12; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-xici-way-and-instruments": {
+      "unitId": "ru-zhouyi-xici-i-named-chapter-xici-i-66a0d7c4",
+      "locator": {
+        "zh": "《周易·系辞上》第十二章；通行本简体与现代标点",
+        "en": "Zhouyi, Xici I, chapter 12; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-xici-yin-yang-way": {
+      "unitId": "ru-zhouyi-xici-i-named-chapter-xici-i-66a0d7c4",
+      "locator": {
+        "zh": "《周易·系辞上》第五章；通行本简体与现代标点",
+        "en": "Zhouyi, Xici I, chapter 5; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
     "chinese-xunzi-constant-heaven": {
       "unitId": "ru-xunzi-discourse-on-heaven-named-chapter-discourse-on-heaven-fb12403c",
       "locator": {
@@ -1381,6 +1516,33 @@
       },
       "originalField": "text",
       "useBasis": "public-domain"
+    },
+    "chinese-zhiyi-one-mind-three-wisdoms": {
+      "unitId": "ru-the-great-calming-and-contemplation-fascicle-1-dc38729f",
+      "locator": {
+        "zh": "智顗说、灌顶记《摩诃止观》卷一“圆顿止观”；通行本简体与现代标点",
+        "en": "Zhiyi, lectures recorded by Guanding, The Great Calming and Contemplation, fascicle 1, “Perfect and Sudden Calming and Contemplation”; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-zhiyi-practice-matches-words": {
+      "unitId": "ru-the-great-calming-and-contemplation-fascicle-1-dc38729f",
+      "locator": {
+        "zh": "智顗说、灌顶记《摩诃止观》卷一；通行本简体与现代标点",
+        "en": "Zhiyi, lectures recorded by Guanding, The Great Calming and Contemplation, fascicle 1; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
+    },
+    "chinese-zhiyi-three-truths-one-mind": {
+      "unitId": "ru-the-great-calming-and-contemplation-fascicle-6-610ed83a",
+      "locator": {
+        "zh": "智顗说、灌顶记《摩诃止观》卷六“观不思议境”；通行本简体与现代标点",
+        "en": "Zhiyi, lectures recorded by Guanding, The Great Calming and Contemplation, fascicle 6, “Contemplating the Inconceivable Realm”; received text, normalized punctuation"
+      },
+      "originalField": "text",
+      "useBasis": "open-license"
     },
     "chinese-zhou-dunyi-motion-and-stillness": {
       "unitId": "ru-explanation-of-the-diagram-of-the-supreme-polari-whole-work-938bd0ed",
@@ -2543,15 +2705,6 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
-    "francis-bacon-idols": {
-      "unitId": "ru-novum-organum-book-i-d91738cb",
-      "locator": {
-        "zh": "弗朗西斯·培根《新工具》卷一，第 39 条（Joseph Devey 编，1902）",
-        "en": "Francis Bacon, Novum Organum, Book I, Aphorism XXXIX (Joseph Devey ed., 1902)"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
     "francis-bacon-ladder": {
       "unitId": "ru-novum-organum-book-i-d91738cb",
       "locator": {
@@ -2611,6 +2764,33 @@
       "locator": {
         "zh": "弗雷格〈类、函数、概念、关系〉，《一元论者》27卷1期（1917年1月），原刊印刷页119；Johann Stachelroth与Philip E. B. Jourdain英译，完整连续句；仅确认美国公版",
         "en": "Frege, “Class, Function, Concept, Relation,” The Monist 27(1) (January 1917), original print p. 119; trans. Johann Stachelroth and Philip E. B. Jourdain, complete continuous sentence; U.S. public-domain status only"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "ghazali-bases-certitude": {
+      "unitId": "ru-deliverance-from-error-translated-in-1909-as-the-section-1-8bb2d021",
+      "locator": {
+        "zh": "安萨里《迷途指津》，1909 年 Claud Field 英译本《安萨里的忏悔》第一节“寻求真理”",
+        "en": "Al-Ghazālī, Deliverance from Error, in Claud Field's The Confessions of Al Ghazzali (1909), section 1, “The Search for Truth”"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "ghazali-blind-belief-consciousness": {
+      "unitId": "ru-deliverance-from-error-translated-in-1909-as-the-section-3-3b9c18f9",
+      "locator": {
+        "zh": "安萨里《迷途指津》，1909 年 Claud Field 英译本《安萨里的忏悔》第三节",
+        "en": "Al-Ghazālī, Deliverance from Error, in Claud Field's The Confessions of Al Ghazzali (1909), section 3"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "ghazali-experience-not-definition": {
+      "unitId": "ru-deliverance-from-error-translated-in-1909-as-the-section-7-6313c0b2",
+      "locator": {
+        "zh": "安萨里《迷途指津》，1909 年 Claud Field 英译本《安萨里的忏悔》第七节“苏非主义”",
+        "en": "Al-Ghazālī, Deliverance from Error, in Claud Field's The Confessions of Al Ghazzali (1909), section 7, “Sufism”"
       },
       "originalField": "english",
       "useBasis": "public-domain"
@@ -3749,15 +3929,6 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
-    "james-stream-of-thought": {
-      "unitId": "ru-the-principles-of-psychology-chapter-ix-0304c208",
-      "locator": {
-        "zh": "《心理学原理》第一卷，第九章，第 239 页",
-        "en": "The Principles of Psychology, Vol. I, Chapter IX, p. 239"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
     "james-truth-verification": {
       "unitId": "ru-pragmatism-lecture-vi-ed0bcf84",
       "locator": {
@@ -4217,6 +4388,33 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
+    "lucretius-bodies-and-void": {
+      "unitId": "ru-on-the-nature-of-things-whole-work-5a5d9462",
+      "locator": {
+        "zh": "卢克莱修《物性论》第一卷，第 419—421 行，William Ellery Leonard 英译本（1916）",
+        "en": "Lucretius, On the Nature of Things I.419–421, trans. William Ellery Leonard (1916)"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "lucretius-death-nothing": {
+      "unitId": "ru-on-the-nature-of-things-whole-work-5a5d9462",
+      "locator": {
+        "zh": "卢克莱修《物性论》第三卷，第 830—832 行，William Ellery Leonard 英译本（1916）",
+        "en": "Lucretius, On the Nature of Things III.830–832, trans. William Ellery Leonard (1916)"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "lucretius-nothing-from-nothing": {
+      "unitId": "ru-on-the-nature-of-things-whole-work-5a5d9462",
+      "locator": {
+        "zh": "卢克莱修《物性论》第一卷，第 150 行，William Ellery Leonard 英译本（1916）",
+        "en": "Lucretius, On the Nature of Things I.150, trans. William Ellery Leonard (1916)"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
     "machiavelli": {
       "unitId": "ru-the-prince-chapter-xv-630037de",
       "locator": {
@@ -4267,6 +4465,33 @@
       "locator": {
         "zh": "马基雅维利《君主论》第 18 章（W. K. Marriott 英译本）",
         "en": "Machiavelli, The Prince, Chapter XVIII (W. K. Marriott trans.)"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "maimonides-law-soul-body-welfare": {
+      "unitId": "ru-the-guide-for-the-perplexed-part-iii-chapter-27-92042266",
+      "locator": {
+        "zh": "迈蒙尼德《迷途指津》第三部第二十七章，M. Friedländer 英译本（1904）",
+        "en": "Maimonides, The Guide for the Perplexed III.27, trans. M. Friedländer (1904)"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "maimonides-negation-advances-knowledge": {
+      "unitId": "ru-the-guide-for-the-perplexed-part-i-chapter-59-3f8ab1a4",
+      "locator": {
+        "zh": "迈蒙尼德《迷途指津》第一部第五十九章，M. Friedländer 英译本（1904），印本第 179 页",
+        "en": "Maimonides, The Guide for the Perplexed I.59, trans. M. Friedländer (1904), print p. 179"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "maimonides-no-positive-attribute": {
+      "unitId": "ru-the-guide-for-the-perplexed-part-i-chapter-58-ba758550",
+      "locator": {
+        "zh": "迈蒙尼德《迷途指津》第一部第五十八章，M. Friedländer 英译本（1904），印本第 176 页",
+        "en": "Maimonides, The Guide for the Perplexed I.58, trans. M. Friedländer (1904), print p. 176"
       },
       "originalField": "english",
       "useBasis": "public-domain"
@@ -5068,15 +5293,6 @@
       "locator": {
         "zh": "《共产党宣言》第一章“资产者和无产者”；Samuel Moore 英译、Engels 修订，Wikisource 扫描校对版（对应1910年公版印本）",
         "en": "Manifesto of the Communist Party, Chapter I, “Bourgeois and Proletarians”; Samuel Moore translation revised by Engels, scan-backed Wikisource text of the public-domain 1910 edition"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
-    "marx-commodity-fetishism": {
-      "unitId": "ru-capital-volume-i-chapter-1-b258675f",
-      "locator": {
-        "zh": "《资本论》第一卷第一章第四节；Moore、Aveling 与 Untermann 公版英译",
-        "en": "Capital, Volume I, Chapter 1, §4; public-domain translation by Moore, Aveling, and Untermann"
       },
       "originalField": "english",
       "useBasis": "public-domain"
@@ -6602,15 +6818,6 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
-    "science-bacon-bee": {
-      "unitId": "ru-novum-organum-book-i-d91738cb",
-      "locator": {
-        "zh": "约瑟夫·德维编（纽约：P. F. Collier & Son，1902 年），第一卷，第 XCV 格言",
-        "en": "Joseph Devey ed. (New York: P. F. Collier & Son, 1902), Book I, Aphorism XCV"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
     "science-bacon-gradual-induction": {
       "unitId": "ru-novum-organum-book-i-d91738cb",
       "locator": {
@@ -6634,15 +6841,6 @@
       "locator": {
         "zh": "约瑟夫·德维编（纽约：P. F. Collier & Son，1902 年），第二卷，第 XII 格言；同一格言内删节以省略号标示",
         "en": "Joseph Devey ed. (New York: P. F. Collier & Son, 1902), Book II, Aphorism XII; omission within the aphorism marked with an ellipsis"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
-    "science-bacon-organized-experiment": {
-      "unitId": "ru-novum-organum-book-i-d91738cb",
-      "locator": {
-        "zh": "约瑟夫·德维编（纽约：P. F. Collier & Son，1902 年），第一卷，第 LXX 格言；连续原句",
-        "en": "Joseph Devey ed. (New York: P. F. Collier & Son, 1902), Book I, Aphorism LXX; continuous sentence"
       },
       "originalField": "english",
       "useBasis": "public-domain"
@@ -6935,6 +7133,15 @@
       "originalField": "english",
       "useBasis": "quotation-exception"
     },
+    "science-fisher-randomized-plots": {
+      "unitId": "ru-the-arrangement-of-field-experiments-whole-work-fe4db1b3",
+      "locator": {
+        "zh": "费希尔〈田间试验的安排〉，《农业部期刊》33卷（1926），“Errors Wrongly Estimated”节，印刷页506—507；连续句首，尾部删节以省略号标明",
+        "en": "Fisher, ‘The Arrangement of Field Experiments,’ Journal of the Ministry of Agriculture 33 (1926), ‘Errors Wrongly Estimated,’ print pp. 506–507; continuous opening of a sentence, trailing omission marked by an ellipsis"
+      },
+      "originalField": "english",
+      "useBasis": "open-license"
+    },
     "science-franklin-diffraction": {
       "unitId": "ru-molecular-configuration-in-sodium-thymonucleate-whole-work-7e39f572",
       "locator": {
@@ -7052,6 +7259,15 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
+    "science-hutton-deep-time-no-beginning": {
+      "unitId": "ru-theory-of-the-earth-chapter-i-3e13dbd9",
+      "locator": {
+        "zh": "赫顿《地球理论》第一卷（1795），第一章末句；Project Gutenberg据公版版本转录",
+        "en": "Hutton, Theory of the Earth, vol. I (1795), Chapter I, final sentence; Project Gutenberg transcription of the public-domain edition"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
     "science-kepler-area": {
       "unitId": "ru-epitome-of-copernican-astronomy-book-v-f3f71a1a",
       "locator": {
@@ -7070,29 +7286,11 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
-    "science-kepler-ellipse": {
-      "unitId": "ru-harmonices-mundi-book-v-chapter-3-a74dcbec",
-      "locator": {
-        "zh": "第五卷第3章第V项；Charles Glenn Wallis 1939 年公版英译，第1018页，连续节录",
-        "en": "Book V, Chapter 3, Article V; Charles Glenn Wallis public-domain translation (1939), p. 1018; continuous excerpt"
-      },
-      "originalField": "english",
-      "useBasis": "quotation-exception"
-    },
     "science-kepler-harmonic-law": {
       "unitId": "ru-harmonices-mundi-book-v-chapter-3-a74dcbec",
       "locator": {
         "zh": "第五卷第3章第VIII项；Charles Glenn Wallis 1939 年公版英译，第1020页，连续节录",
         "en": "Book V, Chapter 3, Article VIII; Charles Glenn Wallis public-domain translation (1939), p. 1020; continuous excerpt"
-      },
-      "originalField": "english",
-      "useBasis": "quotation-exception"
-    },
-    "science-kuhn-anomaly-discovery": {
-      "unitId": "ru-the-structure-of-scientific-revolutions-chapter-vi-2bc325f3",
-      "locator": {
-        "zh": "芝加哥大学出版社 1970 年增订第二版，第六章“异常与科学发现的涌现”，第 52 页末至第 53 页首；同一完整句跨页连续",
-        "en": "University of Chicago Press, second enlarged edition (1970), Chapter VI, ‘Anomaly and the Emergence of Scientific Discoveries,’ bottom of p. 52 through the first line of p. 53; one complete continuous sentence across the page break"
       },
       "originalField": "english",
       "useBasis": "quotation-exception"
@@ -7114,6 +7312,33 @@
       },
       "originalField": "english",
       "useBasis": "quotation-exception"
+    },
+    "science-lavoisier-conservation-balance": {
+      "unitId": "ru-elements-of-chemistry-part-i-chapter-xiii-7df6f412",
+      "locator": {
+        "zh": "拉瓦锡《化学原理》，Robert Kerr 1790年英译，第一部分第十三章，印刷页130—131，完整连续句",
+        "en": "Lavoisier, Elements of Chemistry, trans. Robert Kerr (1790), Part I, Chapter XIII, print pp. 130–131, complete continuous sentence"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "science-lavoisier-nomenclature-facts-ideas-words": {
+      "unitId": "ru-elements-of-chemistry-preface-preface-4f8b7e34",
+      "locator": {
+        "zh": "拉瓦锡《化学原理》，Robert Kerr 1790年英译，“作者序言”，印刷页xiv—xv，完整连续句",
+        "en": "Lavoisier, Elements of Chemistry, trans. Robert Kerr (1790), Preface of the Author, print pp. xiv–xv, complete continuous sentence"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
+    "science-lyell-present-causes": {
+      "unitId": "ru-principles-of-geology-book-i-chapter-xiii-a689c324",
+      "locator": {
+        "zh": "莱尔《地质学原理》第九版（1853，纽约版题页1854），第一编第十三章结尾，印刷页196，完整连续句",
+        "en": "Lyell, Principles of Geology, 9th ed. (1853, New York title page 1854), Book I, Chapter XIII, print p. 196, complete continuous sentence"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
     },
     "science-maxwell-analogy": {
       "unitId": "ru-on-faradays-lines-of-force-introduction-introduction-23863fee",
@@ -7187,15 +7412,6 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
-    "science-newton-analysis-synthesis": {
-      "unitId": "ru-opticks-book-iii-2a775caf",
-      "locator": {
-        "zh": "第二版，第三卷，问题 31 末段（1718）；牛顿英文原文；卡片以省略号标示中间删节",
-        "en": "Second edition, Book III, Query 31, closing methodological passage (1718); Newton's English text; internal omission marked with an ellipsis"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
     "science-newton-no-feigned-hypothesis": {
       "unitId": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-general-scholium-416eef44",
       "locator": {
@@ -7214,15 +7430,6 @@
       "originalField": "english",
       "useBasis": "public-domain"
     },
-    "science-newton-rule-third": {
-      "unitId": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65",
-      "locator": {
-        "zh": "第三编“哲学推理规则”第三条；Andrew Motte 1729 年公版英译，连续节录",
-        "en": "Book III, Rules of Reasoning in Philosophy, Rule III; Andrew Motte public-domain translation (1729), continuous excerpt"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
     "science-newton-rules-causes": {
       "unitId": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65",
       "locator": {
@@ -7231,6 +7438,15 @@
       },
       "originalField": "english",
       "useBasis": "public-domain"
+    },
+    "science-neyman-pearson-error-control": {
+      "unitId": "ru-on-the-problem-of-the-most-efficient-tests-of-st-whole-work-ef7ef09c",
+      "locator": {
+        "zh": "奈曼与皮尔逊〈统计假设最有效检验问题〉，《皇家学会哲学汇刊A》231卷（1933），第二节，印刷页296；完整句后半连续分句，句首删节以省略号标明",
+        "en": "Neyman and Pearson, ‘On the Problem of the Most Efficient Tests of Statistical Hypotheses,’ Philosophical Transactions of the Royal Society A 231 (1933), §II, print p. 296; continuous final clause of a sentence, opening omission marked by an ellipsis"
+      },
+      "originalField": "english",
+      "useBasis": "quotation-exception"
     },
     "science-pasteur-airborne-contamination": {
       "unitId": "ru-on-spontaneous-generation-whole-work-80e9bc01",
@@ -7255,15 +7471,6 @@
       "locator": {
         "zh": "《大众科学月刊》第7卷（1875年10月），《巴斯德论发酵》，L. A. Stimson 公版英译，711—712页；节录接种后液体变化与显微观察两段，中间删节以省略号标明",
         "en": "Popular Science Monthly, vol. 7 (October 1875), “Pasteur on Fermentation,” public-domain translation by L. A. Stimson, pp. 711–712; excerpts from the inoculation and microscopy passages, with internal omissions marked by ellipses"
-      },
-      "originalField": "english",
-      "useBasis": "public-domain"
-    },
-    "science-pasteur-rabies": {
-      "unitId": "ru-inoculation-against-hydrophobia-whole-work-737c646c",
-      "locator": {
-        "zh": "《大众科学月刊》第28卷（1886年1月），《接种预防恐水病》，289页开篇；英译自巴斯德1885年10月26日在法国科学院宣读的报告，卡片跨段删节以省略号标明",
-        "en": "Popular Science Monthly, vol. 28 (January 1886), “Inoculation Against Hydrophobia,” p. 289, opening passage; translated from Pasteur's paper read to the French Academy of Sciences on 26 October 1885, with the internal omission marked by an ellipsis"
       },
       "originalField": "english",
       "useBasis": "public-domain"
@@ -7367,6 +7574,15 @@
       "originalField": "english",
       "useBasis": "quotation-exception"
     },
+    "science-snow-ready-made-experiment": {
+      "unitId": "ru-on-the-mode-of-communication-of-cholera-whole-work-de736cc7",
+      "locator": {
+        "zh": "斯诺《霍乱的传播方式》第二版（1855），论两家公司供水紧密混合段，印刷页74—75，完整连续句",
+        "en": "Snow, On the Mode of Communication of Cholera, 2nd ed. (1855), paragraph on the intimate intermixing of the two companies' supply, print pp. 74–75, complete continuous sentence"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
+    },
     "science-turing-imitation-game": {
       "unitId": "ru-computing-machinery-and-intelligence-whole-work-c003cbac",
       "locator": {
@@ -7411,6 +7627,15 @@
       },
       "originalField": "english",
       "useBasis": "quotation-exception"
+    },
+    "science-wegener-coasts-fossils": {
+      "unitId": "ru-the-origin-of-continents-and-oceans-chapter-i-05c7b72c",
+      "locator": {
+        "zh": "魏格纳《大陆和海洋的起源》，J. G. A. Skerl据第三版德文英译（1924），第一章“历史说明”，印刷页5，连续两句",
+        "en": "Wegener, The Origin of Continents and Oceans, trans. J. G. A. Skerl from the 3rd German ed. (1924), Chapter I, historical remarks, print p. 5, two continuous sentences"
+      },
+      "originalField": "english",
+      "useBasis": "public-domain"
     },
     "science-wiener-automation-responsibility": {
       "unitId": "ru-some-moral-and-technical-consequences-of-automat-whole-work-58bde9f6",
@@ -7483,6 +7708,33 @@
       },
       "originalField": "english",
       "useBasis": "public-domain"
+    },
+    "sextus-opposes-appearances-judgements": {
+      "unitId": "ru-outlines-of-pyrrhonism-whole-work-53f9c4dc",
+      "locator": {
+        "zh": "塞克斯都·恩披里柯《皮浪主义纲要》第一卷第四章 §8，R. G. Bury 英译本（1933）",
+        "en": "Sextus Empiricus, Outlines of Pyrrhonism I.4 §8, trans. R. G. Bury (1933)"
+      },
+      "originalField": "english",
+      "useBasis": "quotation-exception"
+    },
+    "sextus-quietude-opinion": {
+      "unitId": "ru-outlines-of-pyrrhonism-whole-work-53f9c4dc",
+      "locator": {
+        "zh": "塞克斯都·恩披里柯《皮浪主义纲要》第一卷第十二章 §25，R. G. Bury 英译本（1933）",
+        "en": "Sextus Empiricus, Outlines of Pyrrhonism I.12 §25, trans. R. G. Bury (1933)"
+      },
+      "originalField": "english",
+      "useBasis": "quotation-exception"
+    },
+    "sextus-suspense-neither-deny-affirm": {
+      "unitId": "ru-outlines-of-pyrrhonism-whole-work-53f9c4dc",
+      "locator": {
+        "zh": "塞克斯都·恩披里柯《皮浪主义纲要》第一卷第四章 §10，R. G. Bury 英译本（1933）",
+        "en": "Sextus Empiricus, Outlines of Pyrrhonism I.4 §10, trans. R. G. Bury (1933)"
+      },
+      "originalField": "english",
+      "useBasis": "quotation-exception"
     },
     "socrates": {
       "unitId": "ru-platos-apology-whole-work-3f87129c",
@@ -11915,7 +12167,6 @@
       ],
       "thoughtIds": [
         "marx-abstract-labor",
-        "marx-commodity-fetishism",
         "marx-use-exchange-value"
       ],
       "expectedUnitFile": {
@@ -12468,6 +12719,114 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-cognitive-consequences-of-forced-compliance-whole-work-c4679e7f.json",
         "href": "/readings/units/ru-cognitive-consequences-of-forced-compliance-whole-work-c4679e7f.json"
+      }
+    },
+    {
+      "id": "ru-collected-works-of-lu-jiuyuan-letter-to-shao-shu-whole-work-c38e8cce",
+      "work": {
+        "zh": "《陆九渊集·与邵叔宜》",
+        "en": "Collected Works of Lu Jiuyuan, Letter to Shao Shuyi"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86",
+        "label": "维基文库：《陆九渊集》开放转录",
+        "englishLabel": "Wikisource: open transcription of the Collected Works of Lu Jiuyuan",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《陆九渊集》卷一〈与邵叔宜〉完整书信中的连续段落；英文为项目研读译文",
+        "en": "Collected Works of Lu Jiuyuan, vol. 1, continuous passage in the complete letter To Shao Shuyi; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-lu-jiuyuan-root-and-branches"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-collected-works-of-lu-jiuyuan-letter-to-shao-shu-whole-work-c38e8cce.json",
+        "href": "/readings/units/ru-collected-works-of-lu-jiuyuan-letter-to-shao-shu-whole-work-c38e8cce.json"
+      }
+    },
+    {
+      "id": "ru-collected-works-of-lu-jiuyuan-letter-to-supervis-whole-work-b7eaabad",
+      "work": {
+        "zh": "《陆九渊集·与赵监》",
+        "en": "Collected Works of Lu Jiuyuan, Letter to Supervisor Zhao"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86",
+        "label": "维基文库：《陆九渊集》开放转录",
+        "englishLabel": "Wikisource: open transcription of the Collected Works of Lu Jiuyuan",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《陆九渊集》卷一〈与赵监〉完整书信中的连续段落；英文为项目研读译文",
+        "en": "Collected Works of Lu Jiuyuan, vol. 1, continuous passage in the complete letter To Zhao Jian; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-lu-jiuyuan-way-fills-cosmos"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-collected-works-of-lu-jiuyuan-letter-to-supervis-whole-work-b7eaabad.json",
+        "href": "/readings/units/ru-collected-works-of-lu-jiuyuan-letter-to-supervis-whole-work-b7eaabad.json"
+      }
+    },
+    {
+      "id": "ru-collected-works-of-lu-jiuyuan-letter-to-zeng-zha-whole-work-be117d4b",
+      "work": {
+        "zh": "《陆九渊集·与曾宅之》",
+        "en": "Collected Works of Lu Jiuyuan, Letter to Zeng Zhaizhi"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86",
+        "label": "维基文库：《陆九渊集》开放转录",
+        "englishLabel": "Wikisource: open transcription of the Collected Works of Lu Jiuyuan",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《陆九渊集》卷一〈与曾宅之〉完整书信中的连续段落；英文为项目研读译文",
+        "en": "Collected Works of Lu Jiuyuan, vol. 1, continuous passage in the complete letter To Zeng Zhaizhi; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-lu-jiuyuan-heart-and-pattern"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-collected-works-of-lu-jiuyuan-letter-to-zeng-zha-whole-work-be117d4b.json",
+        "href": "/readings/units/ru-collected-works-of-lu-jiuyuan-letter-to-zeng-zha-whole-work-be117d4b.json"
       }
     },
     {
@@ -14176,6 +14535,114 @@
       }
     },
     {
+      "id": "ru-deliverance-from-error-translated-in-1909-as-the-section-1-8bb2d021",
+      "work": {
+        "zh": "《迷途指津》（1909 年英译题作《安萨里的忏悔》）",
+        "en": "Deliverance from Error (translated in 1909 as The Confessions of Al Ghazzali)"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "section-1",
+        "zh": "节 1",
+        "en": "Section 1"
+      },
+      "source": {
+        "url": "https://en.wikisource.org/wiki/The_Confessions_of_Al_Ghazzali/Section_1",
+        "label": "Wikisource：安萨里《迷途指津》第 1 节，Claudius Field 1909 年历史英译",
+        "englishLabel": "Wikisource: al-Ghazali, Deliverance from Error, section 1, Claudius Field's 1909 historical translation",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "Claudius Field 1909 年历史英译《安萨里忏悔录／迷途指津》第 1 节开篇完整连续句；中文为项目研读译文",
+        "en": "Claudius Field's 1909 historical translation of Deliverance from Error, section 1, complete opening sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "ghazali-bases-certitude"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-deliverance-from-error-translated-in-1909-as-the-section-1-8bb2d021.json",
+        "href": "/readings/units/ru-deliverance-from-error-translated-in-1909-as-the-section-1-8bb2d021.json"
+      }
+    },
+    {
+      "id": "ru-deliverance-from-error-translated-in-1909-as-the-section-3-3b9c18f9",
+      "work": {
+        "zh": "《迷途指津》（1909 年英译题作《安萨里的忏悔》）",
+        "en": "Deliverance from Error (translated in 1909 as The Confessions of Al Ghazzali)"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "section-3",
+        "zh": "节 3",
+        "en": "Section 3"
+      },
+      "source": {
+        "url": "https://en.wikisource.org/wiki/The_Confessions_of_Al_Ghazzali/Section_3",
+        "label": "Wikisource：安萨里《迷途指津》第 3 节，Claudius Field 1909 年历史英译",
+        "englishLabel": "Wikisource: al-Ghazali, Deliverance from Error, section 3, Claudius Field's 1909 historical translation",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "Field 1909 年历史英译第 3 节完整连续句；中文为项目研读译文",
+        "en": "Field's 1909 historical translation, section 3, complete continuous sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "ghazali-blind-belief-consciousness"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-deliverance-from-error-translated-in-1909-as-the-section-3-3b9c18f9.json",
+        "href": "/readings/units/ru-deliverance-from-error-translated-in-1909-as-the-section-3-3b9c18f9.json"
+      }
+    },
+    {
+      "id": "ru-deliverance-from-error-translated-in-1909-as-the-section-7-6313c0b2",
+      "work": {
+        "zh": "《迷途指津》（1909 年英译题作《安萨里的忏悔》）",
+        "en": "Deliverance from Error (translated in 1909 as The Confessions of Al Ghazzali)"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "section-7",
+        "zh": "节 7",
+        "en": "Section 7"
+      },
+      "source": {
+        "url": "https://en.wikisource.org/wiki/The_Confessions_of_Al_Ghazzali/Section_7",
+        "label": "Wikisource：安萨里《迷途指津》第 7 节，Claudius Field 1909 年历史英译",
+        "englishLabel": "Wikisource: al-Ghazali, Deliverance from Error, section 7, Claudius Field's 1909 historical translation",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "Field 1909 年历史英译第 7 节〈苏非主义〉完整连续句；中文为项目研读译文",
+        "en": "Field's 1909 historical translation, section 7, Sufism, complete continuous sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "ghazali-experience-not-definition"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-deliverance-from-error-translated-in-1909-as-the-section-7-6313c0b2.json",
+        "href": "/readings/units/ru-deliverance-from-error-translated-in-1909-as-the-section-7-6313c0b2.json"
+      }
+    },
+    {
       "id": "ru-demand-under-conditions-of-oligopoly-whole-work-acc95610",
       "work": {
         "zh": "《寡头条件下的需求》",
@@ -15495,6 +15962,78 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-eichmann-in-jerusalem-postscript-postscript-a90ef791.json",
         "href": "/readings/units/ru-eichmann-in-jerusalem-postscript-postscript-a90ef791.json"
+      }
+    },
+    {
+      "id": "ru-elements-of-chemistry-part-i-chapter-xiii-7df6f412",
+      "work": {
+        "zh": "《化学原理》",
+        "en": "Elements of Chemistry"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "part-i-chapter-xiii",
+        "zh": "部分 I · 章 XIII",
+        "en": "Part I · Chapter XIII"
+      },
+      "source": {
+        "url": "https://www.gutenberg.org/files/30775/30775-h/30775-h.htm",
+        "label": "Project Gutenberg：拉瓦锡《化学原理》1790年Kerr英译",
+        "englishLabel": "Project Gutenberg: Lavoisier's Elements of Chemistry, Kerr translation (1790)",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "Robert Kerr 1790年英译《化学原理》，第一部分第十三章，印刷页130—131；Project Gutenberg #30775逐字核对",
+        "en": "Robert Kerr's 1790 translation of Elements of Chemistry, Part I, Chapter XIII, print pp. 130–131; collated against Project Gutenberg #30775"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "science-lavoisier-conservation-balance"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-elements-of-chemistry-part-i-chapter-xiii-7df6f412.json",
+        "href": "/readings/units/ru-elements-of-chemistry-part-i-chapter-xiii-7df6f412.json"
+      }
+    },
+    {
+      "id": "ru-elements-of-chemistry-preface-preface-4f8b7e34",
+      "work": {
+        "zh": "《化学原理》",
+        "en": "Elements of Chemistry"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "preface-preface",
+        "zh": "序言",
+        "en": "Preface"
+      },
+      "source": {
+        "url": "https://www.gutenberg.org/files/30775/30775-h/30775-h.htm",
+        "label": "Project Gutenberg：拉瓦锡《化学原理》作者序言",
+        "englishLabel": "Project Gutenberg: author's preface to Lavoisier's Elements of Chemistry",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "Robert Kerr 1790年英译《化学原理》“作者序言”，印刷页xiv—xv；Project Gutenberg #30775逐字核对",
+        "en": "Robert Kerr's 1790 translation of Elements of Chemistry, Preface of the Author, print pp. xiv–xv; collated against Project Gutenberg #30775"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "science-lavoisier-nomenclature-facts-ideas-words"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-elements-of-chemistry-preface-preface-4f8b7e34.json",
+        "href": "/readings/units/ru-elements-of-chemistry-preface-preface-4f8b7e34.json"
       }
     },
     {
@@ -17476,14 +18015,13 @@
         ]
       },
       "edition": {
-        "zh": "Sacred Texts，Charles Glenn Wallis 1939 年公版英译，开普勒《世界的和谐》第五卷第3章第V项，第1018页，连续节录",
-        "en": "Sacred Texts, Charles Glenn Wallis public-domain translation (1939), Kepler, Harmonies of the World, Book V, Chapter 3, Article V, p. 1018, continuous excerpt"
+        "zh": "Sacred Texts，Charles Glenn Wallis 1939 年公版英译，开普勒《世界的和谐》第五卷第3章第VIII项，第1020页，连续节录",
+        "en": "Sacred Texts, Charles Glenn Wallis public-domain translation (1939), Kepler, Harmonies of the World, Book V, Chapter 3, Article VIII, p. 1020, continuous excerpt"
       },
       "useBasisKinds": [
         "quotation-exception"
       ],
       "thoughtIds": [
-        "science-kepler-ellipse",
         "science-kepler-harmonic-law"
       ],
       "expectedUnitFile": {
@@ -17745,6 +18283,114 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-how-to-differentiate-the-classes-in-the-rural-ar-whole-work-a284557c.json",
         "href": "/readings/units/ru-how-to-differentiate-the-classes-in-the-rural-ar-whole-work-a284557c.json"
+      }
+    },
+    {
+      "id": "ru-how-to-do-things-with-words-lecture-i-8501de42",
+      "work": {
+        "zh": "《如何以言行事》",
+        "en": "How to Do Things with Words"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "source-route",
+      "locator": {
+        "structureKey": "lecture-i",
+        "zh": "讲 I",
+        "en": "Lecture I"
+      },
+      "source": {
+        "url": "https://archive.org/details/howtodothingswit0000aust",
+        "label": "Internet Archive：奥斯汀《如何以言行事》第二版馆藏／借阅记录",
+        "englishLabel": "Internet Archive: catalog and borrow route for Austin, How to Do Things with Words, 2nd ed.",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "奥斯汀《如何以言行事》第二版（1975）第一讲第 6 页，连续短从句；中文为项目研读译文",
+        "en": "Austin, How to Do Things with Words, 2nd ed. (1975), Lecture I, p. 6, short continuous clause; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "quotation-exception"
+      ],
+      "thoughtIds": [
+        "austin-utterance-performs-action"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-how-to-do-things-with-words-lecture-i-8501de42.json",
+        "href": "/readings/units/ru-how-to-do-things-with-words-lecture-i-8501de42.json"
+      }
+    },
+    {
+      "id": "ru-how-to-do-things-with-words-lecture-viii-69cf4d28",
+      "work": {
+        "zh": "《如何以言行事》",
+        "en": "How to Do Things with Words"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "source-route",
+      "locator": {
+        "structureKey": "lecture-viii",
+        "zh": "讲 VIII",
+        "en": "Lecture VIII"
+      },
+      "source": {
+        "url": "https://archive.org/details/howtodothingswit0000aust",
+        "label": "Internet Archive：奥斯汀《如何以言行事》第二版馆藏／借阅记录",
+        "englishLabel": "Internet Archive: catalog and borrow route for Austin, How to Do Things with Words, 2nd ed.",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "同书第八讲第 91 页，连续短从句；中文为项目研读译文",
+        "en": "Austin, How to Do Things with Words, 2nd ed., Lecture VIII, p. 91, short continuous clause; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "quotation-exception"
+      ],
+      "thoughtIds": [
+        "austin-saying-doing-three-senses"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-how-to-do-things-with-words-lecture-viii-69cf4d28.json",
+        "href": "/readings/units/ru-how-to-do-things-with-words-lecture-viii-69cf4d28.json"
+      }
+    },
+    {
+      "id": "ru-how-to-do-things-with-words-lecture-xii-214c6dfa",
+      "work": {
+        "zh": "《如何以言行事》",
+        "en": "How to Do Things with Words"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "source-route",
+      "locator": {
+        "structureKey": "lecture-xii",
+        "zh": "讲 XII",
+        "en": "Lecture XII"
+      },
+      "source": {
+        "url": "https://archive.org/details/howtodothingswit0000aust",
+        "label": "Internet Archive：奥斯汀《如何以言行事》第二版馆藏／借阅记录",
+        "englishLabel": "Internet Archive: catalog and borrow route for Austin, How to Do Things with Words, 2nd ed.",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "同书第十二讲第 148 页，完整连续句；中文为项目研读译文",
+        "en": "Austin, How to Do Things with Words, 2nd ed., Lecture XII, p. 148, complete continuous sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "quotation-exception"
+      ],
+      "thoughtIds": [
+        "austin-total-speech-situation"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-how-to-do-things-with-words-lecture-xii-214c6dfa.json",
+        "href": "/readings/units/ru-how-to-do-things-with-words-lecture-xii-214c6dfa.json"
       }
     },
     {
@@ -18018,48 +18664,6 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-influence-of-models-reinforcement-contingencies--whole-work-7556cd54.json",
         "href": "/readings/units/ru-influence-of-models-reinforcement-contingencies--whole-work-7556cd54.json"
-      }
-    },
-    {
-      "id": "ru-inoculation-against-hydrophobia-whole-work-737c646c",
-      "work": {
-        "zh": "《接种预防恐水病》",
-        "en": "Inoculation Against Hydrophobia"
-      },
-      "libraryIds": [
-        "science"
-      ],
-      "availability": "integrated-candidate",
-      "locator": {
-        "structureKey": "whole-work",
-        "zh": "全篇",
-        "en": "Whole work"
-      },
-      "source": {
-        "url": "https://en.wikisource.org/wiki/Page:Popular_Science_Monthly_Volume_28.djvu/301",
-        "label": "Wikisource：《大众科学月刊》第28卷原刊第289页，《接种预防恐水病》开篇",
-        "englishLabel": "Wikisource: Popular Science Monthly, vol. 28, original p. 289, opening of Inoculation Against Hydrophobia",
-        "additionalLinks": [
-          {
-            "url": "https://www.copyright.gov/what-is-copyright",
-            "label": "美国版权局：版权期限与公共领域概览",
-            "englishLabel": "U.S. Copyright Office: overview of copyright duration and the public domain"
-          }
-        ]
-      },
-      "edition": {
-        "zh": "Wikisource 原刊扫描，《大众科学月刊》第28卷（1886年1月）第289页，《接种预防恐水病》开篇；英译自巴斯德1885年10月26日在法国科学院宣读的报告，卡片跨段删节以省略号标明",
-        "en": "Wikisource original journal scan, Popular Science Monthly, vol. 28 (January 1886), p. 289, opening of Inoculation Against Hydrophobia; translated from Pasteur's paper read to the French Academy of Sciences on 26 October 1885, with the internal omission marked by an ellipsis"
-      },
-      "useBasisKinds": [
-        "public-domain"
-      ],
-      "thoughtIds": [
-        "science-pasteur-rabies"
-      ],
-      "expectedUnitFile": {
-        "publicPath": "public/readings/units/ru-inoculation-against-hydrophobia-whole-work-737c646c.json",
-        "href": "/readings/units/ru-inoculation-against-hydrophobia-whole-work-737c646c.json"
       }
     },
     {
@@ -20698,6 +21302,43 @@
       }
     },
     {
+      "id": "ru-mozi-canons-i-named-chapter-canons-i-80225a8e",
+      "work": {
+        "zh": "《墨子·经上》",
+        "en": "Mozi, Canons I"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "named-chapter-canons-i",
+        "zh": "篇 Canons I",
+        "en": "Chapter Canons I"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E7%B6%93%E4%B8%8A",
+        "label": "维基文库：《墨子·经上》开放转录",
+        "englishLabel": "Wikisource: open transcription of Mozi, Canons I",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《墨子·经上》“故”条，通行本繁简与标点正常化，并与《经说上》对应条合读；英文为项目研读译文",
+        "en": "Mozi, Canons I, entry on grounds, received text normalized and read with the matching Explanations I entry; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-mohist-cause-definition",
+        "chinese-mohist-kinds-of-names"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-mozi-canons-i-named-chapter-canons-i-80225a8e.json",
+        "href": "/readings/units/ru-mozi-canons-i-named-chapter-canons-i-80225a8e.json"
+      }
+    },
+    {
       "id": "ru-mozi-condemnation-of-offensive-war-i-named-chapter-condemnation-of-offensive-war-i-338b5208",
       "work": {
         "zh": "《墨子·非攻上》",
@@ -20803,6 +21444,42 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-mozi-inclusive-care-ii-named-chapter-inclusive-care-ii-e10546a3.json",
         "href": "/readings/units/ru-mozi-inclusive-care-ii-named-chapter-inclusive-care-ii-e10546a3.json"
+      }
+    },
+    {
+      "id": "ru-mozi-minor-illustrations-named-chapter-minor-illustrations-787d6cc1",
+      "work": {
+        "zh": "《墨子·小取》",
+        "en": "Mozi, Minor Illustrations"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "named-chapter-minor-illustrations",
+        "zh": "篇 Minor Illustrations",
+        "en": "Chapter Minor Illustrations"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%B0%8F%E5%8F%96",
+        "label": "维基文库：《墨子·小取》开放转录",
+        "englishLabel": "Wikisource: open transcription of Mozi, Minor Illustrations",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《墨子·小取》“名—辞—说—故”连续三分句，通行本繁简与标点正常化；英文为项目研读译文",
+        "en": "Mozi, Minor Illustrations, continuous name–statement–explanation–ground sequence, received text normalized; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-mohist-name-claim-reason"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-mozi-minor-illustrations-named-chapter-minor-illustrations-787d6cc1.json",
+        "href": "/readings/units/ru-mozi-minor-illustrations-named-chapter-minor-illustrations-787d6cc1.json"
       }
     },
     {
@@ -21392,14 +22069,11 @@
       ],
       "thoughtIds": [
         "francis_bacon",
-        "francis-bacon-idols",
         "francis-bacon-ladder",
         "francis-bacon-light-fruit",
         "francis-bacon-method",
-        "science-bacon-bee",
         "science-bacon-gradual-induction",
-        "science-bacon-idols",
-        "science-bacon-organized-experiment"
+        "science-bacon-idols"
       ],
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-novum-organum-book-i-d91738cb.json",
@@ -23513,6 +24187,48 @@
       }
     },
     {
+      "id": "ru-on-the-mode-of-communication-of-cholera-whole-work-de736cc7",
+      "work": {
+        "zh": "《霍乱的传播方式》",
+        "en": "On the Mode of Communication of Cholera"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://epi-snow.ph.ucla.edu/Stream3_GrandExperiment_a.html",
+        "label": "UCLA：斯诺1855年原书“宏大实验”转录",
+        "englishLabel": "UCLA: transcription of Snow's 1855 grand-experiment passage",
+        "additionalLinks": [
+          {
+            "url": "https://wellcomecollection.org/works/uqa27qrt",
+            "label": "Wellcome Collection：1855年第二版公版扫描与书目记录",
+            "englishLabel": "Wellcome Collection: public-domain scan and record of the 1855 second edition"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "斯诺《霍乱的传播方式》第二版（伦敦：John Churchill，1855），印刷页74—75；UCLA转录与Wellcome Collection公版扫描交叉核对",
+        "en": "Snow, On the Mode of Communication of Cholera, 2nd ed. (London: John Churchill, 1855), print pp. 74–75; cross-checked between the UCLA transcription and Wellcome Collection public-domain scan"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "science-snow-ready-made-experiment"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-on-the-mode-of-communication-of-cholera-whole-work-de736cc7.json",
+        "href": "/readings/units/ru-on-the-mode-of-communication-of-cholera-whole-work-de736cc7.json"
+      }
+    },
+    {
       "id": "ru-on-the-movement-of-small-particles-suspended-in--whole-work-8fd6f89b",
       "work": {
         "zh": "《论热的分子运动论所要求的静液体中悬浮粒子的运动》",
@@ -23552,6 +24268,44 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-on-the-movement-of-small-particles-suspended-in--whole-work-8fd6f89b.json",
         "href": "/readings/units/ru-on-the-movement-of-small-particles-suspended-in--whole-work-8fd6f89b.json"
+      }
+    },
+    {
+      "id": "ru-on-the-nature-of-things-whole-work-5a5d9462",
+      "work": {
+        "zh": "《物性论》",
+        "en": "On the Nature of Things"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://www.gutenberg.org/cache/epub/785/pg785-images.html",
+        "label": "Project Gutenberg：卢克莱修《物性论》，William Ellery Leonard 1916 年公版英译",
+        "englishLabel": "Project Gutenberg: Lucretius, On the Nature of Things, William Ellery Leonard's 1916 public-domain translation",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "Leonard 1916 年公版英译《物性论》卷一第 419—421 行，完整连续句；中文为项目研读译文",
+        "en": "Leonard's 1916 public-domain translation of On the Nature of Things I.419–421, complete continuous sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "lucretius-bodies-and-void",
+        "lucretius-death-nothing",
+        "lucretius-nothing-from-nothing"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-on-the-nature-of-things-whole-work-5a5d9462.json",
+        "href": "/readings/units/ru-on-the-nature-of-things-whole-work-5a5d9462.json"
       }
     },
     {
@@ -23988,6 +24742,48 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc.json",
         "href": "/readings/units/ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc.json"
+      }
+    },
+    {
+      "id": "ru-on-the-problem-of-the-most-efficient-tests-of-st-whole-work-ef7ef09c",
+      "work": {
+        "zh": "《统计假设最有效检验问题》",
+        "en": "On the Problem of the Most Efficient Tests of Statistical Hypotheses"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "source-route",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://doi.org/10.1098/rsta.1933.0009",
+        "label": "皇家学会：论文DOI书目记录",
+        "englishLabel": "Royal Society: DOI record for the article",
+        "additionalLinks": [
+          {
+            "url": "https://www.joelvelasco.net/teaching/249/Neyman%20Pearson%201933.pdf",
+            "label": "原刊分页论文PDF（教学托管副本）",
+            "englishLabel": "Paginated original-article PDF (teaching-hosted copy)"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "奈曼与皮尔逊〈统计假设最有效检验问题〉，《皇家学会哲学汇刊A》231卷（1933），第二节，印刷页296；据原刊分页PDF核对连续分句",
+        "en": "Neyman and Pearson, ‘On the Problem of the Most Efficient Tests of Statistical Hypotheses,’ Philosophical Transactions of the Royal Society A 231 (1933), §II, print p. 296; continuous clause collated against a paginated original-article PDF"
+      },
+      "useBasisKinds": [
+        "quotation-exception"
+      ],
+      "thoughtIds": [
+        "science-neyman-pearson-error-control"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-on-the-problem-of-the-most-efficient-tests-of-st-whole-work-ef7ef09c.json",
+        "href": "/readings/units/ru-on-the-problem-of-the-most-efficient-tests-of-st-whole-work-ef7ef09c.json"
       }
     },
     {
@@ -24622,48 +25418,6 @@
       }
     },
     {
-      "id": "ru-opticks-book-iii-2a775caf",
-      "work": {
-        "zh": "《光学》",
-        "en": "Opticks"
-      },
-      "libraryIds": [
-        "science"
-      ],
-      "availability": "integrated-candidate",
-      "locator": {
-        "structureKey": "book-iii",
-        "zh": "卷 III",
-        "en": "Book III"
-      },
-      "source": {
-        "url": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
-        "label": "古登堡计划：牛顿《光学》1718 年第二版英文全文",
-        "englishLabel": "Project Gutenberg: Newton, Opticks, 1718 second-edition English text",
-        "additionalLinks": [
-          {
-            "url": "https://www.copyright.gov/what-is-copyright",
-            "label": "美国版权局：版权期限与公共领域概览",
-            "englishLabel": "U.S. Copyright Office: overview of copyright duration and the public domain"
-          }
-        ]
-      },
-      "edition": {
-        "zh": "古登堡计划，牛顿《光学》1718 年第二版英文原文，第三卷问题 31 末段；卡片以省略号标示中间删节",
-        "en": "Project Gutenberg, Newton's English text of Opticks, second edition (1718), Book III, Query 31, closing methodological passage; internal omission marked with an ellipsis"
-      },
-      "useBasisKinds": [
-        "public-domain"
-      ],
-      "thoughtIds": [
-        "science-newton-analysis-synthesis"
-      ],
-      "expectedUnitFile": {
-        "publicPath": "public/readings/units/ru-opticks-book-iii-2a775caf.json",
-        "href": "/readings/units/ru-opticks-book-iii-2a775caf.json"
-      }
-    },
-    {
       "id": "ru-our-economic-policy-whole-work-73a33175",
       "work": {
         "zh": "《我们的经济政策》",
@@ -24959,6 +25713,50 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-outlines-of-psychology-chapter-15-65dbdd33.json",
         "href": "/readings/units/ru-outlines-of-psychology-chapter-15-65dbdd33.json"
+      }
+    },
+    {
+      "id": "ru-outlines-of-pyrrhonism-whole-work-53f9c4dc",
+      "work": {
+        "zh": "《皮浪主义纲要》",
+        "en": "Outlines of Pyrrhonism"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "source-route",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://atlas.perseus.tufts.edu/library/urn:cts:greekLit:tlg0544.tlg001.1st1K-eng1",
+        "label": "Perseus：塞克斯都《皮浪主义纲要》文本与书目路由",
+        "englishLabel": "Perseus: Sextus, Outlines of Pyrrhonism, text and edition route",
+        "additionalLinks": [
+          {
+            "url": "https://archive.org/details/outlinesofpyrrho00sext",
+            "label": "Internet Archive：R. G. Bury 1933 年英译馆藏记录",
+            "englishLabel": "Internet Archive: catalog record for R. G. Bury's 1933 translation"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "R. G. Bury 1933 年英译《皮浪主义纲要》卷一第 4 章 §8，完整连续定义句；中文为项目研读译文",
+        "en": "R. G. Bury's 1933 translation of Outlines of Pyrrhonism I.4 §8, complete continuous definition; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "quotation-exception"
+      ],
+      "thoughtIds": [
+        "sextus-opposes-appearances-judgements",
+        "sextus-quietude-opinion",
+        "sextus-suspense-neither-deny-affirm"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-outlines-of-pyrrhonism-whole-work-53f9c4dc.json",
+        "href": "/readings/units/ru-outlines-of-pyrrhonism-whole-work-53f9c4dc.json"
       }
     },
     {
@@ -25590,7 +26388,6 @@
       ],
       "thoughtIds": [
         "science-newton-rule-fourth",
-        "science-newton-rule-third",
         "science-newton-rules-causes"
       ],
       "expectedUnitFile": {
@@ -26709,6 +27506,42 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-principles-of-economics-book-iii-chapter-vi-b6c4aa35.json",
         "href": "/readings/units/ru-principles-of-economics-book-iii-chapter-vi-b6c4aa35.json"
+      }
+    },
+    {
+      "id": "ru-principles-of-geology-book-i-chapter-xiii-a689c324",
+      "work": {
+        "zh": "《地质学原理》",
+        "en": "Principles of Geology"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "book-i-chapter-xiii",
+        "zh": "卷 I · 章 XIII",
+        "en": "Book I · Chapter XIII"
+      },
+      "source": {
+        "url": "https://www.gutenberg.org/files/33224/33224-h/33224-h.htm",
+        "label": "Project Gutenberg：莱尔《地质学原理》第九版",
+        "englishLabel": "Project Gutenberg: Lyell's Principles of Geology, ninth edition",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "莱尔《地质学原理》第九版，第一编第十三章，印刷页196；Project Gutenberg #33224逐字核对",
+        "en": "Lyell, Principles of Geology, 9th ed., Book I, Chapter XIII, print p. 196; collated against Project Gutenberg #33224"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "science-lyell-present-causes"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-principles-of-geology-book-i-chapter-xiii-a689c324.json",
+        "href": "/readings/units/ru-principles-of-geology-book-i-chapter-xiii-a689c324.json"
       }
     },
     {
@@ -30236,6 +31069,48 @@
       }
     },
     {
+      "id": "ru-the-arrangement-of-field-experiments-whole-work-fe4db1b3",
+      "work": {
+        "zh": "《田间试验的安排》",
+        "en": "The Arrangement of Field Experiments"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://repository.rothamsted.ac.uk/id/eprint/20740",
+        "label": "Rothamsted Research：论文记录与开放许可",
+        "englishLabel": "Rothamsted Research: article record and open licence",
+        "additionalLinks": [
+          {
+            "url": "https://repository.rothamsted.ac.uk/id/eprint/20740/1/Fisher%20Arrangment%20of%20field%20experiments%20J%20Ministry%20%20of%20Agriculture%201926%20p%20503%20to%20513.pdf",
+            "label": "Rothamsted Research：1926年原刊扫描PDF",
+            "englishLabel": "Rothamsted Research: 1926 original-journal scan PDF"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "费希尔〈田间试验的安排〉，《农业部期刊》33卷（1926），印刷页506—507；Rothamsted Research机构仓储原刊扫描逐字核对",
+        "en": "Fisher, ‘The Arrangement of Field Experiments,’ Journal of the Ministry of Agriculture 33 (1926), print pp. 506–507; collated against the original-journal scan in the Rothamsted Research repository"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "science-fisher-randomized-plots"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-arrangement-of-field-experiments-whole-work-fe4db1b3.json",
+        "href": "/readings/units/ru-the-arrangement-of-field-experiments-whole-work-fe4db1b3.json"
+      }
+    },
+    {
       "id": "ru-the-art-of-war-initial-estimations-named-chapter-initial-estimations-990674d5",
       "work": {
         "zh": "《孙子兵法·计篇》",
@@ -31835,6 +32710,205 @@
       }
     },
     {
+      "id": "ru-the-great-calming-and-contemplation-fascicle-1-dc38729f",
+      "work": {
+        "zh": "《摩诃止观》",
+        "en": "The Great Calming and Contemplation"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "fascicle-1",
+        "zh": "卷 1",
+        "en": "Fascicle 1"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E6%91%A9%E8%A8%B6%E6%AD%A2%E8%A7%80/%E5%8D%B7001",
+        "label": "维基文库：《摩诃止观》卷一开放转录",
+        "englishLabel": "Wikisource: open transcription of The Great Calming and Contemplation, fascicle 1",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《摩诃止观》卷一“圆顿止观”，原文繁简与标点正常化；英文为项目研读译文",
+        "en": "The Great Calming and Contemplation, fascicle 1, perfect and sudden calming and contemplation, script and punctuation normalized; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-zhiyi-one-mind-three-wisdoms",
+        "chinese-zhiyi-practice-matches-words"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-great-calming-and-contemplation-fascicle-1-dc38729f.json",
+        "href": "/readings/units/ru-the-great-calming-and-contemplation-fascicle-1-dc38729f.json"
+      }
+    },
+    {
+      "id": "ru-the-great-calming-and-contemplation-fascicle-6-610ed83a",
+      "work": {
+        "zh": "《摩诃止观》",
+        "en": "The Great Calming and Contemplation"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "fascicle-6",
+        "zh": "卷 6",
+        "en": "Fascicle 6"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E6%91%A9%E8%A8%B6%E6%AD%A2%E8%A7%80/%E5%8D%B7006",
+        "label": "维基文库：《摩诃止观》卷六开放转录",
+        "englishLabel": "Wikisource: open transcription of The Great Calming and Contemplation, fascicle 6",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《摩诃止观》卷六“观不思议境”，原文繁简与标点正常化；英文为项目研读译文",
+        "en": "The Great Calming and Contemplation, fascicle 6, contemplation of the inconceivable realm, script and punctuation normalized; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-zhiyi-three-truths-one-mind"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-great-calming-and-contemplation-fascicle-6-610ed83a.json",
+        "href": "/readings/units/ru-the-great-calming-and-contemplation-fascicle-6-610ed83a.json"
+      }
+    },
+    {
+      "id": "ru-the-guide-for-the-perplexed-part-i-chapter-59-3f8ab1a4",
+      "work": {
+        "zh": "《迷途指津》",
+        "en": "The Guide for the Perplexed"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "part-i-chapter-59",
+        "zh": "部分 I · 章 59",
+        "en": "Part I · Chapter 59"
+      },
+      "source": {
+        "url": "https://ccel.org/ccel/maimonides/guide.v.lix.html",
+        "label": "CCEL：迈蒙尼德《迷途指津》第一部第 59 章 HTML",
+        "englishLabel": "CCEL: Maimonides, Guide for the Perplexed, Part I, Chapter 59, HTML",
+        "additionalLinks": [
+          {
+            "url": "https://www.ccel.org/ccel/m/maimonides/guide/cache/guide.pdf",
+            "label": "CCEL：迈蒙尼德《迷途指津》，M. Friedländer 1904 年公版英译扫描",
+            "englishLabel": "CCEL: Maimonides, Guide for the Perplexed, scan of M. Friedländer's 1904 public-domain translation"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "Friedländer 1904 年公版英译第一部第 59 章，印刷页 179，完整连续句；中文为项目研读译文",
+        "en": "Friedländer's 1904 public-domain translation, I.59, print p. 179, complete continuous sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "maimonides-negation-advances-knowledge"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-guide-for-the-perplexed-part-i-chapter-59-3f8ab1a4.json",
+        "href": "/readings/units/ru-the-guide-for-the-perplexed-part-i-chapter-59-3f8ab1a4.json"
+      }
+    },
+    {
+      "id": "ru-the-guide-for-the-perplexed-part-i-chapter-58-ba758550",
+      "work": {
+        "zh": "《迷途指津》",
+        "en": "The Guide for the Perplexed"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "part-i-chapter-58",
+        "zh": "部分 I · 章 58",
+        "en": "Part I · Chapter 58"
+      },
+      "source": {
+        "url": "https://ccel.org/ccel/maimonides/guide.v.lviii.html",
+        "label": "CCEL：迈蒙尼德《迷途指津》第一部第 58 章 HTML",
+        "englishLabel": "CCEL: Maimonides, Guide for the Perplexed, Part I, Chapter 58, HTML",
+        "additionalLinks": [
+          {
+            "url": "https://www.ccel.org/ccel/m/maimonides/guide/cache/guide.pdf",
+            "label": "CCEL：迈蒙尼德《迷途指津》，M. Friedländer 1904 年公版英译扫描",
+            "englishLabel": "CCEL: Maimonides, Guide for the Perplexed, scan of M. Friedländer's 1904 public-domain translation"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "M. Friedländer 1904 年公版英译《迷途指津》第一部第 58 章，印刷页 176，完整连续句；中文为项目研读译文",
+        "en": "M. Friedländer's 1904 public-domain translation of Guide for the Perplexed I.58, print p. 176, complete continuous sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "maimonides-no-positive-attribute"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-guide-for-the-perplexed-part-i-chapter-58-ba758550.json",
+        "href": "/readings/units/ru-the-guide-for-the-perplexed-part-i-chapter-58-ba758550.json"
+      }
+    },
+    {
+      "id": "ru-the-guide-for-the-perplexed-part-iii-chapter-27-92042266",
+      "work": {
+        "zh": "《迷途指津》",
+        "en": "The Guide for the Perplexed"
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "part-iii-chapter-27",
+        "zh": "部分 III · 章 27",
+        "en": "Part III · Chapter 27"
+      },
+      "source": {
+        "url": "https://ccel.org/ccel/maimonides/guide.vii.xxviii.html",
+        "label": "CCEL：迈蒙尼德《迷途指津》第三部第 27 章 HTML",
+        "englishLabel": "CCEL: Maimonides, Guide for the Perplexed, Part III, Chapter 27, HTML",
+        "additionalLinks": [
+          {
+            "url": "https://www.ccel.org/ccel/m/maimonides/guide/cache/guide.pdf",
+            "label": "CCEL：迈蒙尼德《迷途指津》，M. Friedländer 1904 年公版英译扫描",
+            "englishLabel": "CCEL: Maimonides, Guide for the Perplexed, scan of M. Friedländer's 1904 public-domain translation"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "Friedländer 1904 年公版英译第三部第 27 章开篇完整连续句；中文为项目研读译文",
+        "en": "Friedländer's 1904 public-domain translation, III.27, complete opening sentence; Chinese is the project's study translation"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "maimonides-law-soul-body-welfare"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-guide-for-the-perplexed-part-iii-chapter-27-92042266.json",
+        "href": "/readings/units/ru-the-guide-for-the-perplexed-part-iii-chapter-27-92042266.json"
+      }
+    },
+    {
       "id": "ru-the-healing-metaphysics-book-i-chapter-2-d95bad9f",
       "work": {
         "zh": "《治愈之书·形而上学》",
@@ -32391,6 +33465,42 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-the-myth-of-sisyphus-conclusion-conclusion-915d52d5.json",
         "href": "/readings/units/ru-the-myth-of-sisyphus-conclusion-conclusion-915d52d5.json"
+      }
+    },
+    {
+      "id": "ru-the-origin-of-continents-and-oceans-chapter-i-05c7b72c",
+      "work": {
+        "zh": "《大陆和海洋的起源》",
+        "en": "The Origin of Continents and Oceans"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "chapter-i",
+        "zh": "章 I",
+        "en": "Chapter I"
+      },
+      "source": {
+        "url": "https://en.wikisource.org/wiki/The_Origin_of_Continents_and_Oceans/Chapter_1",
+        "label": "维基文库：魏格纳《大陆和海洋的起源》第一章（含页图）",
+        "englishLabel": "Wikisource: Wegener, The Origin of Continents and Oceans, Chapter I, with page scans",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "J. G. A. Skerl据第三版德文英译《大陆和海洋的起源》（1924），第一章“历史说明”，印刷页5；维基文库页图对照逐字核对",
+        "en": "J. G. A. Skerl's 1924 translation from the third German edition of The Origin of Continents and Oceans, Chapter I, historical remarks, print p. 5; collated against Wikisource page images and transcription"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "science-wegener-coasts-fossils"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-origin-of-continents-and-oceans-chapter-i-05c7b72c.json",
+        "href": "/readings/units/ru-the-origin-of-continents-and-oceans-chapter-i-05c7b72c.json"
       }
     },
     {
@@ -33054,8 +34164,7 @@
         "en": "The Principles of Psychology"
       },
       "libraryIds": [
-        "psychology",
-        "western"
+        "psychology"
       ],
       "availability": "integrated-candidate",
       "locator": {
@@ -33081,14 +34190,13 @@
         ]
       },
       "edition": {
-        "zh": "古登堡计划公版英文文本，《心理学原理》第一卷第 9 章第 239 页",
-        "en": "Project Gutenberg public-domain English text, The Principles of Psychology, Vol. I, Chapter IX, p. 239"
+        "zh": "詹姆斯《心理学原理》1890年初版第一卷扫描，第9章，印刷页239（扫描序号259）；完整连续句，并以古登堡计划检索文本复核",
+        "en": "James, The Principles of Psychology, 1890 first edition, Vol. I scan, Chapter IX, print p. 239 (scan sequence 259); complete continuous sentence, cross-checked against the Project Gutenberg searchable text"
       },
       "useBasisKinds": [
         "public-domain"
       ],
       "thoughtIds": [
-        "james-stream-of-thought",
         "psychology-foundations-james-stream"
       ],
       "expectedUnitFile": {
@@ -33530,6 +34638,49 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-the-quantum-postulate-and-the-recent-development-whole-work-f9982631.json",
         "href": "/readings/units/ru-the-quantum-postulate-and-the-recent-development-whole-work-f9982631.json"
+      }
+    },
+    {
+      "id": "ru-the-question-of-womens-liberation-whole-work-17776513",
+      "work": {
+        "zh": "《女子解放问题》",
+        "en": "The Question of Women's Liberation"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E5%A5%B3%E5%AD%90%E8%A7%A3%E6%94%BE%E9%97%AE%E9%A2%98",
+        "label": "维基文库：何殷震《女子解放问题》开放转录（保留影印复校提示）",
+        "englishLabel": "Wikisource: open transcription of He-Yin Zhen, The Question of Women's Liberation (facsimile recollation still recommended)",
+        "additionalLinks": [
+          {
+            "url": "https://zh.wikisource.org/wiki/%E5%A5%B3%E5%AD%90%E5%AE%A3%E5%B8%83%E4%B9%A6",
+            "label": "维基文库：何殷震《女子宣布书》开放转录",
+            "englishLabel": "Wikisource: open transcription of He-Yin Zhen, Women's Declaration"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "何殷震《女子解放问题》第二段，《天义》第 7 号（1907）；开放转录已逐字核对，后续仍建议对期刊影印复校；英文为项目研读译文",
+        "en": "He-Yin Zhen, The Question of Women's Liberation, second paragraph, Natural Justice no. 7 (1907); open transcription collated, with later facsimile recollation recommended; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-he-yin-zhen-women-made-slaves",
+        "chinese-he-yin-zhen-world-shared"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-the-question-of-womens-liberation-whole-work-17776513.json",
+        "href": "/readings/units/ru-the-question-of-womens-liberation-whole-work-17776513.json"
       }
     },
     {
@@ -34099,58 +35250,6 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-the-structure-of-scientific-revolutions-chapter-iv-b84761f1.json",
         "href": "/readings/units/ru-the-structure-of-scientific-revolutions-chapter-iv-b84761f1.json"
-      }
-    },
-    {
-      "id": "ru-the-structure-of-scientific-revolutions-chapter-vi-2bc325f3",
-      "work": {
-        "zh": "《科学革命的结构》",
-        "en": "The Structure of Scientific Revolutions"
-      },
-      "libraryIds": [
-        "science"
-      ],
-      "availability": "source-route",
-      "locator": {
-        "structureKey": "chapter-vi",
-        "zh": "章 VI",
-        "en": "Chapter VI"
-      },
-      "source": {
-        "url": "https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf",
-        "label": "高校课程扫描：库恩《科学革命的结构》1970年扩充第二版",
-        "englishLabel": "University course scan: Kuhn, The Structure of Scientific Revolutions, enlarged 2nd ed. (1970)",
-        "additionalLinks": [
-          {
-            "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html",
-            "label": "芝加哥大学出版社：《科学革命的结构》官方书目页",
-            "englishLabel": "University of Chicago Press: official book page for The Structure of Scientific Revolutions"
-          },
-          {
-            "url": "https://www.npc.gov.cn/c2/c30834/202011/t20201119_308796.html",
-            "label": "中国人大网：《中华人民共和国著作权法》第二十四条（适当引用）",
-            "englishLabel": "National People's Congress: Copyright Law of the PRC, Article 24 (appropriate quotation)"
-          },
-          {
-            "url": "https://www.copyright.gov/fair-use/more-info.html",
-            "label": "美国版权局：17 U.S.C. §107合理使用说明",
-            "englishLabel": "U.S. Copyright Office: fair-use guidance under 17 U.S.C. §107"
-          }
-        ]
-      },
-      "edition": {
-        "zh": "库恩《科学革命的结构》芝加哥大学出版社1970年扩充第二版，第六章，印刷页52—53；完整连续句从52页末跨至53页首",
-        "en": "Kuhn, The Structure of Scientific Revolutions, University of Chicago Press, enlarged 2nd ed. (1970), Chapter VI, print pp. 52–53; complete continuous sentence running from the foot of p. 52 to the top of p. 53"
-      },
-      "useBasisKinds": [
-        "quotation-exception"
-      ],
-      "thoughtIds": [
-        "science-kuhn-anomaly-discovery"
-      ],
-      "expectedUnitFile": {
-        "publicPath": "public/readings/units/ru-the-structure-of-scientific-revolutions-chapter-vi-2bc325f3.json",
-        "href": "/readings/units/ru-the-structure-of-scientific-revolutions-chapter-vi-2bc325f3.json"
       }
     },
     {
@@ -35216,6 +36315,42 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-theological-political-treatise-chapter-20-80467ac4.json",
         "href": "/readings/units/ru-theological-political-treatise-chapter-20-80467ac4.json"
+      }
+    },
+    {
+      "id": "ru-theory-of-the-earth-chapter-i-3e13dbd9",
+      "work": {
+        "zh": "《地球理论》",
+        "en": "Theory of the Earth"
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "chapter-i",
+        "zh": "章 I",
+        "en": "Chapter I"
+      },
+      "source": {
+        "url": "https://www.gutenberg.org/files/12861/12861-h/12861-h.htm",
+        "label": "Project Gutenberg：赫顿《地球理论》第一卷",
+        "englishLabel": "Project Gutenberg: Hutton's Theory of the Earth, volume I",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "赫顿《地球理论》第一卷（1795），第一章末句；Project Gutenberg #12861逐字核对",
+        "en": "Hutton, Theory of the Earth, vol. I (1795), final sentence of Chapter I; collated against Project Gutenberg #12861"
+      },
+      "useBasisKinds": [
+        "public-domain"
+      ],
+      "thoughtIds": [
+        "science-hutton-deep-time-no-beginning"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-theory-of-the-earth-chapter-i-3e13dbd9.json",
+        "href": "/readings/units/ru-theory-of-the-earth-chapter-i-3e13dbd9.json"
       }
     },
     {
@@ -36712,6 +37847,48 @@
       }
     },
     {
+      "id": "ru-womens-declaration-whole-work-746e8fd1",
+      "work": {
+        "zh": "《女子宣布书》",
+        "en": "Women's Declaration"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "whole-work",
+        "zh": "全篇",
+        "en": "Whole work"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E5%A5%B3%E5%AD%90%E8%A7%A3%E6%94%BE%E9%97%AE%E9%A2%98",
+        "label": "维基文库：何殷震《女子解放问题》开放转录（保留影印复校提示）",
+        "englishLabel": "Wikisource: open transcription of He-Yin Zhen, The Question of Women's Liberation (facsimile recollation still recommended)",
+        "additionalLinks": [
+          {
+            "url": "https://zh.wikisource.org/wiki/%E5%A5%B3%E5%AD%90%E5%AE%A3%E5%B8%83%E4%B9%A6",
+            "label": "维基文库：何殷震《女子宣布书》开放转录",
+            "englishLabel": "Wikisource: open transcription of He-Yin Zhen, Women's Declaration"
+          }
+        ]
+      },
+      "edition": {
+        "zh": "何殷震《女子宣布书》结尾（1907），开放转录繁简与标点正常化；英文为项目研读译文",
+        "en": "He-Yin Zhen, Women's Declaration, conclusion (1907), open transcription with script and punctuation normalized; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-he-yin-zhen-revolutions-together"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-womens-declaration-whole-work-746e8fd1.json",
+        "href": "/readings/units/ru-womens-declaration-whole-work-746e8fd1.json"
+      }
+    },
+    {
       "id": "ru-xunzi-discourse-on-heaven-named-chapter-discourse-on-heaven-fb12403c",
       "work": {
         "zh": "《荀子·天论》",
@@ -37167,6 +38344,44 @@
       "expectedUnitFile": {
         "publicPath": "public/readings/units/ru-zhaolun-things-do-not-shift-named-chapter-things-do-not-shift-5664a49a.json",
         "href": "/readings/units/ru-zhaolun-things-do-not-shift-named-chapter-things-do-not-shift-5664a49a.json"
+      }
+    },
+    {
+      "id": "ru-zhouyi-xici-i-named-chapter-xici-i-66a0d7c4",
+      "work": {
+        "zh": "《周易·系辞上》",
+        "en": "Zhouyi, Xici I"
+      },
+      "libraryIds": [
+        "chinese"
+      ],
+      "availability": "integrated-candidate",
+      "locator": {
+        "structureKey": "named-chapter-xici-i",
+        "zh": "篇 Xici I",
+        "en": "Chapter Xici I"
+      },
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/%E6%98%93%E5%82%B3/%E7%B9%AB%E8%BE%AD%E4%B8%8A",
+        "label": "维基文库：《易传·系辞上》开放转录",
+        "englishLabel": "Wikisource: open transcription of Xici I",
+        "additionalLinks": []
+      },
+      "edition": {
+        "zh": "《周易·系辞上》第十二章，通行本繁简与标点正常化；英文为项目研读译文",
+        "en": "Zhouyi, Xici I, chapter 12, received text with script and punctuation normalized; English is the project's study translation"
+      },
+      "useBasisKinds": [
+        "open-license"
+      ],
+      "thoughtIds": [
+        "chinese-xici-images-express-meaning",
+        "chinese-xici-way-and-instruments",
+        "chinese-xici-yin-yang-way"
+      ],
+      "expectedUnitFile": {
+        "publicPath": "public/readings/units/ru-zhouyi-xici-i-named-chapter-xici-i-66a0d7c4.json",
+        "href": "/readings/units/ru-zhouyi-xici-i-named-chapter-xici-i-66a0d7c4.json"
       }
     },
     {

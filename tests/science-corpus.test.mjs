@@ -67,6 +67,11 @@ test("the scientific-thought library is a sourced bilingual editorial corpus", a
     "../content/thoughtPresentation.ts",
     import.meta.url,
   );
+  const {
+    retiredScienceThoughtIds,
+    scienceCurationEvidence,
+    scienceCurationNewThoughts,
+  } = await tsImport("../content/scienceCuration2026.ts", import.meta.url);
 
   assert.ok(scienceThoughts.length >= 80, "science must launch as a substantial corpus");
   assert.equal(
@@ -74,6 +79,20 @@ test("the scientific-thought library is a sourced bilingual editorial corpus", a
     scienceThoughts.length,
     "science ids must be unique",
   );
+  const scienceIds = new Set(scienceThoughts.map((thought) => thought.id));
+  for (const retiredId of retiredScienceThoughtIds) {
+    assert.equal(scienceIds.has(retiredId), false, `${retiredId} must remain retired`);
+  }
+  assert.deepEqual(
+    scienceCurationEvidence.map(({ id }) => id),
+    scienceCurationNewThoughts.map(({ id }) => id),
+    "every added science excerpt must ship with primary-source verification evidence",
+  );
+  for (const thought of scienceCurationNewThoughts) {
+    assert.ok(scienceIds.has(thought.id), `${thought.id} must be present in the public corpus`);
+    assert.ok(thought.context?.trim(), `${thought.id} must include passage context`);
+    assert.ok(thought.distinction?.trim(), `${thought.id} must include an overreading guard`);
+  }
 
   const authorCounts = new Map();
   const observedTopics = new Set();

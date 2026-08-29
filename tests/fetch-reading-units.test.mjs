@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { createHash } from "node:crypto";
 import { mkdtemp, readFile, rm, writeFile, mkdir } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { resolve } from "node:path";
@@ -1375,6 +1376,34 @@ test("Gutenberg uses the PGLAF text mirror and falls back through its listing", 
   assert.equal(source.body, "A public-domain mirror text.");
   assert.equal(requested.at(-1), "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-8.txt");
   assert.equal(requested.some((url) => url.includes("www.gutenberg.org")), false);
+});
+
+test("Gutenberg offline verification falls through to a cached legacy text mirror", async (t) => {
+  const root = await temporaryProject(t);
+  const cacheDirectory = resolve(root, "fetch-cache");
+  const sourceUrl = "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html";
+  const [, cachedMirror] = gutenbergMirrorCandidates(sourceUrl);
+  const body = "A cached public-domain mirror text.";
+  const cacheKey = createHash("sha256").update(cachedMirror).digest("hex");
+  const bodySha256 = createHash("sha256").update(body).digest("hex");
+  await mkdir(cacheDirectory, { recursive: true });
+  await Promise.all([
+    writeFile(resolve(cacheDirectory, `${cacheKey}.body.txt`), body),
+    writeFile(resolve(cacheDirectory, `${cacheKey}.json`), `${JSON.stringify({
+      url: cachedMirror,
+      contentType: "text/plain",
+      sha256: bodySha256,
+      fetchedAt: "2026-08-30T00:00:00.000Z",
+    }, null, 2)}\n`),
+  ]);
+
+  const source = await fetchGutenbergSource(sourceUrl, {
+    allowNetwork: false,
+    cacheDirectory,
+  });
+  assert.equal(source.body, body);
+  assert.equal(source.url, cachedMirror);
+  assert.equal(source.cacheHit, true);
 });
 
 test("Wikisource fetches parser output through the MediaWiki API", async (t) => {

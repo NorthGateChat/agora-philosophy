@@ -9,6 +9,7 @@ import {
   economicsModernProfiles,
   economicsModernSeeds,
 } from "./economicsModern";
+import { curateEconomicsThoughts } from "./economicsCuration2026";
 
 export const economicsTopicOptions = [
   { id: "all", label: "全部", englishLabel: "All" },
@@ -53,15 +54,15 @@ export type EconomicsCatalog = {
  * becoming one undifferentiated stream in the settings UI.
  */
 export const economicsThoughtGroups = {
-  principles: buildEconomicsThoughts(
+  principles: curateEconomicsThoughts(buildEconomicsThoughts(
     economicsFoundationProfiles,
     economicsFoundationSeeds,
-  ),
-  modern: buildEconomicsThoughts(
+  )),
+  modern: curateEconomicsThoughts(buildEconomicsThoughts(
     economicsModernProfiles,
     economicsModernSeeds,
-  ),
-  investment: economicsInvestmentThoughts,
+  )),
+  investment: curateEconomicsThoughts(economicsInvestmentThoughts),
 } satisfies EconomicsThoughtGroups;
 
 const economicsCollectionByThoughtId = new Map(
@@ -97,10 +98,10 @@ export const economicsThoughts = [
 let completeEconomicsCatalogPromise: Promise<EconomicsCatalog> | null = null;
 
 /**
- * Load the expanded 300-card economics catalog only when the economics library
- * is actually used. Keeping the original 94-card core synchronous preserves a
- * fast new-tab first paint while every economics view still receives the full
- * study library.
+ * Load the expanded economics catalog only when the economics library is
+ * actually used. Keeping the compact core synchronous preserves a fast new-tab
+ * first paint while every economics view still receives the full curated study
+ * library.
  */
 export function loadCompleteEconomicsCatalog(): Promise<EconomicsCatalog> {
   if (completeEconomicsCatalogPromise) return completeEconomicsCatalogPromise;
@@ -111,18 +112,18 @@ export function loadCompleteEconomicsCatalog(): Promise<EconomicsCatalog> {
     import("./economicsInvestmentExpansion"),
   ]).then(([principles, modern, investment]) => {
     const thoughtGroups: EconomicsThoughtGroups = {
-      principles: [
+      principles: curateEconomicsThoughts([
         ...economicsThoughtGroups.principles,
         ...principles.economicsPrinciplesExpansionThoughts,
-      ],
-      modern: [
+      ]),
+      modern: curateEconomicsThoughts([
         ...economicsThoughtGroups.modern,
         ...modern.economicsModernExpansionThoughts,
-      ],
-      investment: [
+      ]),
+      investment: curateEconomicsThoughts([
         ...economicsThoughtGroups.investment,
         ...investment.economicsInvestmentExpansionThoughts,
-      ],
+      ]),
     };
     const thoughts = [
       ...thoughtGroups.principles,

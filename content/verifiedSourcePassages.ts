@@ -4,6 +4,8 @@ import { indianCompletionEvidence } from "./sourceCompletionIndian";
 import { maoScienceCompletionEvidence } from "./sourceCompletionMaoScience";
 import { psychologyCompletionEvidence } from "./sourceCompletionPsychology";
 import { westChineseCompletionEvidence } from "./sourceCompletionWestChinese";
+import { curation2026RetiredThoughtIds } from "./curation2026Registry";
+import { westChineseCurationEvidence } from "./sourceCurationWestChinese2026";
 
 /**
  * Evidence registry for source-language fields that have been checked against
@@ -17,6 +19,7 @@ export const VERIFIED_SOURCE_CURRENT_CHECKED_ON = "2026-08-26" as const;
 export const VERIFIED_SOURCE_ACTIVE_CHECKED_ON = "2026-08-27" as const;
 export const VERIFIED_SOURCE_COMPLETION_CHECKED_ON = "2026-08-28" as const;
 export const VERIFIED_SOURCE_PUBLIC_UNHANDLED_CHECKED_ON = "2026-08-29" as const;
+export const VERIFIED_SOURCE_CURATION_CHECKED_ON = "2026-08-30" as const;
 
 export type VerifiedSourceOriginalField = "text" | "english";
 
@@ -41,7 +44,8 @@ export type VerifiedSourcePassage = Readonly<{
     | typeof VERIFIED_SOURCE_CURRENT_CHECKED_ON
     | typeof VERIFIED_SOURCE_ACTIVE_CHECKED_ON
     | typeof VERIFIED_SOURCE_COMPLETION_CHECKED_ON
-    | typeof VERIFIED_SOURCE_PUBLIC_UNHANDLED_CHECKED_ON;
+    | typeof VERIFIED_SOURCE_PUBLIC_UNHANDLED_CHECKED_ON
+    | typeof VERIFIED_SOURCE_CURATION_CHECKED_ON;
   referenceEdition: Readonly<{
     zh: string;
     en: string;
@@ -1238,7 +1242,7 @@ const suttaCentralBilaraCc0UseBasis = {
   en: "The selected Bhikkhu Sujato translation comes from SuttaCentral's published Bilara data. The LICENSE at frozen commit 21b240d60ee298ea0bab0868d058dfac04dbd1fd states that translations created in Bilara and supported by SuttaCentral are dedicated to the public domain through CC0. The Chinese is a project study translation retaining translator, edition, discourse, and segment attribution.",
 } as const satisfies VerifiedSourceUseBasis;
 
-export const verifiedSourcePassages: readonly VerifiedSourcePassage[] = [
+const preCurationVerifiedSourcePassages: readonly VerifiedSourcePassage[] = [
   ...maoSourceUpgradeEvidence,
   ...westChineseCompletionEvidence,
   ...economicsCompletionEvidence,
@@ -2081,6 +2085,13 @@ export const verifiedSourcePassages: readonly VerifiedSourcePassage[] = [
   englishEvidence("psychology-foundations-skinner-shaping", "斯金纳《科学与人类行为》（Macmillan 1953），第六章‘塑造与维持操作性行为’之‘行为的连续性’，原印刷页92（B. F. Skinner Foundation PDF第97页）；完整句开头连续7词，主字段末尾以省略号标明原句仍有后文", "Skinner, Science and Human Behavior (Macmillan, 1953), Chapter 6, ‘Shaping and Maintaining Operant Behavior,’ under ‘The Continuity of Behavior,’ original print p. 92 (B. F. Skinner Foundation PDF p. 97); first seven continuous words of the sentence, with a terminal ellipsis marking that it continues", links.skinnerScienceHumanBehavior1953, VERIFIED_SOURCE_ACTIVE_CHECKED_ON),
   englishEvidence("psychology-foundations-skinner-discrimination", "斯金纳《科学与人类行为》（Macmillan 1953），第七章‘操作性辨别’之‘辨别刺激’，原印刷页108（B. F. Skinner Foundation PDF第113页）；完整句中的连续12词分句，主字段开头以省略号标明句首截断", "Skinner, Science and Human Behavior (Macmillan, 1953), Chapter 7, ‘Operant Discrimination,’ under ‘Discriminative Stimuli,’ original print p. 108 (B. F. Skinner Foundation PDF p. 113); continuous 12-word clause from the sentence, with a leading ellipsis marking its truncated opening", links.skinnerScienceHumanBehavior1953, VERIFIED_SOURCE_ACTIVE_CHECKED_ON),
   englishEvidence("psychology-foundations-skinner-self-control", "斯金纳《科学与人类行为》（Macmillan 1953），第十五章‘自我控制’之‘行为的“自我决定”’，原印刷页228（B. F. Skinner Foundation PDF第233页）；完整句末尾破折号后的连续5词短语，主字段开头以省略号标明句首截断", "Skinner, Science and Human Behavior (Macmillan, 1953), Chapter 15, ‘Self-Control,’ under ‘The “Self-Determination” of Conduct,’ original print p. 228 (B. F. Skinner Foundation PDF p. 233); continuous five-word phrase after the dash at the end of the sentence, with a leading ellipsis marking its truncated opening", links.skinnerScienceHumanBehavior1953, VERIFIED_SOURCE_ACTIVE_CHECKED_ON),
+];
+
+export const verifiedSourcePassages: readonly VerifiedSourcePassage[] = [
+  ...preCurationVerifiedSourcePassages.filter(
+    (entry) => !curation2026RetiredThoughtIds.has(entry.id),
+  ),
+  ...westChineseCurationEvidence,
 ];
 
 export const verifiedSourcePassagesById: Readonly<

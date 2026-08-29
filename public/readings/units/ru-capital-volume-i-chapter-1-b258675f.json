@@ -18,7 +18,7 @@
   },
   "selectionMethod": "quote-guided-boundary",
   "contentHash": "7873cf160ad26115f6450bffe223020f4208ca0af9286bf29e951e0360aa2f2e",
-  "inputHash": "c3285a19b2e60bec360ce920d9cbef5328b4e05f51a3a6e94ce1dc58dd0ec3ff",
+  "inputHash": "990efb6391c99c50ae0f2526f3fc27c72590b3cc5b1fcea4d7afda3b3984f46d",
   "paragraphs": [
     {
       "id": "p0001",
@@ -946,13 +946,6 @@
         }
       ],
       "quote": "A use-value, or useful article, therefore, has value only because human labour in the abstract has been embodied or materialised in it. ... The labour-time socially necessary is that required to produce an article under the normal conditions of production, and with the average degree of skill and intensity prevalent at the time."
-    },
-    "marx-commodity-fetishism": {
-      "paragraphId": "p0170",
-      "start": 1203,
-      "end": 1332,
-      "quote": "There it is a definite social relation between men, that assumes, in their eyes, the fantastic form of a relation between things.",
-      "match": "normalized-exact"
     },
     "marx-use-exchange-value": {
       "paragraphId": "p0007",

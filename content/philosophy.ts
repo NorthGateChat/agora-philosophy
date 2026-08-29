@@ -6,6 +6,10 @@ import { buildContemporaryExpansionThoughts } from "./philosophyExpansionContemp
 import { curateLegacyThoughts } from "./philosophyCuration";
 import { buildModernExpansionThoughts } from "./philosophyExpansionModern";
 import { buildSupplementaryThoughts } from "./philosophySupplement";
+import {
+  westernRetiredThoughtIds,
+  westernStructuralExpansionThoughts,
+} from "./philosophyStructuralExpansion";
 
 export type ThoughtPresentationNature =
   | "source-excerpt"
@@ -711,11 +715,18 @@ const legacyThoughtArchive: Thought[] = [
   ...buildContemporaryExpansionThoughts(primaryThoughts),
 ];
 
-export const thoughts: Thought[] = [
+const preStructuralPassThoughts: Thought[] = [
   ...curateLegacyThoughts(legacyThoughtArchive),
   ...philosophyCanonEarlyThoughts,
   ...philosophyCanonModernThoughts,
   ...contemporaryCanonThoughts,
+];
+
+export const thoughts: Thought[] = [
+  ...preStructuralPassThoughts.filter(
+    (thought) => !westernRetiredThoughtIds.has(thought.id),
+  ),
+  ...westernStructuralExpansionThoughts,
 ];
 
 export type ConnectionKind = "inherits" | "reframes" | "challenges" | "dialogues" | "resonates" | "contrasts";

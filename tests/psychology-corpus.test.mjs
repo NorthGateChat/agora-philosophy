@@ -82,8 +82,17 @@ test("the psychology library is a sourced bilingual 120-card corpus", async () =
     psychologyCollectionOptions.map(({ id }) => id),
     ["foundations", "cognition", "social"],
   );
+  const expectedGroupSizes = {
+    foundations: 46,
+    cognition: 36,
+    social: 38,
+  };
   for (const { id } of psychologyCollectionOptions) {
-    assert.equal(psychologyThoughtGroups[id].length, 40, `${id} must contain 40 cards`);
+    assert.equal(
+      psychologyThoughtGroups[id].length,
+      expectedGroupSizes[id],
+      `${id} must reflect the source-led curation instead of a fixed quota`,
+    );
     for (const thought of psychologyThoughtGroups[id]) {
       assert.equal(psychologyCollectionForThought(thought.id), id);
     }
@@ -94,6 +103,46 @@ test("the psychology library is a sourced bilingual 120-card corpus", async () =
   );
 
   assert.equal(new Set(psychologyThoughts.map(({ id }) => id)).size, 120);
+  const authorCounts = new Map();
+  for (const thought of psychologyThoughts) {
+    authorCounts.set(thought.authorId, (authorCounts.get(thought.authorId) ?? 0) + 1);
+  }
+  assert.equal(authorCounts.size, 34);
+  assert.ok(
+    new Set(authorCounts.values()).size > 1,
+    "author inventories must reflect source importance instead of five-card quotas",
+  );
+
+  const thoughtIds = new Set(psychologyThoughts.map(({ id }) => id));
+  for (const removedId of [
+    "psychology-cognition-neisser-memory-reconstruction",
+    "psychology-cognition-neisser-constructive-activity",
+    "psychology-cognition-baddeley-hitch-unitary-store",
+    "psychology-cognition-tulving-mental-time-travel",
+    "psychology-cognition-tulving-systems-evidence",
+    "psychology-social-lewin-unfreeze-change",
+    "psychology-social-tajfel-positive-distinctiveness",
+    "psychology-social-ainsworth-cultural-observation",
+    "psychology-social-piaget-assimilation-accommodation",
+    "psychology-social-vygotsky-tools-signs",
+  ]) {
+    assert.ok(!thoughtIds.has(removedId), `${removedId} must stay merged into its survivor card`);
+  }
+  for (const addedId of [
+    "psychology-foundations-allport-odbert-lexical-traits",
+    "psychology-foundations-tupes-christal-recurrent-factors",
+    "psychology-foundations-fiske-rating-structure",
+    "psychology-foundations-spearman-general-factor",
+    "psychology-foundations-cronbach-meehl-construct-network",
+    "psychology-foundations-calkins-self-relational",
+    "psychology-cognition-beck-cognitive-distortions",
+    "psychology-social-harlow-contact-comfort",
+    "psychology-social-hazan-shaver-adult-attachment",
+    "psychology-social-clark-mills-communal-exchange",
+  ]) {
+    assert.ok(thoughtIds.has(addedId), `${addedId} must be included in the curated corpus`);
+  }
+
   const observedTopics = new Set();
   for (const thought of psychologyThoughts) {
     assert.match(thought.id, /^psychology-/);

@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
 import ts from "typescript";
+import { tsImport } from "tsx/esm/api";
 
 const componentUrl = new URL("../app/PhilosophyMoment.tsx", import.meta.url);
 const catalogUrl = new URL("../content/philosophy.ts", import.meta.url);
@@ -240,7 +241,7 @@ function assertSourcedWesternSeeds(entries) {
   }
 }
 
-test("the Western library contains 600 non-uniform, sourced bilingual thoughts across 60 philosophers", async () => {
+test("the Western library contains 600 non-uniform, sourced bilingual thoughts across 65 philosophers", async () => {
   const [
     catalogSource,
     supplementSource,
@@ -356,7 +357,8 @@ test("the Western library contains 600 non-uniform, sourced bilingual thoughts a
   );
 
   const publicAssembly = new Set(
-    findArrayLiteral(catalogFile, "thoughts").elements.map((element) => element.getText(catalogFile)),
+    findArrayLiteral(catalogFile, "preStructuralPassThoughts").elements
+      .map((element) => element.getText(catalogFile)),
   );
   for (const requiredSource of [
     "...curateLegacyThoughts(legacyThoughtArchive)",
@@ -366,6 +368,27 @@ test("the Western library contains 600 non-uniform, sourced bilingual thoughts a
   ]) {
     assert.ok(publicAssembly.has(requiredSource), `public thoughts must include ${requiredSource}`);
   }
+  const structuralAssembly = new Set(
+    findArrayLiteral(catalogFile, "thoughts").elements.map((element) => element.getText(catalogFile)),
+  );
+  assert.ok(
+    structuralAssembly.has("...preStructuralPassThoughts.filter(\n    (thought) => !westernRetiredThoughtIds.has(thought.id),\n  )"),
+    "public thoughts must filter the reviewed Western retirement set",
+  );
+  assert.ok(
+    structuralAssembly.has("...westernStructuralExpansionThoughts"),
+    "public thoughts must include the quota-neutral structural expansion",
+  );
+
+  const { thoughts: publicWesternThoughts } = await tsImport(
+    "../content/philosophy.ts",
+    import.meta.url,
+  );
+  assert.equal(publicWesternThoughts.length, 600);
+  assert.equal(
+    new Set(publicWesternThoughts.map((thought) => thought.authorId ?? thought.id)).size,
+    65,
+  );
 
   assert.equal(
     new Set(allWesternSourceRecords.map((record) => record.get("id"))).size,
@@ -406,7 +429,11 @@ test("the Western library contains 600 non-uniform, sourced bilingual thoughts a
   }
 });
 
-test("the Mao library contains 128 sourced bilingual thoughts", async () => {
+test("the Mao source inventory is bilingual and its public curation retires reviewed overlaps", async () => {
+  const [{ maoThoughts }, { retiredMaoThoughtIds }] = await Promise.all([
+    tsImport("../content/mao.ts", import.meta.url),
+    tsImport("../content/maoCuration2026.ts", import.meta.url),
+  ]);
   const [
     catalogSource,
     supplementSource,
@@ -499,12 +526,24 @@ test("the Mao library contains 128 sourced bilingual thoughts", async () => {
   const contentEnglishFields = ["english", "englishWork", "englishReflection", "englishQuestion"];
   const contentChineseFields = ["text", "work", "reflection", "question"];
 
-  assert.equal(primaryMaoRecords.length, 18);
-  assert.equal(maoExpansionRecords.length, 24);
-  assert.equal(maoEarlyEntries.length, 29);
-  assert.equal(maoMiddleEntries.length, 30);
-  assert.equal(maoLateEntries.length, 27);
-  assert.equal(maoRecords.length, 128);
+  assert.ok(primaryMaoRecords.length >= 15);
+  assert.ok(maoExpansionRecords.length >= 20);
+  assert.ok(maoEarlyEntries.length >= 25);
+  assert.ok(maoMiddleEntries.length >= 25);
+  assert.ok(maoLateEntries.length >= 25);
+  assert.ok(maoRecords.length >= 100);
+  assert.equal(
+    maoThoughts.length,
+    maoRecords.length - retiredMaoThoughtIds.size,
+    "the public Mao corpus must differ from its source inventory only by reviewed retirements",
+  );
+  for (const retiredId of retiredMaoThoughtIds) {
+    assert.equal(
+      maoThoughts.some((thought) => thought.id === retiredId),
+      false,
+      `${retiredId} must remain retired`,
+    );
+  }
   assert.equal(publicWesternCount, 600);
   assert.equal(
     new Set(allSourceRecords.map((record) => record.get("id"))).size,

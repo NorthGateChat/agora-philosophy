@@ -18,7 +18,7 @@
   },
   "selectionMethod": "whole-document",
   "contentHash": "dfd4a566fd83c8366f423bb1f9b10df3ff3dc461df9046dcd28ad1483f6940bd",
-  "inputHash": "ac6d08eff8d189fd57dee22355072628275e2904452209bea1a50c138d05b9b1",
+  "inputHash": "b0a881fdac66cbe5a6da084769e6b7505f8703d7aed210fc4327ba8c833c627a",
   "paragraphs": [
     {
       "id": "p0001",
@@ -91,13 +91,6 @@
       "start": 0,
       "end": 316,
       "quote": "In experimental philosophy we are to look upon propositions collected by general induction from phenomena as accurately or very nearly true, notwithstanding any contrary hypotheses that may be imagined, till such time as other phenomena occur, by which they may either be made more accurate, or liable to exceptions.",
-      "match": "normalized-exact"
-    },
-    "science-newton-rule-third": {
-      "paragraphId": "p0009",
-      "start": 0,
-      "end": 230,
-      "quote": "The qualities of bodies, which admit neither intension nor remission of degrees, and which are found to belong to all bodies within the reach of our experiments, are to be esteemed the universal qualities of all bodies whatsoever.",
       "match": "normalized-exact"
     },
     "science-newton-rules-causes": {

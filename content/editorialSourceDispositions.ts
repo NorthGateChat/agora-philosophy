@@ -1,3 +1,5 @@
+import { curation2026RetiredThoughtIds } from "./curation2026Registry";
+
 export type PendingSourceDispositionReason =
   | "primary-text-not-checked"
   | "edition-not-selected"
@@ -34,9 +36,9 @@ function retain(
  * added card cannot silently inherit the default pending decision.
  */
 export const editorialSourceDispositionSnapshot = {
-  reviewedOn: "2026-08-28",
-  expectedEditorialCount: 562,
-  expectedEditorialIdSha256: "098ae6a5f0c6a0c09eca2ccc02c73ee080202aaa9ed7dc3f414d1a7b71c47b5d",
+  reviewedOn: "2026-08-30",
+  expectedEditorialCount: 523,
+  expectedEditorialIdSha256: "a6e6e7a1001bc10148893e7eaf7f5c96ce66aa8caefa7fe6c9cc8e8d310885f1",
   defaultDecision: "pending-upgrade",
   defaultReason: "primary-text-not-checked",
   defaultNote: {
@@ -45,7 +47,7 @@ export const editorialSourceDispositionSnapshot = {
   },
 } as const;
 
-export const retainedEditorialSourceDispositions = [
+const reviewedEditorialSourceDispositions = [
   ...westChineseRetainedEditorialDispositions,
   ...economicsRetainedEditorialDispositions,
   ...maoScienceRetainedEditorialDispositions,
@@ -75,6 +77,10 @@ export const retainedEditorialSourceDispositions = [
     ["science-curie-pitchblende"],
   ),
 ] as const satisfies readonly RetainedEditorialSourceDisposition[];
+
+export const retainedEditorialSourceDispositions = reviewedEditorialSourceDispositions.filter(
+  ({ id }) => !curation2026RetiredThoughtIds.has(id),
+);
 import { economicsRetainedEditorialDispositions } from "./sourceCompletionEconomics";
 import { indianRetainedEditorialDispositions } from "./sourceCompletionIndian";
 import { maoScienceRetainedEditorialDispositions } from "./sourceCompletionMaoScience";

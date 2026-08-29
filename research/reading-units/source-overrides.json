@@ -175,9 +175,6 @@
     "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm": {
       "localPath": "research/source-cache/economics-context-batch11/ricardo-principles-gitenberg-33310.txt"
     },
-    "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm": {
-      "localPath": "research/source-cache/completion-mao-science/newton-opticks-1718.txt"
-    },
     "https://www.gutenberg.org/files/44138/44138-h/44138-h.htm": {
       "localPath": "research/source-cache/completion-psychology/wundt-elements-folk-psychology-1916.txt"
     },
@@ -760,11 +757,6 @@
       "startPattern": "^ON TRUTH AND FALSITY IN THEIR ULTRAMORAL SENSE$",
       "endPattern": "^2$"
     },
-    "ru-opticks-book-iii-2a775caf": {
-      "localPath": "research/source-cache/reading-unit-derived/newton-opticks-1718-book-iii.txt",
-      "startPattern": "^THIRD BOOK$",
-      "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
-    },
     "ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f": {
       "startPattern": "^AUTHOR’S PREFACE\\.$",
       "endPattern": "^CONTENTS\\.$"
@@ -975,6 +967,26 @@
     },
     "ru-tractatus-logico-philosophicus-major-proposition-7-e4bb0510": {
       "minimumUnitCharacters": 40
+    },
+    "ru-collected-works-of-lu-jiuyuan-letter-to-shao-shu-whole-work-c38e8cce": {
+      "startPattern": "^與邵叔宜$",
+      "endPattern": "^與曾宅之$"
+    },
+    "ru-elements-of-chemistry-preface-preface-4f8b7e34": {
+      "startPattern": "^PREFACE OF THE AUTHOR\\.$",
+      "endPattern": "^CONTENTS\\.$"
+    },
+    "ru-principles-of-geology-book-i-chapter-xiii-a689c324": {
+      "startPattern": "^CHAPTER XIII\\.$",
+      "endPattern": "^CHAPTER XIV\\.$"
+    },
+    "ru-the-arrangement-of-field-experiments-whole-work-fe4db1b3": {
+      "localPath": "research/source-cache/reading-unit-derived/fisher-arrangement-field-experiments-1926.txt",
+      "startPattern": "^THE ARRANGEMENT OF FIELD EXPERIMENTS$"
+    },
+    "ru-theory-of-the-earth-chapter-i-3e13dbd9": {
+      "startPattern": "^CHAPTER I\\.$",
+      "endPattern": "^CHAPTER II\\.$"
     }
   },
   "evidenceMethod": "Each override was accepted only after its local filename or stable remote edition identified the same work, and every routed registered source-language excerpt matched after Unicode, whitespace, and punctuation normalization.",
@@ -1214,9 +1226,6 @@
       "economics-ricardo-comparative-advantage",
       "economics-ricardo-distribution"
     ],
-    "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm": [
-      "science-newton-analysis-synthesis"
-    ],
     "https://www.gutenberg.org/files/44138/44138-h/44138-h.htm": [
       "psychology-foundations-wundt-cultural-processes"
     ],
@@ -1225,9 +1234,7 @@
       "francis-bacon-ladder",
       "francis-bacon-light-fruit",
       "francis-bacon-method",
-      "science-bacon-bee",
       "science-bacon-gradual-induction",
-      "science-bacon-organized-experiment",
       "science-bacon-negative-instances"
     ],
     "https://www.gutenberg.org/files/67363/67363-h/67363-h.htm": [

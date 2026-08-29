@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-elements-of-chemistry-preface-preface-4f8b7e34",
+  "title": "序言",
+  "englishTitle": "Preface",
+  "work": "《化学原理》",
+  "englishWork": "Elements of Chemistry",
+  "locator": "序言",
+  "englishLocator": "Preface",
+  "version": "Robert Kerr 1790年英译《化学原理》“作者序言”，印刷页xiv—xv；Project Gutenberg #30775逐字核对",
+  "englishVersion": "Robert Kerr's 1790 translation of Elements of Chemistry, Preface of the Author, print pp. xiv–xv; collated against Project Gutenberg #30775",
+  "sourceUrl": "https://www.gutenberg.org/files/30775/30775-h/30775-h.htm",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/3/0/7/7/30775/30775.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/3/0/7/7/30775/30775.txt",
+    "contentType": "text/plain",
+    "sha256": "11b16692bb7714bf89c74ec8728ad60a5e6edebb3e3a2670e4c32b0cb970c6cc"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "bbf0ccef1913cefdba0a0fc8f26b6f4d17d3a1f193160ca918e89b947b67ac27",
+  "inputHash": "9ab60bc04ddb2c43ab4d574025f351277b1fdbd82575e8909342e497253cccaf",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "PREFACE OF THE AUTHOR."
+    },
+    {
+      "id": "p0002",
+      "text": "When I began the following Work, my only object was to extend and explain more fully the Memoir which I read at the public meeting of the Academy of Sciences in the month of April 1787, on the necessity of reforming and completing the Nomenclature of Chemistry. While engaged in this employment, I perceived, better than I had ever done before, the justice of the following maxims of the Abbe de Condillac, in his System of Logic, and some other of his works."
+    },
+    {
+      "id": "p0003",
+      "text": "\"We think only through the medium of words.--Languages are true analytical methods.--Algebra, which is adapted to its purpose in every species of expression, in the most simple, most exact, and best manner possible, is at the same time a language and an analytical method.--The art of reasoning is nothing more than a language well arranged.\""
+    },
+    {
+      "id": "p0004",
+      "text": "Thus, while I thought myself employed only in forming a Nomenclature, and while I proposed to myself nothing more than to improve the chemical language, my work transformed itself by degrees, without my being able to prevent it, into a treatise upon the Elements of Chemistry."
+    },
+    {
+      "id": "p0005",
+      "text": "The impossibility of separating the nomenclature of a science from the science itself, is owing to this, that every branch of physical science must consist of three things; the series of facts which are the objects of the science, the ideas which represent these facts, and the words by which these ideas are expressed. Like three impressions of the same seal, the word ought to produce the idea, and the idea to be a picture of the fact. And, as ideas are preserved and communicated by means of words, it necessarily follows that we cannot improve the language of any science without at the same time improving the science itself; neither can we, on the other hand, improve a science, without improving the language or nomenclature which belongs to it. However certain the facts of any science may be, and, however just the ideas we may have formed of these facts, we can only communicate false impressions to others, while we want words by which these may be properly expressed."
+    },
+    {
+      "id": "p0006",
+      "text": "To those who will consider it with attention, the first part of this treatise will afford frequent proofs of the truth of the above observations. But as, in the conduct of my work, I have been obliged to observe an order of arrangement essentially differing from what has been adopted in any other chemical work yet published, it is proper that I should explain the motives which have led me to do so."
+    },
+    {
+      "id": "p0007",
+      "text": "It is a maxim universally admitted in geometry, and indeed in every branch of knowledge, that, in the progress of investigation, we should proceed from known facts to what is unknown. In early infancy, our ideas spring from our wants; the sensation of want excites the idea of the object by which it is to be gratified. In this manner, from a series of sensations, observations, and analyses, a successive train of ideas arises, so linked together, that an attentive observer may trace back to a certain point the order and connection of the whole sum of human knowledge."
+    },
+    {
+      "id": "p0008",
+      "text": "When we begin the study of any science, we are in a situation, respecting that science, similar to that of children; and the course by which we have to advance is precisely the same which Nature follows in the formation of their ideas. In a child, the idea is merely an effect produced by a sensation; and, in the same manner, in commencing the study of a physical science, we ought to form no idea but what is a necessary consequence, and immediate effect, of an experiment or observation. Besides, he that enters upon the career of science, is in a less advantageous situation than a child who is acquiring his first ideas. To the child, Nature gives various means of rectifying any mistakes he may commit respecting the salutary or hurtful qualities of the objects which surround him. On every occasion his judgments are corrected by experience; want and pain are the necessary consequences arising from false judgment; gratification and pleasure are produced by judging aright. Under such masters, we cannot fail to become well informed; and we soon learn to reason justly, when want and pain are the necessary consequences of a contrary conduct."
+    },
+    {
+      "id": "p0009",
+      "text": "In the study and practice of the sciences it is quite different; the false judgments we form neither affect our existence nor our welfare; and we are not forced by any physical necessity to correct them. Imagination, on the contrary, which is ever wandering beyond the bounds of truth, joined to self-love and that self-confidence we are so apt to indulge, prompt us to draw conclusions which are not immediately derived from facts; so that we become in some measure interested in deceiving ourselves. Hence it is by no means to be wondered, that, in the science of physics in general, men have often made suppositions, instead of forming conclusions. These suppositions, handed down from one age to another, acquire additional weight from the authorities by which they are supported, till at last they are received, even by men of genius, as fundamental truths."
+    },
+    {
+      "id": "p0010",
+      "text": "The only method of preventing such errors from taking place, and of correcting them when formed, is to restrain and simplify our reasoning as much as possible. This depends entirely upon ourselves, and the neglect of it is the only source of our mistakes. We must trust to nothing but facts: These are presented to us by Nature, and cannot deceive. We ought, in every instance, to submit our reasoning to the test of experiment, and never to search for truth but by the natural road of experiment and observation. Thus mathematicians obtain the solution of a problem by the mere arrangement of data, and by reducing their reasoning to such simple steps, to conclusions so very obvious, as never to lose sight of the evidence which guides them."
+    },
+    {
+      "id": "p0011",
+      "text": "Thoroughly convinced of these truths, I have imposed upon myself, as a law, never to advance but from what is known to what is unknown; never to form any conclusion which is not an immediate consequence necessarily flowing from observation and experiment; and always to arrange the facts, and the conclusions which are drawn from them, in such an order as shall render it most easy for beginners in the study of chemistry thoroughly to understand them. Hence I have been obliged to depart from the usual order of courses of lectures and of treatises upon chemistry, which always assume the first principles of the science, as known, when the pupil or the reader should never be supposed to know them till they have been explained in subsequent lessons. In almost every instance, these begin by treating of the elements of matter, and by explaining the table of affinities, without considering, that, in so doing, they must bring the principal phenomena of chemistry into view at the very outset: They make use of terms which have not been defined, and suppose the science to be understood by the very persons they are only beginning to teach. It ought likewise to be considered, that very little of chemistry can be learned in a first course, which is hardly sufficient to make the language of the science familiar to the ears, or the apparatus familiar to the eyes. It is almost impossible to become a chemist in less than three or four years of constant application."
+    },
+    {
+      "id": "p0012",
+      "text": "These inconveniencies are occasioned not so much by the nature of the subject, as by the method of teaching it; and, to avoid them, I was chiefly induced to adopt a new arrangement of chemistry, which appeared to me more consonant to the order of Nature. I acknowledge, however, that in thus endeavouring to avoid difficulties of one kind, I have found myself involved in others of a different species, some of which I have not been able to remove; but I am persuaded, that such as remain do not arise from the nature of the order I have adopted, but are rather consequences of the imperfection under which chemistry still labours. This science still has many chasms, which interrupt the series of facts, and often render it extremely difficult to reconcile them with each other: It has not, like the elements of geometry, the advantage of being a complete science, the parts of which are all closely connected together: Its actual progress, however, is so rapid, and the facts, under the modern doctrine, have assumed so happy an arrangement, that we have ground to hope, even in our own times, to see it approach near to the highest state of perfection of which it is susceptible."
+    },
+    {
+      "id": "p0013",
+      "text": "The rigorous law from which I have never deviated, of forming no conclusions which are not fully warranted by experiment, and of never supplying the absence of facts, has prevented me from comprehending in this work the branch of chemistry which treats of affinities, although it is perhaps the best calculated of any part of chemistry for being reduced into a completely systematic body. Messrs Geoffroy, Gellert, Bergman, Scheele, De Morveau, Kirwan, and many others, have collected a number of particular facts upon this subject, which only wait for a proper arrangement; but the principal data are still wanting, or, at least, those we have are either not sufficiently defined, or not sufficiently proved, to become the foundation upon which to build so very important a branch of chemistry. This science of affinities, or elective attractions, holds the same place with regard to the other branches of chemistry, as the higher or transcendental geometry does with respect to the simpler and elementary part; and I thought it improper to involve those simple and plain elements, which I flatter myself the greatest part of my readers will easily understand, in the obscurities and difficulties which still attend that other very useful and necessary branch of chemical science."
+    },
+    {
+      "id": "p0014",
+      "text": "Perhaps a sentiment of self-love may, without my perceiving it, have given additional force to these reflections. Mr de Morveau is at present engaged in publishing the article _Affinity_ in the Methodical Encyclopaedia; and I had more reasons than one to decline entering upon a work in which he is employed."
+    },
+    {
+      "id": "p0015",
+      "text": "It will, no doubt, be a matter of surprise, that in a treatise upon the elements of chemistry, there should be no chapter on the constituent and elementary parts of matter; but I shall take occasion, in this place, to remark, that the fondness for reducing all the bodies in nature to three or four elements, proceeds from a prejudice which has descended to us from the Greek Philosophers. The notion of four elements, which, by the variety of their proportions, compose all the known substances in nature, is a mere hypothesis, assumed long before the first principles of experimental philosophy or of chemistry had any existence. In those days, without possessing facts, they framed systems; while we, who have collected facts, seem determined to reject them, when they do not agree with our prejudices. The authority of these fathers of human philosophy still carry great weight, and there is reason to fear that it will even bear hard upon generations yet to come."
+    },
+    {
+      "id": "p0016",
+      "text": "It is very remarkable, that, notwithstanding of the number of philosophical chemists who have supported the doctrine of the four elements, there is not one who has not been led by the evidence of facts to admit a greater number of elements into their theory. The first chemists that wrote after the revival of letters, considered sulphur and salt as elementary substances entering into the composition of a great number of substances; hence, instead of four, they admitted the existence of six elements. Beccher assumes the existence of three kinds of earth, from the combination of which, in different proportions, he supposed all the varieties of metallic substances to be produced. Stahl gave a new modification to this system; and succeeding chemists have taken the liberty to make or to imagine changes and additions of a similar nature. All these chemists were carried along by the influence of the genius of the age in which they lived, which contented itself with assertions without proofs; or, at least, often admitted as proofs the slighted degrees of probability, unsupported by that strictly rigorous analysis required by modern philosophy."
+    },
+    {
+      "id": "p0017",
+      "text": "All that can be said upon the number and nature of elements is, in my opinion, confined to discussions entirely of a metaphysical nature. The subject only furnishes us with indefinite problems, which may be solved in a thousand different ways, not one of which, in all probability, is consistent with nature. I shall therefore only add upon this subject, that if, by the term _elements_, we mean to express those simple and indivisible atoms of which matter is composed, it is extremely probable we know nothing at all about them; but, if we apply the term _elements_, or _principles of bodies_, to express our idea of the last point which analysis is capable of reaching, we must admit, as elements, all the substances into which we are capable, by any means, to reduce bodies by decomposition. Not that we are entitled to affirm, that these substances we consider as simple may not be compounded of two, or even of a greater number of principles; but, since these principles cannot be separated, or rather since we have not hitherto discovered the means of separating them, they act with regard to us as simple substances, and we ought never to suppose them compounded until experiment and observation has proved them to be so."
+    },
+    {
+      "id": "p0018",
+      "text": "The foregoing reflections upon the progress of chemical ideas naturally apply to the words by which these ideas are to be expressed. Guided by the work which, in the year 1787, Messrs de Morveau, Berthollet, de Fourcroy, and I composed upon the Nomenclature of Chemistry, I have endeavoured, as much as possible, to denominate simple bodies by simple terms, and I was naturally led to name these first. It will be recollected, that we were obliged to retain that name of any substance by which it had been long known in the world, and that in two cases only we took the liberty of making alterations; first, in the case of those which were but newly discovered, and had not yet obtained names, or at least which had been known but for a short time, and the names of which had not yet received the sanction of the public; and, secondly, when the names which had been adopted, whether by the ancients or the moderns, appeared to us to express evidently false ideas, when they confounded the substances, to which they were applied, with others possessed of different, or perhaps opposite qualities. We made no scruple, in this case, of substituting other names in their room, and the greatest number of these were borrowed from the Greek language. We endeavoured to frame them in such a manner as to express the most general and the most characteristic quality of the substances; and this was attended with the additional advantage both of assisting the memory of beginners, who find it difficult to remember a new word which has no meaning, and of accustoming them early to admit no word without connecting with it some determinate idea."
+    },
+    {
+      "id": "p0019",
+      "text": "To those bodies which are formed by the union of several simple substances we gave new names, compounded in such a manner as the nature of the substances directed; but, as the number of double combinations is already very considerable, the only method by which we could avoid confusion, was to divide them into classes. In the natural order of ideas, the name of the class or genus is that which expresses a quality common to a great number of individuals: The name of the species, on the contrary, expresses a quality peculiar to certain individuals only."
+    },
+    {
+      "id": "p0020",
+      "text": "These distinctions are not, as some may imagine, merely metaphysical, but are established by Nature. \"A child,\" says the Abbe de Condillac, \"is taught to give the name _tree_ to the first one which is pointed out to him. The next one he sees presents the same idea, and he gives it the same name. This he does likewise to a third and a fourth, till at last the word _tree_, which he first applied to an individual, comes to be employed by him as the name of a class or a genus, an abstract idea, which comprehends all trees in general. But, when he learns that all trees serve not the same purpose, that they do not all produce the same kind of fruit, he will soon learn to distinguish them by specific and particular names.\" This is the logic of all the sciences, and is naturally applied to chemistry."
+    },
+    {
+      "id": "p0021",
+      "text": "The acids, for example, are compounded of two substances, of the order of those which we consider as simple; the one constitutes acidity, and is common to all acids, and, from this substance, the name of the class or the genus ought to be taken; the other is peculiar to each acid, and distinguishes it from the rest, and from this substance is to be taken the name of the species. But, in the greatest number of acids, the two constituent elements, the acidifying principle, and that which it acidifies, may exist in different proportions, constituting all the possible points of equilibrium or of saturation. This is the case in the sulphuric and the sulphurous acids; and these two states of the same acid we have marked by varying the termination of the specific name."
+    },
+    {
+      "id": "p0022",
+      "text": "Metallic substances which have been exposed to the joint action of the air and of fire, lose their metallic lustre, increase in weight, and assume an earthy appearance. In this state, like the acids, they are compounded of a principle which is common to all, and one which is peculiar to each. In the same way, therefore, we have thought proper to class them under a generic name, derived from the common principle; for which purpose, we adopted the term _oxyd_; and we distinguish them from each other by the particular name of the metal to which each belongs."
+    },
+    {
+      "id": "p0023",
+      "text": "Combustible substances, which in acids and metallic oxyds are a specific and particular principle, are capable of becoming, in their turn, common principles of a great number of substances. The sulphurous combinations have been long the only known ones in this kind. Now, however, we know, from the experiments of Messrs Vandermonde, Monge, and Berthollet, that charcoal may be combined with iron, and perhaps with several other metals; and that, from this combination, according to the proportions, may be produced steel, plumbago, &c. We know likewise, from the experiments of M. Pelletier, that phosphorus may be combined with a great number of metallic substances. These different combinations we have classed under generic names taken from the common substance, with a termination which marks this analogy, specifying them by another name taken from that substance which is proper to each."
+    },
+    {
+      "id": "p0024",
+      "text": "The nomenclature of bodies compounded of three simple substances was attended with still greater difficulty, not only on account of their number, but, particularly, because we cannot express the nature of their constituent principles without employing more compound names. In the bodies which form this class, such as the neutral salts, for instance, we had to consider, 1st, The acidifying principle, which is common to them all; 2d, The acidifiable principle which constitutes their peculiar acid; 3d, The saline, earthy, or metallic basis, which determines the particular species of salt. Here we derived the name of each class of salts from the name of the acidifiable principle common to all the individuals of that class; and distinguished each species by the name of the saline, earthy, or metallic basis, which is peculiar to it."
+    },
+    {
+      "id": "p0025",
+      "text": "A salt, though compounded of the same three principles, may, nevertheless, by the mere difference of their proportion, be in three different states. The nomenclature we have adopted would have been defective, had it not expressed these different states; and this we attained chiefly by changes of termination uniformly applied to the same state of the different salts."
+    },
+    {
+      "id": "p0026",
+      "text": "In short, we have advanced so far, that from the name alone may be instantly found what the combustible substance is which enters into any combination; whether that combustible substance be combined with the acidifying principle, and in what proportion; what is the state of the acid; with what basis it is united; whether the saturation be exact, or whether the acid or the basis be in excess."
+    },
+    {
+      "id": "p0027",
+      "text": "It may be easily supposed that it was not possible to attain all these different objects without departing, in some instances, from established custom, and adopting terms which at first sight will appear uncouth and barbarous. But we considered that the ear is soon habituated to new words, especially when they are connected with a general and rational system. The names, besides, which were formerly employed, such as _powder of algaroth_, _salt of alembroth_, _pompholix_, _phagadenic water_, _turbith mineral_, _colcathar_, and many others, were neither less barbarous nor less uncommon. It required a great deal of practice, and no small degree of memory, to recollect the substances to which they were applied, much more to recollect the genus of combination to which they belonged. The names of _oil of tartar per deliquium_, _oil of vitriol_, _butter of arsenic and of antimony_, _flowers of zinc_, &c. were still more improper, because they suggested false ideas: For, in the whole mineral kingdom, and particularly in the metallic class, there exists no such thing as butters, oils, or flowers; and, in short, the substances to which they give these fallacious names, are nothing less than rank poisons."
+    },
+    {
+      "id": "p0028",
+      "text": "When we published our essay on the nomenclature of chemistry, we were reproached for having changed the language which was spoken by our masters, which they distinguished by their authority, and handed down to us. But those who reproach us on this account, have forgotten that it was Bergman and Macquer themselves who urged us to make this reformation. In a letter which the learned Professor of Upsal, M. Bergman, wrote, a short time before he died, to M. de Morveau, he bids him _spare no improper names; those who are learned, will always be learned, and those who are ignorant will thus learn sooner_."
+    },
+    {
+      "id": "p0029",
+      "text": "There is an objection to the work which I am going to present to the public, which is perhaps better founded, that I have given no account of the opinion of those who have gone before me; that I have stated only my own opinion, without examining that of others. By this I have been prevented from doing that justice to my associates, and more especially to foreign chemists, which I wished to render them. But I beseech the reader to consider, that, if I had filled an elementary work with a multitude of quotations; if I had allowed myself to enter into long dissertations on the history of the science, and the works of those who have studied it, I must have lost sight of the true object I had in view, and produced a work, the reading of which must have been extremely tiresome to beginners. It is not to the history of the science, or of the human mind, that we are to attend in an elementary treatise: Our only aim ought to be ease and perspicuity, and with the utmost care to keep every thing out of view which might draw aside the attention of the student; it is a road which we should be continually rendering more smooth, and from which we should endeavour to remove every obstacle which can occasion delay. The sciences, from their own nature, present a sufficient number of difficulties, though we add not those which are foreign to them. But, besides this, chemists will easily perceive, that, in the first part of my work, I make very little use of any experiments but those which were made by myself: If at any time I have adopted, without acknowledgment, the experiments or the opinions of M. Berthollet, M. Fourcroy, M. de la Place, M. Monge, or, in general, of any of those whose principles are the same with my own, it is owing to this circumstance, that frequent intercourse, and the habit of communicating our ideas, our observations, and our way of thinking to each other, has established between us a sort of community of opinions, in which it is often difficult for every one to know his own."
+    },
+    {
+      "id": "p0030",
+      "text": "The remarks I have made on the order which I thought myself obliged to follow in the arrangement of proofs and ideas, are to be applied only to the first part of this work. It is the only one which contains the general sum of the doctrine I have adopted, and to which I wished to give a form completely elementary."
+    },
+    {
+      "id": "p0031",
+      "text": "The second part is composed chiefly of tables of the nomenclature of the neutral salts. To these I have only added general explanations, the object of which was to point out the most simple processes for obtaining the different kinds of known acids. This part contains nothing which I can call my own, and presents only a very short abridgment of the results of these processes, extracted from the works of different authors."
+    },
+    {
+      "id": "p0032",
+      "text": "In the third part, I have given a description, in detail, of all the operations connected with modern chemistry. I have long thought that a work of this kind was much wanted, and I am convinced it will not be without use. The method of performing experiments, and particularly those of modern chemistry, is not so generally known as it ought to be; and had I, in the different memoirs which I have presented to the Academy, been more particular in the detail of the manipulations of my experiments, it is probable I should have made myself better understood, and the science might have made a more rapid progress. The order of the different matters contained in this third part appeared to me to be almost arbitrary; and the only one I have observed was to class together, in each of the chapters of which it is composed, those operations which are most connected with one another. I need hardly mention that this part could not be borrowed from any other work, and that, in the principal articles it contains, I could not derive assistance from any thing but the experiments which I have made myself."
+    },
+    {
+      "id": "p0033",
+      "text": "I shall conclude this preface by transcribing, literally, some observations of the Abbe de Condillac, which I think describe, with a good deal of truth, the state of chemistry at a period not far distant from our own. These observations were made on a different subject; but they will not, on this account, have less force, if the application of them be thought just."
+    },
+    {
+      "id": "p0034",
+      "text": "'Instead of applying observation to the things we wished to know, we have chosen rather to imagine them. Advancing from one ill founded supposition to another, we have at last bewildered ourselves amidst a multitude of errors. These errors becoming prejudices, are, of course, adopted as principles, and we thus bewilder ourselves more and more. The method, too, by which we conduct our reasonings is as absurd; we abuse words which we do not understand, and call this the art of reasoning. When matters have been brought this length, when errors have been thus accumulated, there is but one remedy by which order can be restored to the faculty of thinking; this is, to forget all that we have learned, to trace back our ideas to their source, to follow the train in which they rise, and, as my Lord Bacon says, to frame the human understanding anew."
+    },
+    {
+      "id": "p0035",
+      "text": "'This remedy becomes the more difficult in proportion as we think ourselves more learned. Might it not be thought that works which treated of the sciences with the utmost perspicuity, with great precision and order, must be understood by every body? The fact is, those who have never studied any thing will understand them better than those who have studied a great deal, and especially than those who have written a great deal.'"
+    },
+    {
+      "id": "p0036",
+      "text": "At the end of the fifth chapter, the Abbe de Condillac adds: 'But, after all, the sciences have made progress, because philosophers have applied themselves with more attention to observe, and have communicated to their language that precision and accuracy which they have employed in their observations: In correcting their language they reason better.'"
+    }
+  ],
+  "anchors": {
+    "science-lavoisier-nomenclature-facts-ideas-words": {
+      "paragraphId": "p0005",
+      "start": 0,
+      "end": 319,
+      "quote": "The impossibility of separating the nomenclature of a science from the science itself, is owing to this, that every branch of physical science must consist of three things; the series of facts which are the objects of the science, the ideas which represent these facts, and the words by which these ideas are expressed.",
+      "match": "normalized-exact"
+    }
+  }
+}

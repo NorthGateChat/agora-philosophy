@@ -52,21 +52,21 @@ test("reading-unit inventory is reproducible and public index stays in sync", as
   assert.deepEqual(publicIndex, built);
 });
 
-test("all 890 verified thoughts map to one and only one non-orphan reading unit", async () => {
+test("all 918 verified thoughts map to one and only one non-orphan reading unit", async () => {
   const { verifiedSourcePassages } = await loadExpectedState();
   const verifiedIds = verifiedSourcePassages.map(({ id }) => id).sort();
   const mappedIds = Object.keys(publicIndex.thoughtMap).sort();
   const unitThoughtIds = publicIndex.units.flatMap(({ thoughtIds }) => thoughtIds).sort();
 
-  assert.equal(publicIndex.catalogThoughtCount, 1_452);
-  assert.equal(publicIndex.verifiedThoughtCount, 890);
-  assert.equal(verifiedIds.length, 890);
-  assert.equal(new Set(verifiedIds).size, 890, "verified evidence IDs must be unique");
+  assert.equal(publicIndex.catalogThoughtCount, 1_441);
+  assert.equal(publicIndex.verifiedThoughtCount, 918);
+  assert.equal(verifiedIds.length, 918);
+  assert.equal(new Set(verifiedIds).size, 918, "verified evidence IDs must be unique");
   assert.deepEqual(mappedIds, verifiedIds, "every verified thought needs a reader route");
   assert.deepEqual(unitThoughtIds, verifiedIds, "unit membership must cover the registry exactly");
   assert.equal(
     new Set(unitThoughtIds).size,
-    890,
+    918,
     "no verified thought may be duplicated across reading units",
   );
 
@@ -80,6 +80,26 @@ test("all 890 verified thoughts map to one and only one non-orphan reading unit"
       );
     }
   }
+});
+
+test("2026 curation additions open the actual containing section, chapter, fascicle, letter, or article", () => {
+  assert.equal(unitForThought("ghazali-bases-certitude").locator.structureKey, "section-1");
+  assert.equal(unitForThought("ghazali-blind-belief-consciousness").locator.structureKey, "section-3");
+  assert.equal(unitForThought("ghazali-experience-not-definition").locator.structureKey, "section-7");
+  assert.equal(unitForThought("maimonides-no-positive-attribute").locator.structureKey, "part-i-chapter-58");
+  assert.equal(unitForThought("maimonides-negation-advances-knowledge").locator.structureKey, "part-i-chapter-59");
+  assert.equal(unitForThought("maimonides-law-soul-body-welfare").locator.structureKey, "part-iii-chapter-27");
+  assert.equal(unitForThought("chinese-zhiyi-one-mind-three-wisdoms").locator.structureKey, "fascicle-1");
+  assert.equal(unitForThought("chinese-zhiyi-three-truths-one-mind").locator.structureKey, "fascicle-6");
+  assert.notEqual(
+    unitForThought("chinese-zhiyi-one-mind-three-wisdoms").id,
+    unitForThought("chinese-zhiyi-three-truths-one-mind").id,
+  );
+  assert.equal(unitForThought("chinese-lu-jiuyuan-root-and-branches").locator.structureKey, "whole-work");
+  assert.equal(unitForThought("science-lavoisier-nomenclature-facts-ideas-words").locator.structureKey, "preface-preface");
+  assert.equal(unitForThought("science-lyell-present-causes").locator.structureKey, "book-i-chapter-xiii");
+  assert.equal(unitForThought("science-hutton-deep-time-no-beginning").locator.structureKey, "chapter-i");
+  assert.equal(unitForThought("science-fisher-randomized-plots").locator.structureKey, "whole-work");
 });
 
 test("reading units are deduplicated, bounded, source-routable, and lazily addressable", () => {
@@ -415,6 +435,7 @@ test("anchor-only citations collapse into complete works, parts, books, or chapt
     "An Enquiry Concerning the Principles of Morals",
     "Brihadaranyaka Upanishad",
     "Chandogya Upanishad",
+    "Deliverance from Error (translated in 1909 as The Confessions of Al Ghazzali)",
     "Groundwork of the Metaphysics of Morals",
     "Katha Upanishad",
     "Pragmatism and Abduction",
@@ -458,7 +479,6 @@ test("anchor-only citations collapse into complete works, parts, books, or chapt
   assertSharedUnit(
     [
       "science-newton-rule-fourth",
-      "science-newton-rule-third",
       "science-newton-rules-causes",
     ],
     "book-iii-named-section-rules-of-reasoning-in-philosophy",

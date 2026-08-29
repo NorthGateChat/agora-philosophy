@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-collected-works-of-lu-jiuyuan-letter-to-shao-shu-whole-work-c38e8cce",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《陆九渊集·与邵叔宜》",
+  "englishWork": "Collected Works of Lu Jiuyuan, Letter to Shao Shuyi",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "《陆九渊集》卷一〈与邵叔宜〉完整书信中的连续段落；英文为项目研读译文",
+  "englishVersion": "Collected Works of Lu Jiuyuan, vol. 1, continuous passage in the complete letter To Shao Shuyi; English is the project's study translation",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "7ebf00392255c9c11a50e2be3ad8e33717959159df3ee091b7940c93db33fc71"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "f4c7b6609e8e0f641bbc4a62eda5f367d65f64ac2da846326530e7095e9823c4",
+  "inputHash": "21437681165b1e58ca16b8fc6b86ec69458f6a82d14c8454811fb2c5f14e4df3",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "與邵叔宜"
+    },
+    {
+      "id": "p0002",
+      "text": "前日曾嘗以夫子所論齊景公、伯夷、齊叔之說，斷命以祛俗惑，至今嘆服，不能彌忘。為……允其所見，推其所為，勿怠勿畫，益著益察，日躋於純一之地是所望於君子，夷齊未足言也。"
+    },
+    {
+      "id": "p0003",
+      "text": "此天所以予我者，非由外爍我也。思則得之，得此也；先立乎其大者，立此者也；積善者，積此者也；集義者，集此者也；知德者知此者也。同此之謂同德，異此之謂異端。"
+    },
+    {
+      "id": "p0004",
+      "text": "心逸日休，心勞日拙，德偽之辨也。豈唯辨諸其身人之賢否，書之正偽，舉將不逃於此矣。"
+    },
+    {
+      "id": "p0005",
+      "text": "自有諸己至於大而化之，其寬裕溫柔足以有容，發強剛毅足以有執，齋莊中正足以有敬，文理密察足以有別。增加馴積，水漸木升，固月異而歲不同。然由萌蘗之生而至於枝葉扶疏，由源泉混混而至於放乎四海，豈二物哉？《中庸》曰：「誠者物之始終，不誠無物。」又曰：「其為物不二。」此之謂也。"
+    },
+    {
+      "id": "p0006",
+      "text": "學問固無窮已，然端緒得失，則當早辨，是非向背，可以立決。……曾之於顏，顏之於夫子，固自有次第，然而，江漢以濯之，秋陽以暴之。雖夫子不能逃於曾子矣。豈唯曾子哉？君子之道，夫婦之愚不肖，可以與知能行。唐周之時，康衢擊壤之民，中林施置之夫，亦帝堯文王所不能逃也。故孟子曰：「人皆可以為堯舜。」病其自暴自棄，則為之發四端，曰：「人之有是而自謂不能者，自賊者也；謂其君不能者，賊其君者也。」"
+    },
+    {
+      "id": "p0007",
+      "text": "夫子曰：「一日克己復禮，天下歸仁焉。」此復之初也。鈞是人也，己私安有不可克者？顧不能自知其非，則不知自克耳。"
+    },
+    {
+      "id": "p0008",
+      "text": "王澤之竭，利欲日熾。先覺不作，民心橫奔。浮文異端，轉相縈惑。往聖話語，徒為藩飾。而為機變之巧者，又復魑魅虺蜴其間。恥非其恥，而恥心亡矣。"
+    },
+    {
+      "id": "p0009",
+      "text": "今之謂學問思辨，而於此不能深切著明，依憑空言，傅著意見，增疣益贅，助勝崇私，重其忿狷，長其負恃，蒙蔽至理，搟格至言，自以為是，沒世不復，此其為罪，浮於自暴自棄之人矣。此人之過，其初甚小，其後乃大；人之救之，其初則易，其後則難，亦其勢然也。"
+    },
+    {
+      "id": "p0010",
+      "text": "物有本末，事有終始，知所先後，則近道矣。於其端緒之知不至，悉精畢力求多於末，溝澮皆盈，涸可立待，要之其終，本末俱失。"
+    },
+    {
+      "id": "p0011",
+      "text": "夫子曰：「知之為知之，不知為不知，是知也。」後世恥一物之不知，亦恥其非恥矣。人情物理之變，何可勝窮？若其標末，雖古聖人不能盡知也。稷之不能審於八音，夔之不能詳於五種，可以理揆。夫子之聖，自以少賤而多能，然稼不如老農，圃不如老圃，雖其老於論道，亦曰學而不厭，啟助之益，需於後學。伏羲之時，未有堯之文章；唐虞之時，未有成周之禮樂。非伏羲之智不如堯，而堯舜之智不如周公，古之聖賢，更續緝熙之際，尚可考也。"
+    },
+    {
+      "id": "p0012",
+      "text": "學未知至，自用其私者，乃至於亂原委之倫，顛萌蘗之序，窮年卒歲，非所底麗，猶焦焦然思以易天下，豈不謬哉？"
+    }
+  ],
+  "anchors": {
+    "chinese-lu-jiuyuan-root-and-branches": {
+      "paragraphId": "p0010",
+      "start": 0,
+      "end": 58,
+      "quote": "物有本末，事有终始，知所先后，则近道矣。于其端绪之知不至，悉精毕力求多于末，沟浍皆盈，涸可立待，要之其终，本末俱失。",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-origin-of-continents-and-oceans-chapter-i-05c7b72c",
+  "title": "章 I",
+  "englishTitle": "Chapter I",
+  "work": "《大陆和海洋的起源》",
+  "englishWork": "The Origin of Continents and Oceans",
+  "locator": "章 I",
+  "englishLocator": "Chapter I",
+  "version": "J. G. A. Skerl据第三版德文英译《大陆和海洋的起源》（1924），第一章“历史说明”，印刷页5；维基文库页图对照逐字核对",
+  "englishVersion": "J. G. A. Skerl's 1924 translation from the third German edition of The Origin of Continents and Oceans, Chapter I, historical remarks, print p. 5; collated against Wikisource page images and transcription",
+  "sourceUrl": "https://en.wikisource.org/wiki/The_Origin_of_Continents_and_Oceans/Chapter_1",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/The_Origin_of_Continents_and_Oceans/Chapter_1",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=The+Origin+of+Continents+and+Oceans%2FChapter+1&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "44bf4090f748289026525abd8d0f184383a0f4d3895b4ce8acdc1d26c0378430"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "3ba9ac99cd2647a1e1bb9b80e4f5819b1e1a5db6bb7928095b4b9f12d44d96f2",
+  "inputHash": "888d4fe91c2b6f11e4facd341b4891c1a72ce4b68e0193f9ce11ee29fcd95dec",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER I"
+    },
+    {
+      "id": "p0002",
+      "text": "THE DISPLACEMENT THEORY"
+    },
+    {
+      "id": "p0003",
+      "text": "H e who examines the opposite coasts of the South Atlantic Ocean must be somewhat struck by the similarity of the shapes of the coast-lines of Brazil and Africa. Not only does the great right-angled bend formed by the Brazilian coast at Cape San Roque find its exact counterpart in the re-entrant angle of the African coast-line near the Cameroons, but also, south of these two corresponding points, every projection on the Brazilian side corresponds to a similarly shaped bay in the African, and conversely each indentation in the Brazilian coast has a complementary protuberance on the African. Experiment with a compass on a globe shows that their dimensions agree accurately."
+    },
+    {
+      "id": "p0004",
+      "text": "This phenomenon was the starting-point of a new conception of the nature of the earth’s crust and of the movements occurring therein; this new idea is called the theory of the displacement of continents, or, more shortly, the displacement theory, since its most prominent component is the assumption of great horizontal drifting movements which the continental blocks underwent in the course of geological time and which presumably continue even to-day."
+    },
+    {
+      "id": "p0005",
+      "text": "According to this idea, to take a particular case, millions of years ago the South American continental plateau lay directly adjoining the African plateau, even forming with it one large connected mass. This first split in Cretaceous time into two parts, which then, like floating icebergs drifted farther and farther apart. Similarly, North America was close to Europe; and, at least from Newfoundland and Ireland northward, they formed with Greenland one connected block, which broke up by a forked rift near Greenland at the end of Tertiary time and farther north even in the Quaternary era; whereupon the constituent blocks moved apart from one another. The shelves, the portions of the continental masses overflowed by shallow seas, will always be considered in this book as parts of the blocks, the boundaries of which for great distances are not given by the coast-lines, but by the steep descent to the deep sea floor."
+    },
+    {
+      "id": "p0006",
+      "text": "Similarly, it will be assumed that Antarctica, Australia and India lay adjoining South Africa, and with the latter and South America formed, until the beginning of the Jurassic period, a single large—even if partly submerged at times by shallow water—continental area, which in the course of Jurassic, Cretaceous and Tertiary time split and crumbled into smaller blocks which drifted away from each other in all directions. The three maps of the earth reproduced in Figs. 1 and 2 show these developments during the Upper Carboniferous, Eocene and Lower Quaternary periods. The case of India is somewhat different: it was originally connected by a long continental tract, mostly, it is true, covered by shallow seas, to the Asiatic continent. After, the separation of India from Australia on one side (in the Lower Jurassic) and from Madagascar on the other (during the transition from the Chalk to Tertiary) this long connecting portion was more and more folded together through the continuous gradual approach of India to Asia and constitutes to-day the mightiest mountain folds of the earth, the Himalayas and the numerous folded ranges of the high lands of Asia."
+    },
+    {
+      "id": "p0007",
+      "text": "In other regions also the displacement of the blocks occurs in causal connection with the origin of the mountain systems. By the westward drift of the two Americas their anterior margin was folded together to form the mighty range of the Andes (which stretches from Alaska to Antarctica) as a result of the opposition of the ancient well-cooled and therefore resistant floor of the Pacific. A similar case is that of the Australian block, which includes New Guinea since it is only separated therefrom by a shelf. The recent high ranges of New Guinea occur on the side which is anterior with reference to the movement; as our map shows, this direction of movement was different before the break from Antarctica, for the present east coast was then the front side. Next the mountains of New Zealand lying immediately in front of this coast were folded, later becoming detached as festoons of islands by the altered direction of movement and then lagging behind. The present cordilleras of East Australia originated in a still older period; they were formed (at the same time as the more ancient folds, “Pre-cordilleras,” in South and North America, which are the foundations of the Andes) on the front margin of the continental masses, which were drifting as a whole before the separation."
+    },
+    {
+      "id": "p0008",
+      "text": "Besides this westward wandering we also see to a large extent a striving towards the equator of the continental blocks. With this is connected the formation of the great Tertiary belt of folding stretching from the Himalayas to the Alps and Atlas mountains which were then in the equatorial zone."
+    },
+    {
+      "id": "p0009",
+      "text": "The previously mentioned separation from the Australian block of the former coastal ranges of New Zealand, forming later a festoon of islands, leads us up to the phenomenon that smaller portions of the blocks are left behind by the westward wandering of the larger blocks. In this manner the marginal ranges of the East Asiatic continental coast separated as festoons of islands. The Lesser and Greater Antilles lag behind the movement of the Central American block, and similarly the so-called arc of the South Antilles between Patagonia and West Antarctica. Indeed all blocks tapering in a meridional direction show a curve of their points towards the east on account of this lag. The latter is well shown in the south point of Greenland, the submarine shelf of Florida, Tierra del Fuego and Graham Land, and the manner in which Ceylon has broken away from India."
+    },
+    {
+      "id": "p0010",
+      "text": "It will easily be seen that this complete and extensive conception of the displacement theory must emanate from a definite acceptance of the relation of the oceans to the continental blocks. In fact, it is assumed that these two phenomena are fundamentally distinct, that the continental blocks with a thickness of about 100 km. swim in a magma out which they only project about 5 km. and which is uncovered in the floor of the oceans."
+    },
+    {
+      "id": "p0011",
+      "text": "Thus the outermost lithosphere no longer completely covers the entire earth (whether it ever did can be left undecided), but has become smaller and smaller by continued folding and compression during the course of geological time, thereby increasing in thickness and splitting ultimately into more and more separated smaller continental blocks. The latter to-day cover but a quarter of the earth. The floors of the oceans form the free surface of the next layer of the body of the earth which is also assumed to exist under the continental blocks. The existence of this involves the geophysical side of the displacement theory."
+    },
+    {
+      "id": "p0012",
+      "text": "The detailed establishment of this new hypothesis will form the major part of the book. Some historical remarks, however, should be given beforehand."
+    },
+    {
+      "id": "p0013",
+      "text": "The first notion of the displacement of continents came to me in 1910 when, on studying the map of the world, I was impressed by the congruency of both sides of the Atlantic coasts, but I disregarded it at the time because I did not consider it probable. In the autumn of 1911 I became acquainted (through a collection of references, which came into my hands by accident) with the palæontological evidence of the former land connection between Brazil and Africa, of which I had not previously known. This induced me to undertake a hasty analysis of the results of research in this direction in the spheres of geology and palæontology, whereby such important confirmations were yielded, that I was convinced of the fundamental correctness of my idea. I first brought forward the idea on January 6th, 1912, in a lecture to the Geological Association of Frankfort-on-Main entitled “Die Herausbildung der Grossformen der Erdrinde (Kontinente und Ozeane) auf geophysikalischer Grundlage.” This lecture was followed on January 10th by a second on “Horizontalverschiebungen der Kontinente” to the Society for the Advancement of Science of Marburg. In the same year (1912), also, both of the first publications on the theory took place. [ 1 ]"
+    },
+    {
+      "id": "p0014",
+      "text": "Afterwards the participation in the traverse of"
+    },
+    {
+      "id": "p0015",
+      "text": "Fig. 1.—Reconstructions of the map of the world for three periods according to the Displacement Theory. Lined—Ocean; dotted—Shallow seas; present-day outlines and rivers only for the purpose of identification. Latitude and Longitude arbitrary (being that of contemporary Africa)."
+    },
+    {
+      "id": "p0016",
+      "text": "Fig. 2.—The same reconstructions as in Fig. 1, but in another projection."
+    },
+    {
+      "id": "p0017",
+      "text": "Greenland under J. P. Koch of 1912/13 and later war-service hindered me from further elaboration of the theory. In 1915, however, I was able to use a long sick-leave to give a somewhat detailed description of the theory in the Vieweg series under the title of this book. [ 2 ] As a second edition of this was necessary after the close of the war, the publishers generously consented to transfer the book from the Vieweg to the Wissenschaft series, whereby the possibility was given for a considerably enlarged work. [ 3 ] The present edition is again virtually rewritten, as the process of the grouping of the data which affect the question according to the view-point of the new theory has meanwhile made further progress and an extensive recent literature about the subject has appeared."
+    },
+    {
+      "id": "p0018",
+      "text": "During the above-mentioned work of examining the literature I several times chanced on views concordant with my own by older authors. Thus a rotation of the entire crust of the earth—but whose parts, however, did not alter their relative positions—had already been assumed by many authors, as Löffelholz von Colberg, [ 4 ] Kreichgauer, [ 5 ] Sir John Evans and others. H. Wettstein has written a remarkable book, [ 6 ] in which, however, among many absurdities, a leaning towards great relative horizontal displacements of the continents is shown. The continents, (the submarine shelves of which however he did not consider) undergo, according to him, not only displacement but also deformation; they wander collectively westwards drawn by the tidal forces of the sun on the viscous body of the earth (as also E. H. L. Schwarz assumed in the Geogr. Journ. , 1912, pp. 284–299). But the oceans were considered by him as sunken continents, and he expressed fantastic ideas about the so-called geographical homologies and other problems of the face of the earth, which we will pass over. Like the present writer, Pickering in a work on the similarities of the South Atlantic coasts [ 7 ] has expressed the supposition that America was torn off from Europe-Africa and was dragged across the breadth of the Atlantic Ocean. But he did not consider that all the facts of the geological history of both these continents necessitated the assumption of an earlier connection up to the Cretaceous period, and thus he places the connection in the very remote past, and thought that the breaking away was connected with the theory of G. H. Darwin that the moon was thrown off the earth. Traces of this he believed are still to be seen in the Pacific basin. [ 8 ]"
+    },
+    {
+      "id": "p0019",
+      "text": "F. B. Taylor approaches the sphere of the displacement theory in another way. In a work which first appeared in 1910 [ 9 ] he assumes not unimportant horizontal displacements of the individual continents in Tertiary time and brings them into connection with the great Tertiary systems of folding. As an example he comes to practically the same view as that of the displacement theory to explain the separation of Greenland from North America. It is true that in the case of the Atlantic Ocean he assumes that only a portion of its width is due to the dragging away of the American block, whilst the remainder has been submerged and forms the elevation in the floor of the Middle Atlantic. Like Kreichgauer, Taylor sees in the drift of the land from the poles the guiding principle in the disposition of the great mountain ranges, whilst the displacement of continents plays but a minor rôle and indeed is only briefly treated."
+    },
+    {
+      "id": "p0020",
+      "text": "As already mentioned, I became acquainted with all these works only when the displacement theory in its main outline had already been worked out, and with many others considerably later still. The possibility is not ruled out that in the course of time still further works will be discovered which will be in accordance with the displacement theory or which will anticipate this or that point. On this subject a historical examination has not yet been instituted and is not intended in the present book."
+    },
+    {
+      "id": "p0021",
+      "text": "↑ A. Wegener, “Die Entstehung der Kontinente,” Peterm. Mitt. , 1912, pp. 185–195, 253–256, 305–309, and in a somewhat abbreviated form under the same title in Geol. Rundsch. , 3 , Part 4, pp. 276–292, 1912."
+    },
+    {
+      "id": "p0022",
+      "text": "↑ A. Wegener, Die Entstehung der Kontinente und Ozeane , Samml. Vieweg. No. 23, pp. 1–94. Brunswick, 1915."
+    },
+    {
+      "id": "p0023",
+      "text": "↑ Second edition, Die Wissenschaft , No. 66, pp. 1–135. Brunswick, 1920."
+    },
+    {
+      "id": "p0024",
+      "text": "↑ Carl, Baron Löffelholz von Colberg, Die Drehung der Erdkruste in geologischen Zeiträumen , pp. 1–62; Münich, 1886. Second, much enlarged edition, pp. 1–247, Münich, 1895."
+    },
+    {
+      "id": "p0025",
+      "text": "↑ D. Kreichgauer, Die Äquatorfrage in der Geologie , pp. 1–248. Steyl, 1902."
+    },
+    {
+      "id": "p0026",
+      "text": "↑ H. Wettstein, Die Strömungen des Festen, Flüssigen und Gasförmigen und ihre Bedeutung für Geologie, Astronomie, Klimatologie und Meteorologie , pp. 1–406. Zürich, 1880."
+    },
+    {
+      "id": "p0027",
+      "text": "↑ Journal of Geology , 15 , pp. 23–38, 1907; also Gæa , 43 , p. 385, 1907, and Scot. Geogr. Mag. , 23 , pp. 523–535, 1907."
+    },
+    {
+      "id": "p0028",
+      "text": "↑ This theory of Darwin’s, popular with many geologists, is pure hypothesis, and is held to be untenable by Schwarzschild, Liapunow, Rudzki, See and others. My own views on the origin of the moon, which are on totally different lines, may be found in A. Wegener, Die Entstehung der Mondkrater , Samml. Vieweg, No. 55, pp. 1–48. Brunswick, 1921."
+    },
+    {
+      "id": "p0029",
+      "text": "↑ F. B. Taylor, “Bearing of the Tertiary Mountain Belt in the Origin of the Earth’s Plan,” Bull. Geol. Soc. Amer. , 21 , pp. 179–226, 1910."
+    }
+  ],
+  "anchors": {
+    "science-wegener-coasts-fossils": {
+      "paragraphId": "p0013",
+      "start": 0,
+      "end": 499,
+      "quote": "The first notion of the displacement of continents came to me in 1910 when, on studying the map of the world, I was impressed by the congruency of both sides of the Atlantic coasts, but I disregarded it at the time because I did not consider it probable. In the autumn of 1911 I became acquainted (through a collection of references, which came into my hands by accident) with the palæontological evidence of the former land connection between Brazil and Africa, of which I had not previously known.",
+      "match": "normalized-exact"
+    }
+  }
+}

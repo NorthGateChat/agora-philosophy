@@ -1,4 +1,5 @@
 import type { RetainedEditorialSourceDisposition } from "./editorialSourceDispositions";
+import { retiredEconomicsThoughtIds } from "./economicsCuration2026";
 import type {
   VerifiedSourcePassage,
   VerifiedSourceUseBasis,
@@ -493,6 +494,7 @@ function reviewedIdsFor(
   reason: RetainedEditorialSourceDisposition["reason"],
 ): string[] {
   return reviewedEditorialIds.filter((id) => {
+    if (retiredEconomicsThoughtIds.has(id)) return false;
     if (id.startsWith("economics-investment-") || broadSynthesisIds.has(id)) {
       return reason === "multi-passage-synthesis";
     }

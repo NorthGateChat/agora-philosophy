@@ -6,6 +6,24 @@ import type { InterpretationDetail } from "./interpretationTypes";
  * movement, and inference limits have been written for each individual card.
  */
 export const westernLateInterpretationDetails: Record<string, InterpretationDetail> = {
+  "austin-utterance-performs-action": {
+    context: "第一讲以婚礼中的“我愿意”、船舶命名和遗嘱等例子，引入后来所谓的施行式话语。",
+    englishContext: "Lecture I introduces what Austin later calls performative utterances through examples such as “I do” at a wedding, naming a ship, and making a bequest.",
+    distinction: "不是任何一句话都凭说出口便自动生效；行动依赖合适程序、身份、情境与后续履行。",
+    englishDistinction: "Not every sentence becomes effective merely by being spoken; the act depends on appropriate procedures, roles, circumstances, and subsequent conduct.",
+  },
+  "austin-saying-doing-three-senses": {
+    context: "第八讲从施行式与记述式的早期区分，转向言语行为的三层分析：言内、言外与言后行为。",
+    englishContext: "Lecture VIII moves beyond the initial performative–constative distinction toward three levels of speech act: locutionary, illocutionary, and perlocutionary acts.",
+    distinction: "“借由说话造成后果”不等于“在说话中完成约定俗成的行动”；说服与承诺属于不同分析层次。",
+    englishDistinction: "Producing an effect by speaking is not the same as performing a conventional act in speaking; persuading and promising belong to different analytical levels.",
+  },
+  "austin-total-speech-situation": {
+    context: "最后一讲回收全书分析，提醒读者：概念区分服务于理解具体言语事件，而不是把事件切成彼此孤立的对象。",
+    englishContext: "The final lecture gathers the analysis back together: conceptual distinctions serve the understanding of concrete speech events rather than carving them into isolated objects.",
+    distinction: "强调情境不是说词语毫无稳定用法，而是说稳定用法必须在具体行动中才能确定其效力。",
+    englishDistinction: "Emphasizing situation does not make words devoid of stable use; it says that their force becomes determinate within concrete action.",
+  },
   "kant-dare-to-know": {
     context:
       "文章开篇先把“未成年状态”界定为不能在没有他人引导时运用自己的理智，下一句又把原因归于缺少决心与勇气，而非缺少理智能力。Sapere aude 因而回应的是依赖监护人的习惯；后文再区分理性的公共运用与身处职务时的私人运用。",

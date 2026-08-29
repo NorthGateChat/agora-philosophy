@@ -326,7 +326,7 @@ export const westernThoughtConnections = [
   },
   {
     source: "kierkegaard-self-relation",
-    target: "sartre",
+    target: "sartre-universal-choice",
     kind: "reframes",
     summary: "克尔凯郭尔把自我视为必须主动维系的关系，萨特将这种生成性世俗化为人先存在、再以选择定义自身。",
     englishSummary: "Kierkegaard treats the self as a relation that must actively sustain itself; Sartre secularizes this becoming as existence preceding self-definition through choice.",

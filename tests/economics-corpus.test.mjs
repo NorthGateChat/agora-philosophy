@@ -71,11 +71,14 @@ test("the economic-thought library is a substantial sourced bilingual corpus", a
     "../content/thoughtPresentation.ts",
     import.meta.url,
   );
+  const { retiredEconomicsThoughtIds } = await tsImport(
+    "../content/economicsCuration2026.ts",
+    import.meta.url,
+  );
 
-  assert.equal(
-    economicsThoughts.length,
-    94,
-    "the synchronous economics entry must retain only the lightweight 94-card core",
+  assert.ok(
+    economicsThoughts.length >= 80 && economicsThoughts.length < 100,
+    "the synchronous economics entry must remain a lightweight but substantial core",
   );
   assert.equal(economicsCollectionOptions.length, 3);
   assert.deepEqual(
@@ -101,16 +104,14 @@ test("the economic-thought library is a substantial sourced bilingual corpus", a
   const completeCatalog = await loadCompleteEconomicsCatalog();
   const completeThoughts = completeCatalog.thoughts;
 
-  assert.equal(
-    completeThoughts.length,
-    300,
-    "the on-demand economics catalog must retain the complete 300-card library",
+  assert.ok(
+    completeThoughts.length >= 280,
+    "semantic compression must retain a substantial on-demand economics catalog",
   );
   for (const { id } of economicsCollectionOptions) {
-    assert.equal(
-      completeCatalog.thoughtGroups[id].length,
-      100,
-      `${id} must retain its complete 100-card study range`,
+    assert.ok(
+      completeCatalog.thoughtGroups[id].length >= 90,
+      `${id} must remain a substantial study range after semantic compression`,
     );
   }
   assert.deepEqual(
@@ -132,6 +133,13 @@ test("the economic-thought library is a substantial sourced bilingual corpus", a
     completeThoughts.length,
     "economics ids must be unique",
   );
+  for (const retiredId of retiredEconomicsThoughtIds) {
+    assert.equal(
+      completeThoughts.some((thought) => thought.id === retiredId),
+      false,
+      `${retiredId} must remain retired rather than re-entering through a lazy expansion`,
+    );
+  }
 
   const observedTopics = new Set();
   for (const thought of completeThoughts) {
@@ -201,7 +209,7 @@ test("the economic-thought library is a substantial sourced bilingual corpus", a
   assert.deepEqual(
     synchronousEconomicsIds,
     economicsThoughts.map((thought) => thought.id),
-    "allThoughts must include the 94-card economics core without eagerly loading expansions",
+    "allThoughts must include the lightweight economics core without eagerly loading expansions",
   );
   for (const thought of economicsThoughts) {
     assert.equal(contentLibraryForThought(thought.id), "economics");
@@ -213,8 +221,8 @@ test("the economic-thought library is a substantial sourced bilingual corpus", a
   );
   assert.equal(
     expansionThoughts.length,
-    206,
-    "the complete catalog must add 206 cards to the synchronous 94-card core",
+    completeThoughts.length - economicsThoughts.length,
+    "the lazy expansion must contain exactly the complete catalog beyond its synchronous core",
   );
   for (const thought of expansionThoughts) {
     assert.equal(

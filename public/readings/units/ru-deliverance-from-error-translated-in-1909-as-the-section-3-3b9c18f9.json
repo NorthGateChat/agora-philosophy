@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-deliverance-from-error-translated-in-1909-as-the-section-3-3b9c18f9",
+  "title": "节 3",
+  "englishTitle": "Section 3",
+  "work": "《迷途指津》（1909 年英译题作《安萨里的忏悔》）",
+  "englishWork": "Deliverance from Error (translated in 1909 as The Confessions of Al Ghazzali)",
+  "locator": "节 3",
+  "englishLocator": "Section 3",
+  "version": "Field 1909 年历史英译第 3 节完整连续句；中文为项目研读译文",
+  "englishVersion": "Field's 1909 historical translation, section 3, complete continuous sentence; Chinese is the project's study translation",
+  "sourceUrl": "https://en.wikisource.org/wiki/The_Confessions_of_Al_Ghazzali/Section_3",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/The_Confessions_of_Al_Ghazzali/Section_3",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=The+Confessions+of+Al+Ghazzali%2FSection+3&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "d979e09e1dbbf98b76d1b06161fa31bb878d8e898215a29622f9eba5f9c96579"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "53ba7b07040141de84a8c55ce5dff0e0c83a2c8e0b578976a97758f2d1e9a904",
+  "inputHash": "8ab3b2a2a78a04880068fc57dc20d743197ed3d1bc2403afe030bf88c1f20a5c",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "The Different Kinds of Seekers after Truth"
+    },
+    {
+      "id": "p0002",
+      "text": "When God in the abundance of His mercy had healed me of this malady, I ascertained that those who are engaged in the search for truth may be divided into three groups."
+    },
+    {
+      "id": "p0003",
+      "text": "I. Scholastic theologians, who profess to follow theory and speculation."
+    },
+    {
+      "id": "p0004",
+      "text": "II. The Philosophers, who profess to rely upon formal logic."
+    },
+    {
+      "id": "p0005",
+      "text": "III. The Sufis, who call themselves the elect of God and possessors of intuition and knowledge of the truth by means of ecstasy."
+    },
+    {
+      "id": "p0006",
+      "text": "\"The truth,\" I said to myself, \"must be found among these three classes of men who devote themselves to the search for it. If it escapes them, one must give up all hope of attaining it. Having once surrendered blind belief, it is impossible to return to it, for the essence of such belief is to be unconscious of itself. As soon as this unconsciousness ceases it is shattered like a glass whose fragments cannot be again reunited except by being cast again into the furnace and refashioned.\" Determined to follow these paths and to search out these systems to the bottom, I proceeded with my investigations in the following order: Scholastic theology; philosophical systems; and, finally Sufism."
+    }
+  ],
+  "anchors": {
+    "ghazali-blind-belief-consciousness": {
+      "paragraphId": "p0006",
+      "start": 186,
+      "end": 320,
+      "quote": "Having once surrendered blind belief, it is impossible to return to it, for the essence of such belief is to be unconscious of itself.",
+      "match": "normalized-exact"
+    }
+  }
+}

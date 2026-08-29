@@ -12,6 +12,11 @@ import {
   psychologySocialSeeds,
 } from "./psychologySocial";
 import { buildPsychologyThoughts } from "./psychologyCorpusTypes";
+import {
+  applyPsychologyCuration,
+  psychologyCurationProfiles,
+  psychologyCurationSeeds,
+} from "./psychologyCuration2026";
 
 export type PsychologyCollectionId = "foundations" | "cognition" | "social";
 
@@ -23,18 +28,34 @@ export type PsychologyCollectionOption = {
 
 export const defaultPsychologyCollectionId: PsychologyCollectionId = "foundations";
 
-const foundationThoughts = buildPsychologyThoughts(
+const curatedFoundationThoughts = applyPsychologyCuration(buildPsychologyThoughts(
   psychologyFoundationProfiles,
   psychologyFoundationSeeds,
-);
-const cognitionThoughts = buildPsychologyThoughts(
+));
+const curatedCognitionThoughts = applyPsychologyCuration(buildPsychologyThoughts(
   psychologyCognitionProfiles,
   psychologyCognitionSeeds,
-);
-const socialThoughts = buildPsychologyThoughts(
+));
+const curatedSocialThoughts = applyPsychologyCuration(buildPsychologyThoughts(
   psychologySocialProfiles,
   psychologySocialSeeds,
+));
+const curationThoughts = buildPsychologyThoughts(
+  psychologyCurationProfiles,
+  psychologyCurationSeeds,
 );
+const foundationThoughts = [
+  ...curatedFoundationThoughts,
+  ...curationThoughts.filter((thought) => thought.id.startsWith("psychology-foundations-")),
+];
+const cognitionThoughts = [
+  ...curatedCognitionThoughts,
+  ...curationThoughts.filter((thought) => thought.id.startsWith("psychology-cognition-")),
+];
+const socialThoughts = [
+  ...curatedSocialThoughts,
+  ...curationThoughts.filter((thought) => thought.id.startsWith("psychology-social-")),
+];
 
 export const psychologyThoughtGroups: Record<PsychologyCollectionId, Thought[]> = {
   foundations: foundationThoughts,
@@ -133,10 +154,10 @@ export const psychologyThoughtConnections: readonly ThoughtConnection[] = [
   },
   {
     source: "psychology-foundations-watson-observable-behavior",
-    target: "psychology-cognition-neisser-constructive-activity",
+    target: "psychology-cognition-neisser-perceptual-cycle",
     kind: "challenges",
-    summary: "认知心理学重新把内部表征与主动建构纳入可检验模型，挑战只研究外显行为的严格边界。",
-    englishSummary: "Cognitive psychology restored internal representation and active construction to testable models, challenging a strict restriction to overt behavior.",
+    summary: "奈瑟以图式、环境取样与持续修正说明主动建构如何接受经验约束，挑战只研究外显行为的严格边界。",
+    englishSummary: "Neisser's cycle of schemas, environmental sampling, and revision makes active construction empirically constrained, challenging a strict restriction to overt behavior.",
     basis: "editorial",
   },
   {

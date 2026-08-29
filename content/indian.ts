@@ -2,6 +2,11 @@ import type { ThoughtConnection } from "./philosophy";
 import { buildIndianThoughts } from "./indianCorpusTypes";
 import { indianEarlyProfiles, indianEarlySeeds } from "./indianEarly";
 import { indianLaterProfiles, indianLaterSeeds } from "./indianLater";
+import {
+  applyIndianCuration,
+  indianCurationProfiles,
+  indianCurationSeeds,
+} from "./indianCuration2026";
 
 export const indianTopicOptions = [
   { id: "all", label: "全部", englishLabel: "All" },
@@ -17,11 +22,13 @@ export const indianTopicOptions = [
 const indianAuthorProfiles = {
   ...indianEarlyProfiles,
   ...indianLaterProfiles,
+  ...indianCurationProfiles,
 };
 
 const indianThoughtSeeds = [
   ...indianEarlySeeds,
   ...indianLaterSeeds,
+  ...indianCurationSeeds,
 ];
 
 /**
@@ -29,10 +36,10 @@ const indianThoughtSeeds = [
  * translations can appear as short excerpts; the remaining cards stay
  * editorial propositions. Every entry names a work and passage-level locator.
  */
-export const indianThoughts = buildIndianThoughts(
+export const indianThoughts = applyIndianCuration(buildIndianThoughts(
   indianAuthorProfiles,
   indianThoughtSeeds,
-);
+));
 
 /**
  * A deliberately selective map of inheritance, dispute, and conceptual
@@ -42,10 +49,10 @@ export const indianThoughts = buildIndianThoughts(
 export const indianThoughtConnections: ThoughtConnection[] = [
   {
     source: "indian-upanishad-tat-tvam-asi",
-    target: "indian-shankara-that-thou-art",
+    target: "indian-shankara-superimposition",
     kind: "inherits",
-    summary: "商羯罗把《歌者奥义书》的‘你就是它’解释为个体自我与梵在最高层面的同一，并以此组织不二论的解脱路径。",
-    englishSummary: "Shankara reads the Chandogya Upanishad's ‘you are that’ as the ultimate identity of self and brahman and makes it central to Advaita liberation.",
+    summary: "商羯罗把《歌者奥义书》的‘你就是它’放进解除误认与叠加的不二论路径，以说明个体自我与梵的最高同一。",
+    englishSummary: "Shankara places the Chandogya Upanishad's ‘you are that’ within an Advaita path that removes superimposition and discloses the ultimate identity of self and brahman.",
   },
   {
     source: "indian-upanishad-tat-tvam-asi",
@@ -112,10 +119,10 @@ export const indianThoughtConnections: ThoughtConnection[] = [
   },
   {
     source: "indian-nyaya-four-means",
-    target: "indian-dignaga-two-sources",
+    target: "indian-dignaga-perception-concept",
     kind: "challenges",
-    summary: "正理派承认四种知识手段，陈那则把独立来源收束为知觉与推论，并要求其他知识形式说明如何归入二者。",
-    englishSummary: "Nyaya recognizes four means of knowledge; Dignaga reduces the independent sources to perception and inference and asks other forms to explain how they fall under those two.",
+    summary: "正理派承认四种知识手段，陈那则以知觉与推论重画知识来源，并进一步把无概念知觉同概念建构分开。",
+    englishSummary: "Nyaya recognizes four means of knowledge; Dignaga redraws the sources around perception and inference and further separates non-conceptual perception from conceptual construction.",
   },
   {
     source: "indian-nyaya-perception-conditions",
@@ -125,25 +132,25 @@ export const indianThoughtConnections: ThoughtConnection[] = [
     englishSummary: "Nyaya analyzes the conditions joining sense, object, and reliable judgment; Dignaga redraws perception's boundary by separating non-conceptual awareness from conceptual construction.",
   },
   {
-    source: "indian-dignaga-two-sources",
+    source: "indian-dignaga-perception-concept",
     target: "indian-dharmakirti-valid-cognition",
     kind: "inherits",
-    summary: "法称继承陈那以知觉和推论为两种知识来源的框架，并以新颖、无欺的认知标准重新说明何谓有效认识。",
-    englishSummary: "Dharmakirti inherits Dignaga's two-source framework of perception and inference and redefines valid cognition through novelty and non-deceptiveness.",
+    summary: "法称继承陈那对知觉、概念与推论边界的重画，并以新颖、无欺的认知标准重新说明何谓有效认识。",
+    englishSummary: "Dharmakirti inherits Dignaga's redrawing of perception, concepts, and inference, then redefines valid cognition through novelty and non-deceptiveness.",
   },
   {
     source: "indian-nagarjuna-dependent-empty",
-    target: "indian-aryadeva-emptiness-medicine",
+    target: "indian-aryadeva-senses-not-final",
     kind: "inherits",
-    summary: "提婆继承龙树以空破除实体化的路线，同时强调空也是治疗性的工具，不能再被抓住成为新的教条。",
-    englishSummary: "Aryadeva inherits Nagarjuna's use of emptiness against reification while stressing that emptiness is therapeutic and must not itself become a new dogma.",
+    summary: "提婆继承龙树以空破除实体化的路线，并把这种治疗性分析推进到感官对象与执取：空不能再被抓住成为新教条。",
+    englishSummary: "Aryadeva inherits Nagarjuna's therapeutic use of emptiness against reification and extends it to sensory objects and attachment; emptiness must not become a new dogma.",
   },
   {
     source: "indian-nagarjuna-two-truths",
-    target: "indian-candrakirti-consequence-method",
+    target: "indian-candrakirti-chariot-person",
     kind: "inherits",
-    summary: "月称在二谛框架中发展归谬方法：在世俗层面追随公共约定，在胜义分析中不另立一个自性的最终实体。",
-    englishSummary: "Within the two-truths framework, Candrakirti develops consequential reasoning: he follows shared convention provisionally without positing an intrinsically real final entity.",
+    summary: "月称在二谛框架中以车与部件的归谬分析人格：世俗约定可以成立，胜义分析却不另立一个自性的最终实体。",
+    englishSummary: "Within the two-truths framework, Candrakirti uses the chariot and its parts to analyze the person: convention can function without an intrinsically real final entity.",
   },
   {
     source: "indian-asanga-three-natures",
@@ -153,11 +160,11 @@ export const indianThoughtConnections: ThoughtConnection[] = [
     englishSummary: "Asanga and Vasubandhu develop the three-natures framework to distinguish imagined objects, conditioned processes, and a non-mistaken understanding of those processes.",
   },
   {
-    source: "indian-shankara-that-thou-art",
+    source: "indian-shankara-superimposition",
     target: "indian-ramanuja-body-of-brahman",
     kind: "challenges",
-    summary: "罗摩努阇以世界和众生为梵之身体，反对商羯罗把终极认识解释为消除个体差异的纯粹同一。",
-    englishSummary: "Ramanuja describes world and selves as the body of brahman, challenging Shankara's interpretation of ultimate knowledge as an identity that sublates individual difference.",
+    summary: "罗摩努阇以世界和众生为梵之身体，反对把个体差异仅视为由误认与叠加造成、可被终极认识消除的表象。",
+    englishSummary: "Ramanuja describes world and selves as the body of brahman, challenging the Advaita treatment of individual difference as an appearance produced by superimposition and sublated by ultimate knowledge.",
   },
   {
     source: "indian-ramanuja-qualified-knowing",

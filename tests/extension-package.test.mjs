@@ -7,7 +7,7 @@ import { gzipSync } from "node:zlib";
 
 const projectRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const distDirectory = resolve(projectRoot, "extension-dist");
-// Keep the complete 1,452-card catalog available offline while preventing
+// Keep the complete 1,441-card catalog available offline while preventing
 // accidental entry-bundle growth from swallowing the lazy reading dossiers.
 const offlineEntryBudgetBytes = 2_200_000;
 const offlineEntryGzipBudgetBytes = 825_000;

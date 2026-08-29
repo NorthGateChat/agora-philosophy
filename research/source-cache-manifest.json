@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "purpose": "Local research cache; never included in the public product bundle.",
   "referenceMetadata": "content/verifiedSourcePassages.ts",
-  "artifactCount": 742,
-  "pathCount": 835,
+  "artifactCount": 744,
+  "pathCount": 837,
   "duplicateAliasCount": 93,
   "artifacts": [
     {
@@ -2688,6 +2688,11 @@
       "sha256": "3c3295f8fbe6018bf1dc335f9fa360be625efd8aac5f80c6727621103230056c"
     },
     {
+      "path": "research/source-cache/reading-unit-derived/fisher-arrangement-field-experiments-1926.txt",
+      "bytes": 24792,
+      "sha256": "835f1cbd5ca157db8c7d86c4f7460d05b812a3ad04a76cb1cbe3627c93356df8"
+    },
+    {
       "path": "research/source-cache/reading-unit-derived/frege-class-function-concept-relation-1917-complete.txt",
       "bytes": 27329,
       "sha256": "296046e3d2a3529ebdbcbbe183aa80da6a0774519167f7e206f68b8f709ec015"
@@ -2895,8 +2900,8 @@
     },
     {
       "path": "research/source-cache/reading-unit-derived/manifest.json",
-      "bytes": 65019,
-      "sha256": "8a359a9c87d87929bd137b2df7cf24c013d8cc4732bf504c3aea6e034b407b96"
+      "bytes": 66654,
+      "sha256": "34fd7a1b0a596f9c00004260d6571f7590c33c8ca92ce7ed151c2197364cd87b"
     },
     {
       "path": "research/source-cache/reading-unit-derived/marshall-principles-book-iii-chapter-iv.txt",
@@ -3275,6 +3280,11 @@
       "path": "research/source-cache/reading-unit-origins/papers/festinger-carlsmith-1959.pdf",
       "bytes": 680077,
       "sha256": "4b24a13a22b5ba1b29f04f7b6e90d5b01c17bb55dd9f347d5e49bd6935f8645a"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/fisher-arrangement-field-experiments-1926.pdf",
+      "bytes": 4213576,
+      "sha256": "b7bedcda96ac77bbee3c9f750318bbe5d6104fec9db012bfe5d99d8d16049432"
     },
     {
       "path": "research/source-cache/reading-unit-origins/papers/gale-shapley-1962.pdf",

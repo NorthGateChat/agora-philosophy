@@ -1,13 +1,23 @@
-/** Completion-pass records owned by the Mao and science libraries. */
-export const maoScienceCompletionEvidence = [] as const;
+import { retiredMaoThoughtIds } from "./maoCuration2026";
+import {
+  scienceCurationEmphasis,
+  scienceCurationEvidence,
+} from "./scienceCuration2026";
 
-export const maoScienceCompletionEmphasis = {} as const;
+/** Completion-pass records owned by the Mao and science libraries. */
+export const maoScienceCompletionEvidence = [
+  ...scienceCurationEvidence,
+] as const;
+
+export const maoScienceCompletionEmphasis = {
+  ...scienceCurationEmphasis,
+} as const;
 
 function retainMaoEditorial(
   ids: readonly string[],
   note: Readonly<{ zh: string; en: string }>,
 ) {
-  return ids.map((id) => ({
+  return ids.filter((id) => !retiredMaoThoughtIds.has(id)).map((id) => ({
     id,
     decision: "retain-editorial" as const,
     reason: "multi-passage-synthesis" as const,

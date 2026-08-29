@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-collected-works-of-lu-jiuyuan-letter-to-supervis-whole-work-b7eaabad",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《陆九渊集·与赵监》",
+  "englishWork": "Collected Works of Lu Jiuyuan, Letter to Supervisor Zhao",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "《陆九渊集》卷一〈与赵监〉完整书信中的连续段落；英文为项目研读译文",
+  "englishVersion": "Collected Works of Lu Jiuyuan, vol. 1, continuous passage in the complete letter To Zhao Jian; English is the project's study translation",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E9%99%B8%E4%B9%9D%E6%B7%B5%E9%9B%86&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "7ebf00392255c9c11a50e2be3ad8e33717959159df3ee091b7940c93db33fc71"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "c551dc14487bddcd1111cadf8f52dbfb2e90829c277e0c5a07eb65298e6508c6",
+  "inputHash": "19a228523f0d35a2c575554222dfc26f9420daaa1598aebc1e596cd4a34654ef",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "與趙監"
+    },
+    {
+      "id": "p0002",
+      "text": "道塞宇宙，非有所隱遁，在天曰陰陽，在地曰剛柔，在人曰仁義。故仁義者，人之本心也。"
+    },
+    {
+      "id": "p0003",
+      "text": "愚不肖者不及焉，則蔽於物欲而失其本心；賢者智者過之，則蔽於意見而失其本心。……道本自若，豈如以手取物，必有得於外而後為得哉？"
+    },
+    {
+      "id": "p0004",
+      "text": "二"
+    },
+    {
+      "id": "p0005",
+      "text": "社倉之事，自元晦見請，幾年於此矣，有司不復掛之墻壁，遠方至無知者。某在敕局時，因編寬恤詔令，得見此文，與同官咨嘆者累日，遂編入廣賑恤門。"
+    },
+    {
+      "id": "p0006",
+      "text": "人能知與焉之過，無識知之病，則此心炯然，此理坦然，物各付物，會其有極，歸其有極矣。"
+    }
+  ],
+  "anchors": {
+    "chinese-lu-jiuyuan-way-fills-cosmos": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 40,
+      "quote": "道塞宇宙，非有所隐遁，在天曰阴阳，在地曰刚柔，在人曰仁义。故仁义者，人之本心也。",
+      "match": "normalized-exact"
+    }
+  }
+}

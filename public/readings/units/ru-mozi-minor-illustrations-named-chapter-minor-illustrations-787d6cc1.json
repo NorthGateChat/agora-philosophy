@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-mozi-minor-illustrations-named-chapter-minor-illustrations-787d6cc1",
+  "title": "篇 Minor Illustrations",
+  "englishTitle": "Chapter Minor Illustrations",
+  "work": "《墨子·小取》",
+  "englishWork": "Mozi, Minor Illustrations",
+  "locator": "篇 Minor Illustrations",
+  "englishLocator": "Chapter Minor Illustrations",
+  "version": "《墨子·小取》“名—辞—说—故”连续三分句，通行本繁简与标点正常化；英文为项目研读译文",
+  "englishVersion": "Mozi, Minor Illustrations, continuous name–statement–explanation–ground sequence, received text normalized; English is the project's study translation",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%B0%8F%E5%8F%96",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%B0%8F%E5%8F%96",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%A2%A8%E5%AD%90%2F%E5%B0%8F%E5%8F%96&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "1a1240b587cc1fd419743c45d7a0300ba9335583de25c946f150fe8b4683cb04"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "8afddb9ca20e5e3370aa4b5e3df37ecc0e08a59c5e63caea1369884c985b89b2",
+  "inputHash": "abb8b98fcb0bb8beb7bd38a45f0824808f4d4ffe7ee2c7aa0f7d0ad15a693b19",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "夫辯者，將以明是非之分，審治亂之紀，明同異之處，察名實之理，處利害，決嫌疑焉。"
+    },
+    {
+      "id": "p0002",
+      "text": "摹略萬物之然，論求羣言之比。"
+    },
+    {
+      "id": "p0003",
+      "text": "以名舉實，以辭抒意，以說出故。"
+    },
+    {
+      "id": "p0004",
+      "text": "以類取，以類予。"
+    },
+    {
+      "id": "p0005",
+      "text": "有諸己不非諸人，無諸己不求諸人。"
+    },
+    {
+      "id": "p0006",
+      "text": "或也者，不盡也。"
+    },
+    {
+      "id": "p0007",
+      "text": "假者，今不然也。"
+    },
+    {
+      "id": "p0008",
+      "text": "效者，爲之法也；所效者，所以爲之法也。故中效，則是也；不中效，則非也。此效也。"
+    },
+    {
+      "id": "p0009",
+      "text": "辟也者，舉也物而以明之也。"
+    },
+    {
+      "id": "p0010",
+      "text": "侔也者，比辭而俱行也。"
+    },
+    {
+      "id": "p0011",
+      "text": "援也者，曰：子然，我奚獨不可以然也？"
+    },
+    {
+      "id": "p0012",
+      "text": "推也者，以其所不取之，同於其所取者，予之也。是猶謂也者同也，吾豈謂也者異也。"
+    },
+    {
+      "id": "p0013",
+      "text": "夫物有以同而不率遂同。辭之侔也，有所至而正。其然也，有所以然也；其然也同，其所以然不必同。其取之也，有所以取之；其取之也同，其所以取之不必同。是故辟、侔、援、推之辭，行而異，轉而危，遠而失，流而離本，則不可不審也，不可常用也。故言多方，殊類異故，則不可偏觀也。夫物或乃是而然，或是而不然，或不是而然，或一周而一不周，或一是而一非也，不可常用也。故言多方，殊類異故，則不可偏觀也。"
+    },
+    {
+      "id": "p0014",
+      "text": "白馬，馬也；乘白馬，乘馬也。驪馬，馬也；乘驪馬，乘馬也。獲，人也；愛獲，愛人也。臧，人也；愛臧，愛人也。此乃是而然者也。"
+    },
+    {
+      "id": "p0015",
+      "text": "獲之親，人也；獲事其親，非事人也。其弟，美人也；愛弟，非愛美人也。車，木也；乘車，非乘木也。船，木也；乘船，非乘木也。盜人，人也；多盜，非多人也；無盜，非無人也。奚以明之？惡多盜，非惡多人也；欲無盜，非欲無人也。世相與共是之。若若是，則雖盜人人也，愛盜非愛人也，不愛盜非不愛人也，殺盜人非殺人也。無難矣，此與彼同類。世有彼而不自非也，墨者有此而非之，無也故焉，所謂內膠外閉與？心毋空乎內，膠而不解也。此乃是而不然者也。"
+    },
+    {
+      "id": "p0016",
+      "text": "且夫讀書，非書也；好讀書，好書也。且鬭雞，非雞也；好鬭雞，好雞也。且入井，非入井也；止且入井，止入井也。且出門，非出門也；止且出門，止出門也。若若是，且夭，非夭也；壽且夭，壽夭也。執有命，非命也；非執有命，非命也。無難矣，此與彼同類。世有彼而不自非也，墨者有此而罪非之，無也故焉，所謂內膠外閉與？心毋空乎內，膠而不解也。此乃不是而然者也。"
+    },
+    {
+      "id": "p0017",
+      "text": "愛人，待周愛人，而後爲愛人。不愛人，不待周不愛人，不失周愛，因爲不愛人矣。乘馬，不待周乘馬，然後爲乘馬也。有乘於馬，因爲乘馬矣。逮至不乘馬，待周不乘馬，而後爲不乘馬。此一周而一不周者也。"
+    },
+    {
+      "id": "p0018",
+      "text": "居於國，則爲居國；有一宅於國，而不爲有國。桃之實，桃也；棘之實，非棘也。問人之病，問人也；惡人之病，非惡人也。人之鬼，非人也；兄之鬼，兄也。祭人之鬼，非祭人也；祭兄之鬼，乃祭兄也。"
+    },
+    {
+      "id": "p0019",
+      "text": "之馬之目眇，則爲之馬眇；之馬之目大，而不謂之馬大。之牛之毛黃，則謂之牛黃。之牛之毛衆，而不謂之牛衆。"
+    },
+    {
+      "id": "p0020",
+      "text": "一馬，馬也。二馬，馬也。馬四足者，一馬而四足也，非兩馬而四足也。一馬，馬也。馬或白者，二馬而或白也，非一馬而或白。此乃一是而一非者也。"
+    }
+  ],
+  "anchors": {
+    "chinese-mohist-name-claim-reason": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 15,
+      "quote": "以名举实，以辞抒意，以说出故。",
+      "match": "normalized-exact"
+    }
+  }
+}

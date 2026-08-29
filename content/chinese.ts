@@ -1,5 +1,6 @@
 import type { Thought, ThoughtConnection } from "./philosophy";
 import { chineseExpansionThoughts } from "./chineseExpansion";
+import { chineseStructuralExpansionThoughts } from "./chineseStructuralExpansion";
 
 /**
  * Chinese-philosophy cards separate a short, verifiable classical passage
@@ -1190,6 +1191,7 @@ const coreChineseThoughts: ChineseThought[] = chineseThoughtSeeds.map(
 export const chineseThoughts: ChineseThought[] = [
   ...coreChineseThoughts,
   ...chineseExpansionThoughts,
+  ...chineseStructuralExpansionThoughts,
 ];
 
 /**

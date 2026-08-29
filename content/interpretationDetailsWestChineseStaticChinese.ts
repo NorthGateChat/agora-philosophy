@@ -2,6 +2,96 @@ import type { InterpretationDetail } from "./interpretationTypes";
 
 /** Static, passage-specific completion records for verified Chinese classics. */
 export const westChineseStaticChineseDetails: Record<string, InterpretationDetail> = {
+  "chinese-xici-yin-yang-way": {
+    context: "《系辞上》第五章从阴阳之道谈到仁知、日用与成性；这句话处于宇宙论与人性论交接的位置。",
+    englishContext: "Chapter 5 of Xici I moves from the Way of yin and yang to benevolence, wisdom, daily use, and formed nature; this line joins cosmology to accounts of human nature.",
+    distinction: "“一阴一阳”不是把万物静态分成两类，而强调相继、互动与变化；“善”与“性”也不是同义重复。",
+    englishDistinction: "“One yin, one yang” is not a static division of everything into two bins; it stresses alternation and change. “Goodness” and “nature” are not synonyms.",
+  },
+  "chinese-xici-way-and-instruments": {
+    context: "《系辞上》第十二章讨论言、意、象、卦以及圣人如何使变化进入天下之用，这组术语属于同一行动链条。",
+    englishContext: "Chapter 12 of Xici I discusses words, meaning, images, hexagrams, and how sages bring change into worldly use; these terms belong to that shared chain of action.",
+    distinction: "后来“形而上学”的学科名称借用了这句话，但原段并不是在划定现代哲学学科。",
+    englishDistinction: "The later Chinese term for “metaphysics” borrows this phrase, but the passage itself is not defining a modern academic discipline.",
+  },
+  "chinese-xici-images-express-meaning": {
+    context: "同章先提出书不尽言、言不尽意的问题，随后用“立象”回答意义如何仍可被表达和运用。",
+    englishContext: "The same chapter first raises the problem that writing cannot exhaust words and words cannot exhaust meaning, then answers with the sages' establishment of images.",
+    distinction: "“象”不是随意图像，也不是用神秘直觉替代理解；它是《易》之卦象系统中的结构化媒介。",
+    englishDistinction: "“Image” is neither any arbitrary picture nor a mystical substitute for understanding; it is a structured medium within the Changes' system of hexagrams.",
+  },
+  "chinese-mohist-cause-definition": {
+    context: "《经上》以短条目给出名词定义，并由《经说上》逐条解释；“故”条处于全篇开头。",
+    englishContext: "Canons I presents compressed definitions that are unpacked item by item in Explanations of the Canons I; the entry on grounds opens the chapter.",
+    distinction: "古义“故”兼有根据、条件与原因的范围，不能直接等同于现代逻辑中的充分条件或现代科学的因果定律。",
+    englishDistinction: "The ancient term gu spans ground, condition, and cause; it should not be equated without remainder with a modern sufficient condition or scientific causal law.",
+  },
+  "chinese-mohist-kinds-of-names": {
+    context: "《经说上》的对应解释以“物”为达名、“马”为类名、个人之名为私名，补足这条高度压缩的分类。",
+    englishContext: "The corresponding Explanations I entry illustrates the scheme with “thing” as unrestricted, “horse” as classifying, and a personal name as private.",
+    distinction: "“达、类、私”是先秦语境中的名类分析，不宜直接套成现代语言学的普通名、种名、专名而忽略注释传统。",
+    englishDistinction: "This Warring States analysis should not be mapped mechanically onto modern common, kind, and proper nouns without the explanatory tradition.",
+  },
+  "chinese-mohist-name-claim-reason": {
+    context: "《小取》开篇说明辩论的任务与风险，随后用这组三层结构交代语言如何连接对象、意思和理由。",
+    englishContext: "Minor Illustrations opens by describing the tasks and risks of disputation, then uses this three-level scheme to connect objects, intentions, and grounds.",
+    distinction: "“辞”与“说”不是文采和修辞；在此它们分别承担表达判断与揭示理由的论辩功能。",
+    englishDistinction: "Ci and shuo here are not literary ornament: they perform the argumentative work of expressing a claim and disclosing its grounds.",
+  },
+  "chinese-zhiyi-three-truths-one-mind": {
+    context: "《摩诃止观》卷六讨论观不思议境，以“一心三观”说明天台圆教如何在一念中观三谛。",
+    englishContext: "Fascicle 6 of The Great Calming and Contemplation discusses contemplation of the inconceivable realm and explains Tiantai's threefold contemplation in one mind.",
+    distinction: "“中”不是空与假的折中平均，“假”也不是虚假；三谛是在同一法上互相贯通的观看。",
+    englishDistinction: "The middle is not a compromise average between emptiness and provisionality, and “provisional” does not mean simply false; the three truths interpenetrate in the same phenomenon.",
+  },
+  "chinese-zhiyi-one-mind-three-wisdoms": {
+    context: "卷一说明圆顿止观，把如来藏、三谛与三智收摄到一念心，为后文的具体观法定下方向。",
+    englishContext: "Fascicle 1 introduces perfect and sudden calming and contemplation, gathering tathāgata store, three truths, and three wisdoms into a single thought as the orientation for later practice.",
+    distinction: "“一心中具”不是说个人意念任意创造世界，而是说观一念即可显出缘起法的空、假、中结构。",
+    englishDistinction: "“Present in one mind” does not mean that private thought arbitrarily creates the world; it says contemplation of one thought can disclose the empty, provisional, and middle structure of dependent phenomena.",
+  },
+  "chinese-zhiyi-practice-matches-words": {
+    context: "卷一在说明止观法门与修学态度时，要求教说不能离开心观与实行。文本传统上记为智顗讲说、灌顶记录整理。",
+    englishContext: "In fascicle 1, while setting out the approach to calming and contemplation, the text requires teaching to remain joined to contemplation and conduct. Tradition presents it as Zhiyi's lectures recorded and arranged by Guanding.",
+    distinction: "言行一致在此不是形象管理，而是检验观慧是否真正进入生命的修行标准。",
+    englishDistinction: "Consistency between words and deeds is not reputation management here; it tests whether contemplative wisdom has entered one's life.",
+  },
+  "chinese-lu-jiuyuan-heart-and-pattern": {
+    context: "《与曾宅之》回应读书与义理问题，以古圣贤言说如符节相合，说明求理必须回到同一颗可自明的心。",
+    englishContext: "The letter to Zeng Zhaizhi addresses reading and moral principle, using the matching of sages' words to argue that seeking pattern must return to the self-clarifying mind.",
+    distinction: "“心一理一”不是说个人好恶天然正确；“至当”要求不断辨明私欲与可以共同检验的义理。",
+    englishDistinction: "“One mind, one pattern” does not make personal preference automatically correct; perfect fitting requires distinguishing private desire from principle open to shared examination.",
+  },
+  "chinese-lu-jiuyuan-way-fills-cosmos": {
+    context: "《与赵监》把天、地、人放入同一道的不同表现中，并以此说明道德之心不是外加规则。",
+    englishContext: "The letter to Supervisor Zhao places heaven, earth, and humanity within different manifestations of one Way, making moral mind something other than an externally imposed rule.",
+    distinction: "“道塞宇宙”不是泛泛的万物神秘相连；原文明确把不同层面的名称与人的仁义实践对应起来。",
+    englishDistinction: "“The Way fills the cosmos” is not a vague claim that everything is mystically connected; the passage maps distinct levels to the human practice of benevolence and rightness.",
+  },
+  "chinese-lu-jiuyuan-root-and-branches": {
+    context: "这封信讨论治学工夫，借沟渠一时充盈却很快干涸，比喻只在末节求多而没有源头。",
+    englishContext: "This letter concerns the work of learning. Its image of ditches briefly filling and quickly drying compares detail-heavy study without a source to water without a spring.",
+    distinction: "重本不等于拒绝博学；批评针对的是在根本未明时，用资料数量掩盖次序与判断。",
+    englishDistinction: "Prioritizing roots does not reject broad learning; the target is using quantities of material to hide unclear priorities and judgment.",
+  },
+  "chinese-he-yin-zhen-world-shared": {
+    context: "何殷震 1907 年发表于《天义》的文章开篇，把性别压迫置于人治与阶级制度的共同结构中。",
+    englishContext: "The opening of He-Yin Zhen's 1907 essay in Natural Justice places gender oppression within the shared structure of personal rule and class systems.",
+    distinction: "这不是只争取让少数女性进入既有权力位置；“共有之世界”要求改变制造依附的制度本身。",
+    englishDistinction: "This is not merely a demand that a few women enter existing positions of power; a shared world requires changing the institutions that produce dependence.",
+  },
+  "chinese-he-yin-zhen-women-made-slaves": {
+    context: "文章回顾婚姻、家庭、教育与经济依附如何共同塑造女性服从，把习俗背后的强制显露为制度问题。",
+    englishContext: "The essay examines how marriage, family, education, and economic dependence jointly produce female obedience, exposing coercion beneath custom as an institutional problem.",
+    distinction: "“奴隶”在此是何殷震对制度性支配的政治诊断，不宜弱化为一般的不尊重或个体偏见。",
+    englishDistinction: "“Slave” is He-Yin Zhen's political diagnosis of institutional domination; it should not be softened into ordinary disrespect or individual bias.",
+  },
+  "chinese-he-yin-zhen-revolutions-together": {
+    context: "《女子宣布书》面向当时中国女性发出政治号召，把民族、政治、经济与男女革命安排为并行进程。",
+    englishContext: "Women's Declaration addresses Chinese women as political agents and presents racial, political, economic, and gender revolutions as concurrent processes.",
+    distinction: "“并行”不是把所有问题混成一个口号，而是拒绝用“以后再解决”把性别压迫排除在革命议程之外。",
+    englishDistinction: "Proceeding together does not collapse every issue into one slogan; it refuses to remove gender oppression from the revolutionary agenda by promising to solve it later.",
+  },
   "chinese-confucius-learning-practice": {
     context: "《学而》以这句开启《论语》，下文接着写友人自远方来及不被了解而不愠，把学习、共同切磋与人格稳定并置。“时习”既含按时温习，也含在行动中反复实行所学。",
     englishContext: "This line opens the Xue Er chapter and the Analects as received. The next clauses place learning beside friends arriving for shared practice and remaining unresentful when unrecognized; shi xi includes timely rehearsal and repeatedly enacting what has been learned.",

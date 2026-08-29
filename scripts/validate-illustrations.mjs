@@ -2,7 +2,6 @@ import { readdir, readFile, stat } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import sharp from "sharp";
-import ts from "typescript";
 import { tsImport } from "tsx/esm/api";
 
 const scriptDirectory = path.dirname(fileURLToPath(import.meta.url));
@@ -13,7 +12,7 @@ const validPlanStatuses = new Set(["planned", "approved", "generated", "register
 // declared id verbatim so validation must accept the same legacy-safe grammar
 // as the batch normalizer.
 const runtimeFilePattern = /^([a-z0-9]+(?:[-_][a-z0-9]+)*)-v([1-9]\d*)\.webp$/;
-const assetIdPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*-\d{3,}$/;
+const assetIdPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*-(?:\d{3,}|v[1-9]\d*)$/;
 const batchPlanPattern = /^batch-(\d+)(?:-v\d+)?\.json$/;
 
 async function filesBelow(directory) {
@@ -28,16 +27,7 @@ async function filesBelow(directory) {
 
 async function loadRegistry(projectRoot) {
   const filename = path.join(projectRoot, "content", "illustrations.ts");
-  const source = await readFile(filename, "utf8");
-  const javascript = ts.transpileModule(source, {
-    compilerOptions: {
-      module: ts.ModuleKind.ESNext,
-      target: ts.ScriptTarget.ES2022,
-    },
-    fileName: filename,
-  }).outputText;
-  const encoded = Buffer.from(javascript).toString("base64");
-  const registry = await import(`data:text/javascript;base64,${encoded}`);
+  const registry = await tsImport(pathToFileURL(filename).href, import.meta.url);
   return registry.thoughtIllustrations;
 }
 
@@ -68,6 +58,12 @@ async function collectDeclaredIds(projectRoot) {
   ].map(({ id }) => id));
 }
 
+async function collectRetiredIds(projectRoot) {
+  const filename = path.join(projectRoot, "content", "curation2026Registry.ts");
+  const registry = await tsImport(pathToFileURL(filename).href, import.meta.url);
+  return registry.curation2026RetiredThoughtIds;
+}
+
 function duplicateValues(items, selector) {
   const seen = new Set();
   const duplicates = new Set();
@@ -95,8 +91,11 @@ function validatePlacement(placement, label, errors) {
 export async function validateIllustrationAssets(projectRoot = defaultProjectRoot) {
   const errors = [];
   const warnings = [];
-  const registry = await loadRegistry(projectRoot);
-  const declaredIds = await collectDeclaredIds(projectRoot);
+  const [registry, declaredIds, retiredIds] = await Promise.all([
+    loadRegistry(projectRoot),
+    collectDeclaredIds(projectRoot),
+    collectRetiredIds(projectRoot),
+  ]);
   const planDirectory = path.join(projectRoot, "design", "illustrations");
   const planFiles = (await readdir(planDirectory))
     .filter((filename) => batchPlanPattern.test(filename))
@@ -185,7 +184,12 @@ export async function validateIllustrationAssets(projectRoot = defaultProjectRoo
     .map((item) => item.file)
     .filter(Boolean));
   for (const filename of diskFiles) {
-    if (!registeredFiles.has(filename) && !knownPlanFiles.has(filename)) {
+    const retiredThoughtId = filename.match(runtimeFilePattern)?.[1];
+    if (
+      !registeredFiles.has(filename)
+      && !knownPlanFiles.has(filename)
+      && !retiredIds.has(retiredThoughtId)
+    ) {
       errors.push(`orphan runtime asset: public/illustrations/${filename}`);
     }
   }
@@ -206,13 +210,21 @@ export async function validateIllustrationAssets(projectRoot = defaultProjectRoo
   const runtimeAssetIds = new Set(runtimeItems.map((item) => item.assetId));
   for (const item of plannedItems) {
     const label = `plan ${item.planFilename} / ${item.thoughtId ?? "<missing thoughtId>"}`;
-    if (!declaredIds.has(item.thoughtId)) errors.push(`${label}: thoughtId is not declared in content`);
+    const isRetired = retiredIds.has(item.thoughtId);
+    if (!declaredIds.has(item.thoughtId) && !isRetired) {
+      errors.push(`${label}: thoughtId is not declared in content or the reviewed retirement registry`);
+    }
     if (!assetIdPattern.test(item.assetId ?? "")) errors.push(`${label}: invalid assetId ${item.assetId}`);
     if (!runtimeFilePattern.test(item.file ?? "") || !item.file.startsWith(`${item.thoughtId}-v`)) {
       errors.push(`${label}: file must be <thoughtId>-vN.webp`);
     }
     if (!validPlanStatuses.has(item.status)) errors.push(`${label}: invalid status ${item.status}`);
     validatePlacement(item.placement, label, errors);
+
+    // Batch plans are immutable production history. Once a thought is in the
+    // reviewed retirement registry, its old registration and asset no longer
+    // participate in the current runtime contract.
+    if (isRetired) continue;
 
     const absolute = path.join(illustrationDirectory, item.file);
     let fileStat;

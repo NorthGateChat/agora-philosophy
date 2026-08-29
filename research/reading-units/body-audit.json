@@ -1,34 +1,34 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T15:05:23.937Z",
+  "generatedAt": "2026-08-29T18:15:08.455Z",
   "inventory": {
-    "units": 660,
-    "integratedCandidates": 520,
-    "sourceRoutes": 140
+    "units": 686,
+    "integratedCandidates": 542,
+    "sourceRoutes": 144
   },
   "summary": {
-    "bodies": 520,
+    "bodies": 542,
     "missingBodies": 0,
     "orphanBodies": 0,
-    "anchors": 682,
+    "anchors": 705,
     "anchorFailures": 0,
     "duplicateBodies": 0,
     "chromeFindings": 0,
     "boundaryRisks": 0,
-    "rawBytes": 26410592,
-    "gzipBytes": 8436190,
-    "contentDigest": "d4a631dfb172764c37fab25617bc9366a0be74d4865e9495017d488bda4c117b"
+    "rawBytes": 27649471,
+    "gzipBytes": 8871082,
+    "contentDigest": "9da660b4701e70be4b1d5af4a251f373587e1c196706024a1adf7361312c064e"
   },
   "perLibrary": {
     "chinese": {
-      "units": 82,
-      "thoughts": 101,
-      "bytes": 1367864
+      "units": 92,
+      "thoughts": 116,
+      "bytes": 1570400
     },
     "western": {
-      "units": 276,
-      "thoughts": 380,
-      "bytes": 15271502
+      "units": 282,
+      "thoughts": 383,
+      "bytes": 15594562
     },
     "economics": {
       "units": 41,
@@ -36,9 +36,9 @@
       "bytes": 2454576
     },
     "science": {
-      "units": 43,
-      "thoughts": 59,
-      "bytes": 3440724
+      "units": 48,
+      "thoughts": 60,
+      "bytes": 3983575
     },
     "indian": {
       "units": 44,
@@ -47,8 +47,8 @@
     },
     "psychology": {
       "units": 36,
-      "thoughts": 46,
-      "bytes": 2494842
+      "thoughts": 45,
+      "bytes": 2494799
     }
   },
   "missingBodies": [],
@@ -90,6 +90,25 @@
       ],
       "thoughtIds": [
         "rousseau-conscience-inner-guide"
+      ]
+    },
+    {
+      "id": "ru-on-the-nature-of-things-whole-work-5a5d9462",
+      "name": "ru-on-the-nature-of-things-whole-work-5a5d9462.json",
+      "bytes": 435750,
+      "paragraphCount": 376,
+      "paragraphCharacters": 414534,
+      "contentHash": "398a58d65ce8b391eb2e06590df604689fcea9d36d32c7b909988a382e40b882",
+      "selectionMethod": "whole-document",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/785/pg785-images.html",
+      "locatorKey": "whole-work",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "lucretius-bodies-and-void",
+        "lucretius-death-nothing",
+        "lucretius-nothing-from-nothing"
       ]
     },
     {
@@ -357,6 +376,23 @@
       ]
     },
     {
+      "id": "ru-theory-of-the-earth-chapter-i-3e13dbd9",
+      "name": "ru-theory-of-the-earth-chapter-i-3e13dbd9.json",
+      "bytes": 250487,
+      "paragraphCount": 427,
+      "paragraphCharacters": 226960,
+      "contentHash": "cc6089f0c2fb9eef41c2d7cf076a1d6eb63cc036ba99e7e2646daf926f836312",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://www.gutenberg.org/files/12861/12861-h/12861-h.htm",
+      "locatorKey": "chapter-i",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtIds": [
+        "science-hutton-deep-time-no-beginning"
+      ]
+    },
+    {
       "id": "ru-the-world-as-will-and-representation-volume-i-book-i-a2746704",
       "name": "ru-the-world-as-will-and-representation-volume-i-book-i-a2746704.json",
       "bytes": 243744,
@@ -372,6 +408,23 @@
       "thoughtIds": [
         "schopenhauer",
         "schopenhauer-principle-sufficient-reason"
+      ]
+    },
+    {
+      "id": "ru-elements-of-chemistry-part-i-chapter-xiii-7df6f412",
+      "name": "ru-elements-of-chemistry-part-i-chapter-xiii-7df6f412.json",
+      "bytes": 233736,
+      "paragraphCount": 395,
+      "paragraphCharacters": 211821,
+      "contentHash": "13207f122dd572d753798392e7a8ca67156c25e58ac063ec13611f0267676822",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/files/30775/30775-h/30775-h.htm",
+      "locatorKey": "part-i-chapter-xiii",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtIds": [
+        "science-lavoisier-conservation-balance"
       ]
     },
     {
@@ -427,32 +480,6 @@
       ]
     },
     {
-      "id": "ru-novum-organum-book-i-d91738cb",
-      "name": "ru-novum-organum-book-i-d91738cb.json",
-      "bytes": 205266,
-      "paragraphCount": 280,
-      "paragraphCharacters": 185035,
-      "contentHash": "571b5273734fd83f27dc8e432dee873d955a4d4cc879b7e9f49ea831bd9b38d9",
-      "selectionMethod": "quote-guided-boundary",
-      "sourceUrl": "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm",
-      "locatorKey": "book-i",
-      "libraryIds": [
-        "science",
-        "western"
-      ],
-      "thoughtIds": [
-        "francis_bacon",
-        "francis-bacon-idols",
-        "francis-bacon-ladder",
-        "francis-bacon-light-fruit",
-        "francis-bacon-method",
-        "science-bacon-bee",
-        "science-bacon-gradual-induction",
-        "science-bacon-idols",
-        "science-bacon-organized-experiment"
-      ]
-    },
-    {
       "id": "ru-critique-of-pure-reason-dialectic-appendix-appendix-to-the-transcendenta-cb642d91",
       "name": "ru-critique-of-pure-reason-dialectic-appendix-appendix-to-the-transcendenta-cb642d91.json",
       "bytes": 204419,
@@ -467,6 +494,29 @@
       ],
       "thoughtIds": [
         "kant-ideas-regulative-use"
+      ]
+    },
+    {
+      "id": "ru-novum-organum-book-i-d91738cb",
+      "name": "ru-novum-organum-book-i-d91738cb.json",
+      "bytes": 204194,
+      "paragraphCount": 280,
+      "paragraphCharacters": 185035,
+      "contentHash": "571b5273734fd83f27dc8e432dee873d955a4d4cc879b7e9f49ea831bd9b38d9",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm",
+      "locatorKey": "book-i",
+      "libraryIds": [
+        "science",
+        "western"
+      ],
+      "thoughtIds": [
+        "francis_bacon",
+        "francis-bacon-ladder",
+        "francis-bacon-light-fruit",
+        "francis-bacon-method",
+        "science-bacon-gradual-induction",
+        "science-bacon-idols"
       ]
     },
     {
@@ -539,58 +589,6 @@
         "berkeley-laws-signs",
         "berkeley-qualities",
         "berkeley-spirit"
-      ]
-    },
-    {
-      "id": "ru-discourses-and-mathematical-demonstrations-relat-day-third-8ecc561a",
-      "name": "ru-discourses-and-mathematical-demonstrations-relat-day-third-8ecc561a.json",
-      "bytes": 179866,
-      "paragraphCount": 322,
-      "paragraphCharacters": 160921,
-      "contentHash": "c7b3b55cad11834b841127e79deb9b99a2c66bf0bbbce40f8fdd787e5a4ac7b4",
-      "selectionMethod": "configured-pattern",
-      "sourceUrl": "https://galileoandeinstein.phys.virginia.edu/tns_draft/tns_160to243.html",
-      "locatorKey": "day-third",
-      "libraryIds": [
-        "science"
-      ],
-      "thoughtIds": [
-        "science-galileo-inclined-plane"
-      ]
-    },
-    {
-      "id": "ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241",
-      "name": "ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241.json",
-      "bytes": 172375,
-      "paragraphCount": 268,
-      "paragraphCharacters": 156315,
-      "contentHash": "c91918a466467bc9f050f15dc1e18c5d8eebc5fb4f068fe430afa142b87ae9e3",
-      "selectionMethod": "configured-pattern",
-      "sourceUrl": "https://archive.org/details/selectionsfromwr00kieruoft/page/n51/mode/1up",
-      "locatorKey": "part-i",
-      "libraryIds": [
-        "western"
-      ],
-      "thoughtIds": [
-        "kierkegaard-aesthetic-immediacy"
-      ]
-    },
-    {
-      "id": "ru-on-the-genealogy-of-morality-essay-third-1c6f946e",
-      "name": "ru-on-the-genealogy-of-morality-essay-third-1c6f946e.json",
-      "bytes": 172097,
-      "paragraphCount": 151,
-      "paragraphCharacters": 160920,
-      "contentHash": "be5e1a86a32f9f396e8c0e6a646f3bd8fcf6838052f58d495dac397fb0b84176",
-      "selectionMethod": "quote-guided-boundary",
-      "sourceUrl": "https://www.gutenberg.org/cache/epub/52319/pg52319-images.html",
-      "locatorKey": "essay-third",
-      "libraryIds": [
-        "western"
-      ],
-      "thoughtIds": [
-        "nietzsche-ascetic-ideal",
-        "nietzsche-perspectival-knowing"
       ]
     }
   ]

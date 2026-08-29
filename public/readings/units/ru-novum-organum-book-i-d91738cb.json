@@ -16,7 +16,7 @@
   },
   "selectionMethod": "quote-guided-boundary",
   "contentHash": "571b5273734fd83f27dc8e432dee873d955a4d4cc879b7e9f49ea831bd9b38d9",
-  "inputHash": "cffb66aed73bbbb842a53794c78c54d769f7f25b67a34c2939ebc75e3451c281",
+  "inputHash": "ee972c63e2b279e544c558350737c67c133ec8231795f9df9610490c8435ce99",
   "paragraphs": [
     {
       "id": "p0001",
@@ -1147,13 +1147,6 @@
       "quote": "Knowledge and human power are synonymous, since the ignorance of the cause frustrates the effect; for nature is only subdued by submission, and that which in contemplative philosophy corresponds with the cause in practical science becomes the rule.",
       "match": "normalized-exact"
     },
-    "francis-bacon-idols": {
-      "paragraphId": "p0041",
-      "start": 7,
-      "end": 239,
-      "quote": "Four species of idols beset the human mind, to which (for distinction’s sake) we have assigned names, calling the first Idols of the Tribe, the second Idols of the Den, the third Idols of the Market, the fourth Idols of the Theatre.",
-      "match": "punctuation-insensitive"
-    },
     "francis-bacon-ladder": {
       "paragraphId": "p0142",
       "start": 470,
@@ -1203,13 +1196,6 @@
       ],
       "quote": "There are and can exist but two ways of investigating and discovering truth. ... The other constructs its axioms from the senses and particulars, by ascending continually and gradually, till it finally arrives at the most general axioms, which is the true but unattempted way."
     },
-    "science-bacon-bee": {
-      "paragraphId": "p0130",
-      "start": 189,
-      "end": 326,
-      "quote": "The bee, a mean between both, extracts matter from the flowers of the garden and the field, but works and fashions it by its own efforts.",
-      "match": "normalized-exact"
-    },
     "science-bacon-gradual-induction": {
       "paragraphId": "p0021",
       "start": 312,
@@ -1222,13 +1208,6 @@
       "start": 7,
       "end": 239,
       "quote": "Four species of idols beset the human mind, to which (for distinction’s sake) we have assigned names, calling the first Idols of the Tribe, the second Idols of the Den, the third Idols of the Market, the fourth Idols of the Theatre.",
-      "match": "punctuation-insensitive"
-    },
-    "science-bacon-organized-experiment": {
-      "paragraphId": "p0083",
-      "start": 247,
-      "end": 453,
-      "quote": "The present method of experiment is blind and stupid; hence men wandering and roaming without any determined course, and consulting mere chance, are hurried about to various points, and advance but little.",
       "match": "punctuation-insensitive"
     }
   }

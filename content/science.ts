@@ -1,8 +1,12 @@
-import type { ThoughtConnection } from "./philosophy";
+import type { Thought, ThoughtConnection } from "./philosophy";
 import { buildScienceThoughts } from "./scienceCorpusTypes";
 import { scienceEarlyProfiles, scienceEarlySeeds } from "./scienceEarly";
 import { scienceLifeProfiles, scienceLifeSeeds } from "./scienceLife";
 import { scienceModernProfiles, scienceModernSeeds } from "./scienceModern";
+import {
+  curateScienceThoughts,
+  scienceCurationNewThoughts,
+} from "./scienceCuration2026";
 
 export const scienceTopicOptions = [
   { id: "all", label: "全部", englishLabel: "All" },
@@ -32,10 +36,13 @@ const scienceThoughtSeeds = [
  * collection of detached quotations. The public source panel states this
  * explicitly and every card carries a passage-level locator.
  */
-export const scienceThoughts = buildScienceThoughts(
-  scienceAuthorProfiles,
-  scienceThoughtSeeds,
-);
+export const scienceThoughts: Thought[] = [
+  ...curateScienceThoughts(buildScienceThoughts(
+    scienceAuthorProfiles,
+    scienceThoughtSeeds,
+  )),
+  ...scienceCurationNewThoughts,
+];
 
 /**
  * A compact map of scientific inheritance, dispute, and conceptual reframing.

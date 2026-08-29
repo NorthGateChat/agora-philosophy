@@ -1,9 +1,9 @@
 # Reading-unit extraction rounds
 
-## Current stable inventory — 2026-08-29
+## Current stable inventory — 2026-08-30
 
-The current route graph is frozen at 890 verified cards mapped exactly once to
-660 reading units: 520 `integrated-candidate` units and 140 `source-route`
+The current route graph is frozen at 918 verified cards mapped exactly once to
+686 reading units: 542 `integrated-candidate` units and 144 `source-route`
 units. The public index and research inventory are generated from the same
 data, and the inventory tests reject missing thoughts, duplicate assignment,
 or orphan units.
@@ -17,10 +17,10 @@ works can remain whole, while long books must resolve to a chapter, book, part,
 essay, or comparable top-level division. Prepared bodies load only after the
 reader opens and fail closed above 600 KiB.
 
-The final prepared corpus contains all 520 integrated bodies and 682 resolved
+The final prepared corpus contains all 542 integrated bodies and 705 resolved
 card anchors. The release audit reports zero missing or orphan bodies, anchor
 failures, duplicate bodies, source-site chrome findings, and boundary risks.
-Together the bodies occupy about 25.2 MiB raw and 8.0 MiB gzip-equivalent; they
+Together the bodies occupy 27,649,471 bytes raw and 8,871,082 bytes gzip-equivalent; they
 remain lazy-loaded and do not enter the initial JavaScript bundle.
 
 The 704-route baseline and Round 2 figures below are historical extraction

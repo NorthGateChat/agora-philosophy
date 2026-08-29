@@ -7,6 +7,7 @@ import {
   buildMaoExpansionThoughts,
 } from "./maoSupplement";
 import { applyMaoSourceUpgrade } from "./maoSourceUpgrades";
+import { curateMaoThoughts } from "./maoCuration2026";
 
 const maoIdentity = {
   name: "毛泽东",
@@ -324,7 +325,7 @@ const primaryMaoThoughts: Thought[] = [
   },
 ];
 
-export const maoThoughts: Thought[] = [
+export const maoThoughts: Thought[] = curateMaoThoughts([
   ...primaryMaoThoughts.map(applyMaoSourceUpgrade),
   ...buildMaoExpansionThoughts(primaryMaoThoughts),
   ...buildMaoCorpusThoughts(primaryMaoThoughts, [
@@ -332,7 +333,7 @@ export const maoThoughts: Thought[] = [
     ...maoCorpusMiddleSeeds,
     ...maoCorpusLateSeeds,
   ]),
-];
+]);
 
 export const maoThoughtConnections: ThoughtConnection[] = [
   {

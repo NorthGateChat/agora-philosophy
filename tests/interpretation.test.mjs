@@ -146,8 +146,8 @@ test("context copy preserves each library's source and editorial boundary", asyn
   assert.match(chineseContext.distinction, /今译、注释与原文/);
   assert.match(maoContext.context, /原文短句|编辑性转述/);
   assert.match(maoContext.distinction, /历史条件/);
-  assert.match(scienceContext.context, /科学思想卡.*逐字字段/);
-  assert.match(scienceContext.distinction, /观测手段|教科书表述/);
+  assert.match(scienceContext.context, /中间公理.*方法链/);
+  assert.match(scienceContext.distinction, /概念工作.*新实例与反例/);
   assert.match(indianContext.context, /《自说经》1\.3|缘起/);
   assert.match(indianSourceContext.context, /印度哲学卡.*逐字字段/);
   assert.match(indianContext.distinction, /因果|充分条件|经典叙事/);

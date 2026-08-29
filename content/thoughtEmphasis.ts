@@ -5,6 +5,8 @@ import { indianCompletionEmphasis } from "./sourceCompletionIndian";
 import { maoScienceCompletionEmphasis } from "./sourceCompletionMaoScience";
 import { psychologyCompletionEmphasis } from "./sourceCompletionPsychology";
 import { westChineseCompletionEmphasis } from "./sourceCompletionWestChinese";
+import { curation2026RetiredThoughtIds } from "./curation2026Registry";
+import { westChineseCurationEmphasis } from "./curationEmphasis2026";
 
 export type ThoughtEmphasisSegments = Readonly<{
   zh: readonly string[];
@@ -19,7 +21,7 @@ export type ThoughtEmphasisSegments = Readonly<{
  * Keep the list sparse: normally one conceptual hinge, or two terms whose
  * contrast carries the passage.
  */
-export const curatedThoughtEmphasis = {
+const preCurationThoughtEmphasis = {
   ...maoSourceUpgradeEmphasis,
   ...westChineseCompletionEmphasis,
   ...economicsCompletionEmphasis,
@@ -3219,6 +3221,15 @@ export const curatedThoughtEmphasis = {
     en: ["Discovery commences with the awareness of anomaly", "violated the paradigm-induced expectations"],
   },
 } as const satisfies Readonly<Record<string, ThoughtEmphasisSegments>>;
+
+export const curatedThoughtEmphasis: Readonly<Record<string, ThoughtEmphasisSegments>> = {
+  ...Object.fromEntries(
+    Object.entries(preCurationThoughtEmphasis).filter(
+      ([thoughtId]) => !curation2026RetiredThoughtIds.has(thoughtId),
+    ),
+  ),
+  ...westChineseCurationEmphasis,
+};
 
 export function emphasisSegmentsForThought(
   thought: Pick<Thought, "id">,

@@ -56,7 +56,7 @@ test("every public thought receives conservative source-credibility metadata and
     import.meta.url,
   );
 
-  assert.equal(completeThoughts.length, 1452, "the complete public catalog must stay fully covered");
+  assert.equal(completeThoughts.length, 1441, "the curated public catalog must stay fully covered");
   assert.equal(
     new Set(completeThoughts.map((thought) => thought.id)).size,
     completeThoughts.length,
@@ -273,8 +273,8 @@ test("representative cards distinguish excerpts, restatements, and locator preci
       "source-excerpt",
       "agora-study-translation",
     ],
-    sartre: [
-      "work-located",
+    "psychology-foundations-allport-odbert-lexical-traits": [
+      "under-review",
       "editorial-restatement",
       "agora-bilingual-restatement",
     ],

@@ -2,6 +2,78 @@ import type { InterpretationDetail } from "./interpretationTypes";
 
 /** Hand-written source context for the Western canon from antiquity through Aquinas. */
 export const westernEarlyStaticDetails: Record<string, InterpretationDetail> = {
+  "sextus-opposes-appearances-judgements": {
+    context: "塞克斯都在开篇界定皮浪主义的操作方式；“显现”指经验如何呈现，“判断”则指我们对其真实性所作的断定。",
+    englishContext: "At the opening of Book I, Sextus defines the Pyrrhonian procedure. “Appearances” are how things present themselves; “judgments” are claims about how they really are.",
+    distinction: "这里不是断言一切知识都不可能，而是在势均力敌的理由之间暂缓断定。",
+    englishDistinction: "This is not the dogma that all knowledge is impossible; it is a practice of withholding assent when reasons remain evenly opposed.",
+  },
+  "sextus-suspense-neither-deny-affirm": {
+    context: "这一句紧接塞克斯都对“对置”与“等力”的定义，说明皮浪主义的术语 epochē 在实践中意味着什么。",
+    englishContext: "The sentence follows Sextus's definitions of opposition and equipollence and explains what the Pyrrhonian term epochē means in practice.",
+    distinction: "悬置不等于停止感受、行动或说话；它针对的是超出显现的教条式断言。",
+    englishDistinction: "Suspension does not abolish feeling, action, or speech; it targets dogmatic claims that go beyond appearances.",
+  },
+  "sextus-quietude-opinion": {
+    context: "第一卷第十二章转向怀疑生活的目的，把意见造成的扰动与饥渴、疼痛等不可避免的感受分开。",
+    englishContext: "Book I, chapter 12 turns to the aim of the sceptical life, separating disturbance produced by opinion from unavoidable experiences such as hunger, thirst, and pain.",
+    distinction: "宁静并非彻底无感；塞克斯都明确保留了对身体与处境的适度反应。",
+    englishDistinction: "Quietude is not total insensibility: Sextus explicitly preserves measured responses to bodily and situational constraints.",
+  },
+  "lucretius-nothing-from-nothing": {
+    context: "第一卷以这条原则反对诸神任意从无创造万物，并由可观察的生长条件论证自然过程有其限度。",
+    englishContext: "Book I uses this principle against arbitrary divine creation from nothing and appeals to observable conditions of growth to argue that natural processes have limits.",
+    distinction: "这是一条古代自然哲学原则，不是对现代宇宙学中“真空”或量子过程的直接结论。",
+    englishDistinction: "This is an ancient natural-philosophical principle, not a direct verdict on the vacuum or quantum processes in modern cosmology.",
+  },
+  "lucretius-bodies-and-void": {
+    context: "第一卷先论证物体存在，再以运动和物体可分离为线索论证虚空，随后提出这项二分。",
+    englishContext: "Book I first argues for bodies, then for void from motion and separability, before stating this twofold account.",
+    distinction: "“虚空”在这里不是另一种隐秘物质，而是物体得以占位和运动的空处。",
+    englishDistinction: "Void here is not another hidden kind of matter; it is the empty room in which bodies can be located and move.",
+  },
+  "lucretius-death-nothing": {
+    context: "第三卷在论证心灵有生有灭之后，以此消解对死后受苦的恐惧。",
+    englishContext: "After arguing in Book III that mind comes to be and passes away, Lucretius uses the conclusion to dissolve fear of posthumous suffering.",
+    distinction: "“死亡与我们无关”不是说临终、失去他人或生命有限性都不重要；论证针对死后仍受苦的想象。",
+    englishDistinction: "“Death is nothing to us” does not make dying, bereavement, or finitude unimportant; the argument targets the fantasy of continuing to suffer after death.",
+  },
+  "ghazali-bases-certitude": {
+    context: "安萨里以第一人称回顾自己的思想危机；这一句开启他对感觉、理性与不同求真群体的检验。",
+    englishContext: "Al-Ghazālī narrates his intellectual crisis in the first person. This sentence opens his examination of sense, reason, and rival communities of inquiry.",
+    distinction: "自传式叙述不等于现代怀疑论的彻底否定；他的目标是重建可以安顿宗教与认识的确定性。",
+    englishDistinction: "The autobiographical inquiry is not a modern project of total negation; its aim is to reconstruct a certainty capable of grounding knowledge and religious life.",
+  },
+  "ghazali-blind-belief-consciousness": {
+    context: "第三节回顾他从承袭信仰转向辨别诸派主张的过程，问题不是简单换一套教条，而是自觉本身改变了相信的方式。",
+    englishContext: "Section 3 recounts the move from inherited belief to discriminating among rival claims. The issue is not merely replacing one doctrine; self-awareness changes the mode of believing.",
+    distinction: "“盲从”指未意识到自身来源与根据的接受，不等于一概拒绝传统、教师或共同体。",
+    englishDistinction: "“Blind belief” means acceptance unaware of its own sources and grounds; it does not require rejecting every tradition, teacher, or community.",
+  },
+  "ghazali-experience-not-definition": {
+    context: "在第七节，安萨里说自己已掌握苏非学说，却发现概念知识仍不同于亲身实行与转化。",
+    englishContext: "In section 7, al-Ghazālī says he had mastered Sufi teaching but found conceptual knowledge different from enactment and personal transformation.",
+    distinction: "重视体验不等于取消判断标准；这段自述说明知识形式不同，并未证明任何体验都必然真实。",
+    englishDistinction: "Valuing experience does not abolish standards of judgment. The passage distinguishes forms of knowledge; it does not prove every experience true.",
+  },
+  "maimonides-no-positive-attribute": {
+    context: "第一部第五十八章在区分本质、属性与语言用法后，主张关于神的真实陈述应主要采取否定路径。",
+    englishContext: "Part I, chapter 58 distinguishes essence, attributes, and linguistic usage before arguing that truthful speech about God should proceed chiefly by negation.",
+    distinction: "否定属性不是断言神不存在或一无所有，而是拒绝把受造物的属性以同一意义套用于神。",
+    englishDistinction: "Denying positive attributes does not say that God is nonexistent or empty; it rejects applying creaturely attributes to God in the same sense.",
+  },
+  "maimonides-negation-advances-knowledge": {
+    context: "第一部第五十九章继续说明否定神学的认识论：对有限对象，属性使其更明确；对神，经过证明的否定承担类似的净化功能。",
+    englishContext: "Part I, chapter 59 develops the epistemology of negative theology. Attributes specify finite objects; regarding God, demonstrated negations perform an analogous purifying role.",
+    distinction: "这里的进步有严格条件：否定必须有证明支撑，不能把单纯沉默或任意剥夺称为知识。",
+    englishDistinction: "Progress here has a strict condition: negation must be supported by demonstration, not confused with mere silence or arbitrary deprivation.",
+  },
+  "maimonides-law-soul-body-welfare": {
+    context: "第三部第二十七章把律法的目标分为灵魂完善与身体福祉，并进一步把后者联系到政治秩序与相互关系。",
+    englishContext: "Part III, chapter 27 divides the aims of law into perfection of the soul and welfare of the body, relating the latter to political order and social relations.",
+    distinction: "“身体福祉”并非私人养生，而包括共同体中的安全、公正与有序协作。",
+    englishDistinction: "“Bodily welfare” is not merely private health; it includes security, justice, and ordered cooperation within a community.",
+  },
   heraclitus: {
     context:
       "B2 由塞克斯都·恩披里柯保存，紧接 B1 对人们听见 logos 却仍不理解的责备；这里的“共同”指可由清醒者共同把握的秩序，而非多数意见。残篇传承与排序出自后人，不能把它当作一篇完整论文的第二段。",
