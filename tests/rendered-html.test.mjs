@@ -25,6 +25,8 @@ test("server-renders the minimal full-screen NOTHING FINAL experience", async ()
   assert.match(html, /未定稿思想卡片/);
   assert.match(html, /打开菜单/);
   assert.match(html, /corner-menu-scrim/);
+  assert.match(html, /menu-brand-lockup/);
+  assert.match(html, /class="menu-brand-icon" src="\/favicon\.svg"/);
   assert.match(html, /上一则/);
   assert.match(html, /换一则/);
   assert.match(html, /读解/);

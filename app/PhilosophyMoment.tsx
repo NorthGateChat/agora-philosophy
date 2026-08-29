@@ -2072,8 +2072,21 @@ export function PhilosophyMoment({
           inert={!menuOpen ? true : undefined}
         >
           <div className="menu-heading">
-            <strong>{menuLabel("设置", "Settings")}</strong>
-            <span>{menuLabel("自动保存", "Saved automatically")}</span>
+            <div className="menu-brand-lockup">
+              {/* The canonical local SVG must stay byte-identical to the favicon and extension icon source. */}
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                className="menu-brand-icon"
+                src="/favicon.svg"
+                alt=""
+                aria-hidden="true"
+              />
+              <strong>{localizedBrandName}</strong>
+            </div>
+            <div className="menu-heading-meta">
+              <span className="menu-heading-context">{menuLabel("设置", "Settings")}</span>
+              <span className="menu-heading-status">{menuLabel("自动保存", "Saved automatically")}</span>
+            </div>
           </div>
           <div className="menu-content-picker">
             <div className="menu-content-heading">

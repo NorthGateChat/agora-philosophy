@@ -104,6 +104,7 @@ test("new-tab HTML loads only packaged resources", async () => {
     assert.doesNotMatch(reference, /^(?:data|javascript):/i);
   }
   assert.match(html, /Content-Security-Policy/);
+  assert.match(html, /<link rel="icon" type="image\/svg\+xml" href="\.\/favicon\.svg"\s*\/>/);
 });
 
 test("extension payload excludes research caches and source documents", async () => {

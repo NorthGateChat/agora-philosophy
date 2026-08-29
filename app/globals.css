@@ -448,21 +448,59 @@ button {
 
 .menu-heading {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
   gap: 16px;
-  padding: 1px 0 11px;
+  padding: 0 0 11px;
   border-bottom: 1px solid color-mix(in srgb, var(--ink) 11%, transparent);
 }
 
-.menu-heading strong {
-  font-family: var(--serif);
-  font-size: 16px;
-  font-weight: 500;
-  letter-spacing: 0.08em;
+.menu-brand-lockup {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 9px;
 }
 
-.menu-heading span {
+.menu-brand-icon {
+  width: 28px;
+  height: 28px;
+  flex: 0 0 auto;
+  border-radius: 6px;
+}
+
+.menu-brand-lockup strong {
+  overflow: hidden;
+  font-family: var(--serif);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: 0.08em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.menu-heading-meta {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+  text-align: right;
+}
+
+.menu-heading-context,
+.menu-heading-status {
+  white-space: nowrap;
+}
+
+.menu-heading-context {
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  opacity: 0.62;
+}
+
+.menu-heading-status {
   font-size: 8px;
   letter-spacing: 0.08em;
   opacity: 0.36;

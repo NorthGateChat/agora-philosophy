@@ -42,9 +42,9 @@
 | 全量自动测试 | 通过；`node --test tests/*.test.mjs`，176 / 176 通过，0 失败 |
 | ESLint 与差异格式 | 通过；`npm run lint` 与 `git diff --check` 均无错误 |
 | 网页生产构建 | 通过；`npm run build`；已移除 Sites／托管配置依赖，仅保留按需大块提示，不影响本地构建 |
-| Chrome 扩展构建 | 通过；`npm run build:extension`；初始入口 291.46 KiB，gzip 91.58 KiB，目录、原文正文与插图保持异步加载 |
+| Chrome 扩展构建 | 通过；`npm run build:extension`；初始入口 291.77 KiB，gzip 91.63 KiB，目录、原文正文与插图保持异步加载 |
 | 本地预览烟雾复核 | 通过；`http://localhost:3000/`；覆盖繁体中文、简体中文、英文，以及卡片、详情、来源档案、语境／辨析、整篇章阅读和原句自动定位；控制台 0 错误 |
-| 扩展 ZIP 校验 | 通过；`release/agora-philosophy-0.4.0.zip`，2,094 项、177,812,851 字节；SHA-256 `863f9e4e9267535cc0dd8d6773cd8db0ee6087036694e3cb72b6705b47865dc2`；`unzip -t` 与 `shasum -c` 均通过 |
+| 扩展 ZIP 校验 | 通过；`release/agora-philosophy-0.4.0.zip`，2,094 项、177,813,577 字节；SHA-256 `d81a6b975d583228c710819d54f2e8a7afa41421ef51cf5405c0c78c0c9e0efe`；`unzip -t` 与 `shasum -c` 均通过 |
 | 最终提交 | 本摘要随最终提交一并入库；提交哈希见最终交付说明或 `git log -1` |
 
 ## 发布边界
