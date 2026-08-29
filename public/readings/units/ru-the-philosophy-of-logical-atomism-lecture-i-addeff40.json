@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-philosophy-of-logical-atomism-lecture-i-addeff40",
+  "title": "讲 I",
+  "englishTitle": "Lecture I",
+  "work": "《逻辑原子主义哲学》",
+  "englishWork": "The Philosophy of Logical Atomism",
+  "locator": "讲 I",
+  "englishLocator": "Lecture I",
+  "version": "Bertrand Russell Society 文库镜像，罗素《逻辑原子主义哲学》第一讲“事实与命题”（1918）；卡片以省略号标示句内删节",
+  "englishVersion": "Bertrand Russell Society library mirror, Russell, The Philosophy of Logical Atomism, Lecture I, ‘Facts and Propositions’ (1918); sentence-internal omission marked with an ellipsis",
+  "sourceUrl": "https://users.drew.edu/~jlenz/br-logical-atomism1.html",
+  "source": {
+    "url": "https://users.drew.edu/~jlenz/br-logical-atomism1.html",
+    "contentType": "text/html",
+    "sha256": "59772ade8eae314884355d66a5b944a28df10c97ae102bf58f7ece1bc4148756"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "01a26e85640551908a57067bc42525dbbb064ea748d02aedca92c6d1e2c77bc8",
+  "inputHash": "7811d8464c390ba79a3f9a38f6bd215fb6f922d3a82e69125eef5ff3878a5e6d",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Lecture 1: Facts and Propositions *"
+    },
+    {
+      "id": "p0002",
+      "text": "By Bertrand Russell"
+    },
+    {
+      "id": "p0003",
+      "text": "(The following articles are the lectures of a course of eight lectures delivered in London in the first months of 1918, and are very largely concerned with explaining certain ideas which I learnt from my friend and former pupil Ludwig Wittgenstein. I have had no opportunity of knowing his views since August, 1914, and I do not even know whether he is alive or dead. He has therefore no responsibility for what is said in these lectures beyond that of having originally supplied many of the theories contained in them. – BR)"
+    },
+    {
+      "id": "p0004",
+      "text": "THIS course of lectures which I am now beginning I have called the Philosophy of Logical Atomism . Perhaps I had better begin by saying a word or two as to what I understand by that title. The kind of philosophy that I wish to advocate, which I call Logical Atomism, is one which has forced itself upon me in the course of thinking about the philosophy of mathematics, although I should find it hard to say exactly how far there is a definite logical connection between the two. The things I am going to say in these lectures are mainly my own personal opinions and I do not claim that they are more than that."
+    },
+    {
+      "id": "p0005",
+      "text": "As I have attempted to prove in The Principles of Mathematics , when we analyze mathematics we bring it all back to logic. It all comes back to logic in the strictest and most formal sense. In the present lectures, I shall try to set forth in a sort of outline, rather briefly and rather unsatisfactorily, a kind of logical doctrine which seems to me to result from the philosophy of mathematics – not exactly logically, but as what emerges as one reflects: a certain kind of logical doctrine, and on the basis of this a certain kind of metaphysic. The logic which I shall advocate is atomistic, as opposed to the monistic logic of the people who more or less follow Hegel. When I say that my logic is atomistic, I mean that I share the common-sense belief that there are many separate things; I do not regard the apparent multiplicity of the world as consisting merely in phases and unreal divisions of a single indivisible Reality. It results from that that a considerable part of what one would have to do to justify the sort of philosophy I wish to advocate would consist in justifying the process of analysis. One is often told that the process of analysis is falsification, that when you analyze any given concrete whole you falsify it and that the results of analysis are not true. I do not think that is a right view. I do not mean to say, of course, and nobody would maintain, that when you have analyzed you keep everything that you had before you analyzed. If you did, you would never attain anything in analyzing. I do not propose to meet the views that I disagree with by controversy, by arguing against those views, but rather by positively setting forth what I believe to be the truth about the matter, and endeavoring all the way through to make the views that I advocate result inevitably from absolutely undeniable data. When I talk of “undeniable data” that is not to be regarded as synonymous with “true data,” because “undeniable” is a psychological term and “true” is not. When I say that something is “undeniable,” I mean that it is not the sort of thing that anybody is going to deny; it does not follow from that that it is true, though it does follow that we shall all think it true – and that is as near to truth as we seem able to get. When you are considering any sort of theory of knowledge, you are more or less tied to a certain unavoidable subjectivity, because you are not concerned simply with the question what is true of the world, but “What can I know of the world?” You always have to start any kind of argument from something which appears to you to be true; if it appears to you to be true; if it appears to you to be true, there is no more to be done. You cannot go outside yourself and consider abstractly whether the things that appear to you to be true are true; you may do this in a particular case, where one of your beliefs is changed in consequence of others among your beliefs."
+    },
+    {
+      "id": "p0006",
+      "text": "The reason that I call my doctrine logical atomism is because the atoms that I wish to arrive at as the sort of last residue in analysis are logical atoms and not physical atoms. Some of them will be what I call “particulars,” – such things as little patches of color or sounds, momentary things – and some of them will be predicates or relations and so on. The point is that the atom I wish to arrive at is the atom of logical analysis, not the atom of physical analysis."
+    },
+    {
+      "id": "p0007",
+      "text": "It is a rather curious fact in philosophy that the data which are undeniable to start with are always rather vague and ambiguous. You can, for instance, say: “There are a number of people in this room at this moment.” That is obviously in some sense undeniable. But when you come to try and define what this room is, and what it is for a person to be in a room, and how you are going to distinguish one person from another, and so forth, you find that what you have said is most fearfully vague and that you really do not know what you meant. That is a rather singular fact, that everything you are really sure of, right off is something that you do not know the meaning of, and the moment you get a precise statement you will not be sure whether it is true or false, at least right off. The process of sound philosophizing, to my mind, consists mainly in passing from those obvious, vague, ambiguous things, that we feel quite sure of, to something precise, clear, definite, which by reflection and analysis we find is involved in the vague thing that we started from, and is, so to speak, the real truth of which that vague thing is a sort of shadow. I should like, if time were longer and if I knew more than I do, to spend a whole lecture on the conception of vagueness. I think vagueness is very much more important in the theory of knowledge than you would judge it to be from the writings of most people. Everything is vague to a degree you do not realize till you have tried to make it precise, and everything precise is so remote from everything that we normally think, that you cannot for a moment suppose that is what we really mean when we say what we think."
+    },
+    {
+      "id": "p0008",
+      "text": "When you pass from the vague to the precise by the method of analysis and reflection that I am speaking of, you always run a certain risk of error. If I start with the statement that there are so and so many people in this room, and then set to work to make that statement precise, I shall run a great many risks and it will be extremely likely that any precise statement I make will be something not true at all. So you cannot very easily or simply get from these vague undeniable things to precise things which are going to retain the undeniability of the starting-point. The precise propositions that you arrive at may be logically premises to the system that you build up upon the basis of them, but they are not premises for the theory of knowledge. It is important to realize the difference between that from which your knowledge is, in fact, derived, and that from which, if you already had complete knowledge, you would deduce it. Those are quite different things. The sort of premise that a logician will take for a science will not be the sort of thing which is first known or easiest known: it will be a proposition having great deductive power, great cogency and exactitude, quite a different thing from the actual premise that your knowledge started from. When you are talking of the premise for theory of knowledge, you are not talking of anything objective, but of something that will vary from man to man, because the premises of one man’s theory of knowledge will not be the same as those of another man’s. There is a great tendency among a very large school to suppose that when you are trying to philosophize about what you know, you ought to carry back your premises further and further into the region of the inexact and vague, beyond the point where you yourself are, right back to the child or monkey, and that anything whatsoever that you seem to know – but that the psychologist recognizes as being the product of previous thought and analysis and reflection on your part – cannot really be taken as a premise in your own knowledge. That, I say, is a theory which is very widely held and which is used against that kind of analytic outlook which I wish to urge. It seems to me that when your object is, not simply to study the history or development of mind, but to ascertain the nature of the world, you do not want to go any further back than you are already yourself. You do not want to go back to the vagueness of the child or monkey, because you will find that quite sufficient difficulty is raised by your own vagueness. But there one is confronted by one of those difficulties that occur constantly in philosophy, where you have two ultimate prejudices conflicting and where argument ceases. There is the type of mind which considers that what is called primitive experience must be a better guide to wisdom than the experience of reflective persons, and there is the type of mind which takes exactly the opposite view. On that point I cannot see any argument whatsoever. It is quite clear that a highly educated person sees, hears, feels, does everything in a very different way from a young child or animal, and that this whole manner of experiencing the world and of thinking about the world is very much more analytic than that of a more primitive experience. The things we have got to take as premises in any kind of work of analysis are the things which appear to us undeniable – to us here and now, as we are – and I think on the whole that the sort of method adopted by Descartes is right; that you should set to work to doubt things and retain only what you cannot doubt because of its clearness and distinctness, not because you are sure not to be induced into error, for there does not exist a method which will safeguard you against the possibility of error. The wish for perfect security is one of those snares we are always falling into, and is just as untenable in the realm of knowledge as in everything else. Nevertheless, granting all this, I still think that Descartes’ method is on the whole a sound one for the starting-point."
+    },
+    {
+      "id": "p0009",
+      "text": "I propose, therefore, always to begin any argument that I have to make by appealing to data which will be quite ludicrously obvious. Any philosophical skill that is required will consist in the selection of those which are capable of yielding a good deal of reflection and analysis, and in the reflection and analysis themselves."
+    },
+    {
+      "id": "p0010",
+      "text": "What I have said so far is by way of introduction."
+    },
+    {
+      "id": "p0011",
+      "text": "The first truism to which I wish to draw your attention – and I hope you will agree with me that these things that I call truisms are so obvious that it is almost laughable to mention them – is that the world contains facts, which are what they are whatever we may choose to think about them, and that there are also beliefs, which have reference to facts, and by reference to facts are either true or false. I will try first of all to give you a preliminary explanation of what I mean by a “fact.” When I speak of a fact – I do not propose to attempt an exact definition, but an explanation, so that you will know what I am talking about – I mean the kind of thing that makes a proposition true or false. If I say “It is raining,” what I say is true in a certain condition of weather and is false in other conditions of weather. The condition of weather that makes my statement true (or false as the case may be), is what I should call a “fact.” If I say “Socrates is dead,” my statement will be true owing to a certain physiological occurrence which happened in Athens long ago. If I say, “Gravitation varies inversely as the square of the distance,” my statement is rendered true by astronomical fact. If I say, “Two and two are four,” it is arithmetical fact that makes my statement true. On the other hand, if I say “Socrates is alive,” or “Gravitation varies directly as the distance,” or “Two and two are five,” the very same facts which made my previous statements true show that these new statements are false."
+    },
+    {
+      "id": "p0012",
+      "text": "I want you to realize that when I speak of a fact I do not mean a particular existing thing, such as Socrates or the rain or the sun. Socrates himself does not render any statement true or false. You might be inclined to suppose that all by himself he would give truth to the statement “Socrates existed,” but as a matter of fact that is a mistake. It is due to a confusion which I shall try to explain in the sixth lecture of this course, when I come to deal with the notion of existence. Socrates 1 himself, or any particular thing just by itself, does not make any proposition true or false. “Socrates is dead” and “Socrates is alive” are both of them statements about Socrates. One is true and the other false. What I call a fact is the sort of thing that is expressed by a whole sentence, not by a single name like “Socrates.” When a single word does come to express a fact, like “fire” or “wolf,” it is always due to an unexpressed context, and the full expression of a fact will always involve a sentence. We express a fact, for example, when we say that a certain thing has a certain property, or that it has a certain relation to another thing; but the thing which has the property or the relation is not what I call a “fact.”"
+    },
+    {
+      "id": "p0013",
+      "text": "It is important to observe that facts belong to the objective world. They are not created by our thoughts or beliefs except in special cases. That is one of the sort of things which I should set up as an obvious truism, but, of course, one is aware, the moment one has read any philosophy at all, how very much there is to be said before such a statement as that can become the kind of position that you want. The first thing I want to emphasize is that the outer world – the world, so to speak, which knowledge is aiming at knowing – is not completely described by a lot of “particulars,” but that you must also take account of these things that I call facts, which are the sort of things that you express by a sentence, and that these, just as much as particular chairs and tables, are part of the real world. Except in psychology, most of our statements are not intended merely to express our condition of mind, though that is often all that they succeed in doing. They are intended to express facts, which (except when they are psychological facts) will be about the outer world. There are such facts involved, equally when we speak truly and when we speak falsely. When we speak falsely it is an objective fact that makes what we say false, and it is an objective fact that makes what we say true when we speak truly."
+    },
+    {
+      "id": "p0014",
+      "text": "There are a great many different kinds of facts, and we shall be concerned in later lectures with a certain amount of classification of facts. I will just point out a few kinds of facts to begin with, so that you may not imagine that facts are all very much alike. There are particular facts, such as “This is white” then there are general facts, such as “All men are mortal.” Of course, the distinction between particular and general facts is one of the most important. There again it would be a very great mistake to suppose that you could describe the world completely by means of particular facts alone. Suppose that you had succeeded in chronicling every single particular fact throughout the universe, and that there did not exist a single particular fact of any sort anywhere that you had not chronicled, you still would not have got a complete description of the universe unless you also added : “These that I have chronicled are all the particular facts there are.” So you cannot hope to describe the world completely without having general facts as well as particular facts. Another distinction, which is perhaps a little more difficult to make, is between positive facts and negative facts, such as “Socrates was alive” – a positive fact – and “Socrates is not alive” – you might say a negative fact. 2 But the distinction is difficult to make precise. Then there are facts concerning particular things or particular qualities or relations, and, apart from them, the completely general facts of the sort that you have in logic, where there is no mention of any constituent whatever of the actual world, no mention of any particular thing or particular quality or particular relation, indeed strictly you may say no mention of anything. That is one of the characteristics of logical propositions, that they mention nothing. Such a proposition is: “If one class is part of another, a term which is a member of the one is also a member of the other.” All those words that come in the statement of a pure logical proposition are words really belonging to syntax. They are words merely expressing form or connection, not mentioning any particular constituent of the proposition in which they occur. This is, of course, a thing that wants to be proved; I am not laying it down as self-evident. Then there are facts about the properties of single things; and facts about the relations between two things, three things, and so on; and any number of different classifications of some of the facts in the world, which are important for different purposes."
+    },
+    {
+      "id": "p0015",
+      "text": "It is obvious that there is not a dualism of true and false facts ; there are only just facts. It would be a mistake, of course, to say that all facts are true. That would be a mistake because true and false are correlatives, and you would only say of a thing that it was true if it was the sort of thing that might be false. A fact cannot be either true or false. That brings us on to the question of statements or propositions or judgments, all those things that do have the duality of truth and falsehood. For the purposes of logic, though not, I think, for the purposes of theory of knowledge, it is natural to concentrate upon the proposition as the thing which is going to be our typical vehicle on the duality of truth and falsehood. A proposition, one may say, is be a sentence of that sort preceded by the word “that.” For example, “That Socrates is alive,” “That two and two are four,” “That two and two are five,” anything of that sort will be a proposition."
+    },
+    {
+      "id": "p0016",
+      "text": "A proposition is just a symbol. It is a complex symbol in the sense that it has parts which are also symbols: a symbol may be defined as complex when it has parts that are symbols. In a sentence containing several words, the several words are each symbols, and the sentence composing them is therefore a complex symbol in that sense. There is a good deal of importance to philosophy in the theory of symbolism, a good deal more than at one time I thought. I think the importance is almost entirely negative, i.e., the importance lies in the fact that unless you are fairly self-conscious about symbols, unless you are fairly aware of the relation of the symbol to what it symbolizes, you will find yourself attributing to the thing properties which only belong to the symbol. That, of course, is especially likely in very abstract studies such as philosophical logic, because the subject-matter that you are supposed to be thinking of is so exceedingly difficult and elusive that any person who has ever tried to think about it knows you do not think about it except perhaps once in six months for half a minute. The rest of the time you think about the symbols, because they are tangible, but the thing you are supposed to be thinking about is fearfully difficult and one does not often manage to think about it. The really good philosopher is the one who does once in six months think about it for a minute. Bad philosophers never do. That is why the theory of symbolism has a certain importance, because otherwise you are so certain to mistake the properties of the symbolism for the properties of the thing. It has other interesting sides to it too. There are different kinds of symbols, different kinds of relation between symbol and what is symbolized, and very important fallacies arise from not realizing this. The sort of contradictions about which I shall be speaking in connection with types in a later lecture all arise from mistakes in symbolism, from putting one sort of symbol in the place where another sort of symbol ought to be. Some of the notions that have been thought absolutely fundamental in philosophy have arisen, I believe, entirely through mistakes as to symbolism – e.g., the notion of existence, or, if you like, reality. Those two words stand for a great deal that has been discussed in philosophy. There has been the theory about every proposition being really a description of reality as a whole and so on, and altogether these notions of reality and existence have played a very prominent part in philosophy. Now my own belief is that as they have occurred in philosophy, they have been entirely the outcome of a muddle about symbolism, and that when you have cleared up that muddle, you find that practically everything that has been said about existence is sheer and simple mistake, and that is all you can say about it. I shall go into that in a later lecture, but it is an example of the way in which symbolism is important."
+    },
+    {
+      "id": "p0017",
+      "text": "Perhaps I ought to say a word or two about what I am understanding by symbolism, because I think some people think you only mean mathematical symbols when you talk about symbolism. I am using it in a sense to include all language of every sort and kind, so that every word is a symbol, and every sentence, and so forth. When I speak of a symbol I simply mean something that “means” something else, and as to what I mean by “meaning” I am not prepared to tell you. I will in the course of time enumerate a strictly infinite number of different things that “meaning” may mean, but I shall not consider that I have exhausted the discussion by doing that. I think that the notion of meaning is always more or less psychological, and that it is not possible to get a pure logical theory of meaning, nor therefore of symbolism. I think that it is of the very essence of the explanation of what you mean by a symbol to take account of such things as knowing, of cognitive relations, and probably also of association. At any rate I am pretty clear that the theory of symbolism and the use of symbolism is not a thing that can be explained in pure logic without taking account of the various cognitive relations that you may have to things."
+    },
+    {
+      "id": "p0018",
+      "text": "As to what one means by “meaning,” I will give a few illustrations. For instance, the word “Socrates,” you will say, means a certain man; the word “mortal” means a certain quality; and the sentence “Socrates is mortal” means a certain fact. But these three sorts of meaning are entirely distinct, and you will get into the most hopeless contradictions if you think the word “meaning” has the same meaning in each of these three cases. It is very important not to suppose that there is just one thing which is meant by “meaning,” and that therefore there is just one sort of relation of the symbol to what is symbolized. A name would be a proper symbol to use for a person; a sentence (or a proposition) is the proper symbol for a fact."
+    },
+    {
+      "id": "p0019",
+      "text": "A belief or a statement has duality of truth and falsehood, which the fact does not have. A belief or a statement always involves a proposition. You say that a man believes that so and so is the case. A man believes that Socrates is dead. What he believes is a proposition on the face of it, and for formal purposes it is convenient to take the proposition as the essential thing having the duality of truth and falsehood. It is very important to realize such things, for instance, as that propositions are not names for facts. It is quite obvious as soon as it is pointed out to you, but as a matter of fact I never had realized it until it was pointed out to me by a former pupil of mine, Wittgenstein. It is perfectly evident as soon as you think of it, that a proposition is not a name for a fact, from the mere circumstance that there are two propositions corresponding to each fact. Suppose it is a fact that Socrates is dead. You have two propositions: “Socrates is dead” and “Socrates is not dead.” And those two propositions corresponding to the same fact, there is one fact in the world which makes one true and one false. That is not accidental, and illustrates how the relation of proposition to fact is a totally different one from the relation of name to the thing named. For each fact there are two propositions, one true and one false, and there is nothing in the nature of the symbol to show us which is the true one and which is the false one. If there were, you could ascertain the truth about the world by examining propositions without looking round you."
+    },
+    {
+      "id": "p0020",
+      "text": "There are two different relations, as you see, that a proposition may have to a fact: the one the relation that you may call being true to the fact, and the other being false to the fact. Both are equally essentially logical relations which may subsist between the two, whereas in the case of a name, there is only one relation that it can have to what it names. A name can just name a particular, or, if it does not, it is not a name at all, it is a noise. It cannot be a name without having just that one particular relation of naming a certain thing, whereas a proposition does not cease to be a proposition if it is false. It has these two ways, of being true and being false, which together correspond to the property of being a name. Just as a word may be a name or be not a name but just a meaningless noise, so a phrase which is apparently a proposition may be either true or false, or may be meaningless, but the true and false belong together as against the meaningless. That shows, of course, that the formal logical characteristics of propositions are quite different from those of names, and that the relations they have to facts are quite different, and therefore propositions are not names for facts. You must not run away with the idea that you can name facts in any other way; you cannot. You cannot name them at all. You cannot properly name a fact. The only thing you can do is to assert it, or deny it, or desire it, or will it, or wish it, or question it, but all those are things involving the whole proposition. You can never put the sort of thing that makes a proposition to be true or false in the position of a logical subject. You can only have it there as something to be asserted or denied or something of that sort, but not something to be named."
+    },
+    {
+      "id": "p0021",
+      "text": "DISCUSSION"
+    },
+    {
+      "id": "p0022",
+      "text": "Question: Do you take your starting-point “That there are many things” as a postulate which is to be carried along all through, or has to be proved afterward?"
+    },
+    {
+      "id": "p0023",
+      "text": "Mr. Russell: No, neither the one nor the other. I do not take it as a postulate that “There are many things.” I should take it that, in so far as it can be proved, the proof is empirical, and that the disproofs that have been offered are a priori . The empirical person would naturally say, there are many things. The monistic philosopher attempts to show that there are not. I should propose to refute his a priori arguments. I do not consider there is any logical necessity for there to be many things, nor for there not to be many things."
+    },
+    {
+      "id": "p0024",
+      "text": "Question: I mean in making a start, whether you start with the empirical or the a priori philosophy, do you make your statement just at the beginning and come back to prove it, or do you never come back to the proof of it?"
+    },
+    {
+      "id": "p0025",
+      "text": "Mr. Russell: No, you never come back. It is like the acorn to the oak. You never get back to the acorn in the oak. I should like a statement which would be rough and vague and have that sort of obviousness that belongs to things of which you never know what they mean, but I should never get back to that statement. I should say, here is a thing. We seem somehow convinced that there is truth buried in this thing somewhere. We will look at it inside and out until we have extracted something and can say, now that is true. It will not really be the same as the thing we started from because it will be so much more analytic and precise."
+    },
+    {
+      "id": "p0026",
+      "text": "Question: Does it not look as though you could name a fact by a date?"
+    },
+    {
+      "id": "p0027",
+      "text": "Mr. Russell: You can apparently name facts, but I do not think you can really: you would always find that if you set out the whole thing fully, it was not so. Suppose you say “The death of Socrates.” You might say, that is a name for the fact that Socrates died. But it obviously is not. You can see that the moment you take account of truth and falsehood. Supposing he had not died, the phrase would still be just as significant although there could not be then anything you could name. But supposing he had never lived, the sound “Socrates” would not be a name at all. You can see it in another way. You can say “The death of Socrates is a fiction.” Suppose you had read in the paper that the Kaiser had been assassinated, and it turned out to be not true. You could then say, “The death of the Kaiser is a fiction.” It is clear that there is no such thing in the world as a fiction, and yet that statement is a perfectly sound statement. From this it follows that “The death of the Kaiser” is not a name."
+    },
+    {
+      "id": "p0028",
+      "text": "* Bertrand Russell, The Philosophy of Logical Atomism , Lecture 1: “Facts and Propositions,” The Monist 28 (Oct 1918), 495-509"
+    },
+    {
+      "id": "p0029",
+      "text": "1 I am here for the moment treating Socrates as a “particular.” But we shall see shortly that this view requires modification."
+    },
+    {
+      "id": "p0030",
+      "text": "2 Negative facts are further discussed in a later lecture."
+    }
+  ],
+  "anchors": {
+    "russell-logical-atomism": {
+      "paragraphId": "p0011",
+      "start": 199,
+      "end": 296,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0011",
+          "start": 199,
+          "end": 296,
+          "text": "the world contains facts, which are what they are whatever we may choose to think about them, and"
+        },
+        {
+          "paragraphId": "p0011",
+          "start": 302,
+          "end": 408,
+          "text": "there are also beliefs, which have reference to facts, and by reference to facts are either true or false."
+        }
+      ],
+      "quote": "The world contains facts, which are what they are whatever we may choose to think about them, and … there are also beliefs, which have reference to facts, and by reference to facts are either true or false."
+    }
+  }
+}

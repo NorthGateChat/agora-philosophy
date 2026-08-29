@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-characteristic-of-not-self-sn-22-59-whole-work-508a35f1",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《无我相经》",
+  "englishWork": "The Characteristic of Not-Self (SN 22.59)",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "SuttaCentral/Bilara已发布数据固定提交21b240d60ee298ea0bab0868d058dfac04dbd1fd，Bhikkhu Sujato 2018年CC0英译《相应部》22.59，第6.2—6.8段；七个连续段构成关于色的完整问答，独立呈现时补足开头对话引号，中文为项目研读译文",
+  "englishVersion": "SuttaCentral/Bilara published data at frozen commit 21b240d60ee298ea0bab0868d058dfac04dbd1fd, Bhikkhu Sujato's 2018 CC0 translation of SN 22.59, segments 6.2–6.8; seven consecutive segments forming the complete exchange about form, with the opening dialogue mark supplied for standalone display; Chinese is a project study translation",
+  "sourceUrl": "https://suttacentral.net/sn22.59/en/sujato",
+  "preparedSourceUrl": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json",
+  "source": {
+    "url": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json",
+    "retrievalUrl": "https://raw.githubusercontent.com/suttacentral/bilara-data/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/sn/sn22/sn22.59_translation-en-sujato.json",
+    "contentType": "application/json",
+    "sha256": "732e7e2b83a62fdecd802fa01be8f149f5d1db28e411b71e7b7eb844a885788b"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "812510b46d95fd894404808a2df704f906316beba68e525ad826790f372c4ac7",
+  "inputHash": "cb55462be87329f9c92f71ddef99fdcd687e936800f0595203d953d024e5d75e",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Linked Discourses 22.59 6. Involvement The Characteristic of Not-Self"
+    },
+    {
+      "id": "p0002",
+      "text": "At one time the Buddha was staying near Varanasi in the deer park at Isipatana. There the Buddha addressed the group of five mendicants: “Mendicants!” “Venerable sir,” they replied. The Buddha said this:"
+    },
+    {
+      "id": "p0003",
+      "text": "“Mendicants, form is not-self. For if form were self, it wouldn’t lead to affliction. And you could compel form: ‘May my form be like this! May it not be like that!’ But because form is not-self, it leads to affliction. And you can’t compel form: ‘May my form be like this! May it not be like that!’"
+    },
+    {
+      "id": "p0004",
+      "text": "Feeling is not-self…"
+    },
+    {
+      "id": "p0005",
+      "text": "Perception is not-self… Choices are not-self…"
+    },
+    {
+      "id": "p0006",
+      "text": "Consciousness is not-self. For if consciousness were self, it wouldn’t lead to affliction. And you could compel consciousness: ‘May my consciousness be like this! May it not be like that!’ But because consciousness is not-self, it leads to affliction. And you can’t compel consciousness: ‘May my consciousness be like this! May it not be like that!’"
+    },
+    {
+      "id": "p0007",
+      "text": "What do you think, mendicants? Is form permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: ‘This is mine, I am this, this is my self’?” “No, sir.” “Is feeling permanent or impermanent?”… “Is perception permanent or impermanent?”… “Are choices permanent or impermanent?”… “Is consciousness permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: ‘This is mine, I am this, this is my self’?” “No, sir.”"
+    },
+    {
+      "id": "p0008",
+      "text": "“So you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+    },
+    {
+      "id": "p0009",
+      "text": "Any kind of feeling at all…"
+    },
+    {
+      "id": "p0010",
+      "text": "Any kind of perception at all… Any kind of choices at all…"
+    },
+    {
+      "id": "p0011",
+      "text": "You should truly see any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’"
+    },
+    {
+      "id": "p0012",
+      "text": "Seeing this, a learned noble disciple grows disillusioned with form, feeling, perception, choices, and consciousness. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place.’”"
+    },
+    {
+      "id": "p0013",
+      "text": "That is what the Buddha said. Satisfied, the group of five mendicants approved what the Buddha said. And while this discourse was being spoken, the minds of the group of five mendicants were freed from defilements by not grasping."
+    }
+  ],
+  "anchors": {
+    "indian-buddha-not-self": {
+      "paragraphId": "p0007",
+      "start": 29,
+      "end": 300,
+      "quote": "“Is form permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: ‘This is mine, I am this, this is my self’?” “No, sir.”",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

@@ -1,0 +1,2687 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:19:28.177Z",
+  "inventoryPath": "research/source-cache/public-web-recovery/inventory.temp.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-astronomia-nova-chapter-19-89268069",
+    "ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+    "ru-critique-of-pure-reason-preface-b-d5be9bd1",
+    "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+    "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+    "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+    "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+    "ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+    "ru-enchiridion-whole-work-f7640499",
+    "ru-ethics-part-ii-3f8d8997",
+    "ru-ethics-part-iv-67d79bde",
+    "ru-ethics-part-v-bf548558",
+    "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+    "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+    "ru-leviathan-part-ii-chapter-xxix-612ebd74",
+    "ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+    "ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+    "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+    "ru-meditations-on-first-philosophy-meditation-iv-94021970",
+    "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+    "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+    "ru-monadology-whole-work-bf71c0f6",
+    "ru-on-nature-whole-work-aaa8e8ca",
+    "ru-on-spontaneous-generation-whole-work-80e9bc01",
+    "ru-opticks-book-iii-2a775caf",
+    "ru-the-subjection-of-women-chapter-i-de45861e",
+    "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+    "ru-theological-political-treatise-chapter-20-80467ac4",
+    "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+    "ru-utilitarianism-chapter-ii-6f8a19dc"
+  ],
+  "dryRun": true,
+  "allowNetwork": true,
+  "concurrency": 4,
+  "summary": {
+    "considered": 30,
+    "written": 0,
+    "wouldWrite": 0,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 30,
+    "thoughts": 63,
+    "anchorsMatched": 0,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-astronomia-nova-chapter-19-89268069",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-astronomia-nova-chapter-19-89268069",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/51555/pg51555-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/51555/pg51555-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-kepler-eight-minutes"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-kepler-eight-minutes"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-kepler-eight-minutes"
+        ]
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "locatorStructureKey": "chapter-19",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/51555/pg51555-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-synthetic-a-priori"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-synthetic-a-priori"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "kant-synthetic-a-priori"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "introduction-introduction",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-copernican-turn"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-copernican-turn"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "kant-copernican-turn"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "preface-b",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-amour-propre-comparison"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-amour-propre-comparison"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-amour-propre-comparison"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "note-xv",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-compassion-prior-to-reason",
+                "rousseau-perfectibility-double-edge"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-compassion-prior-to-reason",
+                "rousseau-perfectibility-double-edge"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-compassion-prior-to-reason",
+          "rousseau-perfectibility-double-edge"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "part-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "thoughtCount": 2
+    },
+    {
+      "id": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-metallurgy-agriculture-inequality",
+                "rousseau-property-enclosure"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-metallurgy-agriculture-inequality",
+                "rousseau-property-enclosure"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-metallurgy-agriculture-inequality",
+          "rousseau-property-enclosure"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "part-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "thoughtCount": 2
+    },
+    {
+      "id": "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-luxury-corrupts-virtue"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-luxury-corrupts-virtue"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-luxury-corrupts-virtue"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "part-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/10827/pg10827-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/10827/pg10827-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "machiavelli-conflict-liberty"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "machiavelli-conflict-liberty"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "machiavelli-conflict-liberty"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "book-i-chapter-4",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10827/pg10827-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-enchiridion-whole-work-f7640499",
+      "status": "failed",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-enchiridion-whole-work-f7640499",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "10/11 card anchors matched https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "details": {
+              "matchedThoughtIds": [
+                "epictetus",
+                "epictetus-actor-and-role",
+                "epictetus-banquet-metaphor",
+                "epictetus-control",
+                "epictetus-duties-from-relations",
+                "epictetus-price-of-tranquility",
+                "epictetus-return-what-was-given",
+                "epictetus-train-desire-first",
+                "epictetus-two-handles",
+                "epictetus-wish-events-as-they-are"
+              ],
+              "unmatchedThoughtIds": [
+                "epictetus-practice-not-display"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "epictetus",
+                "epictetus-actor-and-role",
+                "epictetus-banquet-metaphor",
+                "epictetus-control",
+                "epictetus-duties-from-relations",
+                "epictetus-practice-not-display",
+                "epictetus-price-of-tranquility",
+                "epictetus-return-what-was-given",
+                "epictetus-train-desire-first",
+                "epictetus-two-handles",
+                "epictetus-wish-events-as-they-are"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "epictetus-practice-not-display"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "thoughtCount": 11
+    },
+    {
+      "id": "ru-ethics-part-ii-3f8d8997",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-ethics-part-ii-3f8d8997",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-ethics-part-ii-3f8d8997 has only 44 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-mind-idea-of-body",
+                "spinoza-order-of-ideas-and-things"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza-mind-idea-of-body",
+          "spinoza-order-of-ideas-and-things"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "part-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "thoughtCount": 2
+    },
+    {
+      "id": "ru-ethics-part-iv-67d79bde",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-ethics-part-iv-67d79bde",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-ethics-part-iv-67d79bde has only 57 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza",
+                "spinoza-free-person",
+                "spinoza-good-as-relational"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza",
+          "spinoza-free-person",
+          "spinoza-good-as-relational"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "part-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "thoughtCount": 3
+    },
+    {
+      "id": "ru-ethics-part-v-bf548558",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-ethics-part-v-bf548558",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-ethics-part-v-bf548558 has only 61 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-understanding-affect"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza-understanding-affect"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "part-v",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "status": "failed",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "4/5 card anchors matched https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+            "details": {
+              "matchedThoughtIds": [
+                "heraclitus-character",
+                "heraclitus-conflict",
+                "heraclitus-logos",
+                "heraclitus-river"
+              ],
+              "unmatchedThoughtIds": [
+                "heraclitus"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "heraclitus",
+                "heraclitus-character",
+                "heraclitus-conflict",
+                "heraclitus-logos",
+                "heraclitus-river"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "heraclitus"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+      "thoughtCount": 5
+    },
+    {
+      "id": "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "status": "failed",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/5682/pg5682-images.html",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "1/3 card anchors matched https://www.gutenberg.org/cache/epub/5682/pg5682-images.html",
+            "details": {
+              "matchedThoughtIds": [
+                "kant-universal-law-test"
+              ],
+              "unmatchedThoughtIds": [
+                "kant",
+                "kant-autonomy-self-legislation"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant",
+                "kant-autonomy-self-legislation",
+                "kant-universal-law-test"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "kant",
+          "kant-autonomy-self-legislation"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "section-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/5682/pg5682-images.html",
+      "thoughtCount": 3
+    },
+    {
+      "id": "ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_29",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_29",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "hobbes-sovereignty"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "hobbes-sovereignty"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "hobbes-sovereignty"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "part-ii-chapter-xxix",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_29",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/61/61-h/61-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/61/61-h/61-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "marx-class-struggle"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "marx-class-struggle"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "marx-class-struggle"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/61/61-h/61-h.htm",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes",
+                "descartes-wax-and-judgment"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes",
+                "descartes-wax-and-judgment"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes",
+          "descartes-wax-and-judgment"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "meditation-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "thoughtCount": 2
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-idea-of-the-infinite"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-idea-of-the-infinite"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes-idea-of-the-infinite"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "meditation-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-error-of-the-will"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-error-of-the-will"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes-error-of-the-will"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "meditation-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-existence-and-perfect-being"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-existence-and-perfect-being"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes-existence-and-perfect-being"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "meditation-v",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter5.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched research/source-cache/completion-psychology/ebbinghaus-memory-chapter5.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-ebbinghaus-meaning"
+              ]
+            }
+          },
+          {
+            "source": "https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-ebbinghaus-meaning"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-ebbinghaus-meaning"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "psychology-foundations-ebbinghaus-meaning"
+        ]
+      },
+      "libraryIds": [
+        "psychology"
+      ],
+      "locatorStructureKey": "chapter-v",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-monadology-whole-work-bf71c0f6",
+      "status": "failed",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-monadology-whole-work-bf71c0f6",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "4/8 card anchors matched https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+            "details": {
+              "matchedThoughtIds": [
+                "leibniz-identity",
+                "leibniz-perception-appetition",
+                "leibniz-possible-worlds",
+                "leibniz-two-truths"
+              ],
+              "unmatchedThoughtIds": [
+                "leibniz",
+                "leibniz-harmony",
+                "leibniz-perspectives",
+                "leibniz-windowless"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "leibniz",
+                "leibniz-harmony",
+                "leibniz-identity",
+                "leibniz-perception-appetition",
+                "leibniz-perspectives",
+                "leibniz-possible-worlds",
+                "leibniz-two-truths",
+                "leibniz-windowless"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "leibniz",
+          "leibniz-harmony",
+          "leibniz-perspectives",
+          "leibniz-windowless"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+      "thoughtCount": 8
+    },
+    {
+      "id": "ru-on-nature-whole-work-aaa8e8ca",
+      "status": "failed",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-on-nature-whole-work-aaa8e8ca",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Fragments_of_Parmenides",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "3/4 card anchors matched https://en.wikisource.org/wiki/Fragments_of_Parmenides",
+            "details": {
+              "matchedThoughtIds": [
+                "parmenides",
+                "parmenides-sayable",
+                "parmenides-thinking-being"
+              ],
+              "unmatchedThoughtIds": [
+                "parmenides-unchanging"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "parmenides",
+                "parmenides-sayable",
+                "parmenides-thinking-being",
+                "parmenides-unchanging"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "parmenides-unchanging"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Fragments_of_Parmenides",
+      "thoughtCount": 4
+    },
+    {
+      "id": "ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-mao-science/pasteur-life-devonshire-1920.txt",
+            "status": "failed",
+            "reason": "unit-too-large",
+            "message": "Selected unit ru-on-spontaneous-generation-whole-work-80e9bc01 has 1164619 characters",
+            "details": {
+              "characterCount": 1164619,
+              "maximumUnitCharacters": 600000
+            }
+          },
+          {
+            "source": "https://www.gutenberg.org/cache/epub/60956/pg60956-images.html",
+            "status": "failed",
+            "reason": "unit-too-large",
+            "message": "Selected unit ru-on-spontaneous-generation-whole-work-80e9bc01 has 1164426 characters",
+            "details": {
+              "characterCount": 1164426,
+              "maximumUnitCharacters": 600000
+            }
+          },
+          {
+            "source": "https://gallica.bnf.fr/ark:/12148/bpt6k215070d/f260.item",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-on-spontaneous-generation-whole-work-80e9bc01 has only 80 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-pasteur-airborne-contamination"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-pasteur-airborne-contamination"
+        ]
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/60956/pg60956-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-opticks-book-iii-2a775caf",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-opticks-book-iii-2a775caf",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-mao-science/newton-opticks-1718.txt",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched research/source-cache/completion-mao-science/newton-opticks-1718.txt",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-newton-analysis-synthesis"
+              ]
+            }
+          },
+          {
+            "source": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-newton-analysis-synthesis"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-newton-analysis-synthesis"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-newton-analysis-synthesis"
+        ]
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "locatorStructureKey": "book-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-the-subjection-of-women-chapter-i-de45861e",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-the-subjection-of-women-chapter-i-de45861e",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "mill-subjection-women"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "mill-subjection-women"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "mill-subjection-women"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f has only 34 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "james-fruits-not-origins"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "james-fruits-not-origins"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "lecture-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-theological-political-treatise-chapter-20-80467ac4",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-theological-political-treatise-chapter-20-80467ac4",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/992/992-h/992-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/992/992-h/992-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-state-end-freedom"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-state-end-freedom"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza-state-end-freedom"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-20",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/992/992-h/992-h.htm",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "details": {
+        "attempts": [
+          {
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b has only 9 characters"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "wittgenstein-picture-reality"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "major-propositions-2-and-4",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/2",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-utilitarianism-chapter-ii-6f8a19dc",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-utilitarianism-chapter-ii-6f8a19dc",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-utilitarianism-chapter-ii-6f8a19dc has only 34 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "mill-happiness-as-end",
+                "mill-higher-pleasures"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "mill-happiness-as-end",
+          "mill-higher-pleasures"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "thoughtCount": 2
+    }
+  ],
+  "failures": [
+    {
+      "id": "ru-astronomia-nova-chapter-19-89268069",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-astronomia-nova-chapter-19-89268069",
+      "libraryIds": [
+        "science"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/51555/pg51555-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/51555/pg51555-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/51555/pg51555-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-kepler-eight-minutes"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-kepler-eight-minutes"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-kepler-eight-minutes"
+        ]
+      }
+    },
+    {
+      "id": "ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-synthetic-a-priori"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-synthetic-a-priori"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "kant-synthetic-a-priori"
+        ]
+      }
+    },
+    {
+      "id": "ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-copernican-turn"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant-copernican-turn"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "kant-copernican-turn"
+        ]
+      }
+    },
+    {
+      "id": "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-amour-propre-comparison"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-amour-propre-comparison"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-amour-propre-comparison"
+        ]
+      }
+    },
+    {
+      "id": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-compassion-prior-to-reason",
+                "rousseau-perfectibility-double-edge"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-compassion-prior-to-reason",
+                "rousseau-perfectibility-double-edge"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-compassion-prior-to-reason",
+          "rousseau-perfectibility-double-edge"
+        ]
+      }
+    },
+    {
+      "id": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-metallurgy-agriculture-inequality",
+                "rousseau-property-enclosure"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-metallurgy-agriculture-inequality",
+                "rousseau-property-enclosure"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-metallurgy-agriculture-inequality",
+          "rousseau-property-enclosure"
+        ]
+      }
+    },
+    {
+      "id": "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-luxury-corrupts-virtue"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "rousseau-luxury-corrupts-virtue"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "rousseau-luxury-corrupts-virtue"
+        ]
+      }
+    },
+    {
+      "id": "ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10827/pg10827-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/10827/pg10827-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/10827/pg10827-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "machiavelli-conflict-liberty"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "machiavelli-conflict-liberty"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "machiavelli-conflict-liberty"
+        ]
+      }
+    },
+    {
+      "id": "ru-enchiridion-whole-work-f7640499",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-enchiridion-whole-work-f7640499",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "10/11 card anchors matched https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "details": {
+              "matchedThoughtIds": [
+                "epictetus",
+                "epictetus-actor-and-role",
+                "epictetus-banquet-metaphor",
+                "epictetus-control",
+                "epictetus-duties-from-relations",
+                "epictetus-price-of-tranquility",
+                "epictetus-return-what-was-given",
+                "epictetus-train-desire-first",
+                "epictetus-two-handles",
+                "epictetus-wish-events-as-they-are"
+              ],
+              "unmatchedThoughtIds": [
+                "epictetus-practice-not-display"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "epictetus",
+                "epictetus-actor-and-role",
+                "epictetus-banquet-metaphor",
+                "epictetus-control",
+                "epictetus-duties-from-relations",
+                "epictetus-practice-not-display",
+                "epictetus-price-of-tranquility",
+                "epictetus-return-what-was-given",
+                "epictetus-train-desire-first",
+                "epictetus-two-handles",
+                "epictetus-wish-events-as-they-are"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "epictetus-practice-not-display"
+        ]
+      }
+    },
+    {
+      "id": "ru-ethics-part-ii-3f8d8997",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-ethics-part-ii-3f8d8997",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-ethics-part-ii-3f8d8997 has only 44 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-mind-idea-of-body",
+                "spinoza-order-of-ideas-and-things"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza-mind-idea-of-body",
+          "spinoza-order-of-ideas-and-things"
+        ]
+      }
+    },
+    {
+      "id": "ru-ethics-part-iv-67d79bde",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-ethics-part-iv-67d79bde",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-ethics-part-iv-67d79bde has only 57 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza",
+                "spinoza-free-person",
+                "spinoza-good-as-relational"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza",
+          "spinoza-free-person",
+          "spinoza-good-as-relational"
+        ]
+      }
+    },
+    {
+      "id": "ru-ethics-part-v-bf548558",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-ethics-part-v-bf548558",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-ethics-part-v-bf548558 has only 61 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-understanding-affect"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza-understanding-affect"
+        ]
+      }
+    },
+    {
+      "id": "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "4/5 card anchors matched https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+            "details": {
+              "matchedThoughtIds": [
+                "heraclitus-character",
+                "heraclitus-conflict",
+                "heraclitus-logos",
+                "heraclitus-river"
+              ],
+              "unmatchedThoughtIds": [
+                "heraclitus"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "heraclitus",
+                "heraclitus-character",
+                "heraclitus-conflict",
+                "heraclitus-logos",
+                "heraclitus-river"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "heraclitus"
+        ]
+      }
+    },
+    {
+      "id": "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/5682/pg5682-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/5682/pg5682-images.html",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "1/3 card anchors matched https://www.gutenberg.org/cache/epub/5682/pg5682-images.html",
+            "details": {
+              "matchedThoughtIds": [
+                "kant-universal-law-test"
+              ],
+              "unmatchedThoughtIds": [
+                "kant",
+                "kant-autonomy-self-legislation"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "kant",
+                "kant-autonomy-self-legislation",
+                "kant-universal-law-test"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "kant",
+          "kant-autonomy-self-legislation"
+        ]
+      }
+    },
+    {
+      "id": "ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_29",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_29",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_29",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "hobbes-sovereignty"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "hobbes-sovereignty"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "hobbes-sovereignty"
+        ]
+      }
+    },
+    {
+      "id": "ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/61/61-h/61-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/61/61-h/61-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/61/61-h/61-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "marx-class-struggle"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "marx-class-struggle"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "marx-class-struggle"
+        ]
+      }
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes",
+                "descartes-wax-and-judgment"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes",
+                "descartes-wax-and-judgment"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes",
+          "descartes-wax-and-judgment"
+        ]
+      }
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-idea-of-the-infinite"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-idea-of-the-infinite"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes-idea-of-the-infinite"
+        ]
+      }
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-error-of-the-will"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-error-of-the-will"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes-error-of-the-will"
+        ]
+      }
+    },
+    {
+      "id": "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-existence-and-perfect-being"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "descartes-existence-and-perfect-being"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "descartes-existence-and-perfect-being"
+        ]
+      }
+    },
+    {
+      "id": "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "libraryIds": [
+        "psychology"
+      ],
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter5.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched research/source-cache/completion-psychology/ebbinghaus-memory-chapter5.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-ebbinghaus-meaning"
+              ]
+            }
+          },
+          {
+            "source": "https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-ebbinghaus-meaning"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-ebbinghaus-meaning"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "psychology-foundations-ebbinghaus-meaning"
+        ]
+      }
+    },
+    {
+      "id": "ru-monadology-whole-work-bf71c0f6",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-monadology-whole-work-bf71c0f6",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "4/8 card anchors matched https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+            "details": {
+              "matchedThoughtIds": [
+                "leibniz-identity",
+                "leibniz-perception-appetition",
+                "leibniz-possible-worlds",
+                "leibniz-two-truths"
+              ],
+              "unmatchedThoughtIds": [
+                "leibniz",
+                "leibniz-harmony",
+                "leibniz-perspectives",
+                "leibniz-windowless"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "leibniz",
+                "leibniz-harmony",
+                "leibniz-identity",
+                "leibniz-perception-appetition",
+                "leibniz-perspectives",
+                "leibniz-possible-worlds",
+                "leibniz-two-truths",
+                "leibniz-windowless"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "leibniz",
+          "leibniz-harmony",
+          "leibniz-perspectives",
+          "leibniz-windowless"
+        ]
+      }
+    },
+    {
+      "id": "ru-on-nature-whole-work-aaa8e8ca",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-on-nature-whole-work-aaa8e8ca",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Fragments_of_Parmenides",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/Fragments_of_Parmenides",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "3/4 card anchors matched https://en.wikisource.org/wiki/Fragments_of_Parmenides",
+            "details": {
+              "matchedThoughtIds": [
+                "parmenides",
+                "parmenides-sayable",
+                "parmenides-thinking-being"
+              ],
+              "unmatchedThoughtIds": [
+                "parmenides-unchanging"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "parmenides",
+                "parmenides-sayable",
+                "parmenides-thinking-being",
+                "parmenides-unchanging"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "parmenides-unchanging"
+        ]
+      }
+    },
+    {
+      "id": "ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "libraryIds": [
+        "science"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/60956/pg60956-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-mao-science/pasteur-life-devonshire-1920.txt",
+            "status": "failed",
+            "reason": "unit-too-large",
+            "message": "Selected unit ru-on-spontaneous-generation-whole-work-80e9bc01 has 1164619 characters",
+            "details": {
+              "characterCount": 1164619,
+              "maximumUnitCharacters": 600000
+            }
+          },
+          {
+            "source": "https://www.gutenberg.org/cache/epub/60956/pg60956-images.html",
+            "status": "failed",
+            "reason": "unit-too-large",
+            "message": "Selected unit ru-on-spontaneous-generation-whole-work-80e9bc01 has 1164426 characters",
+            "details": {
+              "characterCount": 1164426,
+              "maximumUnitCharacters": 600000
+            }
+          },
+          {
+            "source": "https://gallica.bnf.fr/ark:/12148/bpt6k215070d/f260.item",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-on-spontaneous-generation-whole-work-80e9bc01 has only 80 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-pasteur-airborne-contamination"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-pasteur-airborne-contamination"
+        ]
+      }
+    },
+    {
+      "id": "ru-opticks-book-iii-2a775caf",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-opticks-book-iii-2a775caf",
+      "libraryIds": [
+        "science"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-mao-science/newton-opticks-1718.txt",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched research/source-cache/completion-mao-science/newton-opticks-1718.txt",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-newton-analysis-synthesis"
+              ]
+            }
+          },
+          {
+            "source": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-newton-analysis-synthesis"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-newton-analysis-synthesis"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-newton-analysis-synthesis"
+        ]
+      }
+    },
+    {
+      "id": "ru-the-subjection-of-women-chapter-i-de45861e",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-the-subjection-of-women-chapter-i-de45861e",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "mill-subjection-women"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "mill-subjection-women"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "mill-subjection-women"
+        ]
+      }
+    },
+    {
+      "id": "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f has only 34 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "james-fruits-not-origins"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "james-fruits-not-origins"
+        ]
+      }
+    },
+    {
+      "id": "ru-theological-political-treatise-chapter-20-80467ac4",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-theological-political-treatise-chapter-20-80467ac4",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/992/992-h/992-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/992/992-h/992-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/992/992-h/992-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-state-end-freedom"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "spinoza-state-end-freedom"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "spinoza-state-end-freedom"
+        ]
+      }
+    },
+    {
+      "id": "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/2",
+      "details": {
+        "attempts": [
+          {
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b has only 9 characters"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "wittgenstein-picture-reality"
+        ]
+      }
+    },
+    {
+      "id": "ru-utilitarianism-chapter-ii-6f8a19dc",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-utilitarianism-chapter-ii-6f8a19dc",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-utilitarianism-chapter-ii-6f8a19dc has only 34 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "mill-happiness-as-end",
+                "mill-higher-pleasures"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "mill-happiness-as-end",
+          "mill-higher-pleasures"
+        ]
+      }
+    }
+  ]
+}

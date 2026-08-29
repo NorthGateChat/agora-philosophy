@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-pasteur-on-fermentation-whole-work-9445b6df",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《巴斯德论发酵》",
+  "englishWork": "Pasteur on Fermentation",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 公版英译与原刊扫描，巴斯德《巴斯德论发酵》，《大众科学月刊》第7卷（1875年10月），L. A. Stimson 英译，第711—712页；卡片从接种后液体变化与显微观察段落摘录，所有跨段删节均以省略号标明",
+  "englishVersion": "Wikisource public-domain translation and original journal scan, Pasteur, Pasteur on Fermentation, Popular Science Monthly, vol. 7 (October 1875), L. A. Stimson translation, pp. 711–712; excerpts from the post-inoculation changes and microscopy passages, with every internal omission marked by an ellipsis",
+  "sourceUrl": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_7/October_1875/Pasteur_on_Fermentation",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_7/October_1875/Pasteur_on_Fermentation",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Popular+Science+Monthly%2FVolume+7%2FOctober+1875%2FPasteur+on+Fermentation&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "b912e88de9eff954a3079ed26a88628b8b8d0c2aa32ef439e4f9c062ce74d39c"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "1b17b6efd7b6841af67e47d54eb71b1abea27f8c59a85ea22ce1844ee98e0908",
+  "inputHash": "50ac85cf0dab824bfd23a79b76ebe012f6b8bd8f4fb63d021b952fe96f8d3f37",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "PASTEUR ON FERMENTATION. [ 1 ]"
+    },
+    {
+      "id": "p0002",
+      "text": "TRANSLATED BY L. A. STIMSON, M.L."
+    },
+    {
+      "id": "p0003",
+      "text": "D URING the months of March and April a spirited discussion took place in the Académie de Médicine, at Paris, on fermentation and kindred subjects, in the course of which M. Pasteur was called upon again to sustain and develop his theory of this process, which is now so generally accepted. His share in the discussion was marked by the brilliancy of exposition and accuracy of experiment which have made him perhaps the most formidable debater among our modern savants . We have not here the space to speak of the certainty with which he seizes upon the central point of the discussion, and the tenacity with which he clings to it, the rapidity with which he exposes the weak points of an adversary's argument, and the absolute confidence shared even by his bitterest opponents in the accuracy of his experiments and statements. What now follows is the substance of two papers read by M. Pasteur, which have been condensed in the translation only so much as was rendered necessary by the limited space which could be given them."
+    },
+    {
+      "id": "p0004",
+      "text": "M. Pasteur: At the last meeting of the Academy, M. Bouillaud asked me the following question: \"What are the ferments of the ferments?\""
+    },
+    {
+      "id": "p0005",
+      "text": "Before entering into the details required by the answer to this question, it is indispensable that I recall the results communicated by me to the Académie des Sciences a week ago, for it is a question of life under circumstances hitherto ignored. The gist of the communication to which I refer lies in this proposition—the expression of rigorously-conducted experiments—that there are circumstances under which life may appear and be kept up without the presence of air, and consequently with the entire absence of free oxygen."
+    },
+    {
+      "id": "p0006",
+      "text": "Here is a 3-litre flask containing 75 grammes of pure lactate of lime, about half a gramme of the phosphate of ammonia, about 0.4 gramme of the phosphate of potash, 0.3 of the chloride of magnesium, 0.2 of the sulphate of ammonia, and a very small quantity of the sulphate of soda. We may substitute advantageously for all, except the lactate, a salt of ammonia and the ashes of an inferior organism, brewer's yeast, for example."
+    },
+    {
+      "id": "p0007",
+      "text": "We boil the liquid contained in the flask, while the extremity of this curved tube, which is so placed that it will collect all the gases that may be liberated, is plunged below the surface of another portion of the same liquid contained in another vessel, which is also boiled at"
+    },
+    {
+      "id": "p0008",
+      "text": "the same time. The object of this operation is to deprive the contents of the flask entirely of air. We then let it cool and carry the curved end of the tube into a vessel filled with mercury."
+    },
+    {
+      "id": "p0009",
+      "text": "This liquid thus arranged would remain inert forever, either protected from contact with the air, as it now is, or in contact with it, provided the air were entirely free from organic dust. Nevertheless it is suitable for the nourishment of certain beings, notwithstanding its purely mineral composition. But life is absent and would remain absent forever, because that which constitutes essentially the life of those beings, for the nourishment of which this liquid is appropriate, has not been added. Let us then introduce life there, let us sow vibrios in it. We place in the little funnel which surmounts the straight tube of our flask, the one closed by a glass faucet, a small quantity of one of those organic liquids in which vibrios are found after exposure to the air; or, better yet, and that is what has been done here, let us place in the funnel some liquid, the same exactly as that contained in the flask, but which has been exposed to the air and in which vibrios have appeared. Let us now turn the faucet and introduce a few drops with their vibrios into the flask."
+    },
+    {
+      "id": "p0010",
+      "text": "Singular phenomena appear soon after this sowing of life in our mineral solution. The liquid, which was as limpid as distilled water, becomes little by little opalescent during the following days, and at the same time gases are set free and rise in the form of small bubbles to the top of the flask. This gas is a mixture of hydrogen and carbonic acid, and at the same time the lactic acid is transformed into butyric acid, which unites with a part of the lime of the lactate, the rest of which combines with the carbonic acid. It is a real putrefaction of the lactic acid which has taken place, but a putrefaction without putridity, for the lactic acid contains neither sulphur nor phosphorus, those elements of offensive gaseous combinations which are deleterious for man but inoffensive for vibrios. No, I am wrong: putridity shows itself, but in so slight a degree that it is almost inappreciable. Phosphorus and sulphur are present in the phosphates and sulphates; these are decomposed, hence a slight odor and even quite frequently a gray color given to the precipitate, probably by a little sulphuret of iron, for iron is almost always present, even in the purest materials."
+    },
+    {
+      "id": "p0011",
+      "text": "Whence come all these mysterious transformations? Microscopical examination of a drop of this liquid which has lost its primitive limpidity will tell us. Wonderful spectacle! Beings in the form of small rods go and come, stop and recommence their movements. They are single or united in pairs, twos, threes, and even more. Here are a pair which separate from one another by a sort of effort, more or less prolonged on the part of the two individuals composing it. And now each half has its own movements; this is generation by scission. Now I know why the liquid is milky. What our eyes in their weakness call milkiness the microscope shows us is a consequence of the life of these little beings and of their incessant movements. And the experiment, patiently followed out, will tell us that the life lasts as long as does the principal food of our little beings, that is, the lactic acid of the lactate of lime, provided always that all the other general conditions of existence be satisfied; for it is not enough to have food at our disposal, we must be able to assimilate it, and it is necessary that the functional trouble which you call pathology should not come to interfere with life and health. In a moment, if you choose, I will make them ill, all these little beings."
+    },
+    {
+      "id": "p0012",
+      "text": "We have not finished with the peculiarities of our experiment, which will appear the more remarkable and instructive as you study it more closely. Let us weigh the vibrios that have been formed when the process ceases, when all internal movement has disappeared, and when they have fallen inert to the bottom of the flask, because they have exhausted their principal food, the lactic acid, transforming it into butyric acid, which is absolutely unfit for their existence, you will know why in a moment when I describe fermentible materials. Let us compare this weight of the vibrios with that of the 75 grammes of the transformed lactate of lime. The difference is considerable. I cannot now give you the exact figures, but the proportion is at the most as 1 to 200. What does that mean? an agent which causes the decomposition of a weight of matter 200 times as great as itself! But that is the characteristic of the phenomena to which chemists have given the name phenomena of fermentation. Yes, we have had to do with a real fermentation, in which the lactic acid is the fermenting substance and the vibrios the ferment."
+    },
+    {
+      "id": "p0013",
+      "text": "Who would dare now to maintain that fermentations are phenomena of contact, phenomena of movement communicated by an albuminoid substance which is undergoing change, or of phenomena produced by semi-organized substances which are being transformed into this or into that? All these scaffoldings built by the imagination crumble before our experiment, so simple and so demonstrative."
+    },
+    {
+      "id": "p0014",
+      "text": "Still, the most essential and, so to speak, dominant circumstance in our experiment has not yet been introduced, and it is time for me to submit it to your attention."
+    },
+    {
+      "id": "p0015",
+      "text": "We prepared at the beginning a nutritive liquid, deprived entirely of air and protected from contact with it; we then sowed vibrios in it, and, during the weeks that have elapsed, our liquid has never been uncovered. Nevertheless, the vibrios have multiplied infinitely. Here, then, is life—that is to say, nutrition and generation—without the slightest aid from air or free oxygen. And in this experiment two things have marched side by side, life without air and fermentation. Ah, if that was a general phenomenon; if life as we know it, with absorption of free oxygen, was not accompanied by fermentation properly so called; if the weight of assimilated food corresponded to that of food ingested and used under the influence of respiration; and if, on the other hand, life without air was always associated with fermentation; if, in the latter case, life resulted in the transformation of an enormous weight of food as compared with the weight of the nutritive assimilation—should we not have raised the veil of these mysterious phenomena of fermentation?"
+    },
+    {
+      "id": "p0016",
+      "text": "From the moment it should be established that there is correlation between the fact of life without air and the fact of fermentation, should we not have discovered the cause of this important phenomenon? The real causes of phenomena escape us. In sound philosophy the word cause should be reserved for the divine impulse which formed the universe. We can detect only correlations. One phenomenon succeeds another, and cannot exist without its manifestation; by abuse of language we then say there is relation of cause and effect."
+    },
+    {
+      "id": "p0017",
+      "text": "Well, it is so. This phenomenon is general. Yes, when there is life without air, there is fermentation, and when there is fermentation there is life without air."
+    },
+    {
+      "id": "p0018",
+      "text": "We all know that fruits detached from the tree and exposed to the air live, if we may so express it, like animals and certain inferior plants, for they absorb the free oxygen which surrounds them, and exhale a volume of carbonic-acid gas about equal to that of the oxygen which is introduced into their cells to produce in them certain manifestations of life, for the fruit continues to ripen. That being admitted, let us place a fruit, not in the air, but in carbonic-acid gas. Of two things, one, life, or, if you prefer, a certain chemical process, will go on in the cells of the fruit, or all chemical change will be absolutely suspended. If the latter hypothesis should be realized the fruit would remain inert, intact, and we should there have an admirable means for the preservation of fruit. But this is not the case: experiment proves that it is the first hypothesis which is realized; the simplest observation shows that fruit plunged into an atmosphere of carbonic-acid gas is modified more or less profoundly. Plums, for example, become hard and woody, and the grape takes exactly the flavor of the vintage. Where, then, have the cells of the fruit, in order to accomplish this chemical work, which, like all other work, requires the consumption of heat—where, I repeat, have they found the heat needed for these modifications, for this sort of life continued under abnormal conditions? Certainly it does not come from combustion, due to free oxygen, as when the fruit is suspended in ordinary air, for in this atmosphere of carbonic-acid gas there is no free oxygen. This heat, indispensable to the phenomena which observation detects, is furnished by the decomposition of sugar. The position is the same as in the case of the decomposition of sugar in the presence of yeast-cells living without air. This decomposition of the sugar is manifested in the fruit by the production of alcohol and of carbonic acid. Here the ferment is the cell of the parenchyma of the fruit. There is in this cell a life kept up, or a chemical process accomplished, without air; according to our theory, fermentation should be present there, and experiment shows that it is. The theory, then, receives from this fact an extension and a generalization which increase and strengthen it."
+    },
+    {
+      "id": "p0019",
+      "text": "That is why in my last communication to the Académie des Sciences I expressed myself thus: \"Every being, every organ, every cell which has the faculty of accomplishing a chemical process without using free oxygen gas, produces at once phenomena of fermentation.\""
+    },
+    {
+      "id": "p0020",
+      "text": "I have not yet made the experiments, but every thing leads me to believe that animal cells should act like vegetable ones. Death cannot suppress instantly the reaction of the solids and liquids in the organism. I am convinced, but it is as yet only a preconceived idea, that on asphyxiating an animal suddenly there should appear here and there, and perhaps in all parts of his body, acts of fermentation whose slight duration or intensity have prevented their detection hitherto. Perhaps I may soon bring before this Academy the result of an experiment which would consist in tying firmly the limb of an animal so as to stop the circulation in it, and then plunging it into an atmosphere of carbonic-acid gas. What will take place in this limb thus stricken with death? A sort of physical and chemical life, if I may so speak, will continue and will probably manifest itself by phenomena of gangrene which I have long considered as having but distant connections with putrefaction, and which, in my opinion, might be classed with the phenomena offered by a fruit detached from the tree which bore it."
+    },
+    {
+      "id": "p0021",
+      "text": "I shall now answer M. Bouillaud's question, \"What are the ferments of the ferments?\" In other words, \"How can the ferments which are living beings, and which contain materials of the same order as those of all living beings, decompose after the decompositions which they have themselves provoked? How can they be destroyed and disappear, or at least be reduced to the germs alone, which are eternal, so much at least as life may be eternal on the surface of the earth? How can the materials which compose them become gaseous and return to the atmosphere in the more or less mineral forms of vapor, carbonic-acid gas, hydrogen, nitrogen, ammonia, etc.?\""
+    },
+    {
+      "id": "p0022",
+      "text": "Although in the transformations to which I allude, and which will now occupy us, Nature obeys a very small number of perfectly-determined general laws, the phenomena present an infinite variety in the details, and if I wished to include all the forms of the return to the air or soil of organic matter after death, it would require time and space which are not at my disposal; but as amid the thousand variations of the phenomena a very small number of laws preside over their manifestation, as these laws are found in all the individual cases, I cannot answer the question of our illustrious associate better than by taking a definite example, following it through all its phases, and then adding, \" ab uno disce omnes. \""
+    },
+    {
+      "id": "p0023",
+      "text": "I shall take the return to the atmosphere, and to the soil, of one of the most precious fruits of the earth, the grape, and, far from restricting the difficulty, I shall take it in its greatest complexity. It is unnecessary to say that instead of the grape I might have taken any other woody or leafy organ, either of the vine or of any other plant, and you will also understand that this example embraces the destruction of all the species by which life is manifested upon the face of the earth."
+    },
+    {
+      "id": "p0024",
+      "text": "If I should describe the destruction of a single grape, abandoned to itself, I should show you only one of the laws of the phenomena; but there are two principal ones, and in order to pass them both in review I shall suppose that all the fruits of a vineyard have been gathered and placed in a gigantic heap, in an immense reservoir, as large as a mountain, if you choose. Under the influence of the weight the grapes are separated from the stems, broken more or less, and allow their contents to escape in the form of a sugary liquid. By a fortunate coincidence (which M. Colin might at his ease and by the aid of sentiment look upon as an express desire of Providence to furnish man what is called wine), it happens that at the period of the maturity of the grape its surface and that of the stems are covered here and there in the form of a fine dust by an extraordinary number of the germs of a small cellular plant which has the faculty, its germination once commenced, under the influence of a very small quantity of air, to multiply indefinitely in the entire absence of free oxygen gas—this was proved at our last meeting—and to provoke, correlatively with its life, the decomposition of sugar into carbonic-acid gas which is set free, and an alcohol which remains in solution in the liquid."
+    },
+    {
+      "id": "p0025",
+      "text": "In the must of the grape the principal substance, after the water, is the sugar; it constitutes 20.25 parts in 100, sometimes even more; now, the decomposition accomplished by the ferment of which we have just spoken eliminates in the form of carbonic-acid gas more than half of this sugar, and thus a considerable portion of the organic matter of the grape returns to the atmosphere."
+    },
+    {
+      "id": "p0026",
+      "text": "This singular phenomenon, which has struck the imagination of men ever since the beginning of the world, is accompanied by an intense heat and a bubbling of the whole mass, but as the sugar disappears the movement slowly ceases. As soon as quiet is restored, our immense cask is found to be filled with an alcoholic liquid which is the habitual drink of men living in southern countries. Scarcely has the carbonic-acid gas ceased to escape, when an attentive eye sees a pellicle form upon the surface, a pellicle which is extremely thin and insignificant in appearance, but in which reside a new life and new phenomena well worth our attention: this pellicle is formed of a mycodermic plant (of two, in fact, but for the sake of brevity I shall consider only one) which, strictly speaking, we might class with that one which has just flourished in our cask and decomposed the sugar, but which has now fallen inert to the bottom. Still, if our two little plants resemble one another in their anatomical structure, they are very different physiologically. The cells of the ferment which destroyed the sugar lived and multiplied without air; the new cells, on the other hand, spread over the surface of the liquid in an unbroken pellicle, cannot live without the aid of the oxygen of the air. Furthermore, they fix this oxygen upon the alcohol contained in the wine according to the following equation: 46 parts, by weight, of alcohol unite with 32 parts of oxygen to form 60 parts of acetic acid and 18 parts of water. The combustion which results from the taking up of these 32 parts of oxygen is such that the whole surface of the liquid to a certain depth shows a temperature several degrees higher than that of the deeper portions; clouds of vapor rise above the cask, clouds formed mainly of steam, mingled with a few odorous products and some vapor of acetic acid. Little by little all these external phenomena diminish and finally cease entirely, and the mycodermic pellicle falls inert to join the preceding ferment at the bottom of the reservoir. And now instead of a reservoir of wine we have a reservoir of vinegar, in which our learned colleague may again see, at his leisure, and still sentimentally, a result of divine foresight, in the form of a final cause."
+    },
+    {
+      "id": "p0027",
+      "text": "But let us continue. Our task—that is, the determination of the return of the organic matter to the atmosphere and to the soil—has been very little furthered by the second phase of the phenomena which we have just described; the alcohol, 100 parts of which contain more than 52 parts of carbon, more than 13 parts of hydrogen, and nearly 35 parts of oxygen, all coming from the original sugar, has indeed disappeared and given place to the acetic acid, but the matter has not become gaseous, it has not returned to the atmosphere as it partly did at the beginning. All the carbon of the alcohol has remained in the newly-formed acetic acid."
+    },
+    {
+      "id": "p0028",
+      "text": "Notice what now takes place in our immense reservoir of vinegar, at the bottom of which lie heaped together the stems, the pellicle, the pits, the cells, the parenchyma of the fruit, and our two ferments, the wine-yeast and the vinegar-yeast. The quiet of which I spoke, and which was established a moment ago, has not lasted long: the ferment of the vinegar (and the fact is very curious) which has just fallen to the bottom of the cask, exhausted by the immense chemical work which it has produced, rendered inert by the sharp combustion of which it has been the seat, reappears, little by little, on the surface of our acid liquid, always in the form of a very thin pellicle; and, little by little, again the upper strata of the vinegar heat, and again clouds rise above the liquid. These clouds are no longer composed solely of the vapor of water; the latter is still very abundant in them, but it is mingled with torrents of carbonic-acid gas, and this remarkable phenomenon continues as long as any acetic acid remains in the liquid; in other words, after the vinegar ferment, an aërobic ferment—one needing air—has burned the alcohol and turned it into water and acetic acid, it burns the latter and turns it into water and carbonic acid. It also burns the original acids of the grape."
+    },
+    {
+      "id": "p0029",
+      "text": "This time, that is, in the third phase of the phenomena, the return to the atmosphere has gone on rapidly: all the carbon, all the hydrogen, all the oxygen of the original sugar, are now in suspension in the air in the gaseous state, ready to be borne away by the winds-and again to enter into the cycle of life under the influence of the beneficent heat of the sun. It is here that I would place the providential idea, not sentimentally only, this time, but by a real and serious scientific deduction, and because it seems to me that we have seized one of the great laws of Nature."
+    },
+    {
+      "id": "p0030",
+      "text": "Let us return a little upon our steps and see where we are. What is the condition of our liquid mass? It is now only water holding in solution a very small quantity of mineral or organic substances. Evaporation would promptly reduce the whole mass to the deposit of which I spoke a moment ago, and which is lying at the bottom of the vessel, the wine-yeast, the vinegar-yeast in two portions, that which formed the vinegar and that which destroyed it, together with the stems and skins of the grapes."
+    },
+    {
+      "id": "p0031",
+      "text": "What is going to take place in this liquid mass, no longer acid, but neutral now, in which there is held in solution only a little mineral and nitrogenized matter, which, it is true, is always ready to be renewed, at least for a long time, by the help of the materials at the bottom, which, thus far, have undergone nothing but simple maceration?"
+    },
+    {
+      "id": "p0032",
+      "text": "Pressed for time, I was only able at our last meeting to begin my answer to M. Bouillaud, and to do that even in terms so far removed from the subject that you must have found it difficult to understand the connection of the phenomena then described with the real object of the question. This connection, prepared by what has preceded, will now seem very clear."
+    },
+    {
+      "id": "p0033",
+      "text": "Have we not reached a point in the succession of the grand natural phenomena which I am passing in review, at which we have to deal with a liquid of absolutely the same kind as that which I showed you at our last meeting, and one which is even more suitable for the phenomena of putrefaction of which I then spoke? If the liquid of our great reservoir is now formed of distilled water, phosphates, chlorides, and sulphates, there is at the bottom, to replace the lactate of lime of last Tuesday's experiment, a collection of carbonized or nitrogenized substances much better fitted than lactic acid to supply the carbonic food suitable for the development of the vibrios."
+    },
+    {
+      "id": "p0034",
+      "text": "And, in fact, scarcely has the last mycodermic pellicle fallen to the bottom, scarcely have a new death and a new quiet fallen upon our liquid, scarcely has it lost all acidity, when, little by little, it becomes cloudy throughout; germs floating in the air have brought to it a new life, not one like those which you have seen precede it, but another, one rendered possible by the neutral character of the new liquid. The whole surface becomes covered by a layer of fatty, mucilaginous aspect. In the deeper portions, throughout the whole mass, as I said, we see a milky cloudiness; at the same time an infectious and very deleterious odor announces, even at a distance, the putrefaction and the danger. It is thus that a part of the sulphur, phosphorus, and nitrogen of the sulphates, phosphates, and nitrogenized substances, return to the atmosphere in the form of gaseous products, but they will not long remain deleterious, for the oxygen of the air decomposes them incessantly, and transforms them into gaseous products useful to vegetation."
+    },
+    {
+      "id": "p0035",
+      "text": "I spoke of a fatty, humid pellicle, formed on the surface, and of a milky cloudiness, occupying the whole mass: examine the pellicle under the microscope; the smallest fragment of it shows us millions of bacteria; below it, even in the deepest layers, a drop of the liquid presents the vibrios of putrefaction without a trace of bacteria. The bacteria are only on the surface, because they are aërobic, that is, they need air to live; the vibrios are below, because they do not need air to live, and, indeed, the layer of bacteria protects them against the approach of the oxygen gas which would be fatal to them if too much of it were held in solution by the liquid."
+    },
+    {
+      "id": "p0036",
+      "text": "While the vibrios transform a large part of the solid materials macerating in our liquid into the gaseous products of putrefaction, the bacteria of the surface fix a considerable amount of the oxygen of the air upon the carbonic substances held in solution, and now again large quantities of carbonic-acid gas are set free. But, little by little, the medium which at first was so suitable for the nourishment of bacteria and vibrios becomes less so, a change which is announced, especially as to the bacteria, by a steadily-decreasing appropriation of the oxygen of the air; then appear, here and there, on the surface of the fatty pellicle, greenish, glaucous spots which increase as life becomes less active in the bacteria. These spots are spots of mould, new aerobic beings like the bacteria, and which find in the latter an appropriate food; little by little, the whole surface of the liquid will thus become covered by differently-colored moulds. Like the bacteria and the mycodermic pellicles, these moulds also cause much oxygen to combine with the subjacent substances which serve as their food, and again carbonic-acid gas is set free."
+    },
+    {
+      "id": "p0037",
+      "text": "You see, then, that the substances dissolved in the liquid of our reservoir and deposited upon its bottom are constantly becoming gaseous and mineral. But during the continuance of all these phenomena, which last for months or for years according to the quantity of original material and the state of the atmosphere, an incessant evaporation, much increased by the heat of the successive combustions of which the surface of the liquid has been the theatre, has removed most of the water contained in the reservoir, and the latter dries, leaving on the bottom an insignificant quantity of each of the substances originally deposited there; but the combustions go on: here by the moulds, there by bacteria, monads, kolpods. When a mould has exhausted, if we may so call it, the appropriation for its life furnished by that portion of the surface or of the material upon which it has lived, it is replaced by another to which, in turn, it serves as food. And observation shows that, so long as there remains any organic matter which can furnish carbon, the life of the moulds or of the infusoria is prolonged, but always with the result of setting free, in the form of carbonic acid-gas, a part of the carbon, while the life draws its other materials from the mineral salts and from the nitrogen of the ammonia compounds. The saline substances indeed are very abundant, for at no time have they been able to take on the gaseous form. And, finally, what remains? 1. Ashes, as if fire had been applied to the matter, for these slow successive combustions have produced the effect of fire; 2. The last germs of the last beings which lived upon the remains of their fellows. The mineral substances are ready to return to the soil, the organic matter has passed into the air, and when all shall have become dry the spores of the moulds and the cysts of the infusoria will be borne away upon the wings of the wind, to recommence, elsewhere, their work of life and of destruction of life."
+    },
+    {
+      "id": "p0038",
+      "text": "The ferments, and especially the aërobic ferments or the beings which are like them, are then the ferments of the ferments."
+    },
+    {
+      "id": "p0039",
+      "text": "After the anaërobic ferments have commenced the disorganization of the material, the aërobic beings intervene and burn the organic matter as completely as it would be burned by fire—more slowly, it is true, but of what importance is time in the work of destruction by the life of germs?—for it is in them alone that resides the perpetuity of the life of microscopic beings."
+    },
+    {
+      "id": "p0040",
+      "text": "↑ Bulletin de l'Académie de Médicine, 2d and 9th of March, 1875."
+    }
+  ],
+  "anchors": {
+    "science-pasteur-fermentation": {
+      "paragraphId": "p0010",
+      "start": 0,
+      "end": 299,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0010",
+          "start": 0,
+          "end": 299,
+          "text": "Singular phenomena appear soon after this sowing of life in our mineral solution. The liquid, which was as limpid as distilled water, becomes little by little opalescent during the following days, and at the same time gases are set free and rise in the form of small bubbles to the top of the flask."
+        },
+        {
+          "paragraphId": "p0011",
+          "start": 50,
+          "end": 153,
+          "text": "Microscopical examination of a drop of this liquid which has lost its primitive limpidity will tell us."
+        },
+        {
+          "paragraphId": "p0011",
+          "start": 573,
+          "end": 729,
+          "text": "What our eyes in their weakness call milkiness the microscope shows us is a consequence of the life of these little beings and of their incessant movements."
+        }
+      ],
+      "quote": "Singular phenomena appear soon after this sowing of life in our mineral solution. The liquid, which was as limpid as distilled water, becomes little by little opalescent during the following days, and at the same time gases are set free and rise in the form of small bubbles to the top of the flask. … Microscopical examination of a drop of this liquid which has lost its primitive limpidity will tell us. … What our eyes in their weakness call milkiness the microscope shows us is a consequence of the life of these little beings and of their incessant movements."
+    }
+  }
+}

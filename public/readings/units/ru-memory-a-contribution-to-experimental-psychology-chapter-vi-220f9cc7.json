@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-memory-a-contribution-to-experimental-psychology-chapter-vi-220f9cc7",
+  "title": "章 VI",
+  "englishTitle": "Chapter VI",
+  "work": "《记忆：对实验心理学的贡献》",
+  "englishWork": "Memory: A Contribution to Experimental Psychology",
+  "locator": "章 VI",
+  "englishLocator": "Chapter VI",
+  "version": "约克大学心理学经典文库，Henry A. Ruger 与 Clara E. Bussenius 1913 年公版英译，《记忆：对实验心理学的贡献》第 6 章第 22 节，连续节录",
+  "englishVersion": "York University Classics in the History of Psychology, Henry A. Ruger and Clara E. Bussenius public-domain translation (1913), Memory: A Contribution to Experimental Psychology, Chapter VI, §22, continuous excerpt",
+  "sourceUrl": "https://psychclassics.yorku.ca/Ebbinghaus/memory6.htm",
+  "source": {
+    "contentType": "text/html",
+    "sha256": "ab1f40ab70c03db03aa6656db02f8e1ca1dd828fd2b3bdc8c021d4f495187c25"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "95c92486ca9dd1aaf6207c12542a0402c1713367a15cf7cd6b948c7d1a8d8bfc",
+  "inputHash": "88fde30d5c2d69f91d6e15118ad6b62270eacbf673cc176b851f3b288537924f",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER VI"
+    },
+    {
+      "id": "p0002",
+      "text": "RETENTION AS A FUNCTION OF THE NUMBER OF REPETITIONS"
+    },
+    {
+      "id": "p0003",
+      "text": "Section 22. Statement of the Problem"
+    },
+    {
+      "id": "p0004",
+      "text": "The result of the fourth chapter was as follows: When in repeated cases I memorised series of syllables of a certain length to the point of their first possible reproduction, the times (or number of repetitions) necessary differed greatly from each other, but the mean values derived from them had the character of genuine constants of natural science. Ordinarily, therefore, I learned by heart homogeneous series under similar conditions with, on the average, a similar number of repetitions. The large deviations of the separate values from each other change the total result not at all; but it would require too much time to ascertain with exactness the number necessary for greater precision in detail."
+    },
+    {
+      "id": "p0005",
+      "text": "What will happen, it may be asked, if the number of repetitions actually given to a certain series is less than is required for memorisation or if the number exceeds the necessary minimum?"
+    },
+    {
+      "id": "p0006",
+      "text": "The general nature of what happens has already been described. Naturally the surplus repetitions of the latter alternative do not go to waste. Even though the immediate effect, the smooth and errorless reproduction, is not affected by them, yet they are not without significance in that they serve to make other such reproductions possible at a more or less distant time. The longer a person studies, the longer he retains. And, even in the first ease, something evidently occurs even if the repetitions do not suffice for a free reproduction. By them a way is at least opened for the first errorless reproduction, and the disconnected, hesitating, and faulty reproductions keep approximating more and more to it."
+    },
+    {
+      "id": "p0007",
+      "text": "These relations can be described figuratively by speaking of the series as being more or less deeply engraved in some mental substratum. To carry out this figure: as the number of repetitions increases, the series are engraved more and more deeply and indelibly; if the number of repetitions is small, the inscription is but surface deep and only fleeting glimpses of the tracery can be caught; with a somewhat greater number the inscription can, for a time at least, be read at will; as the number of repetitions is still further increased, the deeply cut picture of the series fades out only after ever longer intervals."
+    },
+    {
+      "id": "p0008",
+      "text": "What is to be said in case a person is not satisfied with this general statement of a relation of dependence between the number of repetitions and the depth of the mental impression obtained, and if he demands that it be defined more clearly and in detail? The thermometer rises with increasing temperature, the magnetic needle is displaced to an increasing angle as the intensity of the electric current around it increases. But while the mercury always rises by equal spaces for each equal increase in temperature, the increase of the angle showing the displacement of the magnetic needle becomes less with a like increase in the electric current. Which analogy is it which holds for the effect of the number of repetitions of the series to be memorised upon the depth of the resulting impression? Without further discussion shall we make it proportional to the number of repetitions, and accordingly say that it is twice or three times as great when homogenous series are repeated with the same degree of attention twice or thrice as many times as are others? Or does it increase less and less with each and every constant increase in the number of repetitions? Or what does happen?"
+    },
+    {
+      "id": "p0009",
+      "text": "Evidently this question is a good one; its answer would be of theoretical as well as practical interest and importance. But with the resources hitherto at hand it could not be answered, nor even investigated. Even its meaning will not be quite clear so long as the words \"inner stability\" and \"depth of impression\" denote something indefinite and figurative rather than something clear and objectively defined."
+    },
+    {
+      "id": "p0010",
+      "text": "Applying the principles developed in section 5, I define the inner stability of a series of ideas -- the degree of its retainability -- by greater or less readiness with which it is reproduced at some definite time subsequent to its first memorisation. This readiness I measure by the amount of work saved in the relearning of any series as compared with the wok necessary for memorising a similar but entirely new series."
+    },
+    {
+      "id": "p0011",
+      "text": "The interval of time between the two processes of memorisation is of course a matter of choice. I chose 24 hours."
+    },
+    {
+      "id": "p0012",
+      "text": "Since in the case of this definition we are not trying to settle a matter of general linguistic usage, it cannot be properly asked whether it is correct, but only whether it serves the purpose, or, at the most, whether it is applicable to the indefinite ideas connected with the notion of different depths of mental impression. The latter will probably be granted But nothing can be said in advance as to how well it fulfills its purpose. That can be judged only after more extensive results have been obtained. And the character of the judgment will depend to a great extent on whether the results obtained with the help of this means of measurement fulfill the primary demand which we make with reference to any system of measurement. It consists in this, -- that if any change whatever is made in the controllable conditions of that scale, the results obtained by the scale in its new form can be reduced to those of the old form by multiplication by some one constant. In our present case, for example, it would consequently be necessary to know whether the character of the results would remain the same if any other interval had been employed instead of that of 24 hours, arbitrarily chosen for measuring the after-effect of repetitions, or whether as a consequence the entire rationale of the results would be different, just as the absolute values are necessarily different. Naturally, this question cannot be decided a priori."
+    },
+    {
+      "id": "p0013",
+      "text": "For ascertaining the relation of dependence between the increase in the number of repetitions of a series and the ever deeper impression of it which result, I have formulated the problem as follows: If homogeneous series are impressed to different extents as a result of different numbers of repetitions, and then 24 hours later are learned to the point of the first possible reproduction by heart, how are the resulting savings in work related to each other and to the corresponding number of former repetitions?"
+    },
+    {
+      "id": "p0014",
+      "text": "Section 23. The Tests and their Results"
+    },
+    {
+      "id": "p0015",
+      "text": "In order to answer the question just formulated, I have carried out 70 double tests, each of six series of 16 syllables each. Each double test consisted in this, that the separate series -- each for itself -- were first read attentively a given number of times (after frequently repeated readings they were recited by heart instead of read), and that 24 hours later I relearned up to the point of first possible reproduction the series thus impressed and then in part forgotten. The first reading was repeated 8, 16, 24, 32, 42, 53, or 64 times."
+    },
+    {
+      "id": "p0016",
+      "text": "An increase of the readings used for the first learning beyond 64 repetitions proved impracticable, at least for six series of this length. For with this number each test requires about 3/4 of an hour, and toward the end of this time exhaustion, headache, and other symptoms were often felt which would have complicated the complicated of the test if the number of repetitions had been increased."
+    },
+    {
+      "id": "p0017",
+      "text": "The tests were equally divided among the seven numbers of repetitions investigated so that to each of them were allotted 10 double tests. The results were as follows for the six series of a single test taken together and without subtraction of the time used for reciting."
+    },
+    {
+      "id": "p0018",
+      "text": "After a preceding study of the series by means of \"x\" repetitions, they were learned 24 hours later with an expenditure of \"y\" seconds."
+    },
+    {
+      "id": "p0019",
+      "text": "The preceding table of numbers gives the times actually used in learning by heart the series studied 24 hours previously. Since we are interested not so much in the times used as the times saved we must know how long it would have taken to learn by heart the same series if no previous study had been made. In the case of the series which were repeated 42, 53, and 64 times, this time can be learned from the tests themselves. For, in their case, the number of repetitions is greater than the average minimum for the first possible reproduction, which in the case of the 16-syllable series (p. 46 [beginning of Ch. 5]) amounted to 31 repetitions. In their case, therefore, the point can be determined at which the first errorless reproduction of that series appeared as the number of repetitions kept on increasing. But on account of the continued increase in the number of repetitions and the resulting extension of the time of the test, the conditions were somewhat different from those in the customary learning of series not hitherto studied. In the case of the series to which a smaller number of repetitions than the above were given, the numbers necessary for comparison cannot be derived from their own records, since, as a part of the plan of the experiment, they were not completely learned by heart. I have consequently preferred each time to find the saving of work in question by comparison with the time required for learning by heart not the same but a similar series up to that time unknown. For this I possess a fairly correct numerical value from the time of the tests in question: any six 16-syllable series was learned, as an average of 53 tests, in 1,270 seconds, with the small probable error ± 7."
+    },
+    {
+      "id": "p0020",
+      "text": "If all the mean values are brought together in relation to this last value, the following table results:"
+    },
+    {
+      "id": "p0021",
+      "text": "The simple relation approximately realised in these numbers is evident: the number of repetitions used to impress the series (Column I) and the saving in work in 1arning the series 24 hours later as a result of such impression (Col. III) increase in the same fashion. Division of the amount of work saved by the corresponding number of repetitions gives as a quotient a practically constant value (Col. IV)."
+    },
+    {
+      "id": "p0022",
+      "text": "Consequently the results of the test may be summarised and formulated as follows: When nonsense series of 16 syllables each were impressed in memory to greater and greater degrees by means of attentive repetitions, the inner depth of impression in part resulting from the number of the repetitions increased, within certain limits, approximately proportionally to that number. This increase in depth was measured by the greater readiness with which these series were brought to the point of reproduction after 24 hours. The limits within which this relation was determined were on the one side, zero, and, on the other, about double the number of repetitions that on the average just sufficed for learning the series."
+    },
+    {
+      "id": "p0023",
+      "text": "For six series taken together the after-effect of each repetition -- i.e., the saving it brought about -- amounted on the average to 12.7 seconds, consequently to 2.1 seconds for each single series. As the repetition of a series of 16 syllables in itself takes from 6.6 to 6.8 seconds, its after-effect 24 hours later amounts to a scant third of its own duration. In other words: for each three additional repetitions which I spent on a given day on the study of a series, I saved, in learning that series 24 hours later, on the average, approximately one repetition; and, within the limits stated, it did not matter how many repetitions altogether were spent on the memorisation of a series."
+    },
+    {
+      "id": "p0024",
+      "text": "Whether the results found can claim any more general importance, or whether they hold good only for the single time of their actual occurrence, and even then give a false impression of a regularity not otherwise present, I cannot now decide. I have no direct control tests. Later, however, (chapter VIII, sec. 34) where results obtained in reference to quite a different problem agree with the present results, I can bring forward indirect evidence on this point. I am therefore inclined to ascribe general validity to these results, at least for my own case."
+    },
+    {
+      "id": "p0025",
+      "text": "NOTE.--There is in the tests an inner inequality which I can neither avoid, nor remove by correction, but can only point out. It is that a small number of repetitions of the series requires only a few minutes, and consequently come at a time of unusual mental vitality. With 64 repetitions the whole work takes about 3/4 of an hour; the great part of the series is, therefore, studied in a condition of diminished vigor or even of a certain exhaustion, and the repetitions will, consequently, be less effective. It is just the reverse of this in the reproduction of the series the next day. The series impressed by 8 perusals require three times as much time in order to be memorised as those perused 64 times. Consequently the latter will be learned a little more quickly not only on account of their greater fixedness, but also because they are now studied for the most part under better conditions. These irregularities are mutually opposed, as is evident, and therefore partially compensate each other: the series prepared under comparatively unfavorable conditions are memorised under comparatively more favorable conditions, and vice versa. I cannot tell, however, how far this compensation goes and how far any remaining inequality of conditions disturbs the results."
+    },
+    {
+      "id": "p0026",
+      "text": "Section 24. The Influence of Recollection"
+    },
+    {
+      "id": "p0027",
+      "text": "One factor in the regular course of the results obtained seems to deserve special attention. In ordinary life it is of the greatest importance, as far as the form which memory assumes is concerned, whether the reproductions occur with accompanying recollection or not, -- i.e. , whether the recurring ideas simply return or whether a knowledge of their former existence and circumstances comes back with them. For, in this second case, they obtain a higher and special value for our practical aims and for the manifestations of higher mental life. The question now is, what connection is there between the inner life of these ideas and the complicated phenomena of recollection which sometimes do and sometimes do not accompany the appearance in consciousness of images? Our results contribute somewhat toward the answer to this question."
+    },
+    {
+      "id": "p0028",
+      "text": "When the series were repeated 8 or 16 times they had become unfamiliar to me by the next day. Of course, indirectly, I knew quite well that they must be the same as the ones studied the day before, but I knew this only indirectly. I did not get it from the series, I did not recognise them. But with 53 or 64 repetitions I soon, if not immediately, treated them as old acquaintances, I remembered them distinctly. Nothing corresponding to this difference is evident in the times for memorisation and for savings of work respectively. They are not smaller relatively when there is no possibility of recollection nor larger relatively when recollection is sure and vivid The regularity of the after-effect of many repetitions does not noticeably deviate from the line that is, so to speak, marked out by a smaller number of repetitions although the occurrence of this after-effect is accompanied by recollection in the first case just as indubitably as it lacks recollection in the second case."
+    },
+    {
+      "id": "p0029",
+      "text": "I restrict myself to pointing out this noteworthy fact. General conclusions from it would lack foundation as long as the common cause cannot be proved."
+    },
+    {
+      "id": "p0030",
+      "text": "Section 25. The Effect of a Decided Increase in the Number of Repetitions"
+    },
+    {
+      "id": "p0031",
+      "text": "It would be of interest to know whether the approximate proportionality between the number of repetitions of a series and the saving of the work in relearning the latter made possible thereby, which in my own case seemed to take place within certain limits, continues to exist beyond those limits. If, furthermore, as a result of each repetition a scant third of its own value is saved up to be applied on the reproduction 24 hours later, I should be able to just reproduce spontaneously after 24 hours a series of 16 syllables, the initial syllable being given, provided I had repeated it the first day thrice as many times as were absolutely necessary for its first reproduction. As this requirement is 31-32 repetitions the attainment of the aim in question would necessitate about 100 repetitions. On the supposition of the general validity of the relation found, the number of repetitions to he made at a given time, in order that errorless reproduction might take place 24 hours later, could be calculated for any kind of series for which, so to say, the \"after-effect coefficient\" of the repetitions had been ascertained."
+    },
+    {
+      "id": "p0032",
+      "text": "I have not investigated this question by further increasing the number of repetitions of unfamiliar 16 syllable series because, as has been already noted, with any great extension of the tests the increasing fatigue and a certain drowsiness cause complications. However, I have made some trial tests partly with shorter series, and partly with fsmiliar series, all of which confirmed the result that the proportion in question gradually ceases to hold with a further increase of repetitions. Measured by the saving of work after 24 hours the effect of the later repetitions gradually decreases."
+    },
+    {
+      "id": "p0033",
+      "text": "Series of 12 syllables (six of the series were each time combined into a test) were studied to the point of first possible reproduction; and immediately after the errorless reproduction each series was repeated three times (in all four times) as often as the memorisation (exclusive of the recital) had required. After 24 hours the same series were relearned to the first possible reproduction. Four tests furnished the following results (the numbers indicate the repetitions):"
+    },
+    {
+      "id": "p0034",
+      "text": "In my own case -- within reasonable limits -- the after-effect of the repetitions of series of 12 syllables after 24 hours is a little smaller than is the case with 16 syllables; it must be estimated as at least three tenths of the sum total of the repetitions. If this relation were approximately to continue to hold with very numerous repetitions, it would be reasonable to expect that, after 24 hours, series on whose impression four times as many repetitions had been expended as were necessary for their first reproduction could be recited without any further expenditure of energy. Instead of this, in the cases examined, the relearning required about 35 per cent of the work required for the first recital. The effect of an average number of 410 repetitions was a saving of only one sixth of this sum. If now the first repetitions were represented by about three tenths of their amount, the effect of the later repetitions must have been very slight."
+    },
+    {
+      "id": "p0035",
+      "text": "Investigation of the following kind, which I do not here give in detail, led to the same result. Syllable series of different lengths were gradually memorised by frequent repetitions which, however, did not all take place on one day, but were distributed over several successive days (Chap. VIII). When, after several days, only a few repetitions were necessary in order to learn the series by heart, they were repeated three or four times as often as was necessary, at this phase of memorisation, for the first errorless reproduction. But in no single case did I succeed in an errorless reproduction of the series after 24 hours unless I had read them again once or several times. The influence of the frequent repetitions still appeared, indeed, in a certain saving of work, but this became less in proportion to the decreasing amount of work to be saved. It was very hard, by means of repetitions which had taken place 24 hours previously, to eliminate the last remnant of the work of relearning a given series."
+    },
+    {
+      "id": "p0036",
+      "text": "To summarise: The effect of increasing the number of repetitions of series of syllables on their inner fixedness in the above defined sense grew at first approximately in proportion to the number of repetitions, then that effect decreased gradually, and finally became very slight when the series were so deeply impressed that they could be repeated after 24 hours, almost spontaneously. Since this decrease must be considered, gradual and continuous, its beginning would, in more accurate investigations, probably have become evident even within the limits within which we found a proportionality, whereas no it is hidden on account of its small amount and the wide limits of error."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-ebbinghaus-overlearning": {
+      "paragraphId": "p0006",
+      "start": 63,
+      "end": 423,
+      "quote": "Naturally the surplus repetitions of the latter alternative do not go to waste. Even though the immediate effect, the smooth and errorless reproduction, is not affected by them, yet they are not without significance in that they serve to make other such reproductions possible at a more or less distant time. The longer a person studies, the longer he retains.",
+      "match": "normalized-exact"
+    }
+  }
+}

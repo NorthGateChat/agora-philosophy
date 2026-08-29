@@ -29,18 +29,26 @@ test("brand configuration stays within Chrome Web Store manifest limits", async 
   assert.match(brand.version, /^\d+\.\d+\.\d+$/);
   assert.equal(packageJson.name, brand.slug);
   assert.equal(packageJson.version, brand.version);
-  assert.equal(brand.nameZhHans, "AGORA");
-  assert.equal(brand.nameEn, "AGORA");
+  assert.equal(brand.nameZhHans, "未定稿");
+  assert.equal(brand.nameZhHant, "未定稿");
+  assert.equal(brand.nameEn, "NOTHING FINAL");
   assert.equal(brand.sloganZhHans, "一页，一种思想。");
   assert.equal(packageJson.license, "GPL-3.0-or-later");
   assert.equal(brand.repositoryUrl, packageJson.repository.url.replace(/^git\+/, "").replace(/\.git$/, ""));
-  assert.doesNotMatch(brand.storeNameEn, /一哲|Yizhe|思隙|Sīxì|SIXI/);
+  assert.doesNotMatch(brand.storeNameEn, /AGORA|一哲|Yizhe|思隙|Sīxì|SIXI/);
 });
 
 test("site metadata uses the single generated social preview", async () => {
-  const [layout, favicon, socialMetadata] = await Promise.all([
+  const [layout, favicon, currentStoreIcon, currentStoreReadme, currentStoreDirection, issueTemplate, changelog, v7Config, v7Generator, socialMetadata] = await Promise.all([
     readFile(new URL("app/layout.tsx", root), "utf8"),
     readFile(new URL("public/favicon.svg", root), "utf8"),
+    readFile(new URL("store-assets/v7-current-ui/source/store-icon-128.svg", root), "utf8"),
+    readFile(new URL("store-assets/v7-current-ui/README.md", root), "utf8"),
+    readFile(new URL("store-assets/v7-current-ui/ART-DIRECTION.md", root), "utf8"),
+    readFile(new URL(".github/ISSUE_TEMPLATE/bug-report.yml", root), "utf8"),
+    readFile(new URL("CHANGELOG.md", root), "utf8"),
+    readFile(new URL("scripts/store-assets-v7-config.mjs", root), "utf8"),
+    readFile(new URL("scripts/generate-store-assets-v7.mjs", root), "utf8"),
     sharp(fileURLToPath(new URL("public/social-share.png", root))).metadata(),
   ]);
 
@@ -50,4 +58,14 @@ test("site metadata uses the single generated social preview", async () => {
   assert.equal(socialMetadata.width, 1200);
   assert.equal(socialMetadata.height, 630);
   assert.doesNotMatch(favicon, />念</);
+  assert.match(favicon, /未定稿 \/ NOTHING FINAL/);
+  assert.match(currentStoreIcon, /<title>NOTHING FINAL app icon<\/title>/);
+  assert.doesNotMatch(
+    [currentStoreIcon, currentStoreReadme, currentStoreDirection, issueTemplate, changelog].join("\n"),
+    /\bAGORA\b/,
+  );
+  assert.match(v7Config, /readFileSync\(path\.join\(PROJECT_ROOT, "brand\.json"\)/);
+  assert.match(v7Generator, /return BRAND\.nameEn/);
+  assert.match(v7Generator, /return BRAND\.nameZhHant/);
+  assert.match(v7Generator, /return BRAND\.nameZhHans/);
 });

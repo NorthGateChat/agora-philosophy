@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+  "title": "注释 XV",
+  "englishTitle": "Note XV",
+  "work": "《论人类不平等的起源和基础》",
+  "englishWork": "Discourse on the Origin and Foundations of Inequality Among Men",
+  "locator": "注释 XV",
+  "englishLocator": "Note XV",
+  "version": "古登堡计划 G. D. H. Cole 1920 年公版英译，《论人类不平等的起源和基础》注释十五；Cole 以 self-respect 译 amour de soi、以 egoism 译 amour-propre",
+  "englishVersion": "Project Gutenberg, G. D. H. Cole public-domain translation (1920), Discourse on Inequality, Note XV; Cole renders amour de soi as “self-respect” and amour-propre as “egoism”",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "96887f9f9f5da0ba45ce03abef691192486d5ef55570a8271b8db72a301e55f8"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "3978bbd34764875aa68f6f25c714711da2dcf93b1b4fd71ee726e85024038998",
+  "inputHash": "0291296d743ad859a18e91b666814438c09ecb7d92787fa4dc8ece2f21df27f6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Egoism must not be confused with self-respect: for they differ both in themselves and in their effects. Self-respect is a natural feeling which leads every animal to look to its own preservation, and which, guided in man by reason and modified by compassion, creates humanity and virtue. Egoism is a purely relative and factitious feeling, which arises in the state of society, leads each individual to make more of himself than of any other, causes all the mutual damage men inflict one on another, and is the real source of the \"sense of honour.\" This being understood, I maintain that, in our primitive condition, in the true state of nature, egoism did not exist; for as each man regarded himself as the only observer of his actions, the only being in the universe who took any interest in him, and the sole judge of his deserts, no feeling arising from comparisons he could not be led to make could take root in his soul; and for the same reason, he could know neither hatred nor the desire for revenge, since these passions can spring only from a sense of injury: and as it is the contempt or the intention to hurt, and not the harm done, which constitutes the injury, men who neither valued nor compared themselves could do one another much violence, when it suited them, without feeling any sense of injury. In a word, each man, regarding his fellows almost as he regarded animals of different species, might seize the prey of a weaker or yield up his own to a stronger, and yet consider these acts of violence as mere natural occurrences, without the slightest emotion of insolence or despite, or any other feeling than the joy or grief of success or failure."
+    }
+  ],
+  "anchors": {
+    "rousseau-amour-propre-comparison": {
+      "paragraphId": "p0001",
+      "start": 0,
+      "end": 548,
+      "quote": "Egoism must not be confused with self-respect: for they differ both in themselves and in their effects. Self-respect is a natural feeling which leads every animal to look to its own preservation, and which, guided in man by reason and modified by compassion, creates humanity and virtue. Egoism is a purely relative and factitious feeling, which arises in the state of society, leads each individual to make more of himself than of any other, causes all the mutual damage men inflict one on another, and is the real source of the \"sense of honour.\"",
+      "match": "normalized-exact"
+    }
+  }
+}

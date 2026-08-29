@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-western-inscription-whole-work-5049e979",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《西铭》",
+  "englishWork": "Western Inscription",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "维基文库《西铭》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Western Inscription; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%8A%98",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%8A%98",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E8%A5%BF%E9%8A%98&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "635009749e87eb3240de5d9f535b273ca8c244e8057c2e228a1d521c1bc6311c"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "89d099a010f1cba1e115096ac709f689245f9f793e4118bd3aece9d86182ac21",
+  "inputHash": "e3b093131c96f5604fdd1e95ab213ead5d7f9c1c684e7b18a7224382298a6195",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "西銘 又命 訂頑 作者： 張載"
+    },
+    {
+      "id": "p0002",
+      "text": "乾稱父，坤稱母。予茲藐焉，乃混然中處。故天地之塞，吾其體；天地之帥，吾其性。民，吾同胞；物，吾與也。大君者，吾父母宗子；其大臣，宗子之家相也。尊高年，所以長其長；慈孤弱，所以幼其幼。聖，其合德；賢，其秀也。凡天下疲癃、殘疾、煢獨、鰥寡，皆吾兄弟之顛連而無告者也。於時保之，子之翼也；樂且不懮，純乎孝者也。違曰悖德，害仁曰賊。濟惡者，不才；其踐形，唯肖者也。知化，則善述其事；窮神，則善繼其志。不愧屋漏，為無忝；存心養性，為匪懈。惡旨酒，崇伯子之顧養；育英才，潁封人之賜類。不弛勞而厎豫，舜其功也；無所逃而待烹，申生其恭也。體其受而歸全者，參乎；勇于從而順令者，伯奇也。富貴福澤，將厚吾之生也；貧賤懮戚，庸玉汝於成也。存吾，順事；沒吾，寧也。"
+    }
+  ],
+  "anchors": {
+    "chinese-zhang-zai-world-as-kin": {
+      "paragraphId": "p0002",
+      "start": 19,
+      "end": 50,
+      "quote": "故天地之塞，吾其体；天地之帅，吾其性。民，吾同胞；物，吾与也。",
+      "match": "normalized-exact"
+    }
+  }
+}

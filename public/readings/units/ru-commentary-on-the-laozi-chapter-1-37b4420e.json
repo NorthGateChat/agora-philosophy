@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-commentary-on-the-laozi-chapter-1-37b4420e",
+  "title": "章 1",
+  "englishTitle": "Chapter 1",
+  "work": "《老子道德经注》",
+  "englishWork": "Commentary on the Laozi",
+  "locator": "章 1",
+  "englishLocator": "Chapter 1",
+  "version": "维基文库《道德经王弼注·第一章》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Daodejing with Wang Bi's commentary, chapter 1; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC)",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "6ba888c0b9334ce11a36e8e5c4eba0649e2df8a2d781818af8b37fcc397d3569"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "8d875f423bfb2b19cb1ea1b31756c95d512a277e988c3c4cc9507be8f2e8500a",
+  "inputHash": "d0c3c5dc5072f323d79120814d2e588fbdbf5c9ef8eb71744a7b53319747363e",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "一章"
+    },
+    {
+      "id": "p0002",
+      "text": "道可道，非常道，名可名，非常名；"
+    },
+    {
+      "id": "p0003",
+      "text": "〈 可道之道，可名之名，指事造形，非其常也。故不可道，不可名也。 〉"
+    },
+    {
+      "id": "p0004",
+      "text": "無名，天地之始，有名，萬物之母。"
+    },
+    {
+      "id": "p0005",
+      "text": "〈 凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物。以始以成而不知其所以然，玄之又玄也。 〉"
+    },
+    {
+      "id": "p0006",
+      "text": "故常無欲，以觀其妙，"
+    },
+    {
+      "id": "p0007",
+      "text": "〈 妙者，微之極也。萬物始於微而後成，始於無而後生。故常無欲空虛，可以觀其始物之妙。 〉"
+    },
+    {
+      "id": "p0008",
+      "text": "常有欲，以觀其徼；"
+    },
+    {
+      "id": "p0009",
+      "text": "〈 徼，歸終也。凡有之為利，必以無為用。欲之所本，適道而後濟。故常有欲，可以觀其終物之徼也。 〉"
+    },
+    {
+      "id": "p0010",
+      "text": "此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。"
+    },
+    {
+      "id": "p0011",
+      "text": "〈 兩者，始與母也。同出者，同出於玄也。異名，所施不可同也。在首則謂之始，在終則謂之母。玄者，冥默無有也，始、母之所出也。不可得而名，故不可言同名曰玄。而言謂之玄者，取於不可得而謂之然也。謂之然則不可以定乎一玄而已。若定乎一玄，則是名則失之遠矣。故曰玄之又玄也。眾妙皆從而出，故曰眾妙之門也。 〉"
+    }
+  ],
+  "anchors": {
+    "chinese-wang-bi-nonbeing-beginning": {
+      "paragraphId": "p0005",
+      "start": 2,
+      "end": 28,
+      "quote": "凡有皆始于无，故未形无名之时，则为万物之始。",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

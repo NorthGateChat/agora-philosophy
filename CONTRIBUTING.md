@@ -1,6 +1,6 @@
-# 参与 AGORA
+# 参与「未定稿」
 
-感谢你愿意让 AGORA 更可靠。这里既接受代码贡献，也接受内容纠错；小而准确的改进比一次加入大量未经核验的材料更有价值。
+感谢你愿意让「未定稿 / NOTHING FINAL」更可靠。这里既接受代码贡献，也接受内容纠错；小而准确的改进比一次加入大量未经核验的材料更有价值。
 
 ## 开始之前
 
@@ -22,7 +22,7 @@ npm test
 
 ## 内容贡献
 
-修改 `content/philosophy.ts` 时，请在 pull request 中写明：
+修改哲学、中国哲学、毛选、科学、经济、心理或印度哲学内容时，请在 pull request 中写明：
 
 - 对应原典的作品名，以及可定位的卷、章、节、段落号或标准编号；
 - 至少一个可靠的研究来源；优先同行评审著作、学术出版社、Stanford Encyclopedia of Philosophy 或 Internet Encyclopedia of Philosophy；

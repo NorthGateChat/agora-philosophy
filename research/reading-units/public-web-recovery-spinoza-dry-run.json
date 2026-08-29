@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:24:58.643Z",
+  "inventoryPath": "research/source-cache/public-web-recovery/inventory.temp.json",
+  "overridesPath": "research/source-cache/public-web-recovery/overrides.temp.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-ethics-part-ii-3f8d8997",
+    "ru-ethics-part-iv-67d79bde",
+    "ru-ethics-part-v-bf548558"
+  ],
+  "dryRun": true,
+  "allowNetwork": true,
+  "concurrency": 3,
+  "summary": {
+    "considered": 3,
+    "written": 0,
+    "wouldWrite": 3,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 6,
+    "anchorsMatched": 6,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-ethics-part-ii-3f8d8997",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-ethics-part-ii-3f8d8997.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 226,
+      "characterCount": 100848,
+      "publicByteCount": 113992,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "8183830bb342d0288132f156013721b16616b1124e761499dff9d608f94273c4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-iv-67d79bde",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-ethics-part-iv-67d79bde.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 286,
+      "characterCount": 125317,
+      "publicByteCount": 141896,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 3,
+      "matchedThoughtCount": 3,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "253db1220fa42761108c1f6ddd982d851568bae1fca35a9b5499db042900051c",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-v-bf548558",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-ethics-part-v-bf548558.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 157,
+      "characterCount": 61338,
+      "publicByteCount": 70687,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-v",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "b8d468a8385b1b8ea4ca33d156bc0b350314062d503ce4ada5cab8c866fd3feb",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

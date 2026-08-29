@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-confessions-book-xiii-chapter-9-02b5e73d",
+  "title": "卷 XIII · 章 9",
+  "englishTitle": "Book XIII · Chapter 9",
+  "work": "《忏悔录》",
+  "englishWork": "Confessions",
+  "locator": "卷 XIII · 章 9",
+  "englishLocator": "Book XIII · Chapter 9",
+  "version": "New Advent，J. G. Pilkington 1887 年 NPNF 公版英译，《忏悔录》第十三卷第 9 章第 10 节",
+  "englishVersion": "New Advent, J. G. Pilkington public-domain translation in NPNF (1887), Confessions XIII.9.10",
+  "sourceUrl": "https://www.newadvent.org/fathers/110113.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/110113.htm",
+    "contentType": "text/html",
+    "sha256": "3190e9281dab16e55b492d673fbda8388ee27907b7023051f393ed554f8f1708"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "ea0e53737fe493dee5157a3497920283a02e9c38b51cc3410f67da85e5ff364d",
+  "inputHash": "1b00a10b03a66d678ab6d8c4ee7bd1c2f69f7c44d9da7a5b8cad4849077f504c",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 9. Why the Holy Spirit Was Only Borne Over The Waters."
+    },
+    {
+      "id": "p0002",
+      "text": "10. But was not either the Father or the Son borne over the waters? If we understand this to mean in space, as a body, then neither was the Holy Spirit ; but if the incommutable super-eminence of Divinity above everything mutable, then both Father, and Son, and Holy Ghost were borne over the waters. Why, then, is this said of Your Spirit only? Why is it said of Him alone? As if He had been in place who is not in place, of whom only it is written, that He is Your gift? In Your gift we rest; there we enjoy You. Our rest is our place. Love lifts us up there, and Your good Spirit lifts our lowliness from the gates of death. In Your good pleasure lies our peace. The body by its own weight gravitates towards its own place. Weight goes not downward only, but to its own place. Fire tends upwards, a stone downwards. They are propelled by their own weights, they seek their own places. Oil poured under the water is raised above the water; water poured upon oil sinks under the oil. They are propelled by their own weights, they seek their own places. Out of order, they are restless; restored to order, they are at rest. My weight is my love ; by it am I borne wherever I am borne. By Your Gift we are inflamed, and are borne upwards; we wax hot inwardly, and go forwards. We ascend Your ways that be in our heart, and sing a song of degrees; we glow inwardly with Your fire, with Your good fire, and we go, because we go upwards to the peace of Jerusalem; for glad was I when they said to me, Let us go into the house of the Lord. There has Your good pleasure placed us, that we may desire no other thing than to dwell there forever."
+    }
+  ],
+  "anchors": {
+    "augustine-love-as-weight": {
+      "paragraphId": "p0002",
+      "start": 1124,
+      "end": 1184,
+      "quote": "My weight is my love; by it am I borne wherever I am borne.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-purchasing-power-of-money-chapter-2-63622053",
+  "title": "章 2",
+  "englishTitle": "Chapter 2",
+  "work": "《货币的购买力》",
+  "englishWork": "The Purchasing Power of Money",
+  "locator": "章 2",
+  "englishLocator": "Chapter 2",
+  "version": "Liberty Fund OLL 英文数字版，《货币的购买力》第 2 章第 2 节第 17 页",
+  "englishVersion": "Liberty Fund OLL digital English edition, The Purchasing Power of Money, Chapter 2, §2, p. 17",
+  "sourceUrl": "https://oll.libertyfund.org/titles/fisher-the-purchasing-power-of-money",
+  "preparedSourceUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+  "source": {
+    "url": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+    "contentType": "text/html",
+    "sha256": "8b0ada33eb457b430a9aeb12a8631703e9938781a34e563443ac91af2e90ceeb"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "253a2b49f25d7096579e19cef680121837aed8bf4074c59450609fd32835fbf4",
+  "inputHash": "26248a818997796b557c288d89b5a550e7e4599535046ba45e0996bd527afe57",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "§ 2"
+    },
+    {
+      "id": "p0002",
+      "text": "Overlooking the influence of deposit currency, or checks, the price level may be said to depend on only three sets of causes: (1) the quantity of money in circulation; (2) its “efficiency” or velocity of circulation (or the average number of times a year money is exchanged for goods); and (3) the volume of trade (or amount of goods bought by money). The so-called “quantity theory,”"
+    },
+    {
+      "id": "p0003",
+      "text": "*13 i.e. that prices vary proportionately to money, has often been incorrectly formulated, but (overlooking checks) the theory is correct in the sense that the level of prices varies directly with the quantity of money in circulation, provided the velocity of circulation of that money and the volume of trade which it is obliged to perform are not changed."
+    },
+    {
+      "id": "p0004",
+      "text": "The quantity theory has been one of the most bitterly contested theories in economics, largely because the recognition of its truth or falsity affected powerful"
+    },
+    {
+      "id": "p0005",
+      "text": "interests in commerce and politics. It has been maintained—and the assertion is scarcely an exaggeration—that the theorems of Euclid would be bitterly controverted if financial or political interests were involved."
+    },
+    {
+      "id": "p0006",
+      "text": "The quantity theory has, unfortunately, been made the basis of arguments for unsound currency schemes. It has been invoked in behalf of irredeemable paper money and of national free coinage of silver at the ratio of 16 to 1. As a consequence, not a few “sound money men,” believing that a theory used to support such vagaries must be wrong, and fearing the political effects of its propagation, have drifted into the position of opposing, not only the unsound propaganda, but also the sound principles by which its advocates sought to bolster it up."
+    },
+    {
+      "id": "p0007",
+      "text": "*14 These attacks upon the quantity theory have been rendered easy by the imperfect comprehension of it on the part of those who have thus invoked it in a bad cause."
+    },
+    {
+      "id": "p0008",
+      "text": "Personally, I believe that few mental attitudes are more pernicious, and in the end more disastrous, than those which would uphold sound practice by denying sound principles because some thinkers make unsound application of those principles. At any rate, in scientific study there is no choice but to find and state the unvarnished truth."
+    },
+    {
+      "id": "p0009",
+      "text": "The quantity theory will be made more clear by the equation of exchange, which is now to be explained."
+    },
+    {
+      "id": "p0010",
+      "text": "The equation of exchange is a statement, in mathematical"
+    },
+    {
+      "id": "p0011",
+      "text": "form, of the total transactions effected in a certain period in a given community. It is obtained simply by adding together the equations of exchange for all individual transactions. Suppose, for instance, that a person buys 10 pounds of sugar at 7 cents per pound. This is an exchange transaction, in which 10 pounds of sugar have been regarded as equal to 70 cents, and this fact may be expressed thus: 70 cents = 10 pounds of sugar multiplied by 7 cents a pound. Every other sale and purchase may be expressed similarly, and by adding them all together we get the equation of exchange"
+    },
+    {
+      "id": "p0012",
+      "text": "for a certain period in a given community. During this same period, however, the same money may serve, and usually does serve, for several transactions. For that reason the money side of the equation is of course greater than the total amount of money in circulation."
+    },
+    {
+      "id": "p0013",
+      "text": "The equation of exchange relates to all the purchases made by money in a certain community during a certain time. We shall continue to ignore checks or any circulating medium not money. We shall also ignore foreign trade and thus restrict ourselves to trade within a hypothetical community. Later we shall reinclude these factors, proceeding by a series of approximations through successive hypothetical conditions to the actual conditions which prevail to-day. We must, of course, not forget that the conclusions expressed in each successive approximation are true solely on the particular hypothesis assumed."
+    },
+    {
+      "id": "p0014",
+      "text": "The equation of exchange is simply the sum of the equations involved in all individual exchanges in a year. In each sale and purchase, the money and goods exchanged are"
+    },
+    {
+      "id": "p0015",
+      "text": "ipso facto equivalent; for instance, the money paid for sugar is equivalent to the sugar bought."
+    },
+    {
+      "id": "p0016",
+      "text": "And in the grand total of all exchanges for a year, the total money paid is equal in value to the total value of the goods bought. The equation thus has a money side and a goods side. The money side is the total money paid, and may be considered as the product of the quantity of money multiplied by its rapidity of circulation. The goods side is made up of the products of quantities of goods exchanged multiplied by their respective prices."
+    },
+    {
+      "id": "p0017",
+      "text": "The important magnitude, called the velocity of circulation, or rapidity of turnover, is simply the quotient obtained by dividing the total money payments for goods in the course of a year by the average amount of money in circulation by which those payments are effected. This velocity of circulation for an entire community is a sort of average of the rates of turnover of money for different persons. Each person has his own rate of turnover which he can readily calculate by dividing the amount of money he expends per year by the average amount he carries."
+    },
+    {
+      "id": "p0018",
+      "text": "Let us begin with the money side. If the number of dollars in a country is 5,000,000, and their velocity of circulation is twenty times per year, then the total amount of money changing hands (for goods) per year is 5,000,000 times twenty, or $100,000,000. This is the"
+    },
+    {
+      "id": "p0019",
+      "text": "money side of the equation of exchange."
+    },
+    {
+      "id": "p0020",
+      "text": "Since the money side of the equation is $100,000,000, the"
+    },
+    {
+      "id": "p0021",
+      "text": "goods side must be the same. For if $100,000,000 has been spent for goods in the course of the year, then $100,000,000 worth of goods must have been sold in that year. In order to avoid the necessity of writing out the quantities and prices of the innumerable varieties of goods which are actually exchanged, let us assume for the present that there are only three kinds"
+    },
+    {
+      "id": "p0022",
+      "text": "of goods,—bread, coal, and cloth; and that the sales are:—"
+    },
+    {
+      "id": "p0023",
+      "text": "200,000,000 loaves of bread at $ .10 a loaf,"
+    },
+    {
+      "id": "p0024",
+      "text": "10,000,000 tons of coal at  5.00 a ton, and"
+    },
+    {
+      "id": "p0025",
+      "text": "30,000,000 yards of cloth at  1.00 a yard."
+    },
+    {
+      "id": "p0026",
+      "text": "The value of these transactions is evidently $100,000,000,"
+    },
+    {
+      "id": "p0027",
+      "text": "i.e. $20,000,000 worth of bread plus $50,000,000 worth of coal plus $30,000,000 worth of cloth. The equation of exchange therefore (remember that the money side consisted of $5,000,000 exchanged 20 times) is as follows:—"
+    },
+    {
+      "id": "p0028",
+      "text": "$5,000,000 × 20 times a year"
+    },
+    {
+      "id": "p0029",
+      "text": "= 200,000,000 loaves × $ .10 a loaf"
+    },
+    {
+      "id": "p0030",
+      "text": "+   10,000,000 tons    ×  5.00 a ton"
+    },
+    {
+      "id": "p0031",
+      "text": "+   30,000,000 yards  ×  1.00 a yard."
+    },
+    {
+      "id": "p0032",
+      "text": "This equation contains on the money side two magnitudes, viz. (1) the quantity of money and (2) its velocity of circulation; and on the goods side two"
+    },
+    {
+      "id": "p0033",
+      "text": "groups of magnitudes in two columns, viz. (1) the quantities of goods exchanged (loaves, tons, yards), and (2) the prices of these goods. The equation shows that these four sets of magnitudes are mutually related. Because this equation must be fulfilled, the prices must bear a relation to the three other sets of magnitudes,—quantity of money, rapidity of circulation, and quantities of goods exchanged. Consequently, these prices must, as a whole, vary proportionally with the quantity of money and with its velocity of circulation, and inversely with the quantities of goods exchanged."
+    },
+    {
+      "id": "p0034",
+      "text": "Suppose, for instance, that the quantity of money were doubled, while its velocity of circulation and the quantities of goods exchanged remained the same. Then it would be quite impossible for prices to remain unchanged. The money side would now be"
+    },
+    {
+      "id": "p0035",
+      "text": "$10,000,000 × 20 times a year or $200,000,000; whereas, if prices should not change, the goods would remain $100,000,000, and the equation would be violated. Since exchanges, individually and collectively, always involve an equivalent"
+    },
+    {
+      "id": "p0036",
+      "text": "quid pro quo, the two sides must be equal. Not only must purchases and sales be equal in amount—since every article bought by one person is necessarily sold by another—but the total value of goods sold must equal the total amount of money exchanged. Therefore, under the given conditions, prices must change in such a way as to raise the goods side from $100,000,000 to $200,000,000. This doubling may be accomplished by an even or uneven rise in prices, but some sort of"
+    },
+    {
+      "id": "p0037",
+      "text": "a rise of prices there must be. If the prices rise evenly, they will evidently all be exactly doubled, so that the equation will read:—"
+    },
+    {
+      "id": "p0038",
+      "text": "$10,000,000 × 20 times a year"
+    },
+    {
+      "id": "p0039",
+      "text": "= 200,000,000 loaves × $    .20 per loaf"
+    },
+    {
+      "id": "p0040",
+      "text": "+   10,000,000 tons    ×   10.00 per ton"
+    },
+    {
+      "id": "p0041",
+      "text": "+   30,000,000 yards  ×     2.00 per yard."
+    },
+    {
+      "id": "p0042",
+      "text": "If the prices rise unevenly, the doubling must evidently be brought about by compensation; if some prices rise by less than double, others must rise by enough more than double to exactly compensate."
+    },
+    {
+      "id": "p0043",
+      "text": "But whether all prices increase uniformly, each being exactly doubled, or some prices increase more and some less (so as still to double the total money value of the goods purchased), the prices"
+    },
+    {
+      "id": "p0044",
+      "text": "are doubled"
+    },
+    {
+      "id": "p0045",
+      "text": "on the average. *15 This proposition is usually expressed by saying that the “general level of prices” is raised twofold. From the mere fact, therefore, that the money spent for goods"
+    },
+    {
+      "id": "p0046",
+      "text": "must equal the quantities of those goods multiplied by their prices, it follows that the level of prices must rise or fall according to changes in the quantity of money,"
+    },
+    {
+      "id": "p0047",
+      "text": "unless there are changes in its velocity of circulation or in the quantities of goods exchanged."
+    },
+    {
+      "id": "p0048",
+      "text": "If changes in the quantity of money affect prices, so will changes in the other factors—quantities of goods and velocity of circulation—affect prices, and in a very similar manner. Thus a doubling in the velocity of circulation of money will double the level of prices, provided the quantity of money in circulation and the quantities of goods exchanged for money remain as before. The equation will become:—"
+    },
+    {
+      "id": "p0049",
+      "text": "$5,000,000 × 40 times a year"
+    },
+    {
+      "id": "p0050",
+      "text": "= 200,000,000 loaves × $    .20 a loaf"
+    },
+    {
+      "id": "p0051",
+      "text": "+   10,000,000 tons    ×   10.00 a ton"
+    },
+    {
+      "id": "p0052",
+      "text": "+   30,000,000 yards  ×     2.00 a yard,"
+    },
+    {
+      "id": "p0053",
+      "text": "or else the equation will assume a form in which some of the prices will more than double, and others less than double by enough to preserve the same total value of the sales."
+    },
+    {
+      "id": "p0054",
+      "text": "Again, a doubling in the quantities of goods exchanged will not double, but halve, the height of the price level,"
+    },
+    {
+      "id": "p0055",
+      "text": "provided the quantity of money and its velocity of circulation remain the same. Under these circumstances the equation will become:—"
+    },
+    {
+      "id": "p0056",
+      "text": "$5,000,000 × 20 times a year"
+    },
+    {
+      "id": "p0057",
+      "text": "= 400,000,000 loaves × $  .05 a loaf"
+    },
+    {
+      "id": "p0058",
+      "text": "+   20,000,000 tons    ×   2.50 a ton"
+    },
+    {
+      "id": "p0059",
+      "text": "+   60,000,000 yards  ×     .50 a yard,"
+    },
+    {
+      "id": "p0060",
+      "text": "or else it will assume a form in which some of the prices are more than halved, and others less than halved, so as to preserve the equation."
+    },
+    {
+      "id": "p0061",
+      "text": "Finally, if there is a simultaneous change in two or all of the three influences,"
+    },
+    {
+      "id": "p0062",
+      "text": "i.e. quantity of money, velocity of circulation, and quantities of goods exchanged, the price level will be a compound or resultant of these various influences. If, for example, the quantity of money is doubled, and its velocity of circulation is halved, while the quantity of goods exchanged remains constant, the price level will be undisturbed. Likewise, it will be undisturbed if the quantity of money is doubled and the quantity of goods is doubled, while the velocity of circulation remains the same. To double the quantity of money, therefore, is not always to double prices. We must distinctly recognize that the quantity of money is only one of three factors, all equally important in determining the price level."
+    }
+  ],
+  "anchors": {
+    "economics-fisher-equation-exchange": {
+      "paragraphId": "p0014",
+      "start": 0,
+      "end": 107,
+      "quote": "The equation of exchange is simply the sum of the equations involved in all individual exchanges in a year.",
+      "match": "normalized-exact"
+    }
+  }
+}

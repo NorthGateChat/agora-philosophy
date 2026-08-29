@@ -1,4 +1,5 @@
-export type ThoughtCardFormat = "mobile" | "desktop";
+export type ThoughtCardFormat = "square" | "portrait" | "portrait45" | "story" | "landscape";
+export type ThoughtCardVisualStyle = "trajectory" | "marginalia" | "archive";
 
 export type ThoughtCardExport = {
   quoteEnglish?: string;
@@ -6,8 +7,19 @@ export type ThoughtCardExport = {
   quoteChineseFirst?: boolean;
   author: string;
   work: string;
+  natureLabel?: string;
+  signature?: string;
   palette: readonly [string, string, string, string];
+  illustrationUrl?: string;
   format?: ThoughtCardFormat;
+  visualStyle?: ThoughtCardVisualStyle;
+};
+
+type CardTheme = {
+  paper: string;
+  softAccent: string;
+  accent: string;
+  ink: string;
 };
 
 type CardLayout = {
@@ -30,7 +42,43 @@ type CardLayout = {
 };
 
 const CARD_LAYOUTS: Record<ThoughtCardFormat, CardLayout> = {
-  mobile: {
+  square: {
+    width: 1080,
+    height: 1080,
+    quoteMaxWidth: 852,
+    quoteMaxHeight: 590,
+    bilingualEnglishSize: 37,
+    bilingualChineseSize: 54,
+    singleEnglishSize: 54,
+    singleChineseSize: 64,
+    minimumScale: 0.64,
+    maxEnglishLines: 4,
+    maxChineseLines: 3,
+    attributionGap: 56,
+    accentToAuthor: 28,
+    authorToWork: 14,
+    authorSize: 27,
+    workSize: 18,
+  },
+  portrait: {
+    width: 1080,
+    height: 1440,
+    quoteMaxWidth: 852,
+    quoteMaxHeight: 800,
+    bilingualEnglishSize: 41,
+    bilingualChineseSize: 61,
+    singleEnglishSize: 62,
+    singleChineseSize: 72,
+    minimumScale: 0.68,
+    maxEnglishLines: 5,
+    maxChineseLines: 4,
+    attributionGap: 72,
+    accentToAuthor: 34,
+    authorToWork: 14,
+    authorSize: 30,
+    workSize: 19,
+  },
+  portrait45: {
     width: 1080,
     height: 1350,
     quoteMaxWidth: 852,
@@ -48,7 +96,25 @@ const CARD_LAYOUTS: Record<ThoughtCardFormat, CardLayout> = {
     authorSize: 30,
     workSize: 19,
   },
-  desktop: {
+  story: {
+    width: 1080,
+    height: 1920,
+    quoteMaxWidth: 852,
+    quoteMaxHeight: 980,
+    bilingualEnglishSize: 43,
+    bilingualChineseSize: 64,
+    singleEnglishSize: 64,
+    singleChineseSize: 76,
+    minimumScale: 0.68,
+    maxEnglishLines: 6,
+    maxChineseLines: 5,
+    attributionGap: 78,
+    accentToAuthor: 36,
+    authorToWork: 16,
+    authorSize: 31,
+    workSize: 20,
+  },
+  landscape: {
     width: 1600,
     height: 900,
     quoteMaxWidth: 1240,
@@ -67,8 +133,55 @@ const CARD_LAYOUTS: Record<ThoughtCardFormat, CardLayout> = {
     workSize: 17,
   },
 };
+const CARD_FORMAT_FILENAME_SUFFIX: Record<ThoughtCardFormat, string> = {
+  square: "1x1",
+  portrait: "3x4",
+  portrait45: "4x5",
+  story: "9x16",
+  landscape: "16x9",
+};
 const SANS_FONT = '"PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif';
 const SERIF_FONT = '"Songti SC", "STSong", "Noto Serif CJK SC", serif';
+
+function mixHex(base: string, overlay: string, overlayAmount: number) {
+  const parse = (value: string) => {
+    const normalized = value.replace("#", "");
+    if (!/^[\da-f]{6}$/i.test(normalized)) return null;
+    return [0, 2, 4].map((offset) => Number.parseInt(normalized.slice(offset, offset + 2), 16));
+  };
+  const baseChannels = parse(base);
+  const overlayChannels = parse(overlay);
+  if (!baseChannels || !overlayChannels) return base;
+  const amount = Math.max(0, Math.min(1, overlayAmount));
+  const channels = baseChannels.map((channel, index) => (
+    Math.round(channel * (1 - amount) + overlayChannels[index] * amount)
+  ));
+  return `#${channels.map((channel) => channel.toString(16).padStart(2, "0")).join("")}`;
+}
+
+function resolveCardTheme(
+  palette: ThoughtCardExport["palette"],
+  visualStyle: ThoughtCardVisualStyle,
+): CardTheme {
+  const [paper, softAccent, accent, ink] = palette;
+  if (visualStyle === "marginalia") {
+    return {
+      paper: mixHex(paper, "#e7d3ad", 0.28),
+      softAccent: mixHex(softAccent, "#d7b98d", 0.28),
+      accent: mixHex(accent, "#873b34", 0.66),
+      ink: mixHex(ink, "#4d261f", 0.1),
+    };
+  }
+  if (visualStyle === "archive") {
+    return {
+      paper: mixHex(ink, "#151a1c", 0.22),
+      softAccent: mixHex(softAccent, paper, 0.62),
+      accent: mixHex(softAccent, paper, 0.52),
+      ink: mixHex(paper, "#ffffff", 0.1),
+    };
+  }
+  return { paper, softAccent, accent, ink };
+}
 
 function rgba(hex: string, opacity: number) {
   const normalized = hex.replace("#", "");
@@ -79,6 +192,119 @@ function rgba(hex: string, opacity: number) {
   return `rgba(${red}, ${green}, ${blue}, ${opacity})`;
 }
 
+function loadCanvasImage(src: string): Promise<HTMLImageElement> {
+  return new Promise((resolve, reject) => {
+    const image = new Image();
+    image.decoding = "async";
+    image.onload = () => resolve(image);
+    image.onerror = () => reject(new Error(`Unable to load thought illustration: ${src}`));
+    image.src = src;
+  });
+}
+
+function drawImageCover(
+  context: CanvasRenderingContext2D,
+  image: HTMLImageElement,
+  x: number,
+  y: number,
+  width: number,
+  height: number,
+  focusX = 0.5,
+  focusY = 0.5,
+) {
+  const sourceWidth = image.naturalWidth || image.width;
+  const sourceHeight = image.naturalHeight || image.height;
+  const sourceRatio = sourceWidth / sourceHeight;
+  const targetRatio = width / height;
+  let cropWidth = sourceWidth;
+  let cropHeight = sourceHeight;
+
+  if (sourceRatio > targetRatio) cropWidth = sourceHeight * targetRatio;
+  else cropHeight = sourceWidth / targetRatio;
+
+  const cropX = Math.max(0, Math.min(sourceWidth - cropWidth, sourceWidth * focusX - cropWidth / 2));
+  const cropY = Math.max(0, Math.min(sourceHeight - cropHeight, sourceHeight * focusY - cropHeight / 2));
+  context.drawImage(image, cropX, cropY, cropWidth, cropHeight, x, y, width, height);
+}
+
+function drawImageContain(
+  context: CanvasRenderingContext2D,
+  image: HTMLImageElement,
+  x: number,
+  y: number,
+  width: number,
+  height: number,
+  alignX = 0.5,
+  alignY = 0.5,
+) {
+  const sourceWidth = image.naturalWidth || image.width;
+  const sourceHeight = image.naturalHeight || image.height;
+  const scale = Math.min(width / sourceWidth, height / sourceHeight);
+  const drawWidth = sourceWidth * scale;
+  const drawHeight = sourceHeight * scale;
+  const drawX = x + (width - drawWidth) * alignX;
+  const drawY = y + (height - drawHeight) * alignY;
+
+  context.drawImage(image, drawX, drawY, drawWidth, drawHeight);
+  return { x: drawX, y: drawY, width: drawWidth, height: drawHeight };
+}
+
+function drawIllustrationLayer(
+  context: CanvasRenderingContext2D,
+  image: HTMLImageElement,
+  paper: string,
+  card: CardLayout,
+  format: ThoughtCardFormat,
+  visualStyle: ThoughtCardVisualStyle,
+) {
+  context.save();
+
+  if (format === "landscape") {
+    drawImageCover(context, image, 0, 0, card.width, card.height, 0.5, 0.54);
+    const readingField = context.createLinearGradient(card.width * 0.35, 0, card.width * 0.84, 0);
+    readingField.addColorStop(0, rgba(paper, 0.04));
+    readingField.addColorStop(0.52, rgba(paper, 0.72));
+    readingField.addColorStop(1, rgba(paper, 0.97));
+    context.fillStyle = readingField;
+    context.fillRect(0, 0, card.width, card.height);
+  } else {
+    const imageHeight = card.height * (format === "square" ? 0.62 : format === "story" ? 0.56 : 0.6);
+    const preserveWholeIllustration = format === "portrait"
+      || format === "portrait45"
+      || format === "story";
+    const illustrationBounds = preserveWholeIllustration
+      ? drawImageContain(context, image, 0, 0, card.width, imageHeight, 0.5, 0)
+      : (() => {
+          drawImageCover(context, image, 0, 0, card.width, imageHeight, 0.5, 0.48);
+          return { x: 0, y: 0, width: card.width, height: imageHeight };
+        })();
+    const fadeEnd = illustrationBounds.y + illustrationBounds.height;
+    const fadeSpan = preserveWholeIllustration
+      ? Math.min(card.height * 0.32, illustrationBounds.height * 0.46)
+      : card.height * 0.34;
+    const fadeStart = Math.max(illustrationBounds.y, fadeEnd - fadeSpan);
+    const readingField = context.createLinearGradient(0, fadeStart, 0, fadeEnd);
+    readingField.addColorStop(0, rgba(paper, 0.02));
+    readingField.addColorStop(0.28, rgba(paper, 0.14));
+    readingField.addColorStop(0.56, rgba(paper, 0.42));
+    readingField.addColorStop(0.78, rgba(paper, 0.74));
+    readingField.addColorStop(0.92, rgba(paper, 0.93));
+    readingField.addColorStop(1, rgba(paper, 1));
+    context.fillStyle = readingField;
+    context.fillRect(0, fadeStart, card.width, fadeEnd - fadeStart);
+  }
+
+  if (visualStyle === "archive") {
+    context.fillStyle = rgba(paper, 0.48);
+    context.fillRect(0, 0, card.width, card.height);
+  } else if (visualStyle === "marginalia") {
+    context.fillStyle = rgba(paper, 0.14);
+    context.fillRect(0, 0, card.width, card.height);
+  }
+
+  context.restore();
+}
+
 function setFont(
   context: CanvasRenderingContext2D,
   size: number,
@@ -87,6 +313,38 @@ function setFont(
   style = "normal",
 ) {
   context.font = `${style} ${weight} ${size}px ${family}`;
+}
+
+function fitSingleLineText(
+  context: CanvasRenderingContext2D,
+  text: string,
+  maxWidth: number,
+  preferredSize: number,
+  minimumSize: number,
+) {
+  const normalized = text.trim();
+  let size = preferredSize;
+
+  while (size > minimumSize) {
+    setFont(context, size, SANS_FONT, 600);
+    if (context.measureText(normalized).width <= maxWidth) return { text: normalized, size };
+    size -= 1;
+  }
+
+  setFont(context, minimumSize, SANS_FONT, 600);
+  if (context.measureText(normalized).width <= maxWidth) {
+    return { text: normalized, size: minimumSize };
+  }
+
+  const ellipsis = "…";
+  const characters = Array.from(normalized);
+  while (
+    characters.length > 0
+    && context.measureText(`${characters.join("")}${ellipsis}`).width > maxWidth
+  ) {
+    characters.pop();
+  }
+  return { text: `${characters.join("")}${ellipsis}`, size: minimumSize };
 }
 
 function wrapWords(context: CanvasRenderingContext2D, text: string, maxWidth: number) {
@@ -171,14 +429,16 @@ function drawOrbitSignature(
   softAccent: string,
   card: CardLayout,
   format: ThoughtCardFormat,
+  signature: string,
 ) {
   context.save();
-  context.lineWidth = format === "desktop" ? 1.6 : 1.8;
+  const compact = format === "square" || format === "landscape";
+  context.lineWidth = compact ? 1.6 : 1.8;
 
-  const verticalX = card.width * (format === "desktop" ? 0.86 : 0.82);
-  const horizontalY = card.height * (format === "desktop" ? 0.83 : 0.86);
-  const verticalTop = card.height * (format === "desktop" ? 0.62 : 0.68);
-  const horizontalLeft = card.width * (format === "desktop" ? 0.66 : 0.48);
+  const verticalX = card.width * (compact ? 0.86 : 0.82);
+  const horizontalY = card.height * (compact ? 0.83 : 0.86);
+  const verticalTop = card.height * (compact ? 0.62 : 0.68);
+  const horizontalLeft = card.width * (compact ? 0.66 : 0.48);
 
   const verticalFade = context.createLinearGradient(verticalX, card.height, verticalX, verticalTop);
   verticalFade.addColorStop(0, rgba(accent, 0.09));
@@ -198,7 +458,7 @@ function drawOrbitSignature(
   context.lineTo(horizontalLeft, horizontalY);
   context.stroke();
 
-  const rings = format === "desktop"
+  const rings = compact
     ? [
         { x: 0.9, y: 1.036, radius: 0.46, color: accent, opacity: 0.1 },
         { x: 0.83, y: 1.018, radius: 0.33, color: softAccent, opacity: 0.13 },
@@ -225,21 +485,151 @@ function drawOrbitSignature(
 
   context.fillStyle = rgba(accent, 0.23);
   context.beginPath();
-  context.arc(verticalX, horizontalY, format === "desktop" ? 4 : 4.5, 0, Math.PI * 2);
+  context.arc(verticalX, horizontalY, compact ? 4 : 4.5, 0, Math.PI * 2);
   context.fill();
 
   context.textAlign = "left";
   context.textBaseline = "alphabetic";
-  setFont(context, format === "desktop" ? 17 : 20, SANS_FONT, 600);
+  setFont(context, compact ? 17 : 20, SANS_FONT, 600);
   context.fillStyle = rgba(accent, 0.5);
   drawTrackedText(
     context,
-    "AGORA",
-    card.width - (format === "desktop" ? 76 : 62),
-    card.height - (format === "desktop" ? 56 : 54),
-    format === "desktop" ? 5 : 6,
+    signature,
+    card.width - (compact ? 76 : 62),
+    card.height - (compact ? 56 : 54),
+    compact ? 5 : 6,
   );
   context.restore();
+}
+
+function drawBrandSignature(
+  context: CanvasRenderingContext2D,
+  color: string,
+  card: CardLayout,
+  format: ThoughtCardFormat,
+  opacity: number,
+  signature: string,
+) {
+  context.save();
+  const compact = format === "square" || format === "landscape";
+  context.textAlign = "left";
+  context.textBaseline = "alphabetic";
+  setFont(context, compact ? 17 : 20, SANS_FONT, 600);
+  context.fillStyle = rgba(color, opacity);
+  drawTrackedText(
+    context,
+    signature,
+    card.width - (compact ? 76 : 62),
+    card.height - (compact ? 56 : 54),
+    compact ? 5 : 6,
+  );
+  context.restore();
+}
+
+function drawMarginaliaSignature(
+  context: CanvasRenderingContext2D,
+  theme: CardTheme,
+  card: CardLayout,
+  format: ThoughtCardFormat,
+  signature: string,
+) {
+  context.save();
+  const compact = format === "square" || format === "landscape";
+  context.lineWidth = compact ? 1.2 : 1.5;
+  const ruleStep = compact ? 64 : 78;
+  const leftRule = card.width * (compact ? 0.105 : 0.12);
+
+  context.strokeStyle = rgba(theme.ink, 0.055);
+  for (let y = ruleStep; y < card.height; y += ruleStep) {
+    context.beginPath();
+    context.moveTo(0, y);
+    context.lineTo(card.width, y);
+    context.stroke();
+  }
+
+  context.strokeStyle = rgba(theme.accent, 0.18);
+  context.beginPath();
+  context.moveTo(leftRule, 0);
+  context.lineTo(leftRule, card.height);
+  context.stroke();
+
+  const markY = card.height * (compact ? 0.19 : 0.17);
+  context.lineWidth = 2;
+  context.strokeStyle = rgba(theme.accent, 0.42);
+  context.beginPath();
+  context.moveTo(leftRule - 18, markY);
+  context.lineTo(leftRule + 22, markY - 3);
+  context.moveTo(leftRule - 14, markY + 9);
+  context.lineTo(leftRule + 18, markY + 6);
+  context.stroke();
+  context.restore();
+
+  drawBrandSignature(context, theme.accent, card, format, 0.56, signature);
+}
+
+function drawArchiveSignature(
+  context: CanvasRenderingContext2D,
+  theme: CardTheme,
+  card: CardLayout,
+  format: ThoughtCardFormat,
+  signature: string,
+) {
+  context.save();
+  const compact = format === "square" || format === "landscape";
+  const gridSize = compact ? 72 : 84;
+  context.lineWidth = 1;
+  context.strokeStyle = rgba(theme.ink, 0.055);
+  for (let x = gridSize; x < card.width; x += gridSize) {
+    context.beginPath();
+    context.moveTo(x, 0);
+    context.lineTo(x, card.height);
+    context.stroke();
+  }
+  for (let y = gridSize; y < card.height; y += gridSize) {
+    context.beginPath();
+    context.moveTo(0, y);
+    context.lineTo(card.width, y);
+    context.stroke();
+  }
+
+  const verticalX = card.width * 0.11;
+  const horizontalY = card.height * (compact ? 0.86 : 0.88);
+  context.strokeStyle = rgba(theme.ink, 0.17);
+  context.beginPath();
+  context.moveTo(verticalX, 0);
+  context.lineTo(verticalX, card.height);
+  context.moveTo(0, horizontalY);
+  context.lineTo(card.width, horizontalY);
+  context.stroke();
+
+  context.strokeStyle = rgba(theme.ink, 0.12);
+  context.strokeRect(30, 30, card.width - 60, card.height - 60);
+  context.fillStyle = rgba(theme.accent, 0.5);
+  context.beginPath();
+  context.arc(verticalX, horizontalY, compact ? 3.5 : 4, 0, Math.PI * 2);
+  context.fill();
+  context.restore();
+
+  drawBrandSignature(context, theme.ink, card, format, 0.52, signature);
+}
+
+function drawThemeSignature(
+  context: CanvasRenderingContext2D,
+  theme: CardTheme,
+  card: CardLayout,
+  format: ThoughtCardFormat,
+  visualStyle: ThoughtCardVisualStyle,
+  signature: string,
+) {
+  if (visualStyle === "marginalia") {
+    drawMarginaliaSignature(context, theme, card, format, signature);
+    return;
+  }
+  if (visualStyle === "archive") {
+    drawArchiveSignature(context, theme, card, format, signature);
+    return;
+  }
+  drawOrbitSignature(context, theme.accent, theme.softAccent, card, format, signature);
 }
 
 function fitQuoteLayout(
@@ -314,7 +704,8 @@ function fitQuoteLayout(
 export async function renderThoughtCard(input: ThoughtCardExport): Promise<Blob> {
   if (document.fonts) await document.fonts.ready;
 
-  const format = input.format ?? "mobile";
+  const format = input.format ?? "portrait45";
+  const visualStyle = input.visualStyle ?? "trajectory";
   const card = CARD_LAYOUTS[format];
   const canvas = document.createElement("canvas");
   canvas.width = card.width;
@@ -322,26 +713,124 @@ export async function renderThoughtCard(input: ThoughtCardExport): Promise<Blob>
   const context = canvas.getContext("2d");
   if (!context) throw new Error("Canvas rendering is unavailable");
 
-  const [paper, softAccent, accent, ink] = input.palette;
+  const theme = resolveCardTheme(input.palette, visualStyle);
+  const { paper, accent, ink } = theme;
   context.fillStyle = paper;
   context.fillRect(0, 0, card.width, card.height);
-  drawOrbitSignature(context, accent, softAccent, card, format);
+
+  let illustrationDrawn = false;
+  if (input.illustrationUrl) {
+    try {
+      const illustration = await loadCanvasImage(input.illustrationUrl);
+      drawIllustrationLayer(context, illustration, paper, card, format, visualStyle);
+      illustrationDrawn = true;
+    } catch {
+      // Export should still succeed as the original typographic card if an asset is unavailable.
+    }
+  }
+
+  drawThemeSignature(
+    context,
+    theme,
+    card,
+    format,
+    visualStyle,
+    input.signature?.trim() || "NOTHING FINAL",
+  );
 
   context.textBaseline = "top";
   context.textAlign = "center";
-  const layout = fitQuoteLayout(context, input.quoteEnglish, input.quoteChinese, card);
-  const authorLineHeight = Math.round(card.authorSize * 1.35);
-  const workLineHeight = Math.round(card.workSize * 1.45);
-  const attributionHeight = card.attributionGap
-    + 2
-    + card.accentToAuthor
-    + authorLineHeight
-    + card.authorToWork
-    + workLineHeight;
-  const quoteBlockTop = Math.max(
-    72,
-    (card.height - layout.height - attributionHeight) / 2,
+  const quoteCard: CardLayout = illustrationDrawn
+    ? format === "landscape"
+      ? {
+          ...card,
+          quoteMaxWidth: 660,
+          quoteMaxHeight: 470,
+          bilingualEnglishSize: 34,
+          bilingualChineseSize: 50,
+          singleEnglishSize: 49,
+          singleChineseSize: 60,
+          minimumScale: 0.66,
+          maxEnglishLines: 5,
+          maxChineseLines: 4,
+          attributionGap: 42,
+          accentToAuthor: 22,
+        }
+      : format === "square"
+        ? {
+            ...card,
+            quoteMaxWidth: 840,
+            quoteMaxHeight: 370,
+            bilingualEnglishSize: 31,
+            bilingualChineseSize: 46,
+            singleEnglishSize: 46,
+            singleChineseSize: 56,
+            minimumScale: 0.62,
+            maxEnglishLines: 4,
+            maxChineseLines: 3,
+            attributionGap: 30,
+            accentToAuthor: 20,
+          }
+      : {
+          ...card,
+          quoteMaxWidth: 840,
+          quoteMaxHeight: format === "story" ? 620 : format === "portrait" ? 520 : 470,
+          bilingualEnglishSize: 35,
+          bilingualChineseSize: 51,
+          singleEnglishSize: 51,
+          singleChineseSize: 61,
+          minimumScale: 0.64,
+          maxEnglishLines: 5,
+          maxChineseLines: 4,
+          attributionGap: 42,
+          accentToAuthor: 24,
+        }
+    : card;
+  const natureLabel = input.natureLabel?.trim() || undefined;
+  const natureSize = Math.max(14, Math.round(quoteCard.workSize * 0.9));
+  const natureLineHeight = natureLabel ? Math.round(natureSize * 1.4) : 0;
+  const natureToAuthor = natureLabel
+    ? Math.max(8, Math.round(quoteCard.authorToWork * 0.75))
+    : 0;
+  const natureReserve = natureLineHeight + natureToAuthor;
+  const quoteLayoutCard = natureLabel
+    ? {
+        ...quoteCard,
+        quoteMaxHeight: Math.max(120, quoteCard.quoteMaxHeight - natureReserve),
+      }
+    : quoteCard;
+  const layout = fitQuoteLayout(
+    context,
+    input.quoteEnglish,
+    input.quoteChinese,
+    quoteLayoutCard,
   );
+  const authorLineHeight = Math.round(quoteCard.authorSize * 1.35);
+  const workLineHeight = Math.round(quoteCard.workSize * 1.45);
+  const attributionHeight = quoteCard.attributionGap
+    + 2
+    + quoteCard.accentToAuthor
+    + natureReserve
+    + authorLineHeight
+    + quoteCard.authorToWork
+    + workLineHeight;
+  const quoteCenterX = illustrationDrawn && format === "landscape"
+    ? card.width * 0.735
+    : card.width / 2;
+  const illustratedReadingTop = format === "square"
+    ? 500
+    : format === "story"
+      ? 900
+    : format === "portrait"
+      ? 700
+      : 650;
+  const quoteBlockTop = illustrationDrawn && format !== "landscape"
+    ? Math.max(
+        illustratedReadingTop,
+        illustratedReadingTop
+          + (card.height - illustratedReadingTop - layout.height - attributionHeight) / 2,
+      )
+    : Math.max(72, (card.height - layout.height - attributionHeight) / 2);
   let quoteTop = quoteBlockTop;
   context.fillStyle = ink;
 
@@ -349,7 +838,7 @@ export async function renderThoughtCard(input: ThoughtCardExport): Promise<Blob>
     if (layout.englishLines.length === 0) return;
     setFont(context, layout.englishSize, SERIF_FONT, 400, "italic");
     context.globalAlpha = input.quoteChinese ? 0.67 : 0.9;
-    drawLines(context, layout.englishLines, card.width / 2, quoteTop, layout.englishLineHeight);
+    drawLines(context, layout.englishLines, quoteCenterX, quoteTop, layout.englishLineHeight);
     quoteTop += layout.englishLines.length * layout.englishLineHeight
       + (hasFollowingQuote ? layout.gap : 0);
   };
@@ -358,7 +847,7 @@ export async function renderThoughtCard(input: ThoughtCardExport): Promise<Blob>
     if (layout.chineseLines.length === 0) return;
     setFont(context, layout.chineseSize, SERIF_FONT, 400);
     context.globalAlpha = 0.92;
-    drawLines(context, layout.chineseLines, card.width / 2, quoteTop, layout.chineseLineHeight);
+    drawLines(context, layout.chineseLines, quoteCenterX, quoteTop, layout.chineseLineHeight);
     quoteTop += layout.chineseLines.length * layout.chineseLineHeight
       + (hasFollowingQuote ? layout.gap : 0);
   };
@@ -372,18 +861,39 @@ export async function renderThoughtCard(input: ThoughtCardExport): Promise<Blob>
   }
   context.globalAlpha = 1;
 
-  const accentY = quoteBlockTop + layout.height + card.attributionGap;
-  const authorY = accentY + 2 + card.accentToAuthor;
-  const workY = authorY + authorLineHeight + card.authorToWork;
+  const accentY = quoteBlockTop + layout.height + quoteCard.attributionGap;
+  const natureY = accentY + 2 + quoteCard.accentToAuthor;
+  const authorY = natureY + natureReserve;
+  const workY = authorY + authorLineHeight + quoteCard.authorToWork;
   context.fillStyle = accent;
-  context.fillRect(card.width / 2 - 22, accentY, 44, 2);
+  const accentWidth = visualStyle === "archive" ? 156 : visualStyle === "marginalia" ? 58 : 44;
+  context.fillRect(
+    quoteCenterX - accentWidth / 2,
+    accentY,
+    accentWidth,
+    visualStyle === "marginalia" ? 3 : 2,
+  );
+  if (natureLabel) {
+    const fittedNature = fitSingleLineText(
+      context,
+      natureLabel,
+      quoteCard.quoteMaxWidth * 0.9,
+      natureSize,
+      12,
+    );
+    context.fillStyle = accent;
+    context.globalAlpha = 0.72;
+    setFont(context, fittedNature.size, SANS_FONT, 600);
+    context.fillText(fittedNature.text, quoteCenterX, natureY);
+    context.globalAlpha = 1;
+  }
   context.fillStyle = ink;
   context.textAlign = "center";
-  setFont(context, card.authorSize, SANS_FONT, 500);
-  context.fillText(input.author, card.width / 2, authorY);
+  setFont(context, quoteCard.authorSize, SANS_FONT, 500);
+  context.fillText(input.author, quoteCenterX, authorY);
   context.globalAlpha = 0.56;
-  setFont(context, card.workSize, SERIF_FONT, 400);
-  context.fillText(input.work, card.width / 2, workY);
+  setFont(context, quoteCard.workSize, SERIF_FONT, 400);
+  context.fillText(input.work, quoteCenterX, workY);
   context.globalAlpha = 1;
 
   return new Promise((resolve, reject) => {
@@ -420,6 +930,6 @@ export function thoughtCardFilename(
   format?: ThoughtCardFormat,
 ) {
   const date = new Date().toISOString().slice(0, 10).replaceAll("-", "");
-  const formatSuffix = format ? `-${format}` : "";
+  const formatSuffix = format ? `-${CARD_FORMAT_FILENAME_SUFFIX[format]}` : "";
   return `${safeFilePart(brandName)}-${safeFilePart(author)}${formatSuffix}-${date}.png`;
 }

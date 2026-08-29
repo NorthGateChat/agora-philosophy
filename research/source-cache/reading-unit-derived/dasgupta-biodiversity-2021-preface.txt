@@ -1,0 +1,691 @@
+Preface
+Economics, like I imagine other scientific disciplines, normally moves in incremental steps, and 
+always without a central guide. Much like practitioners of other disciplines, we economists work 
+with models of those features of the world we want to study in detail. That involves keeping all 
+else in the far background. Models are thus parables, some say they are caricatures, which is of 
+course their point.
+Economics is also a quantitative subject. Finance ministers need estimates of tax revenues if they 
+are to meet intended government expenditure; environment ministers today cannot but ask 
+how much farmers should be paid to set aside land for ‘greening’ the landscape, and whether 
+fossil-fuel subsidies should be eliminated; health ministers look to convince cabinet colleagues 
+that investment in health is good for economic growth; and so on. Which is why economic 
+models are almost invariably cast in mathematical terms.
+That is also why the models that appear in economics journals can appear esoteric, unreal, 
+and even self-indulgent. Many would argue as well that to model human behaviour formally, 
+let alone mathematically, is to tarnish the human experience, with all its richness. And yet, 
+economists in governments, international organisations, and private corporations find 
+those models and their adaptations essential for collecting and analysing data, forecasting 
+economic trajectories, evaluating options and designing policy. Perhaps, then, it should be no 
+surprise that those same models go on to shape the conception we build of our economic 
+possibilities. In turn, our acceptance of the economic possibilities those models say are open 
+to us encourages academic economists to refine and develop them further along their tested 
+contours. And that in turn further contributes to our beliefs about what is achievable in our 
+economic future. The mutual influence is synergistic.1
+That has had at least one unintended and costly consequence. Not so long ago, when the world 
+was very different from what it is now, the economic questions that needed urgent response 
+could be studied most productively by excluding Nature from economic models. At the end 
+of the Second World War, absolute poverty was endemic in much of Africa, Asia, and Latin 
+America; and Europe needed reconstruction. It was natural to focus on the accumulation of 
+produced capital (roads, machines, buildings, factories, and ports) and what we today call 
+human capital (health and education). To introduce Nature, or natural capital, into economic 
+models would have been to add unnecessary luggage to the exercise.2
+Nature entered macroeconomic models of growth and development in the 1970s, but in an 
+inessential form.3 The thought was that human ingenuity could overcome Nature’s scarcity over 
+time, and ultimately (formally, in the limit) allow humanity to be free of Nature’s constraints 
+(Chapter 4*). But the practice of building economic models on the backs of those that had most 
+1 It will be asked who is represented in the collective ‘we’ and ‘our’ that I am using here. It is not everyone in the world, and 
+certainly not restricted to those who agree with the claims I am making about the mutual influence of academic economic models 
+and a general reading of economic possibilities. The group I have in mind is not fixed by designation but through invitation – for 
+example, people who read this Review – to consider why and how we need to break the cycle and revise the conception we hold of 
+humanity’s place in the biosphere.
+2 The significance of the years immediately following the Second World War for the economics of biodiversity is shown repeatedly in 
+the Review (see especially Chapter 4). I am referring to the evolution of economic thinking in the West. However, to the best of my 
+knowledge the economic models that shaped state policy in the Soviet Union, and the ones developed by prominent academics in 
+Latin America, also did not include Nature. In the Review, the terms Nature, natural capital, the natural environment, the biosphere, 
+and the natural world are used interchangeably. 
+3 See, for example, the special issue in the Review of Economic Studies (1974) on the economics of exhaustible resources.
+
+Preface
+4 The Economics of Biodiversity: The Dasgupta Review
+recently been designed meant that the macroeconomics of growth and development continued 
+to be built without Nature’s appearance as an essential entity in our economic lives. Historians 
+of science and technology call that feature of the process of selection ‘path dependence’.4 
+That may be why economic and finance ministries and international organisations today graft 
+particular features of Nature, such as the global climate, onto their models as and when the 
+need arises, but otherwise continue to assume the biosphere to be external to the human 
+economy. In turn, the practice continues to influence our conception of economic possibilities 
+for the future. We may have increasingly queried the absence of Nature from official conceptions 
+of economic possibilities, but the worry has been left for Sundays. On week-days, our thinking 
+has remained as usual.5
+Biodiversity is the diversity of life. We will find that the economics of biodiversity is the 
+economics of the entire biosphere. So, when developing the subject, we will keep in mind that 
+we are embedded in Nature. The Review shows (Chapter 4*) that although the difference in 
+conception is analytically slight, it has profound implications for what we can legitimately expect 
+of the human enterprise. The former viewpoint encourages the thought that human ingenuity, 
+when it is directed at advancing the common good, can raise global output indefinitely without 
+affecting the biosphere so adversely that it is tipped into a state far-removed from where it has 
+been since long before human societies began to form; the latter is an expression of the thought 
+that because the biosphere is bounded, the global economy is bounded.
+I imagine the person reading the Review is doing so because she wants to understand our place 
+in Nature as a citizen. She is curious to know what sustainable development should mean; what 
+criteria governments and private companies should use when choosing investment projects; 
+what rules private investors such as herself should use to compare alternative asset portfolios; 
+what she should insist be the practices of companies producing the goods and services she 
+purchases and consumes; whether the social returns on investment in family planning and 
+reproductive health to meet the unmet needs of millions of the world’s poorest women are so 
+low that the European Union assigns less than 1% of their international aid budget to them; 
+and so on. Depending on the context, I call her the ‘social evaluator’, or the ‘citizen investor’. 
+The social evaluator recognises that her perspective as a citizen is different from the one she 
+assumes as she goes about her daily life. And she wants to understand why that is so.
+In the chapters that follow, the natural world is studied in relation to the many other assets 
+we hold in our portfolios, such as the vehicles we use for transport, the homes in which we 
+live, and the machines and equipment that furnish our offices and factories. But like education 
+and health, Nature is more than a mere economic good. Nature nurtures and nourishes us, 
+so we will think of assets as durable entities that not only have use value, but may also have 
+intrinsic worth. Once we make that extension, the economics of biodiversity becomes a study in 
+portfolio management.
+That should be no surprise, for we are all asset managers pretty much all of the time. 
+Whether as farmers or fishers, foresters or miners, households or companies, governments or 
+communities, we manage the assets to which we have access, in line with our motivations as 
+best as we can. But the best each of us is able to achieve with our portfolios may nevertheless 
+result in a massive collective failure to manage the global portfolio of all our assets. The analogy 
+of each of a crowd of people trying to keep balance on a hanging bridge and bringing it 
+crashing down speaks to that possibility.
+4 A clear statement is in P . A. David, ‘Clio and the Economics of QWERTY’, American Economic Review, 75(2), 332-337. 
+5 Over the years the absence of Nature’s essentiality from macroeconomic models of growth and development has been remarked 
+upon by scholars outside the mainstream of economic thinking and practice. But while it is all too easy to criticise existing practices, 
+it is a lot harder to develop alternative models of comparable analytical depth and empirical reach to ones that have been honed by 
+years of patient work. That may be why the criticisms have not been taken seriously by mainstream economists. 
+
+Preface
+The Economics of Biodiversity: The Dasgupta Review 5
+The Review has been prompted by a growing body of evidence that in recent decades humanity 
+has been degrading our most precious asset, Nature, at rates far greater than ever before. 
+Simultaneously, the material standard of living of the average person in the world has become 
+far higher today than it has ever been; indeed, we have never had it so good. In the process 
+of getting to where we are, though, we have degraded the biosphere to the point where the 
+demands we make of its goods and services far exceed its ability to meet them on a sustainable 
+basis. That is ominous for our descendants and suggests we have been living at both the best 
+and worst of times.
+The Review demonstrates that in order to judge whether the path of economic development 
+we choose to follow is sustainable, nations need to adopt a system of economic accounts that 
+records an inclusive measure of their wealth. The qualifier ‘inclusive’ says that wealth includes 
+Nature as an asset. The contemporary practice of using Gross Domestic Product (GDP) to judge 
+economic performance is based on a faulty application of economics. GDP is a flow (so many 
+market dollars of output per year), in contrast to inclusive wealth, which is a stock (it is the 
+social worth of the economy’s entire portfolio of assets). Relatedly, GDP does not include the 
+depreciation of assets, for example the degradation of the natural environment (we should 
+remember that ‘G’ in GDP stands for gross output of final goods and services, not output net 
+of depreciation of assets). As a measure of economic activity, GDP is indispensable in short-run 
+macroeconomic analysis and management, but it is wholly unsuitable for appraising investment 
+projects and identifying sustainable development. Nor was GDP intended by economists who 
+fashioned it to be used for those two purposes. An economy could record a high rate of 
+growth of GDP by depreciating its assets, but one would not know that from national statistics. 
+The chapters that follow show that in recent decades eroding natural capital has been precisely 
+the means the world economy has deployed for enjoying what is routinely celebrated as 
+‘economic growth’. The founding father of economics asked after The Wealth of Nations, not 
+the GDP of nations. The idea of wealth that is developed in the Review is, not surprisingly, a 
+lot richer than the one Adam Smith was able to fashion, but his identification of assets as the 
+objects of interest was exactly right.
+Acknowledgement that by economic progress we should mean growth in inclusive wealth brings 
+the Review back full circle to where it begins, which is that just as the private investor manages 
+his portfolio with an eye on its market value, the citizen investor appraises the portfolio of 
+global assets with an eye on their social worth. Wealth maximisation in its various guises unites 
+microeconomic reasoning with its macroeconomic counterpart.
+The Review makes use of this unification to develop the idea of sustainable development. 
+It constructs a grammar for understanding our engagements with Nature – what we take from 
+it, how we transform what we take from it and return to it, why and how in recent decades we 
+have disrupted Nature’s processes to the detriment of our own and our descendants’ lives, and 
+what we can do to change direction.
+As this is a global Review, I often speak of the demands humanity makes on Nature. But much 
+of the time the Review is obliged to look closely at smaller scales and local engagement with 
+Nature. Differences in the way communities are able to live tell us that people do not experience 
+increasing resource scarcity in the same way. Food, potable water, clothing, a roof over one’s 
+head, clean air, a sense of belonging, participating with others in one’s community, and a 
+reason for hope are no doubt universal needs. But the emphasis people place on the goods and 
+services Nature supplies differs widely. To farmers in South Asia and Sub-Saharan Africa, it could 
+be declining sources of water and increasing variability in rainfall in the foreground of global 
+climate change; to indigenous populations in Amazonia, it may be eviction not just from their 
+physical home, but from their spiritual home too; to inhabitants of shanty towns everywhere, 
+the worry may be the infections they are exposed and subjected to from open sewers; to the 
+suburban household in the UK, it may be the absence of bees and butterflies in the garden; 
+to residents of mega-cities, it could be the poisonous air they breathe; to the multi-national 
+
+Preface
+6 The Economics of Biodiversity: The Dasgupta Review
+company, it may be the worry about supply chains, as disruptions to the biosphere make old 
+sources of primary products unreliable and investments generally more risky; to governments in 
+many places, it may be the call by citizens, even children, to stem global climate change; and 
+to people everywhere today, it may be the ways in which those varied experiences combine and 
+give rise to environmental problems that affect us all, not least the COVID-19 pandemic and 
+other emerging infectious diseases, of which land-use change and species exploitation are major 
+drivers. Degradation of Nature is not experienced in the same way by everyone.
+Nature has features that differ subtly from produced capital goods. The financier may be 
+moving assets around in his portfolio, but that is only a figure of speech. His portfolio represents 
+factories and ports, plantations and agricultural land, and mines and oil fields. Reasonably, he 
+takes them to be immobile. In contrast, Nature is in large measure mobile. Insects and birds fly, 
+fish swim, the wind blows, rivers flow, and the oceans circulate, and even earthworms travel. 
+Economists have long realised that Nature’s mobility is one reason the citizen investor will not 
+take the market prices of natural capital to represent their social worth even when markets for 
+them exist. The Review studies the wedge between the prices we pay for Nature’s goods and 
+services and their social worth (the Review calls their social worth ‘accounting prices’) in terms of 
+what economists call ‘externalities’. Over the years a rich and extensive literature has identified 
+the measures that can be deployed (the forces of the law and social norms) for closing that 
+wedge. The presence of the wedge is why the citizen investor will insist that companies disclose 
+activities along their entire supply chain. Disclosure serves to substitute for imperfect markets.
+But in addition to mobility, Nature has two properties that make the economics of biodiversity 
+markedly different from the economics that informs our intuitions about the character of 
+produced capital. Many of the processes that shape our natural world are silent and invisible. 
+The soils are a seat of a bewildering number of processes with all three attributes. Taken 
+together the attributes are the reason it is not possible to trace very many of the harms inflicted 
+on Nature (and by extension, on humanity too) to those who are responsible. Just who is 
+responsible for a particular harm is often neither observable nor verifiable. No social mechanism 
+can meet this problem in its entirety, meaning that no institution can be devised to enforce 
+socially responsible conduct.
+It would seem then that, ultimately, we each have to serve as judge and jury for our own 
+actions. And that cannot happen unless we develop an affection for Nature and its processes. 
+As that affection can flourish only if we each develop an appreciation of Nature’s workings, 
+the Review ends with a plea that our education systems should introduce Nature studies from 
+the earliest stages of our lives, and revisit them in the years we spend in secondary and tertiary 
+education. The conclusion we should draw from this is unmistakable: if we care about our 
+common future and the common future of our descendants, we should all in part be naturalists.
+The Review builds on six previous publications of mine, each directed at a particular class 
+of problems that belong to the economics of biodiversity.6 I may have been trying in those 
+publications to develop a grammar for the subject, but I did not know it then, at least 
+not consciously. For that reason, the exercises there now read like acts of reconnaissance. 
+Each has informed the Review in essential ways, but taken together they did not sum to an 
+economics of biodiversity. Which is why I am particularly grateful to Lord (Philip) Hammond, 
+who as Chancellor of the Exchequer of the UK Government, invited me to lead the Review in 
+Spring 2019.
+6 P .S. Dasgupta and G.M. Heal (1979), Economic Theory and Exhaustible Resources (Cambridge: Cambridge University Press), and P . 
+Dasgupta: The Control of Resources (Cambridge, MA: Harvard University Press, 1982); An Inquiry into Well-Being and Destitution 
+(Oxford: Clarendon Press, 1993); Human Well-Being and the Natural Environment (Oxford: Oxford University Press, 2004); 
+Economics: A Very Short Introduction (Oxford: Oxford University Press, 2007); and Time and the Generations: Population Ethics for a 
+Diminishing Planet (New York, NY: Columbia University Press, 2019). 
+
+Preface
+The Economics of Biodiversity: The Dasgupta Review 7
+My education in what is the substance of the Review began in the late 1970s in conversations 
+with Karl-Göran Mäler. He encouraged me to develop my ideas on the links between rural 
+poverty and the state of the local environmental resource-base in the world’s poorest countries – 
+a subject that was then notably absent from mainstream development economics, and which 
+remained absent until well into the 1990s. I was further encouraged by Lal Jayawardena, 
+Director of the World Institute of Development Economics Research (WIDER), Helsinki, who 
+invited Mäler and me in 1988 to establish a programme at his institute on the environment and 
+emerging development issues.7
+But it wasn’t until 1991 when, as the newly appointed Director of the Beijer Institute of 
+Ecological Economics, Stockholm, Mäler asked me to serve as Chair of the Institute’s Scientific 
+Advisory Board, that we were able to pursue the programme jointly with ecologists. The 
+Institute’s mandate made it possible, which was unusual at that time, for ecologists and 
+economists to conduct a regular series of workshops in ecological economics. In this, Mäler and 
+I were aided greatly by the intellectual authority of Kenneth Arrow, Bert Bolin, Paul Ehrlich, and 
+Simon Levin. The Institute’s activities have continued with the same exacting standard under 
+Carl Folke, who assumed the Directorship when Mäler retired.
+As these developments were confined to Continental Europe, it was natural for us to imagine 
+regional networks of ecological economists in developing countries. That was made possible 
+by a grant from the MacArthur Foundation, Chicago. It enabled Mäler and me in 1999 to 
+establish the South Asian Network for Development and Environmental Economics (SANDEE) 
+and simultaneously the journal Environment and Development Economics (Cambridge University 
+Press). Our idea was to offer not only encouragement, but also financial help and a journal 
+based in the West where university teachers of economics in developing countries could publish 
+their research findings. We were able soon after to help colleagues in Eastern and Southern 
+Africa and in Latin America to establish their own networks.8
+Mäler and I received further help. This time from Miguel Virasoro, Director of the Abdus Salam 
+International Centre for Theoretical Physics (ICTP), Trieste, who invited us in 2001 to create a 
+programme in ecological economics at ICTP . We used the opportunity to invite economists in our 
+newly formed networks to the Centre, so that they could prepare their findings for publication 
+with help from members of the journal’s editorial board. Readers will find that the Review has 
+been much influenced by the rich body of work by colleagues in those networks.
+The economics of biodiversity requires attention to local socio-ecological details. I was 
+introduced to the idea of social capital and its relevance for ecological economics at the 
+biannual retreat that Ismail Serageldin convened for an advisory panel he had constituted 
+in the mid-1990s at the Sustainable Development Vice Presidency of the World Bank.9 
+My understanding of the subject has deepened at the annual teaching workshop that SANDEE 
+has organised since its inception, from discussions with my fellow lecturers Rabindranath 
+Bhattacharya, Randall Bluffstone, Enamul Haque, Karl-Göran Mäler, Pranab Mukhopadhyay, 
+M.N. Murty, Mani Nepal, Subhrendu Pattanayak, Priya Shyamsundar, E. Somanathan, Jeff 
+Vincent, and participants from Bangladesh, Bhutan, India, Nepal, Pakistan, and Sri Lanka, too 
+numerous to mention individually. On the science of complexity, I have learnt enormously from 
+7 The programme’s proceedings were published in P . Dasgupta and K.-G. Mäler, eds., The Environment and Emerging Development 
+Issues, Vols. I and II (Oxford: Clarendon Press, 1997), and P . Dasgupta, K.-G. Mäler, and A. Vercelli, eds., The Economics of 
+Transnational Commons (Oxford: Clarendon Press, 1997).
+8 Resource Accounting Network for Eastern and Southern Africa (RANESA) and the Centre for Environmental Economics and Policy 
+in Africa (CEEPA), Pretoria; and Latin American and Caribbean Environmental Economics (LACEEP) and the Tropical Agricultural 
+Research and Higher Education Center (CATIE), Costa Rica. SANDEE is based at the International Center for Integrated Mountain 
+Development (ICIMOD), Kathmandu.
+9 The Panel’s proceedings were published in P . Dasgupta and I. Serageldin, eds. (2000), Social Capital: A Multifaceted Perspective 
+(Washington, DC: World Bank).
+
+Preface
+8 The Economics of Biodiversity: The Dasgupta Review
+discussions over a period of fifteen years with fellow members of the Scientific Advisory Panel of 
+the Programme on Complex Systems at the James S. McDonnell Foundation, St. Louis, and from 
+the Foundation’s successive Presidents, John Bruer and Susan Fitzpatrick.
+Before beginning work on the Review, I asked Simon Beard, John Bongaarts, Simon Levin, 
+Tom Lovejoy, and Peter Raven to prepare essays for me on subjects I knew to be essential but 
+on which I was inexpert. The ideas they developed are reflected in the present work. The Review 
+has been much influenced also by Scott Barrett and Aisha Dasgupta, who assumed the lead in 
+collaborative works that form the basis of some of the central ideas here.
+During the Review’s preparation, I have gained enormously from correspondence and 
+discussions with Inger Andersen, Robert Aumann, Scott Barrett, Ian Bateman, Simon Beard, 
+Simon Blackburn, Caroline Bledsoe, John Bongaarts, Stephen Carpenter, William Clark, 
+Mary Colwell, Diane Coyle, Aisha Dasgupta, Shamik Dasgupta, Zubeida Dasgupta, Paul Ehrlich, 
+Carl Folke, Patrick Gerland, Roger Gifford, Lawrence Goulder, Ben Groom, Andy Haines, 
+Geoffrey Heal, Cameron Hepburn, Girol Karacaoglu, Phoebe Koundouri, Pushpam Kumar, 
+Tim Lenton, Simon Levin, Justin Lin, Tim Littlewood, Georgina Mace, Robert Macfarlane, 
+Shunsuke Managi, Eric Maskin, Henrietta Moore, Tid Morton, Ilan Noy, Gustav Paez, 
+Charles Perrings, Stuart Pimm, Peter Raven, Martin Rees, Fiona Reynolds, Marten Scheffer, 
+Ingmar Schumacher, V. Kerry Smith, Denise Spinney, Will Steffen, Nicholas Stern, Thomas Sterner, 
+William Sutherland, Nicola Tagart, Alistair Ulph, Ruut Veenhoven, Jeff Vincent, Robert Watson, 
+Gavin Wright, Anastasios Xepapadeas, Menahem Yaari, and Aart de Zeeuw.
+I am especially grateful to HM Treasury for enabling Sandy Sheard to assemble an 
+exceptionally gifted team who have helped me think through the economics of biodiversity. 
+Drawn from across the public sector and based in HM Treasury, they have provided me 
+with invaluable support over the course of the Review, including Mark Anderson, Heather 
+Britton, Abbas Chaudri, Dana Cybuch, Rebecca Gray, Haroon Mohamoud, Robert Marks, 
+Emily McKenzie, Diana Mortimer, Rebecca Nohl, Felix Nugee, Ant Parham, Victoria Robb, 
+Sandy Sheard, Sehr Syed, Thomas Viegas, Ruth Waters, and Lucy Watkinson. They have gathered 
+evidence from a wide range of experts from around the world, arranged for me to meet many of 
+them, supported my Advisory Panel, prepared a wealth of case studies, edited the Review, and 
+made vital contributions to drafting elements of the Review itself – particularly, the chapters in 
+Part II. Even more, they queried every intellectual move I made; to a professor, there can be no 
+greater reward.
+Above all, I am grateful to Carol Dasgupta, on whom I have tested pretty much every idea in the 
+Review. Her suggestions on what to emphasise and what is superficial have been invaluable.
+The influence of Amiya Dasgupta, Kenneth Arrow, Paul Ehrlich, Peter Raven, John Rawls, and 
+Robert Solow on the way I frame economics has become increasingly evident to me. 
+Partha Dasgupta
+St John’s College, Cambridge
+
+The Economics of Biodiversity: The Dasgupta Review 9
+Contents
+Foreword 1
+Preface 3
+Part I – Foundations 19
+Chapter 0 How We Got to Where We Are 21
+0.1 Economic History Since Year 0 22
+0.2 Economic Growth and Sustainable Development 25
+0.3 Historical Success and Failures 28
+0.4 Understanding Humanity’s Contemporary Overshoot 30
+Chapter 1 Nature as an Asset 35
+1.0 Portfolio Management 35
+1.1 Classification of Capital Goods 38
+1.2 Rates of Return and Arbitrage Conditions 40
+1.3 Public Asset Management and the Wealth/Well-Being Equivalence Theorem 42
+1.4 Two Types of Comparison 43
+1.5 The Earth System and Economic Growth 45
+1.6 Total vs. Marginal Values 47
+1.7 Institutions and the Character of Natural Capital 48
+1.8 Anthropocentric Value of Biodiversity 49
+Chapter 2 Biodiversity and Ecosystem Services 51
+2.1 Biodiversity in Ecosystems 51
+2.2 Primary Producers 54
+2.3 Ecosystems do not Maximise NPP 60
+2.4 Ecosystem Goods and Services: Classification 61
+2.5 Invisibility and Silence of Regulating and Maintenance Services 64
+2.6 Conservation vs. Pollution 66
+2.7 Ecosystem Productivity and Resilience 68
+2.8 Biodiversity and Ecosystem Productivity/Resilience: The Causal Connection 69
+2.9 Modularity as a Spatial Feature of Ecosystems 73
+2.10 Biodiversity and Ecosystem Productivity: Summary 74
+Annex 2.1 Community Structure 75
+Annex 2.2 Measuring Biodiversity 77
+Annex 2.3 Quantity and Quality of our Stock and How it has Changed 80
+Chapter 3 Biospheric Disruptions 83
+3.1 Fragmentation as Disturbance 83
+3.2 Stability Regimes 85
+3.3 History Dependence 89
+3.4 Conservation Ecology and Tipping Points 91
+
+Contents
+10 The Economics of Biodiversity: The Dasgupta Review
+Annex 3.1 The Phosphorus Recycling Mechanism in Lake Systems 93
+Annex 3.2 Tipping Points 95
+Annex 3.3 Hysteresis and Irreversibilities in Lake Dynamics 96
+Annex 3.4 Instantaneous Elimination of Phosphorus Inflow 98
+Annex 3.5 Morals 99
+Chapter 4 Human Impact on the Biosphere 101
+4.1 Depreciating the Biosphere 101
+4.2 Demand and Supply 114
+4.3 The Impact Inequality 117
+4.4 Two Notions of Inequality 119
+4.5 The Impact Equation 120
+4.6 Technology and Institutions  123
+4.7 Ecosystem Complementarities and the Bounded Global Economy 126
+4.8 Core of the Review 129
+Annex 4.1 Biodiversity Loss and Climate Change 131
+Chapter 4* The Bounded Global Economy 137
+4*.1 Substitutes and Complements 138
+4*.2 Modelling the Global Economy 139
+4*.3 Contemporary Models of Economic Growth 142
+Chapter 5 Risk and Uncertainty 145
+5.1 Portfolio Choice under Uncertainty 146
+5.2 Independent vs. Correlated Risks 148
+5.3 Reducing Risks and the Losses from Risks 155
+5.4 When to Stop Business-as-Usual 156
+5.5 The Value of Keeping Options Open 159
+Annex 5.1 Fat Tails and Unbounded Utilities: St. Petersburg Paradoxes 162
+Annex 5.2 Catastrophes and Ambiguities 165
+Chapter 6 Laws and Norms as Social Institutions 167
+6.1 Societal Trust and Economic Progress 169
+6.2 The Idea of Trust 170
+6.3 The Basis of Trust, 1 171
+6.4 The Basis of Trust, 2 173
+6.5 Social Capital as the Basis of Societal Coherence 181
+6.6 Social Capital and Identity 183
+6.7 The Primacy of Integrity 186
+Annex 6.1 Corruption 187
+Chapter 7 Human Institutions and Ecological Systems, 1: 
+Unidirectional Externalities and Regulatory Policies 189
+7.1 Property Rights and Wealth Distributions 191
+7.2 Externalities and Rights 192
+7.3 Taxing and Subsidising Externalities 194
+
+Contents
+The Economics of Biodiversity: The Dasgupta Review 11
+7.4 Quantity Restrictions  196
+7.5 Markets for Externalities 199
+7.6 Payment for Ecosystem Services 203
+Chapter 8 Human Institutions and Ecological Systems, 2: Common 
+Pool Resources 207
+8.1 Open Access Resources 207
+8.2 Common Pool Resources (CPRs) 209
+8.3 CPRs and the Poor World 210
+8.4 Fragility of CPRs 213
+8.5 Property Rights to Land 216
+8.6 Property Rights and Management: A Schemata 218
+Annex 8.1 Estimating Subsidies 219
+Chapter 8* Management of CPRs: A Formal Model 223
+8*.1 A Timeless World 223
+8*.2 Mutual Enforcement of Optimum Herd Size 226
+8*.3 Privatising the CPR 227
+8*.4 Extensions 227
+Chapter 9 Human Institutions and Ecological Systems, 3: Consumption 
+Practices and Reproductive Behaviour 231
+9.1 Socially Embedded Consumption Preferences 232
+9.2 Consumption Practices 235
+9.3 Induced Behavioural Changes 237
+9.4 Factors that Slow Fertility Transition 239
+9.5 Socially Embedded Reproductive Behaviour 242
+9.6 Importance of Investment in Family Planning and Reproductive Health 246
+9.7 Unmet Need, Desired Family Size, and the UN’s Sustainable Development Goals 247
+Annex 9.1 Socially Embedded Preferences for Consumption: Formulation 249
+Chapter 10 Well-Being Across the Generations 253
+10.1 Classical Utilitarianism 254
+10.2 Utilitarian Reasoning behind the Veil of Ignorance 259
+10.3 Discounting Future Generations 260
+10.4 Intuitionism and Pragmatism 263
+10.5 Discounting in Arbitrary Futures 264
+10.6 Directives on Discounting 268
+10.7 Social Rates of Return on Investment 270
+10.8 Accounting Prices 273
+10.9 Should Environmental Projects be Evaluated Using Lower Discount Rates? 275
+10.10 The Idea of Investment 276
+Annex 10.1 A Simple Exercise in Optimum Saving 279
+Annex 10.2 Uncertainty and Declining Discount Rates 281
+
+Contents
+12 The Economics of Biodiversity: The Dasgupta Review
+Chapter 11 The Content of Well-Being: Empirics 285
+11.1 Objective Measures of Well-Being 286
+11.2 Measuring Well-Being by Asking People 288
+11.3 Intranational and International Comparisons of Well-Being 290
+11.4 Measurement and Interpersonal Comparisons of Subjective Well-Being 293
+11.5 Determinants of Well-Being 295
+11.6 Nature and Well-Being 297
+Chapter 12 Valuing Biodiversity 301
+12.1 Estimating Accounting Prices: General Observations 302
+12.2 Stated Preference for Public Goods 304
+12.3 Revealed Preference for Amenities 305
+12.4 Productivity as Accounting Price 306
+12.5 Human Health 307
+12.6 Nature’s Existence Value and Intrinsic Worth: Sacredness 309
+12.7 Nature’s Intrinsic Worth: Moral Standing 310
+Annex 12.1 Valuing Ecosystem Services in China: Gross Ecosystem Product 313
+Chapter 13 Sustainability Assessment and Policy Analysis 323
+13.1 Capital Goods 323
+13.2 Enabling Assets 324
+13.3 The Idea of Inclusive Wealth 326
+13.4 Inclusive Wealth and Intergenerational Well-Being 327
+13.5 Inclusive Wealth and the Substitutability of Capital Goods 330
+13.6 Six Questions 331
+13.7 SDGs and the Idea of Sustainable Development 331
+13.8 Economic Progress as Growth in Inclusive Wealth 332
+13.9 Total Factor Productivity Growth 335
+13.10 Growth in GDP and Inclusive Wealth  337
+13.11 Net Present Values 339
+13.12 Inclusive Wealth and the Present Value Criterion 342
+13.13 Lower Discount Rates for Environmental Projects? 345
+13.14 Optimum Development 346
+13.15 Production and Consumption Targets 349
+13.16 Internal Rate of Return 349
+Annex 13.1 Economic Growth and Sustainable Development 350
+Annex 13.2 Saving the Blue Whale 353
+Annex 13.3 The Significance of GDP 356
+Chapter 13* Accounting Prices and Inclusive Wealth 359
+13*.1 The Model 360
+13*.2 The Optimisation Problem 360
+13*.3 Arbitrage Conditions and the Structure of Accounting Prices 361
+13*.4 Arbitrage Condition Between Produced Capital and Natural Capital 363
+13*.5 Inclusive Wealth and the Long Run 364
+
+Contents
+The Economics of Biodiversity: The Dasgupta Review 13
+Part II – Extensions 365
+Chapter 14 Distribution and Sustainability 367
+14.1 Global Variation in Demand and Supply 367
+14.2 Distribution of Humanity’s Demands 368
+14.3 Distribution of the Biosphere’s Supply 372
+14.4 Interactions Between the Biosphere and Societal Inequalities 376
+Chapter 15 Trade and the Biosphere 379
+15.1 Trade and the Impact Equation  379
+15.2 Trade Expansion and Pressures on the Biosphere 382
+15.3 Enhancing Trade Practices and Policies to Support Sustainability 388
+Chapter 16 Demand for Provisioning Services and Its Consequences 397
+16.1 Current Harvest of Provisioning Services and Future Prospects 397
+16.2 Trade-Offs Between Provisioning and Regulating Services 406
+16.3 Technology to Increase Efficiency in Our Use of the Biosphere 412
+Chapter 17 Managing Nature-Related Financial Risk and Uncertainty 417
+17.1 Nature-Related Financial Risks 418
+17.2 Uncertainty and Short-Termism  425
+17.3 Assessing Nature-Related Financial Risks  427
+Chapter 18 Conservation of Nature 435
+18.1 Ecosystem Assets 436
+18.2 How Much Ecosystem Stock Do We Need? 437
+18.3 What Kind of Stock Do We Need? 439
+18.4 How Can We Improve and Increase Our Stocks? 440
+18.5 Conservation Planning and Evaluation 449
+18.6 Multilateral Environmental Agreements 449
+Chapter 19 Restoration of Nature 451
+19.1 The Role of Ecosystem Restoration to Improve and Increase Our Stocks 451
+19.2 Rewilding 454
+19.3 Nature-Based Solutions  456
+19.4 Sustainable Production Landscapes and Seas 460
+19.5 Invasive Non-Native Species  461
+19.6 Bringing Natural Capital into Spatial Planning 463
+Chapter 20 Finance for Sustainable Engagement with Nature 467
+20.1 Public Finance 468
+20.2 Private Finance 474
+
+Contents
+14 The Economics of Biodiversity: The Dasgupta Review
+Part III – The Road Ahead 485
+Chapter 21 Options for Change 487
+21.1 Address the Imbalance Between Our Demand and Nature’s Supply, and 
+Increase Nature’s Supply 488
+21.2 Changing Our Measures of Economic Progress 493
+21.3 Transforming Our Institutions and Systems 494
+Appendix 499
+Acronyms 501
+Glossary 503
+References 511
+Acknowledgements 601
+
+Contents
+The Economics of Biodiversity: The Dasgupta Review 15
+List of Boxes
+Chapter 1
+Box 1.1 Managing Assets as Daily Chores
+Box 1.2 Valuing Nature’s Stocks
+Box 1.3 Arbitrage Conditions
+Chapter 2 
+Box 2.1 Biomes
+Box 2.2 Fishery Dynamics
+Box 2.3 Rate of Return on Primary Producers
+Box 2.4 Selection Pressures and Regeneration Rates
+Box 2.5 The Soils
+Box 2.6 Carbon Storage and Seed Dispersal by Large Fauna
+Box 2.7 Watershed Services by Tropical Forests
+Box 2.8 Non-Anthropocentric Perspectives
+Box 2.9 Mix of Species in Grazing Lands
+Box 2.10 Plantations as Ecosystems
+Box A2.2.1 Global Biomass Census
+Chapter 3 
+Box 3.1 Damming Rivers
+Box 3.2 Fencing the Grasslands
+Box 3.3 Multiple Stability Regimes – Fisheries
+Box 3.4 Regime Shifts in Space
+Box 3.5 How is Society to Know that an Ecosystem is Near a Tipping Point?
+Box 3.6 Human Body as an Ecosystem
+Chapter 4 
+Box 4.1 Deforestation and Species Extinction
+Box 4.2 Deoxidation of the Oceans
+Box 4.3 Soil Biodiversity Loss
+Box 4.4 Impact of the Fast Fashion Industry
+Box 4.5 The Idea of Indefinite Economic Growth
+Box 4.6 Reaching the UN SDGs
+Box 4.7 Reducing the Impact Inequality by Restoring the Peatlands
+Box 4.8 Land-Use Change and the Spread of Viruses
+Chapter 5 
+Box 5.1 Expected Utility Theory
+Box 5.2 Independent and Fully Correlated Risks: Comparison
+Box 5.3 Short-Run vs. Long-Run Predictability
+Box 5.4 The Value of Information
+Box 5.5 Mexican Coastal Zone Management Trust
+Box 5.6 When to Stop Business-As-Usual
+Box 5.7 Option Values
+Box A5.1 The St. Petersburg Paradox
+
+Contents
+16 The Economics of Biodiversity: The Dasgupta Review
+Chapter 6 
+Box 6.1 Civic Virtues
+Box 6.2 The Grim Norm
+Box 6.3 Reputation as an Asset
+Box 6.4 The Iddir and ROSCAs
+Box 6.5 Social Capital as Societal Coherence
+Box 6.6 Dark Sides of Social Capital
+Chapter 7 
+Box 7.1 International Trade, Wealth Transfers, and the Character of Technological Change
+Box 7.2 Pigouvian Taxes and Subsidies
+Box 7.3 Rationale for Environmental Regulations
+Box 7.4 New Zealand’s Tradable Permit Scheme for Fisheries
+Box 7.5 Payments for Wildlife Services in Zimbabwe
+Box 7.6 Auctions for Providing Temporary Habitat to Migrating Birds
+Chapter 8 
+Box 8.1 Biosphere as the Common Heritage of Mankind
+Box 8.2 Ownership Rights
+Box 8.3 Plantations for Palm Oil
+Chapter 9 
+Box 9.1 Prying Open Behavioural Anomalies
+Box 9.2 The World Under Faster Demographic Transition
+Box 9.3 The Matlab Experiment, 1977 to 1996
+Chapter 10 
+Box 10.1 Weights and Measures
+Box 10.2 The Value of a Statistical Life
+Box 10.3 Zero Discounting and the Never-Ending Potlatch
+Box 10.4 Consumption Discount Rates (CDRs): Basics
+Box 10.5 Optimum Saving Principle
+Box 10.6 Accounting Prices in a Dynamic Economy
+Box 10.7 Discounting When Preferences are Endogenous
+Chapter 11 
+Box 11.1 Day Reconstruction Method
+Box 11.2 Relative Income Matters
+Box 11.3 Are International Comparisons of Subjective Well-Being Meaningful?
+Box 11.4 New Zealand’s Living Standards Framework
+Box 11.5 The Well-Gardened Mind
+Chapter 12 
+Box 12.1 Contingent Valuation Methods: Problems
+Box 12.2 Valuing Tourism
+Box 12.3 Social Costs of Shrimp Farming
+Box 12.4 Pharmaceuticals, Traditional Medicines, and Social Returns on R&D
+
+Contents
+The Economics of Biodiversity: The Dasgupta Review 17
+Chapter 13 
+Box 13.1 The UK Government’s Green Book
+Box 13.2 Wealth and Well-Being: The Formal Connection
+Box 13.3 Sustainable Development as Growth in Inclusive Wealth
+Box 13.4 Composition of Inclusive Wealth
+Box 13.5 Trade, Externalities, and Wealth Transfers
+Box 13.6 Global Inclusive Wealth Change 1992 to 2014
+Box 13.7 Restoring the Ganges
+Box 13.8 The Equivalence of Wealth and Present Values
+Box 13.9 Appraisal of the Restoration of the Exmoor Mires
+Box 13.10 The Plight of Slow Growth Forests
+Box 13.11 Project Complementarities and Lumpy Investments 
+Chapter 14 
+Box 14.1 Environmental Impact of Different Diets
+Box 14.2 Urbanisation and Nature
+Box 14.3 The Distributional Effects of Ecosystem Collapse
+Chapter 15 
+Box 15.1 The Global Resources Outlook
+Box 15.2 Exploring the UK’s Global Ecological Footprint
+Box 15.3 Trade Induced Biodiversity Loss Across Regions
+Box 15.4 The US Shrimp/Turtle Dispute 
+Box 15.5 The Convention on International Trade in Endangered Species
+Box 15.6 Trade Standards and Invasive Non-Native Species
+Box 15.7 Integration of Environmental Issues into Trade Standards and Agreements
+Box 15.8 Verified Sourcing Areas
+Chapter 16 
+Box 16.1 Food Loss and Waste
+Chapter 17 
+Box 17.1 Examples of Physical Risks
+Box 17.2 Examples of Transition Risks
+Box 17.3 Climate and Nature Sovereign Index
+Box 17.4 White, Black and Green Swans
+Box 17.5 CDC Biodiversité and the Global Biodiversity Score
+Box 17.6 ASN Bank’s Biodiversity Footprint
+Box 17.7 Task Force on Climate-Related Financial Disclosures
+Box 17.8 Biodiversity Loss and Risks for the Dutch Financial Sector
+Chapter 18 
+Box 18.1 Costs and Benefits of Expanding Protected Areas
+Box 18.2 Cases of Management by Indigenous Peoples and Local Communities 
+Box 18.3 The Coastal Cloud Forest of Loma Alta, Ecuador
+Box 18.4 International Trade in Endangered Species
+Box 18.5 Trade in Vicuña Fibre in South America’s Andes Region
+Box 18.6 Conservation of Biodiversity in the High Seas
+
+Contents
+18 The Economics of Biodiversity: The Dasgupta Review
+Chapter 19 
+Box 19.1 The Urgent Case for Conservation and Restoration
+Box 19.2 Restoration of Drylands and Rangelands in the Zarqa River Basin, Jordan
+Box 19.3 Coral Reef Restoration
+Box 19.4 Natural Regeneration or Active Restoration
+Box 19.5 Restoration of Forests to Store Carbon – Good or Bad for Biodiversity?
+Box 19.6 Examples of Nature-Based Solutions
+Box 19.7 Job Opportunities From Nature Conservation and Restoration
+Box 19.8 Environmental Land Management in England
+Box 19.9 Working for Water in South Africa
+Box 19.10 Building Natural Capital into Spatial Planning
+Box 19.11 Biodiversity Offsets for a High-Speed Railway Line, Eiffage, France
+Chapter 20 
+Box 20.1 Denmark’s Pesticide Tax
+Box 20.2 Agricultural Subsidies Reform in Switzerland
+Box 20.3 PES in Colombia
+Box 20.4 Seychelles Blue Bond
+Box 20.5 Fiduciary Duty and the Biosphere
+Box 20.6 EcoEnterprises Fund
+Box 20.7 Intrinsic Value Exchange
+Box 20.8 An EU Taxonomy for Sustainable Activities
+Box 20.9 Spatial Finance
+
+The Economics of Biodiversity: The Dasgupta Review 19
+Part I – Foundations
+
+20 The Economics of Biodiversity: The Dasgupta Review
+
+The Economics of Biodiversity: The Dasgupta Review 21
+Chapter 0 
+How We Got to Where We Are

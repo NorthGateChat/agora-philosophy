@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-investment-in-human-capital-whole-work-717159bb",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《人力资本投资》",
+  "englishWork": "Investment in Human Capital",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Schultz〈人力资本投资〉，《美国经济评论》51卷1期（1961年3月），开篇印刷页1，第二段首句，完整连续句；该卷期及本文未见美国续展记录，仅确认美国公版",
+  "englishVersion": "Schultz, ‘Investment in Human Capital,’ American Economic Review 51(1) (March 1961), opening print p. 1, first sentence of the second paragraph, complete continuous sentence; renewal research found no renewal for the issue or contribution; U.S. public-domain status only",
+  "sourceUrl": "https://la.utexas.edu/users/hcleaver/330T/350kPEESchultzInvestmentHumanCapital.pdf",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "44da663389703636a9c1fc7689b17f827074b4505c85eac2ba659569159031b7"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "1a5a828e0a4c9855e983b88840fab30890172b7c9b842e935dbd56596bb0d46d",
+  "inputHash": "39ff3bbe7dcafebcff9ecac81953171e5c3bdd5c6552faab0a44ceace6dc646c",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "INVESTMENT IN HUMAN CAPITAL*"
+    },
+    {
+      "id": "p0002",
+      "text": "By THEODORE W. SCHULTZ"
+    },
+    {
+      "id": "p0003",
+      "text": "Although it is obvious that people acquire useful skills and knowledge, it is not obvious that these skills and knowledge are a form of capital, that this capital is in substantial part a product of deliberate investment, that it has grown in Western societies at a much faster rate than conventional (nonhuman) capital, and that its growth may well be the most distinctive feature of the economic system. It has been widely observed that increases in national output have been large compared with the increases of land, man-hours, and physical reproducible capital. Investment in human capital is probably the major explanation for this difference."
+    },
+    {
+      "id": "p0004",
+      "text": "Much of what we call consumption constitutes investment in human capital. Direct expenditures on education, health, and internal migration to take advantage of better job opportunities are clear examples. Earnings foregone by mature students attending school and by workers acquiring on-the-job training are equally clear examples. Yet nowhere do these enter into our national accounts. The use of leisure time to improve skills and knowledge is widespread and it too is unrecorded. In these and similar ways the quality of human effort can be greatly improved and its productivity enhanced. I shall contend that such investment in human capital accounts for most of the impressive rise in the real earnings per worker."
+    },
+    {
+      "id": "p0005",
+      "text": "I shall comment, first, on the reasons why economists have shied away from the explicit analysis of investment in human capital, and then, on the capacity of such investment to explain many a puzzle about economic growth. Mainly, however, I shall concentrate on the scope and substance of human capital and its formation. In closing I shall consider some social and policy implications."
+    },
+    {
+      "id": "p0006",
+      "text": "* Presidential Address delivered at the Seventy-Third Annual Meeting of the American Economic Association, Saint Louis, December 28, 1960. The author is indebted to his colleagues Milton Friedman, for his very helpful suggestions to gain clarity and cogency, and Harry G. Johnson for pointing out a number of ambiguities."
+    },
+    {
+      "id": "p0007",
+      "text": "Number 62 of a series of photographs of past presidents of the Association."
+    },
+    {
+      "id": "p0008",
+      "text": "I. Shying Away from Investment in Man"
+    },
+    {
+      "id": "p0009",
+      "text": "Economists have long known that people are an important part of the wealth of nations. Measured by what labor contributes to output, the productive capacity of human beings is now vastly larger than all other forms of wealth taken together. What economists have not stressed is the simple truth that people invest in themselves and that these investments are very large. Although economists are seldom timid in entering on abstract analysis and are often proud of being impractical, they have not been bold in coming to grips with this form of investment. Whenever they come even close, they proceed gingerly as if they were stepping into deep water. No doubt there are reasons for being wary. Deep-seated moral and philosophical issues are ever present. Free men are first and foremost the end to be served by economic endeavor; they are not property or marketable assets. And not least, it has been all too convenient in marginal productivity analysis to treat labor as if it were a unique bundle of innate abilities that are wholly free of capital."
+    },
+    {
+      "id": "p0010",
+      "text": "The mere thought of investment in human beings is offensive to some among us.” Our values and beliefs inhibit us from looking upon human beings as capital goods, except in slavery, and this we abhor. We are not unaffected by the long struggle to rid society of indentured service and to evolve political and legal institutions to keep men free from bondage. These are achievements that we prize highly. Hence, to treat human beings as wealth that can be augmented by investment runs counter to deeply held values. It seems to reduce man once again to a mere material component, to something akin to property. And for man to look upon himself as a capital good, even if it did not impair his freedom, may seem to debase him. No less a person than J. S. Mill at one time insisted that the people of a country should not be looked upon as wealth because wealth existed only for the sake of people [15]. But surely Mill was wrong; there is nothing in the concept of human wealth contrary to his idea that it exists only for the advantage of people. By investing in themselves, people can enlarge the range of choice available to them. It is one way free men can enhance their welfare."
+    },
+    {
+      "id": "p0011",
+      "text": "Among the few who have looked upon human beings as capital, there are three distinguished names. The philosopher-economist Adam Smith boldly included all of the acquired and useful abilities of all of the inhabitants of a country as a part of capital. So did H. von Thünen, who then went on to argue that the concept of capital applied to man did not degrade him or impair his freedom and dignity, but on the contrary that the failure to apply the concept was especially pernicious in wars; “... for here... one will sacrifice in a battle a hundred"
+    },
+    {
+      "id": "p0012",
+      "text": "* This paragraph draws on the introduction to my Teller Lecture [16]."
+    },
+    {
+      "id": "p0013",
+      "text": "human beings in the prime of their lives without a thought in order to save one gun.” The reason is that, “... the purchase of a cannon causes an outlay of public funds, whereas human beings are to be had for nothing by means of a mere conscription decree” [20]. Irving Fisher also clearly and cogently presented an all-inclusive concept of capital [6]. Yet the main stream of thought has held that it is neither appropriate nor practical to apply the concept of capital to human beings. Marshall [11], whose great prestige goes far to explain why this view was accepted, held that while human beings are incontestably capital from an abstract and mathematical point of view, it would be out of touch with the market place to treat them as capital in practical analyses. Investment in human beings has accordingly seldom been incorporated in the formal core of economics, even though many economists, including Marshall, have seen its relevance at one point or another in what they have written."
+    },
+    {
+      "id": "p0014",
+      "text": "The failure to treat human resources explicitly as a form of capital, as a produced means of production, as the product of investment, has fostered the retention of the classical notion of labor as a capacity to do manual work requiring little knowledge and skill, a capacity with which, according to this notion, laborers are endowed about equally. This notion of labor was wrong in the classical period and it is patently wrong now. Counting individuals who can and want to work and treating such a count as a measure of the quantity of an economic factor is no more meaningful than it would be to count the number of all manner of machines to determine their economic importance either as a stock of capital or as a flow of productive services."
+    },
+    {
+      "id": "p0015",
+      "text": "Laborers have become capitalists not from a diffusion of the ownership of corporation stocks, as folklore would have it, but from the acquisition of knowledge and skill that have economic value [9]. This knowledge and skill are in great part the product of investment and, combined with other human investment, predominantly account for the ' productive superiority of the technically advanced countries. To omit: them in studying economic growth is like trying to explain Soviet ideology without Marx."
+    },
+    {
+      "id": "p0016",
+      "text": "II. Economic Growth from Human Capital"
+    },
+    {
+      "id": "p0017",
+      "text": "Many paradoxes and puzzles about our dynamic, growing economy can be resolved once human investment is taken into account. Let me begin by sketching some that are minor though not trivial."
+    },
+    {
+      "id": "p0018",
+      "text": "When farm people take nonfarm jobs they earn substantially less than industrial workers of the same race, age, and sex. Similarly nonwhite urban males earn much less than white males even after allowance is made for the effects of differences in unemployment, age, city size and region [21]. Because these differentials in earnings correspond closely to corresponding differentials in education, they strongly suggest that the one is a consequence of the other. Negroes who operate farms, whether as tenants or as owners, earn much less than whites on comparable farms.’ Fortunately, crops and livestock are not vulnerable to the blight of discrimination. The large differences in earnings seem rather to reflect mainly the differences in health and education. Workers in the South on the average earn appreciably less than in the North or West and they also have on the average less education. Most migratory farm workers earn very little indeed by comparison with other workers. Many of them have virtually no schooling, are in poor health, are unskilled, and have little ability to do useful work. To urge that the differences in the amount of human investment may explain these"
+    },
+    {
+      "id": "p0019",
+      "text": "Be differences in earnings seems elementary. Of more recent vintage are observations showing younger workers at a competitive advantage; for example, young men entering the labor force are said to have an advantage over unemployed older workers in obtaining satisfactory jobs. Most of these young people possess twelve years of school, most of the older workers six years or less. The observed advantage of these younger workers may therefore result not from inflexibilities in social security or in retirement programs, or from sociological preference of employers, but from real differences in productivity connected with one form of human investment, i.e., education. And yet another example, the curve relating income to age tends to be steeper for skilled than for unskilled persons. Investment in on-the-job training seems a likely explanation, as I shall note later."
+    },
+    {
+      "id": "p0020",
+      "text": "Economic growth requires much internal migration of workers to adjust to changing job opportunities [10]. Young men and women move more readily than older workers. Surely this makes economic sense when one recognizes that the costs of such migration are a form of human investment. Young people have more years ahead of them than older workers during which they can realize on such an investment. Hence it takes less of a wage differential to make it economically advantageous for them to move, or, to put it differently, young people can expect a higher return on their investment in migration than older people. This differential may explain selective migration without requiring an appeal to sociological differences between young and old people."
+    },
+    {
+      "id": "p0021",
+      "text": "The examples so far given are for investment in human beings that yield a return over a long period. This is true equally of investment in education, training, and migration of young people. Not all investments in human beings are of this kind; some are more nearly akin to current inputs as for example expenditures on food and shelter in some coun-"
+    },
+    {
+      "id": "p0022",
+      "text": "* Based on unpublished preliminary results obtained by Joseph Willett in his Ph.D. research at the University of Chicago."
+    },
+    {
+      "id": "p0023",
+      "text": "tries where work is mainly the application of brute human force, calling for energy and stamina, and where the intake of food is far from enough to do a full day’s work. On the “hungry” steppes and in the teeming valleys of Asia, millions of adult males have so meager a diet that they cannot do more than a few hours of hard work. To call them underemployed does not seem pertinent. Under such circumstances it is certainly meaningful to treat food partly as consumption and partly as a current “producer good,” as some Indian economists have done [3]. Let us not forget that Western economists during the early decades of industrialization and even in the time of Marshall and Pigou often connected additional food for workers with increases in labor productivity."
+    },
+    {
+      "id": "p0024",
+      "text": "Let me now pass on to three major perplexing questions closely connected with the riddle of economic growth. First, consider the long-period behavior of the capital-income ratio. We were taught that a country which amassed more reproducible capital relative to its land and labor would employ such capital in greater “depth” because of its growing abundance and cheapness. But apparently this is not what happens. On the contrary, the estimates now available show that less of such capital tends to be employed relative to income as economic growth proceeds. Are we to infer that the ratio of capital to income has no relevance in explaining either poverty or opulence? Or that a rise of this ratio is not a prerequisite to economic growth? These questions raise fundamental issues bearing on motives and preferences for holding wealth as well as on the motives for particular investments and the stock of capital thereby accumulated. For my purpose all that needs to be said is that these estimates of capital-income ratios refer to only a part of all capital. They exclude in particular, and most unfortunately, any human capital. Yet human capital has surely been increasing at a rate substantially greater than reproducible (nonhuman) capital. We cannot, therefore, infer from these estimates that the stock of all capital has been decreasing relative to income. On the contrary, if we accept the not implausible assumption that the motives and preferences of people, the technical opportunities open to them, and the uncertainty associated with economic growth during particular periods were leading people to maintain roughly a constant ratio between all capital and income, the decline in the estimated capital-income ratio⁶ is simply a signal that human capital has been increasing relatively not only to conventional capital but also to income."
+    },
+    {
+      "id": "p0025",
+      "text": "The bumper crop of estimates that show national income increas-"
+    },
+    {
+      "id": "p0026",
+      "text": "*I leave aside here the difficulties inherent in identifying and measuring both the nonhuman capital and the income entering into estimates of this ratio. There are index number and aggregation problems aplenty, and not all improvements in the quality of this capital have been accounted for, as I shall note later."
+    },
+    {
+      "id": "p0027",
+      "text": "ing faster than national resources raises a second and not unrelated puzzle. The income of the United States has been increasing at a much higher rate than the combined amount of land, man-hours worked and the stock of reproducible capital used to produce the income. Moreover, the discrepancy between the two rates has become larger from one business cycle to the next during recent decades [5]. To call this discrepancy a measure of “resource productivity” gives a name to our ignorance but does not dispel it. If we accept these estimates, the connections between national resources and national income have become loose and tenuous over time. Unless this discrepancy can be resolved, received theory of production applied to inputs and outputs as currently measured is a toy and not a tool for studying economic growth."
+    },
+    {
+      "id": "p0028",
+      "text": "Two sets of forces probably account for the discrepancy, if we neglect entirely the index number and aggregation problems that bedevil all estimates of such global aggregates as total output and total input. One is returns to scale; the second, the large improvements in the quality of inputs that have occurred but have been omitted from the input estimates. Our economy has undoubtedly been experiencing increasing returns to scale at some points offset by decreasing returns at others. If we can succeed in identifying and measuring the net gains, they may turn out to have been substantial. The improvements in the quality of inputs that have not been adequately allowed for are no doubt partly in material (nonhuman) capital. My own conception, however, is that both this defect and the omission of economies of scale are minor sources of discrepancy between the rates of growth of inputs and outputs compared to the improvements in human capacity that have been omitted."
+    },
+    {
+      "id": "p0029",
+      "text": "A small step takes us from these two puzzles raised by existing estimates to a third which brings us to the heart of the matter, namely the essentially unexplained large increase in real earnings of workers. Can this be a windfall? Or a quasirent pending the adjustment in the supply of labor? Or, a pure rent reflecting the fixed amount of labor? It seems far more reasonable that it represents rather a return to the investment that has been made in human beings. The observed growth in productivity per unit of labor is simply a consequence of holding the unit of labor constant over time although in fact this unit of labor has been increasing as a result of a steadily growing amount of human capital per worker. As I read our record, the human capital component has become very large as a consequence of human investment."
+    },
+    {
+      "id": "p0030",
+      "text": "Another aspect of the same basic question, which admits of the same resolution, is the rapid postwar recovery of countries that had suffered severe destruction of plant and equipment during the war. The toll from bombing was all too visible in the factories laid flat, the railroad yards, bridges, and harbors wrecked, and the cities in ruin. Structures, equipment and inventories were all heaps of rubble. Not so visible, yet large, was the toll from the wartime depletion of the physical plant that escaped destruction by bombs. Economists were called upon to assess the implications of these wartime losses for recovery. In retrospect, it is clear that they overestimated the prospective retarding effects of these losses. Having had a small hand in this effort, I have had a special reason for looking back and wondering why the judgments that we formed soon after the war proved to be so far from the mark. The explanation that now is clear is that we gave altogether too much weight to nonhuman capital in making these assessments. We fell into this error, I am convinced, because we did not have a concept of all capital and, therefore, failed to take account of human capital and the important part that it plays in production in a modern economy."
+    },
+    {
+      "id": "p0031",
+      "text": "Let me close this section with a comment on poor countries, for which there are virtually no solid estimates. I have been impressed by repeatedly expressed judgments, especially by those who have a responsibility in making capital available to poor countries, about the low rate at which these countries can absorb additional capital. New capital from outside can be put to good use, it is said, only when it is added “slowly and gradually.” But this experience is at variance with the widely held impression that countries are poor fundamentally because they are starved for capital and that additional capital is truly the key to their more rapid economic growth. The reconciliation is again, I believe, to be found in emphasis on particular forms of capital. The new capital available to these countries from outside as a rule goes into the formation of structures, equipment and sometimes also into inventories. But it is generally not available for additional investment in man. Consequently, human capabilities do not stay abreast of physical capital, and they do become limiting factors in economic growth. It should come as no surprise, therefore, that the absorption rate of capital to augment only particular nonhuman resources is necessarily low. The Horvat [8] formulation of the optimum rate of investment which treats knowledge and skill as a critical investment variable in determining the rate of economic growth is both relevant and important."
+    },
+    {
+      "id": "p0032",
+      "text": "III. Scope and Substance of These Investments"
+    },
+    {
+      "id": "p0033",
+      "text": "What are human investments? Can they be distinguished from consumption? Is it at all feasible to identify and measure them? What do they contribute to income? Granted that they seem amorphous compared to brick and mortar, and hard to get at compared to the investment accounts of corporations, they assuredly are not a fragment; they are rather like the contents of Pandora’s box, full of difficulties and hope."
+    },
+    {
+      "id": "p0034",
+      "text": "Human resources obviously have both quantitative and qualitative dimensions. The number of people, the proportion who enter upon useful work, and hours worked are essentially quantitative characteristics. To make my task tolerably manageable, I shall neglect these and consider only such quality components as skill, knowledge, and similar attributes that affect particular human capabilities to do productive work. In so far as expenditures to enhance such capabilities also increase the value productivity of human effort (labor), they will yield a positive rate of return.⁴"
+    },
+    {
+      "id": "p0035",
+      "text": "How can we estimate the magnitude of human investment? The practice followed in connection with physical capital goods is to estimate the magnitude of capital formation by expenditures made to produce the capital goods. This practice would suffice also for the formation of human capital. However, for human capital there is an additional problem that is less pressing for physical capital goods: how to distinguish between expenditures for consumption and for investment. This distinction bristles with both conceptual and practical difficulties. We can think of three classes of expenditures: expenditures that satisfy consumer preferences and in no way enhance the capabilities under discussion—these represent pure consumption; expenditures that enhance capabilities and do not satisfy any preferences underlying consumption—these represent pure investment; and expenditures that have both effects. Most relevant activities clearly are in the third class, partly consumption and partly investment, which is why the task of identifying each component is so formidable and why the measurement of capital formation by expenditures is less useful for human investment than for investment in physical goods. In principle there is an alternative method for estimating human investment, namely by its “yield” rather than by its cost. While any capability produced by human investment becomes a part of the human agent and hence cannot be sold; it is nevertheless “in touch with the market place” by affecting the wages and salaries the human agent can earn. The resulting increase in earnings is the yield on the investment.⁵ Despite the difficulty of exact measurement at this stage of our understanding of human investment, many insights can be gained by examining some of the more important activities that improve human"
+    },
+    {
+      "id": "p0036",
+      "text": "⁴ Even so, our observed return can be either negative, zero or positive because our observations are drawn from a world where there is uncertainty and imperfect knowledge and where there are windfall gains and losses and mistakes aplenty."
+    },
+    {
+      "id": "p0037",
+      "text": "⁵ In principle, the value of the investment can be determined by discounting the additional future earnings it yields just as the value of a physical capital good can be deiermined by discounting its income stream."
+    },
+    {
+      "id": "p0038",
+      "text": "capabilities. I shall concentrate on five major categories: (1) health facilities and services, broadly conceived to include all expenditures that affect the life expectancy, strength and stamina, and the vigor and vitality of a people; (2) on-the-job training, including old-style apprenticeship organized by firms; (3) formally organized education at the elementary, secondary, and higher levels; (4) study programs for adults that are not organized by firms, including extension programs notably in agriculture; (5) migration of individuals and families to adjust to changing job opportunities. Except for education, not much is known about these activities that is germane here. I shall refrain from commenting on study programs for adults, although in agriculture the extension services of the several states play an important role in transmitting new knowledge and in developing skills of farmers [17]. Nor shall I elaborate further on internal migration related to economic growth."
+    },
+    {
+      "id": "p0039",
+      "text": "Health activities have both quantity and quality implications. Such speculations as economists have engaged in about the effects of improvements in health,⁶ have been predominantly in connection with population growth, which is to say with quantity. But surely health measures also enhance the quality of human resources. So also may additional food and better shelter, especially in underdeveloped countries."
+    },
+    {
+      "id": "p0040",
+      "text": "The change in the role of food as people become richer sheds light on one of the conceptual problems already referred to. I have pointed out that extra food in some poor countries has the attribute of a “producer good.” This attribute of food, however, diminishes as the consumption of food rises, and there comes a point at which any further increase in food becomes pure consumption.” Clothing, housing and perhaps medical services may be similar."
+    },
+    {
+      "id": "p0041",
+      "text": "My comment about on-the-job training will consist of a conjecture on the amount of such training, a note on the decline of apprenticeship, and then a useful economic theorem on who bears the costs of such training. Surprisingly little is known about on-the-job training in modern industry. About all that can be said is that the expansion of education has not eliminated it. It seems likely, however, that some of the training formerly undertaken by firms has been discontinued and other training programs have been instituted to adjust both to the"
+    },
+    {
+      "id": "p0042",
+      "text": "* Health economics is in its infancy; there are two medical journals with “economics” in their titles, two bureaus for economic research in private associations (one in the American Medical and the other in the American Dental Association), and not a few studies and papers by outside scholars. Selma Mushkin’s survey is very useful with its pertinent economic insights, though she may have underestimated somewhat the influence of the economic behavior of people in striving for health [14]."
+    },
+    {
+      "id": "p0043",
+      "text": "\"For instance, the income elasticity of the demand for food continues to be positive even after the point is reached where additional food no longer has the attribute of a “producer good.” rise in the education of workers and to changes in the demands for new skills. The amount invested annually in such training can only be a guess. H. F. Clark places it near to equal to the amount spent on formal education.* Even if it were only one-half as large, it would represent currently an annual gross investment of about $15 billion. Elsewhere, too, it is thought to be important. For example, some observers have been impressed by the amount of such training under way in plants in the Soviet Union.’ Meanwhile, apprenticeship has all but disappeared, partly because it is now inefficient and partly because schools now perform many of its functions. Its disappearance has been hastened no doubt by the difficulty of enforcing apprenticeship agreements. Legally they have come to smack of indentured service. The underlying economic factors and behavior are clear enough. The apprentice is prepared to serve during the initial period when his productivity is less than the cost of his keep and of his training. Later, however, unless he is legally restrained, he will seek other employment when his productivity begins to exceed the cost of keep and training, which is the period during which a master would expect to recoup on his earlier outlay."
+    },
+    {
+      "id": "p0044",
+      "text": "To study on-the-job training Gary Becker [1] advances the theorem that in competitive markets employees pay all the costs of their training and none of these costs are ultimately borne by the firm. Becker points out several implications. The notion that expenditures on training by a firm generate external economies for other firms is not consistent with this theorem. The theorem also indicates one force favoring the transfer from on-the-job training to attending school. Since on-the-job training reduces the net earnings of workers at the beginning and raises them later on, this theorem also provides an explanation for the “steeper slope of the curve relating income to age,” for skilled than unskilled workers, referred to earlier.*° What all this adds up to is that the stage is set to undertake meaningful economic studies of on-the-job training."
+    },
+    {
+      "id": "p0045",
+      "text": "Happily we reach firmer ground in regard to education. Investment in education has risen at a rapid rate and by itself may well account for a substantial part of the otherwise unexplained rise in earnings. I shall do no more than summarize some preliminary results about the total costs of education including income foregone by students, the apparent relation of these costs to consumer income and to alternative invest-"
+    },
+    {
+      "id": "p0046",
+      "text": "* Based on comments made by Harold F. Clark at the Merrill Center for Economics, summer 1959; also, see [4]."
+    },
+    {
+      "id": "p0047",
+      "text": "* Based on observations made by a team of U. S. economists of which I was a member, see Saturday Rev., Jan. 21, 1961."
+    },
+    {
+      "id": "p0048",
+      "text": "* Becker has also noted still another implication arising out of the fact that the income and capital investment aspects of on-the-job training are tied together, which gives rise to “permanent” and “transitory” income effects that may have substantial explanatory value."
+    },
+    {
+      "id": "p0049",
+      "text": "ments, the rise of the stock of education in the labor force, returns to education, and the contribution that the increase in the stock of education may have made to earnings and to national income."
+    },
+    {
+      "id": "p0050",
+      "text": "It is not difficult to estimate the conventional costs of education consisting of the costs of the services of teachers, librarians, administrators, of maintaining and operating the educational plant, and interest on the capital embodied in the educational plant. It is far more difficult to estimate another component of total cost, the income foregone by students. Yet this component should be included and it is far from negligible. In the United States, for example, well over half of the costs of higher education consists of income foregone by students. As early as 1900, this income foregone accounted for about one-fourth of the total costs of elementary, secondary and higher education. By 1956, it represented over two-fifths of all costs. The rising significance of foregone income has been a major factor in the marked upward trend in the total real costs of education which, measured in current prices, increased from $400 million in 1900 to $28.7 billion in 1956 [18]. The percentage rise in educational costs was about three and a half times as large as in consumer income, which would imply a high income elasticity of the demand for education, if education were regarded as pure consumption.** Educational costs also rose about three and a half times as rapidly as did the gross formation of physical capital in dollars. If we were to treat education as pure investment this result would suggest that the returns to education were relatively more attractive than those to nonhuman capital.’”"
+    },
+    {
+      "id": "p0051",
+      "text": "Much schooling is acquired by persons who are not treated as income earners in most economic analysis, particularly, of course, women. To analyze the effect of growth in schooling on earnings, it is therefore necessary to distinguish between the stock of education in the population and the amount in the labor force. Years of school completed are far from satisfactory as a measure because of the marked increases that have taken place in the number of days of school attendance of enrolled students and because much more of the education of workers consists of high school and higher education than formerly. My preliminary estimates suggest that the stock of education in the labor force rose about eight and a half times between 1900 and 1956, whereas the stock of reproducible capital rose four and a half times, both in 1956 prices. These estimates are, of course, subject to many"
+    },
+    {
+      "id": "p0052",
+      "text": "“ Had other things stayed constant this suggests an income elasticity of 3.5, Among the things that did change, the prices of educational services rose relative to other consumer prices, perhaps offset in part by improvements in the quality of educational services."
+    },
+    {
+      "id": "p0053",
+      "text": "“This of course assumes among other things that the relationship between gross and net have not changed or have changed in the same proportion. Estimates are from my essay, “Education and Economic Growth” [19]."
+    },
+    {
+      "id": "p0054",
+      "text": "qualifications.** Nevertheless, both the magnitude and the rate of increase of this form of human capital have been such that they could be an important key to the riddle of economic growth.\"*"
+    },
+    {
+      "id": "p0055",
+      "text": "The exciting work under way is on the return to education. In spite of the flood of high school and college graduates, the return has not become trivial. Even the lower limits of the estimates show that the return to such education has been in the neighborhood of the return to nonhuman capital. This is what most of these estimates show when they treat as costs all of the public and private expenditures on education and also the income foregone while attending school, and when they treat all of these costs as investment, allocating none to consumption.*® But surely a part of these costs are consumption in the sense that education creates a form of consumer capital*® which has the attribute of"
+    },
+    {
+      "id": "p0056",
+      "text": "*From [19, Sec. 4]. These estimates of the stock of education are tentative and incomplete. They are incomplete in that they do not take into account fully the increases in the average life of this form of human capital arising out of the fact that relatively more of this education is held by younger people in the labor force than was true in earlier years; and, they are incomplete because no adjustment has been made for the improvements in education over time, increasing the quality of a year of school in ways other than those related to changes in the proportions represented by elementary, high school and higher education. Even so the stock of this form of human capital rose 8.5 times between 1900 and 1956 while the stock of reproducible nonhuman capital increased only 4.5 times, both in constant 1956 prices."
+    },
+    {
+      "id": "p0057",
+      "text": "“In value terms this stock of education was only 22 per cent as large as the stock of reproducible physical capital in 1900, whereas in 1956 it already had become 42 per cent as large."
+    },
+    {
+      "id": "p0058",
+      "text": "*° Several comments are called for here. (1) The return to high school education appears to have declined substantially between the late ’thirties and early fifties and since then has leveled off, perhaps even risen somewhat, indicating a rate of return toward the end of the \"fifties about as high as that to higher education. (2) The return to college education seems to have risen somewhat since the late ’thirties in spite of the rapid influx of college-trained individuals into the labor force. (3) Becker’s estimates based on the difference in income between high school and college graduates based on urban males adjusted for ability, race, unemployment and mortality show a return of 9 per cent to total college costs including both earnings foregone and conventional college costs, public and private and with none of these costs allocated to consumption (see his paper given at the American Economic Association meeting, December 1959 [2]). (4) The returns to this education in the case of nonwhite urban males, of rural males, and of females in the labor force may have been somewhat lower (see Becker [2]). (5) My own estimates, admittedly less complete than those of Becker and thus subject to additional qualifications, based mainly on lifetime income estimates of Herman P. Miller [12], lead to a return of about 11 per cent to both high school and college education as of 1958. See [19, Sec. 5]."
+    },
+    {
+      "id": "p0059",
+      "text": "Whether the consumption component in education will ultimately dominate, in the sense that the investment component in education will diminish as these expenditures increase and a point will be reached where additional expenditures for education will be pure consumption (a zero return on however small a part one might treat as an investment), is an interesting speculation. This may come to pass, as it has in the case of food and shelter, but that eventuality appears very remote presently in view of the prevailing investment value of education and the new demands for knowledge and skill inherent in the nature of our technical and economic progress."
+    },
+    {
+      "id": "p0060",
+      "text": "**The returns on this consumer capital will not appear in the wages and salaries that people earn."
+    },
+    {
+      "id": "p0061",
+      "text": "improving the taste and the quality of consumption of students throughout the rest of their lives. If one were to allocate a substantial fraction of the total costs of this education to consumption, say one-half, this would, of course, double the observed rate of return to what would then become the investment component in education that enhances the productivity of man."
+    },
+    {
+      "id": "p0062",
+      "text": "Fortunately, the problem of allocating the costs of education in the labor force between consumption, and investment does not arise to plague us when we turn to the contribution that education makes to earnings and to national income because a change in allocation only alters the rate of return, not the total return. I noted at the outset that the unexplained increases in U. S. national income have been especially large in recent decades. On one set of assumptions, the unexplained part amounts to nearly three-fifths of the total increase between 1929 and 1956.\" How much of this unexplained increase in income represents a return to education in the labor force? A lower limit suggests that about three-tenths of it, and an upper limit does not rule out that more than one-half of it came from this source.’® These estimates also imply that between 36 and 70 per cent of the hitherto unexplained rise in the earnings of labor is explained by returns to the additional education of workers."
+    },
+    {
+      "id": "p0063",
+      "text": "IV. A Concluding Note on Policy"
+    },
+    {
+      "id": "p0064",
+      "text": "One proceeds at his own peril in discussing social implications and policy. The conventional hedge is to camouflage one’s values and to wear the mantle of academic innocence. Let me proceed unprotected!"
+    },
+    {
+      "id": "p0065",
+      "text": "1. Our tax laws everywhere discriminate against human capital. Although the stock of such capital has become large and even though it is obvious that human capital, like other forms of reproducible capital, depreciates, becomes obsolete, and entails maintenance, our tax laws are all but blind on these matters."
+    },
+    {
+      "id": "p0066",
+      "text": "2. Human capital deteriorates when it is idle because unemployment impairs the skills that workers have acquired. Losses in earnings can be cushioned by appropriate payments but these do not keep idleness from taking its toll from human capital."
+    },
+    {
+      "id": "p0067",
+      "text": "3. There are many hindrances to the free choice of professions."
+    },
+    {
+      "id": "p0068",
+      "text": "“Real income doubled, rising from $150 to $302 billion in 1956 prices. Eighty-nine billions of the increase in real income is taken to be unexplained, or about 59 per cent of the total increase. The stock of education in the labor force rose by $355 billion of which $69 billion is here allocated to the growth in the labor force to keep the per-worker stock of education constant, and $286 billion represents the increase in the level of this stock. See [19, Sec. 6] for an elaboration of the method and the relevant estimates."
+    },
+    {
+      "id": "p0069",
+      "text": "* In per cent, the lower estimate came out to 20 per cent and the upper estimate to 56 per cent."
+    },
+    {
+      "id": "p0070",
+      "text": "Racial discrimination and religious discrimination are still widespread. Professional associations and governmental bodies also hinder entry; for example, into medicine. Such purposeful interference keeps the investment in this form of human capital substantially below its optimum [7]."
+    },
+    {
+      "id": "p0071",
+      "text": "4. It is indeed elementary to stress the greater imperfections of the capital market in providing funds for investment in human beings than for investment in physical goods. Much could be done to reduce these imperfections by reforms in tax and banking laws and by changes in banking practices. Long-term private and public loans to students are warranted."
+    },
+    {
+      "id": "p0072",
+      "text": "5. Internal migration, notably the movement of farm people into industry, made necessary by the dynamics of our economic progress, requires substantial investments. In general, families in which the husbands and wives are already in the late thirties cannot afford to make these investments because the remaining payoff period for them is too short. Yet society would gain if more of them would pull stakes and move because, in addition to the increase in productivity currently, the children of these families would be better located for employment when they were ready to enter the labor market. The case for making some of these investments on public account is by no means weak. Our farm programs have failed miserably these many years in not coming to grips with the costs and returns from off-farm migration."
+    },
+    {
+      "id": "p0073",
+      "text": "6. The low earnings of particular people have long been a matter of public concern. Policy all too frequently concentrates only on the effects, ignoring the causes. No small part of the low earnings of many Negroes, Puerto Ricans, Mexican nationals, indigenous migratory farm workers, poor farm people and some of our older workers, reflects the failure to have invested in their health and education. Past mistakes are, of course, bygones, but for the sake of the next generation we can ill afford to continue making the same mistakes over again."
+    },
+    {
+      "id": "p0074",
+      "text": "7. Is there a substantial underinvestment in human beings other than in these depressed groups? [2] This is an important question for economists. The evidence at hand is fragmentary. Nor will the answer be easily won. There undoubtedly have been overinvestments in some skills, for example, too many locomotive firemen and engineers, too many people trained to be farmers, and too many agricultural economists! Our schools are not free of loafers and some students lack the necessary talents. Nevertheless, underinvestment in knowledge and skill, relative to the amounts invested in nonhuman capital would appear to be the rule and not the exception for a number of reasons. The strong and increasing demands for this knowledge and skill in laborers are of fairly recent origin and it takes time to respond to them. In responding to these demands, we are heavily dependent upon cultural and political processes, and these are slow and the lags are long compared to the behavior of markets serving the formation of nonhuman capital. Where the capital market does serve human investments, it is subject to more imperfections than in financing physical capital. I have already stressed the fact that our tax laws discriminate in favor of nonhuman capital. Then, too, many individuals face serious uncertainty in assessing their innate talents when it comes to investing in themselves, especially through higher education. Nor is it easy either for public decisions or private behavior to untangle and properly assess the consumption and the investment components. The fact that the return to high school and to higher education has been about as large as the return to conventional forms of capital when all of the costs of such education including income foregone by students are allocated to the investment component, creates a strong presumption that there has been underinvestment since, surely, much education is cultural and in that sense it is consumption. It is no wonder, in view of these circumstances, that there should be substantial underinvestment in human beings, even though we take pride, and properly so, in the support that we have given to education and to other activities that contribute to such investments."
+    },
+    {
+      "id": "p0075",
+      "text": "8. Should the returns from public investment in human capital. accrue to the individuals in whom it is made?²² The policy issues implicit in this question run deep and they are full of perplexities pertaining both to resource allocation and to welfare. Physical capital that is formed by public investment is not transferred as a rule to particular individuals as a gift. It would greatly simplify the allocative process if public investment in human capital were placed on the same footing. What then is the logical basis for treating public investment in human capital differently? Presumably it turns on ideas about welfare. A strong welfare goal of our community is to reduce the unequal distribution of personal income among individuals and families. Our community has relied heavily on progressive income and inheritance taxation. Given public revenue from these sources, it may well be true that public investment in human capital, notably that entering into general education, is an effective and efficient set of expenditures for attaining this goal. Let me stress, however, that the state of knowledge about these issues is woefully meager."
+    },
+    {
+      "id": "p0076",
+      "text": "9. My last policy comment is on assistance to underdeveloped countries to help them achieve economic growth. Here, even more than in domestic affairs, investment in human beings is likely to be underrated"
+    },
+    {
+      "id": "p0077",
+      "text": "²² I am indebted to Milton Friedman for bringing this issue to the fore in his comments on an early draft of this paper. See preface of [7] and also Jacob Mincer’s pioneering paper [13]."
+    },
+    {
+      "id": "p0078",
+      "text": "and neglected. It is inherent in the intellectual climate in which leaders and spokesmen of many of these countries find themselves. Our export of growth doctrines has contributed. These typically assign the stellar role to the formation of nonhuman capital, and take as an obvious fact the superabundance of human resources. Steel mills are the real symbol of industrialization. After all, the early industrialization of England did not depend on investments in the labor force. New funds and agencies are being authorized to transfer capital for physical goods to these countries. The World Bank and our Export-Import Bank have already had much experience. Then, too, measures have been taken to pave the way for the investment of more private (nonhuman) capital abroad. This one-sided effort is under way in spite of the fact that the knowledge and skills required to take on and use efficiently the superior techniques of production, the most valuable resource that we could make available to them, is in very short supply in these underdeveloped countries. Some growth of course can be had from the increase in more conventional capital even though the labor that is available is lacking both in skill and knowledge. But the rate of growth will be seriously limited. It simply is not possible to have the fruits of a modern agriculture and the abundance of modern industry without making large investments in human beings."
+    },
+    {
+      "id": "p0079",
+      "text": "Truly, the most distinctive feature of our economic system is the growth in human capital. Without it there would be only hard, manual work and poverty except for those who have income from property. There is an early morning scene in Faulkner’s Intruder in the Dust, of a poor, solitary cultivator at work in a field. Let me paraphrase that line, ‘The man without skills and knowledge leaning terrifically against nothing.”"
+    },
+    {
+      "id": "p0080",
+      "text": "REFERENCES"
+    },
+    {
+      "id": "p0081",
+      "text": "1. G. S. Becker, preliminary draft of study undertaken for Nat. Bur. Econ. Research. New York 1960. 2. ———, “Underinvestment in College Education?,” Proc., Am. Econ. Rev., May 1960, 50, 346-54. 3. P. R. Brahmanand and C. N. Vakil, Planning for an Expanding Economy. Bombay 1956. 4. H. F. Clark, “Potentialities of Educational Establishments Outside the Conventional Structure of Higher Education,” Financing Higher Education, 1960-70, D. M. Keezer, ed. New York 1959. 5. Solomon Fabricant, Basic Facts on Productivity Change, Nat. Bur. Econ. Research, Occas. Paper 63. New York 1959. Table 5. 6. Irving Fisher, The Nature of Capital and Income. New York 1906. 7. Milton Friedman and Simon Kuznets, Income from Independent Professional Practice, Nat. Bur. Econ. Research. New York 1945. 8. B. Horvat, “The Optimum Rate of Investment,” Econ. Jour., Dec. 1958, 68, 747-67. 9. H. G. Johnson, “The Political Economy of Opulence,” Can. Jour. Econ. and Pol. Sci., Nov. 1960, 26, 552-64. 10. Simon Kuznets, Income and Wealth in the United States. Cambridge, England 1952. Sec. IV, Distribution by Industrial Origin. 11. Alfred Marshall, Principles of Economics, 8th ed. London 1930. App. E, pp. 787-88. 12. H. P. Miller, “Annual and Lifetime Income in Relation to Education: 1939-1959,” Am. Econ. Rev., Dec. 1960, 50, 962-86. 13. Jacob Mincer, “Investment in Human Capital and Personal Income Distribution,” Jour. Pol. Econ., Aug. 1958, 66, 281-302. 14. S. J. Mushkin, “Toward a Definition of Health Economics,” Public Health Reports, U. S. Dept. of Health, Educ. and Welfare, Sept. 1958, 73, 785-93. 15. J. S. Nicholson, “The Living Capital of the United Kingdom,” Econ. Jour., Mar. 1891, 1, 95; see J. S. Mill, Principles of Political Economy, ed. W. J. Ashley, London 1909, p. 8. 16. T. W. Schultz, “Investment in Man: An Economist’s View,” Soc. Serv. Rev., June 1959, 33, 109-17. 17. ———, “Agriculture and the Application of Knowledge,” A Look to the Future, W. K. Kellogg Foundation, Battle Creek, 1956, 54-78. 18. ———, “Capital Formation by Education,” Jour. Pol. Econ., Dec. 1960, 68, Tables 3 through 7. 19. ———, “Education and Economic Growth,” Social Forces Influencing American Education, H. G. Richey, ed. Chicago 1961. 20. H. von Thünen, Der isolierte Staat, 3rd ed., Vol. 2, Pt. 2, 1875, transl. by B. F. Hoselitz, reproduced by the Comp. Educ. Center, Univ. Chicago, pp. 140-52. 21. Morton Zeman, A Quantitative Analysis of White-Nonwhite Income Differentials in the United States. Unpublished doctoral dissertation, Univ. Chicago, 1955."
+    }
+  ],
+  "anchors": {
+    "economics-modern-schultz-human-capital-investment": {
+      "paragraphId": "p0004",
+      "start": 0,
+      "end": 73,
+      "quote": "Much of what we call consumption constitutes investment in human capital.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://archive.org/details/behaviorism0000john",
+  "sourcePdf": "research/source-cache/remaining-paper-recovery/watson-behaviorism-1925.pdf",
+  "sourcePdfSha256": "822e5969df47c014120f3ad12ef2162f93a02614b4d242128c601bf9b50a6d5b",
+  "rawOcrOutput": "research/source-cache/remaining-paper-recovery/watson-behaviorism-1925-chapter-v-tesseract.txt",
+  "rawOcrSha256": "61076bb715ab3283e2f7b2c28ed04d3f250b30596047abf466f8894bde0c68ca",
+  "readingUnitOutput": "research/source-cache/reading-unit-derived/watson-behaviorism-1925-chapter-v.txt",
+  "readingUnitBytes": 42081,
+  "readingUnitSha256": "d52231d97959474e38abe8bb49f2ea5f1ed319b9955f3dff14662d1730d10858",
+  "pdfPageRange": [
+    105,
+    125
+  ],
+  "printPageRange": [
+    93,
+    113
+  ],
+  "boundary": "Complete Chapter V, from its title through the sentence immediately preceding Chapter VI.",
+  "notePlacement": "Three printed footnotes, each numbered 1 on its source page, are retained under a NOTES heading after the chapter body. Inline markers identify the footnote number and print page, while moving the note text prevents page-bottom notes from interrupting sentences continued on the next page.",
+  "visualChecks": [
+    "PDF pages 105-125 / print pages 93-113: every page compared against the derived text",
+    "PDF page 105 / print page 93: Chapter V opening and display headings",
+    "PDF pages 110, 117, and 124 / print pages 98, 105, and 112: footnote markers, note text, and page-edge continuations",
+    "PDF page 116 / print page 104: both registered quotation segments",
+    "PDF page 125 / print page 113: Chapter V ending",
+    "PDF page 126 / print page 114: Chapter VI exclusive boundary"
+  ],
+  "imageVerifiedCorrections": [
+    "Restored omitted quotation marks around F. F. V., the mental-traits question, and the father's reported speech.",
+    "Rejoined individual, business career, the fairest, and the Chapter V sentence split across OCR or page boundaries.",
+    "Corrected Tam to I am, carly to early, and removed the false period after hardest case.",
+    "Retained all three source-page footnote numbers as Footnote 1 and normalized their inline locations."
+  ],
+  "remainingUncertainReadings": [],
+  "commands": {
+    "render": "pdftoppm -f 105 -l 125 -png -r 180 <source-pdf> <temporary-prefix>",
+    "ocr": "tesseract <page-image> stdout -l eng --psm 6"
+  }
+}

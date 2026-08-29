@@ -1,6 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="15" fill="#292620"/>
-  <circle cx="32" cy="32" r="18" fill="none" stroke="#eee5d7" stroke-width="3" stroke-linecap="round" stroke-dasharray="87 27" transform="rotate(-35 32 32)"/>
-  <circle cx="44.7" cy="19.2" r="2.5" fill="#c5a973"/>
-  <circle cx="32" cy="32" r="2.2" fill="#eee5d7"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img"
+  aria-labelledby="nothing-final-icon-title nothing-final-icon-desc">
+  <title id="nothing-final-icon-title">未定稿 / NOTHING FINAL</title>
+  <desc id="nothing-final-icon-desc">一枚带暖色圆点的开放圆环，表示思想仍可继续修订。</desc>
+  <defs>
+    <symbol id="open-o" viewBox="0 0 256 256">
+      <circle cx="128" cy="128" r="91" fill="none" stroke="currentColor"
+        stroke-width="24" stroke-linecap="butt" stroke-dasharray="522 50"
+        transform="rotate(-30 128 128)"/>
+      <circle cx="192" cy="64" r="12" fill="#d97757"/>
+    </symbol>
+  </defs>
+  <rect x="8" y="8" width="48" height="48" rx="10.5" fill="#171715"/>
+  <rect x="8.25" y="8.25" width="47.5" height="47.5" rx="10.25" fill="none"
+    stroke="#f3efe6" stroke-opacity=".14"/>
+  <use href="#open-o" x="11" y="11" width="42" height="42" color="#f3efe6"/>
 </svg>

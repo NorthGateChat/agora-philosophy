@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-22-1a7dcf9a",
+  "title": "章 22",
+  "englishTitle": "Chapter 22",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 22",
+  "englishLocator": "Chapter 22",
+  "version": "四库本王弼注《老子道德经·上篇》第二十二章影印；PDF 第 54–56 页覆盖全章，第 55 页明确作“敝则新”",
+  "englishVersion": "Siku facsimile of Wang Bi's Laozi Daodejing, Chapter 22; PDF pp. 54–56 preserve the complete chapter and p. 55 reads ‘the worn becomes new’ with 敝",
+  "sourceUrl": "https://archive.org/details/06049303.cn",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "af2c021f47eb4d93d3ba84c31a2f86e6fe4c8de780c94613a0787fa25f566a3b"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "42ed287ed5c5fc7158064d222b5cdbdae04f5bd61ae4b43233587e24532a6a05",
+  "inputHash": "5497244f6c9725883f8491c30aa3e944897b1891bce32cf19fdffb3335777872",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "《老子道德經》第二十二章（王弼本）"
+    },
+    {
+      "id": "p0002",
+      "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。是以聖人抱一為天下式。不自見，故明；不自是，故彰；不自伐，故有功；不自矜，故長。夫唯不爭，故天下莫能與之爭。古之所謂曲則全者，豈虛言哉！誠全而歸之。"
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-bending-whole": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 24,
+      "quote": "曲则全，枉则直，洼则盈，敝则新，少则得，多则惑。",
+      "match": "normalized-exact"
+    }
+  }
+}

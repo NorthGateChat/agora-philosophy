@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T15:05:23.937Z",
+  "inventory": {
+    "units": 660,
+    "integratedCandidates": 520,
+    "sourceRoutes": 140
+  },
+  "summary": {
+    "bodies": 520,
+    "missingBodies": 0,
+    "orphanBodies": 0,
+    "anchors": 682,
+    "anchorFailures": 0,
+    "duplicateBodies": 0,
+    "chromeFindings": 0,
+    "boundaryRisks": 0,
+    "rawBytes": 26410592,
+    "gzipBytes": 8436190,
+    "contentDigest": "d4a631dfb172764c37fab25617bc9366a0be74d4865e9495017d488bda4c117b"
+  },
+  "perLibrary": {
+    "chinese": {
+      "units": 82,
+      "thoughts": 101,
+      "bytes": 1367864
+    },
+    "western": {
+      "units": 276,
+      "thoughts": 380,
+      "bytes": 15271502
+    },
+    "economics": {
+      "units": 41,
+      "thoughts": 44,
+      "bytes": 2454576
+    },
+    "science": {
+      "units": 43,
+      "thoughts": 59,
+      "bytes": 3440724
+    },
+    "indian": {
+      "units": 44,
+      "thoughts": 63,
+      "bytes": 1755753
+    },
+    "psychology": {
+      "units": 36,
+      "thoughts": 46,
+      "bytes": 2494842
+    }
+  },
+  "missingBodies": [],
+  "orphanBodies": [],
+  "anchorFailures": [],
+  "duplicateBodies": [],
+  "chromeFindings": [],
+  "boundaryRisks": [],
+  "largestBodies": [
+    {
+      "id": "ru-dialogue-concerning-the-two-chief-world-systems-day-second-58feaf1b",
+      "name": "ru-dialogue-concerning-the-two-chief-world-systems-day-second-58feaf1b.json",
+      "bytes": 525716,
+      "paragraphCount": 1554,
+      "paragraphCharacters": 444370,
+      "contentHash": "2428752fd4d06321b6fb10bb2ee598df8c1e01921f62fb06b4103179c2dcdeff",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://en.wikisource.org/wiki/Page:Mathematical_collections_and_translations,_in_two_tomes_-_Salusbury_(1661).djvu/193",
+      "locatorKey": "day-second",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtIds": [
+        "science-galileo-ship"
+      ]
+    },
+    {
+      "id": "ru-emile-or-on-education-book-iv-83b6cd6b",
+      "name": "ru-emile-or-on-education-book-iv-83b6cd6b.json",
+      "bytes": 495404,
+      "paragraphCount": 541,
+      "paragraphCharacters": 465619,
+      "contentHash": "65b7cb425d241c696936d3e8ff6ad5750a0cb899b56b0585fd71c1d004fef2d3",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/5427/pg5427-images.html",
+      "locatorKey": "book-iv",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "rousseau-conscience-inner-guide"
+      ]
+    },
+    {
+      "id": "ru-capital-volume-i-chapter-15-832c61d6",
+      "name": "ru-capital-volume-i-chapter-15-832c61d6.json",
+      "bytes": 407613,
+      "paragraphCount": 562,
+      "paragraphCharacters": 373798,
+      "contentHash": "11f6ad2f13dd35926cf6302bdcc1b81e952b9a22000c32e6ba008f063cdb2328",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_15",
+      "locatorKey": "chapter-15",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "marx-machinery-discipline"
+      ]
+    },
+    {
+      "id": "ru-the-world-as-will-and-representation-volume-i-book-iv-71b44184",
+      "name": "ru-the-world-as-will-and-representation-volume-i-book-iv-71b44184.json",
+      "bytes": 407560,
+      "paragraphCount": 283,
+      "paragraphCharacters": 388801,
+      "contentHash": "600b38d84bfe118c5e98dc4a1d81f8768b9b9e893ae3d1cc4772dcfb7e440f88",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+      "locatorKey": "book-iv",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "schopenhauer-denial-of-will"
+      ]
+    },
+    {
+      "id": "ru-the-birth-of-tragedy-whole-work-e1388be0",
+      "name": "ru-the-birth-of-tragedy-whole-work-e1388be0.json",
+      "bytes": 345314,
+      "paragraphCount": 322,
+      "paragraphCharacters": 326450,
+      "contentHash": "5e9654f933ccaaf5934f99f643055d25812118acd889f82058bfb20c4032c5b9",
+      "selectionMethod": "whole-document",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/51356/pg51356-images.html",
+      "locatorKey": "whole-work",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "nietzsche-apollonian-dionysian"
+      ]
+    },
+    {
+      "id": "ru-samkhya-karika-whole-work-219b356d",
+      "name": "ru-samkhya-karika-whole-work-219b356d.json",
+      "bytes": 337674,
+      "paragraphCount": 1721,
+      "paragraphCharacters": 243388,
+      "contentHash": "af2fd7e5d2b6ca7143442b7859758479bde63ec84ef149fa811ac9edcfdc5910",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://archive.org/details/anenglishtransla00vaacuoft",
+      "locatorKey": "whole-work",
+      "libraryIds": [
+        "indian"
+      ],
+      "thoughtIds": [
+        "indian-samkhya-blind-lame",
+        "indian-samkhya-effect-preexists",
+        "indian-samkhya-many-purushas",
+        "indian-samkhya-three-gunas",
+        "indian-samkhya-threefold-suffering",
+        "indian-samkhya-unmanifest-manifest-knower"
+      ]
+    },
+    {
+      "id": "ru-on-the-uses-and-disadvantages-of-history-for-lif-preface-preface-f49fbb00",
+      "name": "ru-on-the-uses-and-disadvantages-of-history-for-lif-preface-preface-f49fbb00.json",
+      "bytes": 320621,
+      "paragraphCount": 207,
+      "paragraphCharacters": 307569,
+      "contentHash": "163a6c1a29312635acc2fe9d0dfcb3dd7ca4c1900236809b8f054bb5e999f701",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/38226/pg38226-images.html",
+      "locatorKey": "preface-preface",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "nietzsche-history-for-life"
+      ]
+    },
+    {
+      "id": "ru-thus-spoke-zarathustra-part-i-2d0d10f9",
+      "name": "ru-thus-spoke-zarathustra-part-i-2d0d10f9.json",
+      "bytes": 318473,
+      "paragraphCount": 1765,
+      "paragraphCharacters": 224326,
+      "contentHash": "0bfbc49e60e21d4125271fce636d0da1e00a29d51ca603e57f78e557478ddd7a",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/1998/pg1998-images.html",
+      "locatorKey": "part-i",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "nietzsche-three-metamorphoses"
+      ]
+    },
+    {
+      "id": "ru-novum-organum-book-ii-5e6fbb20",
+      "name": "ru-novum-organum-book-ii-5e6fbb20.json",
+      "bytes": 317834,
+      "paragraphCount": 421,
+      "paragraphCharacters": 294125,
+      "contentHash": "eaed76b960f748c6ebf894524eee178a1259b072135937dac6c9fabed8fa5931",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm",
+      "locatorKey": "book-ii",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtIds": [
+        "science-bacon-negative-instances"
+      ]
+    },
+    {
+      "id": "ru-capital-volume-i-chapter-xxv-5db39174",
+      "name": "ru-capital-volume-i-chapter-xxv-5db39174.json",
+      "bytes": 314290,
+      "paragraphCount": 1162,
+      "paragraphCharacters": 252114,
+      "contentHash": "e3936aec3ee27e980f086c103ad2bc73f96513c78a5af2a6833f864ff646562d",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capital_-_Marx_-_1887_-_Volume_2.pdf",
+      "locatorKey": "chapter-xxv",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtIds": [
+        "economics-marx-reserve-army"
+      ]
+    },
+    {
+      "id": "ru-capital-volume-i-chapter-25-d3d9726c",
+      "name": "ru-capital-volume-i-chapter-25-d3d9726c.json",
+      "bytes": 291201,
+      "paragraphCount": 544,
+      "paragraphCharacters": 258984,
+      "contentHash": "7f73613c93ffffd37b1b2687da51de5be1e2a264cdf4fb3ec0176112b0e7feca",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_25",
+      "locatorKey": "chapter-25",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "marx-reserve-army"
+      ]
+    },
+    {
+      "id": "ru-emile-or-on-education-book-ii-b693ca00",
+      "name": "ru-emile-or-on-education-book-ii-b693ca00.json",
+      "bytes": 291103,
+      "paragraphCount": 374,
+      "paragraphCharacters": 269811,
+      "contentHash": "5c0068197363f2dc2c546a729769ff9c85433c8caffd9d0831ba5f3af4c607a1",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/5427/pg5427-images.html",
+      "locatorKey": "book-ii",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "rousseau-childhood-own-form",
+        "rousseau-negative-education"
+      ]
+    },
+    {
+      "id": "ru-the-principles-of-psychology-chapter-x-fea508cc",
+      "name": "ru-the-principles-of-psychology-chapter-x-fea508cc.json",
+      "bytes": 288608,
+      "paragraphCount": 384,
+      "paragraphCharacters": 267138,
+      "contentHash": "02451f270972c5794fe87e9c129c45266202e13b422ac9aa85aba2db86c825d4",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://www.gutenberg.org/files/57628/57628-h/57628-h.htm",
+      "locatorKey": "chapter-x",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtIds": [
+        "psychology-foundations-james-self-plural"
+      ]
+    },
+    {
+      "id": "ru-educational-psychology-volume-ii-the-psychology--chapter-xii-563c7183",
+      "name": "ru-educational-psychology-volume-ii-the-psychology--chapter-xii-563c7183.json",
+      "bytes": 287976,
+      "paragraphCount": 2336,
+      "paragraphCharacters": 165714,
+      "contentHash": "daff5a5daf05c966a85354f4bf18896c037968158f5e3e96de7ff53226e09065",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://archive.org/details/educationalpsych02thor",
+      "locatorKey": "chapter-xii",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtIds": [
+        "psychology-foundations-thorndike-identical-elements"
+      ]
+    },
+    {
+      "id": "ru-the-philosophy-of-history-introduction-introduction-21f23086",
+      "name": "ru-the-philosophy-of-history-introduction-introduction-21f23086.json",
+      "bytes": 270914,
+      "paragraphCount": 248,
+      "paragraphCharacters": 254803,
+      "contentHash": "4d8695f745326615006a7197099793f0362dec99dce20a37f02a121e62b44453",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://archive.org/details/philosophyofhist00hege",
+      "locatorKey": "introduction-introduction",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "hegel-cunning-of-reason",
+        "hegel-history-consciousness-freedom"
+      ]
+    },
+    {
+      "id": "ru-the-world-as-will-and-representation-volume-i-book-iii-260068ee",
+      "name": "ru-the-world-as-will-and-representation-volume-i-book-iii-260068ee.json",
+      "bytes": 267010,
+      "paragraphCount": 129,
+      "paragraphCharacters": 256188,
+      "contentHash": "d049743317c66320f9dd649cfcd9b24deaae2aefb475316261f40f14f615f52b",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+      "locatorKey": "book-iii",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "schopenhauer-aesthetic-contemplation",
+        "schopenhauer-desire-suffering",
+        "schopenhauer-music-will"
+      ]
+    },
+    {
+      "id": "ru-elements-of-the-philosophy-of-right-part-iii-named-section-the-state-ac6a3653",
+      "name": "ru-elements-of-the-philosophy-of-right-part-iii-named-section-the-state-ac6a3653.json",
+      "bytes": 253693,
+      "paragraphCount": 502,
+      "paragraphCharacters": 226080,
+      "contentHash": "c7e3ee76c51a2319568f27fd586ecc2b20d99edacd4f15ea231045a55e7634b1",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://archive.org/details/cu31924014578979",
+      "locatorKey": "part-iii-named-section-the-state",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "hegel-state-concrete-freedom"
+      ]
+    },
+    {
+      "id": "ru-the-world-as-will-and-representation-volume-i-book-i-a2746704",
+      "name": "ru-the-world-as-will-and-representation-volume-i-book-i-a2746704.json",
+      "bytes": 243744,
+      "paragraphCount": 106,
+      "paragraphCharacters": 235275,
+      "contentHash": "70ebeced46dd79666098a93691b43cf320632ddafe6a6661c5b7b1134f44c896",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+      "locatorKey": "book-i",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "schopenhauer",
+        "schopenhauer-principle-sufficient-reason"
+      ]
+    },
+    {
+      "id": "ru-the-wealth-of-nations-book-v-chapter-1-part-iii-51161738",
+      "name": "ru-the-wealth-of-nations-book-v-chapter-1-part-iii-51161738.json",
+      "bytes": 232903,
+      "paragraphCount": 172,
+      "paragraphCharacters": 222420,
+      "contentHash": "f75465505abe75dfc7fb83cb708353826a374918bc7f84ad7ef478abee741fcf",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/files/3300/3300-h/3300-h.htm",
+      "locatorKey": "book-v-chapter-1-part-iii",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtIds": [
+        "economics-smith-public-works"
+      ]
+    },
+    {
+      "id": "ru-theaetetus-whole-work-84d7e0a6",
+      "name": "ru-theaetetus-whole-work-84d7e0a6.json",
+      "bytes": 222048,
+      "paragraphCount": 1030,
+      "paragraphCharacters": 167583,
+      "contentHash": "354d3272f695e1a8bc8522fdd3523e4ea12ccd4e5d3c58837d05ec64c6afeef7",
+      "selectionMethod": "whole-document",
+      "sourceUrl": "https://en.wikisource.org/wiki/Theaetetus_(Jowett)",
+      "locatorKey": "whole-work",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "plato-knowledge-needs-account",
+        "socrates-midwife-of-thought"
+      ]
+    },
+    {
+      "id": "ru-critique-of-pure-reason-analytic-appendix-appendix-to-the-transcendental-754752d7",
+      "name": "ru-critique-of-pure-reason-analytic-appendix-appendix-to-the-transcendental-754752d7.json",
+      "bytes": 215628,
+      "paragraphCount": 223,
+      "paragraphCharacters": 202125,
+      "contentHash": "2d501482c419c9b80db12f04658e28237add0806faa55b3f2f580910e336cf43",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "locatorKey": "analytic-appendix-appendix-to-the-transcendental-analytic",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "kant-phenomena-noumena-limit"
+      ]
+    },
+    {
+      "id": "ru-novum-organum-book-i-d91738cb",
+      "name": "ru-novum-organum-book-i-d91738cb.json",
+      "bytes": 205266,
+      "paragraphCount": 280,
+      "paragraphCharacters": 185035,
+      "contentHash": "571b5273734fd83f27dc8e432dee873d955a4d4cc879b7e9f49ea831bd9b38d9",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm",
+      "locatorKey": "book-i",
+      "libraryIds": [
+        "science",
+        "western"
+      ],
+      "thoughtIds": [
+        "francis_bacon",
+        "francis-bacon-idols",
+        "francis-bacon-ladder",
+        "francis-bacon-light-fruit",
+        "francis-bacon-method",
+        "science-bacon-bee",
+        "science-bacon-gradual-induction",
+        "science-bacon-idols",
+        "science-bacon-organized-experiment"
+      ]
+    },
+    {
+      "id": "ru-critique-of-pure-reason-dialectic-appendix-appendix-to-the-transcendenta-cb642d91",
+      "name": "ru-critique-of-pure-reason-dialectic-appendix-appendix-to-the-transcendenta-cb642d91.json",
+      "bytes": 204419,
+      "paragraphCount": 193,
+      "paragraphCharacters": 192328,
+      "contentHash": "c72335c80d1748a436f160ca414e35d912916976640cb96c9a8fba29ab3950cc",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "locatorKey": "dialectic-appendix-appendix-to-the-transcendental-dialectic",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "kant-ideas-regulative-use"
+      ]
+    },
+    {
+      "id": "ru-the-world-as-will-and-representation-volume-i-book-ii-ea9332fc",
+      "name": "ru-the-world-as-will-and-representation-volume-i-book-ii-ea9332fc.json",
+      "bytes": 192799,
+      "paragraphCount": 72,
+      "paragraphCharacters": 186432,
+      "contentHash": "a2851b01f7f15bd47b2fc27ffb3ebd9e70908a6e67d779ee9e547a5b686cadc7",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://www.gutenberg.org/files/38427/38427-h/38427-h.html",
+      "locatorKey": "book-ii",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "schopenhauer-blind-striving",
+        "schopenhauer-body-and-will"
+      ]
+    },
+    {
+      "id": "ru-timaeus-whole-work-19212f3f",
+      "name": "ru-timaeus-whole-work-19212f3f.json",
+      "bytes": 187655,
+      "paragraphCount": 131,
+      "paragraphCharacters": 179389,
+      "contentHash": "2894db944d04fcadb94f89eb6932162c29f1208deee0ec50b06a58affec62885",
+      "selectionMethod": "whole-document",
+      "sourceUrl": "https://classics.mit.edu/Plato/timaeus.html",
+      "locatorKey": "whole-work",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "plato-cosmos-as-order"
+      ]
+    },
+    {
+      "id": "ru-the-analysis-of-household-surveys-chapter-1-8c35d305",
+      "name": "ru-the-analysis-of-household-surveys-chapter-1-8c35d305.json",
+      "bytes": 181447,
+      "paragraphCount": 187,
+      "paragraphCharacters": 169838,
+      "contentHash": "35f234e10ff07b0931f1ed02e76d5d6b551540df1f93c0427d8496f3aea657c9",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://documents1.worldbank.org/curated/en/203811547671768139/pdf/133790-PUB.pdf",
+      "locatorKey": "chapter-1",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtIds": [
+        "economics-modern-deaton-household-welfare-measurement"
+      ]
+    },
+    {
+      "id": "ru-a-treatise-concerning-the-principles-of-human-kn-part-i-409ed382",
+      "name": "ru-a-treatise-concerning-the-principles-of-human-kn-part-i-409ed382.json",
+      "bytes": 181324,
+      "paragraphCount": 159,
+      "paragraphCharacters": 168248,
+      "contentHash": "78a67f3a3bcd2ee2eda5bf9ab907f375358bda9625d8a9ab0f1637ed8856d34a",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://en.wikisource.org/wiki/A_Treatise_Concerning_the_Principles_of_Human_Knowledge/Of_the_Principles_of_Human_Knowledge",
+      "locatorKey": "part-i",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "berkeley",
+        "berkeley-laws-signs",
+        "berkeley-qualities",
+        "berkeley-spirit"
+      ]
+    },
+    {
+      "id": "ru-discourses-and-mathematical-demonstrations-relat-day-third-8ecc561a",
+      "name": "ru-discourses-and-mathematical-demonstrations-relat-day-third-8ecc561a.json",
+      "bytes": 179866,
+      "paragraphCount": 322,
+      "paragraphCharacters": 160921,
+      "contentHash": "c7b3b55cad11834b841127e79deb9b99a2c66bf0bbbce40f8fdd787e5a4ac7b4",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://galileoandeinstein.phys.virginia.edu/tns_draft/tns_160to243.html",
+      "locatorKey": "day-third",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtIds": [
+        "science-galileo-inclined-plane"
+      ]
+    },
+    {
+      "id": "ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241",
+      "name": "ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241.json",
+      "bytes": 172375,
+      "paragraphCount": 268,
+      "paragraphCharacters": 156315,
+      "contentHash": "c91918a466467bc9f050f15dc1e18c5d8eebc5fb4f068fe430afa142b87ae9e3",
+      "selectionMethod": "configured-pattern",
+      "sourceUrl": "https://archive.org/details/selectionsfromwr00kieruoft/page/n51/mode/1up",
+      "locatorKey": "part-i",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "kierkegaard-aesthetic-immediacy"
+      ]
+    },
+    {
+      "id": "ru-on-the-genealogy-of-morality-essay-third-1c6f946e",
+      "name": "ru-on-the-genealogy-of-morality-essay-third-1c6f946e.json",
+      "bytes": 172097,
+      "paragraphCount": 151,
+      "paragraphCharacters": 160920,
+      "contentHash": "be5e1a86a32f9f396e8c0e6a646f3bd8fcf6838052f58d495dac397fb0b84176",
+      "selectionMethod": "quote-guided-boundary",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/52319/pg52319-images.html",
+      "locatorKey": "essay-third",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtIds": [
+        "nietzsche-ascetic-ideal",
+        "nietzsche-perspectival-knowing"
+      ]
+    }
+  ]
+}

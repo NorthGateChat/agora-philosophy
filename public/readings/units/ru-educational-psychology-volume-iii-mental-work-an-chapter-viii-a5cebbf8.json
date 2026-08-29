@@ -1,0 +1,1477 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-educational-psychology-volume-iii-mental-work-an-chapter-viii-a5cebbf8",
+  "title": "章 VIII",
+  "englishTitle": "Chapter VIII",
+  "work": "《教育心理学》第三卷",
+  "englishWork": "Educational Psychology, Volume III: Mental Work and Fatigue, and Individual Differences",
+  "locator": "章 VIII",
+  "englishLocator": "Chapter VIII",
+  "version": "Internet Archive 公版扫描，桑代克《教育心理学》第三卷《心理工作、疲劳与个体差异》1914 年英文原著，第 8 章第 163—164 页；卡片以省略号标示中间数值说明",
+  "englishVersion": "Internet Archive public-domain scan, Edward L. Thorndike, Educational Psychology, Vol. III, Mental Work and Fatigue, and Individual Differences (1914), Chapter VIII, pp. 163-164; intervening numerical detail omitted with an ellipsis",
+  "sourceUrl": "https://archive.org/details/educationalpsych03thor",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "5af3f62c1dc937dff5be838d3b9f1d99282991e9b421d76716dde30be9c18c59"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "6fbacb1de80ed27203fd46824e57a49c951a86bc6e3183a598e4a6d40ae032b7",
+  "inputHash": "ca2a439aed5a5838c492f95c6e0387ebe8bcd68abcf1b015b3471d02a6742d90",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER VIII"
+    },
+    {
+      "id": "p0002",
+      "text": "The Measurement of Individual Differences"
+    },
+    {
+      "id": "p0003",
+      "text": "SIMPLE and compound DIFFERENCES"
+    },
+    {
+      "id": "p0004",
+      "text": "A difference in human nature may be (i) in the amount or degree of the same thing* (as 'good — better,' 'quick — slow,' 'imaginative — less imaginative — unimaginative\") ; or (2) in the presence or absence of different things (as 'John knows Latin; James knows German,' or, 'A is imaginative; B is rational,' or, *C has an artistic temperament; D has a scientific temperament' ) ."
+    },
+    {
+      "id": "p0005",
+      "text": "The second case commonly reduces to an aggregate of differences of the first sort if the statement of difiference is made adecjuate. Thus, 'John knows x Latin; James knows 0 Latin ; James knows 3; German ; John knows o German' should properly replace the former statement. Similarly we have, 'A is imaginative to ^ extent, B is imaginative to :j-iv extent. B is rational to v extent; A is rational to z'-w extent,' and, 'C has /', y and z amounts, respectively, of certain qualities, certain degrees of which in combination we call the artistic temperament; D has small or possibly zero amounts of these qualities.' A difference in human nature then commonly is a difference in the amount of one thing or an aggregate of differences each in the amount of one thing."
+    },
+    {
+      "id": "p0006",
+      "text": "But conceivably there may be things which do not vary in amount except from zero by a sudvlen jump to one positive condition. The thing would then either be in one constant degree or not at all. The literature of psychology and of edu-"
+    },
+    {
+      "id": "p0007",
+      "text": "* Or what is a&sumed to be tho same thing."
+    },
+    {
+      "id": "p0008",
+      "text": "15^"
+    },
+    {
+      "id": "p0009",
+      "text": "THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 1 53"
+    },
+    {
+      "id": "p0010",
+      "text": "cation abounds in cases of difference stated as if the difference were that between o and k, without k-Yio, or k-yio, or o-{-%k, etc. But such statements are usually due to ignorance or vagueness. 'John is color blind ; James is not' cannot really mean that there is some one constant degree of color blindness Avhich a man either has just in that degree or does not have at all ; for there are varying amounts of color blindness. In fact, it is doubtful if tliere are any individual differences in human intellect or character of this 'j:ero to k' sort."
+    },
+    {
+      "id": "p0011",
+      "text": "When, therefore, it is stated that John and James differ in kind, the statement always, or almost always, means nothing more than that one of the two individuals possesses a certain amount or degree of something of which the other possesses o. V\\'hen it is stated that the difference between John and James in one thing, say, knowledge, is qualitative whereas their difference in another, say, motor skill, is quantitative, the statement always, or almost always, means nothing more than that certain sorts of knowledge, present in certain amounts in John, are absent in James, and vice versa ; whereas, in motor skill, both have perceptible amounts of an identical set of things."
+    },
+    {
+      "id": "p0012",
+      "text": "It is then not only permissible, but more scientific and more useful, to think of human individuals as all measured upon the same series of scales, each scale being for the amount of some one thing, there being scales for every thing in human nature, and each person being recorded as zero in the case of things not appearing in his nature. And the only problem of method which need concern us in this chapter is the problem of the nature and use of a scale for measuring different amounts or degrees of the same trait in different human beings."
+    },
+    {
+      "id": "p0013",
+      "text": "UNITS AND SCALES FOR MEASURING MENTAL DIFFERENCES"
+    },
+    {
+      "id": "p0014",
+      "text": "The facts of importance about scales for mental and moral traits can be best stated in connection with some concrete illustrations."
+    },
+    {
+      "id": "p0015",
+      "text": "154 INDIVIDUAL DIFFERENCES"
+    },
+    {
+      "id": "p0016",
+      "text": "Consider the facts given in Table 25 concerning individuals A, B and C, with reference to these questions : —"
+    },
+    {
+      "id": "p0017",
+      "text": "1. What are the differences between A and B, A and C,"
+    },
+    {
+      "id": "p0018",
+      "text": "and B and C in each of the traits?"
+    },
+    {
+      "id": "p0019",
+      "text": "2. How many times as great is the difference between A"
+    },
+    {
+      "id": "p0020",
+      "text": "and B in trait I as that between B and C in trait I? How many times as great is the difference between B and C in trait II as that between A and C in trait II, etc., etc."
+    },
+    {
+      "id": "p0021",
+      "text": "What the difference is between A and B can be definitely determined in the case of stature (I), reaction-time (II), error in drawing a line (III), and age (XII) ; but all that one learns about the differences in the case of ability in history (VII) and interest in music (XI) is that one difference is that between excellent and good on the arbitrary scale of some school and that the other is that between little and moderate in the mind of some observer. The measures of I, II, III and XII are by objective or impersonal scales, that is, scales the identification and similar use of which are possible for any competent observer. The measures of VII and XI are by subjective or personal scales, which another observer could not identify* or use in the way in which the person giving the marks used them. Moreover, whatever the scales in VII and XI really are, they are certainly very coarse; a wide range of difference is expressed in them by a few steps or marks or values. In short, any competent thinker knows exactly what is meant by 160 cm. and by 160 cm. — 140 cm., whereas he cannot be sure what is meant by excellent, or by the difference between excellent and good."
+    },
+    {
+      "id": "p0022",
+      "text": "Concerning the other measurements the following statements are roughly true : —"
+    },
+    {
+      "id": "p0023",
+      "text": "A, B and C are measured objectively in the quality of handwriting. We know what is meant by the difference between"
+    },
+    {
+      "id": "p0024",
+      "text": "* If, for example, the reader had heard the oral work and seen the written work which in combination mean good in the school whence A and B came, he would not know that they did mean good."
+    },
+    {
+      "id": "p0025",
+      "text": "THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 155"
+    },
+    {
+      "id": "p0026",
+      "text": "Table 25. Measurements of Three Individuals, A, B, and C."
+    },
+    {
+      "id": "p0027",
+      "text": "ABC I. Stature 160 cm. 140 cm. 130 cm."
+    },
+    {
+      "id": "p0028",
+      "text": "II. Simple reaction-time to somid 175 sec. .125 sec. .isosec."
+    },
+    {
+      "id": "p0029",
+      "text": "III. Average error in drawing a line to"
+    },
+    {
+      "id": "p0030",
+      "text": "equal a 100 mm. line 3.2 mm. 2.8 mm. 2.2 mm."
+    },
+    {
+      "id": "p0031",
+      "text": "[V. Number of w^ords (of a list of 12, heard at a rate of i per second) remembered long enough to write them immediately after the last"
+    },
+    {
+      "id": "p0032",
+      "text": "word was read 6 words 9 words 7 words"
+    },
+    {
+      "id": "p0033",
+      "text": "V. Number of examples in addition (each of 10 numbers, repeating no number in any one example, taken at random from the numbers 10"
+    },
+    {
+      "id": "p0034",
+      "text": "to 99) done correctly in 8 minutes 14 12 18"
+    },
+    {
+      "id": "p0035",
+      "text": "VI. Quality, or merit, or goodness of"
+    },
+    {
+      "id": "p0036",
+      "text": "handwriting See Fig. 22 See Fig. 23 See Fig. 24"
+    },
+    {
+      "id": "p0037",
+      "text": "VII. School marks in history Ex. Good Poor"
+    },
+    {
+      "id": "p0038",
+      "text": "VIII. School marks in spelling 82 62 93"
+    },
+    {
+      "id": "p0039",
+      "text": "IX. Efficiency in perception ; the number of A's marked in 60 seconds on a sheet containing 100 A's mixed"
+    },
+    {
+      "id": "p0040",
+      "text": "with 400 other capital letters... 48 A's 60 A's 82 A's X. Criminality : number of times convicted of a penal offense o i o"
+    },
+    {
+      "id": "p0041",
+      "text": "XI. Degree of interest in music little moderate a great deal"
+    },
+    {
+      "id": "p0042",
+      "text": "XII. Age in daj's 50S0 d. 6150 d. 5615 d."
+    },
+    {
+      "id": "p0043",
+      "text": "A and B. It is just the difference between the quahties of the two samples presented. But they are not measured conveniently ; the differences are not referred to any commonly known scale."
+    },
+    {
+      "id": "p0044",
+      "text": "The measurement in addition is nearly objective. If the conditions of the test are defined by a statement of how the examples were presented (what type they were printed in, how they were arranged, etc.), how the answers were given, at what time, under what distractions, with what incentives, etc., they were done, and the like, they become still more fully objective."
+    },
+    {
+      "id": "p0045",
+      "text": "In the case of memory, not only the conditions of the test, as in addition, but also the exact words used need to be specified."
+    },
+    {
+      "id": "p0046",
+      "text": "1=^6"
+    },
+    {
+      "id": "p0047",
+      "text": "INDIVIDUAL DIFFERENCES"
+    },
+    {
+      "id": "p0048",
+      "text": "THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 15/"
+    },
+    {
+      "id": "p0049",
+      "text": "A differed from B by writing down three less words of a certain list. The list needs to be known if all competent observers are to think of the same thing by three words."
+    },
+    {
+      "id": "p0050",
+      "text": "The measure of criminality is inferior to the measurement of stature or age by using an ambiguous unit {convicted of a penal offense)and also by measuring only very coarse differences. A and C are not differentiated by the measures, though A might just fall short of crime and C be a very healthyminded and kind-hearted boy."
+    },
+    {
+      "id": "p0051",
+      "text": "The measurement of ability in spelling might turn out to be, were the conditions of the test and the system of scoring results in it known, as objective as that in addition, or, on the other hand, may be only a record of the opinion of some teacher that A was a good deal better than B and that C was somewhat above A. As the record stands the A — B = 20 may mean no more than 'A is good; B is unsatisfactory,' or 'A is somewhat better than B in my opinion/"
+    },
+    {
+      "id": "p0052",
+      "text": "A — B B — C A — B"
+    },
+    {
+      "id": "p0053",
+      "text": "The values- —,— ^ and -^5 ^r are determinable in"
+    },
+    {
+      "id": "p0054",
+      "text": ":\\ — C A — L B — C"
+    },
+    {
+      "id": "p0055",
+      "text": "the case of I, II, III and XII of Table I. In stature A — B ="
+    },
+    {
+      "id": "p0056",
+      "text": "A — B 20 cm., A — C = 30 cm. and— pr = .667. When one"
+    },
+    {
+      "id": "p0057",
+      "text": "says that A differs from C in stature one and a half times as much as from B, any competent person knows exactly"
+    },
+    {
+      "id": "p0058",
+      "text": "A — B"
+    },
+    {
+      "id": "p0059",
+      "text": "what is meant. For V II on the contrary we have —="
+    },
+    {
+      "id": "p0060",
+      "text": "A — U"
+    },
+    {
+      "id": "p0061",
+      "text": "Excellent — Good"
+    },
+    {
+      "id": "p0062",
+      "text": "— ^r which mav be a true, but remains a mvstical,"
+    },
+    {
+      "id": "p0063",
+      "text": "iLxcellent — Poor,"
+    },
+    {
+      "id": "p0064",
+      "text": "answer, until excellent, good and poor are defined on some scale."
+    },
+    {
+      "id": "p0065",
+      "text": "In the case of the memory of words ( A = 6, 6 = 9, C — 7)"
+    },
+    {
+      "id": "p0066",
+      "text": "B — A B — C"
+    },
+    {
+      "id": "p0067",
+      "text": ". 2 and V :-= 2, if to remember any one word"
+    },
+    {
+      "id": "p0068",
+      "text": "C — A\"^ L — A"
+    },
+    {
+      "id": "p0069",
+      "text": "= to remember any other one zuord. Suppose, however, that"
+    },
+    {
+      "id": "p0070",
+      "text": "the series of words was: 'career, dilatory, opium, never, soap,"
+    },
+    {
+      "id": "p0071",
+      "text": "numbers, add, subtract, one, two, three, four,' and that A"
+    },
+    {
+      "id": "p0072",
+      "text": "158 INDIVIDUAL DIFFERENCES"
+    },
+    {
+      "id": "p0073",
+      "text": "remembered the last 6, C the last 7, and B these and the first two. It would be very risky to assume that the difference between A and B (remembering career, dilatory and numbers) was only three times the difference between A and C (remembering nurnhcrs). And it would be almost certain that a difference of 10 — 4 in the test would be really more than twice as great as a difference of 7 — 4. Under the circumstances numbers, add and subtract are probably much easier to remember than career, dilatory and opium."
+    },
+    {
+      "id": "p0074",
+      "text": "In the case of centimeters or seconds every competent person knows not only what fact is meant by any given number of the units, but also that any one unit is equal to any other one, any two to any other two, and so on. In the case of words remembered, units called by the same name may not be really equal."
+    },
+    {
+      "id": "p0075",
+      "text": "In the case of the addition, one example differed from another in difficulty only by chance and only slightly ; for when 10 two-place numbers are picked by chance and arranged in a chance order, the chances are enormously against getting any very easy examples like (a) or any very hard examples like (b). (a) (b)"
+    },
+    {
+      "id": "p0076",
+      "text": "35 95"
+    },
+    {
+      "id": "p0077",
+      "text": "30 58"
+    },
+    {
+      "id": "p0078",
+      "text": "40 67"
+    },
+    {
+      "id": "p0079",
+      "text": "60 79"
+    },
+    {
+      "id": "p0080",
+      "text": "The chances are still more against getting two or three"
+    },
+    {
+      "id": "p0081",
+      "text": "examples in succession that are on the average more than a"
+    },
+    {
+      "id": "p0082",
+      "text": "trifle harder than any other succession of two or three. Re-"
+    },
+    {
+      "id": "p0083",
+      "text": "A — B 2"
+    },
+    {
+      "id": "p0084",
+      "text": "liance upon the truth of -:^ =; =-7-would, however, be safer"
+    },
+    {
+      "id": "p0085",
+      "text": "^ C — Bo"
+    },
+    {
+      "id": "p0086",
+      "text": "if 10, 20, 30, etc., and 11, 21, 31, etc., had been excluded from"
+    },
+    {
+      "id": "p0087",
+      "text": "the numbers used in the tests."
+    },
+    {
+      "id": "p0088",
+      "text": "In the case of merit of handwriting, the differences between"
+    },
+    {
+      "id": "p0089",
+      "text": "A and B, B and C, and A and C do not even pretend to be put"
+    },
+    {
+      "id": "p0090",
+      "text": "THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 159"
+    },
+    {
+      "id": "p0091",
+      "text": "in terms so as to allow comparison. As the records stand, anyone must get the differences transposed into terms of some unit"
+    },
+    {
+      "id": "p0092",
+      "text": "A — B"
+    },
+    {
+      "id": "p0093",
+      "text": "before he can calculate- — at all. Since the measures of"
+    },
+    {
+      "id": "p0094",
+      "text": "A — L"
+    },
+    {
+      "id": "p0095",
+      "text": "A, B and C are objective, this can be done. If, for example,"
+    },
+    {
+      "id": "p0096",
+      "text": "the measurer could show that the dift'erence between A and C"
+    },
+    {
+      "id": "p0097",
+      "text": "was approximately five-twelfths of the difference between two"
+    },
+    {
+      "id": "p0098",
+      "text": "standard samples accessible to all competent persons, and that"
+    },
+    {
+      "id": "p0099",
+      "text": "the difference between A and B was approximately two-twelfths"
+    },
+    {
+      "id": "p0100",
+      "text": "of the difference between the same two standard samples, he"
+    },
+    {
+      "id": "p0101",
+      "text": "A — B — -/l2^ 2"
+    },
+    {
+      "id": "p0102",
+      "text": "could then regard — as, of course, -y^ — - or — , k being"
+    },
+    {
+      "id": "p0103",
+      "text": "A — C — ■/ 1 -2 k 5"
+    },
+    {
+      "id": "p0104",
+      "text": "the difference between the two standard samples. As a matter of fact the difference between the sample of Fig. 22 and that of Fig. 24 is in the combined opinion of some hundred judges just about tv\\'o and one-half times as great as the difference between the sample of Fig. 22 and that of Fig. 23."
+    },
+    {
+      "id": "p0105",
+      "text": "The sum and substance of the last four pages is that a measurement of human nature to be useful for our purpose must identify the amount in question for any competent thinker, just as a useful description must identify the object in question. To do this it must be objective, that is, free from individual caprice, so that any competent person making the same measurement would get the same result.*"
+    },
+    {
+      "id": "p0106",
+      "text": "* Not, of course, exactly the same. There is a personal equation in"
+    },
+    {
+      "id": "p0107",
+      "text": "even the most objective measures, such as the length of this line ."
+    },
+    {
+      "id": "p0108",
+      "text": "If they measured it to thousandths of a millimeter, competent observers would not get the same result, except by chance. Nor would the same observer in several independent measurements. The ultimate distinction between objective and subjective is simply that in the former sort of measurements competent observers use very nearly the same criteria and, tho independent, agree very closely, whereas in the latter they use very different criteria and, if independent, agree only roughly. The reader may safely postpone any subtle or thoroughgoing treatment of the distinction until he can study the theory of mental measurements in detail. For the purposes of this book, objective measures may be defined as measures which competent observers could repeat and verify or reject, and subjective measures as measures which they could not so repeat and verify."
+    },
+    {
+      "id": "p0109",
+      "text": "l60 INDIVIDUAL DIFFERENCES"
+    },
+    {
+      "id": "p0110",
+      "text": "It should also,, if possible, so state the amount In question that other amounts of the same thing may be compared with it as so much greater or less, permitting differences between the amounts to be expressed in ratios. In still briefer terms, the measurements should be at defined points on an objective scale, the distances of these points one from another being also defined."
+    },
+    {
+      "id": "p0111",
+      "text": "The reason for the elaborate introduction to and illustrations of this obvious principle is that in its application to particular problems in the study of educational psychology it has not been obvious to even the writers of treatises and investigators of original data, much less to the rank and file of students of psychology or of education. On the contrary this entire chapter would not suffice to list and barely describe the quantitative conclusions that have been drawn from subjective opinions or from the unjustifiable acceptance as equal of units which happened to be called by the same name."
+    },
+    {
+      "id": "p0112",
+      "text": "The reason for contrasting physical and mental measurements, to the apparent disrepute of the latter, is not that I wish to discourage the reader from trusting, or from making, measurements of any feature whatever of intellect or character. It is to be hoped, however, that he will be effectually discouraged from trusting measurements which do not deserve trust. The lesson to be drawn from the contrast is that a measurement can rightly be trusted or rejected or criticized or, indeed, understood, only if the concrete reality which it describes is known. Any numerical statement has meaning only in reference to a concrete scale and its units."
+    },
+    {
+      "id": "p0113",
+      "text": "THE VARIABILITY OF A MENTAL MEASUREMENT"
+    },
+    {
+      "id": "p0114",
+      "text": "One cause of improper distrust of measurements of intellecJ and character is so common that it demands special treatment. This is the variability of the same measurement of apparently the same fact. For instance, individual A was tested by hearing a series of 12 letters read at a rate of 2 per second, he being required to write down as many as he could remember in their"
+    },
+    {
+      "id": "p0115",
+      "text": "TPIE MEASUREMENT OF INDIVIDUAL DIFFERENCES l6l"
+    },
+    {
+      "id": "p0116",
+      "text": "proper order as soon as the reading was finished. His score was 4 correct in one trial and lo correct in another, the two letter-series being, for people in general, of equal difficulty. What assurance, it may be said, can be felt in a measurement of now 4 and now lo for the same fact? The defense is that it is not the same fact. To measure A's memory for series of letters is not to measure one constant thing, but a very variable thing. A, as regards taking in and holding a series of letters, is not the same from moment to moment. What is measured in one trial is a sample of A's varying status in respect to this ability. His first score in the measurement iri question was 4. This measurement is, so far. so good ; it is better to believe that A's ability in that test is 4 than to guess at it. In a second test the score was 10."
+    },
+    {
+      "id": "p0117",
+      "text": "To say that A's ability is 4 or 10 or averages 7 is better than to have taken the 4 as a measure. But further trials give (including these two)"
+    },
+    {
+      "id": "p0118",
+      "text": "I record of 4 letters correct"
+    },
+    {
+      "id": "p0119",
+      "text": "4"
+    },
+    {
+      "id": "p0120",
+      "text": "records"
+    },
+    {
+      "id": "p0121",
+      "text": "5"
+    },
+    {
+      "id": "p0122",
+      "text": "4"
+    },
+    {
+      "id": "p0123",
+      "text": "6"
+    },
+    {
+      "id": "p0124",
+      "text": "7"
+    },
+    {
+      "id": "p0125",
+      "text": "7"
+    },
+    {
+      "id": "p0126",
+      "text": "3"
+    },
+    {
+      "id": "p0127",
+      "text": "8"
+    },
+    {
+      "id": "p0128",
+      "text": "3"
+    },
+    {
+      "id": "p0129",
+      "text": "9"
+    },
+    {
+      "id": "p0130",
+      "text": "4"
+    },
+    {
+      "id": "p0131",
+      "text": "10"
+    },
+    {
+      "id": "p0132",
+      "text": "From all these scores we get. as an average, 7.44 letters correctly written; as the most common record (the so-called Mode), 8 letters correctly written. Since a record of 4 letters correctly written means, perhaps, 4^ letters remembered, one of 5 letters correctly written, 5^/2 letters remembered and so on, we should perhaps call A's average memory for letters 7.94- and his mode or most frequent performance 8.5.*"
+    },
+    {
+      "id": "p0133",
+      "text": "*If an individual writes 7 letters correctly, but does not write an eighth, it means that he remembered at least 7 and not 8. The measurement is comparable to one of length in which the observer notes that a stick is over 62 inches, and is rot 63 inches, long. And just as. in the long run, sticks 62 inches or over but not 63 inches or over will average 62y> inches,"
+    },
+    {
+      "id": "p0134",
+      "text": "1 62"
+    },
+    {
+      "id": "p0135",
+      "text": "INDIVIDUAL DIFFERENCES"
+    },
+    {
+      "id": "p0136",
+      "text": "Now the trustworthiness of. any one of these is 6 times as great as that of the first single score 4.* But we can not be sure that the average of the 36 measurements is identical with A's true average ability. In fact we can be almost sure that it is not. Seventy-two measurements might give, and almost certainly would give, a slightly different average. True average ability in the case of variable measurements means the measure we would get as an average from an infinite number of measurements. Only by chance will the result from any finite number of measurements be identical with it. All our measures represent approximations, but the greater the number of measures the closer the approximation will be."
+    },
+    {
+      "id": "p0137",
+      "text": "4 5 6 7 8 9 10"
+    },
+    {
+      "id": "p0138",
+      "text": "Fig. 23. The Ability of Individual A in Memory of Letters."
+    },
+    {
+      "id": "p0139",
+      "text": "G 7 8 9"
+    },
+    {
+      "id": "p0140",
+      "text": "Fig. 26. The Ability of Individual B in Memory of Letters."
+    },
+    {
+      "id": "p0141",
+      "text": "The variability of mental measurements thus gives no reason to distrust them, but, on the contrary, gives a means of knowing just how trustworthy they are."
+    },
+    {
+      "id": "p0142",
+      "text": "so the person remembering on many occasions at least 7 but not 8 letters will average 7^ letters. Some of his records of 7 mean 7 letters remembered and one more letter almost, but not quite, remembered."
+    },
+    {
+      "id": "p0143",
+      "text": "* It is found in variable measurements of the ordinary sort that the reliability of an average increases as the square root of the number of measurements taken."
+    },
+    {
+      "id": "p0144",
+      "text": "THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 163"
+    },
+    {
+      "id": "p0145",
+      "text": "The series of measures above is our knowledge of A's ability. We can see the fact more clearly by expressing it in space rather than m figures. If we let each quarter inch along a horizontal line stand for one letter correctly written, and each eighth of an inch of height above it stand for one manifestation by A of the ability designated by that place, we have Fig. 25, by which one can see at a glance A's ability, its variability and his general tendency to keep nearer 8 than any other one ability."
+    },
+    {
+      "id": "p0146",
+      "text": "If we must for any reason abbreviate our description of A's ability we may best take two measures, one of the ability about which his various scores center most closely and the other of the closeness of his grouping. We may term these the central tendency and the variability. For the former the average or rnedian* or mode may be used; for the latter, the average of the differences between the individual records and their central tendency (Average Deviation or A.D.), or any one of a number of measures of the closeness of clustering of the individual records about their central tendency."
+    },
+    {
+      "id": "p0147",
+      "text": "Let us suppose that, with the same test, individual B showed the following ability :"
+    },
+    {
+      "id": "p0148",
+      "text": "2 records of 5 correct. ."
+    },
+    {
+      "id": "p0149",
+      "text": "3 \" 6 \" II \" 7 \" 17 \" 8 \""
+    },
+    {
+      "id": "p0150",
+      "text": "3 \" 9 \""
+    },
+    {
+      "id": "p0151",
+      "text": "This is shown graphically in Fig. 26. The average, median and mode would be closely the same as for A, but the variability of the measures would be less."
+    },
+    {
+      "id": "p0152",
+      "text": "*The Median has two meanings: the point on the scale above and below which equal per cents of the individual scores lie, and the mid measure. These two definitions lead to substantially the same results, and for present purposes the reader may adopt either one. Indeed it will do no harm if he can see no difference between the two. The limits for A were 4 — 10. For B they are 5 — 9. The avenage difference of the individual measure from the mode for A was 1.17. For B it is 0.7. B's ability has the same central tendency as A's, but B is a more constant performer."
+    },
+    {
+      "id": "p0153",
+      "text": "TABLES OF FREQUENCY OR DISTRIBUTION"
+    },
+    {
+      "id": "p0154",
+      "text": "Suppose now that the average ability in rememl^ering letters in such a test as that described had been determined for every human being six years old or older. From such records the difference of any individual from any other could be computed, but only by hunting out the records of the two individuals. The frecjuency of any given degree of difference could be found from a very simple summary of such records, such as appears in Table 26."
+    },
+    {
+      "id": "p0155",
+      "text": "Table 26."
+    },
+    {
+      "id": "p0156",
+      "text": "Supposed Distkibution of A\\t;rage Ability to Remember Letters in"
+    },
+    {
+      "id": "p0157",
+      "text": "THE Case of Human Individuals Six Years Old or Older."
+    },
+    {
+      "id": "p0158",
+      "text": "An average of o letters was remembered by"
+    },
+    {
+      "id": "p0159",
+      "text": "'■ \" I letter \" \""
+    },
+    {
+      "id": "p0160",
+      "text": "\" \" 2 letters \" \""
+    },
+    {
+      "id": "p0161",
+      "text": "\" \" 3 \" 4"
+    },
+    {
+      "id": "p0162",
+      "text": "\" 5 \""
+    },
+    {
+      "id": "p0163",
+      "text": "\" 6 \""
+    },
+    {
+      "id": "p0164",
+      "text": "\" \" 7 \""
+    },
+    {
+      "id": "p0165",
+      "text": "9 10 II 12 13 14 IS 16"
+    },
+    {
+      "id": "p0166",
+      "text": "17 18"
+    },
+    {
+      "id": "p0167",
+      "text": "19 20"
+    },
+    {
+      "id": "p0168",
+      "text": "0 individuals"
+    },
+    {
+      "id": "p0169",
+      "text": "2,000,000 \""
+    },
+    {
+      "id": "p0170",
+      "text": "30,000,000 \""
+    },
+    {
+      "id": "p0171",
+      "text": "60,000,000 \""
+    },
+    {
+      "id": "p0172",
+      "text": "190,000,000 \""
+    },
+    {
+      "id": "p0173",
+      "text": "280,000,000 \""
+    },
+    {
+      "id": "p0174",
+      "text": "360,000,000 \""
+    },
+    {
+      "id": "p0175",
+      "text": "310,000,000 \""
+    },
+    {
+      "id": "p0176",
+      "text": "190,000,000 \""
+    },
+    {
+      "id": "p0177",
+      "text": "40,000,000 \""
+    },
+    {
+      "id": "p0178",
+      "text": "6,000,000 \""
+    },
+    {
+      "id": "p0179",
+      "text": "400,000 \""
+    },
+    {
+      "id": "p0180",
+      "text": "100.000 \""
+    },
+    {
+      "id": "p0181",
+      "text": "40.000 \""
+    },
+    {
+      "id": "p0182",
+      "text": "20,000 \""
+    },
+    {
+      "id": "p0183",
+      "text": "4,000 \""
+    },
+    {
+      "id": "p0184",
+      "text": "500"
+    },
+    {
+      "id": "p0185",
+      "text": "100"
+    },
+    {
+      "id": "p0186",
+      "text": "S"
+    },
+    {
+      "id": "p0187",
+      "text": "0"
+    },
+    {
+      "id": "p0188",
+      "text": "0"
+    },
+    {
+      "id": "p0189",
+      "text": "THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 165"
+    },
+    {
+      "id": "p0190",
+      "text": "A difference of 17 occurs only 10,000,000 times, between each of the 5 individuals of abihty 18 and each of the 2,000,000 of abihty i. A difference of 16 occurs 350,000.000 times (5 times 30,000,000+100 times 2,000,000). A difference of 15 occurs 4.300,000,000 times (5 times 60,000,000+100 times 30,000,000+500 times 2,000,000)."
+    },
+    {
+      "id": "p0191",
+      "text": "A distribution or table of the frequencies of the abilities of individuals is then a convenient means of presenting the facts from which the frequencies of the different differences amongst"
+    },
+    {
+      "id": "p0192",
+      "text": "3;-"
+    },
+    {
+      "id": "p0193",
+      "text": "JD-"
+    },
+    {
+      "id": "p0194",
+      "text": "af-"
+    },
+    {
+      "id": "p0195",
+      "text": "2fl-"
+    },
+    {
+      "id": "p0196",
+      "text": "1 — ,"
+    },
+    {
+      "id": "p0197",
+      "text": "z^-"
+    },
+    {
+      "id": "p0198",
+      "text": "ri)-"
+    },
+    {
+      "id": "p0199",
+      "text": "5- H"
+    },
+    {
+      "id": "p0200",
+      "text": "1"
+    },
+    {
+      "id": "p0201",
+      "text": "0 1 2 8 4 5 6 7 8 9 10 11 Ig IS"
+    },
+    {
+      "id": "p0202",
+      "text": "XS"
+    },
+    {
+      "id": "p0203",
+      "text": "Fig. 27. Supposed Relative Frequencies of the Different Abilities in Remembering Letters of Human Individuals Six Years Old or Older. The horizontal scale is for the average number of words remembered. The vertical scale is for the number of individuals, 10,000,000 being the unit."
+    },
+    {
+      "id": "p0204",
+      "text": "them may be calculated. It serves manv other purposes as well, and so is commonly used in reporting the results of the measurement of any one trait in a number of individuals. The main features of such a table can be seen at once in their relations one to another if it is presented in graphic form. Thus Table 26 becomes Fig. 27, by letting the amounts of the trait be represented along a horizontal line and the number of persons possessing each amount be represented by the heights of a column erected at the place on the scale denoting that amount. Such a graphic representation is called a surface of frequency or a surface of distribution; the line which, with the base — or scale — line, encloses this surface is called a frequency curve or distribution curve."
+    },
+    {
+      "id": "p0205",
+      "text": "Real distribution tables and the corresponding surfaces of"
+    },
+    {
+      "id": "p0206",
+      "text": "i66"
+    },
+    {
+      "id": "p0207",
+      "text": "INDIVIDUAL DIFFERENCES"
+    },
+    {
+      "id": "p0208",
+      "text": "frequency for certain specified groups of individuals are shown in Table 27 and Figs. 28, 29 and 30 for the cases of Grade reached by Connecticut children at the age of 10, Speed of sixth-grade children in copying figures, and Efficiency of highschool children in adding pairs of one-place numbers."
+    },
+    {
+      "id": "p0209",
+      "text": "Table 27. Sample of Distribution Tables."
+    },
+    {
+      "id": "p0210",
+      "text": "Distribution of Progress in School among Connecticut"
+    },
+    {
+      "id": "p0211",
+      "text": "children in 1903"
+    },
+    {
+      "id": "p0212",
+      "text": "Quantity : Frequency"
+    },
+    {
+      "id": "p0213",
+      "text": "Grade Number"
+    },
+    {
+      "id": "p0214",
+      "text": "reached at of"
+    },
+    {
+      "id": "p0215",
+      "text": "age of 10 Children"
+    },
+    {
+      "id": "p0216",
+      "text": "Distribution of Ability"
+    },
+    {
+      "id": "p0217",
+      "text": "in Copying Figures in"
+    },
+    {
+      "id": "p0218",
+      "text": "6th grade children."
+    },
+    {
+      "id": "p0219",
+      "text": "After Courtis,"
+    },
+    {
+      "id": "p0220",
+      "text": "'11-'12, p. 54"
+    },
+    {
+      "id": "p0221",
+      "text": "Distribution of Ability"
+    },
+    {
+      "id": "p0222",
+      "text": "in Adding Pairs of"
+    },
+    {
+      "id": "p0223",
+      "text": "One-Place Numbers in"
+    },
+    {
+      "id": "p0224",
+      "text": "High-School Pupils."
+    },
+    {
+      "id": "p0225",
+      "text": "After Courtis,"
+    },
+    {
+      "id": "p0226",
+      "text": "'11-12, p. 52"
+    },
+    {
+      "id": "p0227",
+      "text": ": Quantity : Frequency Quantity : Frequency"
+    },
+    {
+      "id": "p0228",
+      "text": "Number of in Number of in"
+    },
+    {
+      "id": "p0229",
+      "text": "digits copied 6th Grade pairs added High School"
+    },
+    {
+      "id": "p0230",
+      "text": "in 60 seconds Children in 60 seconds Pupils"
+    },
+    {
+      "id": "p0231",
+      "text": "0 to"
+    },
+    {
+      "id": "p0232",
+      "text": "9"
+    },
+    {
+      "id": "p0233",
+      "text": "9"
+    },
+    {
+      "id": "p0234",
+      "text": "Kinder-"
+    },
+    {
+      "id": "p0235",
+      "text": "10 \""
+    },
+    {
+      "id": "p0236",
+      "text": "19"
+    },
+    {
+      "id": "p0237",
+      "text": "12"
+    },
+    {
+      "id": "p0238",
+      "text": "garten"
+    },
+    {
+      "id": "p0239",
+      "text": "9"
+    },
+    {
+      "id": "p0240",
+      "text": "20 \""
+    },
+    {
+      "id": "p0241",
+      "text": "29"
+    },
+    {
+      "id": "p0242",
+      "text": "22"
+    },
+    {
+      "id": "p0243",
+      "text": "20 to"
+    },
+    {
+      "id": "p0244",
+      "text": "29"
+    },
+    {
+      "id": "p0245",
+      "text": "2"
+    },
+    {
+      "id": "p0246",
+      "text": "1st grade"
+    },
+    {
+      "id": "p0247",
+      "text": "442"
+    },
+    {
+      "id": "p0248",
+      "text": "30 \""
+    },
+    {
+      "id": "p0249",
+      "text": "39"
+    },
+    {
+      "id": "p0250",
+      "text": "18"
+    },
+    {
+      "id": "p0251",
+      "text": "30 \""
+    },
+    {
+      "id": "p0252",
+      "text": "39"
+    },
+    {
+      "id": "p0253",
+      "text": "4"
+    },
+    {
+      "id": "p0254",
+      "text": "2nd \""
+    },
+    {
+      "id": "p0255",
+      "text": "1389"
+    },
+    {
+      "id": "p0256",
+      "text": "40 \""
+    },
+    {
+      "id": "p0257",
+      "text": "49"
+    },
+    {
+      "id": "p0258",
+      "text": "57"
+    },
+    {
+      "id": "p0259",
+      "text": "40 \""
+    },
+    {
+      "id": "p0260",
+      "text": "49"
+    },
+    {
+      "id": "p0261",
+      "text": "41"
+    },
+    {
+      "id": "p0262",
+      "text": "3rd \""
+    },
+    {
+      "id": "p0263",
+      "text": "3293"
+    },
+    {
+      "id": "p0264",
+      "text": "50 \""
+    },
+    {
+      "id": "p0265",
+      "text": "59"
+    },
+    {
+      "id": "p0266",
+      "text": "107"
+    },
+    {
+      "id": "p0267",
+      "text": "50 \""
+    },
+    {
+      "id": "p0268",
+      "text": "59"
+    },
+    {
+      "id": "p0269",
+      "text": "113"
+    },
+    {
+      "id": "p0270",
+      "text": "4th \""
+    },
+    {
+      "id": "p0271",
+      "text": "4433"
+    },
+    {
+      "id": "p0272",
+      "text": "60 \""
+    },
+    {
+      "id": "p0273",
+      "text": "69"
+    },
+    {
+      "id": "p0274",
+      "text": "291"
+    },
+    {
+      "id": "p0275",
+      "text": "60 \""
+    },
+    {
+      "id": "p0276",
+      "text": "69"
+    },
+    {
+      "id": "p0277",
+      "text": "272"
+    },
+    {
+      "id": "p0278",
+      "text": "Sth \""
+    },
+    {
+      "id": "p0279",
+      "text": "3200"
+    },
+    {
+      "id": "p0280",
+      "text": "70 \""
+    },
+    {
+      "id": "p0281",
+      "text": "79"
+    },
+    {
+      "id": "p0282",
+      "text": "536"
+    },
+    {
+      "id": "p0283",
+      "text": "70 \""
+    },
+    {
+      "id": "p0284",
+      "text": "79"
+    },
+    {
+      "id": "p0285",
+      "text": "235"
+    },
+    {
+      "id": "p0286",
+      "text": "6th \""
+    },
+    {
+      "id": "p0287",
+      "text": "1227"
+    },
+    {
+      "id": "p0288",
+      "text": "80 \""
+    },
+    {
+      "id": "p0289",
+      "text": "89"
+    },
+    {
+      "id": "p0290",
+      "text": "1274"
+    },
+    {
+      "id": "p0291",
+      "text": "80 \""
+    },
+    {
+      "id": "p0292",
+      "text": "89"
+    },
+    {
+      "id": "p0293",
+      "text": "196"
+    },
+    {
+      "id": "p0294",
+      "text": "7th \""
+    },
+    {
+      "id": "p0295",
+      "text": "237"
+    },
+    {
+      "id": "p0296",
+      "text": "90 \""
+    },
+    {
+      "id": "p0297",
+      "text": "99"
+    },
+    {
+      "id": "p0298",
+      "text": "1256"
+    },
+    {
+      "id": "p0299",
+      "text": "90 \""
+    },
+    {
+      "id": "p0300",
+      "text": "99"
+    },
+    {
+      "id": "p0301",
+      "text": "86"
+    },
+    {
+      "id": "p0302",
+      "text": "Sth \""
+    },
+    {
+      "id": "p0303",
+      "text": "48"
+    },
+    {
+      "id": "p0304",
+      "text": "100 \""
+    },
+    {
+      "id": "p0305",
+      "text": "109"
+    },
+    {
+      "id": "p0306",
+      "text": "1066"
+    },
+    {
+      "id": "p0307",
+      "text": "JOO \""
+    },
+    {
+      "id": "p0308",
+      "text": "109"
+    },
+    {
+      "id": "p0309",
+      "text": "43"
+    },
+    {
+      "id": "p0310",
+      "text": "9th \""
+    },
+    {
+      "id": "p0311",
+      "text": "4"
+    },
+    {
+      "id": "p0312",
+      "text": "no \""
+    },
+    {
+      "id": "p0313",
+      "text": "119"
+    },
+    {
+      "id": "p0314",
+      "text": "494"
+    },
+    {
+      "id": "p0315",
+      "text": "no \""
+    },
+    {
+      "id": "p0316",
+      "text": "119"
+    },
+    {
+      "id": "p0317",
+      "text": "2"
+    },
+    {
+      "id": "p0318",
+      "text": ":oth \""
+    },
+    {
+      "id": "p0319",
+      "text": "I"
+    },
+    {
+      "id": "p0320",
+      "text": "120 \""
+    },
+    {
+      "id": "p0321",
+      "text": "130 \""
+    },
+    {
+      "id": "p0322",
+      "text": "140 \""
+    },
+    {
+      "id": "p0323",
+      "text": "150 \""
+    },
+    {
+      "id": "p0324",
+      "text": "160 \""
+    },
+    {
+      "id": "p0325",
+      "text": "170 \""
+    },
+    {
+      "id": "p0326",
+      "text": "180 \""
+    },
+    {
+      "id": "p0327",
+      "text": "129"
+    },
+    {
+      "id": "p0328",
+      "text": "139 149"
+    },
+    {
+      "id": "p0329",
+      "text": "159 169 179"
+    },
+    {
+      "id": "p0330",
+      "text": "189"
+    },
+    {
+      "id": "p0331",
+      "text": "359 64 36 19 47 2 I"
+    },
+    {
+      "id": "p0332",
+      "text": "120 \""
+    },
+    {
+      "id": "p0333",
+      "text": "129"
+    },
+    {
+      "id": "p0334",
+      "text": "2"
+    },
+    {
+      "id": "p0335",
+      "text": "Such tables of distribution or surfaces of frequency are the terms in which the student of individual psychology must do very much of his thinking, both when he tries to describe, and when he tries to account for, the variation of human beings around the type of the species. In the next chapter, for example, in comparing the sexes, in respect to one or another"
+    },
+    {
+      "id": "p0336",
+      "text": "THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 167"
+    },
+    {
+      "id": "p0337",
+      "text": "<- HOOO -3000"
+    },
+    {
+      "id": "p0338",
+      "text": "-2000"
+    },
+    {
+      "id": "p0339",
+      "text": "_ 1000"
+    },
+    {
+      "id": "p0340",
+      "text": "\"\"childrea"
+    },
+    {
+      "id": "p0341",
+      "text": "- 1000"
+    },
+    {
+      "id": "p0342",
+      "text": "I"
+    },
+    {
+      "id": "p0343",
+      "text": "K9. I 1 I IV V VI vs m ix X"
+    },
+    {
+      "id": "p0344",
+      "text": "Fig. 28. The Number of lo-year-old Children in Connecticut (1903), in Each School Grade."
+    },
+    {
+      "id": "p0345",
+      "text": "1000"
+    },
+    {
+      "id": "p0346",
+      "text": "— 500"
+    },
+    {
+      "id": "p0347",
+      "text": ". 2S0"
+    },
+    {
+      "id": "p0348",
+      "text": "cliildrea"
+    },
+    {
+      "id": "p0349",
+      "text": "0 10 20 30 40 50"
+    },
+    {
+      "id": "p0350",
+      "text": "Fig. 29. The Number of Sixth-Grade Children in New York City Copying 0-0 Digits, 10 to 19 Digits, etc, in 60 Seconds."
+    },
+    {
+      "id": "p0351",
+      "text": "i68"
+    },
+    {
+      "id": "p0352",
+      "text": "INDIVIDUAL DIFFERENCES"
+    },
+    {
+      "id": "p0353",
+      "text": "— 200"
+    },
+    {
+      "id": "p0354",
+      "text": "- 100"
+    },
+    {
+      "id": "p0355",
+      "text": "50"
+    },
+    {
+      "id": "p0356",
+      "text": "20 30 W SO W 10 SO etc."
+    },
+    {
+      "id": "p0357",
+      "text": "Fig. 30. The Number of Hish-School Pupils Adding 20-29 Pairs of Numbers, 30-39 Pairs, etc., in 60 Seconds."
+    },
+    {
+      "id": "p0358",
+      "text": "mental trait, we shall have to think of the surface of frequency for men in each trait and the surface of frequenc}^ for women in the same trait and to compare these two total surfaces of frequency."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-thorndike-individual-differences": {
+      "paragraphId": "p0151",
+      "start": 38,
+      "end": 153,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0151",
+          "start": 38,
+          "end": 153,
+          "text": "The average, median and mode would be closely the same as for A, but the variability of the measures would be less."
+        },
+        {
+          "paragraphId": "p0152",
+          "start": 481,
+          "end": 566,
+          "text": "B's ability has the same central tendency as A's, but B is a more constant performer."
+        }
+      ],
+      "quote": "The average, median and mode would be closely the same as for A, but the variability of the measures would be less. ... B's ability has the same central tendency as A's, but B is a more constant performer."
+    }
+  }
+}

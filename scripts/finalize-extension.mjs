@@ -72,11 +72,20 @@ function escapeXml(value) {
 function iconArtwork() {
   return `
     <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-      <rect x="16" y="16" width="96" height="96" rx="24" fill="#26231e"/>
-      <circle cx="64" cy="64" r="28" fill="none" stroke="#eee5d5" stroke-width="4"
-        stroke-linecap="round" stroke-dasharray="153 23" transform="rotate(-53 64 64)"/>
-      <path d="M77 37 L88 25" fill="none" stroke="#caa35f" stroke-width="3" stroke-linecap="round"/>
-      <circle cx="64" cy="64" r="4.5" fill="#caa35f"/>
+      <title>${escapeXml(`${brand.nameEn} app icon`)}</title>
+      <desc>An open ring with a warm dot, symbolizing an idea that remains open to revision.</desc>
+      <defs>
+        <symbol id="open-o" viewBox="0 0 256 256">
+          <circle cx="128" cy="128" r="91" fill="none" stroke="currentColor"
+            stroke-width="24" stroke-linecap="butt" stroke-dasharray="522 50"
+            transform="rotate(-30 128 128)"/>
+          <circle cx="192" cy="64" r="12" fill="#d97757"/>
+        </symbol>
+      </defs>
+      <rect x="16" y="16" width="96" height="96" rx="21" fill="#171715"/>
+      <rect x="16.5" y="16.5" width="95" height="95" rx="20.5" fill="none"
+        stroke="#f3efe6" stroke-opacity=".14"/>
+      <use href="#open-o" x="22" y="22" width="84" height="84" color="#f3efe6"/>
     </svg>`;
 }
 

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-zhuangzi-nurturing-life-named-chapter-nurturing-life-5212a937",
+  "title": "篇 Nurturing Life",
+  "englishTitle": "Chapter Nurturing Life",
+  "work": "《庄子·养生主》",
+  "englishWork": "Zhuangzi, Nurturing Life",
+  "locator": "篇 Nurturing Life",
+  "englishLocator": "Chapter Nurturing Life",
+  "version": "中国哲学书电子化计划《庄子》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Zhuangzi; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/zhuangzi/nourishing-the-lord-of-life",
+  "preparedSourceUrl": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%A4%8A%E7%94%9F%E4%B8%BB",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%A4%8A%E7%94%9F%E4%B8%BB",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E8%8E%8A%E5%AD%90%2F%E9%A4%8A%E7%94%9F%E4%B8%BB&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "b9efd8d3f767ca74fbe025a994b7682bae28aa56781805baf9b104b69a52cbe7"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "a209d1a6e16093ba1c270cb3b695267b691f56a62eb2fccb6be4146a6db0f1e9",
+  "inputHash": "a3377f37c11ca7b96e03457e7770e49ad233f9555b43c26dfcf618e3582577fd",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "吾生也有涯，而知也无涯。以有涯隨无涯，殆已。已而爲知者，殆而已矣。爲善无近名，爲惡无近刑，緣督以爲經，可以保身，可以全生，可以養親，可以盡年。"
+    },
+    {
+      "id": "p0002",
+      "text": "庖丁爲文惠君解牛，手之所觸，肩之所倚，足之所履，膝之所踦，砉然嚮然，奏刀騞然，莫不中音，合於《桑林》之舞，乃中《經首》之會。文惠君曰：「譆，善哉！技蓋至此乎？」庖丁釋刀對曰：「臣之所好者，道也，進乎技矣。始臣之解牛之時，所見无非牛者。三年之後，未嘗見全牛也。方今之時，臣以神遇而不以目視，官知止而神欲行，依乎天理，批大郤，導大窾，因其固然。技經肯綮之未嘗，而況大軱乎？良庖歲更刀，割也；族庖月更刀，折也。今臣之刀十九年矣，所解數千牛矣，而刀刃若新發於硎。彼節者有間，而刀刃者无厚，以无厚入有間，恢恢乎其於遊刃必有餘地矣，是以十九年而刀刃若新發於硎。雖然，每至於族，吾見其難爲，怵然爲戒，視爲止，行爲遟，動刀甚微，謋然已解，如土委地。提刀而立，爲之四顧，爲之躊躇滿志，善刀而藏之。」文惠君曰：「善哉！吾聞庖丁之言，得養生焉。」"
+    },
+    {
+      "id": "p0003",
+      "text": "公文軒見右師而驚，曰：「是何人也？惡乎介也？天與？其人與？」曰：「天也，非人也。天之生是使獨也，人之貌有與也，以是知其天也，非人也。」澤雉十步一啄，百步一飲，不蘄畜乎樊中。神雖王，不善也。"
+    },
+    {
+      "id": "p0004",
+      "text": "老聃死，秦失弔之，三號而出。弟子曰：「非夫子之友邪？」曰：「然。」「然則弔焉若此，可乎？」曰：「然。始也吾以爲其人也，而今非也。向吾入而弔焉，有老者哭之，如哭其子；少者哭之，如哭其母。彼其所以會之，必有不蘄言而言，不蘄哭而哭者，是遁天倍情，忘其所受，古者謂之遁天之刑。適來，夫子時也；適去，夫子順也。安時而處順，哀樂不能入也，古者謂是帝之縣解。」指窮於爲薪，火傳也，不知其盡也。"
+    }
+  ],
+  "anchors": {
+    "chinese-zhuangzi-cook-ding": {
+      "paragraphId": "p0002",
+      "start": 152,
+      "end": 170,
+      "quote": "依乎天理，批大郤，导大窾，因其固然。",
+      "match": "normalized-exact"
+    }
+  }
+}

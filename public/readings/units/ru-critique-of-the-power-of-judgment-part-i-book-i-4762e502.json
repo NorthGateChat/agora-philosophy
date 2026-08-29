@@ -1,0 +1,552 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-critique-of-the-power-of-judgment-part-i-book-i-4762e502",
+  "title": "部分 I · 卷 I",
+  "englishTitle": "Part I · Book I",
+  "work": "《判断力批判》",
+  "englishWork": "Critique of the Power of Judgment",
+  "locator": "部分 I · 卷 I",
+  "englishLocator": "Part I · Book I",
+  "version": "古登堡计划 J. H. Bernard 1914 年第二修订版公版英译，《判断力批判》第 2 节标题，第 46 页，德科学院版 5:204",
+  "englishVersion": "Project Gutenberg, J. H. Bernard public-domain translation, 2nd revised ed. (1914), Critique of Judgement, §2 heading, p. 46, Akademie 5:204",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/48433/pg48433-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/4/8/4/3/48433/48433-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/4/8/4/3/48433/48433-0.txt",
+    "contentType": "text/plain",
+    "sha256": "0e17b2733ffc77223e0474bab7cea6979da1f4ee3299f8f1acc974d83f457776"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "c26a35c0a9711f9b4817fa4f5c554e4d97c38db76fc8ff166bf6d9c7be67c49a",
+  "inputHash": "d2fcc5b390c7c04801671568a2e07b5ecf34edba905dc3b9280702b5edb6a092",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "FIRST BOOK"
+    },
+    {
+      "id": "p0002",
+      "text": "ANALYTIC OF THE BEAUTIFUL"
+    },
+    {
+      "id": "p0003",
+      "text": "FIRST MOMENT"
+    },
+    {
+      "id": "p0004",
+      "text": "OF THE JUDGEMENT OF TASTE ACCORDING TO QUALITY"
+    },
+    {
+      "id": "p0005",
+      "text": "§ 1. _The judgement of taste is aesthetical_"
+    },
+    {
+      "id": "p0006",
+      "text": "In order to decide whether anything is beautiful or not, we refer the representation, not by the Understanding to the Object for cognition but, by the Imagination (perhaps in conjunction with the Understanding) to the subject, and its feeling of pleasure or pain. The judgement of taste is therefore not a judgement of cognition, and is consequently not logical but aesthetical, by which we understand that whose determining ground can be _no other than subjective_. Every reference of representations, even that of sensations, may be objective (and then it signifies the real in an empirical representation); save only the reference to the feeling of pleasure and pain, by which nothing in the Object is signified, but through which there is a feeling in the subject, as it is affected by the representation."
+    },
+    {
+      "id": "p0007",
+      "text": "To apprehend a regular, purposive building by means of one’s cognitive faculty (whether in a clear or a confused way of representation) is something quite different from being conscious of this representation as connected with the sensation of satisfaction. Here the representation is altogether referred to the subject and to its feeling of life, under the name of the feeling of pleasure or pain. This establishes a quite separate faculty of distinction and of judgement, adding nothing to cognition, but only comparing the given representation in the subject with the whole faculty of representations, of which the mind is conscious in the feeling of its state. Given representations in a judgement can be empirical (consequently, aesthetical); but the judgement which is formed by means of them is logical, provided they are referred in the judgement to the Object. Conversely, if the given representations are rational, but are referred in a judgement simply to the subject (to its feeling), the judgement is so far always aesthetical."
+    },
+    {
+      "id": "p0008",
+      "text": "§ 2. _The satisfaction which determines the judgement of taste is disinterested_"
+    },
+    {
+      "id": "p0009",
+      "text": "The satisfaction which we combine with the representation of the existence of an object is called interest. Such satisfaction always has reference to the faculty of desire, either as its determining ground or as necessarily connected with its determining ground. Now when the question is if a thing is beautiful, we do not want to know whether anything depends or can depend on the existence of the thing either for myself or for any one else, but how we judge it by mere observation (intuition or reflection). If any one asks me if I find that palace beautiful which I see before me, I may answer: I do not like things of that kind which are made merely to be stared at. Or I can answer like that Iroquois _sachem_ who was pleased in Paris by nothing more than by the cook-shops. Or again after the manner of _Rousseau_ I may rebuke the vanity of the great who waste the sweat of the people on such superfluous things. In fine I could easily convince myself that if I found myself on an uninhabited island without the hope of ever again coming among men, and could conjure up just such a splendid building by my mere wish, I should not even give myself the trouble if I had a sufficiently comfortable hut. This may all be admitted and approved; but we are not now talking of this. We wish only to know if this mere representation of the object is accompanied in me with satisfaction, however indifferent I may be as regards the existence of the object of this representation. We easily see that in saying it is _beautiful_ and in showing that I have taste, I am concerned, not with that in which I depend on the existence of the object, but with that which I make out of this representation in myself. Every one must admit that a judgement about beauty, in which the least interest mingles, is very partial and is not a pure judgement of taste. We must not be in the least prejudiced in favour of the existence of the things, but be quite indifferent in this respect, in order to play the judge in things of taste."
+    },
+    {
+      "id": "p0010",
+      "text": "We cannot, however, better elucidate this proposition, which is of capital importance, than by contrasting the pure disinterested satisfaction in judgements of taste, with that which is bound up with an interest, especially if we can at the same time be certain that there are no other kinds of interest than those which are now to be specified."
+    },
+    {
+      "id": "p0011",
+      "text": "§ 3. _The satisfaction in the_ PLEASANT _is bound up with interest_"
+    },
+    {
+      "id": "p0012",
+      "text": "_That which pleases the senses in sensation is_ PLEASANT. Here the opportunity presents itself of censuring a very common confusion of the double sense which the word sensation can have, and of calling attention to it. All satisfaction (it is said or thought) is itself sensation (of a pleasure). Consequently everything that pleases is pleasant because it pleases (and according to its different degrees or its relations to other pleasant sensations it is _agreeable_, _lovely_, _delightful_, _enjoyable_, etc.). But if this be admitted, then impressions of Sense which determine the inclination, fundamental propositions of Reason which determine the Will, mere reflective forms of intuition which determine the Judgement, are quite the same, as regards the effect upon the feeling of pleasure. For this would be pleasantness in the sensation of one’s state, and since in the end all the operations of our faculties must issue in the practical and unite in it as their goal, we could suppose no other way of estimating things and their worth than that which consists in the gratification that they promise. It is of no consequence at all how this is attained, and since then the choice of means alone could make a difference, men could indeed blame one another for stupidity and indiscretion, but never for baseness and wickedness. For all, each according to his own way of seeing things, seek one goal, that is, gratification."
+    },
+    {
+      "id": "p0013",
+      "text": "If a determination of the feeling of pleasure or pain is called sensation, this expression signifies something quite different from what I mean when I call the representation of a thing (by sense, as a receptivity belonging to the cognitive faculty) sensation. For in the latter case the representation is referred to the Object, in the former simply to the subject, and is available for no cognition whatever, not even for that by which the subject _cognises_ itself."
+    },
+    {
+      "id": "p0014",
+      "text": "In the above elucidation we understand by the word sensation, an objective representation of sense; and in order to avoid misinterpretation, we shall call that, which must always remain merely subjective and can constitute absolutely no representation of an object, by the ordinary term “feeling.” The green colour of the meadows belongs to _objective_ sensation, as a perception of an object of sense; the pleasantness of this belongs to _subjective_ sensation by which no object is represented, _i.e._ to feeling, by which the object is considered as an Object of satisfaction (which does not furnish a cognition of it)."
+    },
+    {
+      "id": "p0015",
+      "text": "Now that a judgement about an object, by which I describe it as pleasant, expresses an interest in it, is plain from the fact that by sensation it excites a desire for objects of that kind; consequently the satisfaction presupposes not the mere judgement about it, but the relation of its existence to my state, so far as this is affected by such an Object. Hence we do not merely say of the pleasant, _it pleases_; but, _it gratifies_. I give to it no mere approval, but inclination is aroused by it; and in the case of what is pleasant in the most lively fashion, there is no judgement at all upon the character of the Object, for those who always lay themselves out only for enjoyment (for that is the word describing intense gratification) would fain dispense with all judgement."
+    },
+    {
+      "id": "p0016",
+      "text": "§ 4. _The satisfaction in the_ GOOD _is bound up with interest_"
+    },
+    {
+      "id": "p0017",
+      "text": "Whatever by means of Reason pleases through the mere concept is GOOD. That which pleases only as a means we call _good for something_ (the useful); but that which pleases for itself is _good in itself_. In both there is always involved the concept of a purpose, and consequently the relation of Reason to the (at least possible) volition, and thus a satisfaction in the _presence_ of an Object or an action, _i.e._ some kind of interest."
+    },
+    {
+      "id": "p0018",
+      "text": "In order to find anything good, I must always know what sort of a thing the object ought to be, _i.e._ I must have a concept of it. But there is no need of this, to find a thing beautiful. Flowers, free delineations, outlines intertwined with one another without design and called foliage, have no meaning, depend on no definite concept, and yet they please. The satisfaction in the beautiful must depend on the reflection upon an object, leading to any concept (however indefinite); and it is thus distinguished from the pleasant which rests entirely upon sensation."
+    },
+    {
+      "id": "p0019",
+      "text": "It is true, the Pleasant seems in many cases to be the same as the Good. Thus people are accustomed to say that all gratification (especially if it lasts) is good in itself; which is very much the same as to say that lasting pleasure and the good are the same. But we can soon see that this is merely a confusion of words; for the concepts which properly belong to these expressions can in no way be interchanged. The pleasant, which, as such, represents the object simply in relation to Sense, must first be brought by the concept of a purpose under principles of Reason, in order to call it good, as an object of the Will. But that there is [involved] a quite different relation to satisfaction in calling that which gratifies at the same time _good_, may be seen from the fact that in the case of the good the question always is, whether it is mediately or immediately good (useful or good in itself); but on the contrary in the case of the pleasant there can be no question about this at all, for the word always signifies something which pleases immediately. (The same is applicable to what I call beautiful.)"
+    },
+    {
+      "id": "p0020",
+      "text": "Even in common speech men distinguish the Pleasant from the Good. Of a dish which stimulates the taste by spices and other condiments we say unhesitatingly that it is pleasant, though it is at the same time admitted not to be good; for though it immediately _delights_ the senses, yet mediately, _i.e._ considered by Reason which looks to the after results, it displeases. Even in the judging of health we may notice this distinction. It is immediately pleasant to every one possessing it (at least negatively, _i.e._ as the absence of all bodily pains). But in order to say that it is good, it must be considered by Reason with reference to purposes; viz. that it is a state which makes us fit for all our business. Finally in respect of happiness every one believes himself entitled to describe the greatest sum of the pleasantnesses of life (as regards both their number and their duration) as a true, even as the highest, good. However Reason is opposed to this. Pleasantness is enjoyment. And if we were concerned with this alone, it would be foolish to be scrupulous as regards the means which procure it for us, or [to care] whether it is obtained passively by the bounty of nature or by our own activity and work. But Reason can never be persuaded that the existence of a man who merely lives for _enjoyment_ (however busy he may be in this point of view), has a worth in itself; even if he at the same time is conducive as a means to the best enjoyment of others, and shares in all their gratifications by sympathy. Only what he does, without reference to enjoyment, in full freedom and independently of what nature can procure for him passively, gives an [absolute] worth to his being, as the existence of a person; and happiness, with the whole abundance of its pleasures, is far from being an unconditioned good."
+    },
+    {
+      "id": "p0021",
+      "text": "However, notwithstanding all this difference between the pleasant and the good, they both agree in this that they are always bound up with an interest in their object. [This is true] not only of the pleasant(§ 3), and the mediate good (the useful) which is pleasing as a means towards pleasantness somewhere, but also of that which is good absolutely and in every aspect, viz. moral good, which brings with it the highest interest. For the good is the Object of will (_i.e._ of a faculty of desire determined by Reason). But to will something, and to have a satisfaction in its existence, _i.e._ to take an interest in it, are identical."
+    },
+    {
+      "id": "p0022",
+      "text": "§ 5. _Comparison of the three specifically different kinds of satisfaction_"
+    },
+    {
+      "id": "p0023",
+      "text": "The pleasant and the good have both a reference to the faculty of desire; and they bring with them--the former a satisfaction pathologically conditioned (by impulses, _stimuli_)--the latter a pure practical satisfaction, which is determined not merely by the representation of the object, but also by the represented connexion of the subject with the existence of the object. [It is not merely the object that pleases, but also its existence.] On the other hand, the judgement of taste is merely _contemplative_; _i.e._ it is a judgement which, indifferent as regards the being of an object, compares its character with the feeling of pleasure and pain. But this contemplation itself is not directed to concepts; for the judgement of taste is not a cognitive judgement (either theoretical or practical), and thus is not _based_ on concepts, nor has it concepts as its _purpose_."
+    },
+    {
+      "id": "p0024",
+      "text": "The Pleasant, the Beautiful, and the Good, designate then, three different relations of representations to the feeling of pleasure and pain, in reference to which we distinguish from each other objects or methods of representing them. And the expressions corresponding to each, by which we mark our complacency in them, are not the same. That which GRATIFIES a man is called _pleasant_; that which merely PLEASES him is _beautiful_; that which is ESTEEMED [or _approved_] by him, _i.e._ that to which he accords an objective worth, is _good_. Pleasantness concerns irrational animals also; but Beauty only concerns men, _i.e._ animal, but still rational, beings--not merely _quâ_ rational (_e.g._ spirits), but _quâ_ animal also; and the Good concerns every rational being in general. This is a proposition which can only be completely established and explained in the sequel. We may say that of all these three kinds of satisfaction, that of taste in the Beautiful is alone a disinterested and _free_ satisfaction; for no interest, either of Sense or of Reason, here forces our assent. Hence we may say of satisfaction that it is related in the three aforesaid cases to _inclination_, to _favour_, or to _respect_. Now _favour_ is the only free satisfaction. An object of inclination, and one that is proposed to our desire by a law of Reason, leave us no freedom in forming for ourselves anywhere an object of pleasure. All interest presupposes or generates a want; and, as the determining ground of assent, it leaves the judgement about the object no longer free."
+    },
+    {
+      "id": "p0025",
+      "text": "As regards the interest of inclination in the case of the Pleasant, every one says that hunger is the best sauce, and everything that is eatable is relished by people with a healthy appetite; and thus a satisfaction of this sort does not indicate choice directed by taste. It is only when the want is appeased that we can distinguish which of many men has or has not taste. In the same way there may be manners (conduct) without virtue, politeness without goodwill, decorum without modesty, etc. For where the moral law speaks there is no longer, objectively, a free choice as regards what is to be done; and to display taste in its fulfilment (or in judging of another’s fulfilment of it) is something quite different from manifesting the moral attitude of thought. For this involves a command and generates a want, whilst moral taste only plays with the objects of satisfaction, without attaching itself to one of them."
+    },
+    {
+      "id": "p0026",
+      "text": "EXPLANATION OF THE BEAUTIFUL RESULTING FROM THE FIRST MOMENT"
+    },
+    {
+      "id": "p0027",
+      "text": "_Taste_ is the faculty of judging of an object or a method of representing it by an _entirely disinterested_ satisfaction or dissatisfaction. The object of such satisfaction is called _beautiful_."
+    },
+    {
+      "id": "p0028",
+      "text": "SECOND MOMENT"
+    },
+    {
+      "id": "p0029",
+      "text": "OF THE JUDGEMENT OF TASTE, VIZ. ACCORDING TO QUANTITY"
+    },
+    {
+      "id": "p0030",
+      "text": "§ 6. _The beautiful is that which apart from concepts is represented as the object of a universal satisfaction_"
+    },
+    {
+      "id": "p0031",
+      "text": "This explanation of the beautiful can be derived from the preceding explanation of it as the object of an entirely disinterested satisfaction. For the fact of which every one is conscious, that the satisfaction is for him quite disinterested, implies in his judgement a ground of satisfaction for every one. For since it does not rest on any inclination of the subject (nor upon any other premeditated interest), but since he who judges feels himself quite _free_ as regards the satisfaction which he attaches to the object, he cannot find the ground of this satisfaction in any private conditions connected with his own subject; and hence it must be regarded as grounded on what he can presuppose in every other man. Consequently he must believe that he has reason for attributing a similar satisfaction to every one. He will therefore speak of the beautiful, as if beauty were a characteristic of the object and the judgement logical (constituting a cognition of the Object by means of concepts of it); although it is only aesthetical and involves merely a reference of the representation of the object to the subject. For it has this similarity to a logical judgement that we can presuppose its validity for every one. But this universality cannot arise from concepts; for from concepts there is no transition to the feeling of pleasure or pain (except in pure practical laws, which bring an interest with them such as is not bound up with the pure judgement of taste). Consequently the judgement of taste, accompanied with the consciousness of separation from all interest, must claim validity for every one, without this universality depending on Objects. That is, there must be bound up with it a title to subjective universality."
+    },
+    {
+      "id": "p0032",
+      "text": "§ 7. _Comparison of the Beautiful with the Pleasant and the Good by means of the above characteristic_"
+    },
+    {
+      "id": "p0033",
+      "text": "As regards the Pleasant every one is content that his judgement, which he bases upon private feeling, and by which he says of an object that it pleases him, should be limited merely to his own person. Thus he is quite contented that if he says “Canary wine is pleasant,” another man may correct his expression and remind him that he ought to say “It is pleasant _to me_.” And this is the case not only as regards the taste of the tongue, the palate, and the throat, but for whatever is pleasant to any one’s eyes and ears. To one violet colour is soft and lovely, to another it is faded and dead. One man likes the tone of wind instruments, another that of strings. To strive here with the design of reproving as incorrect another man’s judgement which is different from our own, as if the judgements were logically opposed, would be folly. As regards the pleasant therefore the fundamental proposition is valid, _every one has his own taste_ (the taste of Sense)."
+    },
+    {
+      "id": "p0034",
+      "text": "The case is quite different with the Beautiful. It would (on the contrary) be laughable if a man who imagined anything to his own taste, thought to justify himself by saying: “This object (the house we see, the coat that person wears, the concert we hear, the poem submitted to our judgement) is beautiful _for me_.” For he must not call it _beautiful_ if it merely pleases himself. Many things may have for him charm and pleasantness; no one troubles himself at that; but if he gives out anything as beautiful, he supposes in others the same satisfaction--he judges not merely for himself, but for every one, and speaks of beauty as if it were a property of things. Hence he says “the _thing_ is beautiful”; and he does not count on the agreement of others with this his judgement of satisfaction, because he has found this agreement several times before, but he _demands_ it of them. He blames them if they judge otherwise and he denies them taste, which he nevertheless requires from them. Here then we cannot say that each man has his own particular taste. For this would be as much as to say that there is no taste whatever; _i.e._ no aesthetical judgement, which can make a rightful claim upon every one’s assent."
+    },
+    {
+      "id": "p0035",
+      "text": "At the same time we find as regards the Pleasant that there is an agreement among men in their judgements upon it, in regard to which we deny Taste to some and attribute it to others; by this not meaning one of our organic senses, but a faculty of judging in respect of the pleasant generally. Thus we say of a man who knows how to entertain his guests with pleasures (of enjoyment for all the senses), so that they are all pleased, “he has taste.” But here the universality is only taken comparatively; and there emerge rules which are only _general_ (like all empirical ones), and not _universal_; which latter the judgement of Taste upon the beautiful undertakes or lays claim to. It is a judgement in reference to sociability, so far as this rests on empirical rules. In respect of the Good it is true that judgements make rightful claim to validity for every one; but the Good is represented only _by means of a concept_ as the Object of a universal satisfaction, which is the case neither with the Pleasant nor with the Beautiful."
+    },
+    {
+      "id": "p0036",
+      "text": "§ 8. _The universality of the satisfaction is represented in a judgement of Taste only as subjective_"
+    },
+    {
+      "id": "p0037",
+      "text": "This particular determination of the universality of an aesthetical judgement, which is to be met with in a judgement of taste, is noteworthy, not indeed for the logician, but for the transcendental philosopher. It requires no small trouble to discover its origin, but we thus detect a property of our cognitive faculty which without this analysis would remain unknown."
+    },
+    {
+      "id": "p0038",
+      "text": "First, we must be fully convinced of the fact that in a judgement of taste (about the Beautiful) the satisfaction in the object is imputed to _every one_, without being based on a concept (for then it would be the Good). Further, this claim to universal validity so essentially belongs to a judgement by which we describe anything as _beautiful_, that if this were not thought in it, it would never come into our thoughts to use the expression at all, but everything which pleases without a concept would be counted as pleasant. In respect of the latter every one has his own opinion; and no one assumes, in another, agreement with his judgement of taste, which is always the case in a judgement of taste about beauty. I may call the first the taste of Sense, the second the taste of Reflection; so far as the first lays down mere private judgements, and the second judgements supposed to be generally valid (public), but in both cases aesthetical (not practical) judgements about an object merely in respect of the relation of its representation to the feeling of pleasure and pain. Now here is something strange. As regards the taste of Sense not only does experience show that its judgement (of pleasure or pain connected with anything) is not valid universally, but every one is content not to impute agreement with it to others (although actually there is often found a very extended concurrence in these judgements). On the other hand, the taste of Reflection has its claim to the universal validity of its judgements (about the beautiful) rejected often enough, as experience teaches; although it may find it possible (as it actually does) to represent judgements which can demand this universal agreement. In fact for each of its judgements of taste it imputes this to every one, without the persons that judge disputing as to the possibility of such a claim; although in particular cases they cannot agree as to the correct application of this faculty."
+    },
+    {
+      "id": "p0039",
+      "text": "Here we must, in the first place, remark that a universality which does not rest on concepts of Objects (not even on empirical ones) is not logical but aesthetical, _i.e._ it involves no objective quantity of the judgement but only that which is subjective. For this I use the expression _general validity_ which signifies the validity of the reference of a representation, not to the cognitive faculty but, to the feeling of pleasure and pain for every subject. (We can avail ourselves also of the same expression for the logical quantity of the judgement, if only we prefix _objective_ to “universal validity,” to distinguish it from that which is merely subjective and aesthetical.)"
+    },
+    {
+      "id": "p0040",
+      "text": "A judgement with _objective universal validity_ is also always valid subjectively; _i.e._ if the judgement holds for everything contained under a given concept, it holds also for every one who represents an object by means of this concept. But from a _subjective universal validity_, _i.e._ aesthetical and resting on no concept, we cannot infer that which is logical; because that kind of judgement does not extend to the Object. Hence the aesthetical universality which is ascribed to a judgement must be of a particular kind, because it does not unite the predicate of beauty with the concept of the _Object_, considered in its whole logical sphere, and yet extends it to the whole sphere of judging persons."
+    },
+    {
+      "id": "p0041",
+      "text": "In respect of logical quantity all judgements of taste are _singular_ judgements. For because I must refer the object immediately to my feeling of pleasure and pain, and that not by means of concepts, they cannot have the quantity of objective generally valid judgements. Nevertheless if the singular representation of the Object of the judgement of taste in accordance with the conditions determining the latter, were transformed by comparison into a concept, a logically universal judgement could result therefrom. _E.g._ I describe by a judgement of taste the rose, that I see, as beautiful. But the judgement which results from the comparison of several singular judgements, “Roses in general are beautiful” is no longer described simply as aesthetical, but as a logical judgement based on an aesthetical one. Again the judgement “The rose is pleasant” (to smell) is, although aesthetical and singular, not a judgement of Taste but of Sense. It is distinguished from the former by the fact that the judgement of Taste carries with it an _aesthetical quantity_ of universality, _i.e._ of validity for every one; which cannot be found in a judgement about the Pleasant. It is only judgements about the Good which--although they also determine satisfaction in an object,--have logical and not merely aesthetical universality; for they are valid of the Object, as cognitive of it, and thus are valid for every one."
+    },
+    {
+      "id": "p0042",
+      "text": "If we judge Objects merely according to concepts, then all representation of beauty is lost. Thus there can be no rule according to which any one is to be forced to recognise anything as beautiful. We cannot press [upon others] by the aid of any reasons or fundamental propositions our judgement that a coat, a house, or a flower is beautiful. We wish to submit the Object to our own eyes, as if the satisfaction in it depended on sensation; and yet if we then call the object beautiful, we believe that we speak with a universal voice, and we claim the assent of every one, although on the contrary all private sensation can only decide for the observer himself and his satisfaction."
+    },
+    {
+      "id": "p0043",
+      "text": "We may see now that in the judgement of taste nothing is postulated but such a _universal voice_, in respect of the satisfaction without the intervention of concepts; and thus the _possibility_ of an aesthetical judgement that can, at the same time, be regarded as valid for every one. The judgement of taste itself does not _postulate_ the agreement of every one (for that can only be done by a logically universal judgement because it can adduce reasons); it only _imputes_ this agreement to every one, as a case of the rule in respect of which it expects, not confirmation by concepts, but assent from others. The universal voice is, therefore, only an Idea (we do not yet inquire upon what it rests). It may be uncertain whether or not the man, who believes that he is laying down a judgement of taste, is, as a matter of fact, judging in conformity with that Idea; but that he refers his judgement thereto, and, consequently, that it is intended to be a judgement of taste, he announces by the expression “beauty.” He can be quite certain of this for himself by the mere consciousness of the separation of everything belonging to the Pleasant and the Good from the satisfaction which is left; and this is all for which he promises himself the agreement of every one--a claim which would be justifiable under these conditions, provided only he did not often make mistakes, and thus lay down an erroneous judgement of taste."
+    },
+    {
+      "id": "p0044",
+      "text": "§ 9. _Investigation of the question whether in the judgement of taste the feeling of pleasure precedes or follows the judging of the object_"
+    },
+    {
+      "id": "p0045",
+      "text": "The solution of this question is the key to the Critique of Taste, and so is worthy of all attention."
+    },
+    {
+      "id": "p0046",
+      "text": "If the pleasure in the given object precedes, and it is only its universal communicability that is to be acknowledged in the judgement of taste about the representation of the object, there would be a contradiction. For such pleasure would be nothing different from the mere pleasantness in the sensation, and so in accordance with its nature could have only private validity, because it is immediately dependent on the representation through which the object _is given_."
+    },
+    {
+      "id": "p0047",
+      "text": "Hence, it is the universal capability of communication of the mental state in the given representation which, as the subjective condition of the judgement of taste, must be fundamental, and must have the pleasure in the object as its consequent. But nothing can be universally communicated except cognition and representation, so far as it belongs to cognition. For it is only thus that this latter can be objective; and only through this has it a universal point of reference, with which the representative power of every one is compelled to harmonise. If the determining ground of our judgement as to this universal communicability of the representation is to be merely subjective, _i.e._ is conceived independently of any concept of the object, it can be nothing else than the state of mind, which is to be met with in the relation of our representative powers to each other, so far as they refer a given representation to _cognition in general_."
+    },
+    {
+      "id": "p0048",
+      "text": "The cognitive powers, which are involved by this representation, are here in free play, because no definite concept limits them to a particular rule of cognition. Hence, the state of mind in this representation must be a feeling of the free play of the representative powers in a given representation with reference to a cognition in general. Now a representation by which an object is given, that is to become a cognition in general, requires _Imagination_, for the gathering together the manifold of intuition, and _Understanding_, for the unity of the concept uniting the representations. This state of _free play_ of the cognitive faculties in a representation by which an object is given, must be universally communicable; because cognition, as the determination of the Object with which given representations (in whatever subject) are to agree, is the only kind of representation which is valid for every one."
+    },
+    {
+      "id": "p0049",
+      "text": "The subjective universal communicability of the mode of representation in a judgement of taste, since it is to be possible without presupposing a definite concept, can refer to nothing else than the state of mind in the free play of the Imagination and the Understanding (so far as they agree with each other, as is requisite for _cognition in general_). We are conscious that this subjective relation, suitable for cognition in general, must be valid for every one, and thus must be universally communicable, just as if it were a definite cognition, resting always on that relation as its subjective condition."
+    },
+    {
+      "id": "p0050",
+      "text": "This merely subjective (aesthetical) judging of the object, or of the representation by which it is given, precedes the pleasure in it, and is the ground of this pleasure in the harmony of the cognitive faculties; but on the universality of the subjective conditions for judging of objects is alone based the universal subjective validity of the satisfaction bound up by us with the representation of the object that we call beautiful."
+    },
+    {
+      "id": "p0051",
+      "text": "The power of communicating one’s state of mind, even though only in respect of the cognitive faculties, carries a pleasure with it, as we can easily show from the natural propension of man towards sociability (empirical and psychological). But this is not enough for our design. The pleasure that we feel is, in a judgement of taste, necessarily imputed by us to every one else; as if, when we call a thing beautiful, it is to be regarded as a characteristic of the object which is determined in it according to concepts; though beauty, without a reference to the feeling of the subject, is nothing by itself. But we must reserve the examination of this question until we have answered another, viz. “If and how aesthetical judgements are possible _a priori_?”"
+    },
+    {
+      "id": "p0052",
+      "text": "We now occupy ourselves with the easier question, in what way we are conscious of a mutual subjective harmony of the cognitive powers with one another in the judgement of taste; is it aesthetically by mere internal sense and sensation? or is it intellectually by the consciousness of our designed activity, by which we bring them into play?"
+    },
+    {
+      "id": "p0053",
+      "text": "If the given representation, which occasions the judgement of taste, were a concept uniting Understanding and Imagination in the judging of the object, into a cognition of the Object, the consciousness of this relation would be intellectual (as in the objective schematism of the Judgement of which the Critique treats). But then the judgement would not be laid down in reference to pleasure and pain, and consequently would not be a judgement of taste. But the judgement of taste, independently of concepts, determines the Object in respect of satisfaction and of the predicate of beauty. Therefore that subjective unity of relation can only make itself known by means of sensation. The excitement of both faculties (Imagination and Understanding) to indeterminate, but yet, through the stimulus of the given sensation, harmonious activity, viz. that which belongs to cognition in general, is the sensation whose universal communicability is postulated by the judgement of taste. An objective relation can only be thought, but yet, so far as it is subjective according to its conditions, can be felt in its effect on the mind; and, of a relation based on no concept (like the relation of the representative powers to a cognitive faculty in general), no other consciousness is possible than that through the sensation of the effect, which consists in the more lively play of both mental powers (the Imagination and the Understanding) when animated by mutual agreement. A representation which, as singular and apart from comparison with others, yet has an agreement with the conditions of universality which it is the business of the Understanding to supply, brings the cognitive faculties into that proportionate accord which we require for all cognition, and so regard as holding for every one who is determined to judge by means of Understanding and Sense in combination (_i.e._ for every man)."
+    },
+    {
+      "id": "p0054",
+      "text": "EXPLANATION OF THE BEAUTIFUL RESULTING FROM THE SECOND MOMENT"
+    },
+    {
+      "id": "p0055",
+      "text": "The _beautiful_ is that which pleases universally, without a concept."
+    },
+    {
+      "id": "p0056",
+      "text": "THIRD MOMENT"
+    },
+    {
+      "id": "p0057",
+      "text": "OF JUDGEMENTS OF TASTE, ACCORDING TO THE RELATION OF THE PURPOSES WHICH ARE BROUGHT INTO CONSIDERATION THEREIN."
+    },
+    {
+      "id": "p0058",
+      "text": "§ 10. _Of purposiveness in general_"
+    },
+    {
+      "id": "p0059",
+      "text": "If we wish to explain what a purpose is according to its transcendental determinations (without presupposing anything empirical like the feeling of pleasure) [we say that] the purpose is the object of a concept, in so far as the concept is regarded as the cause of the object (the real ground of its possibility); and the causality of a _concept_ in respect of its _Object_ is its purposiveness (_forma finalis_). Where then not merely the cognition of an object, but the object itself (its form and existence) is thought as an effect only possible by means of the concept of this latter, there we think a purpose. The representation of the effect is here the determining ground of its cause and precedes it. The consciousness of the causality of a representation, for _maintaining_ the subject in the same state, may here generally denote what we call pleasure; while on the other hand pain is that representation which contains the ground of the determination of the state of representations into their opposite [of restraining or removing them]."
+    },
+    {
+      "id": "p0060",
+      "text": "The faculty of desire, so far as it is determinable only through concepts, _i.e._ to act in conformity with the representation of a purpose, would be the Will. But an Object, or a state of mind, or even an action, is called purposive, although its possibility does not necessarily presuppose the representation of a purpose, merely because its possibility can be explained and conceived by us only so far as we assume for its ground a causality according to purposes, _i.e._ a will which would have so disposed it according to the representation of a certain rule. There can be, then, purposiveness without purpose, so far as we do not place the causes of this form in a will, but yet can only make the explanation of its possibility intelligible to ourselves by deriving it from a will. Again, we are not always forced to regard what we observe (in respect of its possibility) from the point of view of Reason. Thus we can at least observe a purposiveness according to form, without basing it on a purpose (as the material of the _nexus finalis_), and we can notice it in objects, although only by reflection."
+    },
+    {
+      "id": "p0061",
+      "text": "§ 11. _The judgement of taste has nothing at its basis but the_ form of the purposiveness _of an object (or of its mode of representation)_"
+    },
+    {
+      "id": "p0062",
+      "text": "Every purpose, if it be regarded as a ground of satisfaction, always carries with it an interest--as the determining ground of the judgement--about the object of pleasure. Therefore no subjective purpose can lie at the basis of the judgement of taste. But neither can the judgement of taste be determined by any representation of an objective purpose, _i.e._ of the possibility of the object itself in accordance with principles of purposive combination, and consequently it can be determined by no concept of the good; because it is an aesthetical and not a cognitive judgement. It therefore has to do with no _concept_ of the character and internal or external possibility of the object by means of this or that cause, but merely with the relation of the representative powers to one another, so far as they are determined by a representation."
+    },
+    {
+      "id": "p0063",
+      "text": "Now this relation in the determination of an object as beautiful is bound up with the feeling of pleasure, which is declared by the judgement of taste to be valid for every one; hence a pleasantness, accompanying the representation, can as little contain the determining ground [of the judgement] as the representation of the perfection of the object and the concept of the good can. Therefore it can be nothing else than the subjective purposiveness in the representation of an object without any purpose (either objective or subjective); and thus it is the mere form of purposiveness in the representation by which an object is _given_ to us, so far as we are conscious of it, which constitutes the satisfaction that we without a concept judge to be universally communicable; and, consequently, this is the determining ground of the judgement of taste."
+    },
+    {
+      "id": "p0064",
+      "text": "§ 12. _The judgement of taste rests on_ a priori _grounds_"
+    },
+    {
+      "id": "p0065",
+      "text": "To establish _a priori_ the connexion of the feeling of a pleasure or pain as an effect, with any representation whatever (sensation or concept) as its cause, is absolutely impossible; for that would be a [particular] causal relation which (with objects of experience) can always only be cognised _a posteriori_, and through the medium of experience itself. We actually have, indeed, in the Critique of practical Reason, derived from universal moral concepts _a priori_ the feeling of respect (as a special and peculiar modification of feeling which will not strictly correspond either to the pleasure or the pain that we get from empirical objects). But there we could go beyond the bounds of experience and call in a causality which rested on a supersensible attribute of the subject, viz. freedom. And even there, properly speaking, it was not this _feeling_ which we derived from the Idea of the moral as cause, but merely the determination of the will. But the state of mind which accompanies any determination of the will is in itself a feeling of pleasure and identical with it, and therefore does not follow from it as its effect. This last must only be assumed if the concept of the moral as a good precede the determination of the will by the law; for in that case the pleasure that is bound up with the concept could not be derived from it as from a mere cognition."
+    },
+    {
+      "id": "p0066",
+      "text": "Now the case is similar with the pleasure in aesthetical judgements, only that here it is merely contemplative and does not bring about an interest in the Object, which on the other hand in the moral judgement it is practical. The consciousness of the mere formal purposiveness in the play of the subject’s cognitive powers, in a representation through which an object is given, is the pleasure itself; because it contains a determining ground of the activity of the subject in respect of the excitement of its cognitive powers, and therefore an inner causality (which is purposive) in respect of cognition in general without however being limited to any definite cognition; and consequently contains a mere form of the subjective purposiveness of a representation in an aesthetical judgement. This pleasure is in no way practical, neither like that arising from the pathological ground of pleasantness, nor that from the intellectual ground of the represented good. But yet it involves causality, viz. of _maintaining_ the state of the representation itself, and the exercise of the cognitive powers without further design. We _linger_ over the contemplation of the beautiful, because this contemplation strengthens and reproduces itself, which is analogous to (though not of the same kind as) that lingering which takes place when a [physical] charm in the representation of the object repeatedly arouses the attention, the mind being passive."
+    },
+    {
+      "id": "p0067",
+      "text": "§ 13. _The pure judgement of taste is independent of charm and emotion_"
+    },
+    {
+      "id": "p0068",
+      "text": "Every interest spoils the judgement of taste and takes from its impartiality, especially if the purposiveness is not, as with the interest of Reason, placed before the feeling of pleasure but grounded on it. This last always happens in an aesthetical judgement upon anything so far as it gratifies or grieves us. Hence judgements so affected can lay no claim at all to a universally valid satisfaction, or at least so much the less claim, in proportion as there are sensations of this sort among the determining grounds of taste. That taste is still barbaric which needs a mixture of _charms_ and _emotions_ in order that there may be satisfaction, and still more so if it make these the measure of its assent."
+    },
+    {
+      "id": "p0069",
+      "text": "Nevertheless charms are often not only taken account of in the case of beauty (which properly speaking ought merely to be concerned with form) as contributory to the aesthetical universal satisfaction; but they are passed off as in themselves beauties, and thus the matter of satisfaction is substituted for the form. This misconception, however, like so many others which have something true at their basis, may be removed by a careful definition of these concepts."
+    },
+    {
+      "id": "p0070",
+      "text": "A judgement of taste on which charm and emotion have no influence (although they may be bound up with the satisfaction in the beautiful),--which therefore has as its determining ground merely the purposiveness of the form,--is a _pure judgement of taste_."
+    },
+    {
+      "id": "p0071",
+      "text": "§ 14. _Elucidation by means of examples_"
+    },
+    {
+      "id": "p0072",
+      "text": "Aesthetical judgements can be divided just like theoretical (logical) judgements into empirical and pure. The first assert pleasantness or unpleasantness; the second assert the beauty of an object or of the manner of representing it. The former are judgements of Sense (material aesthetical judgements); the latter [as formal] are alone strictly judgements of Taste."
+    },
+    {
+      "id": "p0073",
+      "text": "A judgement of taste is therefore pure, only so far as no merely empirical satisfaction is mingled with its determining ground. But this always happens if charm or emotion have any share in the judgement by which anything is to be described as beautiful."
+    },
+    {
+      "id": "p0074",
+      "text": "Now here many objections present themselves, which fallaciously put forward charm not merely as a necessary ingredient of beauty, but as alone sufficient [to justify] a thing’s being called beautiful. A mere colour, _e.g._ the green of a grass plot, a mere tone (as distinguished from sound and noise) like that of a violin, are by most people described as beautiful in themselves; although both seem to have at their basis merely the matter of representations, viz. simply sensation, and therefore only deserve to be called pleasant. But we must at the same time remark that the sensations of colours and of tone have a right to be regarded as beautiful only in so far as they are _pure_. This is a determination which concerns their form, and is the only [element] of these representations which admits with certainty of universal communicability; for we cannot assume that the quality of sensations is the same in all subjects, and we can hardly say that the pleasantness of one colour or the tone of one musical instrument is judged preferable to that of another in the same way by every one."
+    },
+    {
+      "id": "p0075",
+      "text": "If we assume with _Euler_ that colours are isochronous vibrations (_pulsus_) of the aether, as sounds are of the air in a state of disturbance, and,--what is most important,--that the mind not only perceives by sense the effect of these in exciting the organ, but also perceives by reflection the regular play of impressions (and thus the form of the combination of different representations) which I still do not doubt--then colours and tone cannot be reckoned as mere sensations, but as the formal determination of the unity of a manifold of sensations, and thus as beauties in themselves."
+    },
+    {
+      "id": "p0076",
+      "text": "But “pure” in a simple mode of sensation means that its uniformity is troubled and interrupted by no foreign sensation, and it belongs merely to the form; because here we can abstract from the quality of that mode of sensation (abstract from the colours and tone, if any, which it represents). Hence all simple colours, so far as they are pure, are regarded as beautiful; composite colours have not this advantage, because, as they are not simple, we have no standard for judging whether they should be called pure or not."
+    },
+    {
+      "id": "p0077",
+      "text": "But as regards the beauty attributed to the object on account of its form, to suppose it to be capable of augmentation through the charm of the object is a common error, and one very prejudicial to genuine, uncorrupted, well-founded taste. We can doubtless add these charms to beauty, in order to interest the mind by the representation of the object, apart from the bare satisfaction [received]; and thus they may serve as a recommendation of taste and its cultivation, especially when it is yet crude and unexercised. But they actually do injury to the judgement of taste if they draw attention to themselves as the grounds for judging of beauty. So far are they from adding to beauty that they must only be admitted by indulgence as aliens; and provided always that they do not disturb the beautiful form, in cases when taste is yet weak and untrained."
+    },
+    {
+      "id": "p0078",
+      "text": "In painting, sculpture, and in all the formative arts--in architecture, and horticulture, so far as they are beautiful arts--the _delineation_ is the essential thing; and here it is not what gratifies in sensation but what pleases by means of its form that is fundamental for taste. The colours which light up the sketch belong to the charm; they may indeed enliven the object for sensation, but they cannot make it worthy of contemplation and beautiful. In most cases they are rather limited by the requirements of the beautiful form; and even where charm is permissible it is ennobled solely by this."
+    },
+    {
+      "id": "p0079",
+      "text": "Every form of the objects of sense (both of external sense and also mediately of internal) is either _figure_ or _play_. In the latter case it is either play of figures (in space, viz. pantomime and dancing), or the mere play of sensations (in time). The _charm_ of colours or of the pleasant tones of an instrument may be added; but the _delineation_ in the first case and the composition in the second constitute the proper object of the pure judgement of taste. To say that the purity of colours and of tones, or their variety and contrast, seems to add to beauty, does not mean that they supply a homogeneous addition to our satisfaction in the form because they are pleasant in themselves; but they do so, because they make the form more exactly, definitely, and completely, intuitible, and besides by their charm [excite the representation, whilst they] awaken and fix our attention on the object itself."
+    },
+    {
+      "id": "p0080",
+      "text": "Even what we call _ornaments_ [parerga], _i.e._ those things which do not belong to the complete representation of the object internally as elements but only externally as complements, and which augment the satisfaction of taste, do so only by their form; as for example [the frames of pictures, or] the draperies of statues or the colonnades of palaces. But if the ornament does not itself consist in beautiful form, and if it is used as a golden frame is used, merely to recommend the painting by its _charm_, it is then called _finery_ and injures genuine beauty."
+    },
+    {
+      "id": "p0081",
+      "text": "_Emotion_, _i.e._ a sensation in which pleasantness is produced by means of a momentary checking and a consequent more powerful outflow of the vital force, does not belong at all to beauty. But sublimity [with which the feeling of emotion is bound up] requires a different standard of judgement from that which is at the foundation of taste; and thus a pure judgement of taste has for its determining ground neither charm nor emotion, in a word, no sensation as the material of the aesthetical judgement."
+    },
+    {
+      "id": "p0082",
+      "text": "§ 15. _The judgement of taste is quite independent of the concept of perfection_"
+    },
+    {
+      "id": "p0083",
+      "text": "_Objective_ purposiveness can only be cognised by means of the reference of the manifold to a definite purpose, and therefore only through a concept. From this alone it is plain that the Beautiful, the judging of which has at its basis a merely formal purposiveness, _i.e._ a purposiveness without purpose, is quite independent of the concept of the Good; because the latter presupposes an objective purposiveness, _i.e._ the reference of the object to a definite purpose."
+    },
+    {
+      "id": "p0084",
+      "text": "Objective purposiveness is either external, _i.e._ the _utility_, or internal, _i.e._ the _perfection_ of the object. That the satisfaction in an object, on account of which we call it beautiful, cannot rest on the representation of its utility, is sufficiently obvious from the two preceding sections; because in that case it would not be an immediate satisfaction in the object, which is the essential condition of a judgement about beauty. But objective internal purposiveness, _i.e._ perfection, comes nearer to the predicate of beauty; and it has been regarded by celebrated philosophers as the same as beauty, with the proviso, _if it is thought in a confused way_. It is of the greatest importance in a Critique of Taste to decide whether beauty can thus actually be resolved into the concept of perfection."
+    },
+    {
+      "id": "p0085",
+      "text": "To judge of objective purposiveness we always need not only the concept of a purpose, but (if that purposiveness is not to be external utility but internal) the concept of an internal purpose which shall contain the ground of the internal possibility of the object. Now as a purpose in general is that whose _concept_ can be regarded as the ground of the possibility of the object itself; so, in order to represent objective purposiveness in a thing, the concept of _what sort of thing it is to be_ must come first. The agreement of the manifold in it with this concept (which furnishes the rule for combining the manifold) is the _qualitative perfection_ of the thing. Quite different from this is _quantitative_ perfection, the completeness of a thing after its kind, which is a mere concept of magnitude (of totality). In this _what the thing ought to be_ is conceived as already determined, and it is only asked if it has _all_ its requisites. The formal [element] in the representation of a thing, _i.e._ the agreement of the manifold with a unity (it being undetermined what this ought to be), gives to cognition no objective purposiveness whatever. For since abstraction is made of this unity as _purpose_ (what the thing ought to be), nothing remains but the subjective purposiveness of the representations in the mind of the intuiting subject. And this, although it furnishes a certain purposiveness of the representative state of the subject, and so a facility of apprehending a given form by the Imagination, yet furnishes no perfection of an Object, since the Object is not here conceived by means of the concept of a purpose. For example, if in a forest I come across a plot of sward, round which trees stand in a circle, and do not then represent to myself a purpose, viz. that it is intended to serve for country dances, not the least concept of perfection is furnished by the mere form. But to represent to oneself a formal _objective_ purposiveness without purpose, _i.e._ the mere form of a _perfection_ (without any matter and without the _concept_ of that with which it is accordant, even if it were merely the Idea of conformity to law in general) is a veritable contradiction."
+    },
+    {
+      "id": "p0086",
+      "text": "Now the judgement of taste is an aesthetical judgement, _i.e._ such as rests on subjective grounds, the determining ground of which cannot be a concept, and consequently cannot be the concept of a definite purpose. Therefore in beauty, regarded as a formal subjective purposiveness, there is in no way thought a perfection of the object, as a would-be formal purposiveness, which yet is objective. And thus to distinguish between the concepts of the Beautiful and the Good, as if they were only different in logical form, the first being a confused, the second a clear concept of perfection, but identical in content and origin, is quite fallacious. For then there would be no _specific_ difference between them, but a judgement of taste would be as much a cognitive judgement as the judgement by which a thing is described as good; just as when the ordinary man says that fraud is unjust he bases his judgement on confused grounds, whilst the philosopher bases it on clear grounds, but both on identical principles of Reason. I have already, however, said that an aesthetical judgement is unique of its kind, and gives absolutely no cognition (not even a confused cognition) of the Object; this is only supplied by a logical judgement. On the contrary, it simply refers the representation, by which an Object is given, to the subject; and brings to our notice no characteristic of the object, but only the purposive form in the determination of the representative powers which are occupying themselves therewith. The judgement is called aesthetical just because its determining ground is not a concept, but the feeling (of internal sense) of that harmony in the play of the mental powers, so far as it can be felt in sensation. On the other hand, if we wish to call confused concepts and the objective judgement based on them, aesthetical, we shall have an Understanding judging sensibly or a Sense representing its Objects by means of concepts [both of which are contradictory.] The faculty of concepts, be they confused or clear, is the Understanding; and although Understanding has to do with the judgement of taste, as an aesthetical judgement (as it has with all judgements), yet it has to do with it not as a faculty by which an object is cognised, but as the faculty which determines the judgement and its representation (without any concept) in accordance with its relation to the subject and the subject’s internal feeling, in so far as this judgement may be possible in accordance with a universal rule."
+    },
+    {
+      "id": "p0087",
+      "text": "§ 16. _The judgement of taste, by which an object is declared to be beautiful under the condition of a definite concept, is not pure_"
+    },
+    {
+      "id": "p0088",
+      "text": "There are two kinds of beauty; free beauty (_pulchritudo vaga_) or merely dependent beauty (_pulchritudo adhaerens_). The first presupposes no concept of what the object ought to be; the second does presuppose such a concept and the perfection of the object in accordance therewith. The first is called the (self-subsistent) beauty of this or that thing; the second, as dependent upon a concept (conditioned beauty), is ascribed to Objects which come under the concept of a particular purpose."
+    },
+    {
+      "id": "p0089",
+      "text": "Flowers are free natural beauties. Hardly any one but a botanist knows what sort of a thing a flower ought to be; and even he, though recognising in the flower the reproductive organ of the plant, pays no regard to this natural purpose if he is passing judgement on the flower by Taste. There is then at the basis of this judgement no perfection of any kind, no internal purposiveness, to which the collection of the manifold is referred. Many birds (such as the parrot, the humming bird, the bird of paradise), and many sea shells are beauties in themselves, which do not belong to any object determined in respect of its purpose by concepts, but please freely and in themselves. So also delineations _à la grecque_, foliage for borders or wall-papers, mean nothing in themselves; they represent nothing--no Object under a definite concept,--and are free beauties. We can refer to the same class what are called in music phantasies (_i.e._ pieces without any theme), and in fact all music without words."
+    },
+    {
+      "id": "p0090",
+      "text": "In the judging of a free beauty (according to the mere form) the judgement of taste is pure. There is presupposed no concept of any purpose, for which the manifold should serve the given Object, and which therefore is to be represented therein. By such a concept the freedom of the Imagination which disports itself in the contemplation of the figure would be only limited."
+    },
+    {
+      "id": "p0091",
+      "text": "But human beauty (_i.e._ of a man, a woman, or a child), the beauty of a horse, or a building (be it church, palace, arsenal, or summer-house) presupposes a concept of the purpose which determines what the thing is to be, and consequently a concept of its perfection; it is therefore adherent beauty. Now as the combination of the Pleasant (in sensation) with Beauty, which properly is only concerned with form, is a hindrance to the purity of the judgement of taste; so also is its purity injured by the combination with Beauty of the Good (viz. that manifold which is good for the thing itself in accordance with its purpose)."
+    },
+    {
+      "id": "p0092",
+      "text": "We could add much to a building which would immediately please the eye, if only it were not to be a church. We could adorn a figure with all kinds of spirals and light but regular lines, as the New Zealanders do with their tattooing, if only it were not the figure of a human being. And again this could have much finer features and a more pleasing and gentle cast of countenance provided it were not intended to represent a man, much less a warrior."
+    },
+    {
+      "id": "p0093",
+      "text": "Now the satisfaction in the manifold of a thing in reference to the internal purpose which determines its possibility is a satisfaction grounded on a concept; but the satisfaction in beauty is such as presupposes no concept, but is immediately bound up with the representation through which the object is given (not through which it is thought). If now the judgement of Taste in respect of the beauty of a thing is made dependent on the purpose in its manifold, like a judgement of Reason, and thus limited, it is no longer a free and pure judgement of Taste."
+    },
+    {
+      "id": "p0094",
+      "text": "It is true that taste gains by this combination of aesthetical with intellectual satisfaction, inasmuch as it becomes fixed; and though it is not universal, yet in respect to certain purposively determined Objects it becomes possible to prescribe rules for it. These, however, are not rules of taste, but merely rules for the unification of Taste with Reason, _i.e._ of the Beautiful with the Good, by which the former becomes available as an instrument of design in respect of the latter. Thus the tone of mind which is self-maintaining and of subjective universal validity is subordinated to the way of thinking which can be maintained only by painful resolve, but is of objective universal validity. Properly speaking, however, perfection gains nothing by beauty or beauty by perfection; but, when we compare the representation by which an object is given to us with the Object (as regards what it ought to be) by means of a concept, we cannot avoid considering along with it the sensation in the subject. And thus when both states of mind are in harmony our _whole faculty_ of representative power gains."
+    },
+    {
+      "id": "p0095",
+      "text": "A judgement of taste, then, in respect of an object with a definite internal purpose, can only be pure, if either the person judging has no concept of this purpose, or else abstracts from it in his judgement. Such a person, although forming an accurate judgement of taste in judging of the object as free beauty, would yet by another who considers the beauty in it only as a dependent attribute (who looks to the purpose of the object) be blamed, and accused of false taste; although both are right in their own way, the one in reference to what he has before his eyes, the other in reference to what he has in his thought. By means of this distinction we can settle many disputes about beauty between judges of taste; by showing that the one is speaking of free, the other of dependent, beauty,--that the first is making a pure, the second an applied, judgement of taste."
+    },
+    {
+      "id": "p0096",
+      "text": "§ 17. _Of the Ideal of beauty_"
+    },
+    {
+      "id": "p0097",
+      "text": "There can be no objective rule of taste which shall determine by means of concepts what is beautiful. For every judgement from this source is aesthetical; _i.e._ the feeling of the subject, and not a concept of the Object, is its determining ground. To seek for a principle of taste which shall furnish, by means of definite concepts, a universal criterion of the beautiful, is fruitless trouble; because what is sought is impossible and self-contradictory. The universal communicability of sensation (satisfaction or dissatisfaction) without the aid of a concept--the agreement, as far as is possible, of all times and peoples as regards this feeling in the representation of certain objects--this is the empirical criterion, although weak and hardly sufficing for probability, of the derivation of a taste, thus confirmed by examples, from the deep-lying grounds of agreement common to all men, in judging of the forms under which objects are given to them."
+    },
+    {
+      "id": "p0098",
+      "text": "Hence, we consider some products of taste as _exemplary_. Not that taste can be acquired by imitating others; for it must be an original faculty. He who imitates a model shows, no doubt, in so far as he attains to it, skill; but only shows taste in so far as he can judge of this model itself. It follows from hence that the highest model, the archetype of taste, is a mere Idea, which every one must produce in himself; and according to which he must judge every Object of taste, every example of judgement by taste, and even the taste of every one. _Idea_ properly means a rational concept, and _Ideal_ the representation of an individual being, regarded as adequate to an Idea. Hence that archetype of taste, which certainly rests on the indeterminate Idea that Reason has of a maximum, but which cannot be represented by concepts, but only in an individual presentation, is better called the Ideal of the beautiful. Although we are not in possession of this, we yet strive to produce it in ourselves. But it can only be an Ideal of the Imagination, because it rests on a presentation and not on concepts, and the Imagination is the faculty of presentation.--How do we arrive at such an Ideal of beauty? _A priori_, or empirically? Moreover, what species of the beautiful is susceptible of an Ideal?"
+    },
+    {
+      "id": "p0099",
+      "text": "First, it is well to remark that the beauty for which an Ideal is to be sought cannot be _vague_ beauty, but is _fixed_ by a concept of objective purposiveness; and thus it cannot appertain to the Object of a quite pure judgement of taste, but to that of a judgement of taste which is in part intellectual. That is, in whatever grounds of judgement an Ideal is to be found, an Idea of Reason in accordance with definite concepts must lie at its basis; which determines _a priori_ the purpose on which the internal possibility of the object rests. An Ideal of beautiful flowers, of a beautiful piece of furniture, of a beautiful view, is inconceivable. But neither can an Ideal be represented of a beauty dependent on definite purposes, _e.g._ of a beautiful dwelling-house, a beautiful tree, a beautiful garden, etc.; presumably because their purpose is not sufficiently determined and fixed by the concept, and thus the purposiveness is nearly as free as in the case of _vague_ beauty. The only being which has the purpose of its existence in itself is _man_, who can determine his purposes by Reason; or, where he must receive them from external perception, yet can compare them with essential and universal purposes, and can judge this their accordance aesthetically. This _man_ is, then, alone of all objects in the world, susceptible of an Ideal of _beauty_; as it is only _humanity_ in his person, as an intelligence, that is susceptible of the Ideal of _perfection_."
+    },
+    {
+      "id": "p0100",
+      "text": "But there are here two elements. _First_, there is the aesthetical _normal Idea_, which is an individual intuition (of the Imagination), representing the standard of our judgement [upon man] as a thing belonging to a particular animal species. _Secondly_, there is the _rational Idea_ which makes the purposes of humanity, so far as they cannot be sensibly represented, the principle for judging of a figure through which, as their phenomenal effect, those purposes are revealed. The normal Idea of the figure of an animal of a particular race must take its elements from experience. But the greatest purposiveness in the construction of the figure, that would be available for the universal standard of aesthetical judgement upon each individual of this species--the image which is as it were designedly at the basis of nature’s Technic, to which only the whole race and not any isolated individual is adequate--this lies merely in the Idea of the judging [subject]. And this, with its proportions, as an aesthetical Idea, can be completely presented _in concreto_ in a model. In order to make intelligible in some measure (for who can extract her whole secret from nature?) how this comes to pass, we shall attempt a psychological explanation."
+    },
+    {
+      "id": "p0101",
+      "text": "We must remark that, in a way quite incomprehensible by us, the Imagination can not only recall, on occasion, the signs for concepts long past, but can also reproduce the image of the figure of the object out of an unspeakable number of objects of different kinds or even of the same kind. Further, if the mind is concerned with comparisons, the Imagination can, in all probability, actually though unconsciously let one image glide into another, and thus by the concurrence of several of the same kind come by an average, which serves as the common measure of all. Every one has seen a thousand full-grown men. Now if you wish to judge of their normal size, estimating it by means of comparison, the Imagination (as I think) allows a great number of images (perhaps the whole thousand) to fall on one another. If I am allowed to apply here the analogy of optical presentation, it is in the space where most of them are combined and inside the contour, where the place is illuminated with the most vivid colours, that the _average size_ is cognisable; which, both in height and breadth, is equally far removed from the extreme bounds of the greatest and smallest stature. And this is the stature of a beautiful man. (We could arrive at the same thing mechanically, by adding together all thousand magnitudes, heights, breadths, and thicknesses, and dividing the sum by a thousand. But the Imagination does this by means of a dynamical effect, which arises from the various impressions of such figures on the organ of internal sense.) If now in a similar way for this average man we seek the average head, for this head the average nose, etc., such figure is at the basis of the normal Idea in the country where the comparison is instituted. Thus necessarily under these empirical conditions a negro must have a different normal Idea of the beauty of the [human figure] from a white man, a Chinaman a different normal Idea from a European, etc. And the same is the case with the model of a beautiful horse or dog (of a certain breed).--This _normal Idea_ is not derived from proportions got from experience [and regarded] _as definite rules_; but in accordance with it rules for judging become in the first instance possible. It is the image for the whole race, which floats among all the variously different intuitions of individuals, which nature takes as archetype in her productions of the same species, but which seems not to be fully reached in any individual case. It is by no means the whole _archetype of beauty_ in the race, but only the form constituting the indispensable condition of all beauty, and thus merely _correctness_ in the [mental] presentation of the race. It is, like the celebrated _Doryphorus_ of _Polycletus_, the _rule_ (_Myron’s_ Cow might also be used thus for its kind). It can therefore contain nothing specifically characteristic, for otherwise it would not be the _normal Idea_ for the race. Its presentation pleases, not by its beauty, but merely because it contradicts no condition, under which alone a thing of this kind can be beautiful. The presentation is merely correct."
+    },
+    {
+      "id": "p0102",
+      "text": "We must yet distinguish the _normal Idea_ of the beautiful from the _Ideal_, which latter, on grounds already alleged, we can only expect in the _human_ figure. In this the Ideal consists in the expression of the _moral_, without which the object would not please universally and thus positively (not merely negatively in a correct presentation). The visible expression of moral Ideas that rule men inwardly, can indeed only be got from experience; but to make its connexion with all which our Reason unites with the morally good in the Idea of the highest purposiveness,--goodness of heart, purity, strength, peace, etc.,--visible as it were in bodily manifestation (as the effect of that which is internal), requires a union of pure Ideas of Reason with great imaginative power, even in him who wishes to judge of it, still more in him who wishes to present it. The correctness of such an Ideal of beauty is shown by its permitting no sensible charm to mingle with the satisfaction in the Object and yet allowing us to take a great interest therein. This shows that a judgement in accordance with such a standard can never be purely aesthetical, and that a judgement in accordance with an Ideal of beauty is not a mere judgement of taste."
+    },
+    {
+      "id": "p0103",
+      "text": "EXPLANATION OF THE BEAUTIFUL DERIVED FROM THIS THIRD MOMENT"
+    },
+    {
+      "id": "p0104",
+      "text": "_Beauty_ is the form of the _purposiveness_ of an object, so far as this is perceived in it _without any representation of a purpose_."
+    },
+    {
+      "id": "p0105",
+      "text": "FOURTH MOMENT"
+    },
+    {
+      "id": "p0106",
+      "text": "OF THE JUDGEMENT OF TASTE, ACCORDING TO THE MODALITY OF THE SATISFACTION IN THE OBJECT"
+    },
+    {
+      "id": "p0107",
+      "text": "§ 18. _What the modality in a judgement of taste is_"
+    },
+    {
+      "id": "p0108",
+      "text": "I can say of every representation that it is at least _possible_ that (as a cognition) it should be bound up with a pleasure. Of a representation that I call _pleasant_ I say that it _actually_ excites pleasure in me. But the _beautiful_ we think as having a _necessary_ reference to satisfaction. Now this necessity is of a peculiar kind. It is not a theoretical objective necessity; in which case it would be cognised _a priori_ that every one _will feel_ this satisfaction in the object called beautiful by me. It is not a practical necessity; in which case, by concepts of a pure rational will serving as a rule for freely acting beings, the satisfaction is the necessary result of an objective law and only indicates that we absolutely (without any further design) ought to act in a certain way. But the necessity which is thought in an aesthetical judgement can only be called _exemplary_; _i.e._ a necessity of the assent of _all_ to a judgement which is regarded as the example of a universal rule that we cannot state. Since an aesthetical judgement is not an objective cognitive judgement, this necessity cannot be derived from definite concepts, and is therefore not apodictic. Still less can it be inferred from the universality of experience (of a complete agreement of judgements as to the beauty of a certain object). For not only would experience hardly furnish sufficiently numerous vouchers for this; but also, on empirical judgements we can base no concept of the necessity of these judgements."
+    },
+    {
+      "id": "p0109",
+      "text": "§ 19. _The subjective necessity, which we ascribe to the judgement of taste, is conditioned_"
+    },
+    {
+      "id": "p0110",
+      "text": "The judgement of taste requires the agreement of every one; and he who describes anything as beautiful claims that every one _ought_ to give his approval to the object in question and also describe it as beautiful. The _ought_ in the aesthetical judgement is therefore pronounced in accordance with all the data which are required for judging and yet is only conditioned. We ask for the agreement of every one else, because we have for it a ground that is common to all; and we could count on this agreement, provided we were always sure that the case was correctly subsumed under that ground as rule of assent."
+    },
+    {
+      "id": "p0111",
+      "text": "§ 20. _The condition of necessity which a judgement of taste asserts is the Idea of a common sense_"
+    },
+    {
+      "id": "p0112",
+      "text": "If judgements of taste (like cognitive judgements) had a definite objective principle, then the person who lays them down in accordance with this latter would claim an unconditioned necessity for his judgement. If they were devoid of all principle, like those of the mere taste of sense, we would not allow them in thought any necessity whatever. Hence they must have a subjective principle which determines what pleases or displeases only by feeling and not by concepts, but yet with universal validity. But such a principle could only be regarded as a _common sense_, which is essentially different from common Understanding which people sometimes call common Sense (_sensus communis_); for the latter does not judge by feeling but always by concepts, although ordinarily only as by obscurely represented principles."
+    },
+    {
+      "id": "p0113",
+      "text": "Hence it is only under the presupposition that there is a common sense (by which we do not understand an external sense, but the effect resulting from the free play of our cognitive powers)--it is only under this presupposition, I say, that the judgement of taste can be laid down."
+    },
+    {
+      "id": "p0114",
+      "text": "§ 21. _Have we ground for presupposing a common sense?_"
+    },
+    {
+      "id": "p0115",
+      "text": "Cognitions and judgements must, along with the conviction that accompanies them, admit of universal communicability; for otherwise there would be no harmony between them and the Object, and they would be collectively a mere subjective play of the representative powers, exactly as scepticism would have it. But if cognitions are to admit of communicability, so must also the state of mind,--_i.e._ the accordance of the cognitive powers with a cognition generally, and that proportion of them which is suitable for a representation (by which an object is given to us) in order that a cognition may be made out of it--admit of universal communicability. For without this as the subjective condition of cognition, knowledge as an effect could not arise. This actually always takes place when a given object by means of Sense excites the Imagination to collect the manifold, and the Imagination in its turn excites the Understanding to bring about a unity of this collective process in concepts. But this accordance of the cognitive powers has a different proportion according to the variety of the Objects which are given. However, it must be such that this internal relation, by which one mental faculty is excited by another, shall be generally the most beneficial for both faculties in respect of cognition (of given objects); and this accordance can only be determined by feeling (not according to concepts). Since now this accordance itself must admit of universal communicability, and consequently also our feeling of it (in a given representation), and since the universal communicability of a feeling presupposes a common sense, we have grounds for assuming this latter. And this common sense is assumed without relying on psychological observations, but simply as the necessary condition of the universal communicability of our knowledge, which is presupposed in every Logic and in every principle of knowledge that is not sceptical."
+    },
+    {
+      "id": "p0116",
+      "text": "§ 22. _The necessity of the universal agreement that is thought in a judgement of taste is a subjective necessity, which is represented as objective under the presupposition of a common sense_"
+    },
+    {
+      "id": "p0117",
+      "text": "In all judgements by which we describe anything as beautiful, we allow no one to be of another opinion; without however grounding our judgement on concepts but only on our feeling, which we therefore place at its basis not as a private, but as a communal feeling. Now this common sense cannot be grounded on experience; for it aims at justifying judgements which contain an _ought_. It does not say that every one _will_ agree with my judgement, but that he _ought_. And so common sense, as an example of whose judgement I here put forward my judgement of taste and on account of which I attribute to the latter an _exemplary_ validity, is a mere ideal norm, under the supposition of which I have a right to make into a rule for every one a judgement that accords therewith, as well as the satisfaction in an Object expressed in such judgement. For the principle, which concerns the agreement of different judging persons, although only subjective, is yet assumed as subjectively universal (an Idea necessary for every one); and thus can claim universal assent (as if it were objective) provided we are sure that we have correctly subsumed [the particulars] under it."
+    },
+    {
+      "id": "p0118",
+      "text": "This indeterminate norm of a common sense is actually presupposed by us; as is shown by our claim to lay down judgements of taste. Whether there is in fact such a common sense, as a constitutive principle of the possibility of experience, or whether a yet higher principle of Reason makes it only into a regulative principle for producing in us a common sense for higher purposes: whether therefore Taste is an original and natural faculty, or only the Idea of an artificial one yet to be acquired, so that a judgement of taste with its assumption of a universal assent in fact, is only a requirement of Reason for producing such harmony of sentiment; whether the “ought,” _i.e._ the objective necessity of the confluence of the feeling of any one man with that of every other, only signifies the possibility of arriving at this accord, and the judgement of taste only affords an example of the application of this principle: these questions we have neither the wish nor the power to investigate as yet; we have now only to resolve the faculty of taste into its elements in order to unite them at last in the Idea of a common sense."
+    },
+    {
+      "id": "p0119",
+      "text": "EXPLANATION OF THE BEAUTIFUL RESULTING FROM THE FOURTH MOMENT"
+    },
+    {
+      "id": "p0120",
+      "text": "The _beautiful_ is that which without any concept is cognised as the object of a _necessary_ satisfaction."
+    },
+    {
+      "id": "p0121",
+      "text": "GENERAL REMARK ON THE FIRST SECTION OF THE ANALYTIC"
+    },
+    {
+      "id": "p0122",
+      "text": "If we seek the result of the preceding analysis we find that everything runs up into this concept of Taste, that it is a faculty for judging an object in reference to the Imagination’s _free conformity to law_. Now if in the judgement of taste the Imagination must be considered in its freedom, it is in the first place not regarded as reproductive, as it is subject to the laws of association, but as productive and spontaneous (as the author of arbitrary forms of possible intuition). And although in the apprehension of a given object of sense it is tied to a definite form of this Object, and so far has no free play (such as that of poetry) yet it may readily be conceived that the object can furnish it with such a form containing a collection of the manifold, as the Imagination itself, if it were left free, would project in accordance with the _conformity to law of the Understanding_ in general. But that the _imaginative power_ should be _free_ and yet _of itself conformed to law_, _i.e._ bringing autonomy with it, is a contradiction. The Understanding alone gives the law. If, however, the Imagination is compelled to proceed according to a definite law, its product in respect of form is determined by concepts as to what it ought to be. But then, as is above shown, the satisfaction is not that in the Beautiful, but in the Good (in perfection, at any rate in mere formal perfection); and the judgement is not a judgement of taste. Hence it is a conformity to law without a law; and a subjective agreement of the Imagination and Understanding,--without such an objective agreement as there is when the representation is referred to a definite concept of an object,--can subsist along with the free conformity to law of the Understanding (which is also called purposiveness without purpose) and with the peculiar feature of a judgement of taste."
+    },
+    {
+      "id": "p0123",
+      "text": "Now geometrically regular figures, such as a circle, a square, a cube, etc., are commonly adduced by critics of taste as the simplest and most indisputable examples of beauty; and yet they are called regular, because we can only represent them by regarding them as mere presentations of a definite concept which prescribes the rule for the figure (according to which alone it is possible). One of these two must be wrong, either that judgement of the critic which ascribes beauty to the said figures, or ours, which regards purposiveness apart from a concept as requisite for beauty."
+    },
+    {
+      "id": "p0124",
+      "text": "Hardly any one will say that a man must have taste in order that he should find more satisfaction in a circle than in a scrawled outline, in an equilateral and equiangular quadrilateral than in one which is oblique, irregular, and as it were deformed, for this belongs to the ordinary Understanding and is not Taste at all. Where, _e.g._ our design is to judge of the size of an area, or to make intelligible the relation of the parts of it, when divided, to one another and to the whole, then regular figures and those of the simplest kind are needed, and the satisfaction does not rest immediately on the aspect of the figure, but on its availability for all kinds of possible designs. A room whose walls form oblique angles, or a parterre of this kind, even every violation of symmetry in the figure of animals (_e.g._ being one-eyed), of buildings, or of flower beds, displeases, because it contradicts the purpose of the thing, not only practically in respect of a definite use of it, but also when we pass judgement on it as regards any possible design. This is not the case in the judgement of taste, which when pure combines satisfaction or dissatisfaction,--without any reference to its use or to a purpose,--with the mere _consideration_ of the object."
+    },
+    {
+      "id": "p0125",
+      "text": "The regularity which leads to the concept of an object is indeed the indispensable condition (_conditio sine qua non_) for grasping the object in a single representation and determining the manifold in its form. This determination is a purpose in respect of cognition, and in reference to this it is always bound up with satisfaction (which accompanies the execution of every, even problematical, design). There is here, however, merely the approval of the solution satisfying a problem, and not a free and indefinite purposive entertainment of the mental powers with what we call beautiful, where the Understanding is at the service of Imagination and not _vice versa_."
+    },
+    {
+      "id": "p0126",
+      "text": "In a thing that is only possible by means of design,--a building, or even an animal,--the regularity consisting in symmetry must express the unity of the intuition that accompanies the concept of purpose, and this regularity belongs to cognition. But where only a free play of the representative powers (under the condition, however, that the Understanding is to suffer no shock thereby) is to be kept up, in pleasure gardens, room decorations, all kinds of tasteful furniture, etc., regularity that shows constraint is avoided as much as possible. Thus in the English taste in gardens, or in bizarre taste in furniture, the freedom of the Imagination is pushed almost near to the grotesque, and in this separation from every constraint of rule we have the case, where taste can display its greatest perfection in the enterprises of the Imagination."
+    },
+    {
+      "id": "p0127",
+      "text": "All stiff regularity (such as approximates to mathematical regularity) has something in it repugnant to taste; for our entertainment in the contemplation of it lasts for no length of time, but it rather, in so far as it has not expressly in view cognition or a definite practical purpose, produces weariness. On the other hand that with which Imagination can play in an unstudied and purposive manner is always new to us, and one does not get tired of looking at it. _Marsden_ in his description of Sumatra makes the remark that the free beauties of nature surround the spectator everywhere and thus lose their attraction for him. On the other hand a pepper-garden, where the stakes on which this plant twines itself form parallel rows, had much attractiveness for him, if he met with it in the middle of a forest. And hence he infers that wild beauty, apparently irregular, only pleases as a variation from the regular beauty of which one has seen enough. But he need only have made the experiment of spending one day in a pepper-garden, to have been convinced that, once the Understanding, by the aid of this regularity, has put itself in accord with the order that it always needs, the object will not entertain for long,--nay rather it will impose a burdensome constraint upon the Imagination. On the other hand, nature, which there is prodigal in its variety even to luxuriance, that is subjected to no constraint of artificial rules, can supply constant food for taste.--Even the song of birds, which we can bring under no musical rule, seems to have more freedom, and therefore more for taste, than a song of a human being which is produced in accordance with all the rules of music; for we very much sooner weary of the latter, if it is repeated often and at length. Here, however, we probably confuse our participation in the mirth of a little creature that we love, with the beauty of its song; for if this were exactly imitated by man (as sometimes the notes of the nightingale are) it would seem to our ear quite devoid of taste."
+    },
+    {
+      "id": "p0128",
+      "text": "Again, beautiful objects are to be distinguished from beautiful views of objects (which often on account of their distance cannot be clearly recognised). In the latter case taste appears not so much in what the Imagination _apprehends_ in this field, as in the impulse it thus gets to _fiction_, _i.e._ in the peculiar fancies with which the mind entertains itself, whilst it is continually being aroused by the variety which strikes the eye. An illustration is afforded, _e.g._ by the sight of the changing shapes of a fire on the hearth or of a rippling brook; neither of these has beauty, but they bring with them a charm for the Imagination, because they entertain it in free play."
+    }
+  ],
+  "anchors": {
+    "kant-disinterested-beauty": {
+      "paragraphId": "p0008",
+      "start": 6,
+      "end": 80,
+      "quote": "The satisfaction which determines the judgement of taste is disinterested.",
+      "match": "punctuation-insensitive"
+    },
+    "kant-purposiveness-without-purpose": {
+      "paragraphId": "p0060",
+      "start": 565,
+      "end": 787,
+      "quote": "There can be, then, purposiveness without purpose, so far as we do not place the causes of this form in a will, but yet can only make the explanation of its possibility intelligible to ourselves by deriving it from a will.",
+      "match": "normalized-exact"
+    }
+  }
+}

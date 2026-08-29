@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-capital-volume-i-chapter-26-c01da9c1",
+  "title": "章 26",
+  "englishTitle": "Chapter 26",
+  "work": "《资本论》第一卷",
+  "englishWork": "Capital, Volume I",
+  "locator": "章 26",
+  "englishLocator": "Chapter 26",
+  "version": "Wikisource 公版英文文本，《资本论》第一卷第 26 章，Moore、Aveling 与 Untermann 英译",
+  "englishVersion": "Wikisource public-domain English text, Capital, Volume I, Chapter 26, trans. Moore, Aveling, and Untermann",
+  "sourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_26",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_26",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Das+Kapital+%28Moore%2C+1906%29%2FChapter+26&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "4a3857b74e15fc121a54bc6f1979c2e40dacc0ed71737c13ad6c32579d90bb05"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "745e3667b60cd10b88fb6033e23fe1c15abdabeafe3dfb3747158f660d293d55",
+  "inputHash": "79b5766804f7306ca613562fcd5ac67c096bc4e0f91684e37517e35caee09ea8",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER XXVI."
+    },
+    {
+      "id": "p0002",
+      "text": "THE SECRET OF PRIMITIVE ACCUMULATION."
+    },
+    {
+      "id": "p0003",
+      "text": "We have seen how money is changed into capital; how through capital surplus-value is made, and from surplus value more capital. But the accumulation of capital presupposes surplus-value; surplus-value presupposes capitalistic production; capitalistic production presupposes the pre-existence of considerable masses of capital and of labour-power in the hands of producers of commodities. The whole movement, therefore, seems to turn in a vicious circle, out of which we can only get by supposing a primitive accumulation (previous accumulation of Adam Smith) preceding capitalistic accumulation; an accumulation not the result of the capitalist mode of production, but its starting point."
+    },
+    {
+      "id": "p0004",
+      "text": "This primitive accumulation plays in Political Economy about the same part as original sin in theology. Adam bit the apple, and thereupon sin fell on the human race. Its origin is supposed to be explained when it is told as an anecdote of the past. In times long gone by there were two sorts of people; one, the diligent, intelligent, and, above all, frugal élite; the other, lazy rascals, spending their substance, and more, in riotous living. The legend of theological original sin tells us certainly how man came to be condemned to eat his bread in the sweat of his brow; but the history of economic original sin reveals to us that there are people to whom this is by no means essential. Never mind! Thus it came to pass that the former sort accumulated wealth, and the latter sort had at last nothing to sell except their own skins. And from this original sin dates the poverty of the great majority that, despite all its labour, has up to now nothing to sell but itself, and the wealth of the few that increases constantly although they have long ceased to work. Such insipid childishness is every day preached to us in the defence of property. M. Thiers, e.g. , had the assurance to repeat it with all the solemnity of a statesman, to the French people, once so spirituel . But as soon as the question of property crops up, it becomes a sacred duty to proclaim the intellectual food of the infant as the one thing fit for all ages and for all stages of development. In actual history it is notorious that conquest, enslavement, robbery, murder, briefly force, play the great part. In the tender annals of Political Economy, the idyllic reigns from time immemorial. Right and “labour” were from all time the sole means of enrichment, the present year of course always excepted. As a matter of fact, the methods of primitive accumulation are anything but idyllic."
+    },
+    {
+      "id": "p0005",
+      "text": "In themselves, money and commodities are no more capital than are the means of production and of subsistence. They want transforming into capital. But this transformation itself can only take place under certain circumstances that centre in this, viz., that two very different kinds of commodity-possessors must come face to face and into contact; on the one hand, the owners of money, means of production, means of subsistence, who are eager to increase the sum of values they possess, by buying other people’s labour-power; on the other hand, free labourers, the sellers of their own labour-power, and therefore the sellers of labour. Free labourers, in the double sense that neither they themselves form part and parcel of the means of production, as in the case of slaves, bondsmen, &c., nor do the means of production belong to them, as in the case of peasant-proprietors; they are, therefore, free from, unencumbered by, any means of production of their own. With this polarisation of the market for commodities, the fundamental conditions of capitalist production are given. The capitalist system presupposes the complete separation of the labourers from all property in the means by which they can realise their labour. As soon as capitalist production is once on its own legs, it not only maintains this separation, but reproduces it on a continually extending scale. The process, therefore, that clears the way for the capitalist system, can be none other than the process which takes away from the labourer the possession of his means of production; a process that transforms, on the one hand, the social means of subsistence and of production into capital, on the other, the immediate producers into wage-labourers. The so-called primitive accumulation, therefore, is nothing else than the historical process of divorcing the producer from the means of production. It appears as primitive, because it forms the pre-historic stage of capital and of the mode of production corresponding with it."
+    },
+    {
+      "id": "p0006",
+      "text": "The economic structure of capitalistic society has grown out of the economic structure of feudal society. The dissolution of the latter set free the elements of the former."
+    },
+    {
+      "id": "p0007",
+      "text": "The immediate producer, the labourer, could only dispose of his own person after he had ceased to be attached to the soil and ceased to be the slave, serf, or bondman of another. To become a free seller of labour-power, who carries his commodity wherever he finds a market, he must further have escaped from the regime of the guilds, their rules for apprentices and journeymen, and the impediments of their labour regulations. Hence, the historical movement which changes the producers into wage-workers, appears, on the one hand, as their emancipation from serfdom and from the fetters of the guilds, and this side alone exists for our bourgeois historians. But, on the other hand, these new freedmen became sellers of themselves only after they had been robbed of all their own means of production, and of all the guarantees of existence afforded by the old feudal arrangements. And the history of this, their expropriation, is written in the annals of mankind in letters of blood and fire."
+    },
+    {
+      "id": "p0008",
+      "text": "The industrial capitalists, these new potentates, had on their part not only to displace the guild masters of handicrafts, but also the feudal lords, the possessors of the sources of wealth. In this respect their conquest of social power appears as the fruit of a victorious struggle both against feudal lordship and its revolting prerogatives, and against the guilds and the fetters they laid on the free development of production and the free exploitation of man by man. The chevaliers d’industrie, however, only succeed in supplanting the chevaliers of the sword by making use of events of which they themselves were wholly innocent. They have risen by means as vile as those by which the Roman freed-man once on a time made himself the master of his patronus ."
+    },
+    {
+      "id": "p0009",
+      "text": "The starting-point of the development that gave rise to the wage-labourer as well as to the capitalist, was the servitude of the labourer. The advance consisted in a change of form of this servitude, in the transformation of feudal exploitation into capitalist exploitation. To understand its march, we need not, go back very far. Although we come across the first beginnings of capitalist production as early as the 14th or 15th century, sporadically, in certain towns of the Mediterranean, the capitalistic era dates from the 16th century. Wherever it appears, the abolition of serfdom has been long effected, and the highest development of the middle ages, the existence of sovereign towns, has been long on the wane."
+    },
+    {
+      "id": "p0010",
+      "text": "In the history of primitive accumulation, all revolutions are epoch-making that act as levers for the capitalist class in course of formation; but, above all, those moments when great, masses of men are suddenly and forcibly torn from their means of subsistence, and hurled as free and “unattached” proletarians on the labour market. The expropriation of the agricultural producer, of the peasant, from the soil, is the basis of the whole process. The history of this expropriation, in different countries, assumes different aspects, and runs through its various phases in different orders of succession, and at different periods. In England alone, which we take as our example, has it the classic form. [ 1 ]"
+    },
+    {
+      "id": "p0011",
+      "text": "↑ In Italy, where capitalistic production developed earliest, the dissolution of serfdom also took place earlier than elsewhere. The serf was emancipated in that country before he had acquired any prescriptive right to the soil. His emancipation at once transformed him into a free proletarian, who, moreover, found his master ready waiting for him in the towns, for the most part handed down as legacies from the Roman time. When the revolution of the world-market, about the end of the 15th century, annihilated Northern Italy's commercial supremacy, a movement in the reverse direction set in. The labourers of the towns were driven en masse into the country, and gave an impulse, never before seen, to the petite culture , carried on in the form of gardening."
+    }
+  ],
+  "anchors": {
+    "marx-primitive-accumulation": {
+      "paragraphId": "p0005",
+      "start": 1728,
+      "end": 2005,
+      "quote": "The so-called primitive accumulation, therefore, is nothing else than the historical process of divorcing the producer from the means of production. It appears as primitive, because it forms the pre-historic stage of capital and of the mode of production corresponding with it.",
+      "match": "normalized-exact"
+    }
+  }
+}

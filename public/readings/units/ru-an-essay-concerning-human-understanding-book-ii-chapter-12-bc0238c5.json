@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-essay-concerning-human-understanding-book-ii-chapter-12-bc0238c5",
+  "title": "卷 II · 章 12",
+  "englishTitle": "Book II · Chapter 12",
+  "work": "《人类理解论》",
+  "englishWork": "An Essay Concerning Human Understanding",
+  "locator": "卷 II · 章 12",
+  "englishLocator": "Book II · Chapter 12",
+  "version": "English Philosophical Texts Online 1700 年第四版校订文本，《人类理解论》II.12.1；卡片以省略号标示中间删节",
+  "englishVersion": "English Philosophical Texts Online revised fourth-edition copytext (1700), An Essay Concerning Human Understanding, II.12.1; the card marks its internal omissions with ellipses",
+  "sourceUrl": "https://englishphilosophy.org/locke/ehu/2/12",
+  "preparedSourceUrl": "https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_2/Chapter_XII",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_2/Chapter_XII",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=An+Essay+Concerning+Human+Understanding+%28Troutman+%26+Hayes+1853%29%2FBook+2%2FChapter+XII&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "7aac22d44b2a092002b7ca26e4c37f23f0210bea8bd34d5e650dba72a79a0460"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "3618c16606ce434f8ba9eea550ea16e8698ba59795c7aa4f1ad8241fe51a3b43",
+  "inputHash": "93493747dc40433aa8a31e77cf612456d00c84017706da86959a6fbe957229bc",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "1. Made by the mind out of simple ones. We have hitherto considered those ideas, in the reception whereof the mind is only passive, which are those simple ones received from sensation and reflection before mentioned, whereof the mind cannot make one to itself, nor have any idea which does not wholly consist of them. But as the mind is wholly passive in the reception of all its simple ideas, so it exerts several acts of its own, whereby out of its simple ideas, as the materials and foundations of the rest, the others are framed. The acts of the mind, wherein it exerts its power over its simple ideas, are chiefly these three : (1) Combining several simple ideas into one compound one ; and thus all complex ideas are made. (2) The second is bringing two ideas, whether simple or complex, together, and setting them by one another, so as to take a view of them at once, without uniting them into one ; by which way it gets all its ideas of relations. (3) The third is separating them from all other ideas that accompany them in their real existence : this is called abstraction : and thus all its general ideas are made. This shows man’s power, and its ways of operation, to be much the same in the material and intellectual world. For the materials in both being such as he has no power over, either to make or destroy, all that man can do is either to unite them together, or to set them by one another, or wholly separate them. I shall here begin with the first of these in the consideration of complex ideas, and come to the other two in their due places. As simple ideas are observed to exist in several combinations united together, so the mind has a power to consider several of them united together as one idea ; and that not only as they are united in external objects, but as itself has joined them together. Ideas thus made up of several simple ones put together, I call complex ; – such as are beauty, gratitude, a man, an army, the universe ; which, though complicated of various simple ideas, or complex ideas made up of simple ones, yet are, when the mind pleases, considered each by itself, as one entire thing, and signified by one name."
+    },
+    {
+      "id": "p0002",
+      "text": "2. Made voluntarily. In this faculty of repeating and joining together its ideas, the mind has great power in varying and multiplying the objects of its thoughts, infinitely beyond what sensation or reflection furnished it with : but all this still confined to those simple ideas which it received from those two sources, and which are the ultimate materials of all its compositions. For simple ideas are all from things themselves, and of these the mind can have no more, nor other than what are suggested to it. It can have no other ideas of sensible qualities than what come from without by the senses ; nor any ideas of other kind of operations of a thinking substance, than what it finds in itself But when it has once got these simple ideas, it is not confined barely to observation, and what offers itself from without ; it can, by its own power, put together those ideas it has, and make new complex ones, which it never received so united."
+    },
+    {
+      "id": "p0003",
+      "text": "3. Complex ideas are either of modes, substances, or relations. Complex ideas, however compounded and decompounded, though their number be infinite, and the variety endless, wherewith they fill and entertain the thoughts of men ; yet I think they may be all reduced under these three heads : –"
+    },
+    {
+      "id": "p0004",
+      "text": "1. Modes."
+    },
+    {
+      "id": "p0005",
+      "text": "2. Substances."
+    },
+    {
+      "id": "p0006",
+      "text": "3. Relations."
+    },
+    {
+      "id": "p0007",
+      "text": "4. Ideas of modes. First, Modes I call such complex ideas which, however compounded, contain not in them the supposition of subsisting by themselves, but are considered as dependences on, or affections of substances ; – such as are the ideas signified by the words triangle, gratitude, murder, &c. And if in this I use the word mode in somewhat a different sense from its ordinary signification, I beg pardon ; it being unavoidable in discourses, differing from the ordinary received notions, either to make new words, or to use old words in somewhat a new signification ; the later whereof, in our present case, is perhaps the more tolerable of the two."
+    },
+    {
+      "id": "p0008",
+      "text": "5. Simple and mixed modes of simple ideas. Of these modes, there are two sorts which deserve distinct consideration :"
+    },
+    {
+      "id": "p0009",
+      "text": "First, there are some which are only variations, or different combinations of the same simple idea, without the mixture of any other ; – as a dozen, or score ; which are nothing but the ideas of so many distinct units added together, and these I call simple modes as being contained within the bounds of one simple idea."
+    },
+    {
+      "id": "p0010",
+      "text": "Secondly, there are others compounded of simple ideas of several kinds, put together to make one complex one ; – v.g. beauty, consisting of a certain composition of colour and figure, causing delight to the beholder ; theft, which being the concealed change of the possession of anything, without the consent of the proprietor, contains, as is visible, a combination of several ideas of several kinds : and these I call mixed modes."
+    },
+    {
+      "id": "p0011",
+      "text": "6. Ideas of substances, single or collective. Secondly, the ideas of Substances are such combinations of simple ideas as are taken to represent distinct particular things subsisting by themselves ; the supposed or confused idea of substance, such as it is, is always the first and chief Thus if to substance be joined the simple idea of a certain dull whitish colour, with certain degrees of weight, hardness, ductility, and fusibility, we have the idea of lead ; and a combination of the ideas of a certain sort of figure, with the powers of motion, thought and reasoning, joined to substance, the ordinary idea of a man. Now of substances also, there are two sorts of ideas : – one of single substances, as they exist separately, as of a man or a sheep ; the other of several of those put together, as an army of men, or flock of sheep – which collective ideas of several substances thus put together are as much each of them one single idea as that of a man or an unit."
+    },
+    {
+      "id": "p0012",
+      "text": "7. Ideas of relation. Thirdly, the last sort of complex ideas is that we call Relation, which consists in the consideration and comparing one idea with another."
+    },
+    {
+      "id": "p0013",
+      "text": "Of these several kinds we shall treat in their order."
+    },
+    {
+      "id": "p0014",
+      "text": "8. The abstrusest ideas we can have are all from two sources. If we trace the progress of our minds, and with attention observe how it repeats, adds together, and unites its simple ideas received from sensation or reflection, it will lead us further than at first perhaps we should have imagined. And, I believe, we shall find, if we warily observe the originals of our notions, that even the most abstruse ideas, how remote soever they may seem from sense, or from any operations of our own minds, are yet only such as the understanding frames to itself, by repeating and joining together ideas that it had either from objects of sense, or from its own operations about them : so that those even large and abstract ideas are derived from sensation or reflection, being no other than what the mind, by the ordinary use of its own faculties, employed about ideas received from objects of sense, or from the operations it observes in itself about them, may, and does, attain unto."
+    },
+    {
+      "id": "p0015",
+      "text": "This I shall endeavour to show in the ideas we have of space, time, and infinity, and some few others that seem the most remote, from those originals."
+    }
+  ],
+  "anchors": {
+    "locke-complex-ideas-made": {
+      "paragraphId": "p0001",
+      "start": 318,
+      "end": 533,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0001",
+          "start": 318,
+          "end": 533,
+          "text": "But as the mind is wholly passive in the reception of all its simple ideas, so it exerts several acts of its own, whereby out of its simple ideas, as the materials and foundations of the rest, the others are framed."
+        },
+        {
+          "paragraphId": "p0001",
+          "start": 633,
+          "end": 802,
+          "text": "(1) Combining several simple ideas into one compound one ; and thus all complex ideas are made. (2) The second is bringing two ideas, whether simple or complex, together"
+        },
+        {
+          "paragraphId": "p0001",
+          "start": 907,
+          "end": 1125,
+          "text": "by which way it gets all its ideas of relations. (3) The third is separating them from all other ideas that accompany them in their real existence : this is called abstraction : and thus all its general ideas are made."
+        }
+      ],
+      "quote": "But as the Mind is wholly Passive in the reception of all its simple Ideas, so it exerts several acts of its own, whereby out of its simple Ideas, as the Materials and Foundations of the rest, the others are framed. ... (1) Combining several simple Ideas into one compound one; and thus all Complex Ideas are made. (2) The second is bringing two Ideas, whether simple or complex, together ... by which way it gets all its Ideas of Relations. (3) The third is separating them from all other Ideas that accompany them in their real existence; this is called Abstraction: And thus all its General Ideas are made."
+    }
+  }
+}

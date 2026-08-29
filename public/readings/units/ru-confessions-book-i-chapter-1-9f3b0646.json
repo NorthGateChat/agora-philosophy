@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-confessions-book-i-chapter-1-9f3b0646",
+  "title": "卷 I · 章 1",
+  "englishTitle": "Book I · Chapter 1",
+  "work": "《忏悔录》",
+  "englishWork": "Confessions",
+  "locator": "卷 I · 章 1",
+  "englishLocator": "Book I · Chapter 1",
+  "version": "New Advent，J. G. Pilkington 1887 年 NPNF 公版英译，《忏悔录》第一卷第 1 章第 1 节",
+  "englishVersion": "New Advent, J. G. Pilkington public-domain translation in NPNF (1887), Confessions I.1.1",
+  "sourceUrl": "https://www.newadvent.org/fathers/110101.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/110101.htm",
+    "contentType": "text/html",
+    "sha256": "cf82810b5277005ddf080c0b68b5519448939b877a125e9d2e2e713226b0d5f7"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "9bbe04ec14a914693c4f1a0329dda0548e314feeeae8245f9068efbeee358e21",
+  "inputHash": "ad36757e4ca079b080cc76c1c329b47c314a790d8f14375c8f7792a255ede329",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 1. He Proclaims the Greatness of God, Whom He Desires to Seek and Invoke, Being Awakened by Him."
+    },
+    {
+      "id": "p0002",
+      "text": "1. Great are You, O Lord, and greatly to be praised; great is Your power, and of Your wisdom there is no end. And man, being a part of Your creation, desires to praise You  man, who bears about with him his mortality, the witness of his sin , even the witness that You resist the proud , — yet man, this part of Your creation, desires to praise You. You move us to delight in praising You; for You have made us for Yourself, and our hearts are restless until they rest in You . [cor nostrum inquietum est donec requiescat in Te] Lord, teach me to know and understand which of these should be first: to call on You, or to praise You; and likewise to know You, or to call on You. But who calls upon You without knowing You? For he that knows You not may call upon You as other than You are. Or perhaps we call on You that we may know You. But how shall they call on Him in whom they have not believed ? Or how shall they believe without a preacher? Romans 10:14 And those who seek the Lord shall praise Him. For those who seek shall find Him, Matthew 7:7 and those who find Him shall praise Him. Let me seek You, Lord, in calling on You, and call on You in believing in You; for You have been preached unto us. O Lord, my faith calls on You — that faith which You have imparted to me, which You have breathed into me through the incarnation of Your Son, through the ministry of Your preacher ."
+    }
+  ],
+  "anchors": {
+    "augustine-restless-heart": {
+      "paragraphId": "p0002",
+      "start": 395,
+      "end": 480,
+      "quote": "You have made us for Yourself, and our hearts are restless until they rest in You.",
+      "match": "normalized-exact"
+    }
+  }
+}

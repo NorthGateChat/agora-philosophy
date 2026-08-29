@@ -1,0 +1,423 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:39:33Z",
+  "status": "integrated-45-units-71-thoughts",
+  "purpose": "Isolated merge proposal for public-domain English reading units on Project Gutenberg, English Wikisource, MIT Classics, Econlib, and OLL. This file does not mutate the active overrides, generated bodies, or source inventory.",
+  "scope": {
+    "inventoryPath": "research/reading-units/inventory.json",
+    "bodyAuditPath": "research/reading-units/body-audit.json",
+    "startingMissingCount": 149,
+    "currentAuditMissingCountAtValidationStart": 128,
+    "candidateUnitCount": 78,
+    "candidateThoughtCount": 135,
+    "directReadyUnitCount": 14,
+    "directReadyThoughtCount": 35,
+    "proposedOverrideUnitCount": 31,
+    "proposedOverrideThoughtCount": 36,
+    "totalReadyUnitCount": 45,
+    "totalReadyThoughtCount": 71,
+    "remainingUnrecoveredUnitCount": 33,
+    "remainingUnrecoveredThoughtCount": 64,
+    "derivedArtifactCount": 5,
+    "largestDerivedArtifactBytes": 531666,
+    "maximumAllowedDerivedArtifactBytes": 614400,
+    "buildRun": false
+  },
+  "includedHosts": [
+    "www.gutenberg.org",
+    "gutenberg.org",
+    "en.wikisource.org",
+    "classics.mit.edu",
+    "www.econlib.org",
+    "econlib.org",
+    "oll.libertyfund.org"
+  ],
+  "exclusions": [
+    "Internet Archive and scan-only PDF sources",
+    "modern papers",
+    "Chinese-source and Indian-source specialist clusters"
+  ],
+  "readyWithoutOverride": [
+    { "unitId": "ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9", "thoughtCount": 1 },
+    { "unitId": "ru-capital-volume-i-chapter-13-f639cec0", "thoughtCount": 1 },
+    { "unitId": "ru-leviathan-part-i-chapter-xiv-8915f0c9", "thoughtCount": 1 },
+    { "unitId": "ru-novum-organum-book-i-d91738cb", "thoughtCount": 9 },
+    { "unitId": "ru-phaedo-whole-work-bcd1301a", "thoughtCount": 2 },
+    { "unitId": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-general-scholium-416eef44", "thoughtCount": 1 },
+    { "unitId": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65", "thoughtCount": 3 },
+    { "unitId": "ru-physics-book-ii-chapter-3-45a54ec3", "thoughtCount": 1 },
+    { "unitId": "ru-platos-gorgias-whole-work-6f2011a3", "thoughtCount": 2 },
+    { "unitId": "ru-politics-book-i-chapter-2-6df8fc87", "thoughtCount": 1 },
+    { "unitId": "ru-principal-doctrines-whole-work-dff45861", "thoughtCount": 10 },
+    { "unitId": "ru-the-prince-chapter-xxv-b4879fb8", "thoughtCount": 1 },
+    { "unitId": "ru-the-republic-book-iii-baa7aaf9", "thoughtCount": 1 },
+    { "unitId": "ru-tractatus-logico-philosophicus-major-proposition-4-e3b98d31", "thoughtCount": 1 }
+  ],
+  "sourceOverrideProposal": {
+    "schemaVersion": 1,
+    "bySourceUrl": {},
+    "byUnitId": {
+      "ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b": {
+        "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2"
+      },
+      "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db": {
+        "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14"
+      },
+      "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a": {
+        "startPattern": "^LAWS OF BEHAVIOR IN GENERAL$",
+        "endPattern": "^THE EVOLUTION OF BEHAVIOR$"
+      },
+      "ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a": {
+        "startPattern": "^REASONING OR INFERENCE$",
+        "endPattern": "^IMITATION$"
+      },
+      "ru-capital-volume-i-chapter-vii-f8f21de9": {
+        "url": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7"
+      },
+      "ru-cosmos-volume-i-introduction-introduction-7f623ec4": {
+        "startPattern": "^INTRODUCTION\\.$",
+        "endPattern": "^This material taken from pages 79 to 111$"
+      },
+      "ru-cosmos-volume-i-preface-preface-0978794c": {
+        "startPattern": "^p 7 AUTHOR'S PREFACE\\.",
+        "endPattern": "^This material taken from pages 13-22\\b"
+      },
+      "ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5": {
+        "startPattern": "^FIRST PART\\. TRANSCENDENTAL ÆSTHETIC\\.$",
+        "endPattern": "^Second Part—TRANSCENDENTAL LOGIC$"
+      },
+      "ru-discourses-book-ii-chapter-17-af126ead": {
+        "startPattern": "^HOW WE MUST ADAPT PRECONCEPTIONS TO PARTICULAR CASES[.—-]",
+        "endPattern": "^HOW WE SHOULD STRUGGLE AGAINST APPEARANCES[.—-]"
+      },
+      "ru-discourses-book-ii-chapter-18-e26bc395": {
+        "startPattern": "^HOW WE SHOULD STRUGGLE AGAINST APPEARANCES[.—-]",
+        "endPattern": "^OF INCONSISTENCY[.—-]"
+      },
+      "ru-elements-of-folk-psychology-introduction-introduction-4b0133a0": {
+        "startPattern": "^INTRODUCTION$",
+        "endPattern": "^CHAPTER I$"
+      },
+      "ru-ethics-part-ii-3f8d8997": {
+        "localPath": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+        "startPattern": "^Part II\\.$",
+        "endPattern": "^PART III\\.$"
+      },
+      "ru-ethics-part-iv-67d79bde": {
+        "localPath": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+        "startPattern": "^PART IV:$",
+        "endPattern": "^PART V:$"
+      },
+      "ru-ethics-part-v-bf548558": {
+        "localPath": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+        "startPattern": "^PART V:$"
+      },
+      "ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1": {
+        "startPattern": "^PRELIMINARY EXPECTORATION$",
+        "endPattern": "^PREPARATION FOR A CHRISTIAN LIFE$"
+      },
+      "ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc": {
+        "startPattern": "^PREFACE\\.$",
+        "endPattern": "^CHAPTER I\\.$"
+      },
+      "ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab": {
+        "startPattern": "^ON TRUTH AND FALSITY IN THEIR ULTRAMORAL SENSE$",
+        "endPattern": "^2$"
+      },
+      "ru-opticks-book-iii-2a775caf": {
+        "localPath": "research/source-cache/reading-unit-derived/newton-opticks-1718-book-iii.txt",
+        "startPattern": "^THIRD BOOK$",
+        "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+      },
+      "ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f": {
+        "startPattern": "^AUTHOR’S PREFACE\\.$",
+        "endPattern": "^CONTENTS\\.$"
+      },
+      "ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3": {
+        "url": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64"
+      },
+      "ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1": {
+        "startPattern": "^\\[Sidenote: Stars\\.",
+        "endPattern": "^\\[Sidenote: Discovery of Jupiter’s satellites"
+      },
+      "ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8": {
+        "startPattern": "^\\[Sidenote: Discovery of Jupiter’s satellites",
+        "endPattern": "^A PART OF THE PREFACE TO KEPLER’S DIOPTRICS$"
+      },
+      "ru-the-souls-of-black-folk-chapter-i-5be293cf": {
+        "startPattern": "^I\\. Of Our Spiritual Strivings$",
+        "endPattern": "^II\\. Of the Dawn of Freedom$"
+      },
+      "ru-the-souls-of-black-folk-chapter-iii-941e14ab": {
+        "localPath": "research/source-cache/reading-unit-derived/du-bois-souls-chapter-iii.txt",
+        "startPattern": "^III\\. Of Mr\\. Booker T\\. Washington and Others$",
+        "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+      },
+      "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b": {
+        "localPath": "research/source-cache/reading-unit-derived/tractatus-major-propositions-2-and-4.txt",
+        "startPattern": "^TRACTATUS — MAJOR PROPOSITION 2$",
+        "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+      },
+      "ru-toward-perpetual-peace-article-second-12cc512d": {
+        "startPattern": "^SECOND DEFINITIVE ARTICLE OF PERPETUAL PEACE$",
+        "endPattern": "^THIRD DEFINITIVE ARTICLE OF PERPETUAL PEACE$"
+      },
+      "ru-toward-perpetual-peace-article-third-870b0243": {
+        "startPattern": "^THIRD DEFINITIVE ARTICLE OF PERPETUAL PEACE$",
+        "endPattern": "^FIRST SUPPLEMENT$"
+      },
+      "ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5": {
+        "startPattern": "^THE FOUR GREAT ERRORS$",
+        "endPattern": "^THINGS THE GERMANS LACK$"
+      },
+      "ru-principles-of-economics-book-iii-chapter-4-f9738743": {
+        "localPath": "research/source-cache/reading-unit-derived/marshall-principles-book-iii-chapter-iv.txt",
+        "startPattern": "^THE ELASTICITY OF WANTS\\.$",
+        "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+      },
+      "ru-principles-of-economics-book-v-chapter-3-33bfefbb": {
+        "url": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31"
+      },
+      "ru-the-purchasing-power-of-money-chapter-2-63622053": {
+        "url": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6"
+      }
+    }
+  },
+  "rejectedOverrideCandidates": [
+    {
+      "unitId": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+      "candidate": {
+        "url": "https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_4/Chapter_I"
+      },
+      "reason": "The 1853 Wikisource text reads ‘connexion of and agreement’; the registered card silently removes ‘of’. Gutenberg 10616 has the same substantive difference."
+    },
+    {
+      "unitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+      "candidate": {
+        "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=4"
+      },
+      "reason": "The chapter route is correct, but the Econlib 1823 text omits ‘be’ in ‘they may all of them termed sanctions’; the registered card silently supplies it and also normalizes punctuation."
+    },
+    {
+      "unitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+      "candidate": {
+        "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=5"
+      },
+      "reason": "The route is correct, but the registered card linearizes separated numbered lists and silently removes the edition's extra ‘to’ in ‘with reference to each of whom to the value’; it is not an exact source span."
+    },
+    {
+      "unitId": "ru-discourses-book-i-chapter-2-730b2536",
+      "candidate": {
+        "startPattern": "^HOW A MAN ON EVERY OCCASION CAN MAINTAIN HIS PROPER CHARACTER[.—-]",
+        "endPattern": "^HOW A MAN SHOULD PROCEED FROM THE PRINCIPLE OF GOD BEING THE FATHER OF"
+      },
+      "reason": "The first ellipsis segment matches, but the registered second segment replaces the source's explicit self-harm wording with the euphemism ‘go and do it’. Treat the card as an editorial paraphrase or restore a faithful, safely presented excerpt."
+    },
+    {
+      "unitId": "ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "candidate": {
+        "startPattern": "^VI$",
+        "endPattern": "^VII$"
+      },
+      "reason": "One of two cards matches. The whole-organization card silently omits the parenthetical ‘(which are usually neglected)’ from the first registered sentence."
+    },
+    {
+      "unitId": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "candidate": {
+        "url": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+        "startPattern": "^§1\\. The principles which have been set forth in the first part of this treatise",
+        "endPattern": "^\\*11$"
+      },
+      "reason": "The chapter route and boundaries are correct, but the card joins two opening sentences to the following paragraph while silently omitting the remainder of the first paragraph; an ellipsis is required for exact source alignment."
+    },
+    {
+      "unitId": "ru-second-treatise-of-government-chapter-v-b11ade32",
+      "candidate": {
+        "startPattern": "^OF PROPERTY\\.$",
+        "endPattern": "^OF PATERNAL POWER\\.$"
+      },
+      "reason": "The registered card has the historical spelling ‘joyned’; the registered Gutenberg edition reads ‘joined’. This is an edition mismatch rather than a boundary failure."
+    },
+    {
+      "unitId": "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "candidate": {
+        "startPattern": "^\\[Sidenote: The Moon\\.",
+        "endPattern": "^\\[Sidenote: Stars\\."
+      },
+      "reason": "The registered sentence is exact in the book's introductory synopsis, before the named Moon-observations section. The locator and desired natural-unit boundary therefore disagree."
+    }
+  ],
+  "derivedArtifacts": [
+    {
+      "unitId": "ru-opticks-book-iii-2a775caf",
+      "naturalUnit": "Isaac Newton, Opticks, Book III",
+      "sourcePath": "research/source-cache/completion-mao-science/newton-opticks-1718.txt",
+      "outputPath": "research/source-cache/reading-unit-derived/newton-opticks-1718-book-iii.txt",
+      "outputBytes": 135980,
+      "outputSha256": "58b4134c8d1ae14f4de14fad3f7f0f85ed89e8a1a503db26dfa983b8729565a8",
+      "derivation": "Decoded the Project Gutenberg source's declared ISO-8859 text as Latin-1 instead of UTF-8, selected the complete original Book III span, normalized CRLF to LF, and appended one deterministic exclusive end marker. This restores printed forms such as ‘Phænomena’ without editorially changing the text."
+    },
+    {
+      "unitId": "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "naturalUnit": "Ludwig Wittgenstein, Tractatus Logico-Philosophicus, complete major proposition groups 2 and 4",
+      "sourceUrls": [
+        "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/2",
+        "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4"
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/tractatus-major-propositions-2-and-4.txt",
+      "outputBytes": 40684,
+      "outputSha256": "65312dfee2a40e3dc3d9780d7205d6d39526b8285f4851674ee587b06636bd60",
+      "derivation": "Extracted the complete proposition-group text from both registered Wikisource segments, removed site navigation and license furniture, retained every numbered proposition in order, inserted deterministic segment headings, and appended one exclusive end marker."
+    },
+    {
+      "unitId": "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "naturalUnit": "Alfred Marshall, Principles of Economics, Book III, Chapter IV, including chapter notes",
+      "sourceUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=13",
+      "outputPath": "research/source-cache/reading-unit-derived/marshall-principles-book-iii-chapter-iv.txt",
+      "outputBytes": 36534,
+      "outputSha256": "16c622977515acbbcc2232dad7cca72132686adbead8071d13b779f92dc18427",
+      "derivation": "Selected Econlib's complete chapter-reader region, retained the full chapter and numbered notes, removed only site controls and duplicated footnote-link markers, converted line-breaking BR elements inside printed sentences to spaces, and serialized the production extractor's complete paragraph sequence as plain text."
+    },
+    {
+      "unitId": "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "naturalUnit": "W. E. B. Du Bois, The Souls of Black Folk, Chapter III",
+      "sourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "outputPath": "research/source-cache/reading-unit-derived/du-bois-souls-chapter-iii.txt",
+      "outputBytes": 28648,
+      "outputSha256": "462f6418da2b8a411a26495b14e167d2cbf54be8fc542e5106fbca5c59b7507d",
+      "derivation": "Selected the complete Chapter III paragraph span from Gutenberg's plain text and linearized its four consecutive displayed list lines into one prose paragraph without omitting or changing words; appended one exclusive end marker."
+    },
+    {
+      "unitIds": [
+        "ru-ethics-part-ii-3f8d8997",
+        "ru-ethics-part-iv-67d79bde",
+        "ru-ethics-part-v-bf548558"
+      ],
+      "naturalUnit": "Benedict de Spinoza, Ethics, complete Elwes translation source used to bound Parts II, IV, and V",
+      "sourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "retrievalUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "outputPath": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+      "outputBytes": 531666,
+      "outputSha256": "785166353a0d9ea5003576ab0e0073a91694c618c0ee8b7df18060a7408bd255",
+      "derivation": "Byte-for-byte preservation of Gutenberg's plain-text mirror response so the verified complete public-domain source remains available when the current Gutenberg resolver prefers an uncached alternate mirror filename."
+    }
+  ],
+  "knownRegisteredTextDifferences": [
+    {
+      "unitId": "ru-enchiridion-whole-work-f7640499",
+      "unmatchedThoughtIds": ["epictetus-practice-not-display"],
+      "reason": "The current public-domain source does not contain the registered card wording as one exact span."
+    },
+    {
+      "unitId": "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "unmatchedThoughtIds": ["heraclitus"],
+      "reason": "Four registered fragments match, but the general Heraclitus card differs from this translation."
+    },
+    {
+      "unitId": "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "unmatchedThoughtIds": ["kant", "kant-autonomy-self-legislation"],
+      "reason": "One card matches the Gutenberg edition; two registered card wordings belong to a different translation or normalization."
+    },
+    {
+      "unitId": "ru-monadology-whole-work-bf71c0f6",
+      "unmatchedThoughtIds": ["leibniz", "leibniz-harmony", "leibniz-perspectives", "leibniz-windowless"],
+      "reason": "Four cards match Duncan's Wikisource translation and four registered cards use materially different English wording."
+    },
+    {
+      "unitId": "ru-on-nature-whole-work-aaa8e8ca",
+      "unmatchedThoughtIds": ["parmenides-unchanging"],
+      "reason": "Three fragments match and one registered card differs from the Wikisource translation."
+    },
+    {
+      "unitId": "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "unmatchedThoughtIds": ["psychology-foundations-ebbinghaus-meaning"],
+      "reason": "The Wikisource chapter says that the combined ties ‘give to material’ an extraordinary advantage; the registered card reorders those clauses into wording that is not an exact source span."
+    },
+    {
+      "unitId": "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "unmatchedThoughtIds": ["james-fruits-not-origins"],
+      "reason": "The registered card marks one omission with an ellipsis but silently omits another complete intervening sentence (‘No appearances ...’) before ‘Our practice’; add an ellipsis or restore the sentence."
+    },
+    {
+      "unitId": "ru-utilitarianism-chapter-ii-6f8a19dc",
+      "unmatchedThoughtIds": ["mill-higher-pleasures"],
+      "matchedThoughtIds": ["mill-happiness-as-end"],
+      "reason": "The happiness card is exact. The higher-pleasures card silently omits the clause beginning ‘and would not resign it for any quantity ...’ without a second ellipsis, so the full unit cannot pass exact-span validation."
+    }
+  ],
+  "unresolved": [
+    {
+      "unitId": "ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "reason": "The registered source is a Pasteur biography containing only a bounded speech excerpt, not the whole 1864 lecture named by the locator; a complete natural-unit body cannot be claimed from this source."
+    }
+  ],
+  "remainingUnrecovered": {
+    "unitCount": 33,
+    "thoughtCount": 64,
+    "composition": {
+      "rejectedOverrideCandidates": {
+        "unitCount": 8,
+        "thoughtCount": 9
+      },
+      "otherUnresolvedUnits": {
+        "unitCount": 25,
+        "thoughtCount": 55
+      }
+    },
+    "auditReport": "research/reading-units/public-web-recovery-unhandled-current-dry-run.json",
+    "auditReportAdjustment": "The audit report contains 30 units / 63 thoughts, including five units / eight thoughts subsequently recovered by the accepted Spinoza, Opticks, and Tractatus proposals. Adding the eight rejected candidates / nine thoughts gives the final 33 units / 64 thoughts still unresolved.",
+    "primaryFailureClasses": [
+      "registered card wording differs from the registered public-domain edition or translation",
+      "registered card silently omits intervening source text without an ellipsis",
+      "registered locator does not contain the quote or overclaims the natural source boundary",
+      "registered source route resolves to an incomplete or unsuitable representation"
+    ]
+  },
+  "validation": {
+    "baselineReport": "research/reading-units/public-web-recovery-dry-run.json",
+    "baselineSummary": {
+      "considered": 78,
+      "wouldWrite": 14,
+      "failed": 64,
+      "thoughts": 135,
+      "anchorsMatched": 35,
+      "anchorsUnmatched": 0
+    },
+    "candidateOverrideReport": "research/reading-units/public-web-recovery-final-dry-run.json",
+    "candidateOverrideSummary": {
+      "considered": 45,
+      "wouldWrite": 45,
+      "failed": 0,
+      "thoughts": 71,
+      "anchorsMatched": 71,
+      "anchorsUnmatched": 0
+    },
+    "mode": "offline dry-run using isolated temporary inventory and overrides",
+    "unboundedNonWholeReview": {
+      "count": 4,
+      "status": "accepted",
+      "reason": "Each registered URL is already a self-contained natural-unit page: Republic Book III, Tractatus proposition group 4, Leviathan Chapter XIV, or Newton's Rules of Reasoning. No additional in-page boundary is needed."
+    },
+    "derivedArtifactHashCheck": "passed",
+    "integrationFirstWriteReport": "research/reading-units/public-web-recovery-integration-first-write.json",
+    "integrationFirstWriteSummary": {
+      "considered": 45,
+      "written": 45,
+      "failed": 0,
+      "thoughts": 71,
+      "anchorsMatched": 71,
+      "anchorsUnmatched": 0
+    },
+    "integrationFinalReport": "research/reading-units/public-web-recovery-integration-fetch.json",
+    "integrationFinalSummary": {
+      "considered": 45,
+      "written": 3,
+      "resumed": 42,
+      "failed": 0,
+      "thoughts": 71,
+      "anchorsMatched": 71,
+      "anchorsUnmatched": 0
+    },
+    "buildRun": false
+  }
+}

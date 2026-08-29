@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-confessions-book-vii-chapter-10-18070fc1",
+  "title": "卷 VII · 章 10",
+  "englishTitle": "Book VII · Chapter 10",
+  "work": "《忏悔录》",
+  "englishWork": "Confessions",
+  "locator": "卷 VII · 章 10",
+  "englishLocator": "Book VII · Chapter 10",
+  "version": "New Advent，J. G. Pilkington 1887年 NPNF 公版英译，奥古斯丁《忏悔录》第七卷第10章第16节，完整连续句",
+  "englishVersion": "New Advent, J. G. Pilkington public-domain NPNF translation (1887), Augustine, Confessions VII.10.16, complete continuous sentence",
+  "sourceUrl": "https://www.newadvent.org/fathers/110107.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/110107.htm",
+    "contentType": "text/html",
+    "sha256": "19496539b1e0d9d3b680621b2c34889c86a09dfbee1bc26107887d5726cd8906"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "086b8ea7c4db04ad9029de1a8ff5a50ac7caa7a1f94ac36b2bca3268569a422a",
+  "inputHash": "ab51d5c28f09a12692d1ede3d47be8afc1fa7dced4785bbc60ed74c8a7fa942f",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 10. Divine Things are the More Clearly Manifested to Him Who Withdraws into the Recesses of His Heart."
+    },
+    {
+      "id": "p0002",
+      "text": "16. And being thence warned to return to myself, I entered into my inward self, Thou leading me on; and I was able to do it, for You had become my helper. And I entered, and with the eye of my soul (such as it was) saw above the same eye of my soul , above my mind , the Unchangeable Light. Not this common light, which all flesh may look upon, nor, as it were, a greater one of the same kind, as though the brightness of this should be much more resplendent, and with its greatness fill up all things. Not like this was that light, but different, yea, very different from all these. Nor was it above my mind as oil is above water, nor as heaven above earth; but above it was, because it made me, and I below it, because I was made by it. He who knows the Truth knows that Light; and he that knows it knows eternity . Love knows it. O Eternal Truth, and true Love, and loved Eternity! You are my God ; to You do I sigh both night and day. When I first knew You, You lifted me up, that I might see there was that which I might see, and that yet it was not I that did see. And Thou beat back the infirmity of my sight, pouring forth upon me most strongly Your beams of light, and I trembled with love and fear ; and I found myself to be far off from You, in the region of dissimilarity, as if I heard this voice of Yours from on high: I am the food of strong men; grow, and you shall feed upon me; nor shall you convert me, like the food of your flesh, into you, but you shall be converted into me. And I learned that You correct man for iniquity, and You make my soul consume away like a spider. And I said, Is Truth, therefore, nothing because it is neither diffused through space, finite, nor infinite ? And You cried to me from afar, Yea, verily, 'I Am that I Am.' And I heard this, as things are heard in the heart, nor was there room for doubt ; and I should more readily doubt that I live than that Truth is not, which is clearly seen, being understood by the things that are made. Romans 1:20"
+    }
+  ],
+  "anchors": {
+    "augustine-immutable-truth": {
+      "paragraphId": "p0002",
+      "start": 833,
+      "end": 884,
+      "quote": "O Eternal Truth, and true Love, and loved Eternity!",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-monadology-whole-work-bf71c0f6",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《单子论》",
+  "englishWork": "Monadology",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 公版英译文本，乔治·马丁·邓肯 1890 年英译，《单子论》§§31–32；省略号标示节号边界",
+  "englishVersion": "Wikisource public-domain English translation, George Martin Duncan (1890), Monadology §§31–32; the ellipsis marks the section-number boundary",
+  "sourceUrl": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "5144e0ed102e917f6c3024ec51c5031926f33c51d4887108c836331bf5405619"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "e8399c4356ff3b8211e39782a7e5166d8b319306ca30519dc38995322a063ed4",
+  "inputHash": "48c8637a852e32e6533ae5ade337137fc75259a56eb8fcea9a13c5e736849ea6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "1. The monad of which we shall here speak is merely a simple substance, which enters into compounds; simple , that is to say, without parts."
+    },
+    {
+      "id": "p0002",
+      "text": "2. And there must be simple substances, since there are compound substances, for the compound is only a collection or aggregatum of simple substances."
+    },
+    {
+      "id": "p0003",
+      "text": "3. Now where there are no parts, neither extension, figure nor divisibility is possible. And these monads are the true atoms of nature, and, in a word, the elements of things."
+    },
+    {
+      "id": "p0004",
+      "text": "4. Dissolution also is not at all to be feared, and there is no conceivable way in which a simple substance can perish naturally."
+    },
+    {
+      "id": "p0005",
+      "text": "5. For the same reason there is no way in which a simple substance can begin naturally, since it cannot be formed by composition."
+    },
+    {
+      "id": "p0006",
+      "text": "6. Thus it may be said that the monads can only begin or end all at once , that is to say, they can only begin by creation and end by annihilation; whereas that which is compound begins or ends by parts."
+    },
+    {
+      "id": "p0007",
+      "text": "7. There is also no way of explaining how a monad can be altered or changed internally by any other creature, for nothing can be transposed within it, nor can there be conceived in it any internal movement which can be excited, directed, augmented or diminished within it as can be done in compounds, where there is change among the parts. The monads have no windows through which anything can enter or depart. The accidents cannot detach themselves or go forth from the substances, as did formerly the sensible species of the Schoolmen. Likewise neither substance nor accident can enter a monad from without."
+    },
+    {
+      "id": "p0008",
+      "text": "8. Nevertheless, the monads must have some qualities, otherwise they would not even be entities. And if simple substances did not differ at all in their qualities there would be no way of perceiving any changes in things, since what is in the compound can only come from the simple ingredients, and if the monads were without qualities they could not be distinguished the one from the other, since also they do not differ in quantity. Consequently, a plenum being supposed, each place in any movement could receive only the equivalent of what it had had before, and one state of things would not be distinguishable from another."
+    },
+    {
+      "id": "p0009",
+      "text": "9. Moreover it is necessary that each monad should differ from every other. For never in nature are two beings exactly alike and such that it is not possible to find an internal difference or one founded upon an intrinsic connotation."
+    },
+    {
+      "id": "p0010",
+      "text": "10. I take it also for granted that every created being, and consequently the created monad also, is subject to change, and even that this change is continual in each."
+    },
+    {
+      "id": "p0011",
+      "text": "11. It follows from what has just been said, that the natural changes of the monads proceed from an internal principle , since an external cause could not influence their interior."
+    },
+    {
+      "id": "p0012",
+      "text": "12. But besides the principle of change, there must be a detail of that which changes , which forms, so to speak, the specification and variety of the simple substances."
+    },
+    {
+      "id": "p0013",
+      "text": "13. This detail must involve multitude in the unity or in the simple. For since every natural change is made by degrees, something changes and something remains; consequently, there must be in the simple substance a plurality of affections and of relations, although not of parts."
+    },
+    {
+      "id": "p0014",
+      "text": "14. The transient state, which involves and represents multitude in unity or in the simple substance, is only what we call perception , which must be distinguished from apperception or from consciousness, as will appear in what follows. Here it is that the Cartesians especially failed, having made no account of the perceptions of which we are not conscious. It is this also which made them suppose that spirits only are monads and that there are no souls of brutes or of other entelechies. They, with the vulgar, have also confounded a long state of unconsciousness with death strictly speaking, and have therefore agreed with the old scholastic prejudice of entirely separate souls, and have even confirmed weaker minds in their belief in the mortality of the soul."
+    },
+    {
+      "id": "p0015",
+      "text": "15. The action of the internal principle which causes the change or the passage from one perception to another, may be called appetition; it is true that the desire cannot always completely attain to the whole perception toward which it tends, but it always attains to something of it and arrives at new perceptions."
+    },
+    {
+      "id": "p0016",
+      "text": "16. We experience in ourselves multitude in a simple substance, when we find that the most trifling thought of which we are conscious involves variety in the object. Thus all those who admit that the soul is a simple substance must also admit this multitude in the monad, and M. Bayle ought not to find in it the difficulties which he mentions in his Dictionary , article Rorarius ."
+    },
+    {
+      "id": "p0017",
+      "text": "17. We must confess, moreover, that perception and that which depends on it are inexplicable by mechanical causes , that is, by figures and motions. And, supposing that there were a machine so constructed as to cause thought, feeling and perception, we could conceive of it as enlarged and yet preserving the same proportions, so that we might enter it like a mill. And this granted, we should only find on visiting it, pieces which push one against another, but never any thing by which to explain a perception. It must be sought for, therefore, in the simple substance and not in the compound or machine. Nothing but this, also, can be found in the simple substance; and it is in this alone that all the internal actions of simple substances consist."
+    },
+    {
+      "id": "p0018",
+      "text": "18. The name of entelechies might be given to all simple substances or created monads, for they have within themselves a certain perfection (έχουσι τό έντελές); there is a certain sufficiency (αύτάρκεια) which renders them the sources of their internal actions, and so to speak, incorporeal automata."
+    },
+    {
+      "id": "p0019",
+      "text": "19. If we choose to give the name soul to everything that has perceptions and desires in the general sense which I have just explained, all simple substances or created monads may be called souls, but as feeling is something more than a simple perception, I consent that the general name of monads or entelechies shall suffice for those simple substances which have only perception, and that only those substances shall be called souls whose perception is more distinct and is accompanied by memory."
+    },
+    {
+      "id": "p0020",
+      "text": "20. For we experience in ourselves a state in which we remember nothing and have no distinguishable perceptions, as, for instance, when we fall in unconsciousness or when we are overpowered by a profound and dreamless sleep. In this state the soul does not differ sensibly from a simple monad; but as this state is not continuous and as the soul frees itself from it, it is something more than a mere monad."
+    },
+    {
+      "id": "p0021",
+      "text": "21. And it does not at all follow that therefore the simple substance is without any perception. This is indeed impossible, for the reasons mentioned above; for it cannot perish, nor can it subsist without some affection, which is nothing else than perception; but when there is a great number of minute perceptions, where nothing is distinct, we are stunned, as when we turn continually in the same direction many times in succession, whence arises a dizziness which may make us lose consciousness, and which does not allow us to see anything distinctly. So death may for a time produce this condition in animals."
+    },
+    {
+      "id": "p0022",
+      "text": "22. And as every present state of a simple substance is naturally the consequence of its preceding state, so its present is big with its future."
+    },
+    {
+      "id": "p0023",
+      "text": "23. Therefore, since on being awakened from a stupor, we are aware of our perceptions, we must have had them immediately before although we were entirely unconscious of them; for one perception can only come naturally from another perception as one motion can only come naturally from another motion."
+    },
+    {
+      "id": "p0024",
+      "text": "24. From this we see that if there were nothing distinct, nothing, so to speak, in relief and of a higher flavor, in our perceptions, we should always be in a dazed state. This is the condition of the naked monad."
+    },
+    {
+      "id": "p0025",
+      "text": "25. So also we see that nature has given to animals higher perceptions, by the pains she has taken to furnish them with organs which collect many rays of light or many undulations of air, in order to render them more efficacious by their union. There is something of the same kind in odor, in taste, in touch and perhaps in a multitude of other senses which are unknown to us. I shall presently explain how that which takes place in the soul represents that which occurs in the organs."
+    },
+    {
+      "id": "p0026",
+      "text": "26. Memory furnishes souls with a sort of consecutiveness which imitates reason, but which ought to be distinguished from it. We observe that animals, having the perception of something which strikes them and of which they have had a similar perception before, expect, through the representations of their memory, that which was associated with it in the preceding perception, and experience feelings similar to those which they had had at that time. For instance, if we show dogs a stick, they remember the pain it has caused them and whine and run."
+    },
+    {
+      "id": "p0027",
+      "text": "27. And the powerful imagination which strikes and moves them, arises either from the magnitude or the multitude of preceding perceptions. For often a strong impression produces all at once the effect of a long continued habit , or of many times repeated moderate perceptions."
+    },
+    {
+      "id": "p0028",
+      "text": "28. Men act like the brutes in so far as that the consecutiveness of their perceptions only results from the principle of memory, resembling the empirical physicians who practice without theory, and we are simple empirics in three-fourths of our actions. For example, when we expect that there will be daylight to-morrow, we are acting as empirics, because that has up to this time always taken place. It is only the astronomer who judges of this by reason."
+    },
+    {
+      "id": "p0029",
+      "text": "29. But the knowledge of necessary and eternal truths is what distinguishes us from mere animals and furnishes us with reason and the sciences, by raising us to a knowledge of ourselves and of God. This is what we call the reasonable soul or spirit within us."
+    },
+    {
+      "id": "p0030",
+      "text": "30. It is also by the knowledge of necessary truths, and by their abstractions, that we rise to acts of reflection , which make us think of that which calls itself \" I ,\" and consider that this or that is within us; and it is thus that, in thinking of ourselves, we think of being, of substance, simple or compound, of the immaterial and of God himself, conceiving that what with us is limited is with him without limit. These reflective acts furnish the principal objects of our reasonings."
+    },
+    {
+      "id": "p0031",
+      "text": "31. Our reasonings are founded on two great principles, that of contradiction , by virtue of which we judge that to be false which involves it, and that true , which is opposed or contradictory to the false."
+    },
+    {
+      "id": "p0032",
+      "text": "32. And that of the sufficient reason , by virtue of which we consider that no fact can be real or existent, no statement true, unless there be a sufficient reason why it is so and not otherwise, although most often these reasons cannot be known to us."
+    },
+    {
+      "id": "p0033",
+      "text": "33. There are also two kinds of truths , those of reasoning and those of fact . Truths of reasoning are necessary and their opposite is impossible, and those of fact are contingent and their opposite is possible. When a truth is necessary its reason can be found by analysis, resolving it into more simple ideas and truths until we reach those which are primitive."
+    },
+    {
+      "id": "p0034",
+      "text": "34. It is thus that mathematicians by analysis reduce speculative theorems and practical canons to definitions, axioms and postulates ."
+    },
+    {
+      "id": "p0035",
+      "text": "35. Finally there are simple ideas, definitions of which cannot be given; there are also axioms and postulates, in a word, primary principles , which cannot be proved and indeed need no proof, and these are identical propositions , the opposite of which contains an express contradiction."
+    },
+    {
+      "id": "p0036",
+      "text": "36. But there must also be a sufficient reason for contingent truths , or those of fact ,—that is, for the series of things diffused through the universe of created objects—where the resolution into particular reasons might run into a detail without limits, on account of the immense variety of objects and the division of bodies ad infinitum . There is an infinity of figures and of movements, present and past, which enter into the efficient cause of my present writing, and there is an infinity of trifling inclinations and dispositions, past and present, of my soul, which enter into the final cause."
+    },
+    {
+      "id": "p0037",
+      "text": "37. And as all this detail only involves other contingents, anterior or more detailed, each one of which needs a like analysis for its explanation, we make no advance, and the sufficient or final reason must be outside of the sequence or series of this detail of contingencies, however infinite it may be."
+    },
+    {
+      "id": "p0038",
+      "text": "38. And thus it is that the final reason of things must be found in a necessary substance, in which the detail of changes exists only eminently, as in their source, and this it is which we call God ."
+    },
+    {
+      "id": "p0039",
+      "text": "39. Now this substance being the sufficient reason of all this detail, which also is linked together throughout, there is but one God, and this God suffices ."
+    },
+    {
+      "id": "p0040",
+      "text": "40. We may judge also that this supreme substance, which is unique, universal and necessary, having nothing outside of itself which is independent of it, and being the simple series of possible being, must be incapable of limitations and must contain as much of reality as is possible."
+    },
+    {
+      "id": "p0041",
+      "text": "41. Whence it follows that God is absolutely perfect, perfection being only the magnitude of positive reality taken in its strictest meaning, setting aside the limits or bounds in that which is limited. And there where there are no limits, that is, in God, perfection is absolutely infinite."
+    },
+    {
+      "id": "p0042",
+      "text": "42. It follows also that creatures have their perfections from the influence of God, but that their imperfections arise from their own nature incapable of existing without limits. For it is by this that they are distinguished from God."
+    },
+    {
+      "id": "p0043",
+      "text": "43. It is also true that in God is the source not only of existences but also of essences, so far as they are real, or of that which is real in the possible. This is because the understanding of God is the region of eternal truths, or of the ideas on which they depend, and because, without him, there would be nothing real in the possibilities, and not only nothing existing but also nothing possible."
+    },
+    {
+      "id": "p0044",
+      "text": "44. Nevertheless, if there is a reality in the essences or possibilities or in the eternal truths, this reality must be founded in something existing and actual; consequently in the existence of the necessary being in whom essence involves existence or with whom it is sufficient to be possible in order to be actual."
+    },
+    {
+      "id": "p0045",
+      "text": "45. Hence God (or the necessary being) alone has this privilege that he must exist if it is possible. And since nothing can hinder the possibility of that which possesses no limitations, no negation, and, consequently, no contradiction, this alone is sufficient to establish the existence of God a priori . We have also proved it by the reality of the eternal truths. But we have just proved it also a posteriori , since contingent beings exist which can only have their final or sufficient reason in a necessary being who has the reason of his existence in himself."
+    },
+    {
+      "id": "p0046",
+      "text": "46. But it must not be imagined, as is sometimes done, that the eternal truths, being dependent upon God, are arbitrary and depend upon his will, as Descartes seems to have conceived, and afterwards M. Poiret . This is true only of contingent truths, the principle of which is fitness or the choice of the best , whereas necessary truths depend solely on his understanding and are its internal object."
+    },
+    {
+      "id": "p0047",
+      "text": "47. Thus God alone is the primitive unity or the original simple substance; of which all monads, created or derived, are the products, and are born, so to speak, from moment to moment by continual fulgurations of the Divinity, limited by the receptivity of the creature, to which limitation is essential."
+    },
+    {
+      "id": "p0048",
+      "text": "48. In God is Power , which is the source of all; then Knowledge , which contains the detail of ideas; and finally Will , which effects changes or products according to the principle of the best. It is this which corresponds to what in created monads forms the subject or basis, the perceptive and the appetitive faculty. But in God these attributes are absolutely infinite or perfect, and in the created monads or in the entelechies (or perfectihabies , as Hermolaus Barbarus translated the word), they are only imitations proportioned to their perfection."
+    },
+    {
+      "id": "p0049",
+      "text": "49. The creature is said to act externally in so far as it is perfect, and to suffer from another in so far as it is imperfect. Thus action is attributed to the monad in so far as it has distinct perceptions, and passion in so far as it has confused perceptions."
+    },
+    {
+      "id": "p0050",
+      "text": "50. And one creature is more perfect than another in that there is found in it that which serves to account a priori for what takes place in another, and it is in this way that it is said to act upon another."
+    },
+    {
+      "id": "p0051",
+      "text": "51. But in simple substances the influence of one monad upon another is purely ideal , since it can take effect only through the introduction of God, inasmuch as in the ideas of God a monad may demand with reason that God in regulating the others from the commencement of things, have regard to it. For since a created monad can have no physical influence upon the interior of another, it is only in this way that one can be dependent upon another."
+    },
+    {
+      "id": "p0052",
+      "text": "52. And hence it is that the actions and passions of creatures are mutual. For God, in comparing two simple substances, finds in each one reasons which compel him to adjust the other to it, and consequently that which in certain respects is active, is according to another point of view, passive; active in so far as that what is known distinctly in it, serves to account for that which takes place in another; and passive in so far as the cause of what takes place in it, is found in that which is distinctly known in another."
+    },
+    {
+      "id": "p0053",
+      "text": "53. Now, as there is an infinity of possible universes in the idea of God, and as only one of them can exist, there must be a sufficient reason for the choice of God, which determines him for one rather than for another."
+    },
+    {
+      "id": "p0054",
+      "text": "54. And this reason can only be found in the fitness , in the degrees of perfection, which these worlds contain, each possible world having a right to claim existence according to the measure of perfection which it possesses."
+    },
+    {
+      "id": "p0055",
+      "text": "55. And this is the cause of the existence of the Best, which wisdom makes known to God, which his goodness chooses and which his power produces."
+    },
+    {
+      "id": "p0056",
+      "text": "56. Now this connection , or this adaptation of all created things to each and of each to all, brings it about that each simple substance has relations which express all the others, and that consequently it is a living, perpetual mirror of the universe."
+    },
+    {
+      "id": "p0057",
+      "text": "57. And as the same city regarded from different sides appears entirely different and in perspective is as if multiplied, so also it happens that, because of the infinite multiplicity of simple substances, there are as it were so many different universes, which are nevertheless only the perspectives of a single one, from the different points of view of each monad."
+    },
+    {
+      "id": "p0058",
+      "text": "58. And this is the way to obtain as great a variety as possible, but with the greatest possible order; that is, it is the way to obtain as much perfection as possible."
+    },
+    {
+      "id": "p0059",
+      "text": "59. Thus this hypothesis (which I dare to assert is demonstrated) is the only one which brings into relief the grandeur of God. M. Bayle recognized this, when in his Dictionary (Article Rorarius ) he objected to it; where indeed he was tempted to believe that I accorded to God more than was possible. But he can state no reason why this universal harmony which brings it about that each substance expresses exactly all others by the relations which it sustains to them, is impossible."
+    },
+    {
+      "id": "p0060",
+      "text": "60. Besides, we can see in what I have just said a priori reasons why things could not be otherwise, because God, in regulating all, has regard to each part, and particularly to each monad, since, its nature being representative, nothing can limit it to representing only a part of things; although it may be true that this representation is but confused as regards the detail of the whole universe, and can be distinct only in the case of a small part of things, that is to say, in the case of those which are nearest or largest in relation to each of the monads—otherwise each monad would be a divinity. It is not in the object but only in the modification of the knowledge of the object, that monads are limited. They all tend confusedly toward the infinite, toward the whole, but they are limited, and distinguished by their degrees of distinct perceptions."
+    },
+    {
+      "id": "p0061",
+      "text": "61. And in this respect compound substances symbolize with simple substances. For since the world is a plemim , making all matter connected, and since in a plenum every movement has some effect on distant bodies in proportion to their distance, so that each body is affected not only by those which touch it and feels in some way all that happens to them but also by their means is affected by those which touch the first with which it is in immediate contact, it follows that this communication extends to any distance whatever. Consequently, each body feels all that passes in the universe, so that he who sees all, could read in each that which passes everywhere else, and even that which has been or shall be, perceiving in the present that which is removed in time as well as in space; σύμπνοια πάντα, said Hippocrates . But a soul can read in itself only that which is distinctly represented in it. It cannot develop it laws all at once, for they reach into the infinite."
+    },
+    {
+      "id": "p0062",
+      "text": "62. Thus, although each created monad represents the entire universe, it represents most distinctly the body which is particularly appropriated to it and of which it forms the entelechy; and as this body represents the whole universe by the connection of all matter in a plenum, the soul also represents the whole universe by representing that body which especially belongs to it."
+    },
+    {
+      "id": "p0063",
+      "text": "63. The body belonging to a monad, which is its entelechy or soul, constitutes, with the entelechy, what may be called a living being , and with the soul, what may be called an animal . Now this body of a living being or of an animal is always organic, for since every monad is in its way a mirror of the universe, and since the universe is arranged in perfect order, there must also be order in the representative, that is, in the perceptions of the soul, and hence in the body, according to which the universe is represented in it."
+    },
+    {
+      "id": "p0064",
+      "text": "64. Thus each organic body of a living being is a kind of divine machine or natural automaton, which infinitely surpasses all artificial automata, because a machine which is made by man s art is not a machine in each one of its parts; for example, the tooth of a brass wheel has parts or fragments which to us are no longer artificial and have nothing in themselves to show the use to which the wheel was destined in the machine. But nature s machines, that is, living bodies, are machines even in their smallest parts ad infinitum . Herein lies the difference between nature and art, that is, between the divine art and ours."
+    },
+    {
+      "id": "p0065",
+      "text": "65. And the author of nature has been able to contrive these divine and infinitely marvellous works of art, because each portion of matter is not only divisible ad infinitum , as the ancients perceived, but also each part is actually endlessly subdivided into parts of which each has its own motion: otherwise it would be impossible for each portion of matter to express the universe."
+    },
+    {
+      "id": "p0066",
+      "text": "66. Hence we see that there is a world of creatures, of living beings, of animals, of entelechies, of souls, in the smallest particle of matter."
+    },
+    {
+      "id": "p0067",
+      "text": "67. Each portion of matter may be conceived of as a garden full of plants, and as a pond full of fishes. But each branch of the plant, each member of the animal, each drop of its humors is also such a garden or such a pond."
+    },
+    {
+      "id": "p0068",
+      "text": "68. And although the earth or air embraced between the plants of the garden, or the water between the fish of the pond, is neither plant nor fish, they yet contain more of them, but for the most part so tiny as to be to us imperceptible."
+    },
+    {
+      "id": "p0069",
+      "text": "69. Therefore there is nothing uncultivated, nothing sterile, nothing dead in the universe, no chaos, no confusion except in appearance. Just as a pond would appear from a distance in which we might see the confused movement and swarming, so to speak, of the fishes in the pond, without perceiving the fish themselves."
+    },
+    {
+      "id": "p0070",
+      "text": "70. We see thus that each living body has a ruling entelechy which is the soul in the animal, but the members of this living body are full of other living beings—plants, animals—each of which has also its entelechy or governing soul."
+    },
+    {
+      "id": "p0071",
+      "text": "71. But it must not be imagined, as has been done by some people who have misunderstood my thought, that each soul has a mass or portion of matter appropriated to it or united to it forever, and that hence it possesses other inferior living beings destined to its service forever. For all bodies are, like rivers, in a perpetual flux, and parts are entering into them and departing from them continually."
+    },
+    {
+      "id": "p0072",
+      "text": "72. Thus the soul changes its body only gradually and by degrees, so that it is never deprived of all its organs at once. There is often a metamorphosis in animals, but never metempsychosis nor transmigration of souls. There are also no entirely separate souls, nor genii without bodies. God alone is wholly without body."
+    },
+    {
+      "id": "p0073",
+      "text": "73. For which reason also, it happens that there is, strictly speaking, neither complete generation nor entire death, where the soul is separated from the body. What we call generation is development or increase, as also what we call death is envelopment and diminution."
+    },
+    {
+      "id": "p0074",
+      "text": "74. Philosophers have been greatly puzzled over the origin of forms, entelechies, or souls; but to-day, when we know by exact investigations of plants, insects and animals, that organic bodies in nature are never produced from chaos or from putrefaction, but always from seeds, in which there was undoubtedly some pre-formation , it has been thought that not only the organic body was already there before conception, but also a soul in this body, and, in a word, the animal itself; and that by means of conception this animal has merely been disposed to a greater transformation, in order to become an animal of another kind. Something similar is seen outside of generation, as when worms become flies, and caterpillars, butterflies."
+    },
+    {
+      "id": "p0075",
+      "text": "75. The animals , some of which are raised by conception to the grade of larger animals, may be called spermatics; but those among them, which remain in their class, that is, the most part, are born, multiply, and are destroyed like the larger animals, and there is only a small number of chosen ones, which pass to a larger theatre."
+    },
+    {
+      "id": "p0076",
+      "text": "76. But this were only half the truth; I have therefore thought that if the animal never has a natural beginning, it cannot end naturally; and that not only will there be no generation, but also no utter destruction or death strictly speaking. And these reasonings, made a posteriori and drawn from experience, harmonize perfectly with principles deduced a priori , as above."
+    },
+    {
+      "id": "p0077",
+      "text": "77. Thus it may be said that not only the soul (mirror of an indestructible universe) is indestructible, but also the animal itself, although its machine often perishes in part and takes on or puts off organic spoils."
+    },
+    {
+      "id": "p0078",
+      "text": "78. These principles have given me the means of explaining naturally the union or rather the conformity of the soul and the organic body. The soul follows its own peculiar laws and the body also follows its own laws, and they meet by virtue of the pre-established harmony between all substances, since they are all representations of one and the same universe."
+    },
+    {
+      "id": "p0079",
+      "text": "79. Souls act according to the laws of final causes, by appetitions, ends and means. Bodies act in accordance with the laws of efficient causes or of motion. And the two realms, that of efficient causes and that of final causes, are in harmony with each other."
+    },
+    {
+      "id": "p0080",
+      "text": "80. Descartes recognized that souls cannot give any force to bodies, because there is always the same quantity of force in matter; nevertheless he believed that the soul could change the direction of bodies. But it was because, in his day, the law of nature which enforces the conservation of the total direction in matter, was not known. If he had known this, he would have lighted upon my system of the pre-established harmony."
+    },
+    {
+      "id": "p0081",
+      "text": "81. By this system it comes about that bodies act as if (what is impossible) there were no souls, and that souls act as if there were no bodies, and that both act as if each influenced the other."
+    },
+    {
+      "id": "p0082",
+      "text": "82. As to spirits or rational souls, although I find that the same thing which I have stated—namely, that animals and souls begin only with the world and end only with the world—holds good at bottom with regard to all animals and living things, yet there is this peculiarity in rational animals, that their spermatic animalcules, as such, have only ordinary or sensitive souls, but as soon as those which are, so to speak, elected, attain by actual conception to human nature, their sensitive souls are elevated to the rank of reason and to the prerogative of spirits."
+    },
+    {
+      "id": "p0083",
+      "text": "83. Among other differences which exist between ordinary souls and spirits, a part of which I have already mentioned, there is furthermore, this, that souls in general are the living mirrors or images of the universe of creatures, but spirits are in addition images of the Divinity itself, or of the author of nature, able to know the system of the universe and to imitate something of it by architectonic samplings, since every spirit is as a little divinity in its own department."
+    },
+    {
+      "id": "p0084",
+      "text": "84. Hence it comes about that spirits are capable of entering into a sort of society with God, and that he is, in relation to them, not only what an inventor is to his machines (as God is in relation to the other creatures), but also what a prince is to his subjects and even a father to his children."
+    },
+    {
+      "id": "p0085",
+      "text": "85. Whence it is easy to conclude that the assembly of all spirits must compose the City of God, that is, the most perfect state which is possible, under the most perfect of monarchs."
+    },
+    {
+      "id": "p0086",
+      "text": "86. This City of God, this truly universal monarchy, is a moral world within the natural world, and the highest and most divine of the works of God; it is in this that the glory of God truly consists, for he would have none if his greatness and goodness were not known and admired by spirits. It is, too, only in relation to the divine city that he possesses, properly, goodness; while his wisdom, and power are everywhere manifest."
+    },
+    {
+      "id": "p0087",
+      "text": "87. As we have above established perfect harmony between two natural kingdoms, the one of efficient, the other of final causes, we should also notice here another harmony between the physical kingdom of nature and the moral kingdom of grace; that is, between God considered as the architect of the mechanism of the universe, and God, considered as monarch of the divine city of spirits."
+    },
+    {
+      "id": "p0088",
+      "text": "88. This harmony makes all things progress toward grace by natural methods. This globe, for example, must be destroyed and repaired by natural means, at such times as the government of spirits may demand it, for the punishment of some and the reward of others."
+    },
+    {
+      "id": "p0089",
+      "text": "89. It may be said, farther, that God as architect satisfies in every respect God as legislator, and that therefore sins, by the decree of nature and by virtue even of the mechanical structure of things, must carry their punishment with them; and that in the same way, good actions will obtain their rewards by mechanical ways through their relation to bodies, although this may not and ought not always happen immediately."
+    },
+    {
+      "id": "p0090",
+      "text": "90. Finally, under this perfect government, there will be no good action without reward, no bad action without punishment, and everything must result for the well-being of the good, that is, of those who are not discontented in this great State, who, after having done their duty, trust in providence, and who love and imitate as they ought the author of all good, pleasing themselves with the contemplation of his perfections,—according to the nature of truly pure love , which takes pleasure in the happiness of the loved one. This is what causes wise and virtuous persons to work at all which seems conformable to the divine will, presumptive or antecedent, and yet to content themselves with that which God in reality sends by his secret, consequent and decisive will, recognizing that if we could sufficiently comprehend the order of the universe we would find that it surpassed all the wishes of the wisest, and that it is impossible to render it better that it is, not only for all in general, but also for ourselves in particular, if we are attached, as we should be, to the author of all, not only as the architect and efficient cause of our being, but also as our master and final cause, who ought to be the sole aim of our volition, and who can alone secure our happiness."
+    }
+  ],
+  "anchors": {
+    "leibniz": {
+      "paragraphId": "p0031",
+      "start": 4,
+      "end": 207,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0031",
+          "start": 4,
+          "end": 207,
+          "text": "Our reasonings are founded on two great principles, that of contradiction , by virtue of which we judge that to be false which involves it, and that true , which is opposed or contradictory to the false."
+        },
+        {
+          "paragraphId": "p0032",
+          "start": 4,
+          "end": 252,
+          "text": "And that of the sufficient reason , by virtue of which we consider that no fact can be real or existent, no statement true, unless there be a sufficient reason why it is so and not otherwise, although most often these reasons cannot be known to us."
+        }
+      ],
+      "quote": "Our reasonings are founded on two great principles, that of contradiction, by virtue of which we judge that to be false which involves it, and that true, which is opposed or contradictory to the false. … And that of the sufficient reason, by virtue of which we consider that no fact can be real or existent, no statement true, unless there be a sufficient reason why it is so and not otherwise, although most often these reasons cannot be known to us."
+    },
+    "leibniz-harmony": {
+      "paragraphId": "p0078",
+      "start": 138,
+      "end": 360,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0078",
+          "start": 138,
+          "end": 360,
+          "text": "The soul follows its own peculiar laws and the body also follows its own laws, and they meet by virtue of the pre-established harmony between all substances, since they are all representations of one and the same universe."
+        },
+        {
+          "paragraphId": "p0079",
+          "start": 4,
+          "end": 260,
+          "text": "Souls act according to the laws of final causes, by appetitions, ends and means. Bodies act in accordance with the laws of efficient causes or of motion. And the two realms, that of efficient causes and that of final causes, are in harmony with each other."
+        }
+      ],
+      "quote": "The soul follows its own peculiar laws and the body also follows its own laws, and they meet by virtue of the pre-established harmony between all substances, since they are all representations of one and the same universe. … Souls act according to the laws of final causes, by appetitions, ends and means. Bodies act in accordance with the laws of efficient causes or of motion. And the two realms, that of efficient causes and that of final causes, are in harmony with each other."
+    },
+    "leibniz-identity": {
+      "paragraphId": "p0009",
+      "start": 3,
+      "end": 234,
+      "quote": "Moreover it is necessary that each monad should differ from every other. For never in nature are two beings exactly alike and such that it is not possible to find an internal difference or one founded upon an intrinsic connotation.",
+      "match": "normalized-exact"
+    },
+    "leibniz-perception-appetition": {
+      "paragraphId": "p0014",
+      "start": 4,
+      "end": 135,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0014",
+          "start": 4,
+          "end": 135,
+          "text": "The transient state, which involves and represents multitude in unity or in the simple substance, is only what we call perception ,"
+        },
+        {
+          "paragraphId": "p0015",
+          "start": 4,
+          "end": 137,
+          "text": "The action of the internal principle which causes the change or the passage from one perception to another, may be called appetition;"
+        }
+      ],
+      "quote": "The transient state, which involves and represents multitude in unity or in the simple substance, is only what we call perception. ... The action of the internal principle which causes the change or the passage from one perception to another, may be called appetition."
+    },
+    "leibniz-perspectives": {
+      "paragraphId": "p0056",
+      "start": 116,
+      "end": 185,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0056",
+          "start": 116,
+          "end": 185,
+          "text": "each simple substance has relations which express all the others, and"
+        },
+        {
+          "paragraphId": "p0056",
+          "start": 204,
+          "end": 253,
+          "text": "it is a living, perpetual mirror of the universe."
+        },
+        {
+          "paragraphId": "p0057",
+          "start": 4,
+          "end": 121,
+          "text": "And as the same city regarded from different sides appears entirely different and in perspective is as if multiplied,"
+        },
+        {
+          "paragraphId": "p0057",
+          "start": 206,
+          "end": 366,
+          "text": "there are as it were so many different universes, which are nevertheless only the perspectives of a single one, from the different points of view of each monad."
+        }
+      ],
+      "quote": "Each simple substance has relations which express all the others, and … it is a living, perpetual mirror of the universe. … And as the same city regarded from different sides appears entirely different and in perspective is as if multiplied, … there are as it were so many different universes, which are nevertheless only the perspectives of a single one, from the different points of view of each monad."
+    },
+    "leibniz-possible-worlds": {
+      "paragraphId": "p0053",
+      "start": 4,
+      "end": 220,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0053",
+          "start": 4,
+          "end": 220,
+          "text": "Now, as there is an infinity of possible universes in the idea of God, and as only one of them can exist, there must be a sufficient reason for the choice of God, which determines him for one rather than for another."
+        },
+        {
+          "paragraphId": "p0055",
+          "start": 4,
+          "end": 145,
+          "text": "And this is the cause of the existence of the Best, which wisdom makes known to God, which his goodness chooses and which his power produces."
+        }
+      ],
+      "quote": "Now, as there is an infinity of possible universes in the idea of God, and as only one of them can exist, there must be a sufficient reason for the choice of God, which determines him for one rather than for another. ... And this is the cause of the existence of the Best, which wisdom makes known to God, which his goodness chooses and which his power produces."
+    },
+    "leibniz-two-truths": {
+      "paragraphId": "p0033",
+      "start": 4,
+      "end": 212,
+      "quote": "There are also two kinds of truths, those of reasoning and those of fact. Truths of reasoning are necessary and their opposite is impossible, and those of fact are contingent and their opposite is possible.",
+      "match": "normalized-exact"
+    },
+    "leibniz-windowless": {
+      "paragraphId": "p0007",
+      "start": 3,
+      "end": 410,
+      "quote": "There is also no way of explaining how a monad can be altered or changed internally by any other creature, for nothing can be transposed within it, nor can there be conceived in it any internal movement which can be excited, directed, augmented or diminished within it as can be done in compounds, where there is change among the parts. The monads have no windows through which anything can enter or depart.",
+      "match": "normalized-exact"
+    }
+  }
+}

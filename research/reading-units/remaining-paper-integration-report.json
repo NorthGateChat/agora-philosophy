@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:46:24Z",
+  "scope": "Twelve ready units from remaining-paper-recovery-proposal.json; Galileo and Watson Behaviorism intentionally excluded.",
+  "changes": {
+    "overrideRegistry": "research/reading-units/source-overrides.json",
+    "derivedDirectory": "research/source-cache/reading-unit-derived",
+    "publicDirectory": "public/readings/units",
+    "sharedSourceCacheManifestRefreshed": false,
+    "fullBuildRun": false
+  },
+  "initialDirectedFetch": {
+    "mode": "Twelve sequential single-unit offline fetches",
+    "reportDirectory": "tmp/remaining-paper-integration-reports",
+    "summary": {
+      "considered": 12,
+      "written": 12,
+      "resumed": 0,
+      "failed": 0,
+      "thoughts": 13,
+      "anchorsMatched": 13,
+      "anchorsUnmatched": 0
+    }
+  },
+  "idempotenceCheck": {
+    "mode": "One offline fetch limited to the same twelve unit IDs after initial generation",
+    "report": "tmp/remaining-paper-integration-resume-check.json",
+    "summary": {
+      "considered": 12,
+      "written": 0,
+      "resumed": 12,
+      "failed": 0,
+      "thoughts": 13,
+      "anchorsMatched": 13,
+      "anchorsUnmatched": 0,
+      "unboundedNonWholeUnits": 0
+    }
+  },
+  "focusedTest": {
+    "command": "node --test tests/reading-unit-source-overrides.test.mjs",
+    "passed": 1,
+    "failed": 0
+  },
+  "addedVolume": {
+    "derivedSourceBytes": 682266,
+    "publicUnitBytes": 744935,
+    "combinedContentBytes": 1427201,
+    "combinedContentMiB": 1.3611,
+    "note": "Counts the twelve migrated natural-unit source texts and twelve newly generated public JSON bodies; excludes the small override and report metadata."
+  },
+  "units": [
+    {
+      "unitId": "ru-action-research-and-minority-problems-whole-work-2bf8bf7e",
+      "status": "written",
+      "characterCount": 33662,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/lewin-action-research-minority-problems-1946.txt",
+      "sourceBytes": 33801,
+      "sourceSha256": "4663f84e73421260403caf63abcef2e3ff1b17fce4e24882e35b2cbcab0d4701",
+      "publicPath": "public/readings/units/ru-action-research-and-minority-problems-whole-work-2bf8bf7e.json",
+      "publicBytes": 37021,
+      "publicSha256": "69349b9eb66e1121ae9faa4d32b7f3f2f9f83a250705102e32a4320a34d50139",
+      "contentHash": "c0a315332331c092a2e3857b04eabb2a622b502345b54d289593e57a507245a8"
+    },
+    {
+      "unitId": "ru-castes-in-india-their-mechanism-genesis-and-deve-whole-work-470713a8",
+      "status": "written",
+      "characterCount": 53929,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/ambedkar-castes-in-india-1917.txt",
+      "sourceBytes": 54703,
+      "sourceSha256": "6af4b4466e129be3ddc00d0efea7b01254e62db3ae3ca63b237a72c329f598c3",
+      "publicPath": "public/readings/units/ru-castes-in-india-their-mechanism-genesis-and-deve-whole-work-470713a8.json",
+      "publicBytes": 57030,
+      "publicSha256": "80aa20b19ba83818ffd296ae5972aa990eea1b3b1ac67591a2172c6635fab3be",
+      "contentHash": "c54bc32b40ac3255bb5f5fbc1964692e6534a9eef57fb7d2dced46056a95d261"
+    },
+    {
+      "unitId": "ru-conditioned-emotional-reactions-whole-work-f0cdd437",
+      "status": "written",
+      "characterCount": 27295,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/watson-rayner-conditioned-emotional-reactions-1920.txt",
+      "sourceBytes": 27480,
+      "sourceSha256": "78a4483b0f9f4b478c0b9e959dbf7e180cf2ddd10d9cbdcf11e52394057bb7da",
+      "publicPath": "public/readings/units/ru-conditioned-emotional-reactions-whole-work-f0cdd437.json",
+      "publicBytes": 34217,
+      "publicSha256": "5a243806de5b5c2a11343cdc2c89a9be38a31298449804b3df80794317250331",
+      "contentHash": "5ce23d4176577d6d6c52ecc0b2c9161640171bf85ddb1ab8d126381aeff1167f"
+    },
+    {
+      "unitId": "ru-conditioned-reflexes-lecture-ii-f4083963",
+      "status": "written",
+      "characterCount": 40472,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/pavlov-conditioned-reflexes-lecture-ii-1927.txt",
+      "sourceBytes": 40559,
+      "sourceSha256": "abeb0dc34dded88678449a61cae1346db80280d259c13d0f325468a9e278fa66",
+      "publicPath": "public/readings/units/ru-conditioned-reflexes-lecture-ii-f4083963.json",
+      "publicBytes": 43921,
+      "publicSha256": "80e46e49a9353287e97ccbf2415f65b25ddf14c90f234ba0157851c9f5746608",
+      "contentHash": "18a40953744f0d711c6929964e4eb6e4271bc386acba5bddb90c7f9a3e6d54ac"
+    },
+    {
+      "unitId": "ru-conditioned-reflexes-lectures-ii-and-iv-971e59b1",
+      "status": "written",
+      "characterCount": 78314,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/pavlov-conditioned-reflexes-lectures-ii-iv-1927.txt",
+      "sourceBytes": 78527,
+      "sourceSha256": "631ab183baa9fa2f3f6c166a3dcccd9d26905e19debcf2fcdc1ca2c9d9a3f269",
+      "publicPath": "public/readings/units/ru-conditioned-reflexes-lectures-ii-and-iv-971e59b1.json",
+      "publicBytes": 86341,
+      "publicSha256": "5360b6fe342da23e96636169a35626aedf133f207b6bfacc21da6fc6577e1bce",
+      "contentHash": "97afbdc28548a463be9dba354dca68eba1c2b9a15c17d60a94276c5f905c55a6"
+    },
+    {
+      "unitId": "ru-on-denoting-whole-work-1574863b",
+      "status": "written",
+      "characterCount": 36139,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/russell-on-denoting-1905.txt",
+      "sourceBytes": 37294,
+      "sourceSha256": "5e59552c83e404055346a15ac6fbc31720ea78095162d3887b48fc6445f40270",
+      "publicPath": "public/readings/units/ru-on-denoting-whole-work-1574863b.json",
+      "publicBytes": 43067,
+      "publicSha256": "bc25607cdf5542531a54cf3ec9c8a73ff525088a37ebdbf80cba8ec7617d08a0",
+      "contentHash": "5de0d0253432bdc265f7cdbb41ea73e4c4873dca3610f7bf1856bf19f98c893b"
+    },
+    {
+      "unitId": "ru-on-the-electrodynamics-of-moving-bodies-introduction-introduction-96163ae0",
+      "status": "written",
+      "characterCount": 2968,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/einstein-electrodynamics-moving-bodies-introduction-1905.txt",
+      "sourceBytes": 2977,
+      "sourceSha256": "dae1a84adc537065c06fb3638cb064fc98e3afe8376ff6405b214fd20f3112e4",
+      "publicPath": "public/readings/units/ru-on-the-electrodynamics-of-moving-bodies-introduction-introduction-96163ae0.json",
+      "publicBytes": 4930,
+      "publicSha256": "04988e90be25ce2c50cbc9a77d9f86da4e7a47c06d12ce9903fb362e6f358ddc",
+      "contentHash": "3999d897ba72843822db117abeb559fde16bd74f9f1757cd3ad0e108d18c95b1"
+    },
+    {
+      "unitId": "ru-psychology-from-the-standpoint-of-a-behaviorist-chapter-ix-4252160c",
+      "status": "written",
+      "characterCount": 74668,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/watson-psychology-behaviorist-chapter-ix-1919.txt",
+      "sourceBytes": 87949,
+      "sourceSha256": "44e7f5e11fa2616c1fe64ba5eca856667d8fc323724058f232317cc3212bc33d",
+      "publicPath": "public/readings/units/ru-psychology-from-the-standpoint-of-a-behaviorist-chapter-ix-4252160c.json",
+      "publicBytes": 98513,
+      "publicSha256": "e5e81d10a27a36b1ae06a8bfd0cfef4afa6256324659a5342d5a21909d529215",
+      "contentHash": "5502039c36724f3285e0a5a19b1837aac5ad5a936fd04444c7c8142fde9e3179"
+    },
+    {
+      "unitId": "ru-the-analysis-of-household-surveys-chapter-1-8c35d305",
+      "status": "written",
+      "characterCount": 169838,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/deaton-analysis-household-surveys-chapter-1.txt",
+      "sourceBytes": 175620,
+      "sourceSha256": "bb00e4379c3817616867fffbd7f9a9a029dc5e7eb2ea14fe968931d2f693fa41",
+      "publicPath": "public/readings/units/ru-the-analysis-of-household-surveys-chapter-1-8c35d305.json",
+      "publicBytes": 181447,
+      "publicSha256": "4dfa9019daec9d4a53b2dd21aa1b4cabfec1b22bb351bbc2065f5bbbb522389f",
+      "contentHash": "35f234e10ff07b0931f1ed02e76d5d6b551540df1f93c0427d8496f3aea657c9"
+    },
+    {
+      "unitId": "ru-the-point-of-view-for-my-work-as-an-author-appendix-appendix-8353c830",
+      "status": "written",
+      "characterCount": 18195,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/kierkegaard-crowd-untruth-appendix.txt",
+      "sourceBytes": 18251,
+      "sourceSha256": "d43884e9a34e00fe591b7627ec8fb00a248e3d6385bd2390aaad2cf0b74b8727",
+      "publicPath": "public/readings/units/ru-the-point-of-view-for-my-work-as-an-author-appendix-appendix-8353c830.json",
+      "publicBytes": 20917,
+      "publicSha256": "067e43943cf70e58ada7be1092ffa5a58782e14989ee3a0b96e310af379a59ae",
+      "contentHash": "7e560351e4003c946e56ce8565053b0e549e5af259bc5deb075359925735e48c"
+    },
+    {
+      "unitId": "ru-the-theory-of-business-enterprise-chapter-3-7cbde3c0",
+      "status": "written",
+      "characterCount": 70812,
+      "anchors": "1/1",
+      "sourcePath": "research/source-cache/reading-unit-derived/veblen-theory-business-enterprise-chapter-3-1904.txt",
+      "sourceBytes": 71023,
+      "sourceSha256": "d342b563e2f6baf25f2c2e036a4c05ae90f71728c18dc0407be7e302a21721e0",
+      "publicPath": "public/readings/units/ru-the-theory-of-business-enterprise-chapter-3-7cbde3c0.json",
+      "publicBytes": 76315,
+      "publicSha256": "43b6dc8fe0c6fc0ae674990aede48ee69b91a822d3a3a21f9dce9654718a1134",
+      "contentHash": "488a4a80cde33ba9139c86002c4996ca68e2ae22ec0541914c87983162458d47"
+    },
+    {
+      "unitId": "ru-the-theory-of-political-economy-chapter-iii-57601d8a",
+      "status": "written",
+      "characterCount": 53647,
+      "anchors": "2/2",
+      "sourcePath": "research/source-cache/reading-unit-derived/jevons-theory-political-economy-chapter-iii-1888.txt",
+      "sourceBytes": 54082,
+      "sourceSha256": "5dc3dd036332d41864e618fede3f00fb2841fc56af085ab7572024ca7e73876f",
+      "publicPath": "public/readings/units/ru-the-theory-of-political-economy-chapter-iii-57601d8a.json",
+      "publicBytes": 61216,
+      "publicSha256": "467032a11cf64e2fa21a757f0e513799c66317ad34791402d4cd46294e60f878",
+      "contentHash": "cb99c24b217bb06f39c1be415cfdaf2be8d43e05c5d74eb9509a2a2a648374bd"
+    }
+  ],
+  "commands": {
+    "initial": "node --import tsx scripts/fetch-reading-units.mjs --unit-id <one-id> --report tmp/remaining-paper-integration-reports/<one-id>.json (repeated sequentially for each of the twelve IDs; network disabled by default)",
+    "resumeCheck": "node --import tsx scripts/fetch-reading-units.mjs with the same twelve --unit-id flags and --report tmp/remaining-paper-integration-resume-check.json"
+  }
+}

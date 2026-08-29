@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"
+  viewBox="0 0 128 128">
+  <title>NOTHING FINAL app icon</title>
+  <desc>An open ring with a warm dot, the symbol for an idea that remains open to revision.</desc>
+  <defs>
+    <style>
+  @font-face {
+    font-family: "Nothing Final Sans";
+    src: url("/Users/alanxrhuang/.codex/skills/canvas-design/canvas-fonts/InstrumentSans-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Nothing Final Serif";
+    src: url("/Users/alanxrhuang/.codex/skills/canvas-design/canvas-fonts/Gloock-Regular.ttf");
+  }
+  .sans { font-family: "Nothing Final Sans", "Helvetica Neue", Arial, sans-serif; }
+  .serif { font-family: "Nothing Final Serif", "Songti SC", "STSong", serif; }
+  .cjk { font-family: "Songti SC", "STSong", "Noto Serif CJK SC", serif; }
+</style>
+    
+  <symbol id="open-o" viewBox="0 0 256 256">
+    <circle cx="128" cy="128" r="91" fill="none" stroke="currentColor"
+      stroke-width="24" stroke-linecap="butt" stroke-dasharray="522 50"
+      transform="rotate(-30 128 128)"/>
+    <circle cx="192" cy="64" r="12" fill="#d97757" stroke="none"/>
+  </symbol>
+    
+  </defs>
+  
+  <!-- Chrome icon artwork occupies a 96 px safe area with 16 px outer padding. -->
+  <rect x="16" y="16" width="96" height="96" rx="21" fill="#171715"/>
+  <rect x="16.5" y="16.5" width="95" height="95" rx="20.5" fill="none"
+    stroke="#f3efe6" stroke-opacity="0.14"/>
+  <use href="#open-o" x="22" y="22" width="84" height="84"
+    color="#f3efe6"/>
+
+</svg>

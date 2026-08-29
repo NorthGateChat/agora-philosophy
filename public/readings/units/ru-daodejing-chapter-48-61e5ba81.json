@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-48-61e5ba81",
+  "title": "章 48",
+  "englishTitle": "Chapter 48",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 48",
+  "englishLocator": "Chapter 48",
+  "version": "中国哲学书电子化计划《道德经》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Daodejing; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/dao-de-jing",
+  "source": {
+    "url": "https://ctext.org/dao-de-jing",
+    "contentType": "text/html",
+    "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "cf754de2e88ce8bdae33778fb60430c855cb5292c33678de001ff30838425dac",
+  "inputHash": "99eab266d99a8c6bc190062abe97bd17a725b5103303cfbfdbdb0e1d4c7f3a7b",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[48]"
+    },
+    {
+      "id": "p0002",
+      "text": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。取天下常以無事，及其有事，不足以取天下。"
+    },
+    {
+      "id": "p0003",
+      "text": "(Forgetting knowledge) He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Dao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do. He who gets as his own all under heaven does so by giving himself no trouble (with that end). If one take trouble (with that end), he is not equal to getting as his own all under heaven."
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-lessening": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 21,
+      "quote": "为学日益，为道日损。损之又损，以至于无为。",
+      "match": "normalized-exact"
+    }
+  }
+}

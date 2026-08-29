@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8",
+  "title": "美第奇星",
+  "englishTitle": "Medicean Stars",
+  "work": "《星际信使》",
+  "englishWork": "Sidereus Nuncius",
+  "locator": "美第奇星",
+  "englishLocator": "Medicean Stars",
+  "version": "古登堡计划，Edward Stafford Carlos 1880 年公版英译，伽利略《星际信使》第 68—69 页，连续节录",
+  "englishVersion": "Project Gutenberg, Edward Stafford Carlos public-domain translation (1880), Galileo, The Sidereal Messenger, pp. 68-69, continuous excerpt",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "74fc9b817b64bc33415c6a44100c30f48952bc531d380682e5f4f1a26cc56fb5"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "b43ebd260179c01aa13e322e171239c3220b0baa80b2265b4ea6ed5f1f8bb1cc",
+  "inputHash": "b0286d9936803ccd49202c4463d1b2e8fa511de5065e21609c3cbcce940b0f75",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[Sidenote: Discovery of Jupiter’s satellites, Jan. 7, 1610: record of Galileo’s observations during two months.]"
+    },
+    {
+      "id": "p0002",
+      "text": "I have now finished my brief account of the observations which I have thus far made with regard to the Moon, the Fixed Stars, and the Galaxy. There remains the matter, which seems to me to deserve to be considered the most important in this work, namely, that I should disclose and publish to the world the occasion of discovering and observing four PLANETS, never seen from the very beginning of the world up to our own times, their positions, and the observations made during the last two months about their movements and their changes of magnitude; and I summon all astronomers to apply themselves to examine and determine their periodic times, which it has not been permitted me to achieve up to this day, owing to the restriction of my time. I give them warning however again, so that they may not approach such an inquiry to no purpose, that they will want a very accurate telescope, and such as I have described in the beginning of this account."
+    },
+    {
+      "id": "p0003",
+      "text": "On the 7th day of January in the present year, 1610, in the first hour of the following night, when I was viewing the constellations of the heavens through a telescope, the planet Jupiter presented itself to my view, and as I had prepared for myself a very excellent instrument, I noticed a circumstance which I had never been able to notice before, owing to want of power in my other telescope, namely, that three little stars, small but very bright, were near the planet; and although I believed them to belong to the number of the fixed stars, yet they made me somewhat wonder, because they seemed to be arranged exactly in a straight line, parallel to the ecliptic, and to be brighter than the rest of the stars, equal to them in magnitude. The position of them with reference to one another and to Jupiter was as follows (Fig. 1)."
+    },
+    {
+      "id": "p0004",
+      "text": "[14] The times of Galileo’s observations are to be understood as reckoned from sunset."
+    },
+    {
+      "id": "p0005",
+      "text": "[15] The satellites of Jupiter revolve in planes very nearly, although not exactly, coincident with that of the equator of the planet, which is inclined 3° 5´ 30´´ to the orbit of the planet, and the plane of the orbit is inclined 1° 18´ 51´´ to the ecliptic."
+    },
+    {
+      "id": "p0006",
+      "text": "On the east side there were two stars, and a single one towards the west. The star which was furthest towards the east, and the western star, appeared rather larger than the third."
+    },
+    {
+      "id": "p0007",
+      "text": "I scarcely troubled at all about the distance between them and Jupiter, for, as I have already said, at first I believed them to be fixed stars; but when on January 8th, led by some fatality, I turned again to look at the same part of the heavens, I found a very different state of things, for there were three little stars all west of Jupiter, and nearer together than on the previous night, and they were separated from one another by equal intervals, as the accompanying illustration (Fig. 2) shows."
+    },
+    {
+      "id": "p0008",
+      "text": "At this point, although I had not turned my thoughts at all upon the approximation of the stars to one another, yet my surprise began to be excited, how Jupiter could one day be found to the east of all the aforesaid fixed stars when the day before it had been west of two of them; and forthwith I became afraid lest the planet might have moved differently from the calculation of astronomers, and so had passed those stars by its own proper motion. I therefore waited for the next night with the most intense longing, but I was disappointed of my hope, for the sky was covered with clouds in every direction."
+    },
+    {
+      "id": "p0009",
+      "text": "But on January 10th the stars appeared in the following position with regard to Jupiter; there were two only, and both on the east side of Jupiter, the third, as I thought, being hidden by the planet (Fig. 3). They were situated just as before, exactly in the same straight line with Jupiter, and along the Zodiac."
+    },
+    {
+      "id": "p0010",
+      "text": "When I had seen these phenomena, as I knew that corresponding changes of position could not by any means belong to Jupiter, and as, moreover, I perceived that the stars which I saw had been always the same, for there were no others either in front or behind, within a great distance, along the Zodiac,—at length, changing from doubt into surprise, I discovered that the interchange of position which I saw belonged not to Jupiter, but to the stars to which my attention had been drawn, and I thought therefore that they ought to be observed henceforward with more attention and precision."
+    },
+    {
+      "id": "p0011",
+      "text": "Accordingly, on January 11th I saw an arrangement of the following kind (Fig. 4), namely, only two stars to the east of Jupiter, the nearer of which was distant from Jupiter three times as far as from the star further to the east; and the star furthest to the east was nearly twice as large as the other one; whereas on the previous night they had appeared nearly of equal magnitude. I therefore concluded, and decided unhesitatingly, that there are three stars in the heavens moving about Jupiter, as Venus and Mercury round the Sun; which at length was established as clear as daylight by numerous other subsequent observations. These observations also established that there are not only three, but four, erratic sidereal bodies performing their revolutions round Jupiter, observations of whose changes of position made with more exactness on succeeding nights the following account will supply. I have measured also the intervals between them with the telescope in the manner already explained. Besides this, I have given the times of observation, especially when several were made in the same night, for the revolutions of these planets are so swift that an observer may generally get differences of position every hour."
+    },
+    {
+      "id": "p0012",
+      "text": "Jan. 12.—At the first hour of the next night I saw these heavenly bodies arranged in this manner (Fig. 5). The satellite furthest to the east was greater than the satellite furthest to the west; but both were very conspicuous and bright; the distance of each one from Jupiter was two minutes. A third satellite, certainly not in view before, began to appear at the third hour; it nearly touched Jupiter on the east side, and was exceedingly small. They were all arranged in the same straight line, along the ecliptic."
+    },
+    {
+      "id": "p0013",
+      "text": "[16] Galileo continues to call these bodies _stars_, perhaps meaning “Medicean stars,” throughout the description of their configurations, but as he had now detected their nature, it is more convenient to call them _satellites_, the term introduced by Kepler."
+    },
+    {
+      "id": "p0014",
+      "text": "Jan. 13.—For the first time four satellites were in view in the following position with regard to Jupiter (Fig. 6)."
+    },
+    {
+      "id": "p0015",
+      "text": "There were three to the west, and one to the east; they made a straight line nearly, but the middle satellite of those to the west deviated a little from the straight line towards the north. The satellite furthest to the east was at a distance of 2´ from Jupiter; there were intervals of 1´ only between Jupiter and the nearest satellite, and between the satellites themselves, west of Jupiter. All the satellites appeared of the same size, and though small they were very brilliant, and far outshone the fixed stars of the same magnitude."
+    },
+    {
+      "id": "p0016",
+      "text": "Jan. 14.—The weather was cloudy."
+    },
+    {
+      "id": "p0017",
+      "text": "Jan. 15.—At the third hour of the night the four satellites were in the state depicted in the next diagram (Fig. 7) with reference to Jupiter."
+    },
+    {
+      "id": "p0018",
+      "text": "All were to the west, and arranged nearly in the same straight line; but the satellite which counted third from Jupiter was raised a little to the north. The nearest to Jupiter was the smallest of all; the rest appeared larger and in order of magnitude; the intervals between Jupiter and the three nearest satellites were all equal, and were of the magnitude of 2´ each; but the satellite furthest to the west was distant 4´ from the satellite nearest to it. They were very brilliant, and not at all twinkling, as they have always appeared both before and since. But at the seventh hour there were only three satellites, presenting with Jupiter an appearance of the following kind (Fig. 8). They were, that is to say, in the same straight line to a hair; the nearest to Jupiter was very small, and distant from the planet 3´; the distance of the second from this one was 1´; and of the third from the second 4´ 30´´. But after another hour the two middle satellites were still nearer, for they were only 30´´, or less, apart."
+    },
+    {
+      "id": "p0019",
+      "text": "Jan. 16.—At the first hour of the night I saw three satellites arranged in this order (Fig. 9). Jupiter was between two of them, which were at a distance of 0´ 40´´ from the planet on either side, and the third was west of Jupiter at a distance of 8´. The satellites near to Jupiter appeared brighter than the satellite further off, but not larger."
+    },
+    {
+      "id": "p0020",
+      "text": "Jan. 17, after sunset 0 hours 30 minutes, the configuration was of this kind (Fig. 10). There was one satellite only to the east, at a distance of 3´ from Jupiter; to the west likewise there was only one satellite, distant 11´ from Jupiter. The satellite on the east appeared twice as large as the satellite to the west; and there were no more than these two. But four hours after, that is, nearly at the fifth hour, a third satellite began to emerge on the east side, which, before its appearance, as I think, had been joined with the former of the two other satellites, and the position was of this kind (Fig. 11). The middle satellite was very near indeed to the satellite on the east, and was only 20´´ from it; and was a little towards the south of the straight line drawn through the two extreme satellites and Jupiter."
+    },
+    {
+      "id": "p0021",
+      "text": "Jan. 18, at 0 h. 20 m. after sunset, the appearance was such as this (Fig. 12). The satellite to the east was larger than the western one, and was at a distance from Jupiter of 8´, the western one being at a distance of 10´."
+    },
+    {
+      "id": "p0022",
+      "text": "Jan. 19.—At the second hour of the night the relative position of the satellites was such as this (Fig. 13); that is, there were three satellites exactly in a straight line with Jupiter, one to the east, at a distance of 6´ from Jupiter; between Jupiter and the first satellite to the west in order, there was an interval of 5´; this satellite was 4´ off the other one more to the west. At that time I was doubtful whether or no there was a satellite between the satellite to the east and Jupiter, but so very close to Jupiter as almost to touch the planet; but at the fifth hour I saw this satellite distinctly, by that time occupying exactly the middle position between Jupiter and the eastern satellite, so that the configuration was thus (Fig. 14). Moreover, the satellite which had just come into view was very small; yet at the sixth hour it was nearly as large as the rest."
+    },
+    {
+      "id": "p0023",
+      "text": "Jan. 20: 1 h. 15 m.—A similar arrangement was seen (Fig. 15). There were three satellites, so small as scarcely to be distinguishable; their distances from Jupiter, and from one another, were not more than 1´. I was doubtful whether on the western side there were two satellites or three. About the sixth hour they were grouped in this way (Fig. 16). The eastern satellite was twice as far away from Jupiter as before, that is 2´; on the western side, the satellite in the middle was distant from Jupiter 0´ 40´´, and from the satellite still further to the west 0´ 20´´; at length, at the seventh hour, three satellites were seen on the western side (Fig. 17). The satellite nearest to Jupiter was distant from the planet 0´ 20´´; between this one and the satellite furthest to the west there was an interval of 40´´, but between these another satellite was in view slightly southward of them, and not more than 10´´ off the most westerly satellite."
+    },
+    {
+      "id": "p0024",
+      "text": "Jan. 21: 0 h. 30 m.—There were three satellites on the east side; the satellites and Jupiter were at equal distances apart (Fig. 18). The intervals were by estimation 50´´ each. There was also one satellite on the west, distant 4´ from Jupiter. The satellite on the east side nearest to Jupiter was the least of all."
+    },
+    {
+      "id": "p0025",
+      "text": "Jan. 22: 2 h.—The grouping of the satellites was similar (Fig. 19). There was an interval of 5´ from the satellite on the east to Jupiter; from Jupiter to the satellite furthest to the west 7´. The two interior satellites on the western side were 0´ 40´´ apart, and the satellite nearer to Jupiter was 1´ from the planet. The inner satellites were smaller than the outer ones, but they were situated all in the same straight line, along the ecliptic, except that the middle of the three western satellites was slightly to the south of it, but at the sixth hour of the night they appeared in this position (Fig. 20). The satellite on the east was very small, at a distance from Jupiter of 5´ as before; but the three satellites on the west were separated by equal distances from Jupiter and from each other; and the intervals were nearly 1´ 20´´ each. The satellite nearest Jupiter appeared smaller than the other two on the same side, but they all appeared arranged exactly in the same straight line."
+    },
+    {
+      "id": "p0026",
+      "text": "Jan. 23, at 0 h. 40 m. after sunset, the grouping of the satellites was nearly after this fashion (Fig. 21). There were three satellites with Jupiter in a straight line along the ecliptic, as they always have been; two were on the east of the planet, one on the west; the satellite furthest to the east was 7´ from the next one, and this satellite 2´ 40´´ from Jupiter; Jupiter was 3´ 20´´ from the satellite on the west; and they were all of nearly the same size. But at the fifth hour the two satellites which had been previously near Jupiter were no longer visible, being, as I suppose, hidden behind Jupiter, and the appearance presented was such as this (Fig. 22)."
+    },
+    {
+      "id": "p0027",
+      "text": "Jan. 24.—Three satellites, all on the east side, were visible, and nearly, but not quite, in the same straight line with Jupiter, for the satellite in the middle was slightly to the south of it (Fig. 23). The satellite nearest to Jupiter was 2´ distant from the planet; the next in order 0´ 30´´ from this satellite, and the third was 9´ further off still; they were all very bright. But at the sixth hour two satellites only presented themselves to view in this position, namely in the same straight line with Jupiter exactly, and the distance of the nearest to the planet was lengthened to 3´; the next was 2´ further off, and unless I am mistaken, the two satellites previously observed in the middle had come together, and appeared as one."
+    },
+    {
+      "id": "p0028",
+      "text": "Jan. 25, at 1 h. 40 m., the satellites were grouped thus (Fig. 24). There were only two satellites on the east side, and these were rather large. The satellite furthest to the east was 5´ from the satellite in the middle, and it was 6´ from Jupiter."
+    },
+    {
+      "id": "p0029",
+      "text": "Jan. 26, at 0 h. 40 m., the relative positions of the satellites were thus (Fig. 25). Three satellites were in view, of which two were east and the third west of Jupiter; this one was distant 3´ from the planet. On the east side the satellite in the middle was at a distance of 5´ 20´´; the further satellite was 6´ beyond; they were arranged in a straight line, and were of the same size. At the fifth hour the arrangement was nearly the same, with this difference only, that the fourth satellite was emerging on the east side near Jupiter. It was smaller than the rest, and was then at a distance of 0´ 30´´ from Jupiter; but was raised a little above the straight line towards the north, as the accompanying figure shows (Fig. 26)."
+    },
+    {
+      "id": "p0030",
+      "text": "Jan. 27, 1 h. after sunset, a single satellite only was in view, and that on the east side of Jupiter in this position (Fig. 27). It was very small, and at a distance of 7´ from Jupiter."
+    },
+    {
+      "id": "p0031",
+      "text": "Jan. 28 and 29.—Owing to the intervention of clouds, I could make no observation."
+    },
+    {
+      "id": "p0032",
+      "text": "Jan. 30.—At the first hour of the night the satellites were in view, arranged in the following way (Fig. 28). There was one satellite on the east side, at a distance of 2´ 30´´ from Jupiter; and there were two satellites on the west, of which the one nearer to Jupiter was 3´ off the planet, and the other satellite 1´ further. The places of the outer satellites and Jupiter were in the same straight line; but the satellite in the middle was a little above it to the north. The satellite furthest to the west was smaller than the rest."
+    },
+    {
+      "id": "p0033",
+      "text": "On the last day of the month, at the second hour, two satellites on the east side were visible, and one on the west (Fig. 29). Of the satellites east of the planet, the one in the middle was 2´ 20´´ distant from Jupiter; and the satellite further to the east was 0´ 30´´ from the middle satellite; the satellite on the west was at a distance of 10´ from Jupiter. They were in the same straight line nearly, and would have been exactly so, only the satellite on the east nearest to Jupiter was raised a little towards the north. At the fourth hour, the two satellites on the east were still nearer together, for they were only 20´´ apart (Fig. 30). The western satellite appeared rather small in these two observations."
+    },
+    {
+      "id": "p0034",
+      "text": "Feb. 1.—At the second hour of the night the arrangement was similar (Fig. 31). The satellite furthest to the east was at a distance of 6´ from Jupiter, and the western satellite 8´. On the east side there was a very small satellite, at a distance of 20´´ from Jupiter. They made a perfectly straight line."
+    },
+    {
+      "id": "p0035",
+      "text": "Feb. 2.—The satellites were seen arranged thus (Fig. 32). There was one only on the east, at a distance of 6´ from Jupiter. Jupiter was 4´ from the nearest satellite on the west; between this satellite and the satellite further to the west there was an interval of 8´; they were in the same straight line exactly, and were nearly of the same magnitude. But at the seventh hour four satellites were there—two on each side of Jupiter (Fig. 33). Of these satellites, the most easterly was at a distance of 4´ from the next; this satellite was 1´ 40´´ from Jupiter; Jupiter was 6´ from the nearest satellite on the west, and this one from the satellite further to the west, 8´; and they were all alike in the same straight line, drawn in the direction of the Zodiac."
+    },
+    {
+      "id": "p0036",
+      "text": "Feb. 3: 7 h.—The satellites were arranged in the following way (Fig. 34):—The satellite on the east was at a distance of 1´ 30´´ from Jupiter; the nearest satellite on the west, 2´, and there was a long distance, 10´, from this satellite to the satellite further to the west. They were exactly in the same straight line, and of equal magnitude."
+    },
+    {
+      "id": "p0037",
+      "text": "Feb. 4: 2 h.—Four satellites attended Jupiter, two on the east and two on the west, arranged in one perfectly straight line, as in the adjoining figure (Fig. 35). The satellite furthest to the east was at a distance of 3´ from the next satellite. This one was 0´ 40´´ from Jupiter; Jupiter 4´ from the nearest satellite on the west; and this one from the satellite further to the west 6´. In magnitude they were nearly equal; the satellite nearest to Jupiter was rather smaller in appearance than the rest. But at the seventh hour (Fig. 36) the eastern satellites were at a distance of only 0´ 30´´ apart. Jupiter was 2´ from the nearest satellite on the east; and from the satellite on the west, next in order, 4´; this one was distant 3´ from the satellite further to the west. They were all equal in magnitude, and in a straight line, drawn in the direction of the ecliptic."
+    },
+    {
+      "id": "p0038",
+      "text": "Feb. 5.—The sky was cloudy."
+    },
+    {
+      "id": "p0039",
+      "text": "Feb. 6.—Two satellites only appeared, with Jupiter between them, as is seen in the accompanying figure (Fig. 37). The satellite on the east was 2´ from Jupiter, and that on the west 3´. They were in the same straight line with Jupiter, and were equal in magnitude."
+    },
+    {
+      "id": "p0040",
+      "text": "Feb. 7.—There were two satellites by the side of Jupiter, and both of them on the east of the planet, arranged in this manner (Fig. 38). The intervals between the satellites and Jupiter were equal, and of 1´ each; and a straight line would go through them and the centre of Jupiter."
+    },
+    {
+      "id": "p0041",
+      "text": "Feb. 8: 1 h.—Three satellites were there, all on the east side of Jupiter, as in the diagram (Fig. 39). The nearest to Jupiter, a rather small one, was distant from the planet 1´ 20´´; the middle one was 4´ from this satellite, and was rather large; the satellite furthest to the east, a very small one, was at a distance of 0´ 20´´ from this satellite. It was doubtful whether there was one satellite near to Jupiter or two, for sometimes it seemed that there was another satellite by its side towards the east, wonderfully small, and only 10´´ from it. They were all situated at points in a straight line drawn in the direction of the Zodiac. At the third hour the satellite nearest to Jupiter was almost touching the planet, for it was only distant 10´´ from it; but the others had become further off, for the middle one was 6´ from Jupiter. At length, at the fourth hour, the satellite which was previously the nearest to Jupiter joined with the planet and disappeared."
+    },
+    {
+      "id": "p0042",
+      "text": "Feb. 9: 0 h. 30 m.—There were two satellites on the east side of Jupiter, and one on the west, in an arrangement such as this (Fig. 40). The satellite furthest to the east, which was a rather small one, was distant 4´ from the next satellite; the satellite in the middle was larger, and at a distance of 7´ from Jupiter. Jupiter was distant 4´ from the western satellite, which was a small one."
+    },
+    {
+      "id": "p0043",
+      "text": "Feb. 10: 1 h. 30 m.—A pair of satellites, very small, and both on the east of the planet, were visible, in the following position (Fig. 41). The further satellite was distant from Jupiter 10´, the nearer 0´ 20´´, and they were in the same straight line; but at the fourth hour the satellite nearest to Jupiter no longer appeared, and the other seemed so diminished that it could scarcely be kept in sight, although the atmosphere was quite clear, and the satellite was further from Jupiter than before, since its distance was now 12´."
+    },
+    {
+      "id": "p0044",
+      "text": "Feb. 11: 1 h.—There were two satellites on the east, and one on the west (Fig. 42). The western satellite was at a distance of 4´ from Jupiter. The satellite on the east, nearest to the planet, was likewise 4´ from Jupiter; but the satellite further to the east was at a distance from this one of 8´; they were fairly clear to view, and in the same straight line; but at the third hour the fourth satellite was visible near to Jupiter on the east, less in magnitude than the rest, separated from Jupiter by a distance of 0´ 30´´, and slightly to the north out of the straight line drawn through the rest (Fig. 43). They were all very bright and extremely distinct, but at 5 h. 30 m. the satellite on the east nearest to Jupiter had moved further away from the planet, and was occupying a position midway between the planet and the neighbouring satellite further to the east. They were all in the same straight line exactly, and of the same magnitude, as may be seen in the accompanying diagram (Fig. 44)."
+    },
+    {
+      "id": "p0045",
+      "text": "Feb. 12: 0 h. 40 m.—A pair of satellites on the east, a pair likewise on the west, were near the planet (Fig. 45). The satellite on the east furthest removed from Jupiter was at a distance of 10´, and the further of the satellites on the west was 8´ off. They were both fairly distinct. The other two were very near to Jupiter, and very small, especially the satellite to the east, which was at a distance of 0´ 40´´ from Jupiter. The distance of the western satellite was 1´. But at the fourth hour the satellite which was nearest to Jupiter on the east was visible no longer."
+    },
+    {
+      "id": "p0046",
+      "text": "Feb. 13: 0 h. 30 m.—Two satellites were visible in the east, two also in the west (Fig. 46). The satellite on the east near Jupiter was fairly distinct; its distance from the planet was 2´. The satellite further to the east was less noticeable; it was distant 4´ from the other. Of the satellites on the west, the one furthest from Jupiter, which was very distinct, was parted from the planet 4´. Between this satellite and Jupiter intervened a small satellite close to the most westerly satellite, being not more than 0´ 3´´ off. They were all in the same straight line, corresponding exactly to the direction of the ecliptic."
+    },
+    {
+      "id": "p0047",
+      "text": "Feb. 15 (for on the 14th the sky was covered with clouds), at the first hour, the position of the satellites was thus (Fig. 47); that is, there were three satellites on the east, but none were visible on the west. The satellite on the east nearest to Jupiter was at a distance of 0´ 50´´ from the planet; the next in order was 0´ 20´´ from this satellite, and the furthest to the east was 2´ from the second satellite, and it was larger than the others, for those nearer to Jupiter were very small. But about the fifth hour only one of the satellites which had been near to Jupiter was to be seen; its distance from Jupiter was 0´ 30´´. The distance of the satellite furthest to the east from Jupiter had increased, for it was then 4´ (Fig. 48). But at the sixth hour, besides the two situated as just described on the east, one satellite was visible towards the west, very small, at a distance of 2´ from Jupiter (Fig. 49)."
+    },
+    {
+      "id": "p0048",
+      "text": "Feb. 16: 6 h.—Their places were arranged as follows (Fig. 50); that is, the satellite on the east was 7´ from Jupiter, Jupiter 5´ from the next satellite on the west, and this 3´ from the remaining satellite still further to the west. They were all of the same magnitude nearly, rather bright, and in the same straight line, corresponding accurately to the direction of the Zodiac."
+    },
+    {
+      "id": "p0049",
+      "text": "Feb. 17: 1 h.—Two satellites were in view, one on the east, distant 3´ from Jupiter; the other on the west, distant 10´ (Fig. 51). The latter was somewhat less than the satellite on the east; but at the sixth hour the eastern satellite was nearer to Jupiter, being at a distance of 0´ 50´´, and the western satellite was further off, namely 12´. At both observations they were in the same straight line with Jupiter, and were both rather small, especially the eastern satellite in the second observation."
+    },
+    {
+      "id": "p0050",
+      "text": "Feb. 18: 1 h.—Three satellites were in view, of which two were on the west and one on the east; the distance of the eastern satellite from Jupiter was 3´, and of the nearest satellite on the west 2´; the remaining satellite, still further to the west, was 8´ from the middle satellite (Fig. 52). They were all in the same straight line exactly, and of about the same magnitude. But at the second hour the satellites nearest to the planet were at equal distances from Jupiter, for the western satellite was now also 3´ from the planet. But at the sixth hour the fourth satellite was visible between the satellite on the east and Jupiter, in the following configuration (Fig. 53). The satellite furthest to the east was at a distance of 3´ from the next in order; this one was at a distance of 1´ 50´´ from Jupiter; Jupiter was at a distance of 3´ from the next satellite on the west, and this 7´ from the satellite still further to the west. These were nearly equal in magnitude, only the satellite on the east nearest to Jupiter was a little smaller than the rest, and they were all in the same straight line parallel to the ecliptic."
+    },
+    {
+      "id": "p0051",
+      "text": "Feb. 19: 0 h. 40 m.—Two satellites only were in view, west of Jupiter, rather large, and arranged exactly in the same straight line with Jupiter, in the direction of the ecliptic (Fig. 54). The nearer satellite was at a distance of 7´ from Jupiter and of 6´ from the satellite further to the west."
+    },
+    {
+      "id": "p0052",
+      "text": "Feb. 20.—The sky was cloudy."
+    },
+    {
+      "id": "p0053",
+      "text": "Feb. 21: 1 h. 30 m.—Three satellites, rather small, were in view, placed thus (Fig. 55). The satellite to the east was 2´ from Jupiter; Jupiter was 3´ from the next, which was on the west; and this one was 7´ from the satellite further to the west. They were exactly in the same straight line parallel to the ecliptic."
+    },
+    {
+      "id": "p0054",
+      "text": "Feb. 25: 1 h. 30 m. (for on the three previous nights the sky was overcast).—Three satellites appeared, two on the east, which were at a distance of 4´ apart, the same as the distance of the nearer satellite from Jupiter; on the west there was one satellite at a distance of 2´ from Jupiter. They were exactly in the same straight line in the direction of the ecliptic (Fig. 56)."
+    },
+    {
+      "id": "p0055",
+      "text": "Feb. 26: 0 h. 30 m.—A pair of satellites only were present, one on the east, distant 10´ from Jupiter; the other was on the west, at a distance of 6´ (Fig. 57). The eastern satellite was slightly smaller than the western. At the fifth hour three satellites were visible; for, besides the two already noticed, a third satellite was in view, on the west, near Jupiter, very small, which previously had been hidden behind Jupiter, and it was at a distance of 1´ from the planet (Fig. 58)."
+    },
+    {
+      "id": "p0056",
+      "text": "But the satellite on the east was seen to be further off than before, being at a distance of 11´ from Jupiter. On this night, for the first time, I determined to observe the motion of Jupiter and the adjacent planets (his satellites) along the zodiac, by reference to some fixed star; for there was a fixed star in view, eastwards of Jupiter, at a distance of 11´ from the satellite on the east, and a little to the south, in the following manner (Fig. 59)."
+    },
+    {
+      "id": "p0057",
+      "text": "Feb. 27: 1 h. 4 m.—The satellites appeared in the following configuration. The satellite furthest to the east was at a distance of 10´ from Jupiter; the next in order was near Jupiter, being at a distance of 0´ 30´´ from the planet. The next satellite was on the western side, at a distance of 2´ 30´´ from Jupiter; and the satellite further to the west was at a distance of 1´ from this. The two satellites near to Jupiter appeared small, especially the satellite on the east; but the satellites furthest off were very bright, particularly that on the west, and they made a straight line in the direction of the ecliptic exactly. The motion of the planets towards the east was plainly seen by reference to the aforesaid fixed star, for Jupiter and his attendant satellites were nearer to it, as may be seen in the accompanying figure (Fig. 60). At the fifth hour the satellite on the east, near to Jupiter, was 1´ from the planet."
+    },
+    {
+      "id": "p0058",
+      "text": "Feb. 28: 1 h.—Only two satellites were visible, one on the east, at a distance of 9´ from Jupiter, and another on the west, at a distance of 2´; they were both rather bright, and in the same straight line with Jupiter, and a straight line drawn from the fixed star perpendicular to this straight line fell upon the satellite on the east, as in the figure (Fig. 61). At the fifth hour a third satellite was seen at a distance of 2´ from Jupiter, on the east, in the position shown in the figure (Fig. 62)."
+    },
+    {
+      "id": "p0059",
+      "text": "March 1: 0 h. 40 m.—Four satellites, all on the east of the planet, were seen; the satellite nearest to Jupiter was 2´ from the planet; the next 1´ from this; the third was 0´ 20´´ from the second, and was brighter than the others; and the satellite still further to the east was at a distance of 4´ from it, and was smaller than the others (Fig. 63). They made a straight line very nearly, only the satellite third from Jupiter was slightly above the line. The fixed star formed with Jupiter and the most easterly satellite an equilateral triangle, as in the figure."
+    },
+    {
+      "id": "p0060",
+      "text": "March 2: 0 h. 40 m.—Three satellites were in attendance, two on the east and one on the west, in the configuration shown in the diagram (Fig. 64). The satellite furthest to the east was 7´ from Jupiter; from this satellite the next was distant 0´ 30´´, and the satellite on the west was separated from Jupiter by an interval of 2´. The satellites furthest off were brighter and larger than the remaining satellite, which appeared very small. The satellite furthest to the east seemed to be raised a little towards the north, out of the straight line drawn through the other satellites and Jupiter."
+    },
+    {
+      "id": "p0061",
+      "text": "The fixed star already noticed was at a distance of 8´ from the western satellite, that is, from the perpendicular drawn from that satellite to the straight line drawn through all the system, as shown in the figure given."
+    },
+    {
+      "id": "p0062",
+      "text": "These determinations of the motion of Jupiter and the adjacent planets (his satellites) by reference to a fixed star, I have thought well to present to the notice of astronomers, in order that any one may be able to understand from them that the movements of these planets (Jupiter’s satellites) both in longitude and in latitude agree exactly with the motions [of Jupiter] which are extracted from tables."
+    },
+    {
+      "id": "p0063",
+      "text": "These are my observations upon the four Medicean planets, recently discovered for the first time by me; and although it is not yet permitted me to deduce by calculation from these observations the orbits of these bodies, yet I may be allowed to make some statements, based upon them, well worthy of attention."
+    },
+    {
+      "id": "p0064",
+      "text": "[Sidenote: Deductions from the previous observations concerning the orbits and periods of Jupiter’s satellites.]"
+    },
+    {
+      "id": "p0065",
+      "text": "And, in the first place, since they are sometimes behind, sometimes before Jupiter, at like distances, and withdraw from this planet towards the east and towards the west only within very narrow limits of divergence, and since they accompany this planet alike when its motion is retrograde and direct, it can be a matter of doubt to no one that they perform their revolutions about this planet, while at the same time they all accomplish together orbits of twelve years’ length about the centre of the world. Moreover, they revolve in unequal circles, which is evidently the conclusion to be drawn from the fact that I have never been permitted to see two satellites in conjunction when their distance from Jupiter was great, whereas near Jupiter two, three, and sometimes all (four), have been found closely packed together. Moreover, it may be detected that the revolutions of the satellites which describe the smallest circles round Jupiter are the most rapid, for the satellites nearest to Jupiter are often to be seen in the east, when the day before they have appeared in the west, and contrariwise. Also the satellite moving in the greatest orbit seems to me, after carefully weighing the occasions of its returning to positions previously noticed, to have a periodic time of half a month. Besides, we have a notable and splendid argument to remove the scruples of those who can tolerate the revolution of the planets round the Sun in the Copernican system, yet are so disturbed by the motion of one Moon about the Earth, while both accomplish an orbit of a year’s length about the Sun, that they consider that this theory of the constitution of the universe must be upset as impossible; for now we have not one planet only revolving about another, while both traverse a vast orbit about the Sun, but our sense of sight presents to us four satellites circling about Jupiter, like the Moon about the Earth, while the whole system travels over a mighty orbit about the Sun in the space of twelve years."
+    },
+    {
+      "id": "p0066",
+      "text": "[17] In the edition of Galileo’s works published at Florence, 1854, there are given the tables of the hourly movements of the satellites of Jupiter, from which Galileo determined their periods of revolution. In the beginning of his treatise on floating bodies, _Discorso intorno i Galleggianti_, 1611-12, Galileo gives the times of rotation as approximately, (i.) 1 d. 18-1/2 h.; (ii.) 3 d. 13-1/3 h.; (iii.) 7 d. 4 h.; (iv.) 16 d. 18 h.; he also published configurations of the satellites calculated for March, April, and a part of May 1613. The periodic times of the satellites, as corrected by later observers, are, (i.) 1 d. 18 h. 28 m.; (ii.) 3 d. 13 h. 15 m.; (iii.) 7 d. 3 h. 43 m.; (iv.) 16 d. 16 h. 32 m."
+    },
+    {
+      "id": "p0067",
+      "text": "[Sidenote: Explanation of the variations in brightness of Jupiter’s satellites.]"
+    },
+    {
+      "id": "p0068",
+      "text": "Lastly, I must not pass over the consideration of the reason why it happens that the Medicean stars, in performing very small revolutions about Jupiter, seem sometimes more than twice as large as at other times. We can by no means look for the explanation in the mists of the Earth’s atmosphere, for they appear increased or diminished, while the discs of Jupiter and neighbouring fixed stars are seen quite unaltered. That they approach and recede from the Earth at the points of their revolutions nearest to and furthest from the Earth to such an extent as to account for so great changes seems altogether untenable, for a strict circular motion can by no means show those phenomena; and an elliptical motion (which in this case would be nearly rectilinear) seems to be both untenable and by no means in harmony with the phenomena observed. But I gladly publish the explanation which has occurred to me upon this subject, and submit it to the judgment and criticism of all true philosophers. It is certain that when atmospheric mists intervene the Sun and Moon appear larger, but the fixed stars and planets less than they really are; hence the former luminaries, when near the horizon, are larger than at other times, but stars appear smaller, and are frequently scarcely visible; also they are still more diminished if those mists are bathed in light; so stars appear very small by day and in the twilight, but the Moon does not appear so, as I have previously remarked. Moreover, it is certain that not only the Earth, but also the Moon, has its own vaporous sphere enveloping it, for the reasons which I have previously mentioned, and especially for those which shall be stated more fully in my _System_; and we may consistently decide that the same is true with regard to the rest of the planets; so that it seems to be by no means an untenable opinion to place round Jupiter also an atmosphere denser than the rest of the ether, about which, like the Moon about the sphere of the elements, the Medicean planets (Jupiter’s satellites) revolve; and that by the intervention of this atmosphere they appear smaller when they are in apogee; but when in perigee, through the absence or attenuation of that atmosphere, they appear larger. Want of time prevents my going further into these matters; my readers may expect further remarks upon these subjects in a short time."
+    },
+    {
+      "id": "p0069",
+      "text": "[18] Modern astronomers agree in assigning an atmosphere to Jupiter, but consider it not extensive enough to affect the brightness of the satellites.—(WEBB, _Celestial Objects for Common Telescopes_.) Their absolute magnitudes are different, and their surfaces have been observed to be obscured by spots, which may account for the variations of their brightness. These spots, like the lunar spots, are probably due to variations of reflective power at different parts of their surfaces, for as they always turn the same face to Jupiter, they present different portions of their surfaces to us periodically, and it has been ascertained by observation that “these fluctuations in their brightness are periodical, depending on their position with respect to the Sun.”—(HERSCHEL, _Outlines of Astronomy_; ARAGO, _Astronomie Populaire_, 1854.)"
+    },
+    {
+      "id": "p0070",
+      "text": "_Original Configurations of Jupiter’s Satellites observed by Galileo in the months of January, February, and March 1610, and published with the 1st edition of his book_ Sidereus Nuncius, _Venice, 1610._"
+    },
+    {
+      "id": "p0071",
+      "text": "—————————+———————————+———————————————+——————————————— FIG. | DATE. | EAST. | WEST. —————————+———————————+———————————————+——————————————— 1 | Jan. 7 | | | • • ◯ • —————————+———————————+——————————————————————————————— 2 | 8 | | | ◯ • • • —————————+———————————+——————————————————————————————— 3 | 10 | | | • • ◯ —————————+———————————+——————————————————————————————— 4 | 11 | | | • • ◯ —————————+———————————+——————————————————————————————— 5 | 12 | | | • •◯ • —————————+———————————+—————————-————————————————————— 6 | 13 | | | • ◯ • ⠁ • —————————+———————————+——————————————————————————————— 7 | 15 | • | | ◯ • • • —————————+———————————+——————————————————————————————— 8 | 15 | | | ◯ • • • —————————+———————————+——————————————————————————————— 9 | 16 | | | • ◯ • • —————————+———————————+——————————————————————————————— 10 | 17 | | | • ◯ • —————————+———————————+——————————————————————————————— 11 | Jan. 17 | • • | | • ◯ —————————+———————————+——————————————————————————————— 12 | 18 | | | • ◯ • —————————+———————————+——————————————————————————————— 13 | 19 | | | • ◯ • • —————————+———————————+——————————————————————————————— 14 | 19 | | | • • ◯ • • —————————+———————————+——————————————————————————————— 15 | 20 | | | • ◯ • • —————————+———————————+——————————————————————————————— 16 | 20 | | | • ◯ • • —————————+———————————+——————————————————————————————— 17 | 20 | • ◯ • • | | • —————————+———————————+——————————————————————————————— 18 | 21 | | | • • ◯ • —————————+———————————+——————————————————————————————— 19 | 22 | • ◯• • | | • —————————+———————————+——————————————————————————————— 20 | 22 | | | • ◯ • • • —————————+———————————+——————————————————————————————— 21 | 23 | | | • • ◯ • —————————+———————————+——————————————————————————————— 22 | 23 | | | • ◯ —————————+———————————+——————————————————————————————— 23 | 24 | • • ◯ | | • —————————+———————————+——————————————————————————————— 24 | 25 | | | • • ◯ —————————+———————————+——————————————————————————————— 25 | 26 | | | • • ◯ • —————————+———————————+——————————————————————————————— 26 | 26 | • | | • • ◯ • —————————+———————————+——————————————————————————————— 27 | 27 | | | • ◯ —————————+———————————+——————————————————————————————— 28 | 30 | • | | • ◯ • —————————+———————————+——————————————————————————————— 29 | 31 | • | | • ◯ • —————————+———————————+——————————————————————————————— 30 | Jan. 31 | • | | • ◯ • —————————+———————————+——————————————————————————————— 31 | Feb. 1 | | | • • ◯ • —————————+———————————+——————————————————————————————— 32 | 2 | | | • ◯ • • —————————+———————————+——————————————————————————————— 33 | 2 | | | • • ◯ • • —————————+———————————+——————————————————————————————— 34 | 3 | | | • ◯ • • —————————+———————————+——————————————————————————————— 35 | 4 | | | • • ◯ • • —————————+———————————+——————————————————————————————— 36 | 4 | | | • • ◯ • • —————————+———————————+——————————————————————————————— 37 | 6 | | | • ◯ • —————————+———————————+——————————————————————————————— 38 | 7 | | | • • ◯ —————————+———————————+——————————————————————————————— 39 | 8 | | | • • • ◯ —————————+———————————+——————————————————————————————— 40 | 9 | | | • • ◯ • —————————+———————————+——————————————————————————————— 41 | 10 | | | • • ◯ —————————+———————————+——————————————————————————————— 42 | 11 | | | • • ◯ • —————————+———————————+——————————————————————————————— 43 | 11 | • | | • • ◯ • —————————+———————————+——————————————————————————————— 44 | 11 | | | • • • ◯ • —————————+———————————+——————————————————————————————— 45 | 12 | | | • • ◯ • • —————————+———————————+——————————————————————————————— 46 | 13 | | | • • ◯ • • —————————+———————————+——————————————————————————————— 47 | 15 | | | • • • ◯ —————————+———————————+——————————————————————————————— 48 | 15 | | | • • ◯ —————————+———————————+——————————————————————————————— 49 | Feb. 15 | | | • • ◯ • —————————+———————————+——————————————————————————————— 50 | 16 | | | • ◯ • • —————————+———————————+——————————————————————————————— 51 | 17 | | | • ◯ • —————————+———————————+——————————————————————————————— 52 | 18 | | | • ◯ • • —————————+———————————+——————————————————————————————— 53 | 18 | | | • • ◯ • • —————————+———————————+——————————————————————————————— 54 | 19 | | | ◯ • • —————————+———————————+——————————————————————————————— 55 | 21 | | | • ◯ • • —————————+———————————+——————————————————————————————— 56 | 25 | | | • • ◯ • —————————+———————————+——————————————————————————————— 57 | 26 | | | • ◯ • —————————+———————————+——————————————————————————————— 58 | 26 | | | • ◯ • • —————————+———————————+——————————————————————————————— 59 | 26 | • ◯ • • | | ⨀ Star. —————————+———————————+——————————————————————————————— 60 | 27 | • • ◯ • • | | Star ⨀ —————————+———————————+——————————————————————————————— 61 | 28 | • ◯ • | | Star ⨀ —————————+———————————+——————————————————————————————— 62 | 28 | | | • • ◯ • —————————+———————————+——————————————————————————————— 63 | Mar. 1 | • | | • • • ◯ | | Star ⨀ —————————+———————————+——————————————————————————————— 64 | 2 | • | | • ◯ • | | Star ⨀ —————————+———————————+———————————————————————————————"
+    }
+  ],
+  "anchors": {
+    "science-galileo-jupiter": {
+      "paragraphId": "p0065",
+      "start": 509,
+      "end": 825,
+      "quote": "Moreover, they revolve in unequal circles, which is evidently the conclusion to be drawn from the fact that I have never been permitted to see two satellites in conjunction when their distance from Jupiter was great, whereas near Jupiter two, three, and sometimes all (four), have been found closely packed together.",
+      "match": "normalized-exact"
+    }
+  }
+}

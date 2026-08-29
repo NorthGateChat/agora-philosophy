@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-pragmatism-and-abduction-section-2-4dbeed50",
+  "title": "节 2",
+  "englishTitle": "Section 2",
+  "work": "《实用主义与溯因》",
+  "englishWork": "Pragmatism and Abduction",
+  "locator": "节 2",
+  "englishLocator": "Section 2",
+  "version": "皮尔士 CP 5.189 数字转录，1903 年哈佛实用主义讲演第七讲",
+  "englishVersion": "Digital transcription of Peirce CP 5.189, Harvard Lectures on Pragmatism VII (1903)",
+  "sourceUrl": "https://www.textlog.de/7664-2.html",
+  "source": {
+    "url": "https://www.textlog.de/7664-2.html",
+    "contentType": "text/html",
+    "sha256": "5e9f4a58a139387628b79c27bbc05e4af93296fc3d1477f79dd857d42a2c3285"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "f498e311609c38f0a964390a2fdf108b9a6e843d3ee0fc4b0f264b60a7f536c6",
+  "inputHash": "2f2add907067ff067ec08828408a40b01dc16b1530f7b33577eb739aea13f7a9",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "187. We thus come to the test of inconceivability as the only means of distinguishing between an abduction and a perceptual judgment. Now I fully assent to all that Stuart Mill so forcibly said in his Examination of Hamilton as to the utter untrustworthiness of the test of inconceivability. 1) That which is inconceivable to us today, may prove tomorrow to be conceivable and even probable; so that we never can be absolutely sure that a judgment is perceptual and not abductive; and this may seem to constitute a difficulty in the way of satisfying ourselves that the first cotary proposition is true."
+    },
+    {
+      "id": "p0002",
+      "text": "I should easily show you that this difficulty, however formidable theoretically, amounts practically to little or nothing for a person skilled in shaping such inquiries. But this is unnecessary, since the objection founded upon it has no logical force whatever."
+    },
+    {
+      "id": "p0003",
+      "text": "188. No doubt, in regard to the first cotary proposition, [that proposition] follows as a necessary consequence of the possibility that what are really abductions have been mistaken for perceptions. For the question is whether that which really is an abductive result can contain elements foreign to its premisses. It must be remembered that abduction, although it is very little hampered by logical rules, nevertheless is logical inference, asserting its conclusion only problematically or conjecturally, it is true, but nevertheless having a perfectly definite logical form."
+    },
+    {
+      "id": "p0004",
+      "text": "189. Long before I first classed abduction as an inference it was recognized by logicians that the operation of adopting an explanatory hypothesis � which is just what abduction is � was subject to certain conditions. Namely, the hypothesis cannot be admitted, even as a hypothesis, unless it be supposed that it would account for the facts or some of them. The form of inference, therefore, is this:"
+    },
+    {
+      "id": "p0005",
+      "text": "The surprising fact, C, is observed;"
+    },
+    {
+      "id": "p0006",
+      "text": "But if A were true, C would be a matter of course,"
+    },
+    {
+      "id": "p0007",
+      "text": "Hence, there is reason to suspect that A is true."
+    },
+    {
+      "id": "p0008",
+      "text": "Thus, A cannot be abductively inferred, or if you prefer the expression, cannot be abductively conjectured until its entire content is already present in the premiss, �If A were true, C would be a matter of course.�"
+    },
+    {
+      "id": "p0009",
+      "text": "190. Whether this be a correct account of the matter or not, the mere suggestion of it as a possibility shows that the bare fact that abductions may be mistaken for perceptions does not necessarily affect the force of an argument to show [that] quite new conceptions cannot be obtained from abduction."
+    },
+    {
+      "id": "p0010",
+      "text": "191. But when the account just given of abduction is proposed as a proof that all conceptions must be given substantially in perception, three objections will be started. Namely, in the first place, it may be said that even if this be the normative form of abduction, the form to which abduction ought to conform, yet it may be that new conceptions arise in a manner which puts the rules of logic at defiance. In the second place, waiving this objection, it may be said that the argument would prove too much; for if it were valid, it would follow that no hypothesis could be so fantastic as not to have presented itself entire in experience. In the third place, it may be said that granting that the abductive conclusion, �A is true� rests upon the premiss, �If A is true, C is true,� still it would be contrary to common knowledge to assert that the antecedents of all conditional judgments are given in perception, and thus it remains almost certain that some conceptions have a different origin."
+    },
+    {
+      "id": "p0011",
+      "text": "192. In answer to the first of these objections, it is to be remarked that it is only in deduction that there is no difference between a valid argument and a strong one. An argument is valid if it possesses the sort of strength that it professes and tends toward the establishment of the conclusion in the way in which it pretends to do this. But the question of its strength does not concern the comparison of the due effect of the argument with its pretensions, but simply upon how great its due effect is. An argument is none the less logical for being weak, provided it does not pretend to a strength that it does not possess. It is, I suppose, in view of this that the best modern logicians outside the English school never say a word about fallacies. They assume that there is no such thing as an argument illogical in itself. An argument is fallacious only so far as it is mistakenly, though not illogically, inferred to have professed what it did not perform. Perhaps it may be said that if all our reasonings conform to the laws of logic, this is, at any rate, nothing but a proposition in psychology which my principles ought to forbid my recognizing. But I do not offer it as a principle of psychology only. For a principle of psychology is a contingent truth, while this, as I contend, is a necessary truth. Namely, if a fallacy involves nothing in its conclusion which was not in its premisses, that is nothing that was not in any previous knowledge that aided in suggesting it, then the forms of logic will invariably and necessarily enable us logically to account for it as due to a mistake arising from the use of a logical but weak argumentation. 1) In most cases it is due to an abduction. The conclusion of an abduction is problematic or conjectural, but is not necessarily at the weakest grade of surmise, and what we call assertoric judgments are, accurately, problematic judgments of a high grade of hopefulness. There is therefore no difficulty in maintaining that fallacies are merely due to mistakes which are logically valid, though weak argumentations. If, however, a fallacy contains something in the conclusion which was not in the premisses at all, that is, was in no previous knowledge or none that influenced the result, then again a mistake, due as before to weak inference, has been committed; only in this case the mistake consists in taking that to be an inference which, in respect to this new element, is not an inference, at all. That part of the conclusion which inserts the wholly new element can be separated from the rest with which it has no logical connection nor appearance of logical connection. The first emergence of this new element into consciousness must be regarded as a perceptive judgment. We are irresistibly led to judge that we are conscious of it. But the connection of this perception with other elements must be an ordinary logical inference, subject to error like all inference."
+    },
+    {
+      "id": "p0012",
+      "text": "193. As for the second objection that, according to my account of abduction, every hypothesis, however fantastic, must have presented itself entire in perception, I have only to say that this could only arise in a mind entirely unpractised in the logic of relations, and apparently quite oblivious of any other mode of inference than abduction. Deduction accomplishes first the simple colligation of different perceptive judgments into a copulative whole, and then, with or without the aid of other modes of inference, is quite capable of transforming this copulative proposition so as to bring certain of its parts into more intimate connection."
+    },
+    {
+      "id": "p0013",
+      "text": "194. But the third objection is the really serious one. In it lies the whole nodus of the question; and its full refutation would be quite a treatise. If the antecedent is not given in a perceptive judgment, then it must first emerge in the conclusion of an inference. At this point we are obliged to draw the distinction between the matter and the logical form. With the aid of the logic of relations it would be easy to show that the entire logical matter of a conclusion must in any mode of inference be contained, piecemeal, in the premisses. Ultimately therefore it must come from the uncontrolled part of the mind, because a series of controlled acts must have a first. But as to the logical form, it would be, at any rate, extremely difficult to dispose of it in the same way. An induction, for example, concludes a ratio of frequency; but there is nothing about any such ratio in the single instances on which it is based. Where do the conceptions of deductive necessity, of inductive probability, of abductive expectability come from? Where does the conception of inference itself come from? That is the only difficulty. But self-control is the character which distinguishes reasonings from the processes by which perceptual judgments are formed, and self-control of any kind is purely inhibitory. It originates nothing. Therefore it cannot be in the act of adoption of an inference, in the pronouncing of it to be reasonable, that the formal conceptions in question can first emerge. It must be in the first perceiving that so one might conceivably reason. And what is the nature of that? I see that I have instinctively described the phenomenon as a �perceiving.� I do not wish to argue from words; but a word may furnish a valuable suggestion. What can our first acquaintance with an inference, when it is not yet adopted, be but a perception of the world of ideas? In the first suggestion of it, the inference must be thought of as an inference, because when it is adopted there is always the thought that so one might reason in a whole class of cases. But the mere act of inhibition cannot introduce this conception. The inference must, then, be thought of as an inference in the first suggestion of it. Now when an inference is thought of as an inference, the conception of inference becomes a part of the matter of thought. Therefore, the same argument which we used in regard to matter in general applies to the conception of inference. But I am prepared to show in detail, and indeed virtually have shown, that all the forms of logic can be reduced to combinations of the conception of inference, the conception of otherness, and the conception of a character. 1) These are obviously simply forms of Thirdness, Secondness, and Firstness of which the last two are unquestionably given in perception. Consequently the whole logical form of thought is so given in its elements."
+    }
+  ],
+  "anchors": {
+    "peirce-abduction": {
+      "paragraphId": "p0005",
+      "start": 0,
+      "end": 36,
+      "match": "normalized-adjacent-paragraphs",
+      "segments": [
+        {
+          "paragraphId": "p0005",
+          "start": 0,
+          "end": 36,
+          "text": "The surprising fact, C, is observed;"
+        },
+        {
+          "paragraphId": "p0006",
+          "start": 0,
+          "end": 50,
+          "text": "But if A were true, C would be a matter of course,"
+        },
+        {
+          "paragraphId": "p0007",
+          "start": 0,
+          "end": 49,
+          "text": "Hence, there is reason to suspect that A is true."
+        }
+      ],
+      "quote": "The surprising fact, C, is observed; But if A were true, C would be a matter of course, Hence, there is reason to suspect that A is true."
+    }
+  }
+}

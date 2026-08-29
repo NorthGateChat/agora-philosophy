@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:46:49.606Z",
+  "inventoryPath": "research/reading-units/inventory.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9"
+  ],
+  "dryRun": false,
+  "allowNetwork": false,
+  "concurrency": 3,
+  "summary": {
+    "considered": 1,
+    "written": 1,
+    "wouldWrite": 0,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 1,
+    "anchorsMatched": 1,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 72,
+      "characterCount": 23587,
+      "publicByteCount": 29317,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I"
+        }
+      ],
+      "locatorStructureKey": "part-i",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=A+Dynamical+Theory+of+the+Electromagnetic+Field%2FPart+I&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "d739c0017dc8c346b0204c6885f046bd36bb123933bdcbe538141ce7b746e263",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

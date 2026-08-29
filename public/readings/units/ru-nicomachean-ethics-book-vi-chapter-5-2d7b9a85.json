@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-nicomachean-ethics-book-vi-chapter-5-2d7b9a85",
+  "title": "卷 VI · 章 5",
+  "englishTitle": "Book VI · Chapter 5",
+  "work": "《尼各马可伦理学》",
+  "englishWork": "Nicomachean Ethics",
+  "locator": "卷 VI · 章 5",
+  "englishLocator": "Book VI · Chapter 5",
+  "version": "MIT 经典文库 W. D. Ross 公版英译，亚里士多德《尼各马可伦理学》VI.5，1140b4—6",
+  "englishVersion": "MIT Internet Classics Archive, W. D. Ross public-domain translation, Aristotle, Nicomachean Ethics VI.5, 1140b4–6",
+  "sourceUrl": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+  "source": {
+    "url": "https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html",
+    "contentType": "text/html",
+    "sha256": "cade08f009b99c3af090acc33f5b41591a32e566a34b13fb1194002ec27865b0"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "1fed0194ecf2dcb39a4df26d11c8be1fa6ce7c77e3d175b3e06843c6f0fdf6e3",
+  "inputHash": "14a51711a036e36f62148a5b9d1c331526b6563f3e843660e79f1d0a2546f7a5",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "5"
+    },
+    {
+      "id": "p0002",
+      "text": "Regarding practical wisdom we shall get at the truth by considering who are the persons we credit with it. Now it is thought to be the mark of a man of practical wisdom to be able to deliberate well about what is good and expedient for himself, not in some particular respect, e.g. about what sorts of thing conduce to health or to strength, but about what sorts of thing conduce to the good life in general. This is shown by the fact that we credit men with practical wisdom in some particular respect when they have calculated well with a view to some good end which is one of those that are not the object of any art. It follows that in the general sense also the man who is capable of deliberating has practical wisdom. Now no one deliberates about things that are invariable, nor about things that it is impossible for him to do. Therefore, since scientific knowledge involves demonstration, but there is no demonstration of things whose first principles are variable (for all such things might actually be otherwise), and since it is impossible to deliberate about things that are of necessity, practical wisdom cannot be scientific knowledge nor art; not science because that which can be done is capable of being otherwise, not art because action and making are different kinds of thing. The remaining alternative, then, is that it is a true and reasoned state of capacity to act with regard to the things that are good or bad for man. For while making has an end other than itself, action cannot; for good action itself is its end. It is for this reason that we think Pericles and men like him have practical wisdom, viz. because they can see what is good for themselves and what is good for men in general; we consider that those can do this who are good at managing households or states. (This is why we call temperance (sophrosune) by this name; we imply that it preserves one's practical wisdom (sozousa tan phronsin). Now what it preserves is a judgement of the kind we have described. For it is not any and every judgement that pleasant and painful objects destroy and pervert, e.g. the judgement that the triangle has or has not its angles equal to two right angles, but only judgements about what is to be done. For the originating causes of the things that are done consist in the end at which they are aimed; but the man who has been ruined by pleasure or pain forthwith fails to see any such originating cause-to see that for the sake of this or because of this he ought to choose and do whatever he chooses and does; for vice is destructive of the originating cause of action.) Practical wisdom, then, must be a reasoned and true state of capacity to act with regard to human goods. But further, while there is such a thing as excellence in art, there is no such thing as excellence in practical wisdom; and in art he who errs willingly is preferable, but in practical wisdom, as in the virtues, he is the reverse. Plainly, then, practical wisdom is a virtue and not an art. There being two parts of the soul that can follow a course of reasoning, it must be the virtue of one of the two, i.e. of that part which forms opinions; for opinion is about the variable and so is practical wisdom. But yet it is not only a reasoned state; this is shown by the fact that a state of that sort may forgotten but practical wisdom cannot."
+    }
+  ],
+  "anchors": {
+    "aristotle-practical-wisdom": {
+      "paragraphId": "p0002",
+      "start": 1296,
+      "end": 1443,
+      "quote": "The remaining alternative, then, is that it is a true and reasoned state of capacity to act with regard to the things that are good or bad for man.",
+      "match": "normalized-exact"
+    }
+  }
+}

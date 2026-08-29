@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-essay-on-the-golden-lion-i-clarifying-dependent--named-chapter-i-clarifying-dependent-arising-36c69243",
+  "title": "篇 I: Clarifying Dependent Arising",
+  "englishTitle": "Chapter I: Clarifying Dependent Arising",
+  "work": "《华严金师子章·明缘起第一》",
+  "englishWork": "Essay on the Golden Lion, I: Clarifying Dependent Arising",
+  "locator": "篇 I: Clarifying Dependent Arising",
+  "englishLocator": "Chapter I: Clarifying Dependent Arising",
+  "version": "维基文库《华严金师子章·明缘起第一》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Essay on the Golden Lion, I: Clarifying Dependent Arising; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E8%8F%AF%E5%9A%B4%E9%87%91%E5%B8%AB%E5%AD%90%E7%AB%A0",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "c3357fd3db088cf22cb9e16df97c18826e62967060aeec12e691c0a721976a2e"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "bbe84dfcb66db58bfb9474a95aefc2222757385f6891554604d2d1581bd43b9e",
+  "inputHash": "27204bccd96757c7ff10f4a7662389a8933dbc1900afd5528240c6108315ad29",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "明缘起第一"
+    },
+    {
+      "id": "p0002",
+      "text": "谓金无自性随工巧匠缘　金喻真如不守自性。匠况生灭随顺妄缘"
+    },
+    {
+      "id": "p0003",
+      "text": "遂有师子相起　喻真妄和合。成阿赖耶识。此识有二义。一者觉义。为净缘起。二者不觉义。作染缘起"
+    },
+    {
+      "id": "p0004",
+      "text": "起但是缘故名缘起　经云。诸法从缘起。无缘即不起。即理事无碍门。同一缘起也。上句示缘。中句辨起。下句总结。然释此初章。非独摭起信申义。亦乃采下文为准"
+    }
+  ],
+  "anchors": {
+    "chinese-fazang-golden-lion-dependent-arising": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 10,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0002",
+          "start": 0,
+          "end": 10,
+          "text": "谓金无自性随工巧匠缘"
+        },
+        {
+          "paragraphId": "p0003",
+          "start": 0,
+          "end": 6,
+          "text": "遂有师子相起"
+        },
+        {
+          "paragraphId": "p0004",
+          "start": 0,
+          "end": 8,
+          "text": "起但是缘故名缘起"
+        }
+      ],
+      "quote": "谓金无自性，随工巧匠缘，……遂有师子相起。……起但是缘，故名缘起。"
+    }
+  }
+}

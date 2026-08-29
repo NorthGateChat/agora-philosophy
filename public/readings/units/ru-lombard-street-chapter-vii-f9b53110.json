@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-lombard-street-chapter-vii-f9b53110",
+  "title": "章 VII",
+  "englishTitle": "Chapter VII",
+  "work": "《伦巴第街》",
+  "englishWork": "Lombard Street",
+  "locator": "章 VII",
+  "englishLocator": "Chapter VII",
+  "version": "古登堡计划英文原文，《伦巴第街》第7章，恐慌放款的两项规则；卡片以省略号标示段间删节",
+  "englishVersion": "Project Gutenberg English text, Lombard Street, Chapter VII, the two rules for advances in a panic; omissions between paragraphs marked with ellipses",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/4/3/5/4359/4359.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/4/3/5/4359/4359.txt",
+    "contentType": "text/plain",
+    "sha256": "33b10f32a6551d0e50d97538651fc7980327b61f9df4f0d8fdc467228426e9da"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "20065257cb7e4e5184cca0a6437ef45adff5df338c4e8576c0c559a1dae99c2e",
+  "inputHash": "5edb82beaf8dda5ee8308e93f01e0aaff74fb5fdeaa89857db0ba38495a7299b",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER VII."
+    },
+    {
+      "id": "p0002",
+      "text": "A More Exact Account of the Mode in Which the Bank of England Has Discharged Its Duty of Retaining a Good Bank Reserve, and of Administering It Effectually."
+    },
+    {
+      "id": "p0003",
+      "text": "The preceding chapters have in some degree enabled us to appreciate the importance of the duties which the Bank of England is bound to discharge as to its banking reserve."
+    },
+    {
+      "id": "p0004",
+      "text": "If we ask how the Bank of England has discharged this great responsibility, we shall be struck by three things: first, as has been said before, the Bank has never by any corporate act or authorised utterance acknowledged the duty, and some of its directors deny it; second (what is even more remarkable), no resolution of Parliament, no report of any Committee of Parliament (as far as I know), no remembered speech of a responsible statesman, has assigned or enforced that duty on the Bank; third (what is more remarkable still), the distinct teaching of our highest authorities has often been that no public duty of any kind is imposed on the Banking Department of the Bank; that, for banking purposes, it is only a joint stock bank like any other bank; that its managers should look only to the interest of the proprietors and their dividend; that they are to manage as the London and Westminster Bank or the Union Bank manages."
+    },
+    {
+      "id": "p0005",
+      "text": "At first, it seems exceedingly strange that so important a responsibility should be unimposed, unacknowledged, and denied; but the explanation is this. We are living amid the vestiges of old controversies, and we speak their language, though we are dealing with different thoughts and different facts. For more than fifty years--from 1793 down to 1844--there was a keen controversy as to the public duties of the Bank. It was said to be the 'manager' of the paper currency, and on that account many expected much good from it; others said it did great harm; others again that it could do neither good nor harm. But for the whole period there was an incessant and fierce discussion. That discussion was terminated by the Act of 1844. By that Act the currency manages itself; the entire working is automatic. The Bank of England plainly does not manage--cannot even be said to manage--the currency any more. And naturally, but rashly, the only reason upon which a public responsibility used to be assigned to the Bank having now clearly come to an end, it was inferred by many that the Bank had no responsibility. The complete uncertainty as to the degree of responsibility acknowledged by the Bank of England is best illustrated by what has been said by the Bank directors themselves as to the panic of 1866. The panic of that year, it will be remembered, happened, contrary to precedent, in the spring, and at the next meeting of the Court of Bank proprietors--the September meeting--there was a very remarkable discussion, which I give at length below, and of which all that is most material was thus described in the 'Economist':"
+    },
+    {
+      "id": "p0006",
+      "text": "'THE GREAT IMPORTANCE OF THE LATE MEETING OF THE PROPRIETORS OF THE BANK OF ENGLAND."
+    },
+    {
+      "id": "p0007",
+      "text": "'The late meeting of the proprietors of the Bank of England has a very unusual importance. There can be no effectual inquiry now into the history of the late crisis. A Parliamentary committee next year would, unless something strange occur in the interval, be a great waste of time. Men of business have keen sensations but short memories, and they will care no more next February for the events of last May than they now care for the events of October 1864. A _pro forma_ inquiry, on which no real mind is spent, and which everyone knows will lead to nothing, is far worse than no inquiry at all. Under these circumstances the official statements of the Governor of the Bank are the only authentic expositions we shall have of the policy of the Bank Directors, whether as respects the past or the future. And when we examine the proceedings with care, we shall find that they contain matter of the gravest import."
+    },
+    {
+      "id": "p0008",
+      "text": "'This meeting may be considered to admit and recognise the fact that the Bank of England keeps the sole banking reserve of the country. We do not now mix up this matter with the country circulation, or the question whether there should be many issuers of notes or only one. We speak not of the currency reserve, but of the banking reserve--the reserve held against deposits, and not the reserve held against notes. We have often insisted in these columns that the Bank of England does keep the sole real reserve--the sole considerable unoccupied mass of cash in the country; but there has been no universal agreement about it. Great authorities have been unwilling to admit it. They have not, indeed, formally and explicitly contended against it. If they had, they must have pointed out some other great store of unused cash besides that at the Bank, and they could not find such store. But they have attempted distinctions; have said that the doctrine that the Bank of England keeps the sole banking reserve of the country was \"not a good way of putting it,\" was exaggerated, and was calculated to mislead."
+    },
+    {
+      "id": "p0009",
+      "text": "'But the late meeting is a complete admission that such is the fact. The Governor of the Bank said:"
+    },
+    {
+      "id": "p0010",
+      "text": "\"'A great strain has within the last few months been put upon the resources of this house, and of the whole banking community of London; and I think I am entitled to say that not only this house, but the entire banking body, acquitted themselves most honourably and creditably throughout that very trying period. Banking is a very peculiar business, and it depends so much upon credit that the least blast of suspicion is sufficient to sweep away, as it were, the harvest of a whole year. But the manner in which the banking establishments generally in London met the demands made upon them during the greater portion of the past half-year affords a most satisfactory proof of the soundness of the principles on which their business is conducted. This house exerted itself to the utmost--and exerted itself most successfully--to meet the crisis. We did not flinch from our post. When the storm came upon us, on the morning on which it became known that the house of Overend and Co. had failed, we were in as sound and healthy a position as any banking establishment could hold, and on that day and throughout the succeeding week we made advances which would hardly be credited. I do not believe that anyone would have thought of predicting, even at the shortest period beforehand, the greatness of those advances. It was not unnatural that in this state of things a certain degree of alarm should have taken possession of the public mind, and that those who required accommodation from the Bank should have gone to the Chancellor of the Exchequer and requested the Government to empower us to issue notes beyond the statutory amount, if we should think that such a measure was desirable. But we had to act before we could receive any such power, and before the Chancellor of the Exchequer was perhaps out of his bed we had advanced one-half of our reserves, which were certainly thus reduced to an amount which we could not witness without regret. But we would not flinch from the duty which we conceived was imposed upon us of supporting the banking community, and I am not aware that any legitimate application made for assistance to this house was refused. Every gentleman who came here with adequate security was liberally dealt with, and if accommodation could not be afforded to the full extent which was demanded, no one who offered proper security failed to obtain relief from this house.\""
+    },
+    {
+      "id": "p0011",
+      "text": "'Now this is distinctly saying that the other banks of the country need not keep any such banking reserve--any such sum of actual cash--of real sovereigns and bank notes, as will help them through a sudden panic. It acknowledges a \"duty\" on the part of the Bank of England to \"support the banking community,\" to make the reserve of the Bank of England do for them as well as for itself."
+    },
+    {
+      "id": "p0012",
+      "text": "'In our judgment this language is most just, and the Governor of the Bank could scarcely have done a greater public service than by using language so business-like and so distinct. Let us know precisely who is to keep the banking reserve. If the joint stock banks and the private banks and the country banks are to keep their share, let us determine on that; Mr. Gladstone appeared not long since to say in Parliament that it ought to be so. But at any rate there should be no doubt whose duty it is. Upon grounds which we have often stated, we believe that the anomaly of one bank keeping the sole banking reserve is so fixed in our system that we cannot change it if we would. The great evil to be feared was an indistinct conception of the fact, and that is now avoided."
+    },
+    {
+      "id": "p0013",
+      "text": "'The importance of these declarations by the Bank is greater, because after the panic of 1857 the bank did not hold exactly the same language. A person who loves concise expressions said lately \"that Overends broke the Bank in 1866 because it went, and in 1857 because it was not let go.\" We need not too precisely examine such language; the element of truth in it is very plain--the great advances made to Overends were a principal event in the panic of 1857; the bill-brokers were then very much what the bankers were lately they were the borrowers who wanted sudden and incalculable advances. But the bill-brokers were told not to expect the like again. But Alderman Salomons, on the part of the London bankers, said, \"he wished to take that opportunity of stating that he believed nothing could be more satisfactory to the managers and shareholders of joint stock banks than the testimony which the Governor of the Bank of England had that day borne to the sound and honourable manner in which their business was conducted. It was manifestly desirable that the joint stock banks and the banking interest generally should work in harmony with the Bank of England; and he sincerely thanked the Governor of the Bank for the kindly manner in which he had alluded to the mode in which the joint stock banks had met the late monetary crisis.\" The Bank of England agrees to give other banks the requisite assistance in case of need, and the other banks agree to ask for it."
+    },
+    {
+      "id": "p0014",
+      "text": "'Secondly. The Bank agrees, in fact, if not in name, to make limited advances on proper security to anyone who applies for it. On the present occasion 45,000,000 L. was so advanced in three months. And the Bank do not say to the mercantile community, or to the bankers, \"Do not come to us again. We helped you once. But do not look upon it as a precedent. We will not help you again.\" On the contrary, the evident and intended implication is that under like circumstances the Bank would act again as it has now acted.'"
+    },
+    {
+      "id": "p0015",
+      "text": "This article was much disliked by many of the Bank directors, and especially by some whose opinion is of great authority. They thought that the 'Economist' drew 'rash deductions' from a speech which was in itself 'open to some objection--'which was, like all such speeches, defective in theoretical precision, and which was at best only the expression of an opinion by the Governor of that day, which had not been authorised by the Court of Directors, which could not bind the Bank. However the article had at least this use, that it brought out the facts. All the directors would have felt a difficulty in commenting upon, or limiting, or in differing from, a speech of a Governor from the chair. But there was no difficulty or delicacy in attacking the 'Economist.' Accordingly Mr. Hankey, one of the most experienced bank directors, not long after, took occasion to observe: 'The \"Economist\" newspaper has put forth what in my opinion is the most mischievous doctrine ever broached in the monetary or banking world in this country; viz, that it is the proper function of the Bank of England to keep money available at all times to supply the demands of bankers who have rendered their own assets unavailable. Until such a doctrine is repudiated by the banking interest, the difficulty of pursuing any sound principle of banking in London will be always very great. But I do not believe that such a doctrine as that bankers are justified in relying on the Bank of England to assist them in time of need is generally held by the bankers in London."
+    },
+    {
+      "id": "p0016",
+      "text": "'I consider it to be the undoubted duty of the Bank of England to hold its banking deposits (reserving generally about one-third in cash) in the most available securities; and in the event of a sudden pressure in the money market, by whatever circumstance it may be caused, to bear its full share of a drain on its resources. I am ready to admit, however, that a general opinion has long prevailed that the Bank of England ought to be prepared to do much more than this, though I confess my surprise at finding an advocate for such an opinion in the \"Economist.\" If it were practicable for the Bank to retain money unemployed to meet such an emergency, it would be a very unwise thing to do so. But I contend that it is quite impracticable, and if it were possible, it would be most inexpedient; and I can only express my regret that the Bank, from a desire to do everything in its power to afford general assistance in times of banking or commercial distress, should ever have acted in a way to encourage such an opinion. The more the conduct of the affairs of the Bank is made to assimilate to the conduct of every other well-managed bank in the United Kingdom, the better for the Bank, and the better for the community at large.'"
+    },
+    {
+      "id": "p0017",
+      "text": "I am scarcely a judge, but I do not think Mr. Hankey replies to the 'Economist' very conclusively."
+    },
+    {
+      "id": "p0018",
+      "text": "First. He should have observed that the question is not as to what 'ought to be,' but as to what is. The 'Economist' did not say that the system of a single bank reserve was a good system, but that it was the system which existed, and which must be worked, as you could not change it."
+    },
+    {
+      "id": "p0019",
+      "text": "Secondly. Mr. Hankey should have shown 'some other store of unused cash' except the reserve in the Banking Department of the Bank of England out of which advances in time of panic could be made. These advances are necessary, and must be made by someone. The 'reserves' of London bankers are not such store; they are used cash, not unused; they are part of the Bank deposits, and lent as such."
+    },
+    {
+      "id": "p0020",
+      "text": "Thirdly. Mr. Hankey should have observed that we know by the published figures that the joint stock banks of London do not keep one-third, or anything like one-third, of their liabilities in 'cash' even meaning by 'cash' a deposit at the Bank of England. One-third of the deposits in joint stock banks, not to speak of the private banks, would be 30,000,000 L.; and the private deposits of the Bank of England are 18,000,000 L. According to his own statement, there is a conspicuous contrast. The joint stock banks, and the private banks, no doubt, too, keep one sort of reserve, and the Bank of England a different kind of reserve altogether. Mr. Hankey says that the two ought to be managed on the same principle; but if so, he should have said whether he would assimilate the practice of the Bank of England to that of the other banks, or that of the other banks to the practice of the Bank of England."
+    },
+    {
+      "id": "p0021",
+      "text": "Fourthly. Mr. Hankey should have observed that, as has been explained, in most panics, the principal use of a 'banking reserve' is not to advance to bankers; the largest amount is almost always advanced to the mercantile public and to bill-brokers. But the point is, that by our system all extra pressure is thrown upon the Bank of England. In the worst part of the crisis of 1866, 50,000 L. 'fresh money' could not be borrowed, even on the best security--even on Consols except at the Bank of England. There was no other lender to new borrowers."
+    },
+    {
+      "id": "p0022",
+      "text": "But my object now is not to revive a past controversy, but to show in what an unsatisfactory and uncertain condition that controversy has left a most important subject. Mr. Hankey's is the last explanation we have had of the policy of the Bank. He is a very experienced and attentive director, and I think expresses, more or less, the opinions of other directors. And what do we find? Setting aside and saying nothing about the remarkable speech of the Governor in 1866, which at least (according to the interpretation of the 'Economist') was clear and excellent, Mr. Hankey leaves us in doubt altogether as to what will be the policy of the Bank of England in the next panic, and as to what amount of aid the public may then expect from it. His words are too vague. No one can tell what a 'fair share' means; still less can we tell what other people at some future time will say it means. Theory suggests, and experience proves, that in a panic the holders of the ultimate Bank reserve (whether one bank or many) should lend to all that bring good securities quickly, freely, and readily. By that policy they allay a panic; by every other policy they intensify it. The public have a right to know whether the Bank of England--the holders of our ultimate bank reserve--acknowledge this duty, and are ready to perform it. But this is now very uncertain."
+    },
+    {
+      "id": "p0023",
+      "text": "If we refer to history, and examine what in fact has been the conduct of the Bank directors, we find that they have acted exactly as persons of their type, character, and position might have been expected to act. They are a board of plain, sensible, prosperous English merchants; and they have both done and left undone what such a board might have been expected to do and not to do. Nobody could expect great attainments in economical science from such a board; laborious study is for the most part foreign to the habits of English merchants. Nor could we expect original views on banking, for banking is a special trade, and English merchants, as a body, have had no experience in it. A 'board' can scarcely ever make improvements, for the policy of a board is determined by the opinions of the most numerous class of its members--its average members--and these are never prepared for sudden improvements. A board of upright and sensible merchants will always act according to what it considers 'safe' principles--that is, according to the received maxims of the mercantile world then and there--and in this manner the directors of the Bank of England have acted nearly uniformly. Their strength and their weakness were curiously exemplified at the time when they had the most power. After the suspension of cash payments in 1797, the directors of the Bank of England could issue what notes they liked. There was no check; these notes could not come back upon the Bank for payment; there was a great temptation to extravagant issue, and no present penalty upon it. But the directors of the Bank withstood the temptation; they did not issue their inconvertible notes extravagantly. And the proof is, that for more than ten years after the suspension of cash payments the Bank paper was undepreciated, and circulated at no discount in comparison with gold. Though the Bank directors of that day at last fell into errors, yet on the whole they acted with singular judgment and moderation. But when, in 1810, they came to be examined as to their reasons, they gave answers that have become almost classical by their nonsense. Mr. Pearse, the Governor of the Bank, said: 'In considering this subject, with reference to the manner in which bank-notes are issued, resulting from the applications made for discounts to supply the necessary want of bank-notes, by which their issue in amount is so controlled that it can never amount to an excess, I cannot see how the amount of bank-notes issued can operate upon the price of bullion, or the state of the exchanges; and therefore I am individually of opinion that the price of bullion, or the state of the exchanges, can never be a reason for lessening the amount of bank-notes to be issued, always understanding the control which I have already described."
+    },
+    {
+      "id": "p0024",
+      "text": "'Is the Governor of the Bank of the same opinion which has now been expressed by the Deputy-Governor?"
+    },
+    {
+      "id": "p0025",
+      "text": "'Mr. Whitmore, I am so much of the same opinion, that I never think it necessary to advert to the price of gold, or the state of the exchange, on the days on which we make our advances."
+    },
+    {
+      "id": "p0026",
+      "text": "'Do you advert to these two circumstances with a view to regulate the general amount of your advances?--I do not advert to it with a view to our general advances, conceiving it not to bear upon the question."
+    },
+    {
+      "id": "p0027",
+      "text": "And Mr. Harman, another Bank director, expressed his opinion in these terms: 'I must very materially alter my opinions before I can suppose that the exchanges will be influenced by any modifications of our paper currency.'"
+    },
+    {
+      "id": "p0028",
+      "text": "Very few persons perhaps could have managed to commit so many blunders in so few words."
+    },
+    {
+      "id": "p0029",
+      "text": "But it is no disgrace at all to the Bank directors of that day to have committed these blunders. They spoke according to the best mercantile opinion of England. The City of London and the House of Commons both approved of what they said; those who dissented were said to be abstract thinkers and unpractical men. The Bank directors adopted the ordinary opinions, and pursued the usual practice of their time. It was this 'routine' that caused their moderation. They believed that so long as they issued 'notes' only at 5 per cent, and only on the discount of good bills, those notes could not be depreciated. And as the number of 'good' bills--bills which sound merchants know to be good--does not rapidly increase, and as the market rate of interest was often less than 5 per cent, these checks on over-issue were very effective. They failed in time, and the theory upon which they were defended was nonsense; but for a time their operation was powerful and excellent."
+    },
+    {
+      "id": "p0030",
+      "text": "Unluckily, in the management of the matter before us--the management of the Bank reserve--the directors of the Bank of England were neither acquainted with right principles, nor were they protected by a judicious routine. They could not be expected themselves to discover such principles. The abstract thinking of the world is never to be expected from persons in high places; the administration of first-rate current transactions is a most engrossing business, and those charged with them are usually but little inclined to think on points of theory, even when such thinking most nearly concerns those transactions. No doubt when men's own fortunes are at stake, the instinct of the trader does somehow anticipate the conclusions of the closet. But a board has no instincts when it is not getting an income for its members, and when it is only discharging a duty of office. During the suspension of cash payments--a suspension which lasted twenty-two years--all traditions as to a cash reserve had died away. After 1819 the Bank directors had to discharge the duty of keeping a banking reserve, and (as the law then stood) a currency reserve also, without the guidance either of keen interests, or good principles, or wise traditions."
+    },
+    {
+      "id": "p0031",
+      "text": "Under such circumstances, the Bank directors inevitably made mistakes of the gravest magnitude. The first time of trial came in 1825. In that year the Bank directors allowed their stock of bullion to fall in the most alarming manner:"
+    },
+    {
+      "id": "p0032",
+      "text": "On Dec. 24, 1824, the coin and bullion in the Bank was L 10,721,000 On Dec. 25, 1825, it was reduced to L 1,260,000"
+    },
+    {
+      "id": "p0033",
+      "text": "and the consequence was a panic so tremendous that its results are well remembered after nearly fifty years. In the next period of extreme trial--in 1837-9--the Bank was compelled to draw for 2,000,000 L. on the Bank of France; and even after that aid the directors permitted their bullion, which was still the currency reserve as well as the banking reserve, to be reduced to 2,404,000 L.: a great alarm pervaded society, and generated an eager controversy, out of which ultimately emerged the Act of 1844. The next trial came in 1847, and then the Bank permitted its banking reserve (which the law had now distinctly separated) to fall to 1,176,000 L.; and so intense was the alarm, that the executive Government issued a letter of licence, permitting the Bank, if necessary, to break the new law, and, if necessary, to borrow from the currency reserve, which was full, in aid of the banking reserve, which was empty. Till 1857 there was an unusual calm in the money market, but in the autumn of that year the Bank directors let the banking reserve, which even in October was far too small, fall thus:"
+    },
+    {
+      "id": "p0034",
+      "text": "Oct. 10 4,024,000 L \" 17 3,217,000 L \" 24 3,485,000 L \" 31 2,258,000 L Nov. 6 2,155,000 L \" 13 957,000 L"
+    },
+    {
+      "id": "p0035",
+      "text": "And then a letter of licence like that of 1847 was not only issued, but used. The Ministry of the day authorised the Bank to borrow from the currency reserve in aid of the banking reserve, and the Bank of England did so borrow several hundred pounds till the end of the month of November. A more miserable catalogue than that of the failures of the Bank of England to keep a good banking reserve in all the seasons of trouble between 1825 and 1857 is scarcely to be found in history."
+    },
+    {
+      "id": "p0036",
+      "text": "But since 1857 there has been a great improvement. By painful events and incessant discussions, men of business have now been trained to see that a large banking reserve is necessary, and to understand that, in the curious constitution of the English banking world, the Bank of England is the only body which could effectually keep it. They have never acknowledged the duty; some of them, as we have seen, deny the duty; still they have to a considerable extent begun to perform the duty. The Bank directors, being experienced and able men of business, comprehended this like other men of business. Since 1857 they have always kept, I do not say a sufficient banking reserve, but a fair and creditable banking reserve, and one altogether different from any which they kept before. At one period the Bank directors even went farther: they made a distinct step in advance of the public intelligence; they adopted a particular mode of raising the rate of interest, which is far more efficient than any other mode. Mr. Goschen observes, in his book on the Exchanges: 'Between the rates in London and Paris, the expense of sending gold to and fro having been reduced to a minimum between the two cities, the difference can never be very great; but it must not be forgotten that, the interest being taken at a percentage calculated per annum, and the probable profit having, when an operation in three-month bills is contemplated, to be divided by four, whereas the percentage of expense has to be wholly borne by the one transaction, a very slight expense becomes a great impediment. If the cost is only 1/2 per cent, there must be a profit of 2 per cent in the rate of interest, or 1/2 per cent on three months, before any advantage commences; and thus, supposing that Paris capitalists calculate that they may send their gold over to England for 1/2 per cent expense, and chance their being so favoured by the Exchanges as to be able to draw it back without any cost at all, there must nevertheless be an excess of more than 2 per cent in the London rate of interest over that in Paris, before the operation of sending gold over from France, merely for the sake of the higher interest, will pay.'"
+    },
+    {
+      "id": "p0037",
+      "text": "Accordingly, Mr. Goschen recommended that the Bank of England should, as a rule, raise their rate by steps of 1 per cent at a time when the object of the rise was to affect the 'foreign Exchanges.' And the Bank of England, from 1860 onward, have acted upon that principle. Before that time they used to raise their rate almost always by steps of 1/2 per cent, and there was nothing in the general state of mercantile opinion to compel them to change their policy. The change was, on the contrary, most unpopular. On this occasion, and, as far as I know, on this occasion alone, the Bank of England made an excellent alteration of their policy, which was not exacted by contemporary opinion, and which was in advance of it. The beneficial results of the improved policy of the Bank were palpable and speedy. We were enabled by it to sustain the great drain of silver from Europe to India to pay for Indian cotton in the years between 18621865. In the autumn of 1864 there was especial danger; but, by a rapid and able use of their new policy, the Bank of England maintained an adequate reserve, and preserved the country from calamities which, if we had looked only to precedent, would have seemed inevitable. All the causes which produced the panic of 1857 were in action in 1864--the drain of silver in 1864 and the preceding year was beyond comparison greater than in 1857 and the years before it--and yet in 1864 there was no panic. The Bank of England was almost immediately rewarded for its adoption of right principles by finding that those principles, at a severe crisis, preserved public credit."
+    },
+    {
+      "id": "p0038",
+      "text": "In 1866 undoubtedly a panic occurred, but I do not think that the Bank of England can be blamed for it. They had in their till an exceedingly good reserve according to the estimate of that time--a sufficient reserve, in all probability, to have coped with the crises of 1847 and 1857. The suspension of Overend and Gurney--the most trusted private firm in England caused an alarm, in suddenness and magnitude, without example. What was the effect of the Act of 1844 on the panic of 1866 is a question on which opinion will be long divided; but I think it will be generally agreed that, acting under the provisions of that law, the directors of the Bank of England had in their banking department in that year a fairly large reserve quite as large a reserve as anyone expected them to keep--to meet unexpected and painful contingencies."
+    },
+    {
+      "id": "p0039",
+      "text": "From 1866 to 1870 there was almost an unbroken calm on the money market. The Bank of England had no difficulties to cope with; there was no opportunity for much discretion. The money market took care of itself. But in 1870 the Bank of France suspended specie payments, and from that time a new era begins. The demands on this market for bullion have been greater, and have been more incessant, than they ever were before, for this is now the only bullion market. This has made it necessary for the Bank of England to hold a much larger banking reserve than was ever before required, and to be much more watchful than in former times lest that banking reserve should on a sudden be dangerously diminished. The forces are greater and quicker than they used to be, and a firmer protection and a surer solicitude are necessary. But I do not think the Bank of England is sufficiently aware of this. All the governing body of the Bank certainly are not aware of it. The same eminent director to whom I have before referred, Mr. Hankey, published in the 'Times' an elaborate letter, saying again that one-third of the liabilities were, even in these altered times, a sufficient reserve for the Banking Department of the Bank of England, and that it was no part of the business of the Bank to keep a supply of 'bullion for exportation,' which was exactly the most mischievous doctrine that could be maintained when the Banking Department of the Bank of England had become the only great repository in Europe where gold could at once be obtained, and when, therefore, a far greater store of bullion ought to be kept than at any former period."
+    },
+    {
+      "id": "p0040",
+      "text": "And besides this defect of the present time, there are some chronic faults in the policy of the Bank of England, which arise, as will be presently explained, from grave defects in its form of government."
+    },
+    {
+      "id": "p0041",
+      "text": "There is almost always some hesitation when a Governor begins to reign. He is the Prime Minister of the Bank Cabinet; and when so important a functionary changes, naturally much else changes too. If the Governor be weak, this kind of vacillation and hesitation continues throughout his term of office. The usual defect then is, that the Bank of England does not raise the rate of interest sufficiently quickly. It does raise it; in the end it takes the alarm, but it does not take the alarm sufficiently soon. A cautious man, in a new office, does not like strong measures. Bank Governors are generally cautious men; they are taken from a most cautious class; in consequence they are very apt to temporise and delay. But almost always the delay in creating a stringency only makes a greater stringency inevitable. The effect of a timid policy has been to let the gold out of the Bank, and that gold must be recovered. It would really have been far easier to have maintained the reserve by timely measures than to have replenished it by delayed measures; but new Governors rarely see this."
+    },
+    {
+      "id": "p0042",
+      "text": "Secondly. Those defects are apt, in part, or as a whole, to be continued throughout the reign of a weak Governor. The objection to a decided policy, and the indisposition to a timely action, which are excusable in one whose influence is beginning, and whose reign is new, is continued through the whole reign of one to whom those defects are natural, and who exhibits those defects in all his affairs."
+    },
+    {
+      "id": "p0043",
+      "text": "Thirdly. This defect is enhanced, because, as has so often been said, there is now no adequate rule recognised in the management of the banking reserve. Mr. Weguelin, the last Bank Governor who has been examined, said that it was sufficient for the Bank to keep from one-fourth to one-third of its banking liabilities as a reserve. But no one now would ever be content if the banking reserve were near to one-fourth of its liabilities. Mr. Hankey, as I have shown, considers 'about a third' as the proportion of reserve to liability at which the Bank should aim; but he does not say whether he regards a third as the minimum below which the reserve in the Banking Department should never be, or as a fair average, about which the reserve may fluctuate, sometimes being greater, or at others less."
+    },
+    {
+      "id": "p0044",
+      "text": "In a future chapter I shall endeavour to show that one-third of its banking liabilities is at present by no means an adequate reserve for the Banking Department--that it is not even a proper minimum, far less a fair average; and I shall allege what seem to me good reasons for thinking that, unless the Bank aim by a different method at a higher standard, its own position may hereafter be perilous, and the public may be exposed to disaster."
+    },
+    {
+      "id": "p0045",
+      "text": "II."
+    },
+    {
+      "id": "p0046",
+      "text": "But, as has been explained, the Bank of England is bound, according to our system, not only to keep a good reserve against a time of panic, but to use that reserve effectually when that time of panic comes. The keepers of the Banking reserve, whether one or many, are obliged then to use that reserve for their own safety. If they permit all other forms of credit to perish, their own will perish immediately, and in consequence."
+    },
+    {
+      "id": "p0047",
+      "text": "As to the Bank of England, however, this is denied. It is alleged that the Bank of England can keep aloof in a panic; that it can, if it will, let other banks and trades fail; that if it chooses, it can stand alone, and survive intact while all else perishes around it. On various occasions, most influential persons, both in the government of the Bank and out of it, have said that such was their opinion. And we must at once see whether this opinion is true or false, for it is absurd to attempt to estimate the conduct of the Bank of England during panics before we know what the precise position of the Bank in a panic really is."
+    },
+    {
+      "id": "p0048",
+      "text": "The holders of this opinion in its most extreme form say, that in a panic the Bank of England can stay its hand at any time; that, though it has advanced much, it may refuse to advance more; that though the reserve may have been reduced by such advances, it may refuse to lessen it still further; that it can refuse to make any further dis counts; that the bills which it has discounted will become due; that it can refill its reserve by the payment of those bills; that it can sell stock or other securities, and so replenish its reserve still further. But in this form the notion scarcely merits serious refutation. If the Bank reserve has once become low, there are, in a panic, no means of raising it again. Money parted with at such a time is very hard to get back; those who have taken it will not let it go--not, at least, unless they are sure of getting other money in its place. And at such instant the recovery of money is as hard for the Bank of England as for any one else, probably even harder. The difficulty is this: if the Bank decline to discount, the holders of the bills previously discounted cannot pay. As has been shown, trade in England is largely carried on with borrowed money. If you propose greatly to reduce that amount, you will cause many failures unless you can pour in from elsewhere some equivalent amount of new money. But in a panic there is no new money to be had; everybody who has it clings to it, and will not part with it. Especially what has been advanced to merchants cannot easily be recovered; they are under immense liabilities, and they will not give back a penny which they imagine that even possibly they may need to discharge those liabilities. And bankers are in even greater terror. In a panic they will not discount a host of new bills; they are engrossed with their own liabilities and those of their own customers, and do not care for those of others. The notion that the Bank of England can stop discounting in a panic, and so obtain fresh money, is a delusion. It can stop discounting, of course, at pleasure. But if it does, it will get in no new money; its bill case will daily be more and more packed with bills 'returned unpaid.'"
+    },
+    {
+      "id": "p0049",
+      "text": "The sale of stock, too, by the Bank of England in the middle of a panic is impossible. The bank at such a time is the only lender on stock, and it is only by loans from a bank that large purchases, at such a moment, can be made. Unless the Bank of England lend, no stock will be bought. There is not in the country any large sum of unused ready money ready to buy it. The only unused sum is the reserve in the Banking Department of the Bank of England: if, therefore, in a panic that Department itself attempt to sell stock, the failure would be ridiculous. It would hardly be able to sell any at all. Probably it would not sell fifty pounds' worth. The idea that the Bank can, during a panic, replenish its reserve in this or in any other manner when that reserve has once been allowed to become empty, or nearly empty, is too absurd to be steadily maintained, though I fear that it is not yet wholly abandoned."
+    },
+    {
+      "id": "p0050",
+      "text": "The second and more reasonable conception of the independence of the Bank of England is, however, this: It may be said, and it is said, that if the Bank of England stop at the beginning of a panic, if it refuse to advance a shilling more than usual, if it begin the battle with a good banking reserve, and do not diminish it by extra loans, the Bank of England is sure to be safe. But this form of the opinion, though more reasonable and moderate, is not, therefore, more true. The panic of 1866 is the best instance to test it. As everyone knows, that panic began quite suddenly, on the fall of 'Overends.' Just before, the Bank had 5,812,000 L. in its reserve; in fact, it advanced 13,000,000 L. of new money in the next few days, and its reserve went down to nothing, and the Government had to help. But if the Bank had not made these advances, could it have kept its reserve?"
+    },
+    {
+      "id": "p0051",
+      "text": "Certainly it could not. It could not have retained its own deposits. A large part of these are the deposits of bankers, and they would not consent to help the Bank of England in a policy of isolation. They would not agree to suspend payments themselves, and permit the Bank of England to survive, and get all their business. They would withdraw their deposits from the Bank; they would not assist it to stand erect amid their ruin. But even if this were not so, even if the banks were willing to keep their deposits at the Bank while it was not lending, they would soon find that they could not do it. They are only able to keep those deposits at the Bank by the aid of the Clearing-house system, and if a panic were to pass a certain height, that system, which rests on confidence, would be destroyed by terror."
+    },
+    {
+      "id": "p0052",
+      "text": "The common course of business is this. A B having to receive 50,000 l. from C D takes C D's cheque on a banker crossed, as it is called, and, therefore, only payable to another banker. He pays that cheque to his own credit with his own banker, who presents it to the banker on whom it is drawn, and if good it is an item between them in the general clearing or settlement of the afternoon. But this is evidently a very refined machinery, which a panic will be apt to destroy. At the first stage A B may say to his debtor C D, 'I cannot take your cheque, I must have bank-notes.' If it is a debt on securities, he will be very apt to say this. The usual practice--credit being good--is for the creditor to take the debtor's cheque, and to give up the securities. But if the 'securities' really secure him in a time of difficulty, he will not like to give them up, and take a bit of paper--a mere cheque, which may be paid or not paid. He will say to his debtor, 'I can only give you your securities if you will give me bank-notes.' And if he does say so, the debtor must go to his bank, and draw out the 50,000 L. if he has it. But if this were done on a large scale, the bank's 'cash in house' would soon be gone; as the Clearing-house was gradually superseded it would have to trench on its deposit at the Bank of England; and then the bankers would have to pay so much over the counter that they would be unable to keep much money at the Bank, even if they wished. They would soon be obliged to draw out every shilling."
+    },
+    {
+      "id": "p0053",
+      "text": "The diminished use of the Clearing-house, in consequence of the panic, would intensify that panic. By far the greater part of the bargains of the country in moneyed securities is settled on the Stock Exchange twice a month, and the number of securities then given up for mere cheques, and the number of cheques then passing at the Clearing-house are enormous. If that system collapse, the number of failures would be incalculable, and each failure would add to the discredit that caused the collapse."
+    },
+    {
+      "id": "p0054",
+      "text": "The non-banking customers of the Bank of England would be discredited as well as other people; their cheques would not be taken any more than those of others; they would have to draw out bank-notes, and the Bank reserve would not be enough for a tithe of such payments."
+    },
+    {
+      "id": "p0055",
+      "text": "The matter would come shortly to this: a great number of brokers and dealers are under obligations to pay immense sums, and in common times they obtain these sums by the transfer of certain securities. If, as we said just now, No. 1 has borrowed 50,000 L. of No. 2 on Exchequer bills, he, for the most part, cannot pay No. 2 till he has sold or pledged those bills to some one else. But till he has the bills he cannot pledge or sell them; and if No. 2 will not give them up till he gets his money, No. 1 will be ruined, because he cannot pay it. And if No. 2 has No. 3 to pay, as is very likely, he may be ruined because of No. 1's default, and No. 4 only on account of No. 3's default; and so on without end. On settling day, without the Clearing-house, there would be a mass of failures, and a bundle of securities. The effect of these failures would be a general run on all bankers, and on the Bank of England particularly."
+    },
+    {
+      "id": "p0056",
+      "text": "It may indeed be said that the money thus taken from the Banking Department of the Bank of England would return there immediately; that the public who borrowed it would not know where else to deposit it; that it would be taken out in the morning, and put back in the evening. But, in the first place, this argument assumes that the Banking Department would have enough money to pay the demands on it; and this is a mistake: the Banking Department would not have a hundredth part of the necessary funds. And in the second, a great panic which deranged the Clearing-house would soon be diffused all through the country. The money therefore taken from the Bank of England could not be soon returned to the Bank; it would not come back on the evening of the day on which it was taken out, or for many days; it would be distributed through the length and breadth of the country, wherever there were bankers, wherever there was trade, wherever there were liabilities, wherever there was terror."
+    },
+    {
+      "id": "p0057",
+      "text": "And even in London, so immense a panic would soon impair the credit of the Banking Department of the Bank of England. That department has no great prestige. It was only created in 1844, and it has failed three times since. The world would imagine that what has happened before will happen again; and when they have got money, they will not deposit it at an establishment which may not be able to repay it. This did not happen in former panics, because the case we are considering never arose. The Bank was helping the public, and, more or less confidently, it was believed that the Government would help the Bank. But if the policy be relinquished which formerly assuaged alarm, that alarm will be protracted and enhanced, till it touch the Banking Department of the Bank itself."
+    },
+    {
+      "id": "p0058",
+      "text": "I do not imagine that it would touch the Issue Department. I think that the public would be quite satisfied if they obtained bank-notes. Generally nothing is gained by holding the notes of a bank instead of depositing them at a bank. But in the Bank of England there is a great difference: their notes are legal tender. Whoever holds them can always pay his debts, and, except for foreign payments, he could want no more. The rush would be for bank-notes; those that could be obtained would be carried north, south, east, and west, and, as there would not be enough for all the country, the Banking Department would soon pay away all it had."
+    },
+    {
+      "id": "p0059",
+      "text": "Nothing, therefore, can be more certain than that the Bank of England has in this respect no peculiar privilege; that it is simply in the position of a Bank keeping the Banking reserve of the country; that it must in time of panic do what all other similar banks must do; that in time of panic it must advance freely and vigorously to the public out of the reserve."
+    },
+    {
+      "id": "p0060",
+      "text": "And with the Bank of England, as with other Banks in the same case, these advances, if they are to be made at all, should be made so as if possible to obtain the object for which they are made. The end is to stay the panic; and the advances should, if possible, stay the panic. And for this purpose there are two rules: First. That these loans should only be made at a very high rate of interest. This will operate as a heavy fine on unreasonable timidity, and will prevent the greatest number of applications by persons who do not require it. The rate should be raised early in the panic, so that the fine may be paid early; that no one may borrow out of idle precaution without paying well for it; that the Banking reserve may be protected as far as possible."
+    },
+    {
+      "id": "p0061",
+      "text": "Secondly. That at this rate these advances should be made on all good banking securities, and as largely as the public ask for them. The reason is plain. The object is to stay alarm, and nothing therefore should be done to cause alarm. But the way to cause alarm is to refuse some one who has good security to offer. The news of this will spread in an instant through all the money market at a moment of terror; no one can say exactly who carries it, but in half an hour it will be carried on all sides, and will intensify the terror everywhere. No advances indeed need be made by which the Bank will ultimately lose. The amount of bad business in commercial countries is an infinitesimally small fraction of the whole business. That in a panic the bank, or banks, holding the ultimate reserve should refuse bad bills or bad securities will not make the panic really worse; the 'unsound' people are a feeble minority, and they are afraid even to look frightened for fear their unsoundness may be detected. The great majority, the majority to be protected, are the 'sound' people, the people who have good security to offer. If it is known that the Bank of England is freely advancing on what in ordinary times is reckoned a good security--on what is then commonly pledged and easily convertible--the alarm of the solvent merchants and bankers will be stayed. But if securities, really good and usually convertible, are refused by the Bank, the alarm will not abate, the other loans made will fail in obtaining their end, and the panic will become worse and worse."
+    },
+    {
+      "id": "p0062",
+      "text": "It may be said that the reserve in the Banking Department will not be enough for all such loans. If that be so, the Banking Department must fail. But lending is, nevertheless, its best expedient. This is the method of making its money go the farthest, and of enabling it to get through the panic if anything will so enable it. Making no loans as we have seen will ruin it; making large loans and stopping, as we have also seen, will ruin it. The only safe plan for the Bank is the brave plan, to lend in a panic on every kind of current security, or every sort on which money is ordinarily and usually lent. This policy may not save the Bank; but if it do not, nothing will save it."
+    },
+    {
+      "id": "p0063",
+      "text": "If we examine the manner in which the Bank of England has fulfilled these duties, we shall find, as we found before, that the true principle has never been grasped; that the policy has been inconsistent; that, though the policy has much improved, there still remain important particulars in which it might be better than it is. The first panic of which it is necessary here to speak, is that of 1825: I hardly think we should derive much instruction from those of 1793 and 1797; the world has changed too much since; and during the long period of inconvertible currency from 1797 to 1819, the problems to be solved were altogether different from our present ones. In the panic of 1825, the Bank of England at first acted as unwisely as it was possible to act. By every means it tried to restrict its advances. The reserve being very small, it endeavoured to protect that reserve by lending as little as possible. The result was a period of frantic and almost inconceivable violence; scarcely any one knew whom to trust; credit was almost suspended; the country was, as Mr. Huskisson expressed it, within twenty-four hours of a state of barter. Applications for assistance were made to the Government, but though it was well known that the Government refused to act, there was not, as far as I know, until lately any authentic narrative of the real facts. In the 'Correspondence' of the Duke of Wellington, of all places in the world, there is a full account of them. The Duke was then on a mission at St. Petersburg, and Sir R. Peel wrote to him a letter of which the following is a part: 'We have been placed in a very unpleasant predicament on the other question--the issue of Exchequer Bills by Government. The feeling of the City, of many of our friends, of some of the Opposition, was decidedly in favour of the issue of Exchequer Bills to relieve the merchants and manufacturers."
+    },
+    {
+      "id": "p0064",
+      "text": "'It was said in favour of the issue, that the same measure had been tried and succeeded in 1793 and 1811. Our friends whispered about that we were acting quite in a different manner from that in which Mr. Pitt did act, and would have acted had he been alive."
+    },
+    {
+      "id": "p0065",
+      "text": "'We felt satisfied that, however plausible were the reasons urged in favour of the issue of Exchequer Bills, yet that the measure was a dangerous one, and ought to be resisted by the Government."
+    },
+    {
+      "id": "p0066",
+      "text": "'There are thirty millions of Exchequer Bills outstanding. The purchases lately made by the Bank can hardly maintain them at par. If there were a new issue to such an amount as that contemplated--viz., five millions--there would be a great danger that the whole mass of Exchequer Bills would be at a discount, and would be paid into the revenue. If the new Exchequer Bills were to be issued at a different rate of interest from the outstanding ones--say bearing an interest of five per cent--the old ones would be immediately at a great discount unless the interest were raised. If the interest were raised, the charge on the revenue would be of course proportionate to the increase of rate of interest. We found that the Bank had the power to lend money on deposit of goods. As our issue of Exchequer Bills would have been useless unless the Bank cashed them, as therefore the intervention of the Bank was in any event absolutely necessary, and as its intervention would be chiefly useful by the effect which it would have in increasing the circulating medium, we advised the Bank to take the whole affair into their own hands at once, to issue their notes on the security of goods, instead of issuing them on Exchequer Bills, such bills being themselves issued on that security."
+    },
+    {
+      "id": "p0067",
+      "text": "'They reluctantly consented, and rescued us from a very embarrassing predicament.'"
+    },
+    {
+      "id": "p0068",
+      "text": "The success of the Bank of England on this occasion was owing to its complete adoption of right principles. The Bank adopted these principles very late; but when it adopted them it adopted them completely. According to the official statement which I quoted before, 'we,' that is, the Bank directors, 'lent money by every possible means, and in modes which we had never adopted before; we took in stock on security, we purchased Exchequer Bills, we made advances on Exchequer Bills, we not only discounted outright, but we made advances on deposits of bills of Exchange to an immense amount--in short, by every possible means consistent with the safety of the Bank.' And for the complete and courageous adoption of this policy at the last moment the directors of the Bank of England at that time deserve great praise, for the subject was then less understood even than it is now; but the directors of the Bank deserve also severe censure, for previously choosing a contrary policy; for being reluctant to adopt the new one; and for at last adopting it only at the request of, and upon a joint responsibility with, the Executive Government."
+    },
+    {
+      "id": "p0069",
+      "text": "After 1825, there was not again a real panic in the money market till 1847. Both of the crises of 1837 and 1839 were severe, but neither terminated in a panic: both were arrested before the alarm reached its final intensity; in neither, therefore, could the policy of the Bank at the last stage of fear be tested."
+    },
+    {
+      "id": "p0070",
+      "text": "In the three panics since 1844--in 1847, 1857, and 1866--the policy of the Bank has been more or less affected by the Act of 1844, and I cannot therefore discuss it fully within the limits which I have pre scribed for myself. I can only state two things: First, that the directors of the Bank above all things maintain, that they have not been in the earlier stage of panic prevented by the Act of 1844 from making any advances which they would otherwise have then made. Secondly, that in the last stage of panic, the Act of 1844 has been already suspended, rightly or wrongly, on these occasions; that no similar occasion has ever yet occurred in which it has not been suspended; and that, rightly or wrongly, the world confidently expects and relies that in all similar cases it will be suspended again. Whatever theory may prescribe, the logic of facts seems peremptory so far. And these principles taken together amount to saying that, by the doctrine of the directors, the Bank of England ought, as far as they can, to manage a panic with the Act of 1844, pretty much as they would manage one without it--in the early stage of the panic because then they are not fettered, and in the latter because then the fetter has been removed."
+    },
+    {
+      "id": "p0071",
+      "text": "We can therefore estimate the policy of the Bank of England in the three panics which have happened since the Act of 1844, without inquiring into the effect of the Act itself. It is certain that in all of these panics the Bank has made very large advances indeed. It is certain, too, that in all of them the Bank has been quicker than it was in 1825; that in all of them it has less hesitated to use its banking reserve in making the advances which it is one principal object of maintaining that reserve to make, and to make at once. But there is still a considerable evil. No one knows on what kind of securities the Bank of England will at such periods make the advances which it is necessary to make."
+    },
+    {
+      "id": "p0072",
+      "text": "As we have seen, principle requires that such advances, if made at all for the purpose of curing panic, should be made in the manner most likely to cure that panic. And for this purpose, they should be made on everything which in common times is good 'banking security.' The evil is, that owing to terror, what is commonly good security has ceased to be so; and the true policy is so to use the Banking reserve, that if possible the temporary evil may be stayed, and the common course of business be restored. And this can only be effected by advancing on all good Banking securities."
+    },
+    {
+      "id": "p0073",
+      "text": "Unfortunately, the Bank of England do not take this course. The Discount office is open for the discount of good bills, and makes immense advances accordingly. The Bank also advances on consols and India securities, though there was, in the crisis of 1866, believed to be for a moment a hesitation in so doing. But these are only a small part of the securities on which money in ordinary times can be readily obtained, and by which its repayment is fully secured. Railway debenture stock is as good a security as a commercial bill, and many people, of whom I own I am one, think it safer than India stock; on the whole, a great railway is, we think, less liable to unforeseen accidents than the strange Empire of India. But I doubt if the Bank of England in a panic would advance on railway debenture stock, at any rate no one has any authorised reason for saying that it would. And there are many other such securities."
+    },
+    {
+      "id": "p0074",
+      "text": "The amount of the advance is the main consideration for the Bank of England, and not the nature of the security on which the advance is made, always assuming the security to be good. An idea prevails (as I believe) at the Bank of England that they ought not to advance during a panic on any kind of security on which they do not commonly advance. But if bankers for the most part do advance on such security in common times, and if that security is indisputably good, the ordinary practice of the Bank of England is immaterial. In ordinary times the Bank is only one of many lenders, whereas in a panic it is the sole lender, and we want, as far as we can, to bring back the unusual state of a time of panic to the common state of ordinary times."
+    },
+    {
+      "id": "p0075",
+      "text": "In common opinion there is always great uncertainty as to the conduct of the Bank: the Bank has never laid down any clear and sound policy on the subject. As we have seen, some of its directors (like Mr. Hankey) advocate an erroneous policy. The public is never sure what policy will be adopted at the most important moment: it is not sure what amount of advance will be made, or on what security it will be made. The best palliative to a panic is a confidence in the adequate amount of the Bank reserve, and in the efficient use of that reserve. And until we have on this point a clear understanding with the Bank of England, both our liability to crises and our terror at crises will always be greater than they would otherwise be."
+    }
+  ],
+  "anchors": {
+    "economics-principles-bagehot-lender-last-resort": {
+      "paragraphId": "p0059",
+      "start": 277,
+      "end": 365,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0059",
+          "start": 277,
+          "end": 365,
+          "text": "in time of panic it must advance freely and vigorously to the public out of the reserve."
+        },
+        {
+          "paragraphId": "p0060",
+          "start": 320,
+          "end": 396,
+          "text": "First. That these loans should only be made at a very high rate of interest."
+        },
+        {
+          "paragraphId": "p0061",
+          "start": 0,
+          "end": 132,
+          "text": "Secondly. That at this rate these advances should be made on all good banking securities, and as largely as the public ask for them."
+        }
+      ],
+      "quote": "In time of panic it must advance freely and vigorously to the public out of the reserve. ... First. That these loans should only be made at a very high rate of interest. ... Secondly. That at this rate these advances should be made on all good banking securities, and as largely as the public ask for them."
+    }
+  }
+}

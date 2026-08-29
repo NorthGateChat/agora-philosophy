@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-discourses-book-ii-chapter-17-af126ead",
+  "title": "卷 II · 章 17",
+  "englishTitle": "Book II · Chapter 17",
+  "work": "《论说集》",
+  "englishWork": "Discourses",
+  "locator": "卷 II · 章 17",
+  "englishLocator": "Book II · Chapter 17",
+  "version": "古登堡计划乔治·朗公版英译，爱比克泰德《论说集》第二卷第17章",
+  "englishVersion": "Project Gutenberg, George Long public-domain translation, Epictetus, Discourses II.17",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+    "contentType": "text/plain",
+    "sha256": "38c813f7623104e29bbc8cca52703043d45cc06be4557ca4b5d09fd4b6ebd635"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "88598e811219933251a0b6de0aab65a4cc7e56ad81452b2a325ad981bf297f12",
+  "inputHash": "d5e6dd25cdfbf9ca4672ee2b8840fb5f219ca2437e0bf28f02512bd8d728f1f8",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "HOW WE MUST ADAPT PRECONCEPTIONS TO PARTICULAR CASES.—What is the first business of him who philosophizes? To throw away self-conceit ([Greek: oiaesis]). For it is impossible for a man to begin to learn that which he thinks that he knows. As to things then which ought to be done and ought not to be done, and good and bad, and beautiful and ugly, all of us talking of them at random go to the philosophers; and on these matters we praise, we censure, we accuse, we blame, we judge and determine about principles honorable and dishonorable. But why do we go to the philosophers? Because we wish to learn what we do not think that we know. And what is this? Theorems. For we wish to learn what philosophers say as being something elegant and acute; and some wish to learn that they may get profit from what they learn. It is ridiculous then to think that a person wishes to learn one thing, and will learn another; or further, that a man will make proficiency in that which he does not learn. But the many are deceived by this which deceived also the rhetorician Theopompus, when he blames even Plato for wishing everything to be defined. For what does he say? Did none of us before you use the words good or just, or do we utter the sounds in an unmeaning and empty way without understanding what they severally signify? Now who tells you, Theopompus, that we had not natural notions of each of these things and preconceptions ([Greek: prolaepseis])? But it is not possible to adapt preconceptions to their correspondent objects if we have not distinguished (analyzed) them, and inquired what object must be subjected to each preconception. You may make the same charge against physicians also. For who among us did not use the words healthy and unhealthy before Hippocrates lived, or did we utter these words as empty sounds? For we have also a certain preconception of health, but we are not able to adapt it. For this reason one says, Abstain from food; another says, Give food; another says, Bleed; and another says, Use cupping. What is the reason? is it any other than that a man cannot properly adapt the preconceptions of health to particulars?"
+    }
+  ],
+  "anchors": {
+    "epictetus-learning-needs-perplexity": {
+      "paragraphId": "p0001",
+      "start": 54,
+      "end": 133,
+      "quote": "What is the first business of him who philosophizes? To throw away self-conceit. For it is impossible for a man to begin to learn that which he thinks that he knows.",
+      "match": "normalized-exact",
+      "segments": [
+        {
+          "paragraphId": "p0001",
+          "start": 54,
+          "end": 133,
+          "text": "What is the first business of him who philosophizes? To throw away self-conceit"
+        },
+        {
+          "paragraphId": "p0001",
+          "start": 152,
+          "end": 238,
+          "text": ". For it is impossible for a man to begin to learn that which he thinks that he knows."
+        }
+      ]
+    }
+  }
+}

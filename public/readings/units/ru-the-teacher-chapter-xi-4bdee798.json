@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-teacher-chapter-xi-4bdee798",
+  "title": "章 XI",
+  "englishTitle": "Chapter XI",
+  "work": "《论教师》",
+  "englishWork": "The Teacher",
+  "locator": "章 XI",
+  "englishLocator": "Chapter XI",
+  "version": "Internet Archive 原书扫描，Francis E. Tourscher 1924年公版英译《The Philosophy of Teaching》，《论教师》第十一章第36节，印刷页75，完整连续句",
+  "englishVersion": "Internet Archive book scan, Francis E. Tourscher public-domain translation (1924), The Philosophy of Teaching, De Magistro XI.36, print p. 75, complete continuous sentence",
+  "sourceUrl": "https://archive.org/details/philosophyofteac00augu/page/n79/mode/1up",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "e6aa53ff706374fc25d318f763f5157e42737f6ef1d0993bd5ea76725a8920b8"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "f93c090887be8c454cea668a804a987a2f87eefbf74c79bbc79d84afdd9d88ca",
+  "inputHash": "05ff4e99924ca09b31cf853237f5c63ad05fd8f461d496ac457343d3c81b78e4",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER XI"
+    },
+    {
+      "id": "p0002",
+      "text": "So far words have value (to give them their very most): they remind us only to look for realities, they do not so exhibit the realities that we know them. But that one teaches me something, who holds out to my eyes, or to any one of the senses of the body, or even to the mind the things which I desire to know. By means of words, therefore, we learn only words: more still, only the sound and noise of words. For if those things which are not signs can not be words; though a word may be heard, I yet do not know that it is a word until I know its signification. By means, therefore, of realities known the knowledge of words also is made perfect: but by means of words heard, words are not learned; for we do not learn words that we know; nor can we say that we have learned words,"
+    },
+    {
+      "id": "p0003",
+      "text": "which we did not know, except by getting their meaning, which is, not by the hearing of sounds sent forth, but by the knowledge of realities signified. For it is the truest reason, and most truly said, that when words are uttered, we either know their meaning, or we do not: if we know, then we are said to be recalling rather than learning; but if we know not the meaning, then we are said not even to be recalling, but possibly we are moved to inquire."
+    },
+    {
+      "id": "p0004",
+      "text": "But if you say that we can not know those head coverings, the name of which we know only so far as the sound goes, except by seeing them: On the other hand, we can not know the name itself quite fully, but by knowing the realities [of which the name or the noun is the symbol]."
+    },
+    {
+      "id": "p0005",
+      "text": "What we have received, finally, of the Senet themselves, how they triumphed over the king and over the fires by faith and religion, what praises they sang to God, what honors they won even from their very enemy—all this have we learned otherwise than by words? I will answer that everything signified by these words had been beforehand the subject of our knowledge. For what three youths are, what a furnace is, what fire is, what a king, what, finally, being unhurt by fire and all the rest which these"
+    },
+    {
+      "id": "p0006",
+      "text": "words signify, I knew and held before I had the experience of hearing these words. But Anantas and Azarius and Misael are to me strangers, just as much as this strange word, saraballae; and these names have not helped me, and cannot now help me to know these men. But the facts all together, which are described in the account of history, I acknowledge that I believe to have been so done as they are described rather than that I know them: and they whom we believe too were not in ignorance as to this point of difference (between believing and knowing). For the Prophet says: “Unless you believe you shall not understand’”’;*® which he would not have said if he had thought that there is no difference between the two."
+    },
+    {
+      "id": "p0007",
+      "text": "What I understand, that also I believe: but not everything that I believe do I also understand. Everything that I understand, however, I also know: I do not know all that I believe. And I do not, therefore, not know how useful it is to take on trust also many things that I do not know. With"
+    },
+    {
+      "id": "p0008",
+      "text": "19 Tsaias, VII, 9: But the quotation is according to a pre-Hieronymian reading of the Latin text—one of the thousands of minor text variations, which have not changed the substantial meaning or the sense of the Bible—See APPENDIX, note 2,—page 96."
+    },
+    {
+      "id": "p0009",
+      "text": "hs THE PHILOSOPHY OF TEACHING"
+    },
+    {
+      "id": "p0010",
+      "text": "this advantage of believing I count also this narrative of the three youths.*° Wherefore, while there is a vast reach of things that I can not know, I do know what is the advantage of believing."
+    },
+    {
+      "id": "p0011",
+      "text": "But, referring now to all things that we understand, we consult, not the one speaking, whose words sound without, but truth within, presiding over the mind, reminded perhaps by words to take note (to mark evidence). But he teaches who is consulted, me who is said to “dwell in the interior man’’:** that is, the changeless power of God,* and the everlasting wisdom, which truly every rational soul consults: but so far is it opened out to each one, as each one is capable to grasp by reason of a good or a bad habit of life. And, if sometimes errors are made, that is not by reason of fault in the objective evidence consulted; just as it is also not the fault of this light, which is bright without, that the eyes of the body are frequently deceived: This light (external) we acknowledge is sought in reference to things visible in order that it may show us visible niece so far as we have tl.e power to discern."
+    },
+    {
+      "id": "p0012",
+      "text": "20 The account taken from Daniel, as above. 21 Ephesians, III, 16-17. * See APPENDIX, note 3,—page 97."
+    }
+  ],
+  "anchors": {
+    "augustine-inner-teacher": {
+      "paragraphId": "p0002",
+      "start": 312,
+      "end": 409,
+      "quote": "By means of words, therefore, we learn only words: more still, only the sound and noise of words.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T15:02:24.271Z",
+  "inventoryPath": "research/reading-units/inventory.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-a-vindication-of-the-rights-of-woman-chapter-ii-7f9afe89",
+    "ru-a-vindication-of-the-rights-of-woman-chapter-iii-5cd135f9",
+    "ru-a-vindication-of-the-rights-of-woman-chapter-iv-9a415c7e",
+    "ru-a-vindication-of-the-rights-of-woman-chapter-ix-16d3983a",
+    "ru-a-vindication-of-the-rights-of-woman-chapter-xii-acfc677d",
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db",
+    "ru-emile-or-on-education-book-ii-b693ca00",
+    "ru-emile-or-on-education-book-iv-83b6cd6b",
+    "ru-essays-in-radical-empiricism-essay-ii-65419f12",
+    "ru-ethics-part-i-6f5216e6",
+    "ru-ethics-part-iii-e7cd383c",
+    "ru-lombard-street-chapter-vii-f9b53110",
+    "ru-on-liberty-chapter-i-6f954b6c",
+    "ru-on-liberty-chapter-iii-cf56e266",
+    "ru-on-liberty-chapter-iv-04531e12",
+    "ru-pragmatism-lecture-ii-489acb63",
+    "ru-pragmatism-lecture-vi-ed0bcf84",
+    "ru-the-purchasing-power-of-money-chapter-2-63622053",
+    "ru-the-theory-of-the-leisure-class-chapter-4-e79ec201",
+    "ru-the-will-to-believe-whole-work-d2ac8ec7"
+  ],
+  "dryRun": false,
+  "allowNetwork": true,
+  "concurrency": 4,
+  "summary": {
+    "considered": 20,
+    "written": 20,
+    "wouldWrite": 0,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 26,
+    "anchorsMatched": 26,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-a-vindication-of-the-rights-of-woman-chapter-ii-7f9afe89",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-a-vindication-of-the-rights-of-woman-chapter-ii-7f9afe89.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 78,
+      "characterCount": 48555,
+      "publicByteCount": 54102,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt",
+      "contentHash": "91bb9cd9f455b75cf1d058c4e4ca9fbeadf59940fa02f4a7c6912c74a39ea6ee"
+    },
+    {
+      "id": "ru-a-vindication-of-the-rights-of-woman-chapter-iii-5cd135f9",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-a-vindication-of-the-rights-of-woman-chapter-iii-5cd135f9.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 54,
+      "characterCount": 35128,
+      "publicByteCount": 39493,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt",
+      "contentHash": "1381ea806cee768753695ba827f9dbadffc8957414a59e354de3400833a06c84"
+    },
+    {
+      "id": "ru-a-vindication-of-the-rights-of-woman-chapter-iv-9a415c7e",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-a-vindication-of-the-rights-of-woman-chapter-iv-9a415c7e.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 88,
+      "characterCount": 66877,
+      "publicByteCount": 72739,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt",
+      "contentHash": "82f0ee45c3f376e6eb28a14ecbc677428de568e27c821e8ff486af1cbb6e1002"
+    },
+    {
+      "id": "ru-a-vindication-of-the-rights-of-woman-chapter-ix-16d3983a",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-a-vindication-of-the-rights-of-woman-chapter-ix-16d3983a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 35,
+      "characterCount": 26159,
+      "publicByteCount": 29515,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-ix",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt",
+      "contentHash": "e9f4f1a35bdee0d35f9f5a8706193ccbf155dce64bf702d359ef88d725e5c41f"
+    },
+    {
+      "id": "ru-a-vindication-of-the-rights-of-woman-chapter-xii-acfc677d",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-a-vindication-of-the-rights-of-woman-chapter-xii-acfc677d.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 86,
+      "characterCount": 57533,
+      "publicByteCount": 64056,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-xii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/2/3420/3420.txt",
+      "contentHash": "314d975d7edd970755c6616e61c03535923defafdf9b4c79301dd00ab1aed947"
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db.json",
+      "sourceCacheHit": false,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 15,
+      "characterCount": 1087,
+      "publicByteCount": 3464,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14"
+        }
+      ],
+      "locatorStructureKey": "chapter-xiii",
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "actualSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+      "contentHash": "8b61bdb2a65a9ebbb33015ee6097864befc129b2969c363ca9cff8f44e94cd3d",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-emile-or-on-education-book-ii-b693ca00",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-emile-or-on-education-book-ii-b693ca00.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 374,
+      "characterCount": 269811,
+      "publicByteCount": 291103,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/5427/pg5427-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/4/2/5427/5427.txt"
+        }
+      ],
+      "locatorStructureKey": "book-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/5427/pg5427-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/4/2/5427/5427.txt",
+      "contentHash": "5c0068197363f2dc2c546a729769ff9c85433c8caffd9d0831ba5f3af4c607a1"
+    },
+    {
+      "id": "ru-emile-or-on-education-book-iv-83b6cd6b",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-emile-or-on-education-book-iv-83b6cd6b.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 541,
+      "characterCount": 465619,
+      "publicByteCount": 495404,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/5427/pg5427-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/4/2/5427/5427.txt"
+        }
+      ],
+      "locatorStructureKey": "book-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/5427/pg5427-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/4/2/5427/5427.txt",
+      "contentHash": "65b7cb425d241c696936d3e8ff6ad5750a0cb899b56b0585fd71c1d004fef2d3"
+    },
+    {
+      "id": "ru-essays-in-radical-empiricism-essay-ii-65419f12",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-essays-in-radical-empiricism-essay-ii-65419f12.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 86,
+      "characterCount": 57814,
+      "publicByteCount": 63853,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/32547/32547-h/32547-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/2/5/4/32547/32547.txt"
+        }
+      ],
+      "locatorStructureKey": "essay-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/32547/32547-h/32547-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/2/5/4/32547/32547.txt",
+      "contentHash": "4561ece565c61ce6de7bda71d53a96c31c2780cb8416791f56555cee3a86ad29"
+    },
+    {
+      "id": "ru-ethics-part-i-6f5216e6",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-ethics-part-i-6f5216e6.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 171,
+      "characterCount": 81049,
+      "publicByteCount": 91821,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 3,
+      "matchedThoughtCount": 3,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "09671adc17537586f5c24de112e661febc24e97e1b010f0138acb93a44b999ad"
+    },
+    {
+      "id": "ru-ethics-part-iii-e7cd383c",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-ethics-part-iii-e7cd383c.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 299,
+      "characterCount": 129078,
+      "publicByteCount": 146592,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 4,
+      "matchedThoughtCount": 4,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "833a7e816274e515f8933e079b2b2f11e3df23de1840c1eb28899dd5690c57f4"
+    },
+    {
+      "id": "ru-lombard-street-chapter-vii-f9b53110",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-lombard-street-chapter-vii-f9b53110.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 75,
+      "characterCount": 58970,
+      "publicByteCount": 65172,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/4359/pg4359-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/3/5/4359/4359.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-vii",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/4359/pg4359-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/3/5/4359/4359.txt",
+      "contentHash": "20065257cb7e4e5184cca0a6437ef45adff5df338c4e8576c0c559a1dae99c2e"
+    },
+    {
+      "id": "ru-on-liberty-chapter-i-6f954b6c",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-on-liberty-chapter-i-6f954b6c.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 18,
+      "characterCount": 33406,
+      "publicByteCount": 35553,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901.txt",
+      "contentHash": "85e399110f4a7b95469734ed927d498901f0714d73ec819a125064cbd9ed7794"
+    },
+    {
+      "id": "ru-on-liberty-chapter-iii-cf56e266",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-on-liberty-chapter-iii-cf56e266.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 25,
+      "characterCount": 47643,
+      "publicByteCount": 50278,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901.txt",
+      "contentHash": "76a13382f2bb358e4c2e5862ec51a456e34519c4fda97b394a0f71cb67369c1f"
+    },
+    {
+      "id": "ru-on-liberty-chapter-iv-04531e12",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-on-liberty-chapter-iv-04531e12.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 25,
+      "characterCount": 47074,
+      "publicByteCount": 49990,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901.txt",
+      "contentHash": "029bec192f627ae9aa5d07edaabdca322509e248e10a16a1f91863eb18387e5a"
+    },
+    {
+      "id": "ru-pragmatism-lecture-ii-489acb63",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-pragmatism-lecture-ii-489acb63.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 57,
+      "characterCount": 41051,
+      "publicByteCount": 45404,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/1/1/5116/5116.txt"
+        }
+      ],
+      "locatorStructureKey": "lecture-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/1/1/5116/5116.txt",
+      "contentHash": "932e7fe8f8e79c2a3c78d7e8e20fb9a7afa4ecda8072c6362c36cbf0731cecfe"
+    },
+    {
+      "id": "ru-pragmatism-lecture-vi-ed0bcf84",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-pragmatism-lecture-vi-ed0bcf84.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 72,
+      "characterCount": 41964,
+      "publicByteCount": 46889,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/1/1/5116/5116.txt"
+        }
+      ],
+      "locatorStructureKey": "lecture-vi",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/1/1/5116/5116.txt",
+      "contentHash": "fd6100adcfe6d241df132074461e7b615218a24b5ef1740f3b7a4d0f2dd92976"
+    },
+    {
+      "id": "ru-the-purchasing-power-of-money-chapter-2-63622053",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-the-purchasing-power-of-money-chapter-2-63622053.json",
+      "sourceCacheHit": false,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 62,
+      "characterCount": 11277,
+      "publicByteCount": 16004,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6"
+        }
+      ],
+      "locatorStructureKey": "chapter-2",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/fisher-the-purchasing-power-of-money",
+      "actualSourceUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+      "contentHash": "253a2b49f25d7096579e19cef680121837aed8bf4074c59450609fd32835fbf4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-theory-of-the-leisure-class-chapter-4-e79ec201",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-the-theory-of-the-leisure-class-chapter-4-e79ec201.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 34,
+      "characterCount": 54170,
+      "publicByteCount": 57247,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/833/833-h/833-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/8/3/833/833.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-4",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/833/833-h/833-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/8/3/833/833.txt",
+      "contentHash": "ea7b22611ef4e359adeb6860c9a155c5d5956c4a4d475b716d531355d62e4edf"
+    },
+    {
+      "id": "ru-the-will-to-believe-whole-work-d2ac8ec7",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-the-will-to-believe-whole-work-d2ac8ec7.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 67,
+      "characterCount": 51349,
+      "publicByteCount": 56375,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/2/6/6/5/26659/26659.txt"
+        }
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/2/6/6/5/26659/26659.txt",
+      "contentHash": "790bf3730c0e3b0d528c6306cadfa8a2f02755ca6a51ca1c5fecac44872d03ff",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

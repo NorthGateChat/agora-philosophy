@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65",
+  "title": "卷 III · 哲学推理规则",
+  "englishTitle": "Book III · Rules of Reasoning in Philosophy",
+  "work": "《自然哲学的数学原理》",
+  "englishWork": "Philosophiæ Naturalis Principia Mathematica",
+  "locator": "卷 III · 哲学推理规则",
+  "englishLocator": "Book III · Rules of Reasoning in Philosophy",
+  "version": "Wikisource，Andrew Motte 1729 年公版英译，《自然哲学的数学原理》第三编“哲学推理规则”第四条",
+  "englishVersion": "Wikisource, Andrew Motte public-domain translation (1729), Principia Book III, Rules of Reasoning in Philosophy, Rule IV",
+  "sourceUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/Rules_of_Reasoning_in_Philosophy",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/Rules_of_Reasoning_in_Philosophy",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=The+Mathematical+Principles+of+Natural+Philosophy+%281729%29%2FRules+of+Reasoning+in+Philosophy&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "daaaf883651f147460c78dcc4b863c4e4491b09df2cfeb0850e5d5bc3106da61"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "dfd4a566fd83c8366f423bb1f9b10df3ff3dc461df9046dcd28ad1483f6940bd",
+  "inputHash": "ac6d08eff8d189fd57dee22355072628275e2904452209bea1a50c138d05b9b1",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Newton's Mathematical Principles of Natural Philosophy : Book III : The Rules of Reasoning in Philosophy"
+    },
+    {
+      "id": "p0002",
+      "text": "Rule I"
+    },
+    {
+      "id": "p0003",
+      "text": "We are to admit no more causes of natural things, than such as are both true and sufficient to explain their appearances."
+    },
+    {
+      "id": "p0004",
+      "text": "To this purpose the philosophers say, that Nature do's nothing in vain, and more is in vain, when less will serve; for Nature is pleas'd with simplicity, and affects not the pomp of superfluous causes."
+    },
+    {
+      "id": "p0005",
+      "text": "Rule II"
+    },
+    {
+      "id": "p0006",
+      "text": "Therefore to the same natural effects we must, as far as possible, assign the same causes."
+    },
+    {
+      "id": "p0007",
+      "text": "As to respiration in a man, and in a beast; the descent of stones in Europe and in America ; the light of our culinary fire and of the Sun; the reflection of light in the Earth, and in the Planets."
+    },
+    {
+      "id": "p0008",
+      "text": "Rule III"
+    },
+    {
+      "id": "p0009",
+      "text": "The qualities of bodies, which admit neither intension nor remission of degrees, and which are found to belong to all bodies within the reach of our experiments, are to be esteemed the universal qualities of all bodies whatsoever."
+    },
+    {
+      "id": "p0010",
+      "text": "For since the qualities of bodies are only known to us by experiments, we are to hold for universal, all such as universally agree with experiments; and such as are not liable to diminution, can never be quite taken away. We are certainly not to relinquish the evidence of experiments for the sake of dreams and vain fictions of our own devising; nor are we to recede from the analogy of Nature, which uses to be simple, and always consonant to itself. We no otherwise know the extension of bodies, than by our senses, nor do these reach it in all bodies; but because we perceive extension in all that are sensible, therefore we ascribe it universally to all others also."
+    },
+    {
+      "id": "p0011",
+      "text": "That abundance of bodies are hard we learn by experience. And because the hardness of the whole arises from the hardness of the parts, we therefore justly infer the hardness of the undivided particles not only of the bodies we feel but of all others. That all bodies are impenetrable, we gather not from reason, but from sensation. The bodies which we handle we find impenetrable, and thence conclude impenetrability to be an universal property of all bodies whatsoever. That all bodies are moveable, and endow'd with certain powers (which we call the vires inertiae ) of persevering in their motion or in their rest, we only infer from the like properties observ'd in the bodies which we have seen. The extension, hardness, impenetrability, mobility, and vis inertiae of the whole, result from the extension, hardness, impenetrability, mobility, and vires inertiae of the parts: and thence we conclude the least particles of all bodies to be also all extended, and hard and impenetrable, and moveable, and endow'd with their proper vires inertiae . And this is the foundation of all philosophy."
+    },
+    {
+      "id": "p0012",
+      "text": "Moreover, that the divided but contiguous particles of bodies may be separated from one another, is matter of observation; and, in the particles that remain undivided, our minds are able to distinguish yet lesser parts, as is mathematically demonstrated. But whether the parts so distinguish'd, and not yet divided, may, by the powers of nature, be actually divided and separated from one another, we cannot certainly determine. Yet had we the proof of but one experiment, that any undivided particle, in breaking a hard and solid body, suffer'd a division, we might by virtue of this rule, conclude, that the undivided as well as the divided particles, may be divided and actually separated to infinity."
+    },
+    {
+      "id": "p0013",
+      "text": "Lastly, If it universally appears, by experiments and astronomical observations, that all bodies about the Earth, gravitate towards the Earth; and that in proportion to the quantity of matter which they severally contain; that the Moon likewise, according to the quantity of its matter, gravitates towards the Earth; that, on the other hand, our Sea gravitates towards the Moon; and all the Planets mutually one towards another; and the Comets in like manner towards the Sun; we must, in consequence of this rule, universally allow, that all bodies whatsoever are endow'd with a principle of mutual gravitation. For the argument from the appearances concludes with more force for the universal gravitation of all bodies, than for their impenetrability; of which among those in the celestial regions, we have no experiments, nor any manner of observation. Not that I affirm gravity to be essential to bodies. By their vis insita I mean nothing but their vis inertiae . This is immutable. Their gravity is diminished as they recede from the Earth."
+    },
+    {
+      "id": "p0014",
+      "text": "Rule IV"
+    },
+    {
+      "id": "p0015",
+      "text": "In experimental philosophy we are to look upon propositions collected by general induction from phenomena as accurately or very nearly true, notwithstanding any contrary hypotheses that may be imagined, till such time as other phenomena occur, by which they may either be made more accurate, or liable to exceptions."
+    },
+    {
+      "id": "p0016",
+      "text": "This rule we must follow that the argument of induction may not be evaded by hypotheses."
+    }
+  ],
+  "anchors": {
+    "science-newton-rule-fourth": {
+      "paragraphId": "p0015",
+      "start": 0,
+      "end": 316,
+      "quote": "In experimental philosophy we are to look upon propositions collected by general induction from phenomena as accurately or very nearly true, notwithstanding any contrary hypotheses that may be imagined, till such time as other phenomena occur, by which they may either be made more accurate, or liable to exceptions.",
+      "match": "normalized-exact"
+    },
+    "science-newton-rule-third": {
+      "paragraphId": "p0009",
+      "start": 0,
+      "end": 230,
+      "quote": "The qualities of bodies, which admit neither intension nor remission of degrees, and which are found to belong to all bodies within the reach of our experiments, are to be esteemed the universal qualities of all bodies whatsoever.",
+      "match": "normalized-exact"
+    },
+    "science-newton-rules-causes": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 121,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0003",
+          "start": 0,
+          "end": 121,
+          "text": "We are to admit no more causes of natural things, than such as are both true and sufficient to explain their appearances."
+        },
+        {
+          "paragraphId": "p0006",
+          "start": 0,
+          "end": 90,
+          "text": "Therefore to the same natural effects we must, as far as possible, assign the same causes."
+        }
+      ],
+      "quote": "We are to admit no more causes of natural things, than such as are both true and sufficient to explain their appearances. ... Therefore to the same natural effects we must, as far as possible, assign the same causes."
+    }
+  }
+}

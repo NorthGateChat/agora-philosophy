@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-hind-swaraj-chapter-iv-b9c44073",
+  "title": "章 IV",
+  "englishTitle": "Chapter IV",
+  "work": "《印度自治》",
+  "englishWork": "Hind Swaraj",
+  "locator": "章 IV",
+  "englishLocator": "Chapter IV",
+  "version": "甘地自译《印度自治》（Indian Home Rule）1922年第五版，第四章，印刷页25，完整连续句；以古登堡文本和原书扫描复核，中文为项目研读译文",
+  "englishVersion": "Gandhi's own English translation, Indian Home Rule, fifth edition (1922), Chapter IV, print p. 25, complete continuous sentence; checked against the Project Gutenberg text and book scan; Chinese is a project study translation",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/40461",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "fa2a144d2bad65991b2a9feb773ff9ad1d9d4c130a7b94c7a30eb8042d19a2d0"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "3bd48ff510b0e8f837882056caa60ab40e0e55e532c1b751568c5003cc2a6c95",
+  "inputHash": "fff05b87abf1035c66e0e453ee3e884d236faee981bd0cd5007fdf54022f4cec",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER IV"
+    },
+    {
+      "id": "p0002",
+      "text": "WHAT IS SWARAJ?"
+    },
+    {
+      "id": "p0003",
+      "text": "READER: I have now learnt what the Congress has done to make India one nation, how the Partition has caused an awakening, and how discontent and unrest have spread through the land. I would now like to know your views on Swaraj. I fear that our interpretation is not the same."
+    },
+    {
+      "id": "p0004",
+      "text": "EDITOR: It is quite possible that we do not attach the same meaning to the term. You and I and all Indians are impatient to obtain Swaraj, but we are certainly not decided as to what it is. To drive the English out of India is a thought heard from many mouths, but it does not seem that many have properly considered why it should be so. I must ask you a question. Do you think that it is necessary to drive away the English, if we get all we want?"
+    },
+    {
+      "id": "p0005",
+      "text": "READER: I should ask of them only one thing that is: \"Please leave our country.\" If after they have complied with this request, their withdrawal from India means that they are still in India, I should have no objection. Then we would understand that, in our language, the word \"gone\" is equivalent to \"remained.\""
+    },
+    {
+      "id": "p0006",
+      "text": "EDITOR: Well then, let us suppose that the English have retired. What will you do then?"
+    },
+    {
+      "id": "p0007",
+      "text": "READER: That question cannot be answered at this stage. The state after withdrawal will depend largely upon the manner of it. If, as you assume, they retire, it seems to me we shall still keep their constitution, and shall carry on the government. If they simply retire for the asking, we should have an army, etc. ready at hand. We should, therefore, have no difficulty in carrying on the government."
+    },
+    {
+      "id": "p0008",
+      "text": "EDITOR: You may think so: I do not. But I will not discuss the matter just now. I have to answer your question, and that I can do well by asking you several questions. Why do you want to drive away the English?"
+    },
+    {
+      "id": "p0009",
+      "text": "READER: Because India has become impoverished by their government. They take away our money from year to year. The most important posts are reserved for themselves. We are kept in a state of slavery. They behave insolently towards us, and disregard our feelings."
+    },
+    {
+      "id": "p0010",
+      "text": "EDITOR: If they do not take our money away, become gentle, and give us responsible posts, would you still consider their presence to be harmful?"
+    },
+    {
+      "id": "p0011",
+      "text": "READER: That question is useless. It is similar to the question whether there is any harm in associating with a tiger, if he changes his nature. Such a question is sheer waste of time. When a tiger changes his nature, Englishmen will change theirs. This is not possible, and to believe it to be possible is contrary to human experience."
+    },
+    {
+      "id": "p0012",
+      "text": "EDITOR: Supposing we get self-government similar to what the Canadians and the South Africans have, will it be good enough?"
+    },
+    {
+      "id": "p0013",
+      "text": "READER: That question also is useless. We may get it when we have the same powers; we shall then hoist our own flag. As is Japan, so must India be. We must own our navy, our army, and we must have our own splendour, and then will India's voice ring through the world."
+    },
+    {
+      "id": "p0014",
+      "text": "EDITOR: You have well drawn the picture. In effect it means this: that we want English rule without the Englishman. You want the tiger's nature, but not the tiger; that is to say, you would make India English, and when it becomes English, it will be called not Hindustan but Englistan. This is not the Swaraj that I want."
+    },
+    {
+      "id": "p0015",
+      "text": "READER: I have placed before you my idea of Swaraj as I think it should be. If the education we have received be of any use, if the works of Spencer, Mill and others be of any importance and if the English Parliament be the mother of Parliaments, I certainly think that we should copy the English people and this to such an extent that, just as they do not allow others to obtain a footing in their country, so we should not allow them or others to obtain it in ours. What they have done in their own country has not been done in any other country. It is, therefore, proper for us to import their institutions. But now I want to know your views."
+    },
+    {
+      "id": "p0016",
+      "text": "EDITOR: There is need for patience. My views will develop of themselves in the course of this discourse. It is as difficult for me to understand the true nature of Swaraj as it seems to you to be easy. I shall, therefore, for the time being, content myself with endeavouring to show that what you call Swaraj is not truly Swaraj."
+    }
+  ],
+  "anchors": {
+    "indian-gandhi-self-rule": {
+      "paragraphId": "p0014",
+      "start": 41,
+      "end": 115,
+      "quote": "In effect it means this: that we want English rule without the Englishman.",
+      "match": "normalized-exact"
+    }
+  }
+}

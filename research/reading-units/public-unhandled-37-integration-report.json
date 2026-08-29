@@ -1,0 +1,2957 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T14:55:31.626Z",
+  "purpose": "Incrementally integrate the 33 public-unhandled resolutions and four batch2b1 complete natural units without rebuilding the formal inventory/index or derived manifest.",
+  "inventory": {
+    "source": "buildReadingUnitInventory() current in-memory result",
+    "temporarySerializedPath": "/tmp/agora-public-unhandled-37-inventory.json",
+    "unitCount": 660,
+    "verifiedThoughtCount": 890,
+    "catalogThoughtCount": 1452,
+    "formalInventoryAndPublicIndexIntentionallyUnchanged": true
+  },
+  "overrideMerge": {
+    "path": "research/reading-units/source-overrides.json",
+    "priorByUnitIdCount": 153,
+    "finalByUnitIdCount": 190,
+    "targetMappings": 37,
+    "uniqueUnitIds": 37,
+    "uniqueLocalPaths": 37,
+    "conflicts": []
+  },
+  "idResolution": {
+    "proposalUnits": 33,
+    "unchangedIds": 28,
+    "changedIds": 5,
+    "orphanedOldIds": [
+      {
+        "oldUnitId": "ru-astronomia-nova-chapter-19-89268069",
+        "replacementUnitId": "ru-astronomia-nova-chapter-xiv-2fa40989",
+        "oldIdPresentInCurrentInventory": false,
+        "oldPublicBodyPath": "public/readings/units/ru-astronomia-nova-chapter-19-89268069.json",
+        "action": "reported only; no old override or public body was deleted"
+      },
+      {
+        "oldUnitId": "ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+        "replacementUnitId": "ru-manifesto-of-the-communist-party-chapter-i-cdf93826",
+        "oldIdPresentInCurrentInventory": false,
+        "oldPublicBodyPath": "public/readings/units/ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf.json",
+        "action": "reported only; no old override or public body was deleted"
+      },
+      {
+        "oldUnitId": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+        "replacementUnitId": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-f518ab8d",
+        "oldIdPresentInCurrentInventory": false,
+        "oldPublicBodyPath": "public/readings/units/ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4.json",
+        "action": "reported only; no old override or public body was deleted"
+      },
+      {
+        "oldUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+        "replacementUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-b4a6bb2c",
+        "oldIdPresentInCurrentInventory": false,
+        "oldPublicBodyPath": "public/readings/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5.json",
+        "action": "reported only; no old override or public body was deleted"
+      },
+      {
+        "oldUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+        "replacementUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f4408382",
+        "oldIdPresentInCurrentInventory": false,
+        "oldPublicBodyPath": "public/readings/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a.json",
+        "action": "reported only; no old override or public body was deleted"
+      }
+    ]
+  },
+  "fetch": {
+    "inventoryPath": "/tmp/agora-public-unhandled-37-inventory.json",
+    "initialReportPath": "/tmp/agora-public-unhandled-37-default-fetch.json",
+    "deterministicResumeReportPath": "/tmp/agora-public-unhandled-37-default-fetch-resume.json",
+    "allowNetwork": false,
+    "outputDirectory": "public/readings/units",
+    "requestedUnits": 37,
+    "initialSummary": {
+      "considered": 37,
+      "written": 13,
+      "wouldWrite": 0,
+      "resumed": 24,
+      "skipped": 0,
+      "failed": 0,
+      "thoughts": 68,
+      "anchorsMatched": 68,
+      "anchorsUnmatched": 0,
+      "duplicateUnboundedClusters": 0,
+      "duplicateUnboundedUnits": 0,
+      "unboundedNonWholeUnits": 0
+    },
+    "deterministicResumeSummary": {
+      "considered": 37,
+      "written": 0,
+      "wouldWrite": 0,
+      "resumed": 37,
+      "skipped": 0,
+      "failed": 0,
+      "thoughts": 68,
+      "anchorsMatched": 68,
+      "anchorsUnmatched": 0,
+      "duplicateUnboundedClusters": 0,
+      "duplicateUnboundedUnits": 0,
+      "unboundedNonWholeUnits": 0
+    },
+    "releaseGates": {
+      "globalPipelineParameters": "formal defaults; no global maximumUnitCharacters, maximumUnboundedSectionCharacters, or maximumPublicUnitBytes override",
+      "publicBodyMaximumBytes": 614400,
+      "maximumObservedPublicBytes": 314290,
+      "allPublicBodiesWithinGate": true,
+      "unitSpecificMaximums": [
+        {
+          "unitId": "ru-capital-volume-i-chapter-xxv-5db39174",
+          "maximumUnitCharacters": 253000,
+          "observedCharacterCount": 252114,
+          "headroom": 886
+        }
+      ]
+    }
+  },
+  "anchors": {
+    "expected": 68,
+    "matched": 68,
+    "unmatched": 0,
+    "matchMethods": {
+      "ellipsis-ordered-segments": 20,
+      "normalized-exact": 47,
+      "punctuation-insensitive": 1
+    }
+  },
+  "boundaries": {
+    "pipelineSelectionMethods": {
+      "configured-pattern": 12,
+      "matched-heading": 16,
+      "quote-guided-boundary": 4,
+      "whole-document": 5
+    },
+    "unboundedNonWholeCount": 0,
+    "wholeDocumentNonWholeUnits": [],
+    "explicitStartPatternCount": 12,
+    "explicitStartPatternUnits": [
+      "ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "ru-discourses-book-i-chapter-2-730b2536",
+      "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16"
+    ],
+    "note": "All non-whole-work local derived units have a reproducible heading or explicit configured boundary. The five whole-document selections are registered whole works."
+  },
+  "duplicates": {
+    "pipelineDuplicateUnboundedClusters": [],
+    "exactContentHashGroups": [],
+    "exactParagraphBodyGroups": []
+  },
+  "validation": {
+    "defaultParameterIntegration": {
+      "command": "node --import tsx scripts/verify-public-unhandled-37-integration.mjs",
+      "status": "passed",
+      "units": 37,
+      "anchorsMatched": 68,
+      "failed": 0,
+      "duplicates": 0,
+      "unboundedNonWholeUnits": 0
+    },
+    "targetedOverrideChecks": {
+      "status": "passed",
+      "checks": [
+        "37 current inventory IDs resolved from 68 thought IDs",
+        "37 byUnitId.localPath values are exact, unique, and readable",
+        "37 public source hashes equal their proposed local source hashes",
+        "68 public anchors have paragraph IDs and non-failure match methods",
+        "12 formerly unbounded non-whole-work units now use anchored startPattern boundaries",
+        "zero non-whole-work units retain whole-document selection",
+        "all 37 public bodies remain within the default 600 KiB gate",
+        "Capital Chapter XXV alone uses a 253000-character unit-specific maximum"
+      ]
+    },
+    "fetchTests": {
+      "command": "node --test tests/fetch-reading-units.test.mjs",
+      "status": "passed",
+      "passed": 44,
+      "failed": 0
+    },
+    "verifierLint": {
+      "command": "npx eslint scripts/verify-public-unhandled-37-integration.mjs",
+      "status": "passed"
+    },
+    "repositoryOverrideTest": {
+      "command": "node --test tests/reading-unit-source-overrides.test.mjs",
+      "status": "expected-stale-index-failure",
+      "reason": "The test reads the intentionally unrebuilt formal public/readings/index.json; it therefore cannot yet see the five new IDs. The current in-memory inventory validation above passed. No formal index was written to make this test pass prematurely."
+    }
+  },
+  "intentionallyUnchanged": [
+    "research/reading-units/inventory.json",
+    "public/readings/index.json",
+    "research/source-cache/reading-unit-derived/manifest.json"
+  ],
+  "units": [
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-astronomia-nova-chapter-19-89268069",
+      "unitId": "ru-astronomia-nova-chapter-xiv-2fa40989",
+      "idChanged": true,
+      "thoughtIds": [
+        "science-kepler-eight-minutes"
+      ],
+      "naturalUnit": "William Whewell, On the Philosophy of Discovery, Chapter XIV, “The Practical Reformers of Science”",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/whewell-philosophy-discovery-chapter-xiv.txt"
+      },
+      "localSource": {
+        "bytes": 43078,
+        "sha256": "b79fe33fa9052ea4d9fbdd472b293609488a3d62eeb27afafaccc4c0e5dd0531",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            422,
+            493
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-xiv",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 72,
+        "characterCount": 42889,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-astronomia-nova-chapter-xiv-2fa40989.json",
+        "bytes": 48449,
+        "within600KiBGate": true,
+        "sha256": "623fda9ef8eec125d10861c20ee7975eb08cec90c7e3e9946775afc0893d3b99",
+        "contentHash": "22a4a771769473a78505c3d07740f6ebbaeeb751f689096078face1fb37fa422",
+        "paragraphBodySha256": "1e072a9c4a715227d294a1aa93f5be676bfd3f53790614604b7ff921fe9f0657",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "science-kepler-eight-minutes": {
+          "paragraphId": "p0027",
+          "start": 1611,
+          "end": 2035,
+          "quote": "“Since,” he says, “the divine goodness has given us in Tycho Brahe an exact observer, from whose observations this error of eight minutes in the calculations of the Ptolemaic hypothesis is detected, let us acknowledge and make use of this gift of God: and since this error cannot be neglected, these eight minutes alone have prepared the way for an entire reform of Astronomy, and are to be the main subject of this work.”",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+      "unitId": "ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+      "idChanged": false,
+      "thoughtIds": [
+        "kant-synthetic-a-priori"
+      ],
+      "naturalUnit": "Critique of Pure Reason, Introduction",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-introduction-meiklejohn.txt"
+      },
+      "localSource": {
+        "bytes": 41366,
+        "sha256": "3683025f119a24d07944095a374cd753ddb5168fc4c007bd2aeb292c99a72a94",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            185,
+            229
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "introduction-introduction",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 45,
+        "characterCount": 41075,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-critique-of-pure-reason-introduction-introduction-1ecd26ec.json",
+        "bytes": 44851,
+        "within600KiBGate": true,
+        "sha256": "7f518148373de244def2c78d00a6d3dcaeaa2b37f872bdba819c28fccdff390e",
+        "contentHash": "f72c318fdc3f4faf5b2309f5e9e336f6d346b8d991414154cd05b1f952c92f6e",
+        "paragraphBodySha256": "606c84924205c7c001beb57aa04ad90650d2c6a3f86f809b9de90f8667da01ac",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "kant-synthetic-a-priori": {
+          "paragraphId": "p0028",
+          "start": 320,
+          "end": 442,
+          "quote": "The proper problem of pure reason, then, is contained in the question: “How are synthetical judgements à priori possible?”",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "unitId": "ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "idChanged": false,
+      "thoughtIds": [
+        "kant-copernican-turn"
+      ],
+      "naturalUnit": "Critique of Pure Reason, Preface to the Second Edition (1787)",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-preface-b-meiklejohn.txt",
+        "startPattern": "^PREFACE TO THE SECOND EDITION 1787$"
+      },
+      "localSource": {
+        "bytes": 48255,
+        "sha256": "5907bed3b70e279dcaa5535a0fb0a265b35e8f9d413aa83943c45a196aed699a",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            152,
+            184
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "preface-b",
+        "startPattern": "^PREFACE TO THE SECOND EDITION 1787$",
+        "endPattern": null,
+        "paragraphCount": 33,
+        "characterCount": 48019,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-critique-of-pure-reason-preface-b-d5be9bd1.json",
+        "bytes": 51441,
+        "within600KiBGate": true,
+        "sha256": "55bf6d8293962dd7cb2777b806789fbed0a904441f514573d2e8f1aafea52df7",
+        "contentHash": "491346df47ef59ca06acac49cedc4c41486e920ddd914fe190177d26299a205a",
+        "paragraphBodySha256": "5e8d46f80a41d2a2e3972d32a6bbc3df25837375342813e6ac0fe07a470d7510",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "kant-copernican-turn": {
+          "paragraphId": "p0013",
+          "start": 447,
+          "end": 859,
+          "quote": "It has hitherto been assumed that our cognition must conform to the objects; but all attempts to ascertain anything about these objects à priori, by means of conceptions, and thus to extend the range of our knowledge, have been rendered abortive by this assumption. Let us then make the experiment whether we may not be more successful in metaphysics, if we assume that the objects must conform to our cognition.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "unitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "idChanged": false,
+      "thoughtIds": [
+        "rousseau-amour-propre-comparison"
+      ],
+      "naturalUnit": "Discourse on Inequality, Note XV",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/rousseau-inequality-note-xv.txt",
+        "startPattern": "^Egoism must not be confused with self-respect:"
+      },
+      "localSource": {
+        "bytes": 1669,
+        "sha256": "96887f9f9f5da0ba45ce03abef691192486d5ef55570a8271b8db72a301e55f8",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            925,
+            925
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "note-xv",
+        "startPattern": "^Egoism must not be confused with self-respect:",
+        "endPattern": null,
+        "paragraphCount": 1,
+        "characterCount": 1668,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46.json",
+        "bytes": 3660,
+        "within600KiBGate": true,
+        "sha256": "0cb8d35e13d321f4d0a3e9b4a5cbf5ab2e233a11253a1039ece08e8c442f371c",
+        "contentHash": "3978bbd34764875aa68f6f25c714711da2dcf93b1b4fd71ee726e85024038998",
+        "paragraphBodySha256": "a4b42a7c038795170f5b0341f4d739c9b7a1b620a9c55858eef8abaf839cf0a6",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "rousseau-amour-propre-comparison": {
+          "paragraphId": "p0001",
+          "start": 0,
+          "end": 548,
+          "quote": "Egoism must not be confused with self-respect: for they differ both in themselves and in their effects. Self-respect is a natural feeling which leads every animal to look to its own preservation, and which, guided in man by reason and modified by compassion, creates humanity and virtue. Egoism is a purely relative and factitious feeling, which arises in the state of society, leads each individual to make more of himself than of any other, causes all the mutual damage men inflict one on another, and is the real source of the \"sense of honour.\"",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "unitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "idChanged": false,
+      "thoughtIds": [
+        "rousseau-compassion-prior-to-reason",
+        "rousseau-perfectibility-double-edge"
+      ],
+      "naturalUnit": "Discourse on Inequality, Part I",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/rousseau-inequality-part-i.txt",
+        "startPattern": "^THE FIRST PART$"
+      },
+      "localSource": {
+        "bytes": 69644,
+        "sha256": "b62c28b42df064f16f50162987321de8d23dc4d6de60cb9c284c7178c19ece3e",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            870,
+            926
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "part-i",
+        "startPattern": "^THE FIRST PART$",
+        "endPattern": null,
+        "paragraphCount": 57,
+        "characterCount": 69530,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222.json",
+        "bytes": 74550,
+        "within600KiBGate": true,
+        "sha256": "273179e8ef0c2c0a6a9db90559f544195c9c2c97c60bb949de3f1d1b5bd036b0",
+        "contentHash": "f58531d620636c2f4d5ba528774d5cdac278185197f30b969185e5c08466fdce",
+        "paragraphBodySha256": "f99062083569429c77025c1277a03949f513143bac381740fba78f9c7616dba9",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "rousseau-compassion-prior-to-reason": {
+          "paragraphId": "p0039",
+          "start": 0,
+          "end": 179,
+          "quote": "It is then certain that compassion is a natural feeling which, by moderating the violence of love of self in each individual, contributes to the preservation of the whole species.",
+          "match": "normalized-exact"
+        },
+        "rousseau-perfectibility-double-edge": {
+          "paragraphId": "p0018",
+          "start": 997,
+          "end": 1473,
+          "quote": "It would be melancholy, were we forced to admit that this distinctive and almost unlimited faculty is the source of all human misfortunes; that it is this which, in time, draws man out of his original state, in which he would have spent his days insensibly in peace and innocence; that it is this faculty, which, successively producing in different ages his discoveries and his errors, his vices and his virtues, makes him at length a tyrant both over himself and over nature.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 2,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "unitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "idChanged": false,
+      "thoughtIds": [
+        "rousseau-metallurgy-agriculture-inequality",
+        "rousseau-property-enclosure"
+      ],
+      "naturalUnit": "Discourse on Inequality, Part II",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/rousseau-inequality-part-ii.txt",
+        "startPattern": "^THE SECOND PART$"
+      },
+      "localSource": {
+        "bytes": 73169,
+        "sha256": "31d2965f3e9d26f7e23b865a27a98eea936e94270036306390fec75051f1aa8a",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            927,
+            1000
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "part-ii",
+        "startPattern": "^THE SECOND PART$",
+        "endPattern": null,
+        "paragraphCount": 74,
+        "characterCount": 73017,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb.json",
+        "bytes": 78696,
+        "within600KiBGate": true,
+        "sha256": "d8bee59db2565630fe3cfab88d14cbd80ff51c3eef215394bb56fbba2ff70a20",
+        "contentHash": "05b2cff104d8b91b7d6171001e59bcc36f94845b05c77ffcc28a36056715602e",
+        "paragraphBodySha256": "b701af3ed45ca3babe4025536dd7f82ca7897eea0be813ce7cfd986b411c8957",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "rousseau-metallurgy-agriculture-inequality": {
+          "paragraphId": "p0024",
+          "start": 0,
+          "end": 221,
+          "quote": "Metallurgy and agriculture were the two arts which produced this great revolution. The poets tell us it was gold and silver, but, for the philosophers, it was iron and corn, which first civilised men, and ruined humanity.",
+          "match": "normalized-exact"
+        },
+        "rousseau-property-enclosure": {
+          "paragraphId": "p0002",
+          "start": 0,
+          "end": 181,
+          "quote": "The first man who, having enclosed a piece of ground, bethought himself of saying This is mine, and found people simple enough to believe him, was the real founder of civil society.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 2,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "unitId": "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "idChanged": false,
+      "thoughtIds": [
+        "rousseau-luxury-corrupts-virtue"
+      ],
+      "naturalUnit": "Discourse on the Sciences and Arts, Part II",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/rousseau-sciences-arts-part-ii.txt",
+        "startPattern": "^THE SECOND PART$"
+      },
+      "localSource": {
+        "bytes": 33028,
+        "sha256": "26380d2e06df501c89228306a253865328b5922caf66d78c2df8480e450de2f7",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            769,
+            808
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "part-ii",
+        "startPattern": "^THE SECOND PART$",
+        "endPattern": null,
+        "paragraphCount": 40,
+        "characterCount": 32940,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-discourse-on-the-sciences-and-arts-part-ii-612100dd.json",
+        "bytes": 36460,
+        "within600KiBGate": true,
+        "sha256": "ecef0426e8b05418697b74b5587a0e55473b60e45c11a25bfc920f36a434863a",
+        "contentHash": "92b0c36c2985ace7323069d7cca1696a06f852c9fbbce005a48e5f5cdb280942",
+        "paragraphBodySha256": "aaa4783a232d25b7caba377f4dd0fec778c4167d2e1e465f5192ef4738041b47",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "rousseau-luxury-corrupts-virtue": {
+          "paragraphId": "p0008",
+          "start": 0,
+          "end": 258,
+          "quote": "The waste of time is certainly a great evil; but still greater evils attend upon literature and the arts. One is luxury, produced like them by indolence and vanity. Luxury is seldom unattended by the arts and sciences; and they are always attended by luxury.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+      "unitId": "ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+      "idChanged": false,
+      "thoughtIds": [
+        "machiavelli-conflict-liberty"
+      ],
+      "naturalUnit": "Discourses on Livy, Book I, Chapter IV",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/machiavelli-discourses-livy-book-i-chapter-iv-thomson.txt"
+      },
+      "localSource": {
+        "bytes": 4275,
+        "sha256": "82b4d1db96ae339d9c9704179826a7eaa2eaf6cf4e39c1b4e8dd37d4bddd0819",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            208,
+            212
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "book-i-chapter-4",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 5,
+        "characterCount": 4264,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-discourses-on-livy-book-i-chapter-4-f36c1d2d.json",
+        "bytes": 6697,
+        "within600KiBGate": true,
+        "sha256": "e509dbd2db80b1a4bff510350cb20cc5f9d0d216d059823486b7f9c022dc132f",
+        "contentHash": "6a8b3b4c2ac8b903319e70aeb156df0be1bd182e345cc33f2f69ba012e072b1c",
+        "paragraphBodySha256": "72192617c1be787bc543fb401a33dd70b97b854de80ae31f2a9ad2f8a95d2768",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "machiavelli-conflict-liberty": {
+          "paragraphId": "p0004",
+          "start": 354,
+          "end": 481,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0004",
+              "start": 354,
+              "end": 481,
+              "text": "those who condemn these dissensions between the nobles and the commons, condemn what was the prime cause of Rome becoming free;"
+            },
+            {
+              "paragraphId": "p0004",
+              "start": 620,
+              "end": 820,
+              "text": "not reflecting that while in every republic there are two conflicting factions, that of the people and that of the nobles, it is in this conflict that all laws favourable to freedom have their origin,"
+            }
+          ],
+          "quote": "Those who condemn these dissensions between the nobles and the commons, condemn what was the prime cause of Rome becoming free; … not reflecting that while in every republic there are two conflicting factions, that of the people and that of the nobles, it is in this conflict that all laws favourable to freedom have their origin."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-enchiridion-whole-work-f7640499",
+      "unitId": "ru-enchiridion-whole-work-f7640499",
+      "idChanged": false,
+      "thoughtIds": [
+        "epictetus",
+        "epictetus-actor-and-role",
+        "epictetus-banquet-metaphor",
+        "epictetus-control",
+        "epictetus-duties-from-relations",
+        "epictetus-practice-not-display",
+        "epictetus-price-of-tranquility",
+        "epictetus-return-what-was-given",
+        "epictetus-train-desire-first",
+        "epictetus-two-handles",
+        "epictetus-wish-events-as-they-are"
+      ],
+      "naturalUnit": "The Encheiridion, or Manual",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/epictetus-encheiridion-long.txt"
+      },
+      "localSource": {
+        "bytes": 43419,
+        "sha256": "b284ee544e0c41cf2748bb657fe8677c2d492897fff355206b4da6c720bd1cdd",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            240,
+            360
+          ]
+        },
+        "pipelineSelectionMethod": "whole-document",
+        "locatorStructureKey": "whole-work",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 121,
+        "characterCount": 43150,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-enchiridion-whole-work-f7640499.json",
+        "bytes": 57625,
+        "within600KiBGate": true,
+        "sha256": "4fd61097075f14ce226a8d9a54e54806d794f12bc4d3a5660311c7180eb39987",
+        "contentHash": "e45166856ebb539a73de1a2155a6dc4481f92680d74d55aed0502e395a5dd01c",
+        "paragraphBodySha256": "ff86b7278dca75f39b67498664f673340735490b152fbd267c73c011ebeefbb4",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "epictetus": {
+          "paragraphId": "p0012",
+          "start": 0,
+          "end": 251,
+          "quote": "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.",
+          "match": "normalized-exact"
+        },
+        "epictetus-actor-and-role": {
+          "paragraphId": "p0036",
+          "start": 0,
+          "end": 93,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0036",
+              "start": 0,
+              "end": 93,
+              "text": "Remember that thou art an actor in a play, of such a kind as the teacher (author) may choose;"
+            },
+            {
+              "paragraphId": "p0036",
+              "start": 309,
+              "end": 418,
+              "text": "For this is your duty, to act well the part that is given to you; but to select the part, belongs to another."
+            }
+          ],
+          "quote": "Remember that thou art an actor in a play, of such a kind as the teacher (author) may choose. ... For this is your duty, to act well the part that is given to you; but to select the part, belongs to another."
+        },
+        "epictetus-banquet-metaphor": {
+          "paragraphId": "p0032",
+          "start": 0,
+          "end": 342,
+          "quote": "Remember that in life you ought to behave as at a banquet. Suppose that something is carried round and is opposite to you. Stretch out your hand and take a portion with decency. Suppose that it passes by you. Do not detain it. Suppose that it is not yet come to you. Do not send your desire forward to it, but wait till it is opposite to you.",
+          "match": "normalized-exact"
+        },
+        "epictetus-control": {
+          "paragraphId": "p0003",
+          "start": 0,
+          "end": 77,
+          "quote": "Of things some are in our power, and others are not. In our power are opinion, movement towards a thing, desire, aversion, turning from a thing; and in a word, whatever are our acts.",
+          "match": "normalized-exact",
+          "segments": [
+            {
+              "paragraphId": "p0003",
+              "start": 0,
+              "end": 77,
+              "text": "Of things some are in our power, and others are not. In our power are opinion"
+            },
+            {
+              "paragraphId": "p0003",
+              "start": 100,
+              "end": 126,
+              "text": ", movement towards a thing"
+            },
+            {
+              "paragraphId": "p0003",
+              "start": 144,
+              "end": 162,
+              "text": ", desire, aversion"
+            },
+            {
+              "paragraphId": "p0003",
+              "start": 184,
+              "end": 245,
+              "text": ", turning from a thing; and in a word, whatever are our acts."
+            }
+          ]
+        },
+        "epictetus-duties-from-relations": {
+          "paragraphId": "p0062",
+          "start": 0,
+          "end": 44,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0062",
+              "start": 0,
+              "end": 44,
+              "text": "Duties are universally measured by relations"
+            },
+            {
+              "paragraphId": "p0062",
+              "start": 500,
+              "end": 801,
+              "text": "For another will not damage you, unless you choose: but you will be damaged then when you shall think that you are damaged. In this way then you will discover your duty from the relation of a neighbor, from that of a citizen, from that of a general, if you are accustomed to contemplate the relations."
+            }
+          ],
+          "quote": "Duties are universally measured by relations. ... For another will not damage you, unless you choose: but you will be damaged then when you shall think that you are damaged. In this way then you will discover your duty from the relation of a neighbor, from that of a citizen, from that of a general, if you are accustomed to contemplate the relations."
+        },
+        "epictetus-practice-not-display": {
+          "paragraphId": "p0106",
+          "start": 0,
+          "end": 173,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0106",
+              "start": 0,
+              "end": 173,
+              "text": "On no occasion call yourself a philosopher, and do not speak much among the uninstructed about theorems (philosophical rules, precepts); but do that which follows from them."
+            },
+            {
+              "paragraphId": "p0106",
+              "start": 1030,
+              "end": 1136,
+              "text": "Do you also show not your theorems to the uninstructed, but show the acts which come from their digestion."
+            }
+          ],
+          "quote": "On no occasion call yourself a philosopher, and do not speak much among the uninstructed about theorems (philosophical rules, precepts); but do that which follows from them. … Do you also show not your theorems to the uninstructed, but show the acts which come from their digestion."
+        },
+        "epictetus-price-of-tranquility": {
+          "paragraphId": "p0026",
+          "start": 390,
+          "end": 572,
+          "quote": "Is the oil spilled? Is a little wine stolen? Say on the occasion, at such price is sold freedom from perturbation; at such price is sold tranquillity, but nothing is got for nothing.",
+          "match": "normalized-exact"
+        },
+        "epictetus-return-what-was-given": {
+          "paragraphId": "p0024",
+          "start": 0,
+          "end": 228,
+          "quote": "Never say about anything, I have lost it, but say I have restored it. Is your child dead? It has been restored. Is your wife dead? She has been restored. Has your estate been taken from you? Has not then this also been restored?",
+          "match": "normalized-exact"
+        },
+        "epictetus-train-desire-first": {
+          "paragraphId": "p0006",
+          "start": 708,
+          "end": 930,
+          "quote": "But destroy desire completely for the present. For if you desire anything which is not in our power, you must be unfortunate; but of the things in our power, and which it would be good to desire, nothing yet is before you.",
+          "match": "normalized-exact"
+        },
+        "epictetus-two-handles": {
+          "paragraphId": "p0100",
+          "start": 0,
+          "end": 191,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0100",
+              "start": 0,
+              "end": 191,
+              "text": "Everything has two handles, the one by which it may be borne, the other by which it may not. If your brother acts unjustly, do not lay hold of the act by that handle wherein he acts unjustly,"
+            },
+            {
+              "paragraphId": "p0100",
+              "start": 238,
+              "end": 320,
+              "text": "but lay hold of the other, that he is your brother, that he was nurtured with you,"
+            }
+          ],
+          "quote": "Everything has two handles, the one by which it may be borne, the other by which it may not. If your brother acts unjustly, do not lay hold of the act by that handle wherein he acts unjustly. ... But lay hold of the other, that he is your brother, that he was nurtured with you."
+        },
+        "epictetus-wish-events-as-they-are": {
+          "paragraphId": "p0018",
+          "start": 0,
+          "end": 159,
+          "quote": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 11,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "unitId": "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "idChanged": false,
+      "thoughtIds": [
+        "heraclitus",
+        "heraclitus-character",
+        "heraclitus-conflict",
+        "heraclitus-logos",
+        "heraclitus-river"
+      ],
+      "naturalUnit": "Fragments of Heraclitus, John Burnet translation (1920)",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/heraclitus-fragments-burnet-1920.txt"
+      },
+      "localSource": {
+        "bytes": 15435,
+        "sha256": "95d2089d67db57e92a248e8bff0d3f6de5db63f210414fd780f6470ec0a160ec",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            6,
+            275
+          ]
+        },
+        "pipelineSelectionMethod": "whole-document",
+        "locatorStructureKey": "whole-work",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 270,
+        "characterCount": 14696,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-fragments-of-heraclitus-whole-work-bc02bed8.json",
+        "bytes": 31512,
+        "within600KiBGate": true,
+        "sha256": "de8e7525058aa26f6a79c5a2c0fb3b2d6f239f425ef4c50e2e1c7f68949f7848",
+        "contentHash": "a123a09e5c3df5ddafb302d8e0a7f83b17e91706c7f05d06b2526a9d0f269b1e",
+        "paragraphBodySha256": "0095094b81fb9905026c80869743b231a6134b2fb68d32c2d01a533a4a69b482",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "heraclitus": {
+          "paragraphId": "p0007",
+          "start": 0,
+          "end": 111,
+          "quote": "So we must follow the common, yet though my Word is common, the many live as if they had a wisdom of their own.",
+          "match": "normalized-exact"
+        },
+        "heraclitus-character": {
+          "paragraphId": "p0248",
+          "start": 0,
+          "end": 28,
+          "quote": "Man's character is his fate.",
+          "match": "normalized-exact"
+        },
+        "heraclitus-conflict": {
+          "paragraphId": "p0114",
+          "start": 0,
+          "end": 110,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0114",
+              "start": 0,
+              "end": 110,
+              "text": "War is the father of all and the king of all; and some he has made gods and some men, some bond and some free."
+            },
+            {
+              "paragraphId": "p0171",
+              "start": 0,
+              "end": 131,
+              "text": "We must know that war is common to all and strife is justice, and that all things come into being and pass away (?) through strife."
+            }
+          ],
+          "quote": "War is the father of all and the king of all; and some he has made gods and some men, some bond and some free. ... We must know that war is common to all and strife is justice, and that all things come into being and pass away through strife."
+        },
+        "heraclitus-logos": {
+          "paragraphId": "p0108",
+          "start": 0,
+          "end": 89,
+          "quote": "It is wise to hearken, not to me, but to my Word, and to confess that all things are one.",
+          "match": "normalized-exact"
+        },
+        "heraclitus-river": {
+          "paragraphId": "p0028",
+          "start": 9,
+          "end": 99,
+          "quote": "You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 5,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "unitId": "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "idChanged": false,
+      "thoughtIds": [
+        "kant",
+        "kant-autonomy-self-legislation",
+        "kant-universal-law-test"
+      ],
+      "naturalUnit": "Groundwork of the Metaphysics of Morals, Section II",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/kant-groundwork-section-ii-abbott.txt"
+      },
+      "localSource": {
+        "bytes": 91312,
+        "sha256": "a2d92069d51a20f4ffcca9d58d4d3e7b8ba7f2edcad443b57e69f13caaeeb38b",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            50,
+            163
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "section-ii",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 114,
+        "characterCount": 91085,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5.json",
+        "bytes": 98828,
+        "within600KiBGate": true,
+        "sha256": "431111edc96aee9fcce7ff3e68df6dd896468fccac30fdd22a97e69841cb6b79",
+        "contentHash": "5ca29c9f3b6e76bdc011d266a116a082dce6f4586c8a8b1cd0ac8ff77994b77c",
+        "paragraphBodySha256": "a17b895657d4ee7aa14327f38368948973801fd114787526d1894957fd69cddc",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "kant": {
+          "paragraphId": "p0064",
+          "start": 865,
+          "end": 999,
+          "quote": "So act as to treat humanity, whether in thine own person or in that of any other, in every case as an end withal, never as means only.",
+          "match": "normalized-exact"
+        },
+        "kant-autonomy-self-legislation": {
+          "paragraphId": "p0100",
+          "start": 0,
+          "end": 134,
+          "quote": "Autonomy of the will is that property of it by which it is a law to itself (independently of any property of the objects of volition).",
+          "match": "normalized-exact"
+        },
+        "kant-universal-law-test": {
+          "paragraphId": "p0042",
+          "start": 65,
+          "end": 167,
+          "quote": "Act only on that maxim whereby thou canst at the same time will that it should become a universal law.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 3,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "unitId": "ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "idChanged": false,
+      "thoughtIds": [
+        "hobbes-sovereignty"
+      ],
+      "naturalUnit": "Leviathan (1651), Chapter XXIX",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/hobbes-leviathan-chapter-xxix-1651.txt",
+        "startPattern": "^CHAP\\. XXIX\\. Of those things that Weaken, or tend to the Dissolution of a Common-wealth\\.$"
+      },
+      "localSource": {
+        "bytes": 23545,
+        "sha256": "0a9fee27ddb2e1012074839cb6ca48416f20d67aef39bce805d45bd895c65c15",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            7,
+            30
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "part-ii-chapter-xxix",
+        "startPattern": "^CHAP\\. XXIX\\. Of those things that Weaken, or tend to the Dissolution of a Common-wealth\\.$",
+        "endPattern": null,
+        "paragraphCount": 24,
+        "characterCount": 23496,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-leviathan-part-ii-chapter-xxix-612ebd74.json",
+        "bytes": 26147,
+        "within600KiBGate": true,
+        "sha256": "8dcb11c76db816466d35804034b8959fb7e44f6a73da2d688517caf56330e8a6",
+        "contentHash": "14c5a11225b3ec5825b517995bcf3835ea89f0636221995ac8b01c4e32cb44d0",
+        "paragraphBodySha256": "36ebfffb36c67629aefe5cc2447475a281ea02d37593a86838bc2fdfe5517636",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "hobbes-sovereignty": {
+          "paragraphId": "p0013",
+          "start": 0,
+          "end": 267,
+          "quote": "There is a Sixth doctrine, plainly, and directly against the essence of a Common-wealth; and 'tis this, That the Soveraign Power may be divided. For what is it to divide the Power of a Common-wealth, but to Dissolve it; for Powers divided mutually destroy each other.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+      "unitId": "ru-manifesto-of-the-communist-party-chapter-i-cdf93826",
+      "idChanged": true,
+      "thoughtIds": [
+        "marx-class-struggle"
+      ],
+      "naturalUnit": "Manifesto of the Communist Party, Chapter I, “Bourgeois and Proletarians”",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/marx-manifesto-chapter-i-moore-engels-1910.txt"
+      },
+      "localSource": {
+        "bytes": 29444,
+        "sha256": "ea9da815d5b6858538ea0d12a1f3a32ba1df68a83aaec19d079c6ccb597f39af",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            7,
+            65
+          ]
+        },
+        "pipelineSelectionMethod": "quote-guided-boundary",
+        "locatorStructureKey": "chapter-i",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 59,
+        "characterCount": 29305,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-manifesto-of-the-communist-party-chapter-i-cdf93826.json",
+        "bytes": 33700,
+        "within600KiBGate": true,
+        "sha256": "06ed0e70b9cfc163db853183f46bb53e39e20c1600db2d892b6de3455896bb15",
+        "contentHash": "6e98d3e71831827f576d93c42dbc6cca32f62839e3216672f65109047b09153b",
+        "paragraphBodySha256": "707b146c668468413d5f108a1dbf1655aad325b5b5aec4591bd06aed80a6b706",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "marx-class-struggle": {
+          "paragraphId": "p0003",
+          "start": 0,
+          "end": 79,
+          "quote": "The history of all hitherto existing society is the history of class struggles.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "unitId": "ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "idChanged": false,
+      "thoughtIds": [
+        "descartes",
+        "descartes-wax-and-judgment"
+      ],
+      "naturalUnit": "Meditations on First Philosophy, Meditation II",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-ii-molyneux-1680.txt",
+        "startPattern": "^MEDITAT\\. II\\.$"
+      },
+      "localSource": {
+        "bytes": 17404,
+        "sha256": "4cf2d8f0e93e00142e0321af161e6bf8c4eb05c1d53af469aa45d472c93a1ca7",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            81,
+            115
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "meditation-ii",
+        "startPattern": "^MEDITAT\\. II\\.$",
+        "endPattern": null,
+        "paragraphCount": 35,
+        "characterCount": 17231,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-meditations-on-first-philosophy-meditation-ii-1865582b.json",
+        "bytes": 21349,
+        "within600KiBGate": true,
+        "sha256": "504ca093eb66619d0e6b7c5f8055daa49494083617f6aec1241a5cdd866cfb9a",
+        "contentHash": "6331c2fda8183cfbb4ac02f36598dcde6564480bb0f3d12cfd5ca11e3a8e3f47",
+        "paragraphBodySha256": "45ce12263b66ea490772cc44e12a5aa922e079f15bb692bd42476c5ef023c765",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "descartes": {
+          "paragraphId": "p0009",
+          "start": 268,
+          "end": 410,
+          "quote": "Wherefore I may lay this down as a Principle, that whenever this sentence I am, I exist, is spoken or thought of by Me, ’tis necessarily True.",
+          "match": "normalized-exact"
+        },
+        "descartes-wax-and-judgment": {
+          "paragraphId": "p0028",
+          "start": 0,
+          "end": 146,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0028",
+              "start": 0,
+              "end": 146,
+              "text": "But behold whilst I am speaking, ’tis put to the Fire, its tast is purged away, the smell is vanish’d, the colour is changed, the shape is alter’d"
+            },
+            {
+              "paragraphId": "p0029",
+              "start": 329,
+              "end": 404,
+              "text": "But the perception thereof is the inspection or beholding of the Mind only,"
+            }
+          ],
+          "quote": "But behold whilst I am speaking, ’tis put to the Fire, its tast is purged away, the smell is vanish’d, the colour is changed, the shape is alter’d … But the perception thereof is the inspection or beholding of the Mind only."
+        }
+      },
+      "matchedAnchorCount": 2,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "unitId": "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "idChanged": false,
+      "thoughtIds": [
+        "descartes-idea-of-the-infinite"
+      ],
+      "naturalUnit": "Meditations on First Philosophy, Meditation III",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-iii-molyneux-1680.txt",
+        "startPattern": "^MEDITAT\\. III\\.$"
+      },
+      "localSource": {
+        "bytes": 31344,
+        "sha256": "230facc6ed60a1b0ca503f2f187af502d522b69e95ba6d3b3772eb7f0f635701",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            116,
+            161
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "meditation-iii",
+        "startPattern": "^MEDITAT\\. III\\.$",
+        "endPattern": null,
+        "paragraphCount": 46,
+        "characterCount": 31167,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-meditations-on-first-philosophy-meditation-iii-98ef2f62.json",
+        "bytes": 35071,
+        "within600KiBGate": true,
+        "sha256": "2f5b3e418733e8f44010611c235051238f7fb6d86c616910b8806a9eb4b23b17",
+        "contentHash": "b3acd9122a9354c856c521f1200bf2ebbd98e08e6ca5269b8e650d5dbc0dcccc",
+        "paragraphBodySha256": "af9382749b220bbc42450797073ff978daadfc4e21637463793da7e259750a9f",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "descartes-idea-of-the-infinite": {
+          "paragraphId": "p0032",
+          "start": 740,
+          "end": 989,
+          "quote": "For how should I know that I doubt or desire, that is to say, that I want something, and that I am not altogether perfect, unless I had the Idea of a being more perfect then my self, by comparing my self to which I may discover my own Imperfections.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "unitId": "ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "idChanged": false,
+      "thoughtIds": [
+        "descartes-error-of-the-will"
+      ],
+      "naturalUnit": "Meditations on First Philosophy, Meditation IV",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-iv-molyneux-1680.txt",
+        "startPattern": "^MEDITAT\\. IV\\.$"
+      },
+      "localSource": {
+        "bytes": 16494,
+        "sha256": "494a8e6603cbfb2399bb6fcf8e6c34180a946352d53aeb1220a9455075f0a7e3",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            162,
+            185
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "meditation-iv",
+        "startPattern": "^MEDITAT\\. IV\\.$",
+        "endPattern": null,
+        "paragraphCount": 24,
+        "characterCount": 16385,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-meditations-on-first-philosophy-meditation-iv-94021970.json",
+        "bytes": 19073,
+        "within600KiBGate": true,
+        "sha256": "4fd97f3d7306c172681538b9f37e5de5db2e0d20be0b22f15e139e7c5498c8f7",
+        "contentHash": "4f9f4ce09931cb387887729abb83d9c408b6e90f5b992ce22bb6a422b7eb0354",
+        "paragraphBodySha256": "02202c4fcccbc81cc0d02bee79a0233c5c223689d349489b45161c0f936227f5",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "descartes-error-of-the-will": {
+          "paragraphId": "p0011",
+          "start": 136,
+          "end": 324,
+          "quote": "I find them to depend on two concurring Causes, on my faculty of Knowing, and on my faculty of Choosing or Freedome of my Will, that is to say, from my Understanding, and my Will together.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "unitId": "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "idChanged": false,
+      "thoughtIds": [
+        "descartes-existence-and-perfect-being"
+      ],
+      "naturalUnit": "Meditations on First Philosophy, Meditation V",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-v-molyneux-1680.txt",
+        "startPattern": "^MEDITAT\\. V\\.$"
+      },
+      "localSource": {
+        "bytes": 13615,
+        "sha256": "3180b992a6b52c7bb98584743442d7d3176b8f4178b8afbb3dde1004a330b20a",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            186,
+            204
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "meditation-v",
+        "startPattern": "^MEDITAT\\. V\\.$",
+        "endPattern": null,
+        "paragraphCount": 19,
+        "characterCount": 13540,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-meditations-on-first-philosophy-meditation-v-34e6b8eb.json",
+        "bytes": 16056,
+        "within600KiBGate": true,
+        "sha256": "4476b24c0ca885c53433ea5dce763582b4907f5e18cd1cb6089810a42b65532c",
+        "contentHash": "35a6290c4f4d15939bf663a344158ba3e32817c9a298db30add8de7dd6074cdb",
+        "paragraphBodySha256": "277d30ef23d31fd65e50291e8664c257cac8c4d7216eb37418e757845289fd8c",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "descartes-existence-and-perfect-being": {
+          "paragraphId": "p0012",
+          "start": 282,
+          "end": 427,
+          "quote": "so from hence that I cannot think of God but as Existing, it follows that Existence is Inseperable from God, and therefore that he Really Exists; …",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "unitId": "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "idChanged": false,
+      "thoughtIds": [
+        "psychology-foundations-ebbinghaus-meaning"
+      ],
+      "naturalUnit": "Memory: A Contribution to Experimental Psychology, Chapter V",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/ebbinghaus-memory-chapter-v-ruger-bussenius-1913.txt"
+      },
+      "localSource": {
+        "bytes": 10667,
+        "sha256": "dbfb82a36d255731be8f6a70f5d341931a608e1cf1443764dbb5bc7e906cb204",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            7,
+            55
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-v",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 48,
+        "characterCount": 10504,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab.json",
+        "bytes": 15887,
+        "within600KiBGate": true,
+        "sha256": "dbc8ab491769e9574b7f2550d8e3a2637b18a34ff2d16d104efcae263b6a7209",
+        "contentHash": "98f51dc907517ed638f15e10a9e36baf7ea92dc717bda6ac8e3bb7d08177ba72",
+        "paragraphBodySha256": "00a51555208591b5c237c2040d8d8e1ac54cabea00afe7506ade05d61ce7d457",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "psychology-foundations-ebbinghaus-meaning": {
+          "paragraphId": "p0044",
+          "start": 0,
+          "end": 422,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0044",
+              "start": 0,
+              "end": 422,
+              "text": "If it is born in mind that each stanza contains 80 syllables (each syllable, however, consisting on the average of less than three letters) and if the number of repetitions here found is compared with the results presented above, there is obtained an approximate numerical expression for the extraordinary advantage which the combined ties of meaning, rhythm, rhyme, and a common language give to material to be memorised."
+            },
+            {
+              "paragraphId": "p0044",
+              "start": 648,
+              "end": 809,
+              "text": "When the syllables were objectively and subjectively united by the ties just mentioned this requirement was in my case reduced to about one-tenth of that amount."
+            }
+          ],
+          "quote": "If it is born in mind that each stanza contains 80 syllables (each syllable, however, consisting on the average of less than three letters) and if the number of repetitions here found is compared with the results presented above, there is obtained an approximate numerical expression for the extraordinary advantage which the combined ties of meaning, rhythm, rhyme, and a common language give to material to be memorised. … When the syllables were objectively and subjectively united by the ties just mentioned this requirement was in my case reduced to about one-tenth of that amount."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-monadology-whole-work-bf71c0f6",
+      "unitId": "ru-monadology-whole-work-bf71c0f6",
+      "idChanged": false,
+      "thoughtIds": [
+        "leibniz",
+        "leibniz-harmony",
+        "leibniz-identity",
+        "leibniz-perception-appetition",
+        "leibniz-perspectives",
+        "leibniz-possible-worlds",
+        "leibniz-two-truths",
+        "leibniz-windowless"
+      ],
+      "naturalUnit": "Monadology, George Martin Duncan translation (1890)",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/leibniz-monadology-duncan-1890.txt"
+      },
+      "localSource": {
+        "bytes": 32947,
+        "sha256": "5144e0ed102e917f6c3024ec51c5031926f33c51d4887108c836331bf5405619",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            4,
+            94
+          ]
+        },
+        "pipelineSelectionMethod": "whole-document",
+        "locatorStructureKey": "whole-work",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 90,
+        "characterCount": 32715,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-monadology-whole-work-bf71c0f6.json",
+        "bytes": 46013,
+        "within600KiBGate": true,
+        "sha256": "177c26e6d5c132580fddbbdca026b583466b7eeb7960765c3bada1dec5176cd5",
+        "contentHash": "e8399c4356ff3b8211e39782a7e5166d8b319306ca30519dc38995322a063ed4",
+        "paragraphBodySha256": "f5d1cb7e868ece71887e068fd2d13cfc19df1c6e6e45855fec9621f533a018af",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "leibniz": {
+          "paragraphId": "p0031",
+          "start": 4,
+          "end": 207,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0031",
+              "start": 4,
+              "end": 207,
+              "text": "Our reasonings are founded on two great principles, that of contradiction , by virtue of which we judge that to be false which involves it, and that true , which is opposed or contradictory to the false."
+            },
+            {
+              "paragraphId": "p0032",
+              "start": 4,
+              "end": 252,
+              "text": "And that of the sufficient reason , by virtue of which we consider that no fact can be real or existent, no statement true, unless there be a sufficient reason why it is so and not otherwise, although most often these reasons cannot be known to us."
+            }
+          ],
+          "quote": "Our reasonings are founded on two great principles, that of contradiction, by virtue of which we judge that to be false which involves it, and that true, which is opposed or contradictory to the false. … And that of the sufficient reason, by virtue of which we consider that no fact can be real or existent, no statement true, unless there be a sufficient reason why it is so and not otherwise, although most often these reasons cannot be known to us."
+        },
+        "leibniz-harmony": {
+          "paragraphId": "p0078",
+          "start": 138,
+          "end": 360,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0078",
+              "start": 138,
+              "end": 360,
+              "text": "The soul follows its own peculiar laws and the body also follows its own laws, and they meet by virtue of the pre-established harmony between all substances, since they are all representations of one and the same universe."
+            },
+            {
+              "paragraphId": "p0079",
+              "start": 4,
+              "end": 260,
+              "text": "Souls act according to the laws of final causes, by appetitions, ends and means. Bodies act in accordance with the laws of efficient causes or of motion. And the two realms, that of efficient causes and that of final causes, are in harmony with each other."
+            }
+          ],
+          "quote": "The soul follows its own peculiar laws and the body also follows its own laws, and they meet by virtue of the pre-established harmony between all substances, since they are all representations of one and the same universe. … Souls act according to the laws of final causes, by appetitions, ends and means. Bodies act in accordance with the laws of efficient causes or of motion. And the two realms, that of efficient causes and that of final causes, are in harmony with each other."
+        },
+        "leibniz-identity": {
+          "paragraphId": "p0009",
+          "start": 3,
+          "end": 234,
+          "quote": "Moreover it is necessary that each monad should differ from every other. For never in nature are two beings exactly alike and such that it is not possible to find an internal difference or one founded upon an intrinsic connotation.",
+          "match": "normalized-exact"
+        },
+        "leibniz-perception-appetition": {
+          "paragraphId": "p0014",
+          "start": 4,
+          "end": 135,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0014",
+              "start": 4,
+              "end": 135,
+              "text": "The transient state, which involves and represents multitude in unity or in the simple substance, is only what we call perception ,"
+            },
+            {
+              "paragraphId": "p0015",
+              "start": 4,
+              "end": 137,
+              "text": "The action of the internal principle which causes the change or the passage from one perception to another, may be called appetition;"
+            }
+          ],
+          "quote": "The transient state, which involves and represents multitude in unity or in the simple substance, is only what we call perception. ... The action of the internal principle which causes the change or the passage from one perception to another, may be called appetition."
+        },
+        "leibniz-perspectives": {
+          "paragraphId": "p0056",
+          "start": 116,
+          "end": 185,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0056",
+              "start": 116,
+              "end": 185,
+              "text": "each simple substance has relations which express all the others, and"
+            },
+            {
+              "paragraphId": "p0056",
+              "start": 204,
+              "end": 253,
+              "text": "it is a living, perpetual mirror of the universe."
+            },
+            {
+              "paragraphId": "p0057",
+              "start": 4,
+              "end": 121,
+              "text": "And as the same city regarded from different sides appears entirely different and in perspective is as if multiplied,"
+            },
+            {
+              "paragraphId": "p0057",
+              "start": 206,
+              "end": 366,
+              "text": "there are as it were so many different universes, which are nevertheless only the perspectives of a single one, from the different points of view of each monad."
+            }
+          ],
+          "quote": "Each simple substance has relations which express all the others, and … it is a living, perpetual mirror of the universe. … And as the same city regarded from different sides appears entirely different and in perspective is as if multiplied, … there are as it were so many different universes, which are nevertheless only the perspectives of a single one, from the different points of view of each monad."
+        },
+        "leibniz-possible-worlds": {
+          "paragraphId": "p0053",
+          "start": 4,
+          "end": 220,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0053",
+              "start": 4,
+              "end": 220,
+              "text": "Now, as there is an infinity of possible universes in the idea of God, and as only one of them can exist, there must be a sufficient reason for the choice of God, which determines him for one rather than for another."
+            },
+            {
+              "paragraphId": "p0055",
+              "start": 4,
+              "end": 145,
+              "text": "And this is the cause of the existence of the Best, which wisdom makes known to God, which his goodness chooses and which his power produces."
+            }
+          ],
+          "quote": "Now, as there is an infinity of possible universes in the idea of God, and as only one of them can exist, there must be a sufficient reason for the choice of God, which determines him for one rather than for another. ... And this is the cause of the existence of the Best, which wisdom makes known to God, which his goodness chooses and which his power produces."
+        },
+        "leibniz-two-truths": {
+          "paragraphId": "p0033",
+          "start": 4,
+          "end": 212,
+          "quote": "There are also two kinds of truths, those of reasoning and those of fact. Truths of reasoning are necessary and their opposite is impossible, and those of fact are contingent and their opposite is possible.",
+          "match": "normalized-exact"
+        },
+        "leibniz-windowless": {
+          "paragraphId": "p0007",
+          "start": 3,
+          "end": 410,
+          "quote": "There is also no way of explaining how a monad can be altered or changed internally by any other creature, for nothing can be transposed within it, nor can there be conceived in it any internal movement which can be excited, directed, augmented or diminished within it as can be done in compounds, where there is change among the parts. The monads have no windows through which anything can enter or depart.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 8,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-on-nature-whole-work-aaa8e8ca",
+      "unitId": "ru-on-nature-whole-work-aaa8e8ca",
+      "idChanged": false,
+      "thoughtIds": [
+        "parmenides",
+        "parmenides-sayable",
+        "parmenides-thinking-being",
+        "parmenides-unchanging"
+      ],
+      "naturalUnit": "Fragments of Parmenides' poem in John Burnet, Early Greek Philosophy, Chapter IV, §85",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/parmenides-fragments-burnet-1920.txt"
+      },
+      "localSource": {
+        "bytes": 10163,
+        "sha256": "dcd43d9e55f06485dc537c385d8d104975c32a182b5c5505869513e5dd1dd9f4",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            11,
+            58
+          ]
+        },
+        "pipelineSelectionMethod": "whole-document",
+        "locatorStructureKey": "whole-work",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 46,
+        "characterCount": 10046,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-on-nature-whole-work-aaa8e8ca.json",
+        "bytes": 14880,
+        "within600KiBGate": true,
+        "sha256": "76f0aefdecd5d14d0ad589f525109ca83ee749ddecdb82030097503ee3e28a51",
+        "contentHash": "c47ead6848f848f46c8dd092215a37f395f352baf3d057f4c8a607988b39b7d6",
+        "paragraphBodySha256": "99525561c567cc6728a76df2a815f2cdc24ea77124caf73c661836fc019fdcac",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "parmenides": {
+          "paragraphId": "p0015",
+          "start": 0,
+          "end": 382,
+          "quote": "Come now, I will tell thee—and do thou hearken to my saying and carry it away—the only two ways of search that can be thought of. The first, namely, that It is, and that it is impossible for it not to be, is the way of belief, for truth is its companion. The other, namely, that It is not, and that it must needs not be,—that, I tell thee, is a path that none can learn of at all.",
+          "match": "normalized-exact"
+        },
+        "parmenides-sayable": {
+          "paragraphId": "p0017",
+          "start": 0,
+          "end": 139,
+          "quote": "It needs must be that what can be spoken and thought is; for it is possible for it to be, and it is not possible for what is nothing to be.",
+          "match": "normalized-exact"
+        },
+        "parmenides-thinking-being": {
+          "paragraphId": "p0015",
+          "start": 452,
+          "end": 513,
+          "quote": "For it is the same thing that can be thought and that can be.",
+          "match": "normalized-exact"
+        },
+        "parmenides-unchanging": {
+          "paragraphId": "p0021",
+          "start": 0,
+          "end": 270,
+          "quote": "One path only is left for us to speak of, namely, that It is. In this path are very many tokens that what is is uncreated and indestructible; for it is complete, immovable, and without end. Nor was it ever, nor will it be; for now it is, all at once, a continuous one.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 4,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "unitId": "ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "idChanged": false,
+      "thoughtIds": [
+        "science-pasteur-airborne-contamination"
+      ],
+      "naturalUnit": "The Life of Pasteur, Chapter V (1860–1864)",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/pasteur-life-chapter-v-devonshire-1920.txt"
+      },
+      "localSource": {
+        "bytes": 66571,
+        "sha256": "708a6f6babbf13a035ffc5f6a53dd36071e548905dc867a44c8aa417b1ce6554",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            371,
+            480
+          ]
+        },
+        "pipelineSelectionMethod": "whole-document",
+        "locatorStructureKey": "whole-work",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 110,
+        "characterCount": 65698,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-on-spontaneous-generation-whole-work-80e9bc01.json",
+        "bytes": 74249,
+        "within600KiBGate": true,
+        "sha256": "cd2bf2bc0c1aacc270642e920d51b263faedd59084d3197ccbbd6d2087f3c726",
+        "contentHash": "91e9bd42c10cf1b476e892664e7914ad84023d21949bed9466cc42edb8b0ac9b",
+        "paragraphBodySha256": "e02fca70ac9d503ec626ae80c50ffa6349cef5682fa81332353cad3e5bee091b",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "science-pasteur-airborne-contamination": {
+          "paragraphId": "p0082",
+          "start": 870,
+          "end": 1496,
+          "quote": "What difference is there, then, between those two vases? They contain the same liquid, they both contain air, both are open! Why does one decay and the other remain pure? The only difference between them is this: in the first case, the dusts suspended in air and their germs can fall into the neck of the flask and arrive into contact with the liquid, where they find appropriate food and develop; thence microscopic beings. In the second flask, on the contrary, it is impossible, or at least extremely difficult, unless air is violently shaken, that dusts suspended in air should enter the vase; they fall on its curved neck.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-the-subjection-of-women-chapter-i-de45861e",
+      "unitId": "ru-the-subjection-of-women-chapter-i-de45861e",
+      "idChanged": false,
+      "thoughtIds": [
+        "mill-subjection-women"
+      ],
+      "naturalUnit": "The Subjection of Women, Chapter I",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/mill-subjection-women-chapter-i.txt"
+      },
+      "localSource": {
+        "bytes": 70119,
+        "sha256": "bb28f62122ff84da77320a64f3b5b70165b8bfc427c1a202617d4456dbceff25",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            5,
+            31
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-i",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 27,
+        "characterCount": 70034,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-the-subjection-of-women-chapter-i-de45861e.json",
+        "bytes": 73548,
+        "within600KiBGate": true,
+        "sha256": "823ad5694b865477edde6e9be77a8dbafaab7f70f8937f6b20b168076cae3c08",
+        "contentHash": "184c5a93d387f7df8da4a9f997092a02549cb56d2939c9fe332f1aae103aa2fe",
+        "paragraphBodySha256": "218a2b8a27fd729d936b66569cf91e977dbb857f8624dba139f2ceb4d59fa61e",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "mill-subjection-women": {
+          "paragraphId": "p0019",
+          "start": 242,
+          "end": 388,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0019",
+              "start": 242,
+              "end": 388,
+              "text": "I deny that any one knows, or can know, the nature of the two sexes, as long as they have only been seen in their present relation to one another."
+            },
+            {
+              "paragraphId": "p0019",
+              "start": 697,
+              "end": 854,
+              "text": "What is now called the nature of women is an eminently artificial thing--the result of forced repression in some directions, unnatural stimulation in others."
+            }
+          ],
+          "quote": "I deny that any one knows, or can know, the nature of the two sexes, as long as they have only been seen in their present relation to one another. … What is now called the nature of women is an eminently artificial thing--the result of forced repression in some directions, unnatural stimulation in others."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "unitId": "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "idChanged": false,
+      "thoughtIds": [
+        "james-fruits-not-origins"
+      ],
+      "naturalUnit": "The Varieties of Religious Experience, Lecture I",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/james-varieties-lecture-i.txt"
+      },
+      "localSource": {
+        "bytes": 42849,
+        "sha256": "62e37529cffd71c1087d179699865fb80b5e24836e8e05c243b1b5a49badb5a8",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            31,
+            81
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "lecture-i",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 51,
+        "characterCount": 41995,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f.json",
+        "bytes": 46955,
+        "within600KiBGate": true,
+        "sha256": "7690e0acabdbe694f352f8521dd1873174af4ebbdf23baf68dec6a8068b75830",
+        "contentHash": "3a3ddd596c8f80c013dc286b2e51312b7bf3f03d2a0236ffd939a449021e0d15",
+        "paragraphBodySha256": "206c078982cce13124065b05ef9bd107d97434a66f6d90890cb6dd9b646a9395",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "james-fruits-not-origins": {
+          "paragraphId": "p0038",
+          "start": 900,
+          "end": 1307,
+          "quote": "In the end it had to come to our empiricist criterion: By their fruits ye shall know them, not by their roots, Jonathan Edwards’s Treatise on Religious Affections is an elaborate working out of this thesis. The roots of a man’s virtue are inaccessible to us. No appearances whatever are infallible proofs of grace. Our practice is the only sure evidence, even to ourselves, that we are genuinely Christians.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-theological-political-treatise-chapter-20-80467ac4",
+      "unitId": "ru-theological-political-treatise-chapter-20-80467ac4",
+      "idChanged": false,
+      "thoughtIds": [
+        "spinoza-state-end-freedom"
+      ],
+      "naturalUnit": "Theological-Political Treatise, Chapter XX",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/spinoza-theological-political-treatise-chapter-xx-elwes.txt"
+      },
+      "localSource": {
+        "bytes": 20586,
+        "sha256": "6a4d88d6d3d401ea11ed7861e4a56d3c8bcba576ba0a7e936984135b69372fc2",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            206,
+            236
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-20",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 31,
+        "characterCount": 20525,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-theological-political-treatise-chapter-20-80467ac4.json",
+        "bytes": 23619,
+        "within600KiBGate": true,
+        "sha256": "f3634c03d8fa11fcb0de3092d929f5672c83f7d5a873d5d6610ef49f88453e35",
+        "contentHash": "64a2deb125290b0f6014a97807e61a4374acd1888887717951469d440659215a",
+        "paragraphBodySha256": "159f0902334a8749977a226d24784811f942d5774a22783fe433a38e3a6aa697",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "spinoza-state-end-freedom": {
+          "paragraphId": "p0007",
+          "start": 0,
+          "end": 343,
+          "quote": "No, the object of government is not to change men from rational beings into beasts or puppets, but to enable them to develope their minds and bodies in security, and to employ their reason unshackled; neither showing hatred, anger, or deceit, nor watched with the eyes of jealousy and injustice. In fact, the true aim of government is liberty.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-utilitarianism-chapter-ii-6f8a19dc",
+      "unitId": "ru-utilitarianism-chapter-ii-6f8a19dc",
+      "idChanged": false,
+      "thoughtIds": [
+        "mill-happiness-as-end",
+        "mill-higher-pleasures"
+      ],
+      "naturalUnit": "Utilitarianism, Chapter II",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/mill-utilitarianism-chapter-ii.txt"
+      },
+      "localSource": {
+        "bytes": 52997,
+        "sha256": "ed5d3e5db2e038e96131eaecad1c74b7b846e34fe618ad80f9007cdddf72ed71",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            24,
+            55
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-ii",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 32,
+        "characterCount": 52934,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-utilitarianism-chapter-ii-6f8a19dc.json",
+        "bytes": 57672,
+        "within600KiBGate": true,
+        "sha256": "e2c7f7c630029ad3678a4113e9cb49996e4228584fa4fe0bf7104ddbb2fa6ee7",
+        "contentHash": "6e9b6c32704d6498c8ca05ae3ea8f00653f99fccf33ed982a83bf83acc681edf",
+        "paragraphBodySha256": "fd51acfa7229fb32fbe3a28ef60a688b114b791461e59086a55bc840222192d3",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "mill-happiness-as-end": {
+          "paragraphId": "p0004",
+          "start": 0,
+          "end": 292,
+          "quote": "The creed which accepts as the foundation of morals, Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain.",
+          "match": "punctuation-insensitive"
+        },
+        "mill-higher-pleasures": {
+          "paragraphId": "p0006",
+          "start": 1844,
+          "end": 1997,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0006",
+              "start": 1844,
+              "end": 1997,
+              "text": "It is quite compatible with the principle of utility to recognise the fact, that some kinds of pleasure are more desirable and more valuable than others."
+            },
+            {
+              "paragraphId": "p0007",
+              "start": 428,
+              "end": 884,
+              "text": "If one of the two is, by those who are competently acquainted with both, placed so far above the other that they prefer it, even though knowing it to be attended with a greater amount of discontent, and would not resign it for any quantity of the other pleasure which their nature is capable of, we are justified in ascribing to the preferred enjoyment a superiority in quality, so far outweighing quantity as to render it, in comparison, of small account."
+            }
+          ],
+          "quote": "It is quite compatible with the principle of utility to recognise the fact, that some kinds of pleasure are more desirable and more valuable than others. … If one of the two is, by those who are competently acquainted with both, placed so far above the other that they prefer it, even though knowing it to be attended with a greater amount of discontent, and would not resign it for any quantity of the other pleasure which their nature is capable of, we are justified in ascribing to the preferred enjoyment a superiority in quality, so far outweighing quantity as to render it, in comparison, of small account."
+        }
+      },
+      "matchedAnchorCount": 2,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+      "unitId": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-f518ab8d",
+      "idChanged": true,
+      "thoughtIds": [
+        "locke-knowledge-as-agreement"
+      ],
+      "naturalUnit": "An Essay Concerning Humane Understanding (1690), Book IV, Chapter I",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/locke-humane-understanding-1690-book-iv-chapter-i.txt"
+      },
+      "localSource": {
+        "bytes": 8830,
+        "sha256": "b336eac10d494145d2954c9175339898e1bd3d328c96dbc38aec09513b12d648",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            6,
+            24
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "book-iv-chapter-i",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 19,
+        "characterCount": 8784,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-an-essay-concerning-human-understanding-book-iv-chapter-i-f518ab8d.json",
+        "bytes": 11151,
+        "within600KiBGate": true,
+        "sha256": "2dd43e493d7004041c4b35ddb0069865a55c2abf66c22b0637608cafb9610f19",
+        "contentHash": "113153dbe120d28d4ab357bab82d58dc811e529877688627a7d14365531a01b5",
+        "paragraphBodySha256": "9daa561ff44b5e641da0b264367c5a757343106ccc1ce630860903733d9506ab",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "locke-knowledge-as-agreement": {
+          "paragraphId": "p0005",
+          "start": 6,
+          "end": 149,
+          "quote": "Knowledge then seems to me to be nothing but the perception of the connexion and agreement, or disagreement and repugnancy of any of our Ideas.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+      "unitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-b4a6bb2c",
+      "idChanged": true,
+      "thoughtIds": [
+        "bentham-four-sanctions"
+      ],
+      "naturalUnit": "An Introduction to the Principles of Morals and Legislation, Chapter III",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iii-bowring-1843.txt"
+      },
+      "localSource": {
+        "bytes": 7261,
+        "sha256": "aff9a0ee68879bfafb78a2514fe523cb66a3cf301203877a51a15405e088024f",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "pdfPageIndexesInclusive": [
+            135,
+            137
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-iii",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 13,
+        "characterCount": 7222,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-b4a6bb2c.json",
+        "bytes": 9570,
+        "within600KiBGate": true,
+        "sha256": "0d3ac5e651643600de087b1370a9979fdda7b7df3ef153dda7f240ce82e3d60a",
+        "contentHash": "90c583c1b47b951529149483656a3a3b5f73a41bf33c251c1127177d209e3f6a",
+        "paragraphBodySha256": "805541314bba080bc5b078be99ed7b280cd591e6910bd6886d8509a03cba5c89",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "bentham-four-sanctions": {
+          "paragraphId": "p0003",
+          "start": 4,
+          "end": 370,
+          "quote": "There are four distinguishable sources from which pleasure and pain are in use to flow: considered separately, they may be termed the physical, the political, the moral, and the religious: and inasmuch as the pleasures and pains belonging to each of them are capable of giving a binding force to any law or rule of conduct, they may all of them be termed sanctions.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+      "unitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f4408382",
+      "idChanged": true,
+      "thoughtIds": [
+        "bentham-felicific-circumstances"
+      ],
+      "naturalUnit": "An Introduction to the Principles of Morals and Legislation, Chapter IV",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iv-bowring-1843.txt"
+      },
+      "localSource": {
+        "bytes": 6436,
+        "sha256": "87eb28a0e99b47446562f48cd943876f6ad21d67b6e862c04453e24e086aded3",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "pdfPageIndexesInclusive": [
+            138,
+            140
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-iv",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 9,
+        "characterCount": 6419,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f4408382.json",
+        "bytes": 9833,
+        "within600KiBGate": true,
+        "sha256": "e7ccaddc5939a5035af92143b293ebc174b1c396909c7fd65040ae148f9c93f6",
+        "contentHash": "23980be943dca1d1413dec1129309ee0607a132ac918a6f356ece707378e6577",
+        "paragraphBodySha256": "c92c0886eb3656d8704c02db830cd87dfc100ddbcbb0d28a8e79b260cc832a8b",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "bentham-felicific-circumstances": {
+          "paragraphId": "p0003",
+          "start": 4,
+          "end": 267,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0003",
+              "start": 4,
+              "end": 267,
+              "text": "To a person considered by himself, the value of a pleasure or pain considered by itself, will be greater or less, according to the four following circumstances:* 1. Its intensity. 2. Its duration. 3. Its certainty or uncertainty. 4. Its propinquity or remoteness."
+            },
+            {
+              "paragraphId": "p0005",
+              "start": 4,
+              "end": 206,
+              "text": "To a number of persons, with reference to each of whom the value of a pleasure or a pain is considered, it will be greater or less, according to seven circumstances: to wit, the six preceding ones; viz."
+            },
+            {
+              "paragraphId": "p0005",
+              "start": 365,
+              "end": 474,
+              "text": "7. Its extent; that is, the number of persons to whom it extends; or (in other words) who are affected by it."
+            }
+          ],
+          "quote": "To a person considered by himself, the value of a pleasure or pain considered by itself, will be greater or less, according to the four following circumstances: 1. Its intensity. 2. Its duration. 3. Its certainty or uncertainty. 4. Its propinquity or remoteness. … To a number of persons, with reference to each of whom the value of a pleasure or a pain is considered, it will be greater or less, according to seven circumstances: to wit, the six preceding ones; viz. … 7. Its extent; that is, the number of persons to whom it extends; or (in other words) who are affected by it."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-discourses-book-i-chapter-2-730b2536",
+      "unitId": "ru-discourses-book-i-chapter-2-730b2536",
+      "idChanged": false,
+      "thoughtIds": [
+        "epictetus-preserve-character"
+      ],
+      "naturalUnit": "Discourses of Epictetus, Book I, Chapter 2",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/epictetus-discourses-book-i-chapter-ii-long.txt",
+        "startPattern": "^HOW A MAN ON EVERY OCCASION CAN MAINTAIN HIS PROPER CHARACTER\\."
+      },
+      "localSource": {
+        "bytes": 1450,
+        "sha256": "e7e681c4ffac454809d001572fd46ae16d1d878aa062c469daa33a1d05050402",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            16,
+            17
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "book-i-chapter-2",
+        "startPattern": "^HOW A MAN ON EVERY OCCASION CAN MAINTAIN HIS PROPER CHARACTER\\.",
+        "endPattern": null,
+        "paragraphCount": 2,
+        "characterCount": 1445,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-discourses-book-i-chapter-2-730b2536.json",
+        "bytes": 3464,
+        "within600KiBGate": true,
+        "sha256": "f05911246ee3e75440ddcd5b11b5d0ab181ca32f6486b50847c224397502767f",
+        "contentHash": "84abf090b09252510c80e2ede3229fdfe94149fd8f2fdac5d8b563426173ac36",
+        "paragraphBodySha256": "c42d6e59865db50dc6d8058f82a6b47602d374e79aba65ecef7098963017e128",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "epictetus-preserve-character": {
+          "paragraphId": "p0001",
+          "start": 63,
+          "end": 162,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0001",
+              "start": 63,
+              "end": 162,
+              "text": "To the rational animal only is the irrational intolerable; but that which is rational is tolerable."
+            },
+            {
+              "paragraphId": "p0001",
+              "start": 320,
+              "end": 434,
+              "text": "To hang yourself is not intolerable. When then you have the opinion that it is rational, you go and hang yourself."
+            }
+          ],
+          "quote": "To the rational animal only is the irrational intolerable; but that which is rational is tolerable. … To hang yourself is not intolerable. When then you have the opinion that it is rational, you go and hang yourself."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "unitId": "ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "idChanged": false,
+      "thoughtIds": [
+        "psychology-foundations-kohler-transposition",
+        "psychology-foundations-kohler-whole-organization"
+      ],
+      "naturalUnit": "Gestalt Psychology, Chapter VI",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/kohler-gestalt-psychology-chapter-vi-1929.txt"
+      },
+      "localSource": {
+        "bytes": 47542,
+        "sha256": "e3a418c1306880037032b91c03e3aa933dd777871c6da232b7cfb0d8aca29ba8",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            294,
+            345
+          ]
+        },
+        "pipelineSelectionMethod": "quote-guided-boundary",
+        "locatorStructureKey": "chapter-vi",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 52,
+        "characterCount": 46651,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-gestalt-psychology-chapter-vi-8cdc59c7.json",
+        "bytes": 52554,
+        "within600KiBGate": true,
+        "sha256": "73a4fd62655e18048cf42b2cd88ab14dde9e61ee829abbb72046b1edf0714711",
+        "contentHash": "57251a574957a064f9193efbcab7f7e79bae71a4395383915ce1e5d76b9e9411",
+        "paragraphBodySha256": "7c154f533d5ef3d2eb3e1c1695dee7f65fd3bb04c650d8bec95dde6a57cc09cf",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "psychology-foundations-kohler-transposition": {
+          "paragraphId": "p0040",
+          "start": 1889,
+          "end": 2353,
+          "quote": "We may conclude that animals react to such pairs as to wholes, either side of which has a definite character depending upon its “position” in the whole. So II is “the dark side” of the first pair; then, in the new pair, III assumes this rôle, and since the animal has learned to choose the dark side of the pair rather than a more or less definite gray, it tends to avoid the specific gray of the learning period and to choose the new gray after the transposition.",
+          "match": "normalized-exact"
+        },
+        "psychology-foundations-kohler-whole-organization": {
+          "paragraphId": "p0004",
+          "start": 0,
+          "end": 513,
+          "quote": "If it is natural for a “sensation” independently to fill its local place in the field, determined by one local stimulus alone, the characteristic and surprising feature in those other qualities (which are usually neglected) is their existence only as properties of somewhat extended regions. From this fact it seems to follow that those qualities of von Ehrenfels cannot be determined by single local stimuli; their existence, then, depends upon several stimuli having a specific effect in a certain area as such.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 2,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "unitId": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "idChanged": false,
+      "thoughtIds": [
+        "economics-mill-production-distribution"
+      ],
+      "naturalUnit": "Principles of Political Economy, Book II, Chapter I",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/mill-political-economy-book-ii-chapter-i.txt"
+      },
+      "localSource": {
+        "bytes": 51324,
+        "sha256": "131868da66d03cb1b4c8882d0a20fb74bcc5df88e7e7bd6ee2388880e55e09a1",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            96,
+            168
+          ]
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "book-ii-chapter-i",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 43,
+        "characterCount": 42497,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a.json",
+        "bytes": 46768,
+        "within600KiBGate": true,
+        "sha256": "684f6f9833d7b1a4ee44209276bf5c0ecdd1b46627a9ffb49c92a2bd458636f0",
+        "contentHash": "3bed0b5ec0a31dacabad1c9db754737f3c9f263e3b36bd29351f8f6025f57384",
+        "paragraphBodySha256": "04c68627e965b742d231304f84b9c5eed83f0cb150c8f6af341eee4ef96afdb6",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "economics-mill-production-distribution": {
+          "paragraphId": "p0002",
+          "start": 198,
+          "end": 342,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0002",
+              "start": 198,
+              "end": 342,
+              "text": "The laws and conditions of the Production of wealth partake of the character of physical truths. There is nothing optional or arbitrary in them."
+            },
+            {
+              "paragraphId": "p0005",
+              "start": 0,
+              "end": 91,
+              "text": "It is not so with the Distribution of wealth. That is a matter of human institution solely."
+            }
+          ],
+          "quote": "The laws and conditions of the Production of wealth partake of the character of physical truths. There is nothing optional or arbitrary in them. … It is not so with the Distribution of wealth. That is a matter of human institution solely."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-second-treatise-of-government-chapter-v-b11ade32",
+      "unitId": "ru-second-treatise-of-government-chapter-v-b11ade32",
+      "idChanged": false,
+      "thoughtIds": [
+        "locke-labor-and-property"
+      ],
+      "naturalUnit": "Second Treatise of Government, Chapter V",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/locke-second-treatise-chapter-v.txt"
+      },
+      "localSource": {
+        "bytes": 31931,
+        "sha256": "dd3bd8e169a8d64f7b9f7725101ab41e0e2eccdf3715b11ac256e539268703dd",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            62,
+            93
+          ]
+        },
+        "pipelineSelectionMethod": "quote-guided-boundary",
+        "locatorStructureKey": "chapter-v",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 32,
+        "characterCount": 31828,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-second-treatise-of-government-chapter-v-b11ade32.json",
+        "bytes": 35855,
+        "within600KiBGate": true,
+        "sha256": "65e361ddc1531fb769854158840c6cc8323835773399b6a1eea74755312270b9",
+        "contentHash": "73ed359f8e96f9e3db41ffd80d616b2da47a7d740a2ce9ddedda3331acadddee",
+        "paragraphBodySha256": "c309afa23b1cb99ed6700795d29c0bdcaaa4be1323e329b5395791805d4d97a9",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "locke-labor-and-property": {
+          "paragraphId": "p0005",
+          "start": 10,
+          "end": 249,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0005",
+              "start": 10,
+              "end": 249,
+              "text": "Though the earth, and all inferior creatures, be common to all men, yet every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his."
+            },
+            {
+              "paragraphId": "p0005",
+              "start": 612,
+              "end": 813,
+              "text": "for this labour being the unquestionable property of the labourer, no man but he can have a right to what that is once joined to, at least where there is enough, and as good, left in common for others."
+            }
+          ],
+          "quote": "Though the earth, and all inferior creatures, be common to all men, yet every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his. … for this labour being the unquestionable property of the labourer, no man but he can have a right to what that is once joined to, at least where there is enough, and as good, left in common for others."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "public-unhandled-33",
+      "oldUnitId": "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "unitId": "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "idChanged": false,
+      "thoughtIds": [
+        "science-galileo-moon"
+      ],
+      "naturalUnit": "Sidereus Nuncius, Observations of the Moon",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/galileo-sidereus-moon-observations-carlos-1880.txt",
+        "startPattern": "^\\[Sidenote: The Moon\\. Ruggedness of its surface\\. Existence of lunar mountains and valleys\\.\\]$"
+      },
+      "localSource": {
+        "bytes": 32201,
+        "sha256": "71ef0487682c6d6dfbb868c14afece6c85e211639058748344b3ccdd912793bc",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "sourceParagraphIndexesInclusive": [
+            93,
+            125
+          ]
+        },
+        "pipelineSelectionMethod": "configured-pattern",
+        "locatorStructureKey": "named-section-observations-of-the-moon",
+        "startPattern": "^\\[Sidenote: The Moon\\. Ruggedness of its surface\\. Existence of lunar mountains and valleys\\.\\]$",
+        "endPattern": null,
+        "paragraphCount": 33,
+        "characterCount": 32030,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16.json",
+        "bytes": 35739,
+        "within600KiBGate": true,
+        "sha256": "1e5ccdc30f8aebf6809763a12e1d336b5cba710612fb9faca1a64831f6223cfc",
+        "contentHash": "0a65ab0edbacc7a9603e80df3f2e5084b38728c8877887425e26720399470778",
+        "paragraphBodySha256": "741f74c339fa66b50dde4aed968d9aea1536f51ca982722cdd91ff15b73a4285",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "science-galileo-moon": {
+          "paragraphId": "p0002",
+          "start": 737,
+          "end": 1330,
+          "quote": "These spots have never been observed by any one before me; and from my observations of them, often repeated, I have been led to that opinion which I have expressed, namely, that I feel sure that the surface of the Moon is not perfectly smooth, free from inequalities and exactly spherical, as a large school of philosophers considers with regard to the Moon and the other heavenly bodies, but that, on the contrary, it is full of inequalities, uneven, full of hollows and protuberances, just like the surface of the Earth itself, which is varied everywhere by lofty mountains and deep valleys.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "non-public-recovery-batch2b1-4",
+      "oldUnitId": "ru-capital-volume-i-chapter-i-c4ed1d60",
+      "unitId": "ru-capital-volume-i-chapter-i-c4ed1d60",
+      "idChanged": false,
+      "thoughtIds": [
+        "economics-marx-commodity-fetish"
+      ],
+      "naturalUnit": "Chapter I",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-i.txt"
+      },
+      "localSource": {
+        "bytes": 130105,
+        "sha256": "c0b05e21a5366ec35c2bbdc2386a2f34707db8a636e6c94fd41439ab6ec20602",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "ocrLinesInclusive": {
+            "firstLine": 1384,
+            "lastLine": 3967
+          },
+          "verifiedMarkers": [
+            {
+              "line": 1384,
+              "role": "start",
+              "text": "CHAPTER I."
+            },
+            {
+              "line": 3970,
+              "role": "following-page-header",
+              "text": "56 Capitalist Production,"
+            },
+            {
+              "line": 3979,
+              "role": "next-natural-unit",
+              "text": "CHAPTER 11."
+            }
+          ],
+          "scan": {
+            "firstPdfPage": 37,
+            "lastPdfPage": 91,
+            "printedPages": "1-55",
+            "followingPdfPage": 92,
+            "followingUnit": "Chapter II — Exchange"
+          }
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "chapter-i",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 271,
+        "characterCount": 129420,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-capital-volume-i-chapter-i-c4ed1d60.json",
+        "bytes": 145075,
+        "within600KiBGate": true,
+        "sha256": "ab05bda5b74daf8f88ef57457d778946e36a7547c329a849f1ff6e18c24a8062",
+        "contentHash": "09ebbb2ae50d715d5e383073197da83835417d48110c9dd6fa75ebbb578047a9",
+        "paragraphBodySha256": "c70fa8c1e1d485aeb9dd7a992e5baf9ad9c6073c1b5fbbf9e7836e355d511073",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "economics-marx-commodity-fetish": {
+          "paragraphId": "p0231",
+          "start": 1078,
+          "end": 1207,
+          "quote": "There it is a definite social relation between men, that assumes, in their eyes, the fantastic form of a relation between things.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "non-public-recovery-batch2b1-4",
+      "oldUnitId": "ru-capital-volume-i-chapter-xxv-5db39174",
+      "unitId": "ru-capital-volume-i-chapter-xxv-5db39174",
+      "idChanged": false,
+      "thoughtIds": [
+        "economics-marx-reserve-army"
+      ],
+      "naturalUnit": "Chapter XXV",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-xxv.txt",
+        "maximumUnitCharacters": 253000
+      },
+      "localSource": {
+        "bytes": 254948,
+        "sha256": "d96c9084f97dfab8b5b84a5fd309eb28877d41123ad70aa4a538035ce02d778f",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "ocrLinesInclusive": {
+            "firstLine": 12715,
+            "lastLine": 19105
+          },
+          "verifiedMarkers": [
+            {
+              "line": 12715,
+              "role": "start",
+              "text": "CHAPTER XXV."
+            },
+            {
+              "line": 19108,
+              "role": "next-part",
+              "text": "PART VIIL"
+            },
+            {
+              "line": 19112,
+              "role": "next-natural-unit",
+              "text": "CHAPTER XXVI."
+            }
+          ],
+          "scan": {
+            "firstPdfPage": 269,
+            "lastPdfPage": 379,
+            "printedPages": "625-735",
+            "followingPdfPage": 380,
+            "followingUnit": "Part VIII / Chapter XXVI — The Secret of Primitive Accumulation"
+          }
+        },
+        "pipelineSelectionMethod": "quote-guided-boundary",
+        "locatorStructureKey": "chapter-xxv",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 1162,
+        "characterCount": 252114,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-capital-volume-i-chapter-xxv-5db39174.json",
+        "bytes": 314290,
+        "within600KiBGate": true,
+        "sha256": "9db87678744a0fc0aa87d9fd45410e1c6fdcc75ea3dc73d58c376f56fe93049b",
+        "contentHash": "e3936aec3ee27e980f086c103ad2bc73f96513c78a5af2a6833f864ff646562d",
+        "paragraphBodySha256": "878b108c4e731f4ea64d0f0d5c78f904a3e0a4d16f9d0e13aff9a6ed8e0b1efb",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "economics-marx-reserve-army": {
+          "paragraphId": "p0057",
+          "start": 0,
+          "end": 154,
+          "quote": "On the one hand, therefore, the additional capital formed in the course of accumulation attracts fewer and fewer labourers in proportion to its magnitude.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "non-public-recovery-batch2b1-4",
+      "oldUnitId": "ru-new-essays-on-human-understanding-preface-preface-9a2fa0f0",
+      "unitId": "ru-new-essays-on-human-understanding-preface-preface-9a2fa0f0",
+      "idChanged": false,
+      "thoughtIds": [
+        "leibniz-small-perceptions"
+      ],
+      "naturalUnit": "Preface",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/leibniz-new-essays-langley-1896-preface.txt"
+      },
+      "localSource": {
+        "bytes": 55964,
+        "sha256": "d7de7d7efdf1e8f8dcbc25da8dadb22c165f2cea6a34ccb5a62aebc62ebbcd26",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "ocrLinesInclusive": {
+            "firstLine": 2583,
+            "lastLine": 3664
+          },
+          "verifiedMarkers": [
+            {
+              "line": 2583,
+              "role": "start",
+              "text": "PEEFACE"
+            },
+            {
+              "line": 3665,
+              "role": "next-natural-unit",
+              "text": "NEW ESSAYS ON HUMAN UNDERSTANDING"
+            },
+            {
+              "line": 3668,
+              "role": "next-unit-subheading",
+              "text": "Book I. — Innate Ideas"
+            }
+          ],
+          "scan": {
+            "firstPdfPage": 67,
+            "lastPdfPage": 89,
+            "printedPages": "41-63",
+            "followingPdfPage": 90,
+            "followingUnit": "Book I — Innate Ideas"
+          }
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "preface-preface",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 83,
+        "characterCount": 55718,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-new-essays-on-human-understanding-preface-preface-9a2fa0f0.json",
+        "bytes": 61609,
+        "within600KiBGate": true,
+        "sha256": "31845d6d862ebbfcffc8f66558f9f6aa98db61cfa3576fed1da4019fa759ee26",
+        "contentHash": "53bd47ffb858e8cc40a32ac02b93c062a93ee84c8d81d398280c3b97b3428a75",
+        "paragraphBodySha256": "239523d0b08b661d6871a13c3ead66597ee731a3b42f7e4488422738b14aa1e2",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "leibniz-small-perceptions": {
+          "paragraphId": "p0022",
+          "start": 1103,
+          "end": 1376,
+          "quote": "For it must be that we are affected a little by the motion of this wave, and that we have some perception of each one of these noises, small as they are; otherwise we would not have that of a hundred thousand waves, since a hundred thousand nothings cannot make something.",
+          "match": "normalized-exact"
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "batch": "non-public-recovery-batch2b1-4",
+      "oldUnitId": "ru-religion-within-the-boundaries-of-mere-reason-part-i-1cd8bd19",
+      "unitId": "ru-religion-within-the-boundaries-of-mere-reason-part-i-1cd8bd19",
+      "idChanged": false,
+      "thoughtIds": [
+        "kant-propensity-radical-evil"
+      ],
+      "naturalUnit": "Part I",
+      "override": {
+        "localPath": "research/source-cache/reading-unit-derived/kant-religion-semple-1838-part-i.txt"
+      },
+      "localSource": {
+        "bytes": 90780,
+        "sha256": "016750d952cebaf1163001a41aaeac043c021fdff1bce16dcbaeabc050354751",
+        "proposalHashMatched": true
+      },
+      "boundary": {
+        "proposalEvidence": {
+          "ocrLinesInclusive": {
+            "firstLine": 860,
+            "lastLine": 2697
+          },
+          "verifiedMarkers": [
+            {
+              "line": 860,
+              "role": "start",
+              "text": "BOOK I."
+            },
+            {
+              "line": 2700,
+              "role": "next-book-frontispiece",
+              "text": "HARMONY AND IDENTITY"
+            },
+            {
+              "line": 2712,
+              "role": "next-natural-unit",
+              "text": "OF THE COMBAT BETWIXT THE GOOD AND THE EVIL"
+            }
+          ],
+          "scan": {
+            "firstPdfPage": 35,
+            "lastPdfPage": 82,
+            "printedPages": "17 (unprinted opener)-64",
+            "followingPdfPage": 83,
+            "followingUnit": "Book II — Of the Combat Betwixt the Good and the Evil Principle"
+          }
+        },
+        "pipelineSelectionMethod": "matched-heading",
+        "locatorStructureKey": "part-i",
+        "startPattern": null,
+        "endPattern": null,
+        "paragraphCount": 133,
+        "characterCount": 90338,
+        "unboundedNonWhole": false
+      },
+      "publicBody": {
+        "path": "public/readings/units/ru-religion-within-the-boundaries-of-mere-reason-part-i-1cd8bd19.json",
+        "bytes": 99655,
+        "within600KiBGate": true,
+        "sha256": "9d4de42140109d61611b8af6c86fa68b5329e9ad60f223a92cacd9e4a94d6e51",
+        "contentHash": "b22a2d648ae52a49345723f9d9807f10b79cbec2b51ad04c8b4c8aa72017c72b",
+        "paragraphBodySha256": "7eb56db2a4862a437eac04789eca0df30d709c47def8c9d34cb57f18ffcec5ff",
+        "serialization": "pretty"
+      },
+      "anchors": {
+        "kant-propensity-radical-evil": {
+          "paragraphId": "p0078",
+          "start": 0,
+          "end": 137,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0078",
+              "start": 0,
+              "end": 137,
+              "text": "Hence it appears that mankind is only evil so far forth as he inverts the ethical order of those springs which he adopts into his maxims."
+            },
+            {
+              "paragraphId": "p0078",
+              "start": 403,
+              "end": 564,
+              "text": "he makes the selfish spring condition his observance of the law ; whereas the latter it is that ought to be the condition precedent of his gratifying the former,"
+            }
+          ],
+          "quote": "Hence it appears that mankind is only evil so far forth as he inverts the ethical order of those springs which he adopts into his maxims. … he makes the selfish spring condition his observance of the law; whereas the latter it is that ought to be the condition precedent of his gratifying the former."
+        }
+      },
+      "matchedAnchorCount": 1,
+      "unmatchedThoughtIds": [],
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ]
+}

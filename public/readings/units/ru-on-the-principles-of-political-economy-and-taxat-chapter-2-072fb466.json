@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-the-principles-of-political-economy-and-taxat-chapter-2-072fb466",
+  "title": "章 2",
+  "englishTitle": "Chapter 2",
+  "work": "《政治经济学及赋税原理》",
+  "englishWork": "On the Principles of Political Economy and Taxation",
+  "locator": "章 2",
+  "englishLocator": "Chapter 2",
+  "version": "古登堡计划英文文本，《政治经济学及赋税原理》第 2 章第 57 页",
+  "englishVersion": "Project Gutenberg English text, Principles of Political Economy and Taxation, Chapter 2, p. 57",
+  "sourceUrl": "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "a8cdc1fce93ad9d35d89225c5bef64f10e6aa031e5b1cd44b9fa95863dfdb9eb"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "e973e57a053bc4f33e11e746b1ca3df10be29a13bc8f8911e2ebb968792e2a07",
+  "inputHash": "d515e08c5b456912cf3b1109444586fc422a3c413348d0a6335d6dfe98e4420e",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER II."
+    },
+    {
+      "id": "p0002",
+      "text": "ON RENT."
+    },
+    {
+      "id": "p0003",
+      "text": "It remains however to be considered, whether the appropriation of land, and the consequent creation of rent, will occasion any variation in the relative value of commodities, independently of the quantity of labour necessary to production. In order to understand this part of the subject, we must inquire into the nature of rent, and the laws by which its rise or fall is regulated. Rent is that portion of the produce of the earth, which is paid to the landlord for the use of the original and indestructible powers of the soil. It is often however confounded with the interest and profit of capital, and in popular language the term is applied to whatever is annually paid by a farmer to his landlord. If, of two adjoining farms of the same extent, and of the same natural fertility, one had all the conveniences of farming buildings, were, besides, properly drained and manured, and advantageously divided by hedges, fences, and walls, while the other had none of these advantages, more remuneration would naturally be paid for the use of one, than for the use of the other; yet in both cases this remuneration would be called rent. But it is evident, that a portion only of the money annually to be paid for the improved farm, would be given for the original and indestructible powers of the soil; the other portion would be paid for the use of the capital which had been employed in ameliorating the quality of the land, and in erecting such buildings as were necessary to secure and preserve the produce. Adam Smith sometimes speaks of rent, in the strict sense to which I am desirous of confining it, but more often in the popular sense, in which the term is usually employed. He tells us, that the demand for timber, and its consequent high price, in the more southern countries of Europe, caused a rent to be paid for forests in Norway, which could before afford no rent. Is it not however evident, that the person who paid, what he thus calls rent, paid it in consideration of the valuable commodity which was then standing on the land, and that he actually repaid himself with a profit, by the sale of the timber? If, indeed, after the timber was removed, any compensation were paid to the landlord for the use of the land, for the purpose of growing timber or any other produce, with a view to future demand, such compensation might justly be called rent, because it would be paid for the productive powers of the land; but in the case stated by Adam Smith, the compensation was paid for the liberty of removing and selling the timber, and not for the liberty of growing it. He speaks also of the rent of coal mines, and of stone quarries, to which the same observation applies--that the compensation given for the mine or quarry, is paid for the value of the coal or stone which can be removed from them, and has no connexion with the original and indestructible powers of the land. This is a distinction of great importance, in an inquiry concerning rent and profits; for it is found, that the laws which regulate the progress of rent, are widely different from those which regulate the progress of profits, and seldom operate in the same direction. In all improved countries, that which is annually paid to the landlord, partaking of both characters, rent and profit, is sometimes kept stationary by the effects of opposing causes, at other times advances or recedes, as one or other of these causes preponderates. In the future pages of this work, then, whenever I speak of the rent of land, I wish to be understood as speaking of that compensation, which is paid to the owner of land for the use of its original and indestructible powers."
+    },
+    {
+      "id": "p0004",
+      "text": "On the first settling of a country, in which there is an abundance of rich and fertile land, a very small proportion of which is required to be cultivated for the support of the actual population, or indeed can be cultivated with the capital which the population can command, there will be no rent; for no one would pay for the use of land, when there was an abundant quantity not yet appropriated, and therefore at the disposal of whosoever might choose to cultivate it."
+    },
+    {
+      "id": "p0005",
+      "text": "On the common principles of supply and demand, no rent could be paid for such land, for the reason stated, why nothing is given for the use of air and water, or for any other of the gifts of nature which exist in boundless quantity. With a given quantity of materials, and with the assistance of the pressure of the atmosphere, and the elasticity of steam, engines may perform work, and abridge human labour to a very great extent; but no charge is made for the use of these natural aids, because they are inexhaustible, and at every man's disposal. In the same manner the brewer, the distiller, the dyer, make incessant use of the air and water for the production of their commodities; but as the supply is boundless, it bears no price. If all land had the same properties, if it were boundless in quantity, and uniform in quality, no charge could be made for its use, unless where it possessed peculiar advantages of situation. It is only then because land is of different qualities with respect to its productive powers, and because in the progress of population, land of an inferior quality, or less advantageously situated, is called into cultivation, that rent is ever paid for the use of it. When, in the progress of society, land of the second degree of fertility is taken into cultivation, rent immediately commences on that of the first quality, and the amount of that rent will depend on the difference in the quality of these two portions of land."
+    },
+    {
+      "id": "p0006",
+      "text": "When land of the third quality is taken into cultivation, rent immediately commences on the second, and it is regulated as before, by the difference in their productive powers. At the same time, the rent of the first quality will rise, for that must always be above the rent of the second, by the difference between the produce which they yield with a given quantity of capital and labour. With every step in the progress of population, which shall oblige a country to have recourse to land of a worse quality, to enable it to raise its supply of food, rent, on all the more fertile land, will rise."
+    },
+    {
+      "id": "p0007",
+      "text": "Thus suppose land--No. 1, 2, 3,--to yield, with an equal employment of capital and labour, a net produce of 100, 90, and 80 quarters of corn. In a new country, where there is an abundance of fertile land compared with the population, and where therefore it is only necessary to cultivate No. 1, the whole net produce will belong to the cultivator, and will be the profits of the stock which he advances. As soon as population had so far increased as to make it necessary to cultivate No. 2, from which ninety quarters only can be obtained after supporting the labourers, rent would commence on No. 1; for either there must be two rates of profit on agricultural capital, or ten quarters, or the value of ten quarters must be withdrawn from the produce of No. 1, for some other purpose. Whether the proprietor of the land, or any other person, cultivated No. 1, these ten quarters would equally constitute rent; for the cultivator of No. 2 would get the same result with his capital, whether he cultivated No. 1, paying ten quarters for rent, or continued to cultivate No. 2, paying no rent. In the same manner it might be shewn that when No. 3 is brought into cultivation, the rent of No. 2 must be ten quarters, or the value of ten quarters, whilst the rent of No. 1 would rise to twenty quarters; for the cultivator of No. 3 would have the same profits whether he paid twenty quarters for the rent of No. 1, ten quarters for the rent of No. 2, or cultivated No. 3 free of all rent."
+    },
+    {
+      "id": "p0008",
+      "text": "It often, and indeed commonly happens that before No. 2, 3, 4, or 5, or the inferior lands are cultivated, capital can be employed more productively on those lands which are already in cultivation. It may perhaps be found, that by doubling the original capital employed on No. 1, though the produce will not be doubled, will not be increased by 100 quarters, it may be increased by eighty-five quarters, and that this quantity exceeds what could be obtained by employing the same capital on land, No. 3."
+    },
+    {
+      "id": "p0009",
+      "text": "In such case, capital will be preferably employed on the old land, and will equally create a rent; for rent is always the difference between the produce obtained by the employment of two equal quantities of capital and labour. If with a capital of 1000_l._ a tenant obtain 100 quarters of wheat from his land, and by the employment of a second capital of 1000_l._, he obtain a further return of eighty-five, his landlord would have the power at the expiration of his lease, of obliging him to pay fifteen quarters, or an equivalent value, for additional rent; for there cannot be two rates of profit. If he is satisfied with a diminution of fifteen quarters in the return for his second 1000_l._, it is because no employment more profitable can be found for it. The common rate of profit would be in that proportion, and if the original tenant refused, some other person would be found willing to give all which exceeded that rate of profit to the owner of the land from which he derived it."
+    },
+    {
+      "id": "p0010",
+      "text": "In this case, as well as in the other, the capital last employed pays no rent. For the greater productive powers of the first 1000_l._, fifteen quarters is paid for rent, for the employment of the second 1000_l._ no rent whatever is paid. If a third 1000_l._ be employed on the same land, with a return of seventy-five quarters, rent will then be paid for the second 1000_l._ and will be equal to the difference between the produce of these two, or ten quarters; and at the same time the rent of the first 1000_l._ will rise from fifteen to twenty-five quarters; while the last 1000_l._ will pay no rent whatever."
+    },
+    {
+      "id": "p0011",
+      "text": "If then good land existed in a quantity much more abundant than the production of food for an increasing population required, or if capital could be indefinitely employed without a diminished return on the old land, there could be no rise of rent; for rent invariably proceeds from the employment of an additional quantity of labour with a proportionally less return."
+    },
+    {
+      "id": "p0012",
+      "text": "The most fertile, and most favourably situated land will be first cultivated, and the exchangeable value of its produce will be adjusted in the same manner as the exchangeable value of all other commodities, by the total quantity of labour necessary in various forms, from first to last, to produce it, and bring it to market. When land of an inferior quality is taken into cultivation, the exchangeable value of raw produce will rise, because more labour is required to produce it."
+    },
+    {
+      "id": "p0013",
+      "text": "The exchangeable value of all commodities, whether they be manufactured, or the produce of the mines, or the produce of land, is always regulated, not by the less quantity of labour that will suffice for their production under circumstances highly favourable, and exclusively enjoyed by those who have peculiar facilities of production; but by the greater quantity of labour necessarily bestowed on their production by those who have no such facilities; by those who continue to produce them under the most unfavourable circumstances; meaning--by the most unfavourable circumstances, the most unfavourable under which the quantity of produce required renders it necessary to carry on the production."
+    },
+    {
+      "id": "p0014",
+      "text": "Thus, in a charitable institution, where the poor are set to work with the funds of benefactors, the general prices of the commodities, which are the produce of such work, will not be governed by the peculiar facilities afforded to these workmen, but by the common, usual, and natural difficulties, which every other manufacturer will have to encounter. The manufacturer enjoying none of these facilities might indeed be driven altogether from the market, if the supply afforded by these favoured workmen were equal to all the wants of the community; but if he continued the trade, it would be only on condition that he should derive from it the usual and general rate of profits on stock; and that could only happen when his commodity sold for a price proportioned to the quantity of labour bestowed on its production."
+    },
+    {
+      "id": "p0015",
+      "text": "It is true, that on the best land, the same produce would still be obtained with the same labour as before, but its value would be enhanced in consequence of the diminished returns obtained by those who employed fresh labour and stock on the less fertile land. Notwithstanding then, that the advantages of fertile over inferior lands are in no case lost, but only transferred from the cultivator, or consumer, to the landlord, yet since more labour is required on the inferior lands, and since it is from such land only that we are enabled to furnish ourselves with the additional supply of raw produce, the comparative value of that produce will continue permanently above its former level, and make it exchange for more hats, cloth, shoes, &c. &c. in the production of which no such additional quantity of labour is required."
+    },
+    {
+      "id": "p0016",
+      "text": "The reason then, why raw produce rises in comparative value, is because more labour is employed in the production of the last portion obtained, and not because a rent is paid to the landlord. The value of corn is regulated by the quantity of labour bestowed on its production on that quality of land, or with that portion of capital, which pays no rent. Corn is not high because a rent is paid, but a rent is paid because corn is high; and it has been justly observed, that no reduction would take place in the price of corn, although landlords should forego the whole of their rent. Such a measure would only enable some farmers to live like gentlemen, but would not diminish the quantity of labour necessary to raise raw produce on the least productive land in cultivation."
+    },
+    {
+      "id": "p0017",
+      "text": "Nothing is more common than to hear of the advantages which the land possesses over every other source of useful produce, on account of the surplus which it yields in the form of rent. Yet when land is most abundant, when most productive, and most fertile, it yields no rent; and it is only when its powers decay, and less is yielded in return for labour, that a share of the original produce of the more fertile portions is set apart for rent. It is singular that this quality in the land, which should have been noticed as an imperfection, compared with the natural agents by which manufacturers are assisted, should have been pointed out as constituting its peculiar pre-eminence. If air, water, the elasticity of steam, and the pressure of the atmosphere, were of various qualities; if they could be appropriated, and each quality existed only in moderate abundance, they as well as the land would afford a rent, as the successive qualities were brought into use. With every worse quality employed, the value of the commodities in the manufacture of which they were used would rise, because equal quantities of labour would be less productive. Man would do more by the sweat of his brow, and nature perform less; and the land would be no longer pre-eminent for its limited powers."
+    },
+    {
+      "id": "p0018",
+      "text": "If the surplus produce which land affords in the form of rent be an advantage, it is desirable that, every year, the machinery newly constructed should be less efficient than the old, as that would undoubtedly give a greater exchangeable value to the goods manufactured, not only by that machinery, but by all the other machinery in the kingdom; and a rent would be paid to all those who possessed the most productive machinery."
+    },
+    {
+      "id": "p0019",
+      "text": "The rise of rent is always the effect of the increasing wealth of the country, and of the difficulty of providing food for its augmented population. It is a symptom, but it is never a cause of wealth; for wealth often increases most rapidly while rent is either stationary, or even falling. Rent increases most rapidly, as the disposable land decreases in its productive powers. Wealth increases most rapidly in those countries where the disposable land is most fertile, where importation is least restricted, and where through agricultural improvements, productions can be multiplied without any increase in the proportional quantity of labour, and where consequently the progress of rent is slow."
+    },
+    {
+      "id": "p0020",
+      "text": "If the high price of corn were the effect, and not the cause of rent, price would be proportionally influenced as rents were high or low, and rent would be a component part of price. But that corn which is produced with the greatest quantity of labour is the regulator of the price of corn, and rent does not and cannot enter in the least degree as a component part of its price. Adam Smith, therefore, cannot be correct in supposing that the original rule which regulated the exchangeable value of commodities, namely the comparative quantity of labour by which they were produced, can be at all altered by the appropriation of land and the payment of rent. Raw material enters into the composition of most commodities, but the value of that raw material as well as corn, is regulated by the productiveness of the portion of capital last employed on the land, and paying no rent; and therefore rent is not a component part of the price of commodities."
+    },
+    {
+      "id": "p0021",
+      "text": "We have been hitherto considering the effects of the natural progress of wealth and population on rent, in a country in which the land is of variously productive powers; and we have seen, that with every portion of additional capital which it becomes necessary to employ on the land with a less productive return, rent would rise. It follows from the same principles, that any circumstances in the society which should make it unnecessary to employ the same amount of capital on the land, and which should therefore make the portion last employed more productive, would lower rent. Any great reduction in the capital of a country, which should materially diminish the funds destined for the maintenance of labour, would naturally have this effect. Population regulates itself by the funds which are to employ it, and therefore always increases or diminishes with the increase or diminution of capital. Every reduction of capital is therefore necessarily followed by a less effective demand for corn, by a fall of price, and by diminished cultivation. In the reverse order to that in which the accumulation of capital raises rent, will the diminution of it lower rent. Land of a less unproductive quality will be in succession relinquished, the exchangeable value of produce will fall, and land of a superior quality will be the land last cultivated, and that which will then pay no rent."
+    },
+    {
+      "id": "p0022",
+      "text": "The same effects may however be produced when the wealth and population of a country are increased, if that increase is accompanied by such marked improvements in agriculture, as shall have the same effect of diminishing the necessity of cultivating the poorer lands, or of expending the same amount of capital on the cultivation of the more fertile portions."
+    },
+    {
+      "id": "p0023",
+      "text": "If a million of quarters of corn be necessary for the support of a given population, and it be raised on land of the qualities of No. 1, 2, 3; and if an improvement be afterwards discovered by which it can be raised on No. 1 and 2, without employing No. 3, it is evident that the immediate effect must be a fall of rent; for No. 2, instead of No. 3, will then be cultivated without paying any rent; and the rent of No. 1, instead of being the difference between the produce of No. 3 and No. 1, will be the difference only between No. 2 and 1. With the same population, and no more, there can be no demand for any additional quantity of corn; the capital and labour employed on No. 3, will be devoted to the production of other commodities desirable to the community, and can have no effect in raising rent unless the raw material from which they are made cannot be obtained without employing capital less advantageously on the land, in which case No. 3 must again be cultivated."
+    },
+    {
+      "id": "p0024",
+      "text": "It is undoubtedly true, that the fall in the relative price of raw produce, in consequence of the improvement in agriculture, or rather in consequence of less labour being bestowed on its production, would naturally lead to increased accumulation; for the profits of stock would be greatly augmented. This accumulation would lead to an increased demand for labour, to higher wages, to an increased population, to a further demand for raw produce, and to an increased cultivation. It is only, however, after the increase in the population, that rent would be as high as before; that is to say, after No. 3 was taken into cultivation. A considerable period would have elapsed, attended with a positive diminution of rent."
+    },
+    {
+      "id": "p0025",
+      "text": "But improvements in agriculture are of two kinds: those which increase the productive powers of the land, and those which enable us to obtain its produce with less labour. They both lead to a fall in the price of raw produce; they both affect rent, but they do not affect it equally. If they did not occasion a fall in the price of raw produce, they would not be improvements; for it is the essential quality of an improvement to diminish the quantity of labour before required to produce a commodity; and this diminution cannot take place without a fall of its price or relative value."
+    },
+    {
+      "id": "p0026",
+      "text": "The improvements which increase the productive powers of the land, are such as the more skilful rotation of crops, or the better choice of manure. These improvements absolutely enable us to obtain the same produce from a smaller quantity of land. If, by the introduction of a course of turnips, I can feed my sheep besides raising my corn, the land on which the sheep were fed becomes unnecessary, and the same quantity of raw produce is raised by the employment of a less quantity of land. If I discover a manure which will enable me to make a piece of land produce 20 per cent. more corn, I may withdraw at least a portion of my capital from the most unproductive part of my farm. But, as I have before observed, it is not necessary that land should be thrown out of cultivation, in order to reduce rent: to produce this effect, it is sufficient that successive portions of capital are employed on the same land with different results, and that the portion which gives the least result should be withdrawn. If, by the introduction of the turnip husbandry, or by the use of a more invigorating manure, I can obtain the same produce with less capital, and without disturbing the difference between the productive powers of the successive portions of capital, I shall lower rent; for a different and more productive portion will be that which will form the standard from which every other will be reckoned. If, for example, the successive portions of capital yielded 100, 90, 80, 70; whilst I employed these four portions, my rent would be 60, or the difference between"
+    },
+    {
+      "id": "p0027",
+      "text": "70 and 100 = 30 } { 100 70 and 90 = 20 } { 90 70 and 80 = 10 } whilst the produce { 80 -- } would be 340 { 70 60 } { --- { 340"
+    },
+    {
+      "id": "p0028",
+      "text": "and while I employed these portions, the rent would remain the same, although the produce of each should have an equal augmentation. If, instead of 100, 90, 80, 70, the produce should be increased to 125, 115, 105, 95, the rent would still be 60, or the difference between"
+    },
+    {
+      "id": "p0029",
+      "text": "95 and 125 = 30 } { 125 95 and 115 = 20 } whilst the produce { 115 95 and 105 = 10 } would be increased { 105 -- } to 440 { 95 60 } { --- { 440"
+    },
+    {
+      "id": "p0030",
+      "text": "But with such an increase of produce, without an increase of demand, there could be no motive for employing so much capital on the land; one portion would be withdrawn, and consequently the last portion of capital would yield 105 instead of 95, and rent would fall to 30, or the difference between"
+    },
+    {
+      "id": "p0031",
+      "text": "105 and 125 = 20 } whilst the produce would be still { 125 105 and 115 = 10 } adequate to the wants of the { 115 -- } population, for it would be 345 { 105 30 } quarters, or { --- { 345"
+    },
+    {
+      "id": "p0032",
+      "text": "the demand being only for 340 quarters.--But there are improvements which may lower the relative value of produce without lowering the corn rent, though they will lower the money rent of land. Such improvements do not increase the productive powers of the land, but they enable us to obtain its produce with less labour. They are rather directed to the formation of the capital applied to the land, than to the cultivation of the land itself. Improvements in agricultural implements, such as the plough and the threshing machine, economy in the use of horses employed in husbandry, and a better knowledge of the veterinary art, are of this nature. Less capital, which is the same thing as less labour, will be employed on the land; but to obtain the same produce, less land cannot be cultivated. Whether improvements of this kind, however, affect corn rent, must depend on the question, whether the difference between the produce obtained by the employment of different portions of capital be increased, stationary, or diminished. If four portions of capital, 50, 60, 70, 80, be employed on the land, giving each the same results, and any improvement in the formation of such capital should enable me to withdraw 5 from each, so that they should be 45, 55, 65, and 75, no alteration would take place in the corn rent; but if the improvements were such as to enable me to make the whole saving on the largest portion of capital, that portion which is least productively employed, corn rent would immediately fall, because the difference between the capital most productive and the capital least productive would be diminished; and it is this difference which constitutes rent."
+    },
+    {
+      "id": "p0033",
+      "text": "Without multiplying instances, I hope enough has been said to shew, that whatever diminishes the inequality in the produce obtained from successive portions of capital employed on the same or on new land, tends to lower rent; and that whatever increases that inequality, necessarily produces an opposite effect, and tends to raise it."
+    },
+    {
+      "id": "p0034",
+      "text": "In speaking of the rent of the landlord, we have rather considered it as the proportion of the whole produce, without any reference to its exchangeable value; but since the same cause, the difficulty of production, raises the exchangeable value of raw produce, and raises also the proportion of raw produce paid to the landlord for rent, it is obvious that the landlord is doubly benefited by difficulty of production. First he obtains a greater share, and secondly the commodity in which he is paid is of greater value."
+    }
+  ],
+  "anchors": {
+    "economics-ricardo-rent-margin": {
+      "paragraphId": "p0009",
+      "start": 103,
+      "end": 226,
+      "quote": "rent is always the difference between the produce obtained by the employment of two equal quantities of capital and labour.",
+      "match": "normalized-exact"
+    }
+  }
+}

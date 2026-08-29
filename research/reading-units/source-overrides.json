@@ -1,0 +1,1265 @@
+{
+  "schemaVersion": 1,
+  "bySourceUrl": {
+    "https://assets.aeaweb.org/asset-server/files/9442.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/arrow-medical-care-1963-introduction.txt"
+    },
+    "https://archive.org/details/NyayaSutra": {
+      "localPath": "research/source-cache/reading-unit-derived/nyaya-sutra-vidyabhusana-1913-book-i.txt"
+    },
+    "https://archive.org/details/anenglishtransla00vaacuoft": {
+      "localPath": "research/source-cache/reading-unit-derived/samkhya-karika-jha-1896-complete-text.txt"
+    },
+    "https://archive.org/details/bhagavadgtwi00tela": {
+      "localPath": "research/source-cache/indian-source-audit-batch2/telang-bhagavadgita-sbe8-1882.txt"
+    },
+    "https://archive.org/details/cu31924014578979": {
+      "localPath": "research/source-cache/reading-unit-derived/hegel-philosophy-of-right-dyde-1896-selected-units.txt"
+    },
+    "https://archive.org/details/educationalpsych02thor": {
+      "localPath": "research/source-cache/completion-psychology/thorndike-educational-psychology-v2-ocr.txt"
+    },
+    "https://archive.org/details/educationalpsych03thor": {
+      "localPath": "research/source-cache/completion-psychology/thorndike-educational-psychology-v3-ocr.txt"
+    },
+    "https://archive.org/details/in.ernet.dli.2015.187610": {
+      "localPath": "research/source-cache/completion-psychology/kohler-mentality-apes-ocr.txt"
+    },
+    "https://archive.org/details/mimamsasutra00jaimuoft": {
+      "localPath": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923-djvu.xml"
+    },
+    "https://archive.org/details/sadhanarealisati00tago": {
+      "localPath": "research/source-cache/indian-source-audit-batch5/tagore-sadhana-gutenberg-6842.txt"
+    },
+    "https://archive.org/details/thevaiasesikasut00kanauoft": {
+      "localPath": "research/source-cache/reading-unit-derived/vaisheshika-sutra-sinha-1923-selected-chapters.txt"
+    },
+    "https://archive.org/details/wg1101": {
+      "localPath": "research/source-cache/indian-context-batch4/vivekananda-raja-yoga-1899-ocr.txt"
+    },
+    "https://archive.org/details/yogasystemofpata00pata": {
+      "localPath": "research/source-cache/indian-context-batch4/woods-yoga-system-patanjali-1914-ocr.txt"
+    },
+    "https://cdn.mises.org/On%20the%20Origins%20of%20Money_5.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/menger-origin-money-2009.txt"
+    },
+    "https://commons.wikimedia.org/wiki/File:An_introduction_to_the_study_of_experimental_medicine_-_Translated_by_H.C._Greene_(IA_b21270557).pdf": {
+      "localPath": "research/source-cache/completion-mao-science/bernard-experimental-medicine-greene-1927-ocr.txt"
+    },
+    "https://commons.wikimedia.org/wiki/File:Gandhi_-_The_Story_of_My_Experiments_With_Truth,_vol._1.pdf": {
+      "localPath": "research/source-cache/indian-source-audit-batch7/gandhi-experiments-with-truth-vol1-1927.txt"
+    },
+    "https://ctext.org/mengzi/gong-sun-chou-i": {
+      "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上"
+    },
+    "https://ctext.org/mengzi/jin-xin-ii": {
+      "url": "https://zh.wikisource.org/wiki/孟子/盡心下"
+    },
+    "https://ctext.org/mozi/condemnation-of-offensive-war-i": {
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%A2%A8%E5%AD%90%2F%E9%9D%9E%E6%94%BB%E4%B8%8A&oldid=1650236"
+    },
+    "https://ctext.org/mozi/exaltation-of-the-virtuous-i": {
+      "url": "https://zh.wikisource.org/wiki/墨子/尚賢上"
+    },
+    "https://ctext.org/mozi/universal-love-ii": {
+      "url": "https://zh.wikisource.org/wiki/墨子/兼愛中"
+    },
+    "https://ctext.org/xunzi/quan-xue": {
+      "url": "https://zh.wikisource.org/w/index.php?title=%E8%8D%80%E5%AD%90%2F%E5%8B%B8%E5%AD%B8%E7%AF%87&oldid=213659"
+    },
+    "https://ctext.org/xunzi/tian-lun": {
+      "url": "https://zh.wikisource.org/wiki/荀子/天論篇"
+    },
+    "https://ctext.org/xunzi/xing-e": {
+      "url": "https://zh.wikisource.org/wiki/荀子/性惡篇"
+    },
+    "https://ctext.org/zhuangzi/adjustment-of-controversies": {
+      "url": "https://zh.wikisource.org/wiki/莊子/齊物論"
+    },
+    "https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease": {
+      "url": "https://zh.wikisource.org/wiki/莊子/逍遙遊"
+    },
+    "https://ctext.org/zhuangzi/floods-of-autumn": {
+      "url": "https://zh.wikisource.org/wiki/莊子/秋水"
+    },
+    "https://ctext.org/zhuangzi/great-and-most-honoured-master": {
+      "url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%A4%A7%E5%AE%97%E5%B8%AB&oldid=2121770"
+    },
+    "https://ctext.org/zhuangzi/man-in-the-world-associated-with": {
+      "url": "https://zh.wikisource.org/wiki/莊子/人間世"
+    },
+    "https://ctext.org/zhuangzi/nourishing-the-lord-of-life": {
+      "url": "https://zh.wikisource.org/wiki/莊子/養生主"
+    },
+    "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html": {
+      "localPath": "research/source-cache/completion-mao-science/darwin-origin-1859.html"
+    },
+    "https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5": {
+      "localPath": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter5.html"
+    },
+    "https://galileoandeinstein.phys.virginia.edu/tns_draft/tns_160to243.html": {
+      "localPath": "research/source-cache/completion-mao-science/galileo-two-new-sciences-crew-desalvio.html"
+    },
+    "https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/hayek-use-knowledge-1945.txt"
+    },
+    "https://gwern.net/doc/psychology/personality/1946-asch.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/asch-forming-impressions-1946.txt"
+    },
+    "https://jwclegg.org/psy329/readings/Bandura.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/bandura-aggression-1961.txt"
+    },
+    "https://library.oarcloud.noaa.gov/docs.lib/htdocs/rescue/Rarebook_treasures/QC503F211839_PDF/QC503F211839v3.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/faraday-experimental-researches-v3-series-xix-xxviii.txt"
+    },
+    "https://ntrs.nasa.gov/citations/19840008978": {
+      "localPath": "research/source-cache/reading-unit-derived/heisenberg-nasa-tm-77379.txt"
+    },
+    "https://psychclassics.yorku.ca/Ebbinghaus/index.htm": {
+      "localPath": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter3.html"
+    },
+    "https://psychclassics.yorku.ca/Ebbinghaus/memory6.htm": {
+      "localPath": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter6.html"
+    },
+    "https://psychclassics.yorku.ca/Ebbinghaus/memory7.htm": {
+      "localPath": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter7.html"
+    },
+    "https://psychclassics.yorku.ca/Pavlov/lecture17.htm": {
+      "localPath": "research/source-cache/completion-psychology/pavlov-conditioned-reflexes-lecture17.html"
+    },
+    "https://psychclassics.yorku.ca/Pavlov/lecture2.htm": {
+      "localPath": "research/source-cache/completion-psychology/pavlov-conditioned-reflexes-lecture2.html"
+    },
+    "https://psychclassics.yorku.ca/Pavlov/lecture7.htm": {
+      "localPath": "research/source-cache/completion-psychology/pavlov-conditioned-reflexes-lecture7.html"
+    },
+    "https://psychclassics.yorku.ca/Watson/views.htm": {
+      "localPath": "research/source-cache/completion-psychology/watson-behaviorist-views-1913.html"
+    },
+    "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy03.htm": {
+      "localPath": "research/source-cache/completion-psychology/wundt-outlines-section3.html"
+    },
+    "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy07.htm": {
+      "localPath": "research/source-cache/completion-psychology/wundt-outlines-section7.html"
+    },
+    "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy15.htm": {
+      "localPath": "research/source-cache/completion-psychology/wundt-outlines-section15.html"
+    },
+    "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/festinger-carlsmith-forced-compliance-1959.txt"
+    },
+    "https://web.stanford.edu/class/msande314/arrow-debreu.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/arrow-debreu-equilibrium-1954-introduction.txt"
+    },
+    "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html": {
+      "localPath": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt"
+    },
+    "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html": {
+      "localPath": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt"
+    },
+    "https://www.gutenberg.org/cache/epub/60956/pg60956-images.html": {
+      "localPath": "research/source-cache/completion-mao-science/pasteur-life-devonshire-1920.txt"
+    },
+    "https://www.gutenberg.org/cache/epub/72787/pg72787-images.html": {
+      "localPath": "research/source-cache/completion-mao-science/bohr-constitution-atoms-1913.html"
+    },
+    "https://www.gutenberg.org/ebooks/40461": {
+      "localPath": "research/source-cache/indian-context-batch4/gandhi-hind-swaraj-gutenberg-40461.txt"
+    },
+    "https://www.gutenberg.org/files/14986/14986-h/14986-h.htm": {
+      "localPath": "research/source-cache/completion-mao-science/faraday-experimental-researches-v1.txt"
+    },
+    "https://www.gutenberg.org/files/3300/3300-h/3300-h.htm": {
+      "localPath": "research/source-cache/economics-context-batch11/smith-wealth-of-nations-gitenberg-3300.txt"
+    },
+    "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm": {
+      "localPath": "research/source-cache/economics-context-batch11/ricardo-principles-gitenberg-33310.txt"
+    },
+    "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm": {
+      "localPath": "research/source-cache/completion-mao-science/newton-opticks-1718.txt"
+    },
+    "https://www.gutenberg.org/files/44138/44138-h/44138-h.htm": {
+      "localPath": "research/source-cache/completion-psychology/wundt-elements-folk-psychology-1916.txt"
+    },
+    "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm": {
+      "localPath": "research/source-cache/completion-mao-science/bacon-novum-organum-devey-1902.txt"
+    },
+    "https://www.gutenberg.org/files/67363/67363-h/67363-h.htm": {
+      "localPath": "research/source-cache/economics-context-batch11/smith-theory-moral-sentiments-gitenberg-67363.txt"
+    },
+    "https://www.gutenberg.org/files/69362/69362-h/69362-h.htm": {
+      "localPath": "research/source-cache/completion-mao-science/mendel-principles-heredity-bateson-1902.txt"
+    },
+    "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm": {
+      "localPath": "research/source-cache/completion-psychology/thorndike-animal-intelligence-1911.txt"
+    },
+    "https://www.gutenberg.org/files/72800/72800-h/72800-h.htm": {
+      "localPath": "research/source-cache/completion-mao-science/bohr-quantum-postulate-1928.html"
+    },
+    "https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review": {
+      "localPath": "research/source-cache/reading-unit-derived/dasgupta-biodiversity-2021-preface.txt"
+    },
+    "https://www.haverford.edu/sites/default/files/Nash1950.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/nash-bargaining-problem-1950.txt"
+    },
+    "https://www.math.toronto.edu/mccann/assignments/477/Hotelling29.pdf": {
+      "localPath": "research/source-cache/reading-unit-derived/hotelling-stability-in-competition-1929.txt"
+    },
+    "https://www.mea.gov.in/books-writings-of-ambedkar": {
+      "localPath": "research/source-cache/indian-source-audit-batch7/ambedkar-baws-vol1-official.txt"
+    },
+    "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture?print=1": {
+      "localPath": "research/source-cache/completion-mao-science/curie-nobel-lecture-1911.html"
+    }
+  },
+  "byUnitId": {
+    "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-f518ab8d": {
+      "localPath": "research/source-cache/reading-unit-derived/locke-humane-understanding-1690-book-iv-chapter-i.txt"
+    },
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-b4a6bb2c": {
+      "localPath": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iii-bowring-1843.txt"
+    },
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f4408382": {
+      "localPath": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iv-bowring-1843.txt"
+    },
+    "ru-astronomia-nova-chapter-xiv-2fa40989": {
+      "localPath": "research/source-cache/reading-unit-derived/whewell-philosophy-discovery-chapter-xiv.txt"
+    },
+    "ru-capital-volume-i-chapter-i-c4ed1d60": {
+      "localPath": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-i.txt"
+    },
+    "ru-capital-volume-i-chapter-xxv-5db39174": {
+      "localPath": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-xxv.txt",
+      "maximumUnitCharacters": 253000
+    },
+    "ru-critique-of-pure-reason-introduction-introduction-1ecd26ec": {
+      "localPath": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-introduction-meiklejohn.txt"
+    },
+    "ru-critique-of-pure-reason-preface-b-d5be9bd1": {
+      "localPath": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-preface-b-meiklejohn.txt",
+      "startPattern": "^PREFACE TO THE SECOND EDITION 1787$"
+    },
+    "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46": {
+      "localPath": "research/source-cache/reading-unit-derived/rousseau-inequality-note-xv.txt",
+      "startPattern": "^Egoism must not be confused with self-respect:"
+    },
+    "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222": {
+      "localPath": "research/source-cache/reading-unit-derived/rousseau-inequality-part-i.txt",
+      "startPattern": "^THE FIRST PART$"
+    },
+    "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb": {
+      "localPath": "research/source-cache/reading-unit-derived/rousseau-inequality-part-ii.txt",
+      "startPattern": "^THE SECOND PART$"
+    },
+    "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd": {
+      "localPath": "research/source-cache/reading-unit-derived/rousseau-sciences-arts-part-ii.txt",
+      "startPattern": "^THE SECOND PART$"
+    },
+    "ru-discourses-book-i-chapter-2-730b2536": {
+      "localPath": "research/source-cache/reading-unit-derived/epictetus-discourses-book-i-chapter-ii-long.txt",
+      "startPattern": "^HOW A MAN ON EVERY OCCASION CAN MAINTAIN HIS PROPER CHARACTER\\."
+    },
+    "ru-discourses-on-livy-book-i-chapter-4-f36c1d2d": {
+      "localPath": "research/source-cache/reading-unit-derived/machiavelli-discourses-livy-book-i-chapter-iv-thomson.txt"
+    },
+    "ru-enchiridion-whole-work-f7640499": {
+      "localPath": "research/source-cache/reading-unit-derived/epictetus-encheiridion-long.txt"
+    },
+    "ru-fragments-of-heraclitus-whole-work-bc02bed8": {
+      "localPath": "research/source-cache/reading-unit-derived/heraclitus-fragments-burnet-1920.txt"
+    },
+    "ru-gestalt-psychology-chapter-vi-8cdc59c7": {
+      "localPath": "research/source-cache/reading-unit-derived/kohler-gestalt-psychology-chapter-vi-1929.txt"
+    },
+    "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5": {
+      "localPath": "research/source-cache/reading-unit-derived/kant-groundwork-section-ii-abbott.txt"
+    },
+    "ru-leviathan-part-ii-chapter-xxix-612ebd74": {
+      "localPath": "research/source-cache/reading-unit-derived/hobbes-leviathan-chapter-xxix-1651.txt",
+      "startPattern": "^CHAP\\. XXIX\\. Of those things that Weaken, or tend to the Dissolution of a Common-wealth\\.$"
+    },
+    "ru-manifesto-of-the-communist-party-chapter-i-cdf93826": {
+      "localPath": "research/source-cache/reading-unit-derived/marx-manifesto-chapter-i-moore-engels-1910.txt"
+    },
+    "ru-meditations-on-first-philosophy-meditation-ii-1865582b": {
+      "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-ii-molyneux-1680.txt",
+      "startPattern": "^MEDITAT\\. II\\.$"
+    },
+    "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62": {
+      "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-iii-molyneux-1680.txt",
+      "startPattern": "^MEDITAT\\. III\\.$"
+    },
+    "ru-meditations-on-first-philosophy-meditation-iv-94021970": {
+      "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-iv-molyneux-1680.txt",
+      "startPattern": "^MEDITAT\\. IV\\.$"
+    },
+    "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb": {
+      "localPath": "research/source-cache/reading-unit-derived/descartes-meditation-v-molyneux-1680.txt",
+      "startPattern": "^MEDITAT\\. V\\.$"
+    },
+    "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab": {
+      "localPath": "research/source-cache/reading-unit-derived/ebbinghaus-memory-chapter-v-ruger-bussenius-1913.txt"
+    },
+    "ru-monadology-whole-work-bf71c0f6": {
+      "localPath": "research/source-cache/reading-unit-derived/leibniz-monadology-duncan-1890.txt"
+    },
+    "ru-new-essays-on-human-understanding-preface-preface-9a2fa0f0": {
+      "localPath": "research/source-cache/reading-unit-derived/leibniz-new-essays-langley-1896-preface.txt"
+    },
+    "ru-on-nature-whole-work-aaa8e8ca": {
+      "localPath": "research/source-cache/reading-unit-derived/parmenides-fragments-burnet-1920.txt"
+    },
+    "ru-on-spontaneous-generation-whole-work-80e9bc01": {
+      "localPath": "research/source-cache/reading-unit-derived/pasteur-life-chapter-v-devonshire-1920.txt"
+    },
+    "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a": {
+      "localPath": "research/source-cache/reading-unit-derived/mill-political-economy-book-ii-chapter-i.txt"
+    },
+    "ru-religion-within-the-boundaries-of-mere-reason-part-i-1cd8bd19": {
+      "localPath": "research/source-cache/reading-unit-derived/kant-religion-semple-1838-part-i.txt"
+    },
+    "ru-second-treatise-of-government-chapter-v-b11ade32": {
+      "localPath": "research/source-cache/reading-unit-derived/locke-second-treatise-chapter-v.txt"
+    },
+    "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16": {
+      "localPath": "research/source-cache/reading-unit-derived/galileo-sidereus-moon-observations-carlos-1880.txt",
+      "startPattern": "^\\[Sidenote: The Moon\\. Ruggedness of its surface\\. Existence of lunar mountains and valleys\\.\\]$"
+    },
+    "ru-the-subjection-of-women-chapter-i-de45861e": {
+      "localPath": "research/source-cache/reading-unit-derived/mill-subjection-women-chapter-i.txt"
+    },
+    "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f": {
+      "localPath": "research/source-cache/reading-unit-derived/james-varieties-lecture-i.txt"
+    },
+    "ru-theological-political-treatise-chapter-20-80467ac4": {
+      "localPath": "research/source-cache/reading-unit-derived/spinoza-theological-political-treatise-chapter-xx-elwes.txt"
+    },
+    "ru-utilitarianism-chapter-ii-6f8a19dc": {
+      "localPath": "research/source-cache/reading-unit-derived/mill-utilitarianism-chapter-ii.txt"
+    },
+    "ru-an-answer-to-the-question-what-is-enlightenment-whole-work-5c3bf825": {
+      "localPath": "research/source-cache/reading-unit-derived/kant-what-is-enlightening-richardson-1798-complete.txt"
+    },
+    "ru-class-function-concept-relation-whole-work-d92333b7": {
+      "localPath": "research/source-cache/reading-unit-derived/frege-class-function-concept-relation-1917-complete.txt"
+    },
+    "ru-essay-on-the-origin-of-languages-chapter-ii-2eda6e43": {
+      "localPath": "research/source-cache/reading-unit-derived/rousseau-origin-languages-chapter-ii-1782-with-simpson-1921.txt",
+      "startPattern": "^ESSAI SUR L’ORIGINE DES LANGUES$"
+    },
+    "ru-illustrations-of-the-dynamical-theory-of-gases-part-i-c56f9836": {
+      "localPath": "research/source-cache/reading-unit-derived/maxwell-dynamical-theory-gases-part-i-1860.txt"
+    },
+    "ru-mathematical-psychics-part-ii-0e25c1e8": {
+      "localPath": "research/source-cache/reading-unit-derived/edgeworth-mathematical-psychics-part-ii-1881.txt"
+    },
+    "ru-on-the-movement-of-small-particles-suspended-in--whole-work-8fd6f89b": {
+      "localPath": "research/source-cache/reading-unit-derived/einstein-brownian-movement-cowper-1926-complete-paper.txt"
+    },
+    "ru-phenomenology-encyclopaedia-britannica-part-i-7fba793f": {
+      "localPath": "research/source-cache/reading-unit-derived/husserl-phenomenology-britannica-1929-part-i.txt"
+    },
+    "ru-the-teacher-chapter-xi-4bdee798": {
+      "localPath": "research/source-cache/reading-unit-derived/augustine-the-teacher-chapter-xi-tourscher-1924.txt"
+    },
+    "ru-a-contribution-to-the-theory-of-taxation-whole-work-ce73978e": {
+      "localPath": "research/source-cache/reading-unit-derived/ramsey-taxation-1927.txt",
+      "startPattern": "^A CONTRIBUTION TO THE THEORY OF TAXATION$"
+    },
+    "ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9": {
+      "startPattern": "^PART I\\.—INTRODUCTORY\\.$"
+    },
+    "ru-acaranga-sutra-book-i-lecture-2-lesson-3-056d1a2b": {
+      "localPath": "research/source-cache/reading-unit-derived/jacobi-acaranga-sutra-1884-book-i-lecture-2-lesson-3.txt",
+      "startPattern": "^ACARANGA SUTRA — BOOK I, LECTURE 2, LESSON 3$",
+      "endPattern": "^BOOK I, LECTURE 2, LESSON 4\\. 21$"
+    },
+    "ru-bhagavad-gita-chapter-ii-795f4a22": {
+      "localPath": "research/source-cache/reading-unit-derived/telang-bhagavad-gita-1882-chapters-ii-vi.txt",
+      "startPattern": "^BHAGAVAD GITA — CHAPTER II$",
+      "endPattern": "^BHAGAVAD GITA — CHAPTER VI$"
+    },
+    "ru-bhagavad-gita-chapter-vi-a7575c0f": {
+      "localPath": "research/source-cache/reading-unit-derived/telang-bhagavad-gita-1882-chapters-ii-vi.txt",
+      "startPattern": "^BHAGAVAD GITA — CHAPTER VI$",
+      "endPattern": "^END OF SELECTED READING UNITS$"
+    },
+    "ru-brihadaranyaka-upanishad-section-2-3-fdee26aa": {
+      "localPath": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt",
+      "startPattern": "^BRIHADARANYAKA UPANISHAD — SECTION 2\\.3$",
+      "endPattern": "^BRIHADARANYAKA UPANISHAD — SECTION 2\\.4$"
+    },
+    "ru-brihadaranyaka-upanishad-section-2-4-5830fb95": {
+      "localPath": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt",
+      "startPattern": "^BRIHADARANYAKA UPANISHAD — SECTION 2\\.4$",
+      "endPattern": "^CHANDOGYA UPANISHAD — SECTION 6\\.8$"
+    },
+    "ru-chandogya-upanishad-section-6-8-00d9ad1a": {
+      "localPath": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt",
+      "startPattern": "^CHANDOGYA UPANISHAD — SECTION 6\\.8$",
+      "endPattern": "^KATHA UPANISHAD — SECTION 1\\.3$"
+    },
+    "ru-commentary-on-the-laozi-chapter-1-37b4420e": {
+      "localPath": "research/source-cache/reading-unit-derived/wang-bi-laozi-chapter-1.txt"
+    },
+    "ru-correcting-the-unenlightened-great-harmony-named-chapter-great-harmony-b67fbf4f": {
+      "localPath": "research/source-cache/reading-unit-derived/zhang-zai-zhengmeng-great-harmony.txt"
+    },
+    "ru-daodejing-chapter-22-1a7dcf9a": {
+      "localPath": "research/source-cache/reading-unit-derived/laozi-wangbi-siku-chapter-22.txt",
+      "minimumUnitCharacters": 100
+    },
+    "ru-essay-on-the-golden-lion-i-clarifying-dependent--named-chapter-i-clarifying-dependent-arising-36c69243": {
+      "localPath": "research/source-cache/reading-unit-derived/fazang-golden-lion-clarifying-dependent-arising.txt",
+      "startPattern": "^明缘起第一$"
+    },
+    "ru-essay-on-the-golden-lion-the-realm-of-indras-net-named-chapter-the-realm-of-indras-net-0ee3d722": {
+      "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1881.xml",
+      "localPath": "research/source-cache/reading-unit-derived/cbeta-t1881-golden-lion-indras-net.txt",
+      "minimumUnitCharacters": 100
+    },
+    "ru-instructions-for-practical-living-part-i-named-chapter-part-i-5823de0e": {
+      "localPath": "research/source-cache/reading-unit-derived/wang-yangming-chuanxilu-volume-1.txt"
+    },
+    "ru-mencius-gongsun-chou-i-named-chapter-gongsun-chou-i-274326ad": {
+      "localPath": "research/source-cache/reading-unit-derived/mencius-gongsun-chou-i.txt"
+    },
+    "ru-mencius-jinxin-ii-named-chapter-jinxin-ii-85e66e44": {
+      "localPath": "research/source-cache/reading-unit-derived/mencius-jin-xin-ii.txt"
+    },
+    "ru-mozi-against-fatalism-i-named-chapter-against-fatalism-i-c4d910e5": {
+      "url": "https://zh.wikisource.org/wiki/墨子/非命上",
+      "localPath": "research/source-cache/reading-unit-derived/mozi-feiming-shang.txt"
+    },
+    "ru-penetrating-the-book-of-changes-chapter-14-atten-named-chapter-chapter-14-attending-to-reality-5c9469d4": {
+      "localPath": "research/source-cache/reading-unit-derived/zhou-dunyi-tongshu-chapter-14.txt",
+      "minimumUnitCharacters": 60,
+      "startPattern": "^務實第十四$"
+    },
+    "ru-surviving-works-of-the-cheng-brothers-volume-2a-named-chapter-volume-2a-f384af19": {
+      "localPath": "research/source-cache/reading-unit-derived/cheng-brothers-yishu-volume-2a.txt"
+    },
+    "ru-wang-fuzhis-record-of-questions-and-reflections--named-chapter-inner-chapters-7b6182bd": {
+      "localPath": "research/source-cache/reading-unit-derived/wang-fuzhi-siwenlu-inner-chapters.txt"
+    },
+    "ru-zhaolun-the-emptiness-of-the-unreal-named-chapter-the-emptiness-of-the-unreal-243d23a9": {
+      "localPath": "research/source-cache/reading-unit-derived/sengzhao-buzhenkonglun.txt"
+    },
+    "ru-college-admissions-and-the-stability-of-marriage-whole-work-d90d8da7": {
+      "localPath": "research/source-cache/reading-unit-derived/gale-shapley-college-admissions-1962.txt",
+      "startPattern": "^COLLEGE ADMISSIONS AND THE STABILITY OF MARRIAGE$"
+    },
+    "ru-demand-under-conditions-of-oligopoly-whole-work-acc95610": {
+      "localPath": "research/source-cache/reading-unit-derived/sweezy-demand-under-oligopoly-1939.txt",
+      "startPattern": "^DEMAND UNDER CONDITIONS OF OLIGOPOLY$"
+    },
+    "ru-isha-upanishad-whole-work-407fcc5f": {
+      "localPath": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt",
+      "startPattern": "^ISHA UPANISHAD — WHOLE WORK$",
+      "endPattern": "^END OF SELECTED READING UNITS$"
+    },
+    "ru-investment-in-human-capital-whole-work-717159bb": {
+      "localPath": "research/source-cache/reading-unit-derived/schultz-investment-in-human-capital-1961.txt",
+      "startPattern": "^INVESTMENT IN HUMAN CAPITAL\\*$"
+    },
+    "ru-katha-upanishad-section-1-3-98b04cff": {
+      "localPath": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt",
+      "startPattern": "^KATHA UPANISHAD — SECTION 1\\.3$",
+      "endPattern": "^ISHA UPANISHAD — WHOLE WORK$"
+    },
+    "ru-mimamsa-sutra-book-1-chapter-1-b371d8ff": {
+      "localPath": "research/source-cache/reading-unit-derived/sandal-mimamsa-sutra-1923-chapter-i.txt",
+      "startPattern": "^MIMAMSA SUTRA — CHAPTER I$",
+      "endPattern": "^END OF SELECTED READING UNITS$"
+    },
+    "ru-meditations-on-first-philosophy-meditation-i-da253897": {
+      "startPattern": "^MEDITAT\\. I\\.$",
+      "endPattern": "^MEDITAT\\. II\\.$"
+    },
+    "ru-monopoly-and-resource-allocation-whole-work-9683e308": {
+      "localPath": "research/source-cache/reading-unit-derived/harberger-monopoly-and-resource-allocation-1954.txt",
+      "startPattern": "^MONOPOLY AND RESOURCE ALLOCATION\\*$"
+    },
+    "ru-pragmatism-and-abduction-section-2-4dbeed50": {
+      "startPattern": "^187\\.",
+      "endPattern": "^(?:&laquo;|«)"
+    },
+    "ru-quantization-as-an-eigenvalue-problem-first-comm-whole-work-515696b6": {
+      "localPath": "research/source-cache/reading-unit-derived/schrodinger-quantisation-proper-values-part-i-1928.txt",
+      "startPattern": "^Quantisation as a Problem of Proper Values \\(Part I\\)$"
+    },
+    "ru-tattvartha-sutra-chapter-1-23bc00ba": {
+      "localPath": "research/source-cache/reading-unit-derived/jaini-tattvarthadhigama-sutra-1920-chapters-1-5-7-8.txt",
+      "startPattern": "^TATTVARTHA SUTRA — CHAPTER 1$",
+      "endPattern": "^TATTVARTHA SUTRA — CHAPTER 5$"
+    },
+    "ru-tattvartha-sutra-chapter-5-c5db8f52": {
+      "localPath": "research/source-cache/reading-unit-derived/jaini-tattvarthadhigama-sutra-1920-chapters-1-5-7-8.txt",
+      "startPattern": "^TATTVARTHA SUTRA — CHAPTER 5$",
+      "endPattern": "^TATTVARTHA SUTRA — CHAPTER 7$"
+    },
+    "ru-tattvartha-sutra-chapter-7-50857351": {
+      "localPath": "research/source-cache/reading-unit-derived/jaini-tattvarthadhigama-sutra-1920-chapters-1-5-7-8.txt",
+      "startPattern": "^TATTVARTHA SUTRA — CHAPTER 7$",
+      "endPattern": "^TATTVARTHA SUTRA — CHAPTER 8$"
+    },
+    "ru-tattvartha-sutra-chapter-8-ff336166": {
+      "localPath": "research/source-cache/reading-unit-derived/jaini-tattvarthadhigama-sutra-1920-chapters-1-5-7-8.txt",
+      "startPattern": "^TATTVARTHA SUTRA — CHAPTER 8$",
+      "endPattern": "^END OF SELECTED READING UNITS$"
+    },
+    "ru-yoga-sutra-book-ii-0da88639": {
+      "localPath": "research/source-cache/reading-unit-derived/woods-yoga-system-1914-books-ii-iii-collected-translation.txt",
+      "startPattern": "^YOGA SUTRAS — BOOK II$",
+      "endPattern": "^YOGA SUTRAS — BOOK III$"
+    },
+    "ru-yoga-sutra-book-iii-2288d0a3": {
+      "localPath": "research/source-cache/reading-unit-derived/woods-yoga-system-1914-books-ii-iii-collected-translation.txt",
+      "startPattern": "^YOGA SUTRAS — BOOK III$",
+      "endPattern": "^END OF SELECTED READING UNITS$"
+    },
+    "ru-a-treatise-concerning-the-principles-of-human-kn-part-i-409ed382": {
+      "startPattern": "^\\[PART 1\\.",
+      "endPattern": "^↑ Omitted from the title-page",
+      "maximumUnitCharacters": 200000
+    },
+    "ru-a-compendium-on-the-soul-section-x-48b96304": {
+      "startPattern": "^SECTION TENTH$",
+      "endPattern": "^IT IS ENDED\\.$"
+    },
+    "ru-an-essay-concerning-human-understanding-book-ii-chapter-1-d2e72435": {
+      "url": "https://www.gutenberg.org/ebooks/10615",
+      "startPattern": "^CHAPTER I\\.$",
+      "endPattern": "^CHAPTER II\\.$"
+    },
+    "ru-an-essay-concerning-human-understanding-book-ii-chapter-8-c3aac34a": {
+      "url": "https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_2/Chapter_8"
+    },
+    "ru-an-essay-concerning-human-understanding-book-ii-chapter-12-bc0238c5": {
+      "url": "https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_2/Chapter_XII"
+    },
+    "ru-discourses-book-ii-chapter-10-183c0ac5": {
+      "startPattern": "^HOW WE MAY DISCOVER THE DUTIES OF LIFE FROM NAMES[.—-]",
+      "endPattern": "^WHAT THE BEGINNING OF PHILOSOPHY IS[.—-]"
+    },
+    "ru-discourses-book-ii-chapter-11-73eae7f4": {
+      "startPattern": "^WHAT THE BEGINNING OF PHILOSOPHY IS[.—-]",
+      "endPattern": "^HOW WE MUST ADAPT PRECONCEPTIONS TO PARTICULAR CASES[.—-]"
+    },
+    "ru-discourses-book-iv-chapter-1-9724a341": {
+      "startPattern": "^ABOUT FREEDOM\\.",
+      "endPattern": "^ON FAMILIAR INTIMACY\\."
+    },
+    "ru-elements-of-the-philosophy-of-right-part-iii-named-section-civil-society-12e3c61c": {
+      "startPattern": "^The Civic Commtjnitt\\.$",
+      "endPattern": "^THIED SECTION\\. The Statb\\.$"
+    },
+    "ru-elements-of-the-philosophy-of-right-part-iii-named-section-ethical-life-introduction-8f4c4d97": {
+      "startPattern": "^THIRD PART\\.$",
+      "endPattern": "^riEST SECTION\\. The Family\\.$"
+    },
+    "ru-elements-of-the-philosophy-of-right-part-iii-named-section-the-state-ac6a3653": {
+      "startPattern": "^THIED SECTION\\. The Statb\\.$",
+      "endPattern": "^INDEX OF WORDS\\.$",
+      "maximumUnitCharacters": 300000
+    },
+    "ru-elements-of-the-philosophy-of-right-preface-preface-56e66612": {
+      "startPattern": "^AUTHOR'S PREFACE\\.$",
+      "endPattern": "^INTRODUCTION\\.$"
+    },
+    "ru-experimental-researches-in-electricity-volume-iii-series-nineteenth-bc9cf2ea": {
+      "startPattern": "^NINETEENTH SERIES\\.?$",
+      "endPattern": "^TWENTY-EIGHTH SERIES\\.?$"
+    },
+    "ru-experimental-researches-in-electricity-volume-iii-series-twenty-eighth-743cd240": {
+      "startPattern": "^TWENTY-EIGHTH SERIES\\.?$"
+    },
+    "ru-luxuriant-dew-of-the-spring-and-autumn-annals-de-named-chapter-deeply-examining-names-and-designa-9b010f81": {
+      "startPattern": "^深察名號第三十五$",
+      "endPattern": "^實性第三十六$"
+    },
+    "ru-luxuriant-dew-of-the-spring-and-autumn-annals-th-named-chapter-the-actuality-of-human-nature-b760a4c7": {
+      "startPattern": "^實性第三十六$",
+      "endPattern": "^諸侯第三十七$"
+    },
+    "ru-mozi-condemnation-of-offensive-war-i-named-chapter-condemnation-of-offensive-war-i-338b5208": {
+      "startPattern": "^今有一人[,，]",
+      "endPattern": "^(?:检索|檢索)自"
+    },
+    "ru-nicomachean-ethics-book-ii-chapter-6-6b4d53ac": {
+      "startPattern": "^We must, however, not only describe virtue as a state of character",
+      "endPattern": "^7$"
+    },
+    "ru-nyaya-sutra-book-1-chapter-1-297d7e12": {
+      "startPattern": "^BOOK I\\. CHAPTER I\\.$",
+      "endPattern": "^BOOK I\\. CHAPTER II\\.$"
+    },
+    "ru-nyaya-sutra-book-1-chapter-2-c7e26658": {
+      "startPattern": "^BOOK I\\. CHAPTER II\\.$",
+      "endPattern": "^BOOK II\\. CHAPTER I\\.$"
+    },
+    "ru-novum-organum-book-ii-5e6fbb20": {
+      "startPattern": "^APHORISMS--BOOK II$",
+      "endPattern": "^END OF \"NOVUM ORGANUM\"$",
+      "maximumUnitCharacters": 500000
+    },
+    "ru-samkhya-karika-whole-work-219b356d": {
+      "startPattern": "^INTRODUCTION\\.$",
+      "endPattern": "^ALPHABETICAL\\s+INDEX\\.$",
+      "maximumUnitCharacters": 320000
+    },
+    "ru-the-art-of-war-initial-estimations-named-chapter-initial-estimations-990674d5": {
+      "startPattern": "^始計第一$",
+      "endPattern": "^作戰第二$"
+    },
+    "ru-the-art-of-war-nine-changes-named-chapter-nine-changes-0c2e4bb0": {
+      "startPattern": "^九變第八$",
+      "endPattern": "^行軍第九$"
+    },
+    "ru-the-art-of-war-planning-offensives-named-chapter-planning-offensives-a3ec072f": {
+      "startPattern": "^謀攻第三$",
+      "endPattern": "^軍形第四$"
+    },
+    "ru-the-art-of-war-weaknesses-and-strengths-named-chapter-weaknesses-and-strengths-f5269530": {
+      "startPattern": "^虛實第六$",
+      "endPattern": "^軍爭第七$"
+    },
+    "ru-the-economics-of-welfare-part-ii-chapter-vi-aadfba99": {
+      "startPattern": "^DIVEEGBNCBS\\s+BETWEEN\\s+MARGIKAL\\s+SOCIAL\\s+NET\\s+PEODUCT\\s+AND",
+      "endPattern": "^CHAPTEE\\s+VII$",
+      "maximumUnitCharacters": 250000
+    },
+    "ru-the-principles-of-psychology-chapter-x-fea508cc": {
+      "startPattern": "^CHAPTER X\\.$",
+      "endPattern": "^CHAPTER XI\\.$",
+      "maximumUnitCharacters": 500000
+    },
+    "ru-the-souls-of-black-folk-forethought-forethought-0f6dd598": {
+      "startPattern": "^The Forethought$",
+      "endPattern": "^I\\. Of Our Spiritual Strivings$"
+    },
+    "ru-the-will-to-believe-whole-work-d2ac8ec7": {
+      "startPattern": "^THE WILL TO BELIEVE\\.$",
+      "endPattern": "^IS LIFE WORTH LIVING\\?$"
+    },
+    "ru-the-theory-of-signs-whole-work-435f2064": {
+      "url": "https://web.archive.org/web/20251228045136id_/http://www.zbi.ee/~kalevi/Peirce2.htm"
+    },
+    "ru-the-world-as-will-and-representation-volume-i-book-i-a2746704": {
+      "startPattern": "^FIRST BOOK\\. THE WORLD AS IDEA\\.$",
+      "endPattern": "^SECOND BOOK\\. THE WORLD AS WILL\\.$",
+      "maximumUnitCharacters": 300000
+    },
+    "ru-the-world-as-will-and-representation-volume-i-book-ii-ea9332fc": {
+      "startPattern": "^SECOND BOOK\\. THE WORLD AS WILL\\.$",
+      "endPattern": "^THIRD BOOK\\. THE WORLD AS IDEA\\.$",
+      "maximumUnitCharacters": 250000
+    },
+    "ru-the-world-as-will-and-representation-volume-i-book-iii-260068ee": {
+      "startPattern": "^THIRD BOOK\\. THE WORLD AS IDEA\\.$",
+      "endPattern": "^FOURTH BOOK\\. THE WORLD AS WILL\\.$",
+      "maximumUnitCharacters": 320000
+    },
+    "ru-the-world-as-will-and-representation-volume-i-book-iv-71b44184": {
+      "startPattern": "^FOURTH BOOK\\. THE WORLD AS WILL\\.$",
+      "maximumUnitCharacters": 480000
+    },
+    "ru-vaisheshika-sutra-book-1-chapter-1-27352864": {
+      "startPattern": "^KANADA SIJTRAS I, 1, 1\\.$",
+      "endPattern": "^KANADA SUTRAS I, 2, 1\\.$",
+      "maximumUnitCharacters": 500000
+    },
+    "ru-vaisheshika-sutra-book-1-chapter-2-3201cc08": {
+      "startPattern": "^HOOK FIRST, CHAPTER SECOND\\.$",
+      "endPattern": "^BOOK II\\. CHAPTER I\\.$"
+    },
+    "ru-vaisheshika-sutra-book-4-chapter-1-e74d1d9e": {
+      "startPattern": "^BOOK IV\\. CHAPTER I\\.$",
+      "endPattern": "^BOOK FOURTH __ CHAPTER SECOND\\.$"
+    },
+    "ru-vaisheshika-sutra-book-7-chapter-2-eee73c2b": {
+      "startPattern": "^BOOK VII\\. CHAPTER II\\.$",
+      "endPattern": "^BOOK VIII\\. CHAPTER I\\.$"
+    },
+    "ru-critique-of-the-power-of-judgment-part-i-book-i-4762e502": {
+      "startPattern": "^FIRST BOOK$",
+      "endPattern": "^SECOND BOOK$"
+    },
+    "ru-xunzi-encouraging-learning-named-chapter-encouraging-learning-62f24306": {
+      "startPattern": "^君子曰[:：]學不可以已",
+      "endPattern": "^(?:检索|檢索)自"
+    },
+    "ru-zhuangzi-the-great-and-venerable-teacher-named-chapter-the-great-and-venerable-teacher-287ab7fb": {
+      "startPattern": "^大宗師第六$",
+      "endPattern": "^↑返回頂部$"
+    },
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b": {
+      "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2"
+    },
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db": {
+      "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14"
+    },
+    "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a": {
+      "startPattern": "^LAWS OF BEHAVIOR IN GENERAL$",
+      "endPattern": "^THE EVOLUTION OF BEHAVIOR$"
+    },
+    "ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a": {
+      "startPattern": "^REASONING OR INFERENCE$",
+      "endPattern": "^IMITATION$"
+    },
+    "ru-capital-volume-i-chapter-vii-f8f21de9": {
+      "url": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7"
+    },
+    "ru-cosmos-volume-i-introduction-introduction-7f623ec4": {
+      "startPattern": "^INTRODUCTION\\.$",
+      "endPattern": "^This material taken from pages 79 to 111$"
+    },
+    "ru-cosmos-volume-i-preface-preface-0978794c": {
+      "startPattern": "^In the late evening of an active life I offer to the German public a work,",
+      "endPattern": "^This material taken from pages 13-22\\b"
+    },
+    "ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5": {
+      "startPattern": "^FIRST PART\\. TRANSCENDENTAL ÆSTHETIC\\.$",
+      "endPattern": "^Second Part—TRANSCENDENTAL LOGIC$"
+    },
+    "ru-discourses-book-ii-chapter-17-af126ead": {
+      "startPattern": "^HOW WE MUST ADAPT PRECONCEPTIONS TO PARTICULAR CASES[.—-]",
+      "endPattern": "^HOW WE SHOULD STRUGGLE AGAINST APPEARANCES[.—-]"
+    },
+    "ru-discourses-book-ii-chapter-18-e26bc395": {
+      "startPattern": "^HOW WE SHOULD STRUGGLE AGAINST APPEARANCES[.—-]",
+      "endPattern": "^OF INCONSISTENCY[.—-]"
+    },
+    "ru-elements-of-folk-psychology-introduction-introduction-4b0133a0": {
+      "startPattern": "^INTRODUCTION$",
+      "endPattern": "^CHAPTER I$"
+    },
+    "ru-ethics-part-ii-3f8d8997": {
+      "localPath": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+      "startPattern": "^Part II\\.$",
+      "endPattern": "^PART III\\.$"
+    },
+    "ru-ethics-part-iv-67d79bde": {
+      "localPath": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+      "startPattern": "^PART IV:$",
+      "endPattern": "^PART V:$"
+    },
+    "ru-ethics-part-v-bf548558": {
+      "localPath": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+      "startPattern": "^PART V:$"
+    },
+    "ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1": {
+      "startPattern": "^PRELIMINARY EXPECTORATION$",
+      "endPattern": "^PREPARATION FOR A CHRISTIAN LIFE$"
+    },
+    "ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc": {
+      "startPattern": "^PREFACE\\.$",
+      "endPattern": "^CONTENTS\\.$"
+    },
+    "ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab": {
+      "startPattern": "^ON TRUTH AND FALSITY IN THEIR ULTRAMORAL SENSE$",
+      "endPattern": "^2$"
+    },
+    "ru-opticks-book-iii-2a775caf": {
+      "localPath": "research/source-cache/reading-unit-derived/newton-opticks-1718-book-iii.txt",
+      "startPattern": "^THIRD BOOK$",
+      "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+    },
+    "ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f": {
+      "startPattern": "^AUTHOR’S PREFACE\\.$",
+      "endPattern": "^CONTENTS\\.$"
+    },
+    "ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3": {
+      "url": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64"
+    },
+    "ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1": {
+      "startPattern": "^\\[Sidenote: Stars\\.",
+      "endPattern": "^\\[Sidenote: Discovery of Jupiter’s satellites"
+    },
+    "ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8": {
+      "startPattern": "^\\[Sidenote: Discovery of Jupiter’s satellites",
+      "endPattern": "^A PART OF THE PREFACE TO KEPLER’S DIOPTRICS$"
+    },
+    "ru-the-souls-of-black-folk-chapter-i-5be293cf": {
+      "startPattern": "^I\\. Of Our Spiritual Strivings$",
+      "endPattern": "^II\\. Of the Dawn of Freedom$"
+    },
+    "ru-the-souls-of-black-folk-chapter-iii-941e14ab": {
+      "localPath": "research/source-cache/reading-unit-derived/du-bois-souls-chapter-iii.txt",
+      "startPattern": "^III\\. Of Mr\\. Booker T\\. Washington and Others$",
+      "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+    },
+    "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b": {
+      "localPath": "research/source-cache/reading-unit-derived/tractatus-major-propositions-2-and-4.txt",
+      "startPattern": "^TRACTATUS — MAJOR PROPOSITION 2$",
+      "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+    },
+    "ru-toward-perpetual-peace-article-second-12cc512d": {
+      "startPattern": "^SECOND DEFINITIVE ARTICLE OF PERPETUAL PEACE$",
+      "endPattern": "^THIRD DEFINITIVE ARTICLE OF PERPETUAL PEACE$"
+    },
+    "ru-toward-perpetual-peace-article-third-870b0243": {
+      "startPattern": "^THIRD DEFINITIVE ARTICLE OF PERPETUAL PEACE$",
+      "endPattern": "^FIRST SUPPLEMENT$"
+    },
+    "ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5": {
+      "startPattern": "^THE FOUR GREAT ERRORS$",
+      "endPattern": "^THINGS THE GERMANS LACK$"
+    },
+    "ru-principles-of-economics-book-iii-chapter-4-f9738743": {
+      "localPath": "research/source-cache/reading-unit-derived/marshall-principles-book-iii-chapter-iv.txt",
+      "startPattern": "^THE ELASTICITY OF WANTS\\.$",
+      "endPattern": "^END OF PUBLIC WEB RECOVERY SOURCE$"
+    },
+    "ru-principles-of-economics-book-v-chapter-3-33bfefbb": {
+      "url": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31"
+    },
+    "ru-the-purchasing-power-of-money-chapter-2-63622053": {
+      "url": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6"
+    },
+    "ru-action-research-and-minority-problems-whole-work-2bf8bf7e": {
+      "localPath": "research/source-cache/reading-unit-derived/lewin-action-research-minority-problems-1946.txt",
+      "startPattern": "^Action Research and Minority Problems$"
+    },
+    "ru-castes-in-india-their-mechanism-genesis-and-deve-whole-work-470713a8": {
+      "localPath": "research/source-cache/reading-unit-derived/ambedkar-castes-in-india-1917.txt"
+    },
+    "ru-conditioned-emotional-reactions-whole-work-f0cdd437": {
+      "localPath": "research/source-cache/reading-unit-derived/watson-rayner-conditioned-emotional-reactions-1920.txt"
+    },
+    "ru-conditioned-reflexes-lecture-ii-f4083963": {
+      "localPath": "research/source-cache/reading-unit-derived/pavlov-conditioned-reflexes-lecture-ii-1927.txt"
+    },
+    "ru-conditioned-reflexes-lectures-ii-and-iv-971e59b1": {
+      "localPath": "research/source-cache/reading-unit-derived/pavlov-conditioned-reflexes-lectures-ii-iv-1927.txt",
+      "startPattern": "^LECTURE II$"
+    },
+    "ru-on-denoting-whole-work-1574863b": {
+      "localPath": "research/source-cache/reading-unit-derived/russell-on-denoting-1905.txt"
+    },
+    "ru-on-the-electrodynamics-of-moving-bodies-introduction-introduction-96163ae0": {
+      "localPath": "research/source-cache/reading-unit-derived/einstein-electrodynamics-moving-bodies-introduction-1905.txt",
+      "startPattern": "^Introduction$"
+    },
+    "ru-psychology-from-the-standpoint-of-a-behaviorist-chapter-ix-4252160c": {
+      "localPath": "research/source-cache/reading-unit-derived/watson-psychology-behaviorist-chapter-ix-1919.txt",
+      "startPattern": "^CHAPTER IX$"
+    },
+    "ru-the-analysis-of-household-surveys-chapter-1-8c35d305": {
+      "localPath": "research/source-cache/reading-unit-derived/deaton-analysis-household-surveys-chapter-1.txt",
+      "startPattern": "^Chapter 1: The design and content of household surveys$",
+      "maximumUnitCharacters": 250000
+    },
+    "ru-the-point-of-view-for-my-work-as-an-author-appendix-appendix-8353c830": {
+      "localPath": "research/source-cache/reading-unit-derived/kierkegaard-crowd-untruth-appendix.txt",
+      "startPattern": "^On the Dedication to \"That Single Individual\"$"
+    },
+    "ru-the-theory-of-business-enterprise-chapter-3-7cbde3c0": {
+      "localPath": "research/source-cache/reading-unit-derived/veblen-theory-business-enterprise-chapter-3-1904.txt",
+      "startPattern": "^Chapter 3: Business Enterprise$"
+    },
+    "ru-the-theory-of-political-economy-chapter-iii-57601d8a": {
+      "localPath": "research/source-cache/reading-unit-derived/jevons-theory-political-economy-chapter-iii-1888.txt",
+      "startPattern": "^CHAPTER III THEORY OF UTILITY$"
+    },
+    "ru-discourses-and-mathematical-demonstrations-relat-day-third-8ecc561a": {
+      "localPath": "research/source-cache/reading-unit-derived/galileo-two-new-sciences-day-third-1914.txt",
+      "startPattern": "^THIRD DAY$",
+      "maximumUnitCharacters": 250000
+    },
+    "ru-educational-psychology-volume-ii-the-psychology--chapter-xii-563c7183": {
+      "localPath": "research/source-cache/reading-unit-derived/thorndike-educational-psychology-v2-chapter-xii.txt",
+      "startPattern": "^CHAPTER XII$",
+      "maximumUnitCharacters": 250000
+    },
+    "ru-educational-psychology-volume-iii-mental-work-an-chapter-viii-a5cebbf8": {
+      "localPath": "research/source-cache/reading-unit-derived/thorndike-educational-psychology-v3-chapter-viii.txt",
+      "startPattern": "^CHAPTER VIII$"
+    },
+    "ru-the-decisive-treatise-part-i-6fdef658": {
+      "localPath": "research/source-cache/reading-unit-derived/averroes-decisive-treatise-part-i-1921.txt",
+      "startPattern": "^A DECISIVE DISCOURSE ON THE DELINEATION OF THE RELATION BETWEEN RELIGION AND PHILOSOPHY$"
+    },
+    "ru-the-magical-number-seven-plus-or-minus-two-whole-work-9199af20": {
+      "localPath": "research/source-cache/reading-unit-derived/miller-magical-number-seven-1956-complete-paper.txt",
+      "startPattern": "^THE MAGICAL NUMBER SEVEN, PLUS OR MINUS TWO: SOME LIMITS ON OUR CAPACITY FOR PROCESSING INFORMATION$"
+    },
+    "ru-yoga-sutra-book-i-b70c96b7": {
+      "localPath": "research/source-cache/reading-unit-derived/woods-yoga-system-1914-book-i-collected-translation.txt",
+      "startPattern": "^BOOK FIRST—CONCENTRATION$"
+    },
+    "ru-confessions-book-viii-chapter-9-f8fe51a5": {
+      "startPattern": "^Chapter 9\\.",
+      "endPattern": "^Chapter 10\\."
+    },
+    "ru-dialogue-concerning-the-two-chief-world-systems-day-second-58feaf1b": {
+      "localPath": "research/source-cache/reading-unit-origins/web/galileo-dialogue-1661-eebo-tcp-a61244.xml",
+      "startPattern": "^GALILAEUS Galilaeus Lyncaeus, HIS SYSTEME OF THE WORLD\\. The Second Dialogue\\.",
+      "endPattern": "^GALILAEUS Galilaeus Lyncaeus, HIS SYSTEME OF THE WORLD\\. The Third Dialogue\\.",
+      "maximumUnitCharacters": 500000
+    },
+    "ru-evidential-analysis-of-the-meanings-of-terms-in--named-chapter-principle-56d7f81f": {
+      "startPattern": "^○理",
+      "endPattern": "^卷中$"
+    },
+    "ru-experiments-in-plant-hybridisation-whole-work-fb497fb0": {
+      "localPath": "research/source-cache/completion-mao-science/mendel-principles-heredity-bateson-1902.txt",
+      "startPattern": "^EXPERIMENTS IN PLANT-HYBRIDISATION\\.$",
+      "endPattern": "^ON HIERACIUM-HYBRIDS OBTAINED BY ARTIFICIAL FERTILISATION$"
+    },
+    "ru-groundwork-of-the-metaphysics-of-morals-section-i-8fdf4ce2": {
+      "endPattern": "^SEC_2$"
+    },
+    "ru-introduction-to-the-principles-of-human-knowledg-introduction-introduction-24de99dd": {
+      "startPattern": "^INTRODUCTION\\.$"
+    },
+    "ru-metaphysics-book-vii-chapter-17-c7d34642": {
+      "localPath": "research/source-cache/reading-unit-derived/aristotle-metaphysics-vii-17-ross.txt",
+      "startPattern": "^Chapter 17$"
+    },
+    "ru-on-faradays-lines-of-force-introduction-introduction-23863fee": {
+      "localPath": "research/source-cache/reading-unit-origins/web/maxwell-on-faradays-lines-of-force-wikisource.html",
+      "startPattern": "^VIII\\. On Faraday's Lines of Force\\s*\\.$",
+      "endPattern": "^I\\. Theory of the Motion of an incompressible Fluid\\.$"
+    },
+    "ru-on-liberty-chapter-ii-20d8c814": {
+      "localPath": "research/source-cache/reading-unit-origins/web/mill-on-liberty-chapter-2-wikisource.html",
+      "startPattern": "^CHAPTER II\\.$"
+    },
+    "ru-phenomenology-of-spirit-introduction-introduction-0c53ff8d": {
+      "endPattern": "^CONSCIOUSNESS$"
+    },
+    "ru-phenomenology-of-spirit-named-chapter-independence-and-dependence-of-sel-fc91b196": {
+      "endPattern": "^The Unhappy Consciousness$"
+    },
+    "ru-the-economics-of-biodiversity-the-dasgupta-revie-preface-preface-8c1c2502": {
+      "localPath": "research/source-cache/reading-unit-derived/dasgupta-biodiversity-2021-preface-clean.txt",
+      "startPattern": "^Preface$"
+    },
+    "ru-the-republic-book-iii-baa7aaf9": {
+      "localPath": "research/source-cache/reading-unit-origins/web/plato-republic-book-3-jowett-wikisource.html",
+      "startPattern": "^BOOK III\\s*\\.$"
+    },
+    "ru-the-republic-book-v-1381ba5c": {
+      "localPath": "research/source-cache/reading-unit-origins/web/plato-republic-book-5-jowett-wikisource.html",
+      "startPattern": "^BOOK V\\s*\\.$"
+    },
+    "ru-theological-political-treatise-chapter-15-aefa7b6e": {
+      "endPattern": "^End of Part 3"
+    },
+    "ru-enneads-ennead-vi-tractate-9-34ca2c91": {
+      "localPath": "research/source-cache/reading-unit-derived/plotinus-ennead-vi-tractate-9-mackenna.txt",
+      "startPattern": "^NINTH TRACTATE\\.$"
+    },
+    "ru-behaviorism-chapter-v-97ffd266": {
+      "localPath": "research/source-cache/reading-unit-derived/watson-behaviorism-1925-chapter-v.txt",
+      "startPattern": "^CHAPTER V$"
+    },
+    "ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241": {
+      "localPath": "research/source-cache/reading-unit-derived/kierkegaard-stages-in-vino-veritas-hollander-1923.txt",
+      "startPattern": "^PART I — IN VINO VERITAS \\(THE BANQUET\\)$",
+      "maximumUnitCharacters": 165000
+    },
+    "ru-the-economics-of-exhaustible-resources-whole-work-997380af": {
+      "localPath": "research/source-cache/reading-unit-derived/hotelling-exhaustible-resources-1931-complete-paper.txt",
+      "startPattern": "^THE ECONOMICS OF EXHAUSTIBLE RESOURCES$"
+    },
+    "ru-the-economics-of-welfare-part-ii-chapter-xiv-6cc3710f": {
+      "localPath": "research/source-cache/reading-unit-derived/pigou-economics-welfare-1920-part-ii-chapter-xiv.txt",
+      "startPattern": "^PART II — CHAPTER XIV$"
+    },
+    "ru-the-philosophy-of-history-introduction-introduction-21f23086": {
+      "localPath": "research/source-cache/reading-unit-derived/hegel-philosophy-history-sibree-1899-introduction.txt",
+      "startPattern": "^INTRODUCTION$",
+      "maximumUnitCharacters": 270000
+    },
+    "ru-tractatus-logico-philosophicus-major-proposition-7-e4bb0510": {
+      "minimumUnitCharacters": 40
+    }
+  },
+  "evidenceMethod": "Each override was accepted only after its local filename or stable remote edition identified the same work, and every routed registered source-language excerpt matched after Unicode, whitespace, and punctuation normalization.",
+  "evidenceBySourceUrl": {
+    "https://assets.aeaweb.org/asset-server/files/9442.pdf": [
+      "economics-modern-arrow-medical-care-uncertainty"
+    ],
+    "https://archive.org/details/NyayaSutra": [
+      "indian-nyaya-error-to-liberation",
+      "indian-nyaya-five-member-argument",
+      "indian-nyaya-four-means",
+      "indian-nyaya-perception-conditions",
+      "indian-nyaya-sixteen-categories",
+      "indian-nyaya-debate-modes"
+    ],
+    "https://archive.org/details/anenglishtransla00vaacuoft": [
+      "indian-samkhya-blind-lame",
+      "indian-samkhya-effect-preexists",
+      "indian-samkhya-many-purushas",
+      "indian-samkhya-three-gunas",
+      "indian-samkhya-threefold-suffering",
+      "indian-samkhya-unmanifest-manifest-knower"
+    ],
+    "https://archive.org/details/bhagavadgtwi00tela": [
+      "indian-gita-action-fruit",
+      "indian-gita-action-sustains-world",
+      "indian-gita-seeing-action"
+    ],
+    "https://archive.org/details/cu31924014578979": [
+      "hegel-actual-rational",
+      "hegel-owl-of-minerva",
+      "hegel-ethical-life",
+      "hegel-civil-society-dependence",
+      "hegel-poverty-rabble",
+      "hegel-state-concrete-freedom"
+    ],
+    "https://archive.org/details/educationalpsych02thor": [
+      "psychology-foundations-thorndike-practice-limits",
+      "psychology-foundations-thorndike-identical-elements"
+    ],
+    "https://archive.org/details/educationalpsych03thor": [
+      "psychology-foundations-thorndike-individual-differences"
+    ],
+    "https://archive.org/details/in.ernet.dli.2015.187610": [
+      "psychology-foundations-kohler-field-restructuring",
+      "psychology-foundations-kohler-insight"
+    ],
+    "https://archive.org/details/mimamsasutra00jaimuoft": [
+      "indian-mimamsa-injunction-dharma",
+      "indian-mimamsa-inquiry-dharma",
+      "indian-mimamsa-word-authority",
+      "indian-mimamsa-primary-auxiliary",
+      "indian-mimamsa-distinguishing-actions"
+    ],
+    "https://archive.org/details/sadhanarealisati00tago": [
+      "indian-tagore-self-in-relation",
+      "indian-tagore-narrow-self",
+      "indian-tagore-freedom-in-action"
+    ],
+    "https://archive.org/details/thevaiasesikasut00kanauoft": [
+      "indian-vaisheshika-category-errors",
+      "indian-vaisheshika-dharma-inquiry",
+      "indian-vaisheshika-nine-substances",
+      "indian-vaisheshika-universal-particular",
+      "indian-vaisheshika-atoms-composites",
+      "indian-vaisheshika-inherence"
+    ],
+    "https://archive.org/details/wg1101": [
+      "indian-yoga-four-attitudes"
+    ],
+    "https://archive.org/details/yogasystemofpata00pata": [
+      "indian-yoga-practice-dispassion",
+      "indian-yoga-three-inward-limbs"
+    ],
+    "https://cdn.mises.org/On%20the%20Origins%20of%20Money_5.pdf": [
+      "economics-principles-menger-origin-money"
+    ],
+    "https://commons.wikimedia.org/wiki/File:An_introduction_to_the_study_of_experimental_medicine_-_Translated_by_H.C._Greene_(IA_b21270557).pdf": [
+      "science-bernard-hypothesis",
+      "science-bernard-milieu-interieur"
+    ],
+    "https://commons.wikimedia.org/wiki/File:Gandhi_-_The_Story_of_My_Experiments_With_Truth,_vol._1.pdf": [
+      "indian-gandhi-experiment-truth"
+    ],
+    "https://ctext.org/mengzi/gong-sun-chou-i": [
+      "chinese-mencius-compassion-sprout",
+      "chinese-mencius-pulling-sprouts"
+    ],
+    "https://ctext.org/mengzi/jin-xin-ii": [
+      "chinese-mencius-critical-reading",
+      "chinese-mencius-people-first"
+    ],
+    "https://ctext.org/mozi/condemnation-of-offensive-war-i": [
+      "chinese-mozi-against-aggression"
+    ],
+    "https://ctext.org/mozi/exaltation-of-the-virtuous-i": [
+      "chinese-mozi-exalting-worthy"
+    ],
+    "https://ctext.org/mozi/universal-love-ii": [
+      "chinese-mozi-inclusive-care"
+    ],
+    "https://ctext.org/xunzi/quan-xue": [
+      "chinese-xunzi-learning-accumulates"
+    ],
+    "https://ctext.org/xunzi/tian-lun": [
+      "chinese-xunzi-constant-heaven"
+    ],
+    "https://ctext.org/xunzi/xing-e": [
+      "chinese-xunzi-transforming-nature"
+    ],
+    "https://ctext.org/zhuangzi/adjustment-of-controversies": [
+      "chinese-zhuangzi-butterfly-dream",
+      "chinese-zhuangzi-perspectival-claims"
+    ],
+    "https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease": [
+      "chinese-zhuangzi-small-and-great"
+    ],
+    "https://ctext.org/zhuangzi/floods-of-autumn": [
+      "chinese-zhuangzi-well-frog"
+    ],
+    "https://ctext.org/zhuangzi/great-and-most-honoured-master": [
+      "chinese-zhuangzi-sitting-forgetting"
+    ],
+    "https://ctext.org/zhuangzi/man-in-the-world-associated-with": [
+      "chinese-zhuangzi-fasting-mind"
+    ],
+    "https://ctext.org/zhuangzi/nourishing-the-lord-of-life": [
+      "chinese-zhuangzi-cook-ding"
+    ],
+    "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html": [
+      "science-darwin-struggle",
+      "science-darwin-selection",
+      "science-darwin-variation",
+      "science-darwin-fossil-record",
+      "science-darwin-biogeography",
+      "science-darwin-classification"
+    ],
+    "https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5": [
+      "psychology-foundations-ebbinghaus-meaning"
+    ],
+    "https://galileoandeinstein.phys.virginia.edu/tns_draft/tns_160to243.html": [
+      "science-galileo-inclined-plane"
+    ],
+    "https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf": [
+      "economics-hayek-dispersed-knowledge",
+      "economics-hayek-price-signal"
+    ],
+    "https://gwern.net/doc/psychology/personality/1946-asch.pdf": [
+      "psychology-social-asch-central-traits",
+      "psychology-social-asch-impression-whole",
+      "psychology-social-asch-order"
+    ],
+    "https://jwclegg.org/psy329/readings/Bandura.pdf": [
+      "psychology-social-bandura-observational-learning"
+    ],
+    "https://library.oarcloud.noaa.gov/docs.lib/htdocs/rescue/Rarebook_treasures/QC503F211839_PDF/QC503F211839v3.pdf": [
+      "science-faraday-magneto-optics",
+      "science-faraday-lines-force"
+    ],
+    "https://ntrs.nasa.gov/citations/19840008978": [
+      "science-heisenberg-conjugate-limits",
+      "science-heisenberg-microscope"
+    ],
+    "https://psychclassics.yorku.ca/Ebbinghaus/index.htm": [
+      "psychology-foundations-ebbinghaus-nonsense-syllables"
+    ],
+    "https://psychclassics.yorku.ca/Ebbinghaus/memory6.htm": [
+      "psychology-foundations-ebbinghaus-overlearning"
+    ],
+    "https://psychclassics.yorku.ca/Ebbinghaus/memory7.htm": [
+      "psychology-foundations-ebbinghaus-forgetting-time",
+      "psychology-foundations-ebbinghaus-savings"
+    ],
+    "https://psychclassics.yorku.ca/Pavlov/lecture17.htm": [
+      "psychology-foundations-pavlov-experimental-neurosis"
+    ],
+    "https://psychclassics.yorku.ca/Pavlov/lecture2.htm": [
+      "psychology-foundations-pavlov-acquisition-extinction",
+      "psychology-foundations-pavlov-signal"
+    ],
+    "https://psychclassics.yorku.ca/Pavlov/lecture7.htm": [
+      "psychology-foundations-pavlov-discrimination",
+      "psychology-foundations-pavlov-generalization"
+    ],
+    "https://psychclassics.yorku.ca/Watson/views.htm": [
+      "psychology-foundations-watson-observable-behavior",
+      "psychology-foundations-watson-prediction-control"
+    ],
+    "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy03.htm": [
+      "psychology-foundations-wundt-experiment-control"
+    ],
+    "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy07.htm": [
+      "psychology-foundations-wundt-feeling-dimensions"
+    ],
+    "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy15.htm": [
+      "psychology-foundations-wundt-apperception"
+    ],
+    "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf": [
+      "psychology-social-festinger-insufficient-justification"
+    ],
+    "https://web.stanford.edu/class/msande314/arrow-debreu.pdf": [
+      "economics-principles-arrow-debreu-equilibrium-existence"
+    ],
+    "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html": [
+      "science-humboldt-connections",
+      "science-humboldt-plant-geography"
+    ],
+    "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html": [
+      "science-galileo-milky-way",
+      "science-galileo-jupiter",
+      "science-galileo-moon"
+    ],
+    "https://www.gutenberg.org/cache/epub/60956/pg60956-images.html": [
+      "science-pasteur-airborne-contamination"
+    ],
+    "https://www.gutenberg.org/cache/epub/72787/pg72787-images.html": [
+      "science-bohr-stationary-states"
+    ],
+    "https://www.gutenberg.org/ebooks/40461": [
+      "indian-gandhi-self-rule",
+      "indian-gandhi-machinery-test",
+      "indian-gandhi-means-shape-ends",
+      "indian-gandhi-satyagraha"
+    ],
+    "https://www.gutenberg.org/files/14986/14986-h/14986-h.htm": [
+      "science-faraday-induction",
+      "science-faraday-electricities"
+    ],
+    "https://www.gutenberg.org/files/3300/3300-h/3300-h.htm": [
+      "economics-smith-division-specialization",
+      "economics-smith-market-extent",
+      "economics-smith-local-knowledge-exchange",
+      "economics-smith-public-works"
+    ],
+    "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm": [
+      "economics-ricardo-rent-margin",
+      "economics-ricardo-comparative-advantage",
+      "economics-ricardo-distribution"
+    ],
+    "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm": [
+      "science-newton-analysis-synthesis"
+    ],
+    "https://www.gutenberg.org/files/44138/44138-h/44138-h.htm": [
+      "psychology-foundations-wundt-cultural-processes"
+    ],
+    "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm": [
+      "francis_bacon",
+      "francis-bacon-ladder",
+      "francis-bacon-light-fruit",
+      "francis-bacon-method",
+      "science-bacon-bee",
+      "science-bacon-gradual-induction",
+      "science-bacon-organized-experiment",
+      "science-bacon-negative-instances"
+    ],
+    "https://www.gutenberg.org/files/67363/67363-h/67363-h.htm": [
+      "economics-smith-moral-spectator"
+    ],
+    "https://www.gutenberg.org/files/69362/69362-h/69362-h.htm": [
+      "science-mendel-gametes",
+      "science-mendel-design",
+      "science-mendel-ratios"
+    ],
+    "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm": [
+      "psychology-foundations-thorndike-law-effect",
+      "psychology-foundations-thorndike-puzzle-box"
+    ],
+    "https://www.gutenberg.org/files/72800/72800-h/72800-h.htm": [
+      "science-bohr-complementarity",
+      "science-bohr-quantum-postulate"
+    ],
+    "https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review": [
+      "economics-modern-dasgupta-biodiversity-inclusive-wealth"
+    ],
+    "https://www.haverford.edu/sites/default/files/Nash1950.pdf": [
+      "economics-principles-nash-bargaining"
+    ],
+    "https://www.math.toronto.edu/mccann/assignments/477/Hotelling29.pdf": [
+      "economics-principles-hotelling-spatial-competition"
+    ],
+    "https://www.mea.gov.in/books-writings-of-ambedkar": [
+      "indian-ambedkar-endogamy"
+    ],
+    "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture?print=1": [
+      "science-curie-radioactive-atom"
+    ]
+  }
+}

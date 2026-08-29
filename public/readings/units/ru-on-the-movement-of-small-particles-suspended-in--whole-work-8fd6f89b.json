@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-the-movement-of-small-particles-suspended-in--whole-work-8fd6f89b",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《论热的分子运动论所要求的静液体中悬浮粒子的运动》",
+  "englishWork": "On the Movement of Small Particles Suspended in Stationary Liquids Required by the Molecular-Kinetic Theory of Heat",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 原书扫描，A. D. Cowper 1926 年英译，《布朗运动理论研究》第 4 节第 18 页，均方位移公式之后的连续结论句",
+  "englishVersion": "Wikisource scan, A. D. Cowper translation (1926), Investigations on the Theory of the Brownian Movement, §4, p. 18, continuous conclusion immediately after the mean-square-displacement formula",
+  "sourceUrl": "https://en.wikisource.org/wiki/File:Investigations_on_the_theory_of_the_Brownian_Movement,_by_Albert_Einstein.pdf",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "2f36e85ae179ecd446925d0ef22ad84ac9fe0f9c5147d4198d8e14a0f46d5b28"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "5b8e8ef2eeb021b81d43816d46963b9a7756519c04d371fc96641bc9185900d0",
+  "inputHash": "28750b88395728b053fc6b75d32f1b59ccd96cd6232e07d243438b25cb9bd10c",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "ON THE MOVEMENT OF SMALL PARTICLES SUSPENDED IN A STATIONARY LIQUID DEMANDED BY THE MOLECULAR-KINETIC THEORY OF HEAT"
+    },
+    {
+      "id": "p0002",
+      "text": "INVESTIGATIONS ON THE THEORY OF THE BROWNIAN MOVEMENT I ON THE MOVEMENT OF SMALL PARTICLES"
+    },
+    {
+      "id": "p0003",
+      "text": "SUSPENDED IN A STATIONARY LIQUID DEMANDED BY THE MOLECULAR- KINETIC THEORY OF HEAT N this paper it will be shown that according I. the molecular-kinetic theory of heat, bodies of microscopically-visible size suspended in a liquid will perform movements of such magnitude that they can be easily observed in a microscope, on account of the molecular motions of heat. It is possible that the movements to be discussed here are identical with the so-called ‘‘ Brownian molecular motion’’; however, the information available to me regarding the latter is so lacking in precision, that I can form no judgment in the matter (1). If the movement discussed here can actually be observed (together with the laws relating to"
+    },
+    {
+      "id": "p0004",
+      "text": "it that one would expect to find), then classical thermodynamics can no longer be looked upon as applicable with precision to bodies even of dimensions distinguishable in a microscope: an exact determination of actual atomic dimensions is then possible. On the other hand, had the prediction of this movement proved to be incorrect, a weighty argument would be provided against the molecular-kinetic conception of heat."
+    },
+    {
+      "id": "p0005",
+      "text": "§1. ON THE OSMOTIC PRESSURE TO BE ASCRIBED"
+    },
+    {
+      "id": "p0006",
+      "text": "TO THE SUSPENDED PARTICLES"
+    },
+    {
+      "id": "p0007",
+      "text": "Let z gram-molecules of a non-electrolyte be dissolved in a volume V* forming part of a quantity of liquid of total volume V. If the volume V* is separated from the pure solvent by a partition permeable for the solvent but impermeable for the solute, a so-called ‘‘ osmotic pressure,”’ ~, is exerted on this partition, which satisfies the equation"
+    },
+    {
+      "id": "p0008",
+      "text": "pV*=RTz . , . (2) when V*/z is sufficiently great."
+    },
+    {
+      "id": "p0009",
+      "text": "On the other hand, if small suspended particles are present in the fractional volume V* in place of the dissolved substance, which particles are also unable to pass through the partition permeable to the solvent : according to the classical theory of"
+    },
+    {
+      "id": "p0010",
+      "text": "thermodynamics—at least when the force of gravity (which does not interest us here) is ignored—we would not expect to find any force acting on the partition ; for according to ordinary conceptions the “‘ free energy’ of the system appears to be independent of the position of the partition and of the suspended particles, but dependent only on the total mass and qualities of the suspended material, the liquid and the partition, and on the pressure and temperature. Actually, for the calculation of the free energy the energy and entropy of the boundary-surface (surface-tension forces) should also be considered ; these can be excluded if the size and condition of the surfaces of contact do not alter with the changes in position of the partition and of the suspended particles under | consideration."
+    },
+    {
+      "id": "p0011",
+      "text": "But a different conception is reached from the standpoint of the molecular-kinetic theory of heat. According to this theory a dissolved molecule is differentiated from a suspended body solely by its dimensions, and it is not apparent why a number of suspended particles should not produce the same osmotic pressure as the same number of molecules. We must assume that the suspended particles perform an irregular movement—even if a very slow one—in the liquid, on"
+    },
+    {
+      "id": "p0012",
+      "text": "a"
+    },
+    {
+      "id": "p0013",
+      "text": "account of the molecular movement of the liquid ; if they are prevented from leaving the volume V* by the partition, they will exert a pressure on the partition just like molecules in solution. Then, if there are suspended particles present in the volume V*, and therefore ”/V* = v in a unit of volume, and if neighbouring particles are sufficiently far separated, there will be a corresponding osmotic pressure # of magnitude given by pakin KT, ~ V¥N N ° where N signifies the actual number of molecules contained in a gram-molecule. It will be shown in the next paragraph that the molecular-kinetic theory of heat actually leads to this wider conception of osmotic pressure. | § 2. OSMOTIC PRESSURE FROM THE STANDPOINT OF THE MOLECULAR-KINETIC THEORY OF HEAT (*) If p,, pa,.-- 1 are the variables of state of (*) In this paragraph the papers of the author on the ‘‘ Foundations of Thermodynamics ’”’ are assumed to be familiar to the reader (Ann. d. Phys., 9, p. 417, 1902; 11, p. 170, 1903). An understanding of the conclusions reached in the present paper is not dependent on a knowledge of the former papers or of this paragraph of the present paper."
+    },
+    {
+      "id": "p0014",
+      "text": "MOVEMENT OF SMALL PARTICLES 5 |"
+    },
+    {
+      "id": "p0015",
+      "text": "a physical system which completely define the instantaneous condition of the system (for example, the co-ordinates and velocity components of all atoms of the system), and if the complete system of the equations of change of these variables of state is given in the form"
+    },
+    {
+      "id": "p0016",
+      "text": "Py"
+    },
+    {
+      "id": "p0017",
+      "text": "Pe bby... bi) v= 1,2,...0 whence"
+    },
+    {
+      "id": "p0018",
+      "text": "dy then the entropy of the system is given by the expression E z"
+    },
+    {
+      "id": "p0019",
+      "text": "Sa a+ 2% Ig|e-mrap, dp. (3) where TJ is the absolute temperature, E the energy of the system, E the energy as a function of 4,. The integral is extended over all possible values of p, consistent with the conditions of the problem. 4% is connected with the constant N referred to before by the relation 2xN = R. We obtain hence for the free energy fF,"
+    },
+    {
+      "id": "p0020",
+      "text": "R _EN RT"
+    },
+    {
+      "id": "p0021",
+      "text": "F=—<T ig\\e dp, .. . dpi = — Ig B."
+    },
+    {
+      "id": "p0022",
+      "text": "Now let us consider a quantity of liquid enclosed in a volume V; let there be m solute molecules (or suspended particles respectively) in the portion V* of this volume V, which are retained in the volume V* by a semi-permeable partition ; the integration limits of the integral B obtained in the expressions for S and F will be affected accordingly. The combined volume of the solute molecules (or suspended particles) is taken as small compared with V*. This system will be completely defined according to the theory under discussion by the variables of condition pf, . . . #1."
+    },
+    {
+      "id": "p0023",
+      "text": "If the molecular picture were extended to deal with every single unit, the calculation of the integral B would offer such difficulties that an exact calculation of F could be scarcely contemplated. Accordingly, we need here only to know how F depends on the magnitude of the volume V*, in which all the solute molecules, or suspended"
+    },
+    {
+      "id": "p0024",
+      "text": "} bodies (hereinafter termed briefly “ particles ’’) are contained."
+    },
+    {
+      "id": "p0025",
+      "text": "We will call x,, ,, 2, the rectangular co-ordinates of the centre of gravity of the first particle, %s, Yq, 23 those of the second, etc., %, Ya, 2, those of the last particle, and allocate for the centres of gravity of the particles the indefinitely small domains of parallelopiped form @x,, dy,, dz,; dx,"
+    },
+    {
+      "id": "p0026",
+      "text": "dy,, dz3, . . . d%q_, dy,, &z,, lying wholly within V*. The value of the integral appearing in the expression for F will be sought, with the limitation tuat the centres of gravity of the particles lie within a domain defined in this manner. The integral can then be brought into the form"
+    },
+    {
+      "id": "p0027",
+      "text": "aB = dx, dy,.. .dz. TJ, where J is independent of @x,, dy,, etc., as well as of V*, i.e. of the position of the semi-permeable partition. But J is also independent of any special choice of the position of the domains of the centres of gravity and of the magnitude of V*, as will be shown immediately. For if a second system were given, of indefinitely small domains of the centres of gravity of the particles, and the latter designated dx,'dy,'dz,\" ; dx,'dy,'dz,’. .. . AX,'dy,'dz,’, which domains differ from those originally given in their position but not in their magnitude, and are similarly all contained in V*, an analogous expression holds :— dB’ = dx,'dy,’... dz,’ . J’. Whence Ax,dy,... dz, = dx,'dy,'... dz’. Therefore aB_J db’ J’"
+    },
+    {
+      "id": "p0028",
+      "text": "But from the molecular theory of Heat given in the paper quoted,(*) it is easily deduced that dB/B (4) (or dB’/B respectively) is equal to the probability that at any arbitrary moment of time the centres of gravity of the particles are included in the domains (dx, ...dZ,) or (dx,'...dz,') respectively. Now, if the movements of single particles are independent of one another to a sufficient degree of approximation, if the liquid is homogeneous and exerts no force on the particles, then for equal size of domains the probability of each of the two systems will be equal, so that the following holds : aB _ abi B” B’ But from this and the last equation obtained it follows that J=J.. : We have thus proved that J is independent both of V* and of %,, ¥1,...2,. By integration we , obtain B= [ Jdx,... dz, = J.V*n, and thence f=— “fle J + nlg V*} (*) A. Einstein, Ann. d. Phys., 11, p. 170, 1903."
+    },
+    {
+      "id": "p0029",
+      "text": "and wo RIE n RT P= — aye = Ve NN”"
+    },
+    {
+      "id": "p0030",
+      "text": "It has been shown by this analysis that the existence of an osmotic pressure can be deduced from the molecular-kinetic theory of Heat; and that as far as osmotic pressure is concerned, solute molecules and suspended particles are, according to this theory, identical in their behaviour at great dilution."
+    },
+    {
+      "id": "p0031",
+      "text": "§ 3. THEORY OF THE DIFFUSION OF SMALL"
+    },
+    {
+      "id": "p0032",
+      "text": "SPHERES IN SUSPENSION"
+    },
+    {
+      "id": "p0033",
+      "text": "Suppose there be suspended particles irregularly dispersed in a liquid. We will consider their state of dynamic equilibrium, on the assumption that a force K acts on the single particles, which force depends on the position, but not on the time. It will be assumed for the sake of simplicity that the force is exerted everywhere in the direction of the x axis. |"
+    },
+    {
+      "id": "p0034",
+      "text": "Let v be the number of suspended particles per unit volume ; then in the condition of dynamic equilibrium v is such a function of x that the variation of the free energy vanishes for an arbitrary virtual displacement 6x of the suspended substance. We have, therefore,"
+    },
+    {
+      "id": "p0035",
+      "text": "6F = sE — TiS = 0."
+    },
+    {
+      "id": "p0036",
+      "text": "It will be assumed that the liquid has unit area of cross-section perpendicular to the x axis and is bounded by the planes x => 0 and x*=/. We have, then, l SE = — | Kv8xdx 0 and bv vox R | Ov"
+    },
+    {
+      "id": "p0037",
+      "text": "The required condition of equilibrium is there-"
+    },
+    {
+      "id": "p0038",
+      "text": "fore"
+    },
+    {
+      "id": "p0039",
+      "text": "RT dv (I) — Kv+ WV 7 or"
+    },
+    {
+      "id": "p0040",
+      "text": "op __"
+    },
+    {
+      "id": "p0041",
+      "text": "Kv — sp . - (5) The last equation states that equilibrium with the force K is brought about by osmotic pressure : forces."
+    },
+    {
+      "id": "p0042",
+      "text": "Equation (I) can be used to find the coefficient of diffusion of the suspended substance. We can look upon the dynamic equilibrium condition considered here as a superposition of two processes proceeding in opposite directions, namely :—"
+    },
+    {
+      "id": "p0043",
+      "text": "1. A movement of the suspended substance under the influence of the force A acting on each single suspended particle."
+    },
+    {
+      "id": "p0044",
+      "text": "2. A process of diffusion, which is to be looked upon as a result of the irregular movement of the particles produced by the thermal molecular movement."
+    },
+    {
+      "id": "p0045",
+      "text": "If the suspended particles have spherical form (radius of the sphere = P), and if the liquid has a coefficient of viscosity k, then the force AK imparts to the single particles a velocity (*)"
+    },
+    {
+      "id": "p0046",
+      "text": "K 67kP e ° ® (6) and there will pass a unit area per unit of time vie 6r7kP particles."
+    },
+    {
+      "id": "p0047",
+      "text": "If, further, D signifies the coefficient of diffusion of the suspended substance, and p» the mass of a particle, as the result of diffusion there will pass across unit area in a unit of time, |"
+    },
+    {
+      "id": "p0048",
+      "text": "— ner) D-~ grams or — p™ articles ax P"
+    },
+    {
+      "id": "p0049",
+      "text": "(*) Cf. e.g. G. Kirchhoff, ‘‘ Lectures on Mechanics,”"
+    },
+    {
+      "id": "p0050",
+      "text": "Lect. 26, § 4."
+    },
+    {
+      "id": "p0051",
+      "text": "Since there must be dynamic equilibrium, we must have wh ov (2) 6nkP 5% =o We can calculate the coefficient of diffusion from the two conditions (1) and (2) found for the dynamic equilibrium. We get RT 1 D=\"N 6rkP CW) The coefficient of diffusion of the suspended substance therefore depends (except for universal constants and the absolute temperature) only on the coefficient of viscosity of the liquid and on the size of the suspended particles. § 4. ON THE IRREGULAR MOVEMENT OF PARTICLES SUSPENDED IN A LIQUID AND THE RELATION OF THIS TO DIFFUSION We will turn now to a closer consideration of the irregular movements which arise from thermal molecular movement, and give rise to the diffusion investigated in the last paragraph. ' Evidently it must be assumed that each single particle executes a movement which is independent of the movement of all other particles ; the movements of one and the same particle after"
+    },
+    {
+      "id": "p0052",
+      "text": "different intervals of time must be considered as mutually independent processes, so long as we think of these intervals of time as being chosen not too small."
+    },
+    {
+      "id": "p0053",
+      "text": "We will introduce a time-interval 7 in our discussion, which is to be very small compared with the observed interval of time, but, nevertheless, of such a magnitude that the movements executed by a particle in two consecutive intervals of time + are to be considered as mutually independent phenomena (8)."
+    },
+    {
+      "id": "p0054",
+      "text": "Suppose there are altogether m suspended particles in a liquid. In an interval of time 7 the x-co-ordinates of the single particies will increase by 4, where 4 has a ditierent value (positive or negative) for each particie. For the value of 4 a certain probadilitv-law wil hold; the number dm of the particles which experience in the tirmeinterval + a disp-acement wich lies besween JZ and 4 + dJ, wii be expressed by an equation of the form"
+    },
+    {
+      "id": "p0055",
+      "text": "dy = ns’ J 24, where ¢4atq1 and 4 only G:=érs from zero for very srmall wales of A and filets te contitica"
+    },
+    {
+      "id": "p0056",
+      "text": "We will investigate now how the coefficient of diffusion depends on ¢, confining ourselves again to the case when the number » of the particles per unit volume is dependent only on x and ¢. Putting for the number of particles per unit volume v = f(x, ¢), we will calculate the distribution of the particles at a time ¢ + 7 from the distribution at the time #. From the definition of the function ¢(4), there is easily obtained the number of the particles which are located at the time ¢ + 7 between two planes perpendicular to the x-axis, with abscisse x and x + dx. We get A=+o fi, t+ rdx = dx. |\" fle + ag(aaa. Now, since 7 is very small, we can put r) f%,t+7)=flx,)+ rw Further, we can expand f(x + 4, ¢) in powers of 4 :— f(x, ft) , 4? a3f(x, t) , We can bring this expansion under the integral sign, since only very small values of 4 contribute anything to the latter. We obtain of + ox rt fr yraf| MAWdd+ \"Aga + c of, A? +2 ZH) Lies"
+    },
+    {
+      "id": "p0057",
+      "text": "On the right-hand side the second, fourth, etc., terms vanish since ¢(x) = ¢(— x); whilst of the first, third, fifth, etc., terms, every succeeding term 1s very small compared with the preceding. Bearing in mind that"
+    },
+    {
+      "id": "p0058",
+      "text": "+ @ [gaya = 1, and putting + oo If 4 : | a H4)dd = D, and taking into consideration only the first and third terms on the right-hand side, we get from this equation sf of (3) vi eye"
+    },
+    {
+      "id": "p0059",
+      "text": "This is the well-known differential equation for diffusion, and we recognise that D is the coefficient of diffusion. |"
+    },
+    {
+      "id": "p0060",
+      "text": "Another important consideration can be related to this method of development. We have assumed that the single particles are all referred to the same co-ordinate system. But this is unnecessary, since the movements of the single particles are mutually independent. We will now refer the motion of each particle to a co-ordinate"
+    },
+    {
+      "id": "p0061",
+      "text": "system whose origin coincides at the time ¢ = 0 with the position of the centre of gravity of the particles in question ; with this difference, that f(x, t)dx now gives the number of the particles whose x co-ordinate has increased between the time ¢=o and the time ¢=#, by a quantity which lies between x and x + dx. In this case also the function f must satisfy, in its changes, the equation (1). Further, we must evidently"
+    },
+    {
+      "id": "p0062",
+      "text": "have for x 70 and # =o,"
+    },
+    {
+      "id": "p0063",
+      "text": "< + o f(%, 4) =o and j f(x, Hdx = n. The problem, which accords with the problem of the diffusion outwards from a point (ignoring possibilities of exchange between the diffusing particles) is now mathematically completely defined (9); the solution is x2 n e 4Dt b) == a ‘ ° IO fe ) = Gem (10) The probable distribution of the resulting displacements in a given time # is therefore the same as that of fortuitous error, which was to be expected. But it is significant how the constants in the exponential term are related to the coefficient of diffusion. We will now calculate with the help"
+    },
+    {
+      "id": "p0064",
+      "text": "of this equation the displacement 4, in the direction of the X-axis which a particle experiences on an average, or—more accurately expressed—the square root of the arithmetic mean of the squares of displacements in the direction of the X-axis ; it 1s"
+    },
+    {
+      "id": "p0065",
+      "text": "waNxt=/2Dt . . (12)"
+    },
+    {
+      "id": "p0066",
+      "text": "The mean displacement is therefore proportional to the square root of the time. It can easily be shown that the square root of the mean of the squares of the total displacements of the particles has the value An/3 . 32. ~—.:s«(12) § 5. FORMULA FOR THE MEAN DISPLACEMENT OF"
+    },
+    {
+      "id": "p0067",
+      "text": "SUSPENDED PARTICLES. A NEW METHOD OF DETERMINING THE REAL SIZE OF THE ATOM In § 3 we found for the coefficient of diffusion D of a material suspended in a liquid in the form of small spheres of radius P— RT 1 an N 6nkP” Further, we found in § 4 for the mean value of the displacement of the particles in the direction of the X-axis in time t— de = »/2Di."
+    },
+    {
+      "id": "p0068",
+      "text": "By eliminating D we obtain —- {RT 1 m= i 3akP This equation shows how 4, depends on T, k, and P. We will calculate how great A, is for one second, if N is taken equal to 6-10* in accordance with the kinetic theory of gases, water at 17° C. is chosen as the liquid (k = 1°35. 10-*), and the diameter of the particles ool mm. We get Az, = 8-1075 cm. = 0-8y. The mean displacement in one minute would be, therefore, about 6p. On the other hand, the relation found can be used for the determination of N. We obtain I RT It is to be hoped that some enquirer may succeed shortly in solving the problem suggested here, which is so important in connection with the theory of Heat. (13) Berne, May, 1905. (Received, 11 May, 1905.)"
+    }
+  ],
+  "anchors": {
+    "science-einstein-brownian-evidence": {
+      "paragraphId": "p0066",
+      "start": 0,
+      "end": 79,
+      "quote": "The mean displacement is therefore proportional to the square root of the time.",
+      "match": "normalized-exact"
+    }
+  }
+}

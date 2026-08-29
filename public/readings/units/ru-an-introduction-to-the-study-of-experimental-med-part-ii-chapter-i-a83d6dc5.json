@@ -1,0 +1,647 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-introduction-to-the-study-of-experimental-med-part-ii-chapter-i-a83d6dc5",
+  "title": "部分 II · 章 I",
+  "englishTitle": "Part II · Chapter I",
+  "work": "《实验医学研究导论》",
+  "englishWork": "An Introduction to the Study of Experimental Medicine",
+  "locator": "部分 II · 章 I",
+  "englishLocator": "Part II · Chapter I",
+  "version": "Wikimedia Commons 公版扫描并由 Faded Page 转录复核，Greene 1927 年英译，第二部分第1章第III节，第64页，以“In living beings the internal environment”开头的连续原文",
+  "englishVersion": "Wikimedia Commons public-domain scan cross-checked against the Faded Page transcription, Greene translation (1927), Part II, Chapter I, §III, p. 64, continuous passage beginning “In living beings the internal environment”",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_introduction_to_the_study_of_experimental_medicine_-_Translated_by_H.C._Greene_(IA_b21270557).pdf",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "3073114c21c36dc5125ea91fd5867a7b2f386cea057c255243eb8c6fdadc2a5a"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "c314054a0188cf6a881edb4c00ccace55500a3f51b8be05bda16afcda18fd005",
+  "inputHash": "0783278fa409382bcdd13ca249b4ea74f911c3d2c210b0d7145343aa651ae8b2",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER I"
+    },
+    {
+      "id": "p0002",
+      "text": "EXPERIMENTAL CONSIDERATIONS COMMON TO LIVING THINGS AND INORGANIC BODIES"
+    },
+    {
+      "id": "p0003",
+      "text": "1. The Spontaneity of Living Beings Is no Obstacle to the"
+    },
+    {
+      "id": "p0004",
+      "text": "Use of Experimentation"
+    },
+    {
+      "id": "p0005",
+      "text": "The spontaneity enjoyed by beings endowed with life has been one of the principal objections urged against the use of experi- mentation in biological studies. Every living being indeed appears to us provided with a kind of inner force, which presides over mani- festations of life more and more independent of general cosmic in- fluence in proportion as the being rises higher in the scale of organi- zation. In the higher animals and in man, for instance, this vital force seems to result in withdrawing the living being from general physico-chemical influences and thus making the experimental ap- proach very difiicult."
+    },
+    {
+      "id": "p0006",
+      "text": "Inorganic bodies offer no parallel; whatever their nature, they are all devoid of spontaneity. As the manifestation of their prop- erties is therefore absolutely bound up in the physico-chemical con- ditions surrounding them and forming their environment, it follows that the experimenter can reach them and alter them at will."
+    },
+    {
+      "id": "p0007",
+      "text": "On the other hand, all the phenomena of a living body are in such reciprocal harmony one with another that it seems impossible to separate any part without at once disturbing the whole organ- ism. Especially in higher animals, their more acute sensitiveness brings with it still more notable reactions and disturbances."
+    },
+    {
+      "id": "p0008",
+      "text": "Many physicians and speculative physiologists, with certain anatomists and naturalists, employ these various arguments to attack experimentation on living beings. They assume a vital force in opposition to physico-chemical forces, dominating all the phenomena"
+    },
+    {
+      "id": "p0009",
+      "text": "59"
+    },
+    {
+      "id": "p0010",
+      "text": "60"
+    },
+    {
+      "id": "p0011",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0012",
+      "text": "of life, subjecting them to entirely separate laws, and making the organism an organized whole which the experimenter may not touch without destroying the quality of life itself. They even go so far as to say that inorganic bodies and living bodies differ radically from this point of view, so that experimentation is applicable to the former and not to the latter. Cuvier, who shares this opinion and thinks that physiology should be a science of observation and of de- ductive anatomy, expresses himself thus: \"All parts of a living body are interrelated ; they can act only in so far as they act all together ; trying to separate one from the whole means transferring it to the realm of dead substances; it means entirely changing its essence.\""
+    },
+    {
+      "id": "p0013",
+      "text": "If the above objections were well founded, we should either have to recognize that determinism is impossible in the phenomena of life, and this would be simply denying biological science ; or else we should have to acknowledge that vital force must be studied by special methods, and that the science of life must rest on different principles from the science of inorganic bodies. These ideas, which were current in other times, are now gradually disappearing; but it is essential to extirpate their very last spawn, because the so-called vitalistic ideas still remaining in certain minds are really an obstacle to the progress of experimental science."
+    },
+    {
+      "id": "p0014",
+      "text": "I propose, therefore, to prove that the science of vital phenomena must have the same foundations as the science of the phenomena of inorganic bodies, and that there is no difference in this respect be- tween the principles of biological science and those of physico-chem- ical science. Indeed, as we have already said, the goal which the experimental method sets itself is everywhere the same ; it. consists in connecting natural phenomena with their necessary conditions or with their immediate causes. In biology, since these conditions are known, physiologists can guide the manifestation of vital phenomena as physicists guide the natural phenomena, the laws of which they have discovered ; but in doing so, experimenters do not act on life."
+    },
+    {
+      "id": "p0015",
+      "text": "Yet there is absolute determinism in all the sciences, because every phenomenon being necessarily linked with physico-chemical conditions, men of science can alter them to master the phenomenon, i.e., to prevent or to promote its appearing. As to this, there is absolutely no question in the case of inorganic bodies. I mean to prove that it is the same with living bodies, and that for them also determinism exists."
+    },
+    {
+      "id": "p0016",
+      "text": "OF EXPEKIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0017",
+      "text": "61"
+    },
+    {
+      "id": "p0018",
+      "text": "II. Manifestation of Pkopeeties of Living Bodies Is Con- nected WITH THE Existence of Certain Physico-Chemical Phenomena Which Regulate Their Appearance"
+    },
+    {
+      "id": "p0019",
+      "text": "The manifestation of properties of inorganic bodies is connected with surrounding conditions of temperature and moisture by means of which the experimenter can directly govern mineral phenomena. Living bodies at first sight do not seem capable of being thus influenced by neighboring physico-chemical conditions; but that is merely a delusion depending on the animal having and maintaining within himself the conditions of warmth and moisture necessary to the appearance of vital phenomena. The result is that an inert body, obedient to cosmic conditions, is linked with all their variations, while a living body on the contrary remains independent and free in its manifestations ; it seems animated by an inner force that rules all its acts and liberates it from the influence of surrounding physico- chemical variations and disturbances. This quite different aspect of the manifestations of living bodies as compared with the behavior of inorganic bodies has led the psysiologists, called vitalists, to at- tribute to the former a vital force ceaselessly at war with physico- chemical forces and neutralizing their destructive action on the living organism. According to this view, the manifestations of life are determined by spontaneous action of this special vital force, instead of being, like the manifestations of inorganic bodies, the necessary re- sults of conditions or of the physico-chemical influences of a surround- ing environment. But if we consider it, we shall soon see that the spontaneity of living bodies is simply an appearance and the result of a certain mechanism in completely determined environ- ments; so that it will be easy, after all, to prove that the behavior of living bodies, as well as the behavior of inorganic bodies, is domi- nated by a necessary determinism linking them with conditions of a purely physico-chemical order."
+    },
+    {
+      "id": "p0020",
+      "text": "Let us note, first of all, that this kind of independence of living beings in the cosmic environment appears only in complex higher animals. Inferior beings, such as the infusoria, reduced to an ele- mentary organism, have no real independence. These creatures exhibit the vital properties with which they are endowed, only under the influence of external moisture, light or warmth, and as soon as one or more of these conditions happens to fail, the vital manifes-"
+    },
+    {
+      "id": "p0021",
+      "text": "62"
+    },
+    {
+      "id": "p0022",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0023",
+      "text": "tation ceases, because the parallel physico-chemical phenomenon has stopped. In vegetables the manifestation of vital phenomena is linked in the same way with conditions of warmth, moisture and light in the surrounding environment. It is the same again with cold-blooded animals; the phenomena of life are benumbed or stimulated accord- ing to the same conditions. Now the influences producing or re- tarding vital manifestations in living beings are exactly the same as those which produce, accelerate or retard manifestations of physr ico-chemical phenomena in inorganic bodies, so that instead of fol- lowing the example of the vitalists in seeing a kind of opposition or incompatibility between the conditions of vital manifestations and the conditions of physico-chemical manifestations, we must note, on the contrary, in these two orders of phenomena a complete parallelism and a direct and necessary relation. Only in warm-blooded animals do the conditions of the organism and those of the surrounding en- vironment seem to be independent; in these animals indeed the manifestation of vital phenomena no longer suffers the alternations and variations that the cosmic conditions display; and an inner force seems to join combat with these influences and in spite of them to maintain the vital forces in equilibrium. But fundamentally it is nothing of the sort; and the semblance depends simply on the fact that, by the more complete protective mechanism which we shall have occasion to study, the warm-blooded animaFs internal environment comes less easily into equilibrium with the external cosmic environ- ment. External influences, therefore, bring about changes and dis- turbances in the intensity of organic functions only in so far as the protective system of the organism's internal environment becomes insufficient in given conditions."
+    },
+    {
+      "id": "p0024",
+      "text": "III. Physiological Phenomena in the Higher Animals Take Place in Perfected Internal Organic Environments En- dowed WITH Constant Physico-Chemical Properties"
+    },
+    {
+      "id": "p0025",
+      "text": "Thoroughly to understand the application of experimentation to living beings, it is of the first importance to reach a definite judgment on the ideas which we are now explaining. When we examine a higher, i.e., a complex living organism, and see it fulfill its different functions in the general cosmic environment common to all the phe-"
+    },
+    {
+      "id": "p0026",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0027",
+      "text": "63"
+    },
+    {
+      "id": "p0028",
+      "text": "nomena of nature, it seems to a certain extent independent of this environment. But this appearance results simply from our deluding ourselves about the simplicity of vital phenomena. The external phe- nomena vrhich v^e perceive in the living being are fundamentally very complex; they are the resultant of a host of intimate properties of organic units whose manifestations are linked together with the physico-chemical conditions of the internal environment in which they are immersed. In our explanations we suppress this inner en- vironment and see only the outer environment before our eyes. But the real explanation of vital phenomena rests on study and knowledge of the extremely tenuous and delicate particles which form the organic units of the body. This idea, long ago set forth in biology by great physiologists, seems more and more true in propor- tion as the science of the organization of living beings makes progress. We must, moreover, learn that the intimate particles of an organ- ism exhibit their vital activity only through a necessary physico- chemical relation with immediate environments which we must also study and know. Otherwise, if we limit ourselves to the survey of total phenomena visible from without, we may falsely believe that a force in living beings violates the physico-chemical laws of the gen- eral cosmic environment, just as an untaught man might believe that some special force in a machine, rising in the air or running along the ground, violated the laws of gravitation. 'NoWy a living organism is nothing but a wonderful machine endowed with the most marvellous properties and set going by means of the most complex and delicate mechanism. There are no forces opposed and struggling one with another ; in nature there can be only order and disorder, harmony or discord."
+    },
+    {
+      "id": "p0029",
+      "text": "In experimentation on inorganic bodies, we need take account of only one environment, the external cosmic environment ; while in the higher living animals, at least two environments must be considered, the external or extra-organic environment and the internal or intra- organic environment. In my course on physiology at the Faculty of Sciences, I explain each year these ideas on organic environment, — new ideas which I regard as fundamental in general physiology ; they are also necessarily fundamental in general pathology, and the same thoughts will guide us in adapting experimentation to living beings, For, as I have said elsewhere, the great difficulties that we meet in experimentally determining vital phenomena and in applying suit-"
+    },
+    {
+      "id": "p0030",
+      "text": "64"
+    },
+    {
+      "id": "p0031",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0032",
+      "text": "able means to altering them are caused by the complexity involved in the existence of an internal organic environment.'^"
+    },
+    {
+      "id": "p0033",
+      "text": "Physicists and chemists experimenting on inert bodies need con- sider only the external environment; by means of the thermometer, barometer and other instruments used in recording and measuring the properties of the external environment, they can always set them- selves in equivalent conditions. For physiologists these instruments no longer suffice; and yet the internal environment is just the place where they should use them. Indeed, the internal environment of living beings is always in direct relation with the normal or patho- logical vital manifestations of organic units. In proportion as we ascend the scale of living beings, the organism grows more complex, the organic units become more delicate and require a more perfected internal environment. The circulating liquids, the blood serum and the intra-organic fluids all constitute the internal environment."
+    },
+    {
+      "id": "p0034",
+      "text": "In living beings the internal environment, which is a true product of the organism, preserves the necessary relations of exchange and equilibrium with the external cosmic environment ; but in proportion as the organism grows more perfect, the organic environment becomes specialized and more and more isolated, as it were, from the sur- rounding environment. In vegetables and in cold-blooded animals, as we have said, this isolation is less complete than in warm-blooded animals ; in the latter the blood serum maintains an almost fixed and constant temperature and composition. But these differing condi- tions do not constitute differences of nature in different living beings ; they are merely improvements in the isolating and protecting mech- anisms of their environment. Vital manifestations in animals vary only because the physico-chemical conditions of their internal envi- ronments vary ; thus a mammal, whose blood has been chilled either by natural hibernation or by certain lesions of the nervous system, closely resembles a really cold-blooded animal in the properties of its tissues."
+    },
+    {
+      "id": "p0035",
+      "text": "To sum up, from what has been said we can gain an idea of the enormous complexity of vital phenomena and of the almost insuper- able difficulties which their accurate determination opposes to physi- ologists forced to carry on experimentation in the internal or organic"
+    },
+    {
+      "id": "p0036",
+      "text": "* Claude Bernard, Legons sur la physiologie et la pathologie du systime nerveux. Legon d'oiwerture, Dec. 17, 1856. Paris, 1858, Vol. I. — Cours de patho- logie experimentale. {The Medical Times, 1860.)"
+    },
+    {
+      "id": "p0037",
+      "text": "OF EXPEEIMENTAL ]\\IEDICINE"
+    },
+    {
+      "id": "p0038",
+      "text": "65"
+    },
+    {
+      "id": "p0039",
+      "text": "environments. These obstacles, however, cannot terrify us if we are thoroughly convinced that we are on the right road. Absolute de- terminism exists indeed in every vital phenomenon ; hence biological science exists also; and consequently the studies to which we are devoting ourselves will not all be useless. General physiology is the basic biological science toward which all others converge. Its prob- lem is to determine the elementary condition of vital phenomena. Pathology and therapeutics also rest on this common foundation. By normal activity of its organic units, life exhibits a state of health ; by abnormal manifestation of the same units, diseases are character- ized ; and finally through the organic environment modified by means of certain toxic or medicinal substances, therapeutics enables us to act on the organic units. To succeed in solving these various prob- lems, we must, as it were, analyze the organism, as we take apart a machine to review and study all its works ; that is to say, before suc- ceeding in experimenting on smaller units we must first experiment on the machinery and on the organs. We must, therefore, have re- course to analytic study of the successive phenomena of life, and must make use of the same experimental method which physicists and chemists employ in analyzing the phenomena of inorganic bodies. The difficulties which result from the complexity of the phenomena of living bodies arise solely in applying experimentation ; for funda- mentally the object and principles of the method are always exactly the same."
+    },
+    {
+      "id": "p0040",
+      "text": "IV. The Aim of Experimentation Is the Same in Study of Phenomena of Living Bodies as in Study of Phenomena"
+    },
+    {
+      "id": "p0041",
+      "text": "OF Inorganic Bodies"
+    },
+    {
+      "id": "p0042",
+      "text": "If the physicist and the physiologist differ in this, that one busies himself with phenomena taking place in inorganic matter, and the other with phenomena occurring in living matter, still they do not differ in the object which they mean to attain. Indeed, they both set themselves a common object, viz., getting back to the immediate cause of the phenomena which they are studying."
+    },
+    {
+      "id": "p0043",
+      "text": "Now, what we call the immediate cause of a phenomenon is noth- ing but the physical and material condition in which it exists or ap- pears. The object of the experimental method or the limit of every scientific research is therefore the same for living bodies as for inor- ganic bodies; it consists in finding the relations which connect any"
+    },
+    {
+      "id": "p0044",
+      "text": "66"
+    },
+    {
+      "id": "p0045",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0046",
+      "text": "phenomenon with its immediate cause, or putting it differently, it consists in defining the conditions necessary to the appearance of the phenomenon. Indeed, when an experimenter succeeds in learning the necessary conditions of a phenomenon, he is, in some sense, its master ; he can predict its course and its appearance, he can promote or prevent it at will. An experimenter's object, then, is reached; through science, he has extended his power over a natural phe- nomenon."
+    },
+    {
+      "id": "p0047",
+      "text": "We shall therefore define physiology thus : the science whose object it is to study the phenomena of living beings and to determine the ma- terial conditions in which they appear. Only by the analytic or ex- perimental method can we attain the determination of the conditions of phenomena, in living bodies as well as in inorganic bodies; for we reason in identically the same way in experimenting in all the sciences."
+    },
+    {
+      "id": "p0048",
+      "text": "For physiological experimenters, neither spiritualism nor mate- rialism can exist. These words belong to a philosophy which has grown old ; they will fall into disuse through the progress of science. We shall never know either spirit or matter; and if this were the proper place I should easily show that on one side, as on the other, we quickly fall into scientific negations. The conclusion is that all such considerations are idle and useless. It is our sole concern to study phenomena, to learn their material conditions and manifesta- tions, and to determine the laws of those manifestations."
+    },
+    {
+      "id": "p0049",
+      "text": "First causes are outside the realm of science ; they forever escape us in the sciences of living as well as in those of inorganic bodies. The experimental method necessarily turns aside from the chimerical search for a vital principle; vital force exists no more than mineral force exists, or, if you like, one exists quite as much as the other. The word, force, is merely an abstraction which we use for linguistic convenience. For mechanics, force is the relation of a movement to its cause. For physicists, chemists and physiologists, it is fun- damentally the same. As the essence of things must always remain unknown, we can learn only relations, and phenomena are merely the results of relations. The properties of living bodies are revealed only through reciprocal organic relations. A salivary gland, for in- stance, exists only because it is in relation with the digestive system, and because its histological units are in certain relations one with another and with the blood. Destroy these relations by isolating the"
+    },
+    {
+      "id": "p0050",
+      "text": "OF EXPERIMENTAL ]\\IEDICINE"
+    },
+    {
+      "id": "p0051",
+      "text": "67"
+    },
+    {
+      "id": "p0052",
+      "text": "units of the organism, one from another in thought, and the salivary- gland simply ceases to be."
+    },
+    {
+      "id": "p0053",
+      "text": "A scientific law gives us the numerical relation of an effect to its cause, and that is the goal at which science stops. When we have the law of a phenomenon, we not only know absolutely the conditions determining its existence, but we also have the relations applying to all its variations, so that we can predict modifications of the phe- nomenon in any given circumstances."
+    },
+    {
+      "id": "p0054",
+      "text": "As a corollary to the above we must add that neither physiologists nor physicians need imagine it their task to seek the cause of life or the essence of disease. That would be entirely wasting one's time in pursuing a phantom. The words, life, death, health, disease, have no objective reality. We must imitate the physicists in this matter and say, as Newton said of gravitation : '^Bodies fall with an accelerated motion whose law we know : that is a fact, that is reality. But the first cause which makes these bodies fall is utterly unknown. To picture the phenomenon to our minds, we may say that the bodies fall as if there were a force of attraction toward the centre of the earth, quasi esset attractio. But the force of attraction does not exist, we do not see it ; it is merely a word used to abbreviate speech.'' When a physiologist calls in vital force or life, he does not see it ; he merely pronounces a word ; only the vital phenomenon ex- ists, with its material conditions; that is the one thing that he can study and know."
+    },
+    {
+      "id": "p0055",
+      "text": "To sum up, the object of science is everywhere the same : to learn the material conditions of phenomena. But though this goal is the same in the physico-chemical and in biological sciences, it is much harder to reach in the latter because of the mobility and complexity of the phenomena which we meet."
+    },
+    {
+      "id": "p0056",
+      "text": "V. The Necessary Conditions of Natural Phenomena Are Absolutely Determined in Living Bodies as Well AS IN Inorganic Bodies"
+    },
+    {
+      "id": "p0057",
+      "text": "We must acknowledge as an experimental axiom that in living beings as well as in inorganic bodies the necessary conditions of every phenomenon are absolutely determined. That is to say, in other terms, that when once the conditions of a phenomenon are known and fulfilled, the phenomenon must always and necessarily be reproduced"
+    },
+    {
+      "id": "p0058",
+      "text": "68"
+    },
+    {
+      "id": "p0059",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0060",
+      "text": "at the will of the experimenter. Negation of this proposition would be nothing less than negation of science itself. Indeed, as science is simply the determinate and the determinable, we must perforce accept as an axiom that, in identical conditions, all phenomena are identical and that, as soon as conditions are no longer the same, the phenomena cease to be identical. This principle is absolute in the phenomena of inorganic bodies as well as in those of living beings, and the influence of life, whatever view of it we take, can nowise alter it. As we have said, what we call vital force is a first cause analogous to all other first causes, in this sense, that it is utterly unknown. It matters little whether or not we admit that this force differs essentially from the forces presiding over manifestations of the phenomena of inorganic bodies, the vital phenomena which it governs must still be determinable ; for the force would otherwise be blind and lawless, and that is impossible. The conclusion is that the phenomena of life have their special law because there is rigorous determinism in the various circumstances constituting conditions necessary to their existence or to their manifestations ; and that is the same thing. Now in the phenomena of living bodies as in those of inorganic bodies, it is only through experimentation, as I have al- ready often repeated, that we can attain knowledge of the condi- tions which govern these phenomena and so enable us to master them."
+    },
+    {
+      "id": "p0061",
+      "text": "Everything so far said may seem elementary to men cultivating the physico-chemical sciences. But among naturalists and especially among physicians, we find men who, in the name of what they call vitalism, express most erroneous ideas on the subject which concerns us. They believe that study of the phenomena of living matter can have no relation to study of the phenomena of inorganic matter. They look on life as a mysterious supernatural influence which acts arbi- trarily by freeing itself wholly from determinism, and they brand as materialists all who attempt to reconcile vital phenomena with definite organic and physico-chemical conditions. These false ideas are not easy to uproot when once established in the mind ; only the progress of science can dispel them. But vitalistic ideas, taken in the sense which we have just indicated, are just a kind of medical superstition, — a belief in the supernatural. Now, in medicine, belief in occult causes, whether it is called vitalism or is otherwise named, encourages ignorance and gives birth to a sort of unintentional quack- ery ; that is to say, the belief in an inborn, indefinable science. Con-"
+    },
+    {
+      "id": "p0062",
+      "text": "OF EXPEEIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0063",
+      "text": "69"
+    },
+    {
+      "id": "p0064",
+      "text": "fidence in absolute determinism in the phenomena of life leads, on the contrary, to real science, and gives the modesty which comes from the consciousness of our little learning and the difficulty of science. This feeling incites us, in turn, to work toward knowledge; and to this feeling alone, science in the end owes all its progress."
+    },
+    {
+      "id": "p0065",
+      "text": "I should agree with the vitalists if they would simply recognize that living beings exhibit phenomena peculiar to themselves and un- known in inorganic nature. I admit, indeed, that manifestations of life cannot be wholly elucidated by the physico-chemical phenomena known in inorganic nature. I shall later explain my view of the part played in biology by physico-chemical sciences; I will here simply say that if vital phenomena differ from those of inorganic bodies in complexity and appearance, this difference obtains only by virtue of determined or determinable conditions proper to themselves. So if the sciences of life must differ from all others in explanation and in special laws, they are not set apart by scientific method. Biology must borrow the experimental method of physico-chemical sciences, but keep its special phenomena and its own laws."
+    },
+    {
+      "id": "p0066",
+      "text": "In living bodies, as in inorganic bodies, laws are immutable, and the phenomena governed by these laws are bound to the conditions on which they exist, by a necessary and absolute determinism. I use the word determinism here as more appropriate than the word fatalism, which sometimes serves to express the same idea. Determin- ism in the conditions of vital phenomena should be one of the axioms of experimenting physicians. If they are thoroughly imbued with the truth of this principle, they will exclude all supernatural inter- vention from their explanations ; they will have unshaken faith in the idea that fixed laws govern biological science; and at the same time they will have a reliable criterion for judging the often variable and contradictory appearance of vital phenomena. Indeed, starting with the principle that immutable laws exist, experimenters will be con- vinced that phenomena can never be mutually contradictory, if they are observed in the same conditions ; and if they show variations, they will know that this is necessarily so because of the intervention or in- terference of other conditions which alter or mask phenomena. There will be occasion thenceforth to try to learn the conditions of these variations, for there can be no effect without a cause. Determinism thus becomes the foundation of all scientific progress and criticism. If we find disconcerting or even contradictory results in performing"
+    },
+    {
+      "id": "p0067",
+      "text": "70"
+    },
+    {
+      "id": "p0068",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0069",
+      "text": "an experiment, we must never acknowledge exceptions or contradic- tions as real. That would be unscientific. We must simply and nec- essarily decide that conditions in the phenomena are different, whether or not we can explain them at the time."
+    },
+    {
+      "id": "p0070",
+      "text": "I assert that the word exception is unscientific; and as soon as laws are known, no exception indeed can exist, and this expression, like so many others, merely enables us to speak of things whose causa- tion we do not know. Every day we hear physicians use the words : ordinarily, more often, generally, or else express themselves numer- ically by saying, for instance : nine times out of ten, things happen in this way. I have heard old practitioners say that the words ^'always\" and \"never\" should be crossed out of medicine. I condemn neither these restrictions nor the use of these locutions if they are used as empirical approximations about the appearances of phenomena when we are still more or less ignorant of the exact conditions in which they exist. But certain physicians seem to reason as if exceptions were necessary ; they seem to believe that a vital force exists which can arbitrarily prevent things from always happening alike ; so that exceptions would result directly from the action of mysterious vital force. Now this cannot be the case ; what we now call an exception is a phenomenon, one or more of whose conditions are unknown ; if the conditions of the phenomena of which we speak were known and determined, there would be no further exceptions, medicine would be as free from them as is any other science. For instance, we might formerly say that sometimes the itch was cured and sometimes not; but now that we attack the cause of this disease, we cure it always. Formerly it might be said that a lesion of the nerves brought on paralysis, now of feeling, and again of motion; but now we know that cutting the anterior spinal nerve paralyzes motion only. Motor paralysis occurs consistently and always, because its condition has been accurately determined by experimenters."
+    },
+    {
+      "id": "p0071",
+      "text": "The certainty with which phenomena are determined should also be, as we have said, the foundation of experimental criticism, whether applied to one's self or to others. A phenomenon, indeed, always ap- pears in the same way if conditions are similar; the phenomenon never fails if the conditions are present, just as it does fail to appear if the conditions are absent. Thus an experimenter who has made an experiment, in conditions which he believes were determined, may happen not to get the same results in a new series of investigations"
+    },
+    {
+      "id": "p0072",
+      "text": "OF EXPERIMEXTAL MEDICINE"
+    },
+    {
+      "id": "p0073",
+      "text": "71"
+    },
+    {
+      "id": "p0074",
+      "text": "as in his first observation; in repeating the experiment, with fresh precautions, it may happen again that, instead of his first result, he may encounter a wholly different one. In such a situation, what is to be done ? Should we acknowledge that the facts are indetermi- nable ? Certainly not, since that cannot be. We must simply acknowl- edge that experimental conditions, which we believed to be known, are not known. We must more closely study, search out and define the experimental conditions, for the facts cannot be contradictory one to another; they can only be indeterminate. Facts never exclude one another, they are simply explained by differences in the condi- tions in which they are born. So an experimenter can never deny a fact that he has seen and observed, merely because he cannot redis- cover it. In the third part of this introduction, we shall cite in- stances in which the principles of experimental criticism which we have just suggested, are put in practice."
+    },
+    {
+      "id": "p0075",
+      "text": "VI. To Have Determinism for Phenomena^ in Biological as in Physico-Chemical Sciences, We Must Reduce the Phenomena to Experimental Conditions as Definite and Simple as Possible"
+    },
+    {
+      "id": "p0076",
+      "text": "As a natural phenomenon is only the expression of ratios and relations and connections, at least two bodies are necessary to its appearance. So we must always consider, first, a body which reacts or which manifests the phenomenon; second, another body which acts and plays the part of environment in relation to the first. It is impossible to imagine a body wholly isolated in nature; it would no longer be real, because there would be no relation to manifest its existence."
+    },
+    {
+      "id": "p0077",
+      "text": "In phenomenal relations, as nature presents them to us, more or less complexity always prevails. In this respect mineral phenomena are much less complex than vital phenomena ; this is why the sciences dealing with inorganic bodies have succeeded in establishing them- selves more quickly. In living bodies, the complexity of phenomena is immense, and what is more, the mobility accompanying vital char- acteristics makes them much harder to grasp and to define."
+    },
+    {
+      "id": "p0078",
+      "text": "The properties of living matter can be learned only through their relation to the properties of inorganic matter; it follows that the biological sciences must have as their necessary foundation the"
+    },
+    {
+      "id": "p0079",
+      "text": "72"
+    },
+    {
+      "id": "p0080",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0081",
+      "text": "physico-chemical sciences from which they borrow their means of analysis and their methods of investigation. Such are the neces- sary reasons for the secondary and backward evolution of the sci- ences concerned with the phenomena of life. But though the com- plexity of vital phenomena creates great obstacles, we must not be appalled, for, as we have already said, unless we deny the possi- bility of biological science, the principles of science are everywhere the same. So we may be sure that we are on the right road and that in time we shall reach the scientific result that we are seeking, that is to say, determinism in the phenomena of living beings."
+    },
+    {
+      "id": "p0082",
+      "text": "We can reach knowledge of definite elementary conditions of phe- nomena only by one road, viz., by experimental analysis. Analysis dissociates all the complex phenomena successively into more and more simple phenomena, until they are reduced, if possible, to just two elementary conditions. Experimental science, in fact, considers in a phenomenon only the definite conditions necessary to produce it. Physicists try to picture these conditions to themselves, more or less ideally in mechanics or mathematical physics. Chemists suc- cessively analyze complex matters; and in thus reaching either ele- ments or definite substances (individual compounds or chemical spe- cies), they attain the elementary or irreducible conditions of phe- nomena. In the same way, biologists should analyze complex organ- isms and reduce the phenomena of life to conditions that cannot be analyzed in the present state of science."
+    },
+    {
+      "id": "p0083",
+      "text": "Experimental physiology and medicine have no other goal. When faced by complex questions, physiologists and physicians, as well as physicists and chemists, should divide the total problem into sim- pler and simpler and more and more clearly defined partial pr6b- lems. They will thus reduce phenomena to their simplest possible material conditions and make application of the experimental method easier and more certain. All the analytic sciences divide problems, in order to experiment better. By following this path, physicists and chemists have succeeded in reducing what seemed the most complex phenomena to simple properties connected with well-defined mineral species. By following the same analytic path, physiologists should succeed in reducing all the vital manifestations of a complex organism to the play of certain organs, and the action of these organs to the properties of well-defined tissues or organic units. Anatomico- physiological experimental analysis, which dates from Galen, has just"
+    },
+    {
+      "id": "p0084",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0085",
+      "text": "73"
+    },
+    {
+      "id": "p0086",
+      "text": "this meaning, and histology, in pursuing the same problem to-day, is naturally coming closer and closer to the goal."
+    },
+    {
+      "id": "p0087",
+      "text": "Though we can succeed in separating living tissues into chemical elements or bodies, still these elementary chemical bodies are not elements for physiologists. In this respect biologists are more like physicists than chemists, for they seek to determine the properties of bodies and are much less preoccupied with their elementary com- position. In the present state of the science, it would be impos- sible to establish any relation between the vital properties of bodies and their chemical composition ; because tissues and organs endowed with the most diverse properties are at times indistinguishable from the point of view of their elementary chemical composition. Chem- istry is most useful to physiologists in giving them means of sepa- rating and studying individual compounds, true organic products which play important parts in the phenomena of life."
+    },
+    {
+      "id": "p0088",
+      "text": "Organic individual compounds, though well defined in their properties, are still not active elements in physiological phenomena ; like mineral matter, they are, as it were, only passive elements in the organism. For physiologists, the truly active elements are what we call anatomical or histological units. Like the organic indi- vidual compounds, these are not chemically simple; but physiologi- cally considered, they are as simplified as possible in that their vital properties are the simplest that we know, — vital properties which vanish when we happen to destroy this elementary organized part. However, all ideas of ours about these elements are limited by the present state of our knowledge ; for there can be no question that these histological units, in the condition of cells and fibres, are still complex. That is why certain naturalists refuse to give them the names of elements and propose to call them elementary organisms. This appellation is in fact more appropriate ; w^e can perfectly well picture to ourselves a complex organism made up of a quantity of distinct elementary organisms, uniting, joining and grouping to- gether in various ways, to give birth first to the different tissues of the body, then to its various organs; anatomical mechanisms are themselves only assemblages of organs which present endlessly varied combinations in living beings. When we come to analyze the com- ple:?: manifestations of any organism, we should therefore separate the complex phenomena and reduce them to a certain number of simple properties belonging to elementary organisms; then syn-"
+    },
+    {
+      "id": "p0089",
+      "text": "74"
+    },
+    {
+      "id": "p0090",
+      "text": "AN INTEODUCTIOX TO THE STUDY"
+    },
+    {
+      "id": "p0091",
+      "text": "thetically reconstruct the total organism in thought, by reuniting and ordering the elementary organisms, considered at first separately, then in their reciprocal relations."
+    },
+    {
+      "id": "p0092",
+      "text": "When physicians, chemists or physiologists, by successive experi- mental analyses, succeed in determining the irreducible element of a phenomenon in the present state of their science, the scientific prob- lem is simplified, but its nature is not changed thereby ; and men of science are no nearer to absolute knowledge of the essence of things. ^Nevertheless, they have gained what it is truly important to obtain, to wit, knowledge of the necessary conditions of the phenomenon and determination of the definite relation existing between a body mani- festing its properties and the immediate cause of this manifestation. The object of analysis, in biological as in physico-chemical science, is, after all, to determine and, as far as possible, to isolate the condi- tions governing the occurrence of each phenomenon. We can act on the phenomena of nature only by reproducing the natural conditions in which they exist ; and we act the more easily on these conditions in proportion as they have first been better analyzed and reduced to a greater state of simplicity. Real science exists, then, only from the moment when a phenomenon is accurately defined as to its nature and rigorously determined in relation to its material condi- tions, that is, when its law is known. Before that, we have only groping and empiricism."
+    },
+    {
+      "id": "p0093",
+      "text": "VII. In Living Bodies, Just as in Inorganic Bodies, the Existence of Phenomena Is Always Doubly Conditioned"
+    },
+    {
+      "id": "p0094",
+      "text": "The most superficial examination of what goes on around us shows that all natural phenomena result from the reaction of bodies one against another. There always come under consideration the hody, in which the phenomenon takes place, and the outward circum- stance or the environment which determines or invites the body to exhibit its properties. The conjunction of these conditions is essen- tial to the appearance of the phenomenon. If we suppress the environment, the phenomenon disappears, just as if the body had been taken away. The phenomena of life, as well as those of inor- ganic bodies, are thus doubly conditioned. On the one hand, we have the organism in which vital phenomena come to pass; on the other hand, the cosmic environment in which living bodies, like inor-"
+    },
+    {
+      "id": "p0095",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0096",
+      "text": "75"
+    },
+    {
+      "id": "p0097",
+      "text": "ganic bodies, find the conditions essential to the appearance of their phenomena. The conditions necessary to life are found neither in the organism nor in the outer environment, but in both at once. Indeed, if we suppress or disturb the organism, life ceases, even though the environment remains intact; if, on the other hand, we take away or vitiate the environment, life just as completely disap- pears, even though the organism has not been destroyed."
+    },
+    {
+      "id": "p0098",
+      "text": "Thus phenomena appear as results of contact or relation of a body with its environment. Indeed, if we absolutely isolate a body in our thought, w^e annihilate it in so doing; and if, on the con- trary, we multiply its relations with the outer world, we multiply its properties."
+    },
+    {
+      "id": "p0099",
+      "text": "Phenomena, then, are definite relations of bodies; we always conceive these relations as resulting from forces outside of matter, because we cannot absolutely localize them in a single body. For physicists, universal attraction is only an abstract idea; manifesta- tion of this force requires the presence of two bodies; if only one body is present, we can no longer conceive of attraction. For ex- ample, electricity results from the action of copper and zinc in cer- tain chemical conditions; but if we suppress the interrelation of bodies, electricity, — an abstraction without existence in itself, — ceases to appear. In the same way, life results from contact of the organism with its environment; we can no more understand it through the organism alone than through the environment alone. It is therefore a similar abstraction, that is to say, a force which appears as if it were outside of matter."
+    },
+    {
+      "id": "p0100",
+      "text": "But however the mind conceives the forces of nature, that can- not alter an experimenter's conduct in any respect. For him the problem reduces itself solely to determining the material conditions in which a phenomenon appears. These conditions once known, he can then master the phenomenon ; by supplying or not supplying them, he can make the phenomenon appear or disappear at will. Thus physicists and chemists exert their power over inorganic bodies ; thus physiologists gain empire over vital phenomena. Living bodies, however, seem at first sight to elude the experimenter's action. We see the higher organisms uniformly exhibit their vital phenomena, in spite of variations in the surrounding cosmic environment, and from another angle we see life extinguished in an organism after a certain length of time without being able to find reasons in the"
+    },
+    {
+      "id": "p0101",
+      "text": "76"
+    },
+    {
+      "id": "p0102",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0103",
+      "text": "external environment for this extinction. But, as we have already said, there is an illusion here, resulting from incomplete and super- ficial analysis of the conditions of vital phenomena. Ancient sci- ence was able to conceive only the outer environment ; but to establish the science of experimental biology, we must also conceive an inner environment. I believe I was the first to express this idea clearly and to insist on it, the better to explain the application of experi- mentation to living beings. Since the outer environment, on the other hand, infiltrates into the inner environment, knowing the latter teaches us the former's every influence. Only by passing into the inner, can the influence of the outer environment reach us, whence it follows that knowing the outer environment cannot teach us the actions born in, and proper to, the inner environment. The general cosmic environment is common to living and to inorganic bodies; but the inner environment created by an organism is special to each living being. Now, here is the true physiological environment ; this it is which physiologists and physicians should study and know, for by its means they can act on the histological units which are the only effective agents in vital phenomena. Nevertheless, though so deeply seated, these units are in communication with the outer world ; they still live in the conditions of the outer environment perfected and regulated by the play of the organism. The organism is merely a living machine so constructed that, on the one hand, the outer en- vironment is in free communication with the inner organic environ- ment, and, on the other hand, the organic units have protective func- tions, to place in reserve the materials of life and uninterruptedly to maintain the humidity, warmth and other conditions essential to vital activity. Sickness and death are merely a dislocation or dis- turbance of the mechanism which regulates the contact of vital stimulants with organic units. In a word, vital phenomena are the result of contact between the organic units of the body with the inner physiological environment; this is the pivot of all ex- perimental medicine. Physiologists and physicians gain mastery over the phenomena of life by learning which conditions, in this inner environment, are normal and which abnormal, for the appear- ance of vital activity in the organic units ; for apart from complexity of conditions, phenomena exhibiting life, like physico-chemical phe- nomena, result from contact between an active body and the environ- ment in which it acts."
+    },
+    {
+      "id": "p0104",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0105",
+      "text": "77"
+    },
+    {
+      "id": "p0106",
+      "text": "VIII. In Biological as in Physico-Chemical Science, Deter- minism Is Possible, Because Matter in Living as in In- organic Bodies Can Possess No Spontaneity"
+    },
+    {
+      "id": "p0107",
+      "text": "To sum up, the study of life includes two things: (1) Study of the properties of organized units; (2) study of the organic environ- ment, i.e., study of the conditions which this environment must fulfill to permit the appearance of vital activities. Physiology, pathology and therapeutics rest on this double knowledge; apart from this, neither medical science nor any truly scientific or effectual thera- peutics exists."
+    },
+    {
+      "id": "p0108",
+      "text": "In living organisms it is convenient to distinguish between three kinds of definite bodies: first, chemical elements; second, organic and inorganic individual compounds; third, organized anatomical units. Of about 70 elements known to chemistry to-day, only 16 are found in that most complex of organisms, the organism of man. But these 16 elements combine with one another to form the various liquid, solid and gaseous substances of the organism. Oxygen and nitrogen, however, are merely dissolved in the organic fluids ; and in living beings, seem to act as elements. The inorganic individual compounds (earthy salts, phosphates, chlorides, sulphates, etc.) are essential constituents in the composition of living bodies, but are taken ready-made directly from the outer world. Organic individual compounds are also constituents of living bodies, but by no means borrowed from the outer world; they are made by the vegetable or animal organism; among such substances are starch, sugar, fat, albumen, etc., etc. When extracted from the body, they preserve their properties because they are not alive ; they are organic products, but not organized. Anatomical units stand alone as organized liv- ing parts. These parts are irritable and, under the influence of various stimulants, exhibit properties exclusively characteristic of living beings. They live and nourish themselves, and their nourish- ment creates and preserves their properties, which means that they cannot be cut off from the organism without more or less rapidly losing their vitality."
+    },
+    {
+      "id": "p0109",
+      "text": "Though very different from one another in respect to their func- tions in the organism, these three classes of bodies all show physico- chemical reactions under the influence of the outer stimuli, — ^warmth, light, electricity; but living parts also have the power of being irri-"
+    },
+    {
+      "id": "p0110",
+      "text": "78"
+    },
+    {
+      "id": "p0111",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0112",
+      "text": "table, i.e., reacting under the influence of certain stimuli in a way specially characteristic of living tissues, such as muscular contrac- tion, nervous transmission, glandular secretion, etc. But whatever the variety presented by the three classes of phenomena, whether the reaction be physico-chemical or vital, it is never in any way spon- taneous. The phenomenon always results from the influence exerted on the reacting body by a physico-chemical stimulant outside itself."
+    },
+    {
+      "id": "p0113",
+      "text": "Every definite substance, whether inorganic, organic or organ- ized, is autonomous; that is to say, it has characteristic properties and exhibits independent action. Nevertheless, each one of these bodies is inert, that is, it is incapable of putting itself into action; to do this, it must always enter into relation with another body, from which it receives a stimulus. Thus every mineral body in the cosmic environment is stable; it changes its state only when the circum- stances in which it is placed are rather seriously changed, either naturally or through experimental interference. In any organic environment, the substances created by animals and vegetables are much more changeable and less stable, but still they are inert and exhibit their properties only as they are influenced by agents out- side themselves. Finally, anatomical units themselves, which are the most changeable and unstable of substances, are still inert, that is, they never break into vital activity unless some foreign influence invites them. A muscle-fibre, for instance, has the vital property peculiar to itself of contracting, but this living fibre is inert in the sense that if nothing changes in its environmental or its inner conditions, it cannot bring its functions into play, and it will not contract. For the muscular fibre to contract, a change must neces- sarily be produced in it, by its coming into relation with a stimula- tion from without, which may come either from the blood or from a nerve. We may say as much of all the histological units, nerve units, blood units, etc. Different living units thus play the part of stimuli, one in relation to another ; and the functional manifestations of an organism are merely the expression of their harmonious recipro- cal relations. The histological units react either separately or one against another by means of vital properties which are themselves in necessary connection with surrounding physico-chemical conditions; and this relation is so intimate that we may say the intensity of physico-chemical phenomena taking place in an organism may be used to measure the intensity of its vital phenomena. Therefore,"
+    },
+    {
+      "id": "p0114",
+      "text": "OF EXPEEIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0115",
+      "text": "79"
+    },
+    {
+      "id": "p0116",
+      "text": "as has already been said, we must not set up an antagonism between vital phenomena and physico-chemical phenomena, but, on the con- trary, we must note the complete and necessary parallelism between the two classes of phenomena. To sum up, living matter is no more able than inorganic matter to get into activity or movement by itself. Every change in matter implies intervention of a new rela- tion, i.e., an outside condition or influence. The role of men of science is to try to define and determine the material conditions pro- ducing the appearance of each phenomenon. These conditions once known, experimenters master the phenomenon in this sense, that they can give movement to matter, or take it away, at pleasure."
+    },
+    {
+      "id": "p0117",
+      "text": "What we have just said is equally true for the phenomena of living bodies and the phenomena of inorganic bodies. Only in the case of the complex higher organisms, physiologists and physicians must study the stimuli of vital phenomena, not in the relations of the whole organism with the general cosmic environment, but rather in the organic conditions of the inner environment. Considered in the general cosmic environment, the functions of man and of the higher animals seem to us, indeed, free and independent of the physico-chemical conditions of the environment, because its actual stimuli are found in an inner, organic, liquid environment. What we see from the outside is merely the result of physico-chemical stimuli from the inner environment ; that is where physiologists must build up the real determinism of vital functions."
+    },
+    {
+      "id": "p0118",
+      "text": "Living machines are therefore created and constructed in such a way that, in perfecting themselves, they become freer and freer in the general cosmic environment. But the most absolute determine ism still obtains, none the less, in the inner environment which is separated more and more from the outer cosmic environment, by rea- son of the same organic development. A living machine keeps up its movement because the inner mechanism of the organism, by acts and forces ceaselessly renewed, repairs the losses involved in the exercise of its functions. Machines created by the intelligence of man, though infinitely coarser, are built in just this fashion. A steam engine's activity is independent of outer physico-chemical con- ditions, since the machine goes on working through cold, heat, dry- ness and moisture. But physicists going down into the inner envi- ronment of the machine, find that this independence is only apparent, and that the movement of its every inner gear is determined by phys-"
+    },
+    {
+      "id": "p0119",
+      "text": "80"
+    },
+    {
+      "id": "p0120",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0121",
+      "text": "ical conditions whose law they know. As for physiologists, if they can go down into the inner environment of a living machine, they find likewise absolute determinism that must become the real founda- tion of the science of living bodies."
+    },
+    {
+      "id": "p0122",
+      "text": "IX. The Limits of Our Knowledge Are the Same m the Phenomena of Living Bodies and in the Phenomena"
+    },
+    {
+      "id": "p0123",
+      "text": "OF Inorganic Bodies"
+    },
+    {
+      "id": "p0124",
+      "text": "The nature of our mind leads us to seek the essence or the why of things. Thus we aim beyond the goal that it is given us to reach ; for experience soon teaches us that we cannot get beyond the how, i.e., beyond the immediate cause or the necessary conditions of phe- nomena. In this respect the limits of our knowledge are the same in biological as in physico-chemical sciences."
+    },
+    {
+      "id": "p0125",
+      "text": "When, by successive analyses, we find the immediate cause deter- mining the circumstances in which a phenomenon presents itself, we reach a scientific goal beyond which we cannot pass. When we know that water, with all its properties, results from combining oxygen and hydrogen in certain proportions, we know everything we can know about it; and that corresponds to the how and not to the why of things. We know how water can be made; but why does the com- bination of one volume of oxygen with two volumes of hydrogen pro- duce water? We have no idea. In medicine it is equally absurd to concern one's self with the question \"why.\" Yet physicians ask it often. It was probably to make fun of this tendency, which re- sults from lack of the sense of limits to our learning, that Moliere put the following answer into the mouth of his candidate for the medical degTee. Asked why opium puts people to sleep, he answered : ''Quia est in eo virtus dormitiva, cujus est natura sensus assoupire/' This answer seems ludicrous and absurd ; yet no other answer could be made. In the same way, if we wished to answer the question: \"Why does hydrogen, in combining with oxygen, produce water?\" we should have to answer: \"Because hydrogen has the quality of being able to beget water.\" Only the question \"why,\" then, is really absurd, because it necessarily involves a naive or ridiculous answer. So we had better recognize that we do not know ; and that the limits of our knowledge are precisely here."
+    },
+    {
+      "id": "p0126",
+      "text": "In physiology, if we prove, for instance, that carbon monoxide"
+    },
+    {
+      "id": "p0127",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0128",
+      "text": "81"
+    },
+    {
+      "id": "p0129",
+      "text": "is deadly when uniting more firmly than oxygen with the hemoglobin, we know all that we can know about the cause of death. Experience teaches us that a part of the mechanism of life is lacking; oxygen can no longer enter the organism, because it cannot displace the carbon monoxide in its union with the hemoglobin. But why has carbon monoxide more affinity than oxygen for this substance? Why is entrance of oxygen into the organism necessary to life ? Here is the limit of our knowledge in our present state of learning ; and even assuming that we succeed in further advancing our experi- mental analysis, we shall reach a blind cause at which we shall be forced to stop, without finding the primal reason for things."
+    },
+    {
+      "id": "p0130",
+      "text": "Let us add that, when the relative determinism of a phenomenon is established, our scientific goal is reached. Experimental analysis of the conditions of the phenomenon, when pushed still further, gives us fresh information, but really teaches us nothing about the nature of the phenomenon originally determined. The conditions necessary to a phenomenon teach us nothing about its nature. When we know that physical and chemical contact between the blood and the cere- bral nerve cells is necessary to the production of intellectual phe- nomena, that points to conditions, but it cannot teach us anything about the primary nature of intelligence. Similarly, when we know that friction and that chemical action produce electricity, we are still ignorant of the primary nature of electricity."
+    },
+    {
+      "id": "p0131",
+      "text": "We must therefore, in my opinion, stop differentiating the phe- nomena of living bodies from those of inorganic bodies, by a dis- tinction based on our own ability to know the nature of the former and our inability to know that of the latter. The truth is that the nature or very essence of phenomena, whether vital or mineral, will always remain unknown. The essence of the simplest mineral phe- nomenon is as completely unknown to chemists and physicists to-day as is the essence of intellectual phenomena or of any other vital phenomenon to physiologists. That, moreover, is easy to apprehend ; knowledge of the inmost nature or the absolute, in the simplest phenomenon, would demand knowledge of the whole universe; for every phenomenon of the universe is evidently a sort of radiation from that universe to whose harmony it contributes. In living bodies absolute truth would be still harder to attain ; because, besides implying knowledge of the universe outside a living body, it would also demand complete knowledge of the organism which, as we have"
+    },
+    {
+      "id": "p0132",
+      "text": "82"
+    },
+    {
+      "id": "p0133",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0134",
+      "text": "long been saying, is a little world (microcosm) in the great universe (macrocosm). Absolute knowledge could, therefore, leave nothing outside itself; and only on condition of knowing everything could man be granted its attainment. Man behaves as if he were destined to reach this absolute knowledge; and the incessant why which he puts to nature proves it. Indeed, this hope, constantly disappointed, constantly reborn, sustains and always will sustain successive gen- erations in the passionate search for truth."
+    },
+    {
+      "id": "p0135",
+      "text": "Our feelings lead us at first to believe that absolute truth must lie within our realm ; but study takes from us, little by little, these chimerical conceits. Science has just the privilege of teaching us what we do not know, by replacing feeling with reason and experi- ence and clearly showing us the present boundaries of our knowl- edge. But by a marvellous compensation, science, in humbling our pride, proportionately increases our power. Men of science who carry experimental analysis to the point of relatively determining a phenomenon doubtless see clearly their own ignorance of the phe- nomenon in its primary cause; but they have become its master; the instrument at work is unknown, but they can use it. This is true of all experimental sciences in which we can reach only rela- tive or partial truths and know phenomena only in their necessary conditions. But this knowledge is enough to broaden our power over nature. Though we do not know the essence of phenomena, we can produce or prevent their appearance, because we can regulate their physico-chemical conditions. We do not know the essence of fire, of electricity, of light, and still we regulate their phenomena to our own advantage. We know absolutely nothing of the essence even of life; but we shall nevertheless regulate vital phenomena as soon as we know enough of their necessary conditions. Only in liv- ing bodies these conditions are much more complex and more diffi- cult to grasp than in inorganic bodies; that is the whole difference."
+    },
+    {
+      "id": "p0136",
+      "text": "To sum up, if our feeling constantly puts the question why, our reason shows us that only the question how is within our range; for the moment, then, only the question how concerns men of science and experimenters. If we cannot know why opium and its alka- loids put us to sleep, we can learn the mechanism of sleep and know how opium or its ingredients puts us to sleep; for sleep takes place only because an active substance enters into contact with certain organic substances which it changes. Learning these changes will"
+    },
+    {
+      "id": "p0137",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0138",
+      "text": "83"
+    },
+    {
+      "id": "p0139",
+      "text": "give us the means of producing or preventing sleep, and we shall be able to act on the phenomenon and regulate it at pleasure."
+    },
+    {
+      "id": "p0140",
+      "text": "In the knowledge that we acquire, we should distinguish between two sets of notions : the first corresponds to the cause of phenomena, the second to the means of producing them. By the cause of a phenomenon we mean the constant and definite condition necessary to existence; we call this the relative determinism or the how of things, i.e., the immediate or determining cause. The means of obtaining phenomena are the varied processes by whose aid we may succeed in putting in action the single determining cause which pro- duces the phenomenon. The necessary cause in the formation of water is the combination of two volumes of hydrogen with one of oxygen; this is the single cause which always determines the phe- nomenon. We cannot conceive of water apart from this essential condition. Subordinate conditions or processes in the formation of water may be extremely varied; only all these processes reach the same result, viz., combination of oxygen and hydrogen in invariable proportions. Let us take another example. I assume that we wish to transform starch into glucose; we have any number of means or processes for doing this, but fundamentally there will always be the identical cause, and a single determinism will beget the phenomenon. This cause is fixation of one more unit of water in the substance, to bring about its transformation. Only we may produce this hydration in any number of conditions and by any number of methods: by means of acidulated water, of heat, of animal or vegetable enzymes; but all these processes finally come to a single condition, hydrolysis of the starch. The determinism, i.e., the eause of the phenomenon, is therefore single, though the means for making it appear may be multiple and apparently very various. It is most important to establish this distinction especially in medicine, where the greatest confusion reigns, precisely because physicians recognize a multitude of causes for the same disease. To convince ourselves of what I am urging we have only to open a treatise on pathology. By no means all the circumstances enumerated are causes ; at most they are means or processes by which a disease can be produced. But the real and effective cause of a disease must be constant and determined, that is unique; anything else would be a denial of science in medicine. It is true that determining causes are much harder to recognize and define in the phenomena of living beings ; but they exist nevertheless,"
+    },
+    {
+      "id": "p0141",
+      "text": "84"
+    },
+    {
+      "id": "p0142",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0143",
+      "text": "in spite of the seeming diversity of means employed. Thus in cer- tain toxic phenomena we see different poisons lead to one cause and to a single determinism for the death of histological units, for example, the coagulation of muscular substance. In the same way, varied circumstances producing the same disease must all correspond to a single and determined pathogenic action. In a word, determinism which insists on identity of effect bound up with identity of cause is an axiom of science which can no more be transgressed in the sci- ences of life than in the sciences of inorganic matter."
+    },
+    {
+      "id": "p0144",
+      "text": "X. In the Sciences of Living Bodies, as in Those of Inoeganio Bodies, Experimenters Create Nothing ; They Simply Obey the Laws of Nature"
+    },
+    {
+      "id": "p0145",
+      "text": "We know the phenomena of nature only through their relations with the causes which produce them. Now the law of phenomena is nothing else than this relation numerically established, in such a way as to let us foresee the ratio of cause to effect in any given case. This ratio, established by observation, enables astronomers to predict celes- tial phenomena ; this same ratio, established by observation and ex- periment, again enables physicists, chemists, physiologists, not only to predict the phenomena of nature, but even to modify them at pleasure and to a certainty, provided they do not swerve from the ratio which experience has pointed out, i.e., the law. In other terms, we can guide natural phenomena only by submitting to laws that govern them."
+    },
+    {
+      "id": "p0146",
+      "text": "Observers can only observe natural phenomena; experimenters can only modify them; it is not given them to create or to destroy them utterly, because they cannot change natural law. We have often repeated that experimenters act, not on phenomena themselves, but on the physico-chemical conditions necessary to their appear- ance. Phenomena are just the actual expression of the ratio of these conditions; hence, when conditions are similar, the ratio is constant and the phenomenon identical, and when conditions change, there is another ratio, and a different phenomenon. In a word, to make a new phenomenon appear, experimenters merely bring new condi- tions to pass, but they create nothing, either in the way of force or of matter. At the end of the last century science proclaimed a great truth, to wit, that with respect to matter, nothing is lost, neither"
+    },
+    {
+      "id": "p0147",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0148",
+      "text": "85"
+    },
+    {
+      "id": "p0149",
+      "text": "is anything created in nature ; the bodies whose qualities ceaselessly vary under our eyes are all only transmutations of aggregations of matter of equal weight. In recent times science has proclaimed a second truth which it is still seeking to prove and which in some sense is truly complementary to the first, to wit, that with respect to forces nothing is lost and nothing created in nature ; it follows that all the infinitely varied forms of phenomena in the universe are only equivalent transformation of forces, one into another. I reserve for treatment elsewhere the question whether differences separate the forces of living bodies from those of inert bodies; let it suffice for the moment to say that the two preceding truths are universal, and that they embrace the phenomena of living bodies as well as those of inert bodies."
+    },
+    {
+      "id": "p0150",
+      "text": "All phenomena, to whatever order they belong, exist implicitly in the changeless laws of nature ; and they show themselves only when their necessary conditions are actualized. The bodies and beings on the surface of our earth express the hannonious relation of the cosmic conditions of our planet and our atmosphere with the beings and phenomena whose existence they permit. Other cosmic conditions would necessarily make another world appear in which all the phe- nomena would occur which found in it their necessary conditions, and from which would disappear all that could not develop in it. But no matter what infinite varieties of phenomena we conceive on the earth, by placing ourselves in thought in all the cosmic conditions that our imagination can bring to birth, we are still forced to admit that this would all take place according to the laws of physics, chem- istry and physiology, which have existed without our knowledge from all eternity; and that whatever happens, nothing is created by way either of force or of matter; that only different relations will be produced and through them creation of new beings and phenomena."
+    },
+    {
+      "id": "p0151",
+      "text": "When a chemist makes a new body appear in nature, he cannot flatter himself with having created the laws which brought it to birth; he produced only the conditions which the creative law de- manded for its manifestation. The case of organic bodies is the same. Chemists and physiologists, in their experiments, can make new beings appear only by obeying the laws of nature which they can- not alter in any way."
+    },
+    {
+      "id": "p0152",
+      "text": "It is not given to man to alter the cosmic phenomena of the whole universe nor even those of the earth; but the advances of science"
+    },
+    {
+      "id": "p0153",
+      "text": "86 THE STUDY OF EXPEEIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0154",
+      "text": "enable him to alter the phenomena within his reach. Thus man has already gained a power over mineral nature which is brilliantly revealed in the applications of modem science, still at its dawn. The result of experimental science applied to living bodies must also be to alter vital phenomena, by acting solely on the conditions of these phenomena. But here our difficulties are greatly increased by the delicacy of the conditions of vital phenomena and the complexity and interrelation of all the parts grouped together to form an organized being. This is why man can probably never act as easily on animal or vegetable, as on mineral, species. His power over living beings will remain more limited, especially where they form higher, i.e., more complicated organisms. Nevertheless, the difficulties obstruct- ing the power of physiologists do not pertain to the nature of vital phenomena, but merely to their complexity. Physiologists will first begin by getting at phenomena of vegetables and of animals in easier relations with the outer cosmic environment. It appears, at first sight, as if man and the higher animals must escape from its power to change, because they seem freed from the direct influence of the outer environment. But we know that vital phenomena in man, as in the animals nearest him, are connected with the physico-chemical condi- tions of an inner organic environment. This inner environment we must first seek to know, because this must become the real field of action for physiology and experimental medicine."
+    }
+  ],
+  "anchors": {
+    "science-bernard-milieu-interieur": {
+      "paragraphId": "p0034",
+      "start": 0,
+      "end": 358,
+      "quote": "In living beings the internal environment, which is a true product of the organism, preserves the necessary relations of exchange and equilibrium with the external cosmic environment; but in proportion as the organism grows more perfect, the organic environment becomes specialized and more and more isolated, as it were, from the surrounding environment.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

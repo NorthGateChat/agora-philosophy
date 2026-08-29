@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-city-of-god-book-xiv-chapter-28-4da15fb3",
+  "title": "卷 XIV · 章 28",
+  "englishTitle": "Book XIV · Chapter 28",
+  "work": "《上帝之城》",
+  "englishWork": "The City of God",
+  "locator": "卷 XIV · 章 28",
+  "englishLocator": "Book XIV · Chapter 28",
+  "version": "New Advent，Marcus Dods 1887 年 NPNF 公版英译，《上帝之城》第十四卷第 28 章",
+  "englishVersion": "New Advent, Marcus Dods public-domain translation in NPNF (1887), The City of God XIV.28",
+  "sourceUrl": "https://www.newadvent.org/fathers/120114.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/120114.htm",
+    "contentType": "text/html",
+    "sha256": "c3e7b67827cc4e5becafe403bb1a3fcca17a47fc0b2818656e93bcefa7c27d12"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "6f828ca05076f36400de7c1c9636cac1e34dd14afadd0dfe1f621ae98bd15719",
+  "inputHash": "a7b7df26468beaec3aca1e0c17eee9ff65f58cdee5ffba13477920d40219f0e7",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 28.— Of the Nature of the Two Cities, the Earthly and the Heavenly."
+    },
+    {
+      "id": "p0002",
+      "text": "Accordingly, two cities have been formed by two loves: the earthly by the love of self, even to the contempt of God ; the heavenly by the love of God , even to the contempt of self. The former, in a word, glories in itself, the latter in the Lord. For the one seeks glory from men; but the greatest glory of the other is God , the witness of conscience . The one lifts up its head in its own glory ; the other says to its God , You are my glory , and the lifter up of mine head. In the one, the princes and the nations it subdues are ruled by the love of ruling; in the other, the princes and the subjects serve one another in love , the latter obeying , while the former take thought for all. The one delights in its own strength, represented in the persons of its rulers; the other says to its God , I will love You, O Lord, my strength. And therefore the wise men of the one city, living according to man , have sought for profit to their own bodies or souls , or both, and those who have known God glorified Him not as God , neither were thankful, but became vain in their imaginations, and their foolish heart was darkened; professing themselves to be wise, — that is, glorying in their own wisdom, and being possessed by pride — they became fools, and changed the glory of the incorruptible God into an image made like to corruptible man, and to birds, and four-footed beasts, and creeping things. For they were either leaders or followers of the people in adoring images, and worshipped and served the creature more than the Creator, who is blessed forever. Romans 1:21-25 But in the other city there is no human wisdom, but only godliness, which offers due worship to the true God , and looks for its reward in the society of the saints , of holy angels as well as holy men, that God may be all in all. 1 Corinthians 15:28"
+    },
+    {
+      "id": "p0003",
+      "text": "Source. Translated by Marcus Dods. From Nicene and Post-Nicene Fathers, First Series , Vol. 2. Edited by Philip Schaff. ( Buffalo, NY: Christian Literature Publishing Co., 1887. ) Revised and edited for New Advent by Kevin Knight. <https://www.newadvent.org/fathers/120114.htm>."
+    }
+  ],
+  "anchors": {
+    "augustine-two-cities-two-loves": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 181,
+      "quote": "Accordingly, two cities have been formed by two loves: the earthly by the love of self, even to the contempt of God; the heavenly by the love of God, even to the contempt of self.",
+      "match": "normalized-exact"
+    }
+  }
+}

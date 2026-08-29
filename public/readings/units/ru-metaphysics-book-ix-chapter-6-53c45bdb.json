@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-metaphysics-book-ix-chapter-6-53c45bdb",
+  "title": "卷 IX · 章 6",
+  "englishTitle": "Book IX · Chapter 6",
+  "work": "《形而上学》",
+  "englishWork": "Metaphysics",
+  "locator": "卷 IX · 章 6",
+  "englishLocator": "Book IX · Chapter 6",
+  "version": "MIT 经典文库 W. D. Ross 公版英译，亚里士多德《形而上学》IX.6，1048a30—33",
+  "englishVersion": "MIT Internet Classics Archive, W. D. Ross public-domain translation, Aristotle, Metaphysics IX.6, 1048a30–33",
+  "sourceUrl": "https://classics.mit.edu/Aristotle/metaphysics.9.ix.html",
+  "source": {
+    "url": "https://classics.mit.edu/Aristotle/metaphysics.9.ix.html",
+    "contentType": "text/html",
+    "sha256": "e5404d78e62de9a9444d18d0a3ca1648d7786f193f66d8b2a19199dc6d786ef8"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "8d6516d91a7e3f657f8c714bcb36f818825050f2993f4b7690ac8e4aef425755",
+  "inputHash": "da248d91e9a403fb7e6bcd50eafdbe444a7f67d2f94b42ccf97d38f4587ec9eb",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Part 6"
+    },
+    {
+      "id": "p0002",
+      "text": "\""
+    },
+    {
+      "id": "p0003",
+      "text": "\"Since we have treated of the kind of potency which is related to movement, let us discuss actuality-what, and what kind of thing, actuality is. For in the course of our analysis it will also become clear, with regard to the potential, that we not only ascribe potency to that whose nature it is to move something else, or to be moved by something else, either without qualification or in some particular way, but also use the word in another sense, which is the reason of the inquiry in the course of which we have discussed these previous senses also. Actuality, then, is the existence of a thing not in the way which we express by 'potentially'; we say that potentially, for instance, a statue of Hermes is in the block of wood and the half-line is in the whole, because it might be separated out, and we call even the man who is not studying a man of science, if he is capable of studying; the thing that stands in contrast to each of these exists actually. Our meaning can be seen in the particular cases by induction, and we must not seek a definition of everything but be content to grasp the analogy, that it is as that which is building is to that which is capable of building, and the waking to the sleeping, and that which is seeing to that which has its eyes shut but has sight, and that which has been shaped out of the matter to the matter, and that which has been wrought up to the unwrought. Let actuality be defined by one member of this antithesis, and the potential by the other. But all things are not said in the same sense to exist actually, but only by analogy-as A is in B or to B, C is in D or to D; for some are as movement to potency, and the others as substance to some sort of matter."
+    },
+    {
+      "id": "p0004",
+      "text": "\"But also the infinite and the void and all similar things are said to exist potentially and actually in a different sense from that which applies to many other things, e.g. to that which sees or walks or is seen. For of the latter class these predicates can at some time be also truly asserted without qualification; for the seen is so called sometimes because it is being seen, sometimes because it is capable of being seen. But the infinite does not exist potentially in the sense that it will ever actually have separate existence; it exists potentially only for knowledge. For the fact that the process of dividing never comes to an end ensures that this activity exists potentially, but not that the infinite exists separately."
+    },
+    {
+      "id": "p0005",
+      "text": "\"Since of the actions which have a limit none is an end but all are relative to the end, e.g. the removing of fat, or fat-removal, and the bodily parts themselves when one is making them thin are in movement in this way (i.e. without being already that at which the movement aims), this is not an action or at least not a complete one (for it is not an end); but that movement in which the end is present is an action. E.g. at the same time we are seeing and have seen, are understanding and have understood, are thinking and have thought (while it is not true that at the same time we are learning and have learnt, or are being cured and have been cured). At the same time we are living well and have lived well, and are happy and have been happy. If not, the process would have had sometime to cease, as the process of making thin ceases: but, as things are, it does not cease; we are living and have lived. Of these processes, then, we must call the one set movements, and the other actualities. For every movement is incomplete-making thin, learning, walking, building; these are movements, and incomplete at that. For it is not true that at the same time a thing is walking and has walked, or is building and has built, or is coming to be and has come to be, or is being moved and has been moved, but what is being moved is different from what has been moved, and what is moving from what has moved. But it is the same thing that at the same time has seen and is seeing, seeing, or is thinking and has thought. The latter sort of process, then, I call an actuality, and the former a movement."
+    }
+  ],
+  "anchors": {
+    "aristotle-potentiality-actuality": {
+      "paragraphId": "p0003",
+      "start": 554,
+      "end": 730,
+      "quote": "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'; we say that potentially, for instance, a statue of Hermes is in the block of wood.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

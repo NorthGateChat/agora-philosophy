@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-nyaya-sutra-book-1-chapter-2-c7e26658",
+  "title": "卷 1 · 章 2",
+  "englishTitle": "Book 1 · Chapter 2",
+  "work": "《正理经》",
+  "englishWork": "Nyaya Sutra",
+  "locator": "卷 1 · 章 2",
+  "englishLocator": "Book 1 · Chapter 2",
+  "version": "Internet Archive 原书扫描，Satīśa Chandra Vidyābhūṣaṇa 1913年公版英译《The Nyâya Sûtras of Gotama》，《正理经》1.2.2，印刷页15（扫描/PDF第40页），完整连续译句",
+  "englishVersion": "Internet Archive original book scan, Satīśa Chandra Vidyābhūṣaṇa's public-domain translation (1913), The Nyâya Sûtras of Gotama, Nyāya Sūtra 1.2.2, print p. 15 (scan/PDF p. 40), complete continuous translated sentence",
+  "sourceUrl": "https://archive.org/details/NyayaSutra",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "a1debb4f4332414392abbdcc6490ded38d1b0c17423a2aa84221aaad47e120aa"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "00bac5b9fdbdaf40698776e7974fc2bce12bb59876d9c75cca002c5729d98e02",
+  "inputHash": "b5de4862bb6831e2243473d3a73a21d1e30519d1012668a9552221e73a5555ec",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "BOOK I. CHAPTER II."
+    },
+    {
+      "id": "p0002",
+      "text": "1. Discussion is the adoption of one of two oppos- ing sides. What is adopted is analysed in the form of five members, and defended by the aid of any of the means of right knowledge, while its opposite is assailed by confuta- tion, without deviation from the established tenets."
+    },
+    {
+      "id": "p0003",
+      "text": "[A dialogue or disputation (katha) is tlie adoption of a side by a dis-. putant and its opposite by his opponent. It is of three kinds, viz., discussion which aims at ascertaining the truth, wrangling which aims at gaining victory, and caoil which aims at finding mere faults. A diseutient is one who engages himself in a disputation as a means of seeking the truth]."
+    },
+    {
+      "id": "p0004",
+      "text": "Au instance of discussion is given below :-"
+    },
+    {
+      "id": "p0005",
+      "text": "Diseutient — There is soul."
+    },
+    {
+      "id": "p0006",
+      "text": "Opponent — There is no soul."
+    },
+    {
+      "id": "p0007",
+      "text": "Diseutient — Soul is existent (proposition)."
+    },
+    {
+      "id": "p0008",
+      "text": "Because it is an abode of consciousness (reason)."
+    },
+    {
+      "id": "p0009",
+      "text": "Whatever is not existent is not an abode of consciousness, * as a hare's horn (negative example)."
+    },
+    {
+      "id": "p0010",
+      "text": "Soul is not so, that is, soul is an abode of consciousness (negative application)."
+    },
+    {
+      "id": "p0011",
+      "text": "Therefore soul is existent (conclusion)."
+    },
+    {
+      "id": "p0012",
+      "text": "Opponent-r-Soul is non-existent (proposition)."
+    },
+    {
+      "id": "p0013",
+      "text": "Because, etc."
+    },
+    {
+      "id": "p0014",
+      "text": "Diseutient — The scripture which is a verbal testimony declares the existence of soul."
+    },
+    {
+      "id": "p0015",
+      "text": "Opponent"
+    },
+    {
+      "id": "p0016",
+      "text": "Diseutient — If there were no soul, it would not be possible to appre- hend one and the same object through sight and touch."
+    },
+    {
+      "id": "p0017",
+      "text": "Opponent"
+    },
+    {
+      "id": "p0018",
+      "text": "Diseutient — The doctrine of soul harmonises well with the various 4 tenets which we hold, viz., that there are eternal things, that everybody., enjoys pleasure or suffers pain according to his own actions, etc. There- fe** there is adtti."
+    },
+    {
+      "id": "p0019",
+      "text": "THE NYAYA-StJTRAS. 15"
+    },
+    {
+      "id": "p0020",
+      "text": "[The discussion will be considerably lengthened if the opponent happens to be a Buddhist who does not admit the authority of scripture, and holds that there are no eternal things, etc.]."
+    },
+    {
+      "id": "p0021",
+      "text": "2. Wrangling, which aims at gaining victory, is the defence or attack of a proposition in the manner aforesaid by quibbles, futilities, and other processes which deserve rebuke. *\"'"
+    },
+    {
+      "id": "p0022",
+      "text": "A wrangler is one who, engaged in a disputation, aims only at vic- tory, being indifferent whether the arguments which he employs support his owji contention or that of his opponent, provided that he can make out a pretext for bragging that he lias taken an .active part in the disputation."
+    },
+    {
+      "id": "p0023",
+      "text": "3. Cavil is a kind of wrangling which consists in mere attacks on the opposite side."
+    },
+    {
+      "id": "p0024",
+      "text": "A caviller does not endeavour to establish anything, but confines himself to mere carping at the arguments of his opponent."
+    },
+    {
+      "id": "p0025",
+      "text": "4. Fallacies of a reason are the erratic, the contra- dictory, the equal to the question, the unproved, and the mistimed."
+    },
+    {
+      "id": "p0026",
+      "text": "Wfcdftw \" «<^uhk :» ii k i\\ i hi"
+    },
+    {
+      "id": "p0027",
+      "text": "5. The erratic is the reason which leads to more conclusions than one."
+    },
+    {
+      "id": "p0028",
+      "text": "An instance Of the erratic is given below : —"
+    },
+    {
+      "id": "p0029",
+      "text": "Proposition — sound is eternal,"
+    },
+    {
+      "id": "p0030",
+      "text": "Erratic reason — Because it is intangible,"
+    },
+    {
+      "id": "p0031",
+      "text": "Example — Whatever is intangible is eternal as atoms."
+    },
+    {
+      "id": "p0032",
+      "text": "Application— So is sound (intangible),"
+    },
+    {
+      "id": "p0033",
+      "text": "Conclusion. — Therefore sound is eternal,"
+    },
+    {
+      "id": "p0034",
+      "text": "16 BOOK I, CHAPTER II."
+    },
+    {
+      "id": "p0035",
+      "text": "Again :"
+    },
+    {
+      "id": "p0036",
+      "text": "Proposition — Sound is non-eternal,"
+    },
+    {
+      "id": "p0037",
+      "text": "Erratic reason. — Because it is intangible,"
+    },
+    {
+      "id": "p0038",
+      "text": "Example. — Whatever is intangible is non-eternal, as intellect,"
+    },
+    {
+      "id": "p0039",
+      "text": "Application. — So is sound (intangible),"
+    },
+    {
+      "id": "p0040",
+      "text": "Conclusion. — Therefore sound is non-eternal (intangible)."
+    },
+    {
+      "id": "p0041",
+      "text": "Here from the reason there have been drawn two opposite conclusions, viz. : that sound is eternal, and that sound is non-eternal. The reason or middle term is erratic when it is not pervaded by the major terra, that is, when there is no universal connection between the major term and middle term, as pervader and pervaded. Intangible is pervaded neither by 'eternal ' nor by 'non eternal.' In fact there is no universal connection between ' intangible ' and \" eternal ' or ' non-eternal.'"
+    },
+    {
+      "id": "p0042",
+      "text": "ftwi!*ttH*3^ flf^ft \"ftf^:\" lit i \\ i * ii"
+    },
+    {
+      "id": "p0043",
+      "text": "6. The contradictory is the reason which opposes what is to be established."
+    },
+    {
+      "id": "p0044",
+      "text": "Proposition. — A pot is produced, Contradictory reason. — Because it is eternal."
+    },
+    {
+      "id": "p0045",
+      "text": "Here the reason is contradictory because that which is eternal is never produced."
+    },
+    {
+      "id": "p0046",
+      "text": "U t I ^ I vs«"
+    },
+    {
+      "id": "p0047",
+      "text": "7. Equal to the question is the reason which pro- vokes the very question for the solution of which it was employed."
+    },
+    {
+      "id": "p0048",
+      "text": "Proposition. — Sound is non-eternal,"
+    },
+    {
+      "id": "p0049",
+      "text": "Reason which is equal to the question — Because it is not possessed of the attribute of eternal ity."
+    },
+    {
+      "id": "p0050",
+      "text": "'Non-eternal' is the same as 'not possessed of the attribute of etemality.' In determining the question whether sound is non-eternal the reason giv«& is that sound is non-eternal, or in other words the reason begs the question."
+    },
+    {
+      "id": "p0051",
+      "text": "8. The unproved is the reason which stands in need of proof in the same way as the proposition does."
+    },
+    {
+      "id": "p0052",
+      "text": "THE NYlYA-StTTRAS. if"
+    },
+    {
+      "id": "p0053",
+      "text": "Proposition — Shadow is a substance."
+    },
+    {
+      "id": "p0054",
+      "text": "Unproved reason. — Because it possesses motion."
+    },
+    {
+      "id": "p0055",
+      "text": "Here unless it is actually proved that shadow possesses motion, we cannot accept it as the reason for the proposition that shadow is a sub- stance. Just as the proposition stands in need of proof so does the reason itself. Tt is possible that the motion belongs to the person who causes that obstruction of light which is called shadow."
+    },
+    {
+      "id": "p0056",
+      "text": "50. The mistimed is the reason which is adduced when the time is past in which it might hold good. — 9."
+    },
+    {
+      "id": "p0057",
+      "text": "Proposition — Sound is durable."
+    },
+    {
+      "id": "p0058",
+      "text": "Mistimed reason — Because it is manifested by union, as a colour."
+    },
+    {
+      "id": "p0059",
+      "text": "The colour of a juris manifested when the jar comes into union with a lamp, but the colour existed before the union took place, and will con- tinue to exist after the union has ceiised. Similarly, the sound of a dram is manifested wlion the drum comes into union with a rod, and the sound . must, after the analogy of the colour, be presumed to have 'existed before the union took place, and to continue to exist sifter the union has ceased. Hence sound is durable. The reason adduced here is mistimed, because the manifestation of sound does not take place at the timo when the drum comes into union with the rod, but at a subsequent moment when the union has ceased. In the case of colour, however, the manifestation takes place just at the time when the jar comes into union with the lamp. Be- cause the time of their manifestation is different, the analogy between colour and sound is not complete, therefore, the reason is mistimed."
+    },
+    {
+      "id": "p0060",
+      "text": "Some interpret the aphorism as follows: — The mistimed is the reason which is adduced in a wrong order among the five members for instance, as, if the reason is stated before the proposition. But this interpretation, according to Vatsyayana, is wrong for a word bears its legitimate connection with another word (in a Sanskrit sentence) even if they are placed at a distance from each other, and, on the other hand, even the closest proximity is of no use if the words are disconnected in their sense. Moreover, the placing of members in a wrong order is noticed in the Nyaya-sutra as a nigrahasthdna (occasion for rebuke) called apr&pta-h&la (inopportune)."
+    },
+    {
+      "id": "p0061",
+      "text": "^^faqidlv4fc^^M T^l \"9i^\" nmuoii"
+    },
+    {
+      "id": "p0062",
+      "text": "51. Quibble is the opposition offered to a proposi- tion by the assumption of an alternative meaning. — 10."
+    },
+    {
+      "id": "p0063",
+      "text": "* (Quoted by Vatasyayana in the Nyaya-bhajya, p. 260)."
+    },
+    {
+      "id": "p0064",
+      "text": "1*857"
+    },
+    {
+      "id": "p0065",
+      "text": "IS BOOK I, CHAPTER It"
+    },
+    {
+      "id": "p0066",
+      "text": "II t 1 *. I U II"
+    },
+    {
+      "id": "p0067",
+      "text": "52. It is of three kinds, viz., quibble in respect of a term, quibble in respect of a genus, and quibble in res- pect of a metaphor. — 11."
+    },
+    {
+      "id": "p0068",
+      "text": "snv m i * 1 1* i"
+    },
+    {
+      "id": "p0069",
+      "text": "53. Quibble in respect of a term consists in wil- fully taking the term in a sense other than that intended by a speaker who has happened to use it ambiguously. — 12."
+    },
+    {
+      "id": "p0070",
+      "text": "A speaker says : \" this boy is nava-liamhala (possessed of a new . blanket).\""
+    },
+    {
+      "id": "p0071",
+      "text": "A quibbler replies : \" this boy is not. certainly nava-Jtambala (possessed of nine blankets) for he has only one blanket."
+    },
+    {
+      "id": "p0072",
+      "text": "Here the word nava which is ambiguous was used by the speaker in the sense of \"new,\" but has been wilfully taken by the quibbler in the sense of \"nine.\""
+    },
+    {
+      "id": "p0073",
+      "text": "-*1^<HHJ\" «mi«M"
+    },
+    {
+      "id": "p0074",
+      "text": "54. Quibble in respect of a genus consists in assert- ing the impossibility of a thing which is really possible, on the ground that it belongs to a certain genus which is very wide. — 13."
+    },
+    {
+      "id": "p0075",
+      "text": "A speaker says: \"this Brahmana is possessed of learning and conduct.\""
+    },
+    {
+      "id": "p0076",
+      "text": "An objector replies : \" it is impossible, for how can it be inferred that this pBfson is possessed of learning and conduct because he is a Brahmana. There are little boys who are Briihmanas, yet not possessed of learning and conduct."
+    },
+    {
+      "id": "p0077",
+      "text": "Here the objector is a quibbler, for he knows well that possession"
+    },
+    {
+      "id": "p0078",
+      "text": "\\ of learning and conduct was not meant to be an attribute of the whole"
+    },
+    {
+      "id": "p0079",
+      "text": "class of Brahnianas, but it was ascribed to \" this \" particular Brahmana"
+    },
+    {
+      "id": "p0080",
+      "text": "THE NYAYA-StTTRAS. 19"
+    },
+    {
+      "id": "p0081",
+      "text": "who lived long enough in the world to render it possible for him to pursue studies and acquire good morals."
+    },
+    {
+      "id": "p0082",
+      "text": "H \\\\ * I w I"
+    },
+    {
+      "id": "p0083",
+      "text": "55. Quibble in respect of a metaphor consists in denying the proper meaning of a word by taking it literally while it was used metaphorically, and vice versa. — 14."
+    },
+    {
+      "id": "p0084",
+      "text": "A speaker says : \" the scaffolds cry out.\""
+    },
+    {
+      "id": "p0085",
+      "text": "An objector replies: \" it is impossible for scaffolds to ciy out for they are inanimate objects.\""
+    },
+    {
+      "id": "p0086",
+      "text": "Here the objector is a quibbler, for he knew well that the word scaffold was used to signify those standing on the scaffolds."
+    },
+    {
+      "id": "p0087",
+      "text": "56. It may be said that, quibble in respect of a metaphor is in reality quibble in respect of a term, for the first is not different from the second. — 15."
+    },
+    {
+      "id": "p0088",
+      "text": "57. But it is not so, for there is a distinction between them. — 16."
+    },
+    {
+      "id": "p0089",
+      "text": "Words are taken in their direct (literal) meanings in the case of ' quibble in respect of a term ' while they are taken in their direct (literal) as well as indirect (secondary) meanings in the case of ' quibble in respect of a metaphor.'"
+    },
+    {
+      "id": "p0090",
+      "text": "58. If you do not admit that one is different from another simply because there is some similarity between them, then we should have only one kind of quibble. — 17."
+    },
+    {
+      "id": "p0091",
+      "text": "If ■ quibble in respect of a metaphor' were not different from ' quibble in respect of a term,' then these two also would not be different from ' quibble in respect of a genus ' because there is some similarity among all of them. This is absurd, hence the three kinds of quibble are different from one another."
+    },
+    {
+      "id": "p0092",
+      "text": "20 BOOK I, CHAPTER II"
+    },
+    {
+      "id": "p0093",
+      "text": "59. Futility consists in offering objections founded on mere similarity or dissimilarity.— 18."
+    },
+    {
+      "id": "p0094",
+      "text": "A disputant says : \" the soul is inactive because it is all-pervading as ether.\""
+    },
+    {
+      "id": "p0095",
+      "text": "His opponent replies : \" if the soul is inactive because it bears simi- larity to ether as being all-pervading, why is it not active because it bears similarity to a pot as being a seat of union ?\""
+    },
+    {
+      "id": "p0096",
+      "text": "The reply is futile, because it overlooks the universal connection between the middle term and the major term which is existent in the arguments of the disputant, but wanting in the arguments of the opponent. Whatever is all-pervading is inactive, but whatever is a seat of union is not necessarily active."
+    },
+    {
+      "id": "p0097",
+      "text": "Or again :"
+    },
+    {
+      "id": "p0098",
+      "text": "Disputant — Sound is non-eternal because unlike ether it is a product."
+    },
+    {
+      "id": "p0099",
+      "text": "Opponent — If sound is non-eternal because as a product it is dis- similar to ether, why it is not eternal because as an object of auditory perception it is dissimilar to a pot ?"
+    },
+    {
+      "id": "p0100",
+      "text": "The reply is futile because it overlooks the universal disconnection between the middle term and the absence of the major term. There is a universal disconnection between \" a product \" and \" not non-eternal,\" but there is no such disconnection between \" an object of auditory per- ception\" and \"not eternal.\""
+    },
+    {
+      "id": "p0101",
+      "text": "60. An occasion for rebuke arises when one mis- understands or does not understand at all. — 19."
+    },
+    {
+      "id": "p0102",
+      "text": "If a person begins to argue in a way which betrays his utter ignorance, or wilfully misunderstands and yet persists in showing that he understands well, it is of no avail to employ counter arguments. He is quite unfit to bo argued with, and there is nothing left for his opponent but to turn him out or quit his company, rebuking him as a blockhead or a knave."
+    },
+    {
+      "id": "p0103",
+      "text": "An insfSnce of occasion for rebuke : —"
+    },
+    {
+      "id": "p0104",
+      "text": "Whatever is not quality is substance."
+    },
+    {
+      "id": "p0105",
+      "text": "Because there is nothing except colour, etc. (quality)."
+    },
+    {
+      "id": "p0106",
+      "text": "A person who argues in the above way is to be rebuked as a fool, for his reason (which admits only quality) opposes his proposition (which admits both quality and substance),"
+    },
+    {
+      "id": "p0107",
+      "text": "THE NYATA-SttTRAS. 21"
+    },
+    {
+      "id": "p0108",
+      "text": "Another instance :"
+    },
+    {
+      "id": "p0109",
+      "text": "Disputant — Fire is not hot."
+    },
+    {
+      "id": "p0110",
+      "text": "Opponent— But the evidence of touch disproves such a statement."
+    },
+    {
+      "id": "p0111",
+      "text": "Disputant, in order to gain the confidence of the assembled people, says — \"0 learned audience, listen, I do not say that fire is not hot,\" etc."
+    },
+    {
+      "id": "p0112",
+      "text": "It is only meet that the opponent should quit the company of a man who argues in this way."
+    },
+    {
+      "id": "p0113",
+      "text": "61. Owing to the variety of kinds, there is multipli- city of futilities and occasions for rebuke. — 20."
+    },
+    {
+      "id": "p0114",
+      "text": "There are 24 kinds of futility and 22 kinds of occasion for rebuke which will be treated respectively in Chapter I and Chapter II of Book V."
+    },
+    {
+      "id": "p0115",
+      "text": "22 BOOK II, CHAPTER I."
+    }
+  ],
+  "anchors": {
+    "indian-nyaya-debate-modes": {
+      "paragraphId": "p0021",
+      "start": 3,
+      "end": 181,
+      "quote": "Wrangling, which aims at gaining victory, is the defence or attack of a proposition in the manner aforesaid by quibbles, futilities, and other processes which deserve rebuke.",
+      "match": "normalized-exact"
+    }
+  }
+}

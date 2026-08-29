@@ -1,0 +1,431 @@
+# ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES
+
+## PART I — On the Motions and Collisions of Perfectly Elastic Spheres
+
+XX. Illustrations of the Dynamical Theory of Gases*.
+
+PART L
+
+On the Motions and Collisions of Perfectly Elastic Spheres.
+
+So many of the properties of matter, especially when in the gaseous form, can be deduced from the hypothesis that their minute parts are in rapid motion, the velocity increasing with the temperature, that the precise nature of this motion becomes a subject of rational curiosity. Daniel Bemouilli, Herapath, Joule, Kronig, Clausius, &c. have shewn that the relations between pressure, temperature, and density in a perfect gas can be explained by supposing the particles to move with uniform velocity in straight lines, striking against the sides of the containing vessel and thus producing pressure. It is not necessary to suppose each particle to travel to any great distance in the same straight line ; for the effect in producing pressure \vill be the same if the particles strike against each other ; so that the straight line described may be very short . M. Clausius has determined the mean length of path in terms of the average distance of the particles, and the distance between the centres of two particles when collision takes place. We have at present no means of ascertaining either of these distances ; but certain phenomena, such as the internal friction of gases, the conduction of heat through a gas, and the diffusion of one gas through another, seem to indicate the possibility of determining accurately the mean length of path which a particle describes between two successive collisions. In order to lay the foundation of such investigations on strict mechanical principles, I shall demonstrate the laws of motion of an indefinite number of small, hard, and perfectly elastic spheres acting on one another only during impact.
+
+* Read at the Meeting of the British Association at Aberdeen, Sei)tember 21, 1859. VOL. I. 48
+
+378 ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES.
+
+If the properties of such a system of bodies are found to correspond to those of gases, an important physical analogy will be established, which may lead to more accurate knowledge of the properties of matter. If experiments on gases are inconsistent with the hypothesis of these propositions, then our theory, though consistent w^th itself, is proved to be incapable of explaining the phenomena of gases. In either case it is necessary to follow out the consequences of the hypothesis.
+
+Instead of saying that the particles are hard, spherical, and elastic, we may if we please say that the particles are centres of force, of which the action is insensible except at a certain small distance, when it suddenly appears as a repulsive force of very great intensity. It is evident that either assumption will lead to the same results. For the sake of avoiding the repetition of a long phrase about these repulsive forces, I shall proceed upon the assumption of perfectly elastic spherical bodies. If we suppose those aggregate molecules which move together to have a bounding surface which is not spherical, then the rotatory motion of the system will store up a certain proportion of the whole vis viva, as has been shewn by Clausius, and in this way we may accoimt for the value of the specific heat being greater than on the more simple hypothesis.
+
+On the Motion and Collision of Perfectly Elastic Spheres.
+
+Prop. I. Two spheres moving in opposite directions with velocities* inversely us their masses strike one another; to determine their motions after impact.
+
+Let P and Q be the position of the centres at impact; AP, BQ the directions and magnitudes of ^-V at
+
+the velocities before impact; Pa, Qh the same after ^^^^^^^^ — j^
+
+impact; then, resolving the velocities parallel and per- ^ pendicular to PQ the line of centres, we find that tlie velocities parallel to the line of centres are exactly reversed, while those perpendicular to that line are luichanged. Compounding these velocities again, we find that the velocity of each ball is the same before and after impact, and that the directions before and after impact lie in the same plane with the line of centres, and make equal angles with it.
+
+ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES. 379
+
+Prop. 11. To find the probability of the direction of the velocity after impact lying between given limits.
+
+In order that a collision may take place, the line of motion of one of the balls must pass the centre of the other at a distance less than the sum of their radii ; that is, it must pass through a circle whose centre is that of the other ball, and radius (s) the sum of the radii of the balls. Within this circle every position is equally probable, and therefore the probability of the distance from the centre being between r and r + dr is
+
+2rdr ~7~'
+
+Now let <f> be the angle A Pa between the original direction and the directioii after impact, then APN=^<f>, and 7- = 5 sin ^<^, and the probabihty becomes
+
+^ sin 6d^. The area of a spherical zone between the angles of polar distance <j> and <f) + d<f) is
+
+27r sin (f)d<f> ;
+
+therefore if a> be any small area on the surface of a sphere, radius unity, the probability of the direction of rebound passing through this area is
+
+to
+
+4:ir *
+
+so that the probability is independent of ^, that is, all directions of rebound are equally likely.
+
+Prop. III. Given the direction and magnitude of the velocities of two spheres before impact, and the line of centres at impact ; to find the velocities after impact.
+
+Let OA, OB represent the velocities before impact, so that if there had been no action between the bodies they would have been at A and B at the end of a second. Join AB, and let G be their centre of gravity, the position of which is not affected by their mutual action. Draw GN parallel to the line of centres at impact (not necessarily in the plane AOB). Draw aGh
+
+in the plane AGN, making NGa = NGA, and Ga=GA and Gb = GB; then by
+
+48—2
+
+380 ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES.
+
+Prop. I. Ga and Gh will be the velocities relative to G ; and compounding these with OG, we have Oa and Oh for the true velocities after impact.
+
+By Prop. 11. all directions of the Une aGh are equally probable. It appears therefore that the velocity after impact is compounded of the velocity of the centre of gravity, and of a velocity equal to the velocity of the sphere relative to the centre of gravity, which may with equal probability be in any direction whatever.
+
+If a great many equal spherical particles were in motion in a perfectly elastic vessel, collisions would take place among the particles, and their velocities would be altered at every collision; so that after a certain time the vis viva will be divided among the particles according to some regular law, the average number of particles whose velocity lies between certain limits being ascertainable, though the velocity of each particle changes at every collision.
+
+Prop. IV. To find the average number of particles whose velocities he between given limits, after a great number of collisions among a great number of equal particles.
+
+Let N be the whole number of particles. Let x, y, z be the components of the velocity of each particle in three rectangular directions, and let the number of particles for which x lies between x and x-hdx, be Nf{x)dx, where f{x) is a function of x to be determined.
+
+The number of particles for which y lies between y and y + dy wUl be Nf{y)dy; and the number for which z Hes between z and z + dz will be Nf(z)dz, where / always stands for the same function.
+
+Now the existence of the velocity x does not in any way affect that of the velocities y or z, since these are all at right angles to each other and independent, so that the number of particles whose velocity lies between x and x + dx, and also between y and y-{-dy, and also between z and z + dz, is
+
+If we suppose the N particles to start from the origin at the same instant, then this wil) be the number in the element of volume (dxdydz) after unit of time, and the number referred to unit of volume will be
+
+ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES. 381
+
+But the directions of the coordinates are perfectly arbitrary, and therefore this number must depend on the distance from the origin alone, that is
+
+f{x)f(y)f(z) = ^{^+y' + z%
+
+Solving this functional equation, we find
+
+f{x) = Ce^'', (^M = CV.
+
+If we make A positive, the number of particles will increase with the velocity, and we should find the whole number of particles infinite. We therefore make A negative and equal to — „ , so that the number between x and
+
+x + dx is
+
+NCe'^'dx.
+
+Integrating from a:=— <» toa;=-foo,we find the whole number of particles,
+
+aVTT
+
+1 -?:
+
+f[x) is therefore /-e " .
+
+Whence we may draw the following conclusions : —
+
+1st. The number of particles whose velocity, resolved in a certain direction, lies between x and x + dx is
+
+N^i'^'dx (1).
+
+2nd. The number whose actual velocity lies between v and v + dv is
+
+]Sf-^^^e~^'dv (2).
+
+3rd. To find the mean value of v, add the velocities of all the particles together and divide by the number of particles ; the result is
+
+mean velocity = -p- (3).
+
+Vtt
+
+4th. To find the mean value of v; add all the values together and
+
+divide by N,
+
+mean value of t;' = |a- (4).
+
+This is greater than the square of the mean velocity, as it ought to be.
+
+382 ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES.
+
+It appears from this proposition that the velocities are distributed among the particles according to the same law as the errors are distributed among the observations in the theory of the " method of least squares." The velocities i-ange from 0 to oo , but the number of those having great velocities is comparatively small. In addition to these velocities, which are in all directions equally, there may be a general motion of translation of the entire system of particles which must be compounded with the motion of the particles relatively to one another. We may call the one the motion of translation, and the other the motion of agitation.
+
+Prop. V. Two systems of particles move each according to the law stated in Prop. IV. ; to find the number of pairs of particles, one of each system, whose relative velocity lies between given limits.
+
+Let there be N particles of the first system, and N' of the second, then NN' is the whole number of such pairs. Let us consider the velocities in the direction of x only ; then by Prop. IV. the number of the first kind, whose velocities are between x and x + dx, is
+
+1 -^ N — j=e '^ dx.
+
+aV-Tr
+
+The number of the second kind, whose velocity is between x + y and x + y + dy, is
+
+1 (i±vl N' — 7= e ^ dy,
+
+where fi is the value of a for the second system.
+
+The number of pairs which fulfil both conditions is
+
+NN'^e'^^'^' dxdy. apir
+
+Now X may have any value from — qo to +cx> consistently with the difference of velocities being between y and y + dy; therefore integrating between these limits, we find
+
+^^'7^^^"'^''^ ^'^
+
+for the whole number of pairs whose difference of velocity lies between y and y + dy.
+
+ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES. ;}83
+
+This expression, which is of the same form with (1) if we put XN' for X, a' + ^ for a', and y for x, shews that the distribution of relative velocities is regulated by the same law as that of the velocities themselves, and that the mean relative velocity is the square root of the sum of the squares of tlie mean velocities of the two systems.
+
+Since the direction of motion of every particle in one of the systems may be reversed without changing the distribution of velocities, it follows that the velocities compounded of the velocities of two particles, one in each system, .-irr distributed according to the same formula (5) as the relative velocities.
+
+Prop. VI. Two systems of particles move in the same vessel ; to prove that the mean vis viva of each particle will become the same in the two systems.
+
+Let P be the mass of each particle of the first system, Q that of each particle of the second. Let p, q be the mean velocities in the two systems before impact, and let p', (( be the mean velocities after one impact. Let OA = p and OB = q, and let AOB be a right angle; then, by Prop, v., AB will be the mean relative velocity, OG will be the mean velocity of the centre of gravity ; and drawing aGh at right angles to OG, and making aG = AG and bG = BG, then Oa will be the mean velocity of P after impact, compounded of OG and Ga, and Ob will be that of Q after impact.
+
+^~ P+Q '
+
+therefore p' = Oa = ^!^^±^Ipl±^: ,
+
+^ P + Q
+
+and q' = Ob = ^-^M±S±El±W,
+
+P+Q
+
+and Pp"-Qq" = {^)\Pp'-Qq') C^).
+
+384 ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES.
+
+It appears therefore tKat the quantity Pp' — Qq^ is diminished at every impact in the same ratio, so that after many impacts it will vanish, and then
+
+Now the mean vis viva is f Pa'' = -^ Pp* for P, and ^ Qq^ for Q ; and it is
+
+8 8
+
+manifest that these quantities will be equal when Pp^ = Qq^.
+
+If any number of different kinds of particles, having masses P, Q, R and velocities jp, q, r respectively, move in the same vessel, then after many impacts
+
+Pf^Q^ = m^, &c (7).
+
+Prop. VII. A particle moves with velocity r relatively to a number of particles of which there are N in imit of volume ; to find the number of these which it approaches within a distance 5 in unit of time.
+
+If we describe a tubular surface of which the axis is the path of the particle, and the radius the distance s, the content of this surface generated in unit of time will be irrs^, and the number of particles included in it will be
+
+Nirrs' (8),
+
+which is the number of particles to which the moving particle approaches within a distance s.
+
+Prop. VIII. A particle moves with velocity v in a system moving according to the law of Prop. IV.; to find the number of particles which have a velocity relative to the moving particle between r and r + dr.
+
+Let u be the actual velocity of a particle of the system, v that of the original particle, and r their relative velocity^ and 6 the angle between v and r, then
+
+u^z=v^ + 7^ — 2vr cos 0.
+
+If we suppose, as in Prop. IV., all the particles to start from the origin, at once, then after imit of time the "density" or number of particles to unit of volume at distance u will be
+
+1 -^ aM
+
+ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES. 385
+
+From this we have to deduce the number of particles in a shell whose centre is at distance v, radius = r, and thickness = dr,
+
+^-n=l{^ *• -« *^ }^^' (9)>
+
+which is the number required.
+
+CoR. It is evident that if we integrate this expression from r = 0 to /• = oo , we ought to get the whole number of particles = iV, whence the following mathematical result,
+
+dx.x{e »' —e~ »' ) = V77-aa (lO).
+
+Prop. IX. Two sets of particles move as in Prop. V.; to find the number of pairs which approach within a distance s in unit of time.
+
+The number of the second kind which have a velocity between v and v + dv ia
+
+4 -^
+
+The number of the first kind whose velocity relative to these is between r and ri-dr is
+
+iV — = - (e »' -e »* )dr = n, and the number of pairs which approach within distance 5 in unit of time is
+
+4 t. _ ("-»•)* (o^-r)*
+
+^NN' -^.s'r've ^ {e »' -e" «" \drdv. By the last proposition we are able to integrate with respect to v, and get
+
+Integrating this again from r = 0 to r = oo ,
+
+2NN' J^ J'^FT^s' (11)
+
+is the number of collisions in unit of time which take place in unit of volume
+
+between particles of difierent kinds, s being the distance of centres at collision.
+
+vol. I. 49
+
+386 ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES.
+
+The number of collisions between two particles of the first kind, 5, being the striking distance, is
+
+and for the second system it is
+
+The mean velocities in the two systems are -7= and -^ ; so that if l^ and l^
+
+be the mean distances travelled by particles of the first and second systems between each collision, then
+
+ii a
+
+Prop. X. To find the probability of a particle reaching a given distance before striking any other.
+
+Let us suppose that the probability of a particle being stopped while passing through a distance dx, is adx ; that is, if iV particles arrived at a distance x, Nadx of them would be stopped before getting to a distance x-^dx. Putting this mathematically,
+
+^=-Na, or N=Ce-'^.
+
+Putting iV"=l when x = 0, we find e""* for the probability of a particle not striking another before it reaches a distance x.
+
+The mean distance travelled by each particle before striking is - = l. The
+
+probability of a particle reaching a distance = 7i? without being struck is e"". (See a paper by M. Clausius, Philosophical Magazine, February 1859.)
+
+If all the particles are at rest but one, then the value of a is
+
+a = Trs'N, where s is the distance between the centres at collision, and N is the number of particles in unit of volume. If v be the velocity of the moving particle relatively to the rest, then the number of collisions in unit of time wiU be
+
+virs W :
+
+ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES. 387
+
+and if V, be the actual velocity, then the number will be r,a ; therefore
+
+a = -7rsW,
+
+where v, is the actual velocity of the striking particle, and v its velocity relatively to those it strikes. If -y, be the actual velocity of the other particles, then V — Jv* + v*. If i\ = i\ , then v = sl2i\ , and
+
+a = j2TTS*N. Note*. M. Clausius makes a = ^Trs^N,
+
+Prop. XI. In a mixture of particles of two different kinds, to find the mean path of each particle.
+
+Let there be iV, of the first, and N^ of the second in unit of volume. Let Si be the distance of centres for a collision between two particles of the first set, 5j for the second set, and s for collision between one of each kind. Let r, and i\ be the coefficients of velocity, M^, M^ the mass of each particle.
+
+The probability of a particle M^ not being struck till after reaching a distance x, by another particle of the same kind is
+
+* [In the Philosophical Magazine of 1860, Vol I. pp. 434 — 6 Clausius explains the method by which he found his value of the mean relative velocity. It is briefly as follows: If u, v be the velocities of two particles their relative velocity is >Ju* + v* - 2uv cos 6 and the mean of this as regards direction only, all directions of v being equally probable, is shewn to be
+
+1 w* , ^ 1 V* ,
+
+f + o — when u<v, and w + ^ — when u> v. o V 3 w
+
+If r = M these expressions coincide. Clausius in applying this result and putting u, v for the mean velocities assumes that the mean relative velocity is given by expressions of the same form, so that when the mean velocities are each equal to u the mean relative velocity would be ^u. This step is, however, open to objection, and in fact if we take the expressions given above for the mean velocity, treating u and v as the velocities of two particles which may have any values between 0 and 00 , to calculate the mean relative velocity we should proceed as follows : Since the number of
+
+4 _*!
+
+particles with velocities between u and w + rfu is N , , tt*g~«' du, the mean relative velocity is
+
+2
+
+This expression, when reduced, leads to -j= Ja* + /3', which is the result in the text. Ed.]
+
+49—2
+
+388 ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES.
+
+The probability of not being struck by a particle of the other kind in the same distance is
+
+Therefore the probability of not being struck by any particle before reaching a distance x is
+
+and if k be the mean distance for a particle of the first kind,
+
+\ = j27rs-N, + 7: ^f^.s^N, (12).
+
+Similarly, if k be the mean distance for a particle of the second kind,
+
+l=^/27r5,W, + 7^ /l+^^/W, (13).
+
+The mean density of the particles of the first kind is N,M, = p„ and that of the second NJiI, = p,. If we put
+
+i =Ap, + Bp,, l = Cp, + Dp, (15),
+
+^^ C-Wr~< ^ ^
+
+Prop. XII. To find the pressure on unit of area of the side of the vessel due to the impact of the particles upon it.
+
+Let iV= number of particles in unit of volume; M= mass of each particle ; V = velocity of each particle ; I = mean path of each particle ; then the number of particles in unit of area of a stratum dz thick is
+
+Ndz (17).
+
+The number of colHsions of these particles in unit of time is
+
+Ndz J (18).
+
+ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES. 389
+
+The number of particles which after collision reach a distance between nl and (n 4- dn) I is
+
+Njc-^dzdn (19).
+
+The proportion of these which strike on unit of area at distance z is
+
+rd — z
+
+,(20);
+
+2nl
+
+the mean velocity of these in the direction of 2 is
+
+.'4±? (21).
+
+Multiplying together (19), (20), and (21), and M, we find the momentum at impact
+
+MN-^j,(nn'-z')e-''dzdn.
+
+Integrating with respect to z from 0 to nl, we get
+
+^MNi? nt"" dn. Integrating with respect to n from 0 to 00 , we get
+
+for the momentum in the direction of z of the striking particles ; for the momentum of the particles after impact is the same, but in the opposite direction ; so that the whole pressure on unit of area is twice this quantity, or
+
+This value of _p is independent of I the length of path. In applying this result to the theory of gases, we put MN=p, and v- = 2>h, and then
+
+which is Boyle and Mariotte's law. By (4) we have
+
+^'^ = |a^ .-. o: = 2k (23).
+
+We have seen that, on the hypothesis of elastic particles moving in straight lines, the pressure of a gas can be explained by the assumption that the square of the velocity is proportional directly to the absolute temperature, and inversely to the specific gravity of the gas at constant temperature, so that at the same
+
+390 ILLUSTRATIONS OF THE DYNAMICAL THEORY OF GASES.
+
+r
+
+pressure and temperature the value of NMif is the same for all gases. But
+
+we found in Prop. VI. that when two sets of particles communicate agitation to one another, the value of Mif is the same in each. From this it appears that N, the number of particles in unit of volume, is the same for all gases at the same pressure and temperature. This result agrees with the chemical law, that equal volumes of gases are chemically equivalent.
+
+We have next to determine the value of I, the mean length of the path of a particle between consecutive collisions. The most direct method of doing this depends upon the fact, that when different strata of a gas slide upon one another with different velocities, they act upon one another with a tangential force tending to prevent this sliding, and similar in its results to the friction between two solid surfaces sliding over each other in the same way. The explanation of gaseous friction, according to our hypothesis, is, that particles having the mean velocity of translation belonging to one layer of the gas, pass out of it into another layer having a different velocity of translation ; and by striking against the particles of the second layer, exert upon it a tangential force which constitutes the internal friction of the gas. The whole friction between two portions of gas separated by a plane surface, depends upon the total action between all the layers on the one side of that surface upon all the layers on the other side.
+
+Prop. XIII. To find the internal friction in a system of moving particles.
+
+Let the system be divided into layers parallel to the plane of xy, and let the motion of translation of each layer be u in the direction of x, and let u = A+Bz. We have to consider the mutual action between the layers on the positive and negative sides of the plane xy. Let us first determine the action between two layers dz and dz\ at distances z and — z' on opposite sides of this plane, each unit of area. The number of particles which, starting from dz in unit of time, reach a distance between nl and (n-{-dn)l is by (19),
+
+N J e"** dz dn.
+
+The number of these which have the ends of their paths in the layer dz' is
+
+N — -jt e"" dz dz' dn.
+
+The mean velocity in the direction of x which each of these has before impact is A + Bz, and after impact A+Bz'; and its mass is M, so that a mean
+
+ILLUSTRATIONS OF THE DYNAAIICAL THEORY OF GASES. 391
+
+momentum =MB{z-z) is communicated by each particle. The whole action due to these collisions is therefore
+
+NMB ^, (z - z) e-** dz dz dn.
+
+We must first integrate with respect to z' between z' = 0 and z' = z — nl; this gives
+
+^NMB 2^ (nH' -z')e-''dz dn
+
+for the action between the layer dz and all the layers below the plane xy. Then integrate from z = 0 to z = nl,
+
+^MNBlm'e-'' dn. Integrate from n = 0 to n = oo , and we find the whole friction between unit of area above and below the plane to be
+
+where /x is the ordinary coefficient of internal friction,
+
+-i'^^-iTlS" • ^^^>'
+
+where p is the density, I the mean length of path of a particle, and v the
+
+... 2a ^ lYk
+
+mean velocity v = -j= = 2 J — ,
+
+'=I^V.T (^^)-
+
+Now Professor Stokes finds by experiments on air.
+
+J:
+
+'^ = •116.
+
+If we suppose n/^ = 930 feet per second for air at 60°, and therefore the mean velocity 1^ = 1505 feet per second, then the value of I, the mean distance travelled over by a particle between consecutive collisions, =447^000^^ ^^ ^^ inch, and each particle makes 8,077,200,000 collisions per second.
+
+A remarkable result here presented to us in equation (24), is that if this explanation of gaseous friction be true, the coefficient of friction is independent of the density. Such a consequence of a mathematical theory is very startling, and the only experiment I have met with on the subject does not seem to confirm it. We must next compare our theory with what is known of the difiusion of gases, and the conduction of heat through a gas.

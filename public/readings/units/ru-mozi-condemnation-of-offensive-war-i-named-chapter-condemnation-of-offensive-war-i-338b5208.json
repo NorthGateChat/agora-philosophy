@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-mozi-condemnation-of-offensive-war-i-named-chapter-condemnation-of-offensive-war-i-338b5208",
+  "title": "篇 Condemnation of Offensive War I",
+  "englishTitle": "Chapter Condemnation of Offensive War I",
+  "work": "《墨子·非攻上》",
+  "englishWork": "Mozi, Condemnation of Offensive War I",
+  "locator": "篇 Condemnation of Offensive War I",
+  "englishLocator": "Chapter Condemnation of Offensive War I",
+  "version": "中国哲学书电子化计划《墨子》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Mozi; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/mozi/condemnation-of-offensive-war-i",
+  "preparedSourceUrl": "https://zh.wikisource.org/w/index.php?title=%E5%A2%A8%E5%AD%90%2F%E9%9D%9E%E6%94%BB%E4%B8%8A&oldid=1650236",
+  "source": {
+    "url": "https://zh.wikisource.org/w/index.php?title=%E5%A2%A8%E5%AD%90%2F%E9%9D%9E%E6%94%BB%E4%B8%8A&oldid=1650236",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&oldid=1650236&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "9f489e4e70db314fcc7ddfe7f58f32624c5e712024aa65b7a1a739949b4e0f3b"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "efe3b87297d61d8e65a5638fff1f4b062816c7666fcf4b0821d5a220a4294770",
+  "inputHash": "7bdc938aa7932b6d188af911365126964d04bc9cbf5911b8a5cf631b4f055d6d",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "今有一人，入人園圃，竊其桃李，衆聞則非之，上爲政者得則罰之。此何也？以虧人自利也。至攘人犬豕雞豚者，其不義又甚入人園圃竊桃李。是何故也？以虧人愈多，其不仁茲甚，罪益厚。至入人欄廏，取人馬牛者，其不仁義又甚攘人犬豕雞豚。此何故也？以其虧人愈多。苟虧人愈多，其不仁茲甚，罪益厚。至殺不辜人也，扡其衣裘，取戈劍者，其不義又甚入人欄廄取人馬牛。此何故也？以其虧人愈多。苟虧人愈多，其不仁茲甚矣，罪益厚。當此，天下之君子皆知而非之，謂之不義。今至大爲攻國，則弗知非，從而譽之，謂之義。此可謂知義與不義之別乎？"
+    },
+    {
+      "id": "p0002",
+      "text": "殺一人謂之不義，必有一死罪矣，若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣。當此，天下之君子皆知而非之，謂之不義。今至大爲不義攻國，則弗知非，從而譽之，謂之義，情不知其不義也，故書其言以遺後世。若知其不義也，夫奚說書其不義以遺後世哉？"
+    },
+    {
+      "id": "p0003",
+      "text": "今有人於此，少見黑曰黑，多見黑曰白，則必以此人不知白黑之辯矣；少嘗苦曰苦，多嘗苦曰甘，則必以此人爲不知甘苦之辯矣。今小爲非，則知而非之。大爲非攻國，則不知非，從而譽之，謂之義。此可謂知義與不義之辯乎？是以知天下之君子也，辯義與不義之亂也。"
+    }
+  ],
+  "anchors": {
+    "chinese-mozi-against-aggression": {
+      "paragraphId": "p0002",
+      "start": 70,
+      "end": 93,
+      "quote": "今至大为不义攻国，则弗知非，从而誉之，谓之义。",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

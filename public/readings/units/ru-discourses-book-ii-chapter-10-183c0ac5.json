@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-discourses-book-ii-chapter-10-183c0ac5",
+  "title": "卷 II · 章 10",
+  "englishTitle": "Book II · Chapter 10",
+  "work": "《论说集》",
+  "englishWork": "Discourses",
+  "locator": "卷 II · 章 10",
+  "englishLocator": "Book II · Chapter 10",
+  "version": "古登堡计划乔治·朗公版英译，爱比克泰德《论说集》第二卷第10章",
+  "englishVersion": "Project Gutenberg, George Long public-domain translation, Epictetus, Discourses II.10",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+    "contentType": "text/plain",
+    "sha256": "38c813f7623104e29bbc8cca52703043d45cc06be4557ca4b5d09fd4b6ebd635"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "9b0bcd43569afec22e31f21a1c48f73b6acd121dd263f1fa1ac6665cae898b9b",
+  "inputHash": "0cdd3a8ad1348f2396c8e9c3186b8e658c94742a474c2b3d962f9f7959f4c551",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "HOW WE MAY DISCOVER THE DUTIES OF LIFE FROM NAMES.—Consider who you are. In the first place, you are a man; and this is one who has nothing superior to the faculty of the will, but all other things subjected to it; and the faculty itself he possesses unenslaved and free from subjection. Consider then from what things you have been separated by reason. You have been separated from wild beasts; you have been separated from domestic animals ([Greek: probaton]). Further, you are a citizen of the world, and a part of it, not one of the subservient (serving), but one of the principal (ruling) parts, for you are capable of comprehending the divine administration and of considering the connection of things. What then does the character of a citizen promise (profess)? To hold nothing as profitable to himself; to deliberate about nothing as if he were detached from the community, but to act as the hand or foot would do, if they had reason and understood the constitution of nature, for they would never put themselves in motion nor desire anything otherwise than with reference to the whole. Therefore, the philosophers say well, that if the good man had foreknowledge of what would happen, he would co-operate towards his own sickness and death and mutilation, since he knows that these things are assigned to him according to the universal arrangement, and that the whole is superior to the part, and the state to the citizen. But now because we do not know the future, it is our duty to stick to the things which are in their nature more suitable for our choice, for we were made among other things for this."
+    },
+    {
+      "id": "p0002",
+      "text": "After this, remember that you are a son. What does this character promise? To consider that everything which is the son’s belongs to the father, to obey him in all things, never to blame him to another, nor to say or do anything which does him injury, to yield to him in all things and give way, co-operating with him as far as you can. After this know that you are a brother also, and that to this character it is due to make concessions; to be easily persuaded, to speak good of your brother, never to claim in opposition to him any of the things which are independent of the will, but readily to give them up, that you may have the larger share in what is dependent on the will. For see what a thing it is, in place of a lettuce, if it should so happen, or a seat, to gain for yourself goodness of disposition. How great is the advantage."
+    },
+    {
+      "id": "p0003",
+      "text": "Next to this, if you are a senator of any state, remember that you are a senator; if a youth, that you are a youth; if an old man, that you are an old man; for each of such names, if it comes to be examined, marks out the proper duties. But if you go and blame your brother, I say to you, You have forgotten who you are and what is your name. In the next place, if you were a smith and made a wrong use of the hammer, you would have forgotten the smith; and if you have forgotten the brother and instead of a brother have become an enemy, would you appear not to have changed one thing for another in that case? And if instead of a man, who is a tame animal and social, you are become a mischievous wild beast, treacherous, and biting, have you lost nothing? But (I suppose) you must lose a bit of money that you may suffer damage? And does the loss of nothing else do a man damage? If you had lost the art of grammar or music, would you think the loss of it a damage? and if you shall lose modesty, moderation ([Greek: chtastolaen]) and gentleness, do you think the loss nothing? And yet the things first mentioned are lost by some cause external and independent of the will, and the second by our own fault; and as to the first neither to have them nor to lose them is shameful; but as to the second, not to have them and to lose them is shameful and matter of reproach and a misfortune."
+    },
+    {
+      "id": "p0004",
+      "text": "What then? shall I not hurt him who has hurt me? In the first place consider what hurt ([Greek: blabae]) is, and remember what you have heard from the philosophers. For if the good consists in the will (purpose, intention, [Greek: proaireeis]), and the evil also in the will, see if what you say is not this: What then, since that man has hurt himself by doing an unjust act to me, shall I not hurt myself by doing some unjust act to him? Why do we not imagine to ourselves (mentally think of) something of this kind? But where there is any detriment to the body or to our possession, there is harm there; and where the same thing happens to the faculty of the will, there is (you suppose) no harm; for he who has been deceived or he who has done an unjust act neither suffers in the head nor in the eye nor in the hip, nor does he lose his estate; and we wish for nothing else than (security to) these things. But whether we shall have the will modest and faithful or shameless and faithless, we care not the least, except only in the school so far as a few words are concerned. Therefore our proficiency is limited to these few words; but beyond them it does not exist even in the slightest degree."
+    }
+  ],
+  "anchors": {
+    "epictetus-citizen-of-cosmos": {
+      "paragraphId": "p0001",
+      "start": 463,
+      "end": 548,
+      "quote": "Further, you are a citizen of the world, and a part of it, not one of the subservient, but one of the principal parts, for you are capable of comprehending the divine administration and of considering the connection of things.",
+      "match": "normalized-exact",
+      "segments": [
+        {
+          "paragraphId": "p0001",
+          "start": 463,
+          "end": 548,
+          "text": "Further, you are a citizen of the world, and a part of it, not one of the subservient"
+        },
+        {
+          "paragraphId": "p0001",
+          "start": 558,
+          "end": 584,
+          "text": ", but one of the principal"
+        },
+        {
+          "paragraphId": "p0001",
+          "start": 594,
+          "end": 708,
+          "text": "parts, for you are capable of comprehending the divine administration and of considering the connection of things."
+        }
+      ]
+    }
+  }
+}

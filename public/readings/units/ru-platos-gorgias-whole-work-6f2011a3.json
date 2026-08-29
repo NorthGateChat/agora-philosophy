@@ -1,0 +1,1943 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-platos-gorgias-whole-work-6f2011a3",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "柏拉图《高尔吉亚篇》",
+  "englishWork": "Plato's Gorgias",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "MIT 经典文库 Benjamin Jowett 公版英译，柏拉图《高尔吉亚篇》463d、465a；卡片以省略号标示中间删节",
+  "englishVersion": "MIT Internet Classics Archive, Benjamin Jowett public-domain translation, Plato, Gorgias 463d and 465a; internal omissions marked with ellipses",
+  "sourceUrl": "https://classics.mit.edu/Plato/gorgias.html",
+  "source": {
+    "url": "https://classics.mit.edu/Plato/gorgias.html",
+    "contentType": "text/html",
+    "sha256": "f59401c214a9c8833bab04ccde90e9ec1adb68116344683c20898d29fbf573f4"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "0a9ca5474b7786caf3896c8b3ef9ec4eb246435052b20cb40bacf20812d77d37",
+  "inputHash": "3192aa7697402117437b0a127dec3a68a662e89dbadf1eec75db6f4239734034",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Persons of the Dialogue"
+    },
+    {
+      "id": "p0002",
+      "text": "CALLICLES"
+    },
+    {
+      "id": "p0003",
+      "text": "SOCRATES"
+    },
+    {
+      "id": "p0004",
+      "text": "CHAEREPHON"
+    },
+    {
+      "id": "p0005",
+      "text": "GORGIAS"
+    },
+    {
+      "id": "p0006",
+      "text": "POLUS"
+    },
+    {
+      "id": "p0007",
+      "text": "Scene"
+    },
+    {
+      "id": "p0008",
+      "text": "The house of Callicles."
+    },
+    {
+      "id": "p0009",
+      "text": "Callicles. The wise man, as the proverb says, is late for a fray, but not for a feast."
+    },
+    {
+      "id": "p0010",
+      "text": "Socrates. And are we late for a feast?"
+    },
+    {
+      "id": "p0011",
+      "text": "Cal. Yes, and a delightful feast; for Gorgias has just been exhibiting to us many fine things."
+    },
+    {
+      "id": "p0012",
+      "text": "Soc. It is not my fault, Callicles; our friend Chaerephon is to blame; for he would keep us loitering in the Agora."
+    },
+    {
+      "id": "p0013",
+      "text": "Chaerephon. Never mind, Socrates; the misfortune of which I have been the cause I will also repair; for Gorgias is a friend of mine, and I will make him give the exhibition again either now, or, if you prefer, at some other time."
+    },
+    {
+      "id": "p0014",
+      "text": "Cal. What is the matter, Chaerephon-does Socrates want to hear Gorgias?"
+    },
+    {
+      "id": "p0015",
+      "text": "Chaer. Yes, that was our intention in coming."
+    },
+    {
+      "id": "p0016",
+      "text": "Cal. Come into my house, then; for Gorgias is staying with me, and he shall exhibit to you."
+    },
+    {
+      "id": "p0017",
+      "text": "Soc. Very good, Callicles; but will he answer our questions? for I want to hear from him what is the nature of his art, and what it is which he professes and teaches; he may, as you [Chaerephon] suggest, defer the exhibition to some other time."
+    },
+    {
+      "id": "p0018",
+      "text": "Cal. There is nothing like asking him, Socrates; and indeed to answer questions is a part of his exhibition, for he was saying only just now, that any one in my house might put any question to him, and that he would answer."
+    },
+    {
+      "id": "p0019",
+      "text": "Soc. How fortunate! will you ask him, Chaerephon-?"
+    },
+    {
+      "id": "p0020",
+      "text": "Chaer. What shall I ask him?"
+    },
+    {
+      "id": "p0021",
+      "text": "Soc. Ask him who he is."
+    },
+    {
+      "id": "p0022",
+      "text": "Chaer. What do you mean?"
+    },
+    {
+      "id": "p0023",
+      "text": "Soc. I mean such a question as would elicit from him, if he had been a maker of shoes, the answer that he is a cobbler. Do you understand?"
+    },
+    {
+      "id": "p0024",
+      "text": "Chaer. I understand, and will ask him: Tell me, Gorgias, is our friend Callicles right in saying that you undertake to answer any questions which you are asked?"
+    },
+    {
+      "id": "p0025",
+      "text": "Gorgias. Quite right, Chaerephon: I was saying as much only just now; and I may add, that many years have elapsed since any one has asked me a new one."
+    },
+    {
+      "id": "p0026",
+      "text": "Chaer. Then you must be very ready, Gorgias."
+    },
+    {
+      "id": "p0027",
+      "text": "Gor. Of that, Chaerephon, you can make trial."
+    },
+    {
+      "id": "p0028",
+      "text": "Polus. Yes, indeed, and if you like, Chaerephon, you may make trial of me too, for I think that Gorgias, who has been talking a long time, is tired."
+    },
+    {
+      "id": "p0029",
+      "text": "Chaer. And do you, Polus, think that you can answer better than Gorgias?"
+    },
+    {
+      "id": "p0030",
+      "text": "Pol. What does that matter if I answer well enough for you?"
+    },
+    {
+      "id": "p0031",
+      "text": "Chaer. Not at all:-and you shall answer if you like."
+    },
+    {
+      "id": "p0032",
+      "text": "Pol. Ask:-"
+    },
+    {
+      "id": "p0033",
+      "text": "Chaer. My question is this: If Gorgias had the skill of his brother Herodicus, what ought we to call him? Ought he not to have the name which is given to his brother?"
+    },
+    {
+      "id": "p0034",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0035",
+      "text": "Chaer. Then we should be right in calling him a physician?"
+    },
+    {
+      "id": "p0036",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0037",
+      "text": "Chaer. And if he had the skill of Aristophon the son of Aglaophon, or of his brother Polygnotus, what ought we to call him?"
+    },
+    {
+      "id": "p0038",
+      "text": "Pol. Clearly, a painter."
+    },
+    {
+      "id": "p0039",
+      "text": "Chaer. But now what shall we call him-what is the art in which he is skilled."
+    },
+    {
+      "id": "p0040",
+      "text": "Pol. O Chaerephon, there are many arts among mankind which are experimental, and have their origin in experience, for experience makes the days of men to proceed according to art, and inexperience according to chance, and different persons in different ways are proficient in different arts, and the best persons in the best arts. And our friend Gorgias is one of the best, and the art in which he is a proficient is the noblest."
+    },
+    {
+      "id": "p0041",
+      "text": "Soc. Polus has been taught how to make a capital speech, Gorgias; but he is not fulfilling the promise which he made to Chaerephon."
+    },
+    {
+      "id": "p0042",
+      "text": "Gor. What do you mean, Socrates?"
+    },
+    {
+      "id": "p0043",
+      "text": "Soc. I mean that he has not exactly answered the question which he was asked."
+    },
+    {
+      "id": "p0044",
+      "text": "Gor. Then why not ask him yourself?"
+    },
+    {
+      "id": "p0045",
+      "text": "Soc. But I would much rather ask you, if you are disposed to answer: for I see, from the few words which Polus has uttered, that he has attended more to the art which is called rhetoric than to dialectic."
+    },
+    {
+      "id": "p0046",
+      "text": "Pol. What makes you say so, Socrates?"
+    },
+    {
+      "id": "p0047",
+      "text": "Soc. Because, Polus, when Chaerephon asked you what was the art which Gorgias knows, you praised it as if you were answering some one who found fault with it, but you never said what the art was."
+    },
+    {
+      "id": "p0048",
+      "text": "Pol. Why, did I not say that it was the noblest of arts?"
+    },
+    {
+      "id": "p0049",
+      "text": "Soc. Yes, indeed, but that was no answer to the question: nobody asked what was the quality, but what was the nature, of the art, and by what name we were to describe Gorgias. And I would still beg you briefly and clearly, as you answered Chaerephon when he asked you at first, to say what this art is, and what we ought to call Gorgias: Or rather, Gorgias, let me turn to you, and ask the same question what are we to call you, and what is the art which you profess?"
+    },
+    {
+      "id": "p0050",
+      "text": "Gor. Rhetoric, Socrates, is my art."
+    },
+    {
+      "id": "p0051",
+      "text": "Soc. Then I am to call you a rhetorician?"
+    },
+    {
+      "id": "p0052",
+      "text": "Gor. Yes, Socrates, and a good one too, if you would call me that which, in Homeric language, \"I boast myself to be.\""
+    },
+    {
+      "id": "p0053",
+      "text": "Soc. I should wish to do so."
+    },
+    {
+      "id": "p0054",
+      "text": "Gor. Then pray do."
+    },
+    {
+      "id": "p0055",
+      "text": "Soc. And are we to say that you are able to make other men rhetoricians?"
+    },
+    {
+      "id": "p0056",
+      "text": "Gor. Yes, that is exactly what I profess to make them, not only at Athens, but in all places."
+    },
+    {
+      "id": "p0057",
+      "text": "Soc. And will you continue to ask and answer questions, Gorgias, as we are at present doing and reserve for another occasion the longer mode of speech which Polus was attempting? Will you keep your promise, and answer shortly the questions which are asked of you?"
+    },
+    {
+      "id": "p0058",
+      "text": "Gor. Some answers, Socrates, are of necessity longer; but I will do my best to make them as short as possible; for a part of my profession is that I can be as short as any one."
+    },
+    {
+      "id": "p0059",
+      "text": "Soc. That is what is wanted, Gorgias; exhibit the shorter method now, and the longer one at some other time."
+    },
+    {
+      "id": "p0060",
+      "text": "Gor. Well, I will; and you will certainly say, that you never heard a man use fewer words."
+    },
+    {
+      "id": "p0061",
+      "text": "Soc. Very good then; as you profess to be a rhetorician, and a maker of rhetoricians, let me ask you, with what is rhetoric concerned: I might ask with what is weaving concerned, and you would reply (would you not?), with the making of garments?"
+    },
+    {
+      "id": "p0062",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0063",
+      "text": "Soc. And music is concerned with the composition of melodies?"
+    },
+    {
+      "id": "p0064",
+      "text": "Gor. It is."
+    },
+    {
+      "id": "p0065",
+      "text": "Soc. By Here, Gorgias, I admire the surpassing brevity of your answers."
+    },
+    {
+      "id": "p0066",
+      "text": "Gor. Yes, Socrates, I do think myself good at that."
+    },
+    {
+      "id": "p0067",
+      "text": "Soc. I am glad to hear it; answer me in like manner about rhetoric: with what is rhetoric concerned?"
+    },
+    {
+      "id": "p0068",
+      "text": "Gor. With discourse."
+    },
+    {
+      "id": "p0069",
+      "text": "Soc. What sort of discourse, Gorgias?-such discourse as would teach the sick under what treatment they might get well?"
+    },
+    {
+      "id": "p0070",
+      "text": "Gor. No."
+    },
+    {
+      "id": "p0071",
+      "text": "Soc. Then rhetoric does not treat of all kinds of discourse?"
+    },
+    {
+      "id": "p0072",
+      "text": "Gor. Certainly not."
+    },
+    {
+      "id": "p0073",
+      "text": "Soc. And yet rhetoric makes men able to speak?"
+    },
+    {
+      "id": "p0074",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0075",
+      "text": "Soc. And to understand that about which they speak?"
+    },
+    {
+      "id": "p0076",
+      "text": "Gor. Of course."
+    },
+    {
+      "id": "p0077",
+      "text": "Soc. But does not the art of medicine, which we were just now mentioning, also make men able to understand and speak about the sick?"
+    },
+    {
+      "id": "p0078",
+      "text": "Gor. Certainly."
+    },
+    {
+      "id": "p0079",
+      "text": "Soc. Then medicine also treats of discourse?"
+    },
+    {
+      "id": "p0080",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0081",
+      "text": "Soc. Of discourse concerning diseases?"
+    },
+    {
+      "id": "p0082",
+      "text": "Gor. Just so."
+    },
+    {
+      "id": "p0083",
+      "text": "Soc. And does not gymnastic also treat of discourse concerning the good or evil condition of the body?"
+    },
+    {
+      "id": "p0084",
+      "text": "Gor. Very true."
+    },
+    {
+      "id": "p0085",
+      "text": "Soc. And the same, Gorgias, is true of the other arts:-all of them treat of discourse concerning the subjects with which they severally have to do."
+    },
+    {
+      "id": "p0086",
+      "text": "Gor. Clearly."
+    },
+    {
+      "id": "p0087",
+      "text": "Soc. Then why, if you call rhetoric the art which treats of discourse, and all the other arts treat of discourse, do you not call them arts of rhetoric?"
+    },
+    {
+      "id": "p0088",
+      "text": "Gor. Because, Socrates, the knowledge of the other arts has only to do with some sort of external action, as of the hand; but there is no such action of the hand in rhetoric which works and takes effect only through the medium of discourse. And therefore I am justified in saying that rhetoric treats of discourse."
+    },
+    {
+      "id": "p0089",
+      "text": "Soc. I am not sure whether I entirely understand you, but I dare say I shall soon know better; please to answer me a question:-you would allow that there are arts?"
+    },
+    {
+      "id": "p0090",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0091",
+      "text": "Soc. As to the arts generally, they are for the most part concerned with doing, and require little or no speaking; in painting, and statuary, and many other arts, the work may proceed in silence; and of such arts I suppose you would say that they do not come within the province of rhetoric."
+    },
+    {
+      "id": "p0092",
+      "text": "Gor. You perfectly conceive my meaning, Socrates."
+    },
+    {
+      "id": "p0093",
+      "text": "Soc. But there are other arts which work wholly through the medium of language, and require either no action or very little, as, for example, the arts of arithmetic, of calculation, of geometry, and of playing draughts; in some of these speech is pretty nearly co-extensive with action, but in most of them the verbal element is greater-they depend wholly on words for their efficacy and power: and I take your meaning to be that rhetoric is an art of this latter sort?"
+    },
+    {
+      "id": "p0094",
+      "text": "Gor. Exactly."
+    },
+    {
+      "id": "p0095",
+      "text": "Soc. And yet I do not believe that you really mean to call any of these arts rhetoric; although the precise expression which you used was, that rhetoric is an art which works and takes effect only through the medium of discourse; and an adversary who wished to be captious might say, \"And so, Gorgias, you call arithmetic rhetoric.\" But I do not think that you really call arithmetic rhetoric any more than geometry would be so called by you."
+    },
+    {
+      "id": "p0096",
+      "text": "Gor. You are quite right, Socrates, in your apprehension of my meaning."
+    },
+    {
+      "id": "p0097",
+      "text": "Soc. Well, then, let me now have the rest of my answer:-seeing that rhetoric is one of those arts which works mainly by the use of words, and there are other arts which also use words, tell me what is that quality in words with which rhetoric is concerned:-Suppose that a person asks me about some of the arts which I was mentioning just now; he might say, \"Socrates, what is arithmetic?\" and I should reply to him, as you replied to me, that arithmetic is one of those arts which take effect through words. And then he would proceed to ask: \"Words about what?\" and I should reply, Words about and even numbers, and how many there are of each. And if he asked again: \"What is the art of calculation?\" I should say, That also is one of the arts which is concerned wholly with words. And if he further said, \"Concerned with what?\" I should say, like the clerks in the assembly, \"as aforesaid\" of arithmetic, but with a difference, the difference being that the art of calculation considers not only the quantities of odd and even numbers, but also their numerical relations to themselves and to one another. And suppose, again, I were to say that astronomy is only word-he would ask, \"Words about what, Socrates?\" and I should answer, that astronomy tells us about the motions of the stars and sun and moon, and their relative swiftness."
+    },
+    {
+      "id": "p0098",
+      "text": "Gor. You would be quite right, Socrates."
+    },
+    {
+      "id": "p0099",
+      "text": "Soc. And now let us have from you, Gorgias, the truth about rhetoric: which you would admit (would you not?) to be one of those arts which act always and fulfil all their ends through the medium of words?"
+    },
+    {
+      "id": "p0100",
+      "text": "Gor. True."
+    },
+    {
+      "id": "p0101",
+      "text": "Soc. Words which do what? I should ask. To what class of things do the words which rhetoric uses relate?"
+    },
+    {
+      "id": "p0102",
+      "text": "Gor. To the greatest, Socrates, and the best of human things."
+    },
+    {
+      "id": "p0103",
+      "text": "Soc. That again, Gorgias is ambiguous; I am still in the dark: for which are the greatest and best of human things? I dare say that you have heard men singing at feasts the old drinking song, in which the singers enumerate the goods of life, first health, beauty next, thirdly, as the writer of the song says, wealth honesty obtained."
+    },
+    {
+      "id": "p0104",
+      "text": "Gor. Yes, I know the song; but what is your drift?"
+    },
+    {
+      "id": "p0105",
+      "text": "Soc. I mean to say, that the producers of those things which the author of the song praises, that is to say, the physician, the trainer, the money-maker, will at once come to you, and first the physician will say: \"O Socrates, Gorgias is deceiving you, for my art is concerned with the greatest good of men and not his.\" And when I ask, Who are you? he will reply, \"I am a physician.\" What do you mean? I shall say. Do you mean that your art produces the greatest good? \"Certainly,\" he will answer, \"for is not health the greatest good? What greater good can men have, Socrates?\" And after him the trainer will come and say, \"I too, Socrates, shall be greatly surprised if Gorgias can show more good of his art than I can show of mine.\" To him again I shall say, Who are you, honest friend, and what is your business? \"I am a trainer,\" he will reply, \"and my business is to make men beautiful and strong in body.\" When I have done with the trainer, there arrives the money-maker, and he, as I expect, utterly despise them all. \"Consider Socrates,\" he will say, \"whether Gorgias or any one-else can produce any greater good than wealth.\" Well, you and I say to him, and are you a creator of wealth? \"Yes,\" he replies. And who are you? \"A money-maker.\" And do you consider wealth to be the greatest good of man? \"Of course,\" will be his reply. And we shall rejoin: Yes; but our friend Gorgias contends that his art produces a greater good than yours. And then he will be sure to go on and ask, \"What good? Let Gorgias answer.\" Now I want you, Gorgias, to imagine that this question is asked of you by them and by me; What is that which, as you say, is the greatest good of man, and of which you are the creator? Answer us."
+    },
+    {
+      "id": "p0106",
+      "text": "Gor. That good, Socrates, which is truly the greatest, being that which gives to men freedom in their own persons, and to individuals the power of ruling over others in their several states."
+    },
+    {
+      "id": "p0107",
+      "text": "Soc. And what would you consider this to be?"
+    },
+    {
+      "id": "p0108",
+      "text": "Gor. What is there greater than the word which persuades the judges in the courts, or the senators in the council, or the citizens in the assembly, or at any other political meeting?-if you have the power of uttering this word, you will have the physician your slave, and the trainer your slave, and the money-maker of whom you talk will be found to gather treasures, not for himself, but for you who are able to speak and to persuade the multitude."
+    },
+    {
+      "id": "p0109",
+      "text": "Soc. Now I think, Gorgias, that you have very accurately explained what you conceive to be the art of rhetoric; and you mean to say, if I am not mistaken, that rhetoric is the artificer of persuasion, having this and no other business, and that this is her crown and end. Do you know any other effect of rhetoric over and above that of producing persuasion?"
+    },
+    {
+      "id": "p0110",
+      "text": "Gor. No: the definition seems to me very fair, Socrates; for persuasion is the chief end of rhetoric."
+    },
+    {
+      "id": "p0111",
+      "text": "Soc. Then hear me, Gorgias, for I am quite sure that if there ever was a man who-entered on the discussion of a matter from a pure love of knowing the truth, I am such a one, and I should say the same of you."
+    },
+    {
+      "id": "p0112",
+      "text": "Gor. What is coming, Socrates?"
+    },
+    {
+      "id": "p0113",
+      "text": "Soc. I will tell you: I am very well aware that do not know what, according to you, is the exact nature, or what are the topics of that persuasion of which you speak, and which is given by rhetoric; although I have a suspicion about both the one and the other. And I am going to ask-what is this power of persuasion which is given by rhetoric, and about what? But why, if I have a suspicion, do I ask instead of telling you? Not for your sake, but in order that the argument may proceed in such a manner as is most likely to set forth the truth. And I would have you observe, that I am right in asking this further question: If I asked, \"What sort of a painter is Zeuxis?\" and you said, \"The painter of figures,\" should I not be right in asking, What kind of figures, and where do you find them?\""
+    },
+    {
+      "id": "p0114",
+      "text": "Gor. Certainly."
+    },
+    {
+      "id": "p0115",
+      "text": "Soc. And the reason for asking this second question would be, that there are other painters besides, who paint many other figures?"
+    },
+    {
+      "id": "p0116",
+      "text": "Gor. True."
+    },
+    {
+      "id": "p0117",
+      "text": "Soc. But if there had been no one but Zeuxis who painted them, then you would have answered very well?"
+    },
+    {
+      "id": "p0118",
+      "text": "Gor. Quite so."
+    },
+    {
+      "id": "p0119",
+      "text": "Soc. Now I was it to know about rhetoric in the same way;-is rhetoric the only art which brings persuasion, or do other arts have the same effect? I mean to say-Does he who teaches anything persuade men of that which he teaches or not?"
+    },
+    {
+      "id": "p0120",
+      "text": "Gor. He persuades, Socrates,-there can be no mistake about that."
+    },
+    {
+      "id": "p0121",
+      "text": "Soc. Again, if we take the arts of which we were just now speaking:-do not arithmetic and the arithmeticians teach us the properties of number?"
+    },
+    {
+      "id": "p0122",
+      "text": "Gor. Certainly."
+    },
+    {
+      "id": "p0123",
+      "text": "Soc. And therefore persuade us of them?"
+    },
+    {
+      "id": "p0124",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0125",
+      "text": "Soc. Then arithmetic as well as rhetoric is an artificer of persuasion?"
+    },
+    {
+      "id": "p0126",
+      "text": "Gor. Clearly."
+    },
+    {
+      "id": "p0127",
+      "text": "Soc. And if any one asks us what sort of persuasion, and about what,-we shall answer, persuasion which teaches the quantity of odd and even; and we shall be able to show that all the other arts of which we were just now speaking are artificers of persuasion, and of what sort, and about what."
+    },
+    {
+      "id": "p0128",
+      "text": "Gor. Very true."
+    },
+    {
+      "id": "p0129",
+      "text": "Soc. Then rhetoric is not the only artificer of persuasion?"
+    },
+    {
+      "id": "p0130",
+      "text": "Gor. True."
+    },
+    {
+      "id": "p0131",
+      "text": "Soc. Seeing, then, that not only rhetoric works by persuasion, but that other arts do the same, as in the case of the painter, a question has arisen which is a very fair one: Of what persuasion is rhetoric the artificer, and about what?-is not that a fair way of putting the question?"
+    },
+    {
+      "id": "p0132",
+      "text": "Gor. I think so."
+    },
+    {
+      "id": "p0133",
+      "text": "Soc. Then, if you approve the question, Gorgias, what is the answer?"
+    },
+    {
+      "id": "p0134",
+      "text": "Gor. I answer, Socrates, that rhetoric is the art of persuasion in courts of law and other assemblies, as I was just now saying, and about the just and unjust."
+    },
+    {
+      "id": "p0135",
+      "text": "Soc. And that, Gorgias, was what I was suspecting to be your notion; yet I would not have you wonder if by-and-by I am found repeating a seemingly plain question; for I ask not in order to confute you, but as I was saying that the argument may proceed consecutively, and that we may not get the habit of anticipating and suspecting the meaning of one another's words; I would have you develop your own views in your own way, whatever may be your hypothesis."
+    },
+    {
+      "id": "p0136",
+      "text": "Gor. I think that you are quite right, Socrates."
+    },
+    {
+      "id": "p0137",
+      "text": "Soc. Then let me raise another question; there is such a thing as \"having learned\"?"
+    },
+    {
+      "id": "p0138",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0139",
+      "text": "Soc. And there is also \"having believed\"?"
+    },
+    {
+      "id": "p0140",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0141",
+      "text": "Soc. And is the \"having learned\" the same \"having believed,\" and are learning and belief the same things?"
+    },
+    {
+      "id": "p0142",
+      "text": "Gor. In my judgment, Socrates, they are not the same."
+    },
+    {
+      "id": "p0143",
+      "text": "Soc. And your judgment is right, as you may ascertain in this way:-If a person were to say to you, \"Is there, Gorgias, a false belief as well as a true?\" -you would reply, if I am not mistaken, that there is."
+    },
+    {
+      "id": "p0144",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0145",
+      "text": "Soc. Well, but is there a false knowledge as well as a true?"
+    },
+    {
+      "id": "p0146",
+      "text": "Gor. No."
+    },
+    {
+      "id": "p0147",
+      "text": "Soc. No, indeed; and this again proves that knowledge and belief differ."
+    },
+    {
+      "id": "p0148",
+      "text": "Gor. Very true."
+    },
+    {
+      "id": "p0149",
+      "text": "Soc. And yet those who have learned as well as those who have believed are persuaded?"
+    },
+    {
+      "id": "p0150",
+      "text": "Gor. Just so."
+    },
+    {
+      "id": "p0151",
+      "text": "Soc. Shall we then assume two sorts of persuasion,-one which is the source of belief without knowledge, as the other is of knowledge?"
+    },
+    {
+      "id": "p0152",
+      "text": "Gor. By all means."
+    },
+    {
+      "id": "p0153",
+      "text": "Soc. And which sort of persuasion does rhetoric create in courts of law and other assemblies about the just and unjust, the sort of persuasion which gives belief without knowledge, or that which gives knowledge?"
+    },
+    {
+      "id": "p0154",
+      "text": "Gor. Clearly, Socrates, that which only gives belief."
+    },
+    {
+      "id": "p0155",
+      "text": "Soc. Then rhetoric, as would appear, is the artificer of a persuasion which creates belief about the just and unjust, but gives no instruction about them?"
+    },
+    {
+      "id": "p0156",
+      "text": "Gor. True."
+    },
+    {
+      "id": "p0157",
+      "text": "Soc. And the rhetorician does not instruct the courts of law or other assemblies about things just and unjust, but he creates belief about them; for no one can be supposed to instruct such a vast multitude about such high matters in a short time?"
+    },
+    {
+      "id": "p0158",
+      "text": "Gor. Certainly not."
+    },
+    {
+      "id": "p0159",
+      "text": "Soc. Come, then, and let us see what we really mean about rhetoric; for I do not know what my own meaning is as yet. When the assembly meets to elect a physician or a shipwright or any other craftsman, will the rhetorician be taken into counsel? Surely not. For at every election he ought to be chosen who is most skilled; and, again, when walls have to be built or harbours or docks to be constructed, not the rhetorician but the master workman will advise; or when generals have to be chosen and an order of battle arranged, or a proposition taken, then the military will advise and not the rhetoricians: what do you say, Gorgias? Since you profess to be a rhetorician and a maker of rhetoricians, I cannot do better than learn the nature of your art from you. And here let me assure you that I have your interest in view as well as my own. For likely enough some one or other of the young men present might desire to become your pupil, and in fact I see some, and a good many too, who have this wish, but they would be too modest to question you. And therefore when you are interrogated by me, I would have you imagine that you are interrogated by them. \"What is the use of coming to you, Gorgias? they will say about what will you teach us to advise the state?-about the just and unjust only, or about those other things also which Socrates has just mentioned? How will you answer them?"
+    },
+    {
+      "id": "p0160",
+      "text": "Gor. I like your way of leading us on, Socrates, and I will endeavour to reveal to you the whole nature of rhetoric. You must have heard, I think, that the docks and the walls of the Athenians and the plan of the harbour were devised in accordance with the counsels, partly of Themistocles, and partly of Pericles, and not at the suggestion of the builders."
+    },
+    {
+      "id": "p0161",
+      "text": "Soc. Such is the tradition, Gorgias, about Themistocles; and I myself heard the speech of Pericles when he advised us about the middle wall."
+    },
+    {
+      "id": "p0162",
+      "text": "Gor. And you will observe, Socrates, that when a decision has to be given in such matters the rhetoricians are the advisers; they are the men who win their point."
+    },
+    {
+      "id": "p0163",
+      "text": "Soc. I had that in my admiring mind, Gorgias, when I asked what is the nature of rhetoric, which always appears to me, when I look at the matter in this way, to be a marvel of greatness."
+    },
+    {
+      "id": "p0164",
+      "text": "Gor. A marvel, indeed, Socrates, if you only knew how rhetoric comprehends and holds under her sway all the inferior arts. Let me offer you a striking example of this. On several occasions I have been with my brother Herodicus or some other physician to see one of his patients, who would not allow the physician to give him medicine, or apply a knife or hot iron to him; and I have persuaded him to do for me what he would not do for the physician just by the use of rhetoric. And I say that if a rhetorician and a physician were to go to any city, and had there to argue in the Ecclesia or any other assembly as to which of them should be elected state-physician, the physician would have no chance; but he who could speak would be chosen if he wished; and in a contest with a man of any other profession the rhetorician more than any one would have the power of getting himself chosen, for he can speak more persuasively to the multitude than any of them, and on any subject. Such is the nature and power of the art of rhetoric And yet, Socrates, rhetoric should be used like any other competitive art, not against everybody-the rhetorician ought not to abuse his strength any more than a pugilist or pancratiast or other master of fence; because he has powers which are more than a match either for friend or enemy, he ought not therefore to strike, stab, or slay his friends. Suppose a man to have been trained in the palestra and to be a skilful boxer-he in the fulness of his strength goes and strikes his father or mother or one of his familiars or friends; but that is no reason why the trainers or fencing-masters should be held in detestation or banished from the city-surely not. For they taught their art for a good purpose, to be used against enemies and evil-doers, in self-defence not in aggression, and others have perverted their instructions, and turned to a bad use their own strength and skill. But not on this account are the teachers bad, neither is the art in fault, or bad in itself; I should rather say that those who make a bad use of the art are to blame. And the same argument holds good of rhetoric; for the rhetorician can speak against all men and upon any subject-in short, he can persuade the multitude better than any other man of anything which he pleases, but he should not therefore seek to defraud the physician or any other artist of his reputation merely because he has the power; he ought to use rhetoric fairly, as he would also use his athletic powers. And if after having become a rhetorician he makes a bad use of his strength and skill, his instructor surely ought not on that account to be held in detestation or banished. For he was intended by his teacher to make a good use of his instructions, but he abuses them. And therefore he is the person who ought to be held in detestation, banished, and put to death, and not his instructor."
+    },
+    {
+      "id": "p0165",
+      "text": "Soc. You, Gorgias, like myself, have had great experience of disputations, and you must have observed, I think, that they do not always terminate in mutual edification, or in the definition by either party of the subjects which they are discussing; but disagreements are apt to arise-somebody says that another has not spoken truly or clearly; and then they get into a passion and begin to quarrel, both parties conceiving that their opponents are arguing from personal feeling only and jealousy of themselves, not from any interest in the question at issue. And sometimes they will go on abusing one another until the company at last are quite vexed at themselves for ever listening to such fellows. Why do I say this? Why, because I cannot help feeling that you are now saying what is not quite consistent or accordant with what you were saying at first about rhetoric. And I am afraid to point this out to you, lest you should think that I have some animosity against you, and that I speak, not for the sake of discovering the truth, but from jealousy of you. Now if you are one of my sort, I should like to cross-examine you, but if not I will let you alone. And what is my sort? you will ask. I am one of those who are very willing to be refuted if I say anything which is not true, and very willing to refute any one else who says what is not true, and quite as ready to be refuted as to refute-I for I hold that this is the greater gain of the two, just as the gain is greater of being cured of a very great evil than of curing another. For I imagine that there is no evil which a man can endure so great as an erroneous opinion about the matters of which we are speaking and if you claim to be one of my sort, let us have the discussion out, but if you would rather have done, no matter-let us make an end of it."
+    },
+    {
+      "id": "p0166",
+      "text": "Gor. I should say, Socrates, that I am quite the man whom you indicate; but, perhaps, we ought to consider the audience, for, before you came, I had already given a long exhibition, and if we proceed the argument may run on to a great length. And therefore I think that we should consider whether we, may not be detaining some part of the company when they are wanting to do something else."
+    },
+    {
+      "id": "p0167",
+      "text": "Chaer. You hear the audience cheering, Gorgias and Socrates, which shows their desire to listen to you; and for myself, Heaven forbid that I should have any business on hand which would take me Away from a discussion so interesting and so ably maintained."
+    },
+    {
+      "id": "p0168",
+      "text": "Cal. By the gods, Chaerephon, although I have been present at many discussions, I doubt whether I was ever so much delighted before, and therefore if you go on discoursing all day I shall be the better pleased."
+    },
+    {
+      "id": "p0169",
+      "text": "Soc. I may truly say, Callicles, that I am willing, if Gorgias is."
+    },
+    {
+      "id": "p0170",
+      "text": "Gor. After all this, Socrates, I should be disgraced if I refused, especially as I have promised to answer all comers; in accordance with the wishes of the company, them, do you begin. and ask of me any question which you like."
+    },
+    {
+      "id": "p0171",
+      "text": "Soc. Let me tell you then, Gorgias, what surprises me in your words; though I dare say that you may be right, and I may have understood your meaning. You say that you can make any man, who will learn of you, a rhetorician?"
+    },
+    {
+      "id": "p0172",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0173",
+      "text": "Soc. Do you mean that you will teach him to gain the ears of the multitude on any subject, and this not by instruction but by persuasion?"
+    },
+    {
+      "id": "p0174",
+      "text": "Gor. Quite so."
+    },
+    {
+      "id": "p0175",
+      "text": "Soc. You were saying, in fact, that the rhetorician will have, greater powers of persuasion than the physician even in a matter of health?"
+    },
+    {
+      "id": "p0176",
+      "text": "Gor. Yes, with the multitude-that is."
+    },
+    {
+      "id": "p0177",
+      "text": "Soc. You mean to say, with the ignorant; for with those who know he cannot be supposed to have greater powers of persuasion."
+    },
+    {
+      "id": "p0178",
+      "text": "Gor. Very true."
+    },
+    {
+      "id": "p0179",
+      "text": "Soc. But if he is to have more power of persuasion than the physician, he will have greater power than he who knows?"
+    },
+    {
+      "id": "p0180",
+      "text": "Gor. Certainly."
+    },
+    {
+      "id": "p0181",
+      "text": "Soc. Although he is not a physician:-is he?"
+    },
+    {
+      "id": "p0182",
+      "text": "Gor. No."
+    },
+    {
+      "id": "p0183",
+      "text": "Soc. And he who is not a physician must, obviously, be ignorant of what the physician knows."
+    },
+    {
+      "id": "p0184",
+      "text": "Gor. Clearly."
+    },
+    {
+      "id": "p0185",
+      "text": "Soc. Then, when the rhetorician is more persuasive than the physician, the ignorant is more persuasive with the ignorant than he who has knowledge?-is not that the inference?"
+    },
+    {
+      "id": "p0186",
+      "text": "Gor. In the case supposed:-Yes."
+    },
+    {
+      "id": "p0187",
+      "text": "Soc. And the same holds of the relation of rhetoric to all the other arts; the rhetorician need not know the truth about things; he has only to discover some way of persuading the ignorant that he has more knowledge than those who know?"
+    },
+    {
+      "id": "p0188",
+      "text": "Gor. Yes, Socrates, and is not this a great comfort?-not to have learned the other arts, but the art of rhetoric only, and yet to be in no way inferior to the professors of them?"
+    },
+    {
+      "id": "p0189",
+      "text": "Soc. Whether the rhetorician is or not inferior on this account is a question which we will hereafter examine if the enquiry is likely to be of any service to us; but I would rather begin by asking, whether he is as ignorant of the just and unjust, base and honourable, good and evil, as he is of medicine and the other arts; I mean to say, does he really know anything of what is good and evil, base or honourable, just or unjust in them; or has he only a way with the ignorant of persuading them that he not knowing is to be esteemed to know more about these things than some. one else who knows? Or must the pupil know these things and come to you knowing them before he can acquire the art of rhetoric? If he is ignorant, you who are the teacher of rhetoric will not teach him-it is not your business; but you will make him seem to the multitude to know them, when he does not know them; and seem to be a good man, when he is not. Or will you be unable to teach him rhetoric at all, unless he knows the truth of these things first? What is to be said about all this? By heavens, Gorgias, I wish that you would reveal to me the power of rhetoric, as you were saying that you would."
+    },
+    {
+      "id": "p0190",
+      "text": "Gor. Well, Socrates, I suppose that if the pupil does chance not to know them, he will have to learn of me these things as well."
+    },
+    {
+      "id": "p0191",
+      "text": "Soc. Say no more, for there you are right; and so he whom you make a rhetorician must either know the nature of the just and unjust already, or he must be taught by you."
+    },
+    {
+      "id": "p0192",
+      "text": "Gor. Certainly."
+    },
+    {
+      "id": "p0193",
+      "text": "Soc. Well, and is not he who has learned carpentering a carpenter?"
+    },
+    {
+      "id": "p0194",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0195",
+      "text": "Soc. And he who has learned music a musician?"
+    },
+    {
+      "id": "p0196",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0197",
+      "text": "Soc. And he who has learned medicine is a physician, in like manner? He who has learned anything whatever is that which his knowledge makes him."
+    },
+    {
+      "id": "p0198",
+      "text": "Gor. Certainly."
+    },
+    {
+      "id": "p0199",
+      "text": "Soc. And in the same way, he who has learned what is just is just?"
+    },
+    {
+      "id": "p0200",
+      "text": "Gor. To be sure."
+    },
+    {
+      "id": "p0201",
+      "text": "Soc. And he who is just may be supposed to do what is just?"
+    },
+    {
+      "id": "p0202",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0203",
+      "text": "Soc. And must not the just man always desire to do what is just?"
+    },
+    {
+      "id": "p0204",
+      "text": "Gor. That is clearly the inference."
+    },
+    {
+      "id": "p0205",
+      "text": "Soc. Surely, then, the just man will never consent to do injustice?"
+    },
+    {
+      "id": "p0206",
+      "text": "Gor. Certainly not."
+    },
+    {
+      "id": "p0207",
+      "text": "Soc. And according to the argument the rhetorician must be a just man?"
+    },
+    {
+      "id": "p0208",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0209",
+      "text": "Soc. And will therefore never be willing to do injustice?"
+    },
+    {
+      "id": "p0210",
+      "text": "Gor. Clearly not."
+    },
+    {
+      "id": "p0211",
+      "text": "Soc. But do you remember saying just now that the trainer is not to be accused or banished if the pugilist makes a wrong use of his pugilistic art; and in like manner, if the rhetorician makes a bad and unjust use of rhetoric, that is not to be laid to the charge of his teacher, who is not to be banished, but the wrong-doer himself who made a bad use of his rhetoric-he is to be banished-was not that said?"
+    },
+    {
+      "id": "p0212",
+      "text": "Gor. Yes, it was."
+    },
+    {
+      "id": "p0213",
+      "text": "Soc. But now we are affirming that the aforesaid rhetorician will never have done injustice at all?"
+    },
+    {
+      "id": "p0214",
+      "text": "Gor. True."
+    },
+    {
+      "id": "p0215",
+      "text": "Soc. And at the very outset, Gorgias, it was said that rhetoric treated of discourse, not [like arithmetic] about odd and even, but about just and unjust? Was not this said?"
+    },
+    {
+      "id": "p0216",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0217",
+      "text": "Soc. I was thinking at the time, when I heard you saying so, that rhetoric, which is always discoursing about justice, could not possibly be an unjust thing. But when you added, shortly afterwards, that the rhetorician might make a bad use of rhetoric I noted with surprise the inconsistency into which you had fallen; and I said, that if you thought, as I did, that there was a gain in being refuted, there would be an advantage in going on with the question, but if not, I would leave off. And in the course of our investigations, as you will see yourself, the rhetorician has been acknowledged to be incapable of making an unjust use of rhetoric, or of willingness to do injustice. By the dog, Gorgias, there will be a great deal of discussion, before we get at the truth of all this."
+    },
+    {
+      "id": "p0218",
+      "text": "Polus. And do even you, Socrates, seriously believe what you are now saying about rhetoric? What! because Gorgias was ashamed to deny that the rhetorician knew the just and the honourable and the good, and admitted that to any one who came to him ignorant of them he could teach them, and then out of this admission there arose a contradiction-the thing which you dearly love, and to which not he, but you, brought the argument by your captious questions-[do you seriously believe that there is any truth in all this?] For will any one ever acknowledge that he does not know, or cannot teach, the nature of justice? The truth is, that there is great want of manners in bringing the argument to such a pass."
+    },
+    {
+      "id": "p0219",
+      "text": "Soc. Illustrious Polus, the reason why we provide ourselves with friends and children is, that when we get old and stumble, a younger generation may be at hand to set us on our legs again in our words and in our actions: and now, if I and Gorgias are stumbling, here are you who should raise us up; and I for my part engage to retract any error into which you may think that I have fallen-upon one condition:"
+    },
+    {
+      "id": "p0220",
+      "text": "Pol. What condition?"
+    },
+    {
+      "id": "p0221",
+      "text": "Soc. That you contract, Polus, the prolixity of speech in which you indulged at first."
+    },
+    {
+      "id": "p0222",
+      "text": "Pol. What! do you mean that I may not use as many words as I please?"
+    },
+    {
+      "id": "p0223",
+      "text": "Soc. Only to think, my friend, that having come on a visit to Athens, which is the most free-spoken state in Hellas, you when you got there, and you alone, should be deprived of the power of speech-that would be hard indeed. But then consider my case:-shall not I be very hardly used, if, when you are making a long oration, and refusing to answer what you are asked, I am compelled to stay and listen to you, and may not go away? I say rather, if you have a real interest in the argument, or, to repeat my former expression, have any desire to set it on its legs, take back any statement which you please; and in your turn ask and answer, like myself and Gorgias-refute and be refuted: for I suppose that you would claim to know what Gorgias knows-would you not?"
+    },
+    {
+      "id": "p0224",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0225",
+      "text": "Soc. And you, like him, invite any one to ask you about anything which he pleases, and you will know how to answer him?"
+    },
+    {
+      "id": "p0226",
+      "text": "Pol. To be sure."
+    },
+    {
+      "id": "p0227",
+      "text": "Soc. And now, which will you do, ask or answer?"
+    },
+    {
+      "id": "p0228",
+      "text": "Pol. I will ask; and do you answer me, Socrates, the same question which Gorgias, as you suppose, is unable to answer: What is rhetoric?"
+    },
+    {
+      "id": "p0229",
+      "text": "Soc. Do you mean what sort of an art?"
+    },
+    {
+      "id": "p0230",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0231",
+      "text": "Soc. To say the truth, Polus, it is not an art at all, in my opinion."
+    },
+    {
+      "id": "p0232",
+      "text": "Pol. Then what, in your opinion, is rhetoric?"
+    },
+    {
+      "id": "p0233",
+      "text": "Soc. A thing which, as I was lately reading in a book of yours, you say that you have made an art."
+    },
+    {
+      "id": "p0234",
+      "text": "Pol. What thing?"
+    },
+    {
+      "id": "p0235",
+      "text": "Soc. I should say a sort of experience."
+    },
+    {
+      "id": "p0236",
+      "text": "Pol. Does rhetoric seem to you to be an experience?"
+    },
+    {
+      "id": "p0237",
+      "text": "Soc. That is my view, but you may be of another mind."
+    },
+    {
+      "id": "p0238",
+      "text": "Pol. An experience in what?"
+    },
+    {
+      "id": "p0239",
+      "text": "Soc. An experience in producing a sort of delight and gratification."
+    },
+    {
+      "id": "p0240",
+      "text": "Pol. And if able to gratify others, must not rhetoric be a fine thing?"
+    },
+    {
+      "id": "p0241",
+      "text": "Soc. What are you saying, Polus? Why do you ask me whether rhetoric is a fine thing or not, when I have not as yet told you what rhetoric is?"
+    },
+    {
+      "id": "p0242",
+      "text": "Pol. Did I not hear you say that rhetoric was a sort of experience?"
+    },
+    {
+      "id": "p0243",
+      "text": "Soc. Will you, who are so desirous to gratify others, afford a slight gratification to me?"
+    },
+    {
+      "id": "p0244",
+      "text": "Pol. I will."
+    },
+    {
+      "id": "p0245",
+      "text": "Soc. Will you ask me, what sort of an art is cookery?"
+    },
+    {
+      "id": "p0246",
+      "text": "Pol. What sort of an art is cookery?"
+    },
+    {
+      "id": "p0247",
+      "text": "Soc. Not an art at all, Polus."
+    },
+    {
+      "id": "p0248",
+      "text": "Pol. What then?"
+    },
+    {
+      "id": "p0249",
+      "text": "Soc. I should say an experience."
+    },
+    {
+      "id": "p0250",
+      "text": "Pol. In what? I wish that you would explain to me."
+    },
+    {
+      "id": "p0251",
+      "text": "Soc. An experience in producing a sort of delight and gratification, Polus."
+    },
+    {
+      "id": "p0252",
+      "text": "Pol. Then are cookery and rhetoric the same?"
+    },
+    {
+      "id": "p0253",
+      "text": "Soc. No, they are only different parts of the same profession."
+    },
+    {
+      "id": "p0254",
+      "text": "Pol. Of what profession?"
+    },
+    {
+      "id": "p0255",
+      "text": "Soc. I am afraid that the truth may seem discourteous; and I hesitate to answer, lest Gorgias should imagine that I am making fun of his own profession. For whether or no this is that art of rhetoric which Gorgias practises I really cannot tell:-from what he was just now saying, nothing appeared of what he thought of his art, but the rhetoric which I mean is a part of a not very creditable whole."
+    },
+    {
+      "id": "p0256",
+      "text": "Gor. A part of what, Socrates? Say what you mean, and never mind me."
+    },
+    {
+      "id": "p0257",
+      "text": "Soc. In my opinion then, Gorgias, the whole of which rhetoric is a part is not an art at all, but the habit of a bold and ready wit, which knows how to manage mankind: this habit I sum up under the word \"flattery\"; and it appears to me to have many other parts, one of which is cookery, which may seem to be an art, but, as I maintain, is only an experience or routine and not an art:-another part is rhetoric, and the art of attiring and sophistry are two others: thus there are four branches, and four different things answering to them. And Polus may ask, if he likes, for he has not as yet been informed, what part of flattery is rhetoric: he did not see that I had not yet answered him when he proceeded to ask a further question: Whether I do not think rhetoric a fine thing? But I shall not tell him whether rhetoric is a fine thing or not, until I have first answered, \"What is rhetoric?\" For that would not be right, Polus; but I shall be happy to answer, if you will ask me, What part of flattery is rhetoric?"
+    },
+    {
+      "id": "p0258",
+      "text": "Pol. I will ask and do you answer? What part of flattery is rhetoric?"
+    },
+    {
+      "id": "p0259",
+      "text": "Soc. Will you understand my answer? Rhetoric, according to my view, is the ghost or counterfeit of a part of politics."
+    },
+    {
+      "id": "p0260",
+      "text": "Pol. And noble or ignoble?"
+    },
+    {
+      "id": "p0261",
+      "text": "Soc. Ignoble, I should say, if I am compelled to answer, for I call what is bad ignoble: though I doubt whether you understand what I was saying before."
+    },
+    {
+      "id": "p0262",
+      "text": "Gor. Indeed, Socrates, I cannot say that I understand myself."
+    },
+    {
+      "id": "p0263",
+      "text": "Soc. I do not wonder, Gorgias; for I have not as yet explained myself, and our friend Polus, colt by name and colt by nature, is apt to run away."
+    },
+    {
+      "id": "p0264",
+      "text": "Gor. Never mind him, but explain to me what you mean by saying that rhetoric is the counterfeit of a part of politics."
+    },
+    {
+      "id": "p0265",
+      "text": "Soc. I will try, then, to explain my notion of rhetoric, and if I am mistaken, my friend Polus shall refute me. We may assume the existence of bodies and of souls?"
+    },
+    {
+      "id": "p0266",
+      "text": "Gor. Of course."
+    },
+    {
+      "id": "p0267",
+      "text": "Soc. You would further admit that there is a good condition of either of them?"
+    },
+    {
+      "id": "p0268",
+      "text": "Gor. Yes."
+    },
+    {
+      "id": "p0269",
+      "text": "Soc. Which condition may not be really good, but good only in appearance? I mean to say, that there are many persons who appear to be in good health, and whom only a physician or trainer will discern at first sight not to be in good health."
+    },
+    {
+      "id": "p0270",
+      "text": "Gor. True."
+    },
+    {
+      "id": "p0271",
+      "text": "Soc. And this applies not only to the body, but also to the soul: in either there may be that which gives the appearance of health and not the reality?"
+    },
+    {
+      "id": "p0272",
+      "text": "Gor. Yes, certainly."
+    },
+    {
+      "id": "p0273",
+      "text": "Soc. And now I will endeavour to explain to you more clearly what I mean: The soul and body being two, have two arts corresponding to them: there is the art of politics attending on the soul; and another art attending on the body, of which I know no single name, but which may be described as having two divisions, one of them gymnastic, and the other medicine. And in politics there is a legislative part, which answers to gymnastic, as justice does to medicine; and the two parts run into one another, justice having to do with the same subject as legislation, and medicine with the same subject as gymnastic, but with a difference. Now, seeing that there are these four arts, two attending on the body and two on the soul for their highest good; flattery knowing, or rather guessing their natures, has distributed herself into four shams or simulations of them; she puts on the likeness of some one or other of them, and pretends to be that which she simulates, and having no regard for men's highest interests, is ever making pleasure the bait of the unwary, and deceiving them into the belief that she is of the highest value to them. Cookery simulates the disguise of medicine, and pretends to know what food is the best for the body; and if the physician and the cook had to enter into a competition in which children were the judges, or men who had no more sense than children, as to which of them best understands the goodness or badness of food, the physician would be starved to death. A flattery I deem this to be and of an ignoble sort, Polus, for to you I am now addressing myself, because it aims at pleasure without any thought of the best. An art I do not call it, but only an experience, because it is unable to explain or to give a reason of the nature of its own applications. And I do not call any irrational thing an art; but if you dispute my words, I am prepared to argue in defence of them."
+    },
+    {
+      "id": "p0274",
+      "text": "Cookery, then, I maintain to be a flattery which takes the form of medicine; and tiring, in like manner, is a flattery which takes the form of gymnastic, and is knavish, false, ignoble, illiberal, working deceitfully by the help of lines, and colours, and enamels, and garments, and making men affect a spurious beauty to the neglect of the true beauty which is given by gymnastic."
+    },
+    {
+      "id": "p0275",
+      "text": "I would rather not be tedious, and therefore I will only say, after the manner of the geometricians (for I think that by this time you will be able to follow)"
+    },
+    {
+      "id": "p0276",
+      "text": "astiring : gymnastic :: cookery : medicine; or rather,"
+    },
+    {
+      "id": "p0277",
+      "text": "astiring : gymnastic :: sophistry : legislation; and"
+    },
+    {
+      "id": "p0278",
+      "text": "as cookery : medicine :: rhetoric : justice. And this, I say, is the natural difference between the rhetorician and the sophist, but by reason of their near connection, they are apt to be jumbled up together; neither do they know what to make of themselves, nor do other men know what to make of them. For if the body presided over itself, and were not under the guidance of the soul, and the soul did not discern and discriminate between cookery and medicine, but the body was made the judge of them, and the rule of judgment was the bodily delight which was given by them, then the word of Anaxagoras, that word with which you, friend Polus, are so well acquainted, would prevail far and wide: \"Chaos\" would come again, and cookery, health, and medicine would mingle in an indiscriminate mass. And now I have told you my notion of rhetoric, which is, in relation to the soul, what cookery is to the body. I may have been inconsistent in making a long speech, when I would not allow you to discourse at length. But I think that I may be excused, because you did not understand me, and could make no use of my answer when I spoke shortly, and therefore I had to enter into explanation. And if I show an equal inability to make use of yours, I hope that you will speak at equal length; but if I am able to understand you, let me have the benefit of your brevity, as is only fair: And now you may do what you please with my answer."
+    },
+    {
+      "id": "p0279",
+      "text": "Pol. What do you mean? do you think that rhetoric is flattery?"
+    },
+    {
+      "id": "p0280",
+      "text": "Soc. Nay, I said a part of flattery-if at your age, Polus, you cannot remember, what will you do by-and-by, when you get older?"
+    },
+    {
+      "id": "p0281",
+      "text": "Pol. And are the good rhetoricians meanly regarded in states, under the idea that they are flatterers?"
+    },
+    {
+      "id": "p0282",
+      "text": "Soc. Is that a question or the beginning of a speech?"
+    },
+    {
+      "id": "p0283",
+      "text": "Pol. I am asking a question."
+    },
+    {
+      "id": "p0284",
+      "text": "Soc. Then my answer is, that they are not regarded at all."
+    },
+    {
+      "id": "p0285",
+      "text": "Pol. How not regarded? Have they not very great power in states?"
+    },
+    {
+      "id": "p0286",
+      "text": "Soc. Not if you mean to say that power is a good to the possessor."
+    },
+    {
+      "id": "p0287",
+      "text": "Pol. And that is what I do mean to say."
+    },
+    {
+      "id": "p0288",
+      "text": "Soc. Then, if so, I think that they have the least power of all the citizens."
+    },
+    {
+      "id": "p0289",
+      "text": "Pol. What! Are they not like tyrants? They kill and despoil and exile any one whom they please."
+    },
+    {
+      "id": "p0290",
+      "text": "Soc. By the dog, Polus, I cannot make out at each deliverance of yours, whether you are giving an opinion of your own, or asking a question of me."
+    },
+    {
+      "id": "p0291",
+      "text": "Pol. I am asking a question of you."
+    },
+    {
+      "id": "p0292",
+      "text": "Soc. Yes, my friend, but you ask two questions at once."
+    },
+    {
+      "id": "p0293",
+      "text": "Pol. How two questions?"
+    },
+    {
+      "id": "p0294",
+      "text": "Soc. Why, did you not say just now that the rhetoricians are like tyrants, and that they kill and despoil or exile any one whom they please?"
+    },
+    {
+      "id": "p0295",
+      "text": "Pol. I did."
+    },
+    {
+      "id": "p0296",
+      "text": "Soc. Well then, I say to you that here are two questions in one, and I will answer both of them. And I tell you, Polus, that rhetoricians and tyrants have the least possible power in states, as I was just now saying; for they do literally nothing which they will, but only what they think best."
+    },
+    {
+      "id": "p0297",
+      "text": "Pol. And is not that a great power?"
+    },
+    {
+      "id": "p0298",
+      "text": "Soc. Polus has already said the reverse."
+    },
+    {
+      "id": "p0299",
+      "text": "Soc. No, by the great-what do you call him?-not you, for you say that power is a good to him who has the power."
+    },
+    {
+      "id": "p0300",
+      "text": "Pol. I do."
+    },
+    {
+      "id": "p0301",
+      "text": "Soc. And would you maintain that if a fool does what he think best, this is a good, and would you call this great power?"
+    },
+    {
+      "id": "p0302",
+      "text": "Pol. I should not."
+    },
+    {
+      "id": "p0303",
+      "text": "Soc. Then you must prove that the rhetorician is not a fool, and that rhetoric is an art and not a flattery-and so you will have refuted me; but if you leave me unrefuted, why, the rhetoricians who do what they think best in states, and the tyrants, will have nothing upon which to congratulate themselves, if as you say, power be indeed a good, admitting at the same time that what is done without sense is an evil."
+    },
+    {
+      "id": "p0304",
+      "text": "Pol. Yes; I admit that."
+    },
+    {
+      "id": "p0305",
+      "text": "Soc. How then can the rhetoricians or the tyrants have great power in states, unless Polus can refute Socrates, and prove to him that they do as they will?"
+    },
+    {
+      "id": "p0306",
+      "text": "Pol. This fellow-"
+    },
+    {
+      "id": "p0307",
+      "text": "Soc. I say that they do not do as they will-now refute me."
+    },
+    {
+      "id": "p0308",
+      "text": "Pol. Why, have you not already said that they do as they think best?"
+    },
+    {
+      "id": "p0309",
+      "text": "Soc. And I say so still."
+    },
+    {
+      "id": "p0310",
+      "text": "Pol. Then surely they do as they will?"
+    },
+    {
+      "id": "p0311",
+      "text": "Soc. I deny it."
+    },
+    {
+      "id": "p0312",
+      "text": "Pol. But they do what they think best?"
+    },
+    {
+      "id": "p0313",
+      "text": "Soc. Aye."
+    },
+    {
+      "id": "p0314",
+      "text": "Pol. That, Socrates, is monstrous and absurd."
+    },
+    {
+      "id": "p0315",
+      "text": "Soc. Good words, good Polus, as I may say in your own peculiar style; but if you have any questions to ask of me, either prove that I am in error or give the answer yourself."
+    },
+    {
+      "id": "p0316",
+      "text": "Pol. Very well, I am willing to answer that I may know what you mean."
+    },
+    {
+      "id": "p0317",
+      "text": "Soc. Do men appear to you to will that which they do, or to will that further end for the sake of which they do a thing? when they take medicine, for example, at the bidding of a physician, do they will the drinking of the medicine which is painful, or the health for the sake of which they drink?"
+    },
+    {
+      "id": "p0318",
+      "text": "Pol. Clearly, the health."
+    },
+    {
+      "id": "p0319",
+      "text": "Soc. And when men go on a voyage or engage in business, they do not will that which they are doing at the time; for who would desire to take the risk of a voyage or the trouble of business?-But they will, to have the wealth for the sake of which they go on a voyage."
+    },
+    {
+      "id": "p0320",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0321",
+      "text": "Soc. And is not this universally true? If a man does something for the sake of something else, he wills not that which he does, but that for the sake of which he does it."
+    },
+    {
+      "id": "p0322",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0323",
+      "text": "Soc. And are not all things either good or evil, or intermediate and indifferent?"
+    },
+    {
+      "id": "p0324",
+      "text": "Pol. To be sure, Socrates."
+    },
+    {
+      "id": "p0325",
+      "text": "Soc. Wisdom and health and wealth and the like you would call goods, and their opposites evils?"
+    },
+    {
+      "id": "p0326",
+      "text": "Pol. I should."
+    },
+    {
+      "id": "p0327",
+      "text": "Soc. And the things which are neither good nor evil, and which partake sometimes of the nature of good and at other times of evil, or of neither, are such as sitting, walking, running, sailing; or, again, wood, stones, and the like:-these are the things which you call neither good nor evil?"
+    },
+    {
+      "id": "p0328",
+      "text": "Pol. Exactly so."
+    },
+    {
+      "id": "p0329",
+      "text": "Soc. Are these indifferent things done for the sake of the good, or the good for the sake of the indifferent?"
+    },
+    {
+      "id": "p0330",
+      "text": "Pol. Clearly, the indifferent for the sake of the good."
+    },
+    {
+      "id": "p0331",
+      "text": "Soc. When we walk we walk for the sake of the good, and under the idea that it is better to walk, and when we stand we stand equally for the sake of the good?"
+    },
+    {
+      "id": "p0332",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0333",
+      "text": "Soc. And when we kill a man we kill him or exile him or despoil him of his goods, because, as we think, it will conduce to our good?"
+    },
+    {
+      "id": "p0334",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0335",
+      "text": "Soc. Men who do any of these things do them for the sake of the good?"
+    },
+    {
+      "id": "p0336",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0337",
+      "text": "Soc. And did we not admit that in doing something for the sake of something else, we do not will those things which we do, but that other thing for the sake of which we do them?"
+    },
+    {
+      "id": "p0338",
+      "text": "Pol. Most true."
+    },
+    {
+      "id": "p0339",
+      "text": "Soc. Then we do not will simply to kill a man or to exile him or to despoil him of his goods, but we will to do that which conduces to our good, and if the act is not conducive to our good we do not will it; for we will, as you say, that which is our good, but that which is neither good nor evil, or simply evil, we do not will. Why are you silent, Polus? Am I not right?"
+    },
+    {
+      "id": "p0340",
+      "text": "Pol. You are right."
+    },
+    {
+      "id": "p0341",
+      "text": "Soc. Hence we may infer, that if any one, whether he be a tyrant or a rhetorician, kills another or exiles another or deprives him of his property, under the idea that the act is for his own interests when really not for his own interests, he may be said to do what seems best to him?"
+    },
+    {
+      "id": "p0342",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0343",
+      "text": "Soc. But does he do what he wills if he does what is evil? Why do you not answer?"
+    },
+    {
+      "id": "p0344",
+      "text": "Pol. Well, I suppose not."
+    },
+    {
+      "id": "p0345",
+      "text": "Soc. Then if great power is a good as you allow, will such a one have great power in a state?"
+    },
+    {
+      "id": "p0346",
+      "text": "Pol. He will not."
+    },
+    {
+      "id": "p0347",
+      "text": "Soc. Then I was right in saying that a man may do what seems good to him in a state, and not have great power, and not do what he wills?"
+    },
+    {
+      "id": "p0348",
+      "text": "Pol. As though you, Socrates, would not like to have the power of doing what seemed good to you in the state, rather than not; you would not be jealous when you saw any one killing or despoiling or imprisoning whom he pleased, Oh, no!"
+    },
+    {
+      "id": "p0349",
+      "text": "Soc. Justly or unjustly, do you mean?"
+    },
+    {
+      "id": "p0350",
+      "text": "Pol. In either case is he not equally to be envied?"
+    },
+    {
+      "id": "p0351",
+      "text": "Soc. Forbear, Polus!"
+    },
+    {
+      "id": "p0352",
+      "text": "Pol. Why \"forbear\"?"
+    },
+    {
+      "id": "p0353",
+      "text": "Soc. Because you ought not to envy wretches who are not to be envied, but only to pity them."
+    },
+    {
+      "id": "p0354",
+      "text": "Pol. And are those of whom spoke wretches?"
+    },
+    {
+      "id": "p0355",
+      "text": "Soc. Yes, certainly they are."
+    },
+    {
+      "id": "p0356",
+      "text": "Pol. And so you think that he who slays any one whom he pleases, and justly slays him, is pitiable and wretched?"
+    },
+    {
+      "id": "p0357",
+      "text": "Soc. No, I do not say that of him: but neither do I think that he is to be envied."
+    },
+    {
+      "id": "p0358",
+      "text": "Pol. Were you not saying just now that he is wretched?"
+    },
+    {
+      "id": "p0359",
+      "text": "Soc. Yes, my friend, if he killed another unjustly, in which case he is also to be pitied; and he is not to be envied if he killed him justly."
+    },
+    {
+      "id": "p0360",
+      "text": "Pol. At any rate you will allow that he who is unjustly put to death is wretched, and to be pitied?"
+    },
+    {
+      "id": "p0361",
+      "text": "Soc. Not so much, Polus, as he who kills him, and not so much as he who is justly killed."
+    },
+    {
+      "id": "p0362",
+      "text": "Pol. How can that be, Socrates?"
+    },
+    {
+      "id": "p0363",
+      "text": "Soc. That may very well be, inasmuch as doing injustice is the greatest of evils."
+    },
+    {
+      "id": "p0364",
+      "text": "Pol. But is it the greatest? Is not suffering injustice a greater evil?"
+    },
+    {
+      "id": "p0365",
+      "text": "Soc. Certainly not."
+    },
+    {
+      "id": "p0366",
+      "text": "Pol. Then would you rather suffer than do injustice?"
+    },
+    {
+      "id": "p0367",
+      "text": "Soc. I should not like either, but if I must choose between them, I would rather suffer than do."
+    },
+    {
+      "id": "p0368",
+      "text": "Pol. Then you would not wish to be a tyrant?"
+    },
+    {
+      "id": "p0369",
+      "text": "Soc. Not if you mean by tyranny what I mean."
+    },
+    {
+      "id": "p0370",
+      "text": "Pol. I mean, as I said before, the power of doing whatever seems good to you in a state, killing, banishing, doing in all things as you like."
+    },
+    {
+      "id": "p0371",
+      "text": "Soc. Well then, illustrious friend, when I have said my say, do you reply to me. Suppose that I go into a crowded Agora, and take a dagger under my arm. Polus, I say to you, I have just acquired rare power, and become a tyrant; for if I think that any of these men whom you see ought to be put to death, the man whom I have a mind to kill is as good as dead; and if I am disposed to break his head or tear his garment, he will have his head broken or his garment torn in an instant. Such is my great power in this city. And if you do not believe me, and I show you the dagger, you would probably reply: Socrates, in that sort of way any one may have great power-he may burn any house which he pleases, and the docks and triremes of the Athenians, and all their other vessels, whether public or private-but can you believe that this mere doing as you think best is great power?"
+    },
+    {
+      "id": "p0372",
+      "text": "Pol. Certainly not such doing as this."
+    },
+    {
+      "id": "p0373",
+      "text": "Soc. But can you tell me why you disapprove of such a power?"
+    },
+    {
+      "id": "p0374",
+      "text": "Pol. I can."
+    },
+    {
+      "id": "p0375",
+      "text": "Soc. Why then?"
+    },
+    {
+      "id": "p0376",
+      "text": "Pol. Why, because he who did as you say would be certain to be punished."
+    },
+    {
+      "id": "p0377",
+      "text": "Soc. And punishment is an evil?"
+    },
+    {
+      "id": "p0378",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0379",
+      "text": "Soc. And you would admit once more, my good sir, that great power is a benefit to a man if his actions turn out to his advantage, and that this is the meaning of great power; and if not, then his power is an evil and is no power. But let us look at the matter in another way do we not acknowledge that the things of which we were speaking, the infliction of death, and exile, and the deprivation of property are sometimes a good and sometimes not a good?"
+    },
+    {
+      "id": "p0380",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0381",
+      "text": "Soc. About that you and I may be supposed to agree?"
+    },
+    {
+      "id": "p0382",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0383",
+      "text": "Soc. Tell me, then, when do you say that they are good and when that they are evil-what principle do you lay down?"
+    },
+    {
+      "id": "p0384",
+      "text": "Pol. I would rather, Socrates, that you should answer as well as ask that question."
+    },
+    {
+      "id": "p0385",
+      "text": "Soc. Well, Polus, since you would rather have the answer from me, I say that they are good when they are just, and evil when they are unjust."
+    },
+    {
+      "id": "p0386",
+      "text": "Pol. You are hard of refutation, Socrates, but might not a child refute that statement?"
+    },
+    {
+      "id": "p0387",
+      "text": "Soc. Then I shall be very grateful to the child, and equally grateful to you if you will refute me and deliver me from my foolishness. And I hope that refute me you will, and not weary of doing good to a friend."
+    },
+    {
+      "id": "p0388",
+      "text": "Pol. Yes, Socrates, and I need not go far or appeal to antiquity; events which happened only a few days ago are enough to refute you, and to prove that many men who do wrong are happy."
+    },
+    {
+      "id": "p0389",
+      "text": "Soc. What events?"
+    },
+    {
+      "id": "p0390",
+      "text": "Pol. You see, I presume, that Archelaus the son of Perdiccas is now the ruler of Macedonia?"
+    },
+    {
+      "id": "p0391",
+      "text": "Soc. At any rate I hear that he is."
+    },
+    {
+      "id": "p0392",
+      "text": "Pol. And do you think that he is happy or miserable?"
+    },
+    {
+      "id": "p0393",
+      "text": "Soc. I cannot say, Polus, for I have never had any acquaintance with him."
+    },
+    {
+      "id": "p0394",
+      "text": "Pol. And cannot you tell at once, and without having an acquaintance with him, whether a man is happy?"
+    },
+    {
+      "id": "p0395",
+      "text": "Soc. Most certainly not."
+    },
+    {
+      "id": "p0396",
+      "text": "Pol. Then clearly, Socrates, you would say that you did not even know whether the great king was a happy man?"
+    },
+    {
+      "id": "p0397",
+      "text": "Soc. And I should speak the truth; for I do not know how he stands in the matter of education and justice."
+    },
+    {
+      "id": "p0398",
+      "text": "Pol. What! and does all happiness consist in this?"
+    },
+    {
+      "id": "p0399",
+      "text": "Soc. Yes, indeed, Polus, that is my doctrine; the men and women who are gentle and good are also happy, as I maintain, and the unjust and evil are miserable."
+    },
+    {
+      "id": "p0400",
+      "text": "Pol. Then, according to your doctrine, the said Archelaus is miserable?"
+    },
+    {
+      "id": "p0401",
+      "text": "Soc. Yes, my friend, if he is wicked."
+    },
+    {
+      "id": "p0402",
+      "text": "Pol. That he is wicked I cannot deny; for he had no title at all to the throne which he now occupies, he being only the son of a woman who was the slave of Alcetas the brother of Perdiccas; he himself therefore in strict right was the slave of Alcetas; and if he had meant to do rightly he would have remained his slave, and then, according to your doctrine, he would have been happy. But now he is unspeakably miserable, for he has been guilty of the greatest crimes: in the first place he invited his uncle and master, Alcetas, to come to him, under the pretence that he would restore to him the throne which Perdiccas has usurped, and after entertaining him and his son Alexander, who was his own cousin, and nearly of an age with him, and making them drunk, he threw them into a waggon and carried them off by night, and slew them, and got both of them out of the way; and when he had done all this wickedness he never discovered that he was the most miserable of all men, was very far from repenting: shall I tell you how he showed his remorse? he had a younger brother, a child of seven years old, who was the legitimate son of Perdiccas, and to him of right the kingdom belonged; Archelaus, however, had no mind to bring him up as he ought and restore the kingdom to him; that was not his notion of happiness; but not long afterwards he threw him into a well and drowned him, and declared to his mother Cleopatra that he had fallen in while running after a goose, and had been killed. And now as he is the greatest criminal of all the Macedonians, he may be supposed to be the most miserable and not the happiest of them, and I dare say that there are many Athenians, and you would be at the head of them, who would rather be any other Macedonian than Archelaus!"
+    },
+    {
+      "id": "p0403",
+      "text": "Soc. I praised you at first, Polus, for being a rhetorician rather than a reasoner. And this, as I suppose, is the sort of argument with which you fancy that a child might refute me, and by which I stand refuted when I say that the unjust man is not happy. But, my good friend, where is the refutation? I cannot admit a word which you have been saying."
+    },
+    {
+      "id": "p0404",
+      "text": "Pol. That is because you will not; for you surely must think as I do."
+    },
+    {
+      "id": "p0405",
+      "text": "Soc. Not so, my simple friend, but because you will refute me after the manner which rhetoricians practise in courts of law. For there the one party think that they refute the other when they bring forward a number of witnesses of good repute in proof of their allegations, and their adversary has only a single one or none at all. But this kind of proof is of no value where truth is the aim; a man may often be sworn down by a multitude of false witnesses who have a great air of respectability. And in this argument nearly every one, Athenian and stranger alike, would be on your side, if you should bring witnesses in disproof of my statement-you may, if you will, summon Nicias the son of Niceratus, and let his brothers, who gave the row of tripods which stand in the precincts of Dionysus, come with him; or you may summon Aristocrates, the son of Scellius, who is the giver of that famous offering which is at Delphi; summon, if you will, the whole house of Pericles, or any other great Athenian family whom you choose-they will all agree with you: I only am left alone and cannot agree, for you do not convince me; although you produce many false witnesses against me, in the hope of depriving me of my inheritance, which is the truth. But I consider that nothing worth speaking of will have been effected by me unless I make you the one witness of my words; nor by you, unless you make me the one witness of yours; no matter about the rest of the world. For there are two ways of refutation, one which is yours and that of the world in general; but mine is of another sort-let us compare them, and see in what they differ. For, indeed, we are at issue about matters which to know is honourable and not to know disgraceful; to know or not to know happiness and misery-that is the chief of them. And what knowledge can be nobler? or what ignorance more disgraceful than this? And therefore I will begin by asking you whether you do not think that a man who is unjust and doing injustice can be happy, seeing that you think Archelaus unjust, and yet happy? May I assume this to be your opinion?"
+    },
+    {
+      "id": "p0406",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0407",
+      "text": "Soc. But I say that this is an impossibility-here is one point about which we are at issue:-very good. And do you mean to say also that if he meets with retribution and punishment he will still be happy?"
+    },
+    {
+      "id": "p0408",
+      "text": "Pol. Certainly not; in that case he will be most miserable."
+    },
+    {
+      "id": "p0409",
+      "text": "Soc. On the other hand, if the unjust be not punished, then, according to you, he will be happy?"
+    },
+    {
+      "id": "p0410",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0411",
+      "text": "Soc. But in my opinion, Polus, the unjust or doer of unjust actions is miserable in any case,-more miserable, however, if he be not punished and does not meet with retribution, and less miserable if he be punished and meets with retribution at the hands of gods and men."
+    },
+    {
+      "id": "p0412",
+      "text": "Pol. You are maintaining a strange doctrine, Socrates."
+    },
+    {
+      "id": "p0413",
+      "text": "Soc. I shall try to make you agree with me, O my friend, for as a friend I regard you. Then these are the points at issue between us-are they not? I was saying that to do is worse than to suffer injustice?"
+    },
+    {
+      "id": "p0414",
+      "text": "Pol. Exactly so."
+    },
+    {
+      "id": "p0415",
+      "text": "Soc. And you said the opposite?"
+    },
+    {
+      "id": "p0416",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0417",
+      "text": "Soc. I said also that the wicked are miserable, and you refuted me?"
+    },
+    {
+      "id": "p0418",
+      "text": "Pol. By Zeus, I did."
+    },
+    {
+      "id": "p0419",
+      "text": "Soc. In your own opinion, Polus."
+    },
+    {
+      "id": "p0420",
+      "text": "Pol. Yes, and I rather suspect that I was in the right."
+    },
+    {
+      "id": "p0421",
+      "text": "Soc. You further said that the wrong-doer is happy if he be unpunished?"
+    },
+    {
+      "id": "p0422",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0423",
+      "text": "Soc. And I affirm that he is most miserable, and that those who are punished are less miserable-are you going to refute this proposition also?"
+    },
+    {
+      "id": "p0424",
+      "text": "Pol. A proposition which is harder of refutation than the other, Socrates."
+    },
+    {
+      "id": "p0425",
+      "text": "Soc. Say rather, Polus, impossible; for who can refute the truth?"
+    },
+    {
+      "id": "p0426",
+      "text": "Pol. What do you mean? If a man is detected in an unjust attempt to make himself a tyrant, and when detected is racked, mutilated, has his eyes burned out, and after having had all sorts of great injuries inflicted on him, and having seen his wife and children suffer the like, is at last impaled or tarred and burned alive, will he be happier than if he escape and become a tyrant, and continue all through life doing what he likes and holding the reins of government, the envy and admiration both of citizens and strangers? Is that the paradox which, as you say, cannot be refuted?"
+    },
+    {
+      "id": "p0427",
+      "text": "Soc. There again, noble Polus, you are raising hobgoblins instead of refuting me; just now you were calling witnesses against me. But please to refresh my memory a little; did you say-\"in an unjust attempt to make himself a tyrant\"?"
+    },
+    {
+      "id": "p0428",
+      "text": "Pol. Yes, I did."
+    },
+    {
+      "id": "p0429",
+      "text": "Soc. Then I say that neither of them will be happier than the other-neither he who unjustly acquires a tyranny, nor he who suffers in the attempt, for of two miserables one cannot be the happier, but that he who escapes and becomes a tyrant is the more miserable of the two. Do you laugh, Polus? Well, this is a new kind of refutation-when any one says anything, instead of refuting him to laugh at him."
+    },
+    {
+      "id": "p0430",
+      "text": "Pol. But do you not think, Socrates, that you have been sufficiently refuted, when you say that which no human being will allow? Ask the company."
+    },
+    {
+      "id": "p0431",
+      "text": "Soc. O Polus, I am not a public man, and only last year, when my tribe were serving as Prytanes, and it became my duty as their president to take the votes, there was a laugh at me, because I was unable to take them. And as I failed then, you must not ask me to count the suffrages of the company now; but if, as I was saying, you have no better argument than numbers, let me have a turn, and do you make trial of the sort of proof which, as I think, is required; for I shall produce one witness only of the truth of my words, and he is the person with whom I am arguing; his suffrage I know how to take; but with the many I have nothing to do, and do not even address myself to them. May I ask then whether you will answer in turn and have your words put to the proof? For I certainly think that I and you and every man do really believe, that to do is a greater evil than to suffer injustice: and not to be punished than to be punished."
+    },
+    {
+      "id": "p0432",
+      "text": "Pol. And I should say neither I, nor any man: would you yourself, for example, suffer rather than do injustice?"
+    },
+    {
+      "id": "p0433",
+      "text": "Soc. Yes, and you, too; I or any man would."
+    },
+    {
+      "id": "p0434",
+      "text": "Pol. Quite the reverse; neither you, nor I, nor any man."
+    },
+    {
+      "id": "p0435",
+      "text": "Soc. But will you answer?"
+    },
+    {
+      "id": "p0436",
+      "text": "Pol. To be sure, I will-for I am curious to hear what you can have to say."
+    },
+    {
+      "id": "p0437",
+      "text": "Soc. Tell me, then, and you will know, and let us suppose that I am beginning at the beginning: which of the two, Polus, in your opinion, is the worst?-to do injustice or to suffer?"
+    },
+    {
+      "id": "p0438",
+      "text": "Pol. I should say that suffering was worst."
+    },
+    {
+      "id": "p0439",
+      "text": "Soc. And which is the greater disgrace?-Answer."
+    },
+    {
+      "id": "p0440",
+      "text": "Pol. To do."
+    },
+    {
+      "id": "p0441",
+      "text": "Soc. And the greater disgrace is the greater evil?"
+    },
+    {
+      "id": "p0442",
+      "text": "Pol. Certainly not."
+    },
+    {
+      "id": "p0443",
+      "text": "Soc. I understand you to say, if I am not mistaken, that the honourable is not the same as the good, or the disgraceful as the evil?"
+    },
+    {
+      "id": "p0444",
+      "text": "Pol. Certainly not."
+    },
+    {
+      "id": "p0445",
+      "text": "Soc. Let me ask a question of you: When you speak of beautiful things, such as bodies, colours, figures, sounds, institutions, do you not call them beautiful in reference to some standard: bodies, for example, are beautiful in proportion as they are useful, or as the sight of them gives pleasure to the spectators; can you give any other account of personal beauty?"
+    },
+    {
+      "id": "p0446",
+      "text": "Pol. I cannot."
+    },
+    {
+      "id": "p0447",
+      "text": "Soc. And you would say of figures or colours generally that they were beautiful, either by reason of the pleasure which they give, or of their use, or both?"
+    },
+    {
+      "id": "p0448",
+      "text": "Pol. Yes, I should."
+    },
+    {
+      "id": "p0449",
+      "text": "Soc. And you would call sounds and music beautiful for the same reason?"
+    },
+    {
+      "id": "p0450",
+      "text": "Pol. I should."
+    },
+    {
+      "id": "p0451",
+      "text": "Soc. Laws and institutions also have no beauty in them except in so far as they are useful or pleasant or both?"
+    },
+    {
+      "id": "p0452",
+      "text": "Pol. I think not."
+    },
+    {
+      "id": "p0453",
+      "text": "Soc. And may not the same be said of the beauty of knowledge?"
+    },
+    {
+      "id": "p0454",
+      "text": "Pol. To be sure, Socrates; and I very much approve of your measuring beauty by the standard of pleasure and utility."
+    },
+    {
+      "id": "p0455",
+      "text": "Soc. And deformity or disgrace may be equally measured by the opposite standard of pain and evil?"
+    },
+    {
+      "id": "p0456",
+      "text": "Pol. Certainly."
+    },
+    {
+      "id": "p0457",
+      "text": "Soc. Then when of two beautiful things one exceeds in beauty, the measure of the excess is to be taken in one or both of these; that is to say, in pleasure or utility or both?"
+    },
+    {
+      "id": "p0458",
+      "text": "Pol. Very true."
+    },
+    {
+      "id": "p0459",
+      "text": "Soc. And of two deformed things, that which exceeds in deformity or disgrace, exceeds either in pain or evil-must it not be so?"
+    },
+    {
+      "id": "p0460",
+      "text": "Pol. Yes."
+    },
+    {
+      "id": "p0461",
+      "text": "Soc. But then again, what was the observation which you just now made, about doing and suffering wrong? Did you not say, that suffering wrong was more evil, and doing wrong more disgraceful?"
+    },
+    {
+      "id": "p0462",
+      "text": "Pol. I did."
+    },
+    {
+      "id": "p0463",
+      "text": "Soc. Then, if doing wrong is more disgraceful than suffering, the more disgraceful must be more painful and must exceed in pain or in evil or both: does not that also follow?"
+    },
+    {
+      "id": "p0464",
+      "text": "Pol. Of course."
+    },
+    {
+      "id": "p0465",
+      "text": "Soc. First, then, let us consider whether the doing of injustice exceeds the suffering in the consequent pain: Do the injurers suffer more than the injured?"
+    },
+    {
+      "id": "p0466",
+      "text": "Pol. No, Socrates; certainly not."
+    },
+    {
+      "id": "p0467",
+      "text": "Soc. Then they do not exceed in pain?"
+    },
+    {
+      "id": "p0468",
+      "text": "Pol. No."
+    },
+    {
+      "id": "p0469",
+      "text": "Soc. But if not in pain, then not in both?"
+    },
+    {
+      "id": "p0470",
+      "text": "Pol. Certainly not."
+    },
+    {
+      "id": "p0471",
+      "text": "Soc. Then they can only exceed in the ot"
+    }
+  ],
+  "anchors": {
+    "socrates-rhetoric-as-flattery": {
+      "paragraphId": "p0259",
+      "start": 36,
+      "end": 118,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0259",
+          "start": 36,
+          "end": 118,
+          "text": "Rhetoric, according to my view, is the ghost or counterfeit of a part of politics."
+        },
+        {
+          "paragraphId": "p0273",
+          "start": 1497,
+          "end": 1548,
+          "text": "A flattery I deem this to be and of an ignoble sort"
+        },
+        {
+          "paragraphId": "p0273",
+          "start": 1596,
+          "end": 1656,
+          "text": "because it aims at pleasure without any thought of the best."
+        }
+      ],
+      "quote": "Rhetoric, according to my view, is the ghost or counterfeit of a part of politics. ... A flattery I deem this to be and of an ignoble sort ... because it aims at pleasure without any thought of the best."
+    },
+    "socrates-worse-to-do-wrong": {
+      "paragraphId": "p0431",
+      "start": 774,
+      "end": 893,
+      "quote": "I certainly think that I and you and every man do really believe, that to do is a greater evil than to suffer injustice",
+      "match": "normalized-exact"
+    }
+  }
+}

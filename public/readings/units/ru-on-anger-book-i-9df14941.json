@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-anger-book-i-9df14941",
+  "title": "卷 I",
+  "englishTitle": "Book I",
+  "work": "《论愤怒》",
+  "englishWork": "On Anger",
+  "locator": "卷 I",
+  "englishLocator": "Book I",
+  "version": "Wikisource 公版英译文本，Aubrey Stewart 1889 年英译，《论愤怒》第一卷第 18 节",
+  "englishVersion": "Wikisource public-domain English translation, Aubrey Stewart (1889), On Anger, Book I, §18",
+  "sourceUrl": "https://en.wikisource.org/wiki/Of_Anger/Book_I",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Of_Anger/Book_I",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Of+Anger%2FBook+I&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "f3ed0a319c4a5fc6ac0787825fb29f29cb5a8896fad1dd9ed406ee111127b082"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "54920cb1b0afa14f4a4eb0bc5d6036270ca088d60908f36d20907dd288127e2f",
+  "inputHash": "a6257271dbe37ece75c74c3cd357622c6377a2e5feb9937fe6d14b2b48f74bd8",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "XVIII."
+    },
+    {
+      "id": "p0002",
+      "text": "Reason gives each side time to plead; moreover, she herself demands adjournment, that she may have sufficient scope for the discovery of the truth; whereas anger is in a hurry: reason wishes to give a just decision; anger wishes its decision to be thought just: reason looks no further than the matter in hand; anger is excited by empty matters hovering on the outskirts of the case: it is irritated by anything approaching to a confident demeanour, a loud voice, an unrestrained speech, dainty apparel, high-flown pleading, or popularity with the public. It often condemns a man because it dislikes his patron; it loves and maintains error even when truth is staring it in the face. It hates to be proved wrong, and thinks it more honourable to persevere in a mistaken line of conduct than to retract it. I remember Gnaeus Piso, a man who was free from many vices, yet of a perverse disposition, and one who mistook harshness for consistency. In his anger he ordered a soldier to be led off to execution because he had returned from furlough without his comrade, as though he must have murdered him if he could not show him. When the man asked for time for search, he would not grant it: the condemned man was brought outside the rampart, and was just offering his neck to the axe, when suddenly there appeared his comrade who was thought to be slain. Hereupon the centurion in charge of the execution bade the guardsman sheathe his sword, and led the condemned man back to Piso, to restore to him the innocence which Fortune had restored to the soldier. They were led into his presence by their fellow soldiers amid the great joy of the whole camp, embracing one another and accompanied by a vast crowd. Piso mounted the tribunal in a fury and ordered them both to be executed, both him who had not murdered and him who had not been slain. What could be more unworthy than this? Because one was proved to be innocent, two perished. Piso even added a third: for he actually ordered the centurion, who had brought back the condemned man, to be put to death. Three men were set up to die in the same place because one was innocent. O, how clever is anger at inventing reasons for its frenzy! \"You,\" it says, \"I order to be executed, because you have been condemned to death: you, because you have been the cause of your comrade's condemnation, and you, because when ordered to put him to death you disobeyed your general.\" He discovered the means of charging them with three crimes, because he could find no crime in them."
+    }
+  ],
+  "anchors": {
+    "seneca-anger": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 261,
+      "quote": "Reason gives each side time to plead; moreover, she herself demands adjournment, that she may have sufficient scope for the discovery of the truth; whereas anger is in a hurry: reason wishes to give a just decision; anger wishes its decision to be thought just.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

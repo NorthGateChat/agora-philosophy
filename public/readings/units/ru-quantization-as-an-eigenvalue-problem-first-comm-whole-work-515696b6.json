@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-quantization-as-an-eigenvalue-problem-first-comm-whole-work-515696b6",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《量子化作为本征值问题》第一篇",
+  "englishWork": "Quantization as an Eigenvalue Problem, First Communication",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Blackie 1928 年英文版扫描，薛定谔《波动力学论文集》第一篇第 1 节第 1 页，导言首段连续两句",
+  "englishVersion": "Scan of the Blackie English edition (1928), Schrödinger, Collected Papers on Wave Mechanics, First Communication, §1, p. 1, first two continuous sentences of the introduction",
+  "sourceUrl": "https://mwolf.pracownicy.uksw.edu.pl/MK/Schrodinger_Collected_Papers_on_Wave_Mechanics.pdf",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "ae4d2357b8f13318ca7c5d625ed07a1a7dde6d9a2f8a8601cd59da692c2f75f1"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "82c3794394af78ca5639e40a43ee173d2479683a115135a75cb667c9500f1ad3",
+  "inputHash": "df38c9e892e4018bb987554d33a3b9d6d04def868250b0f3870b6d61dc32bbdc",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Quantisation as a Problem of Proper Values (Part I)"
+    },
+    {
+      "id": "p0002",
+      "text": "(Annalen der Physik (4), vol. 79, 1926)"
+    },
+    {
+      "id": "p0003",
+      "text": "§ 1. In this paper I wish to consider, first, the simple case of the hydrogen atom (non-relativistic and unperturbed), and show that the customary quantum conditions can be replaced by another postulate, in which the notion of “whole numbers”, merely as such, is not introduced. Rather when integralness does appear, it arises in the same natural way as it does in the case of the node-numbers of a vibrating string. The new conception is capable of generalisation, and strikes, I believe, very deeply at the true nature of the quantum rules."
+    },
+    {
+      "id": "p0004",
+      "text": "The usual form of the latter is connected with the Hamilton-Jacobi differential equation, os"
+    },
+    {
+      "id": "p0005",
+      "text": "(1) H(g, an) =f. A solution of this equation is sought such as can be represented as the sum of functions, each being a function of one only of the independent variables q."
+    },
+    {
+      "id": "p0006",
+      "text": "Here we now put for S a new unknown ψ such that it will appear as a product of related functions of the single co-ordinates, i.e. we put"
+    },
+    {
+      "id": "p0007",
+      "text": "(2) S=K log p. The constant K must be introduced from considerations of dimensions; it has those of action. Hence we get"
+    },
+    {
+      "id": "p0008",
+      "text": ", K op _ 1’) Hay on)"
+    },
+    {
+      "id": "p0009",
+      "text": "Now we do not look for a solution of equation (1’), but proceed as follows. If we neglect the relativistic variation of mass, equation (1’) can always be transformed so as to become a quadratic form (of ψ and its first derivatives) equated to zero. (For the one-electron problem this holds even when mass-variation is not neglected.) We now seek a function ψ, such that for any arbitrary variation of it the integral of the said quadratic form, taken over the whole co-ordinate space,¹ is stationary, ψ being everywhere real, single-valued, finite, and continuously differentiable up to the second order. The quantum conditions are replaced by this variation problem."
+    },
+    {
+      "id": "p0010",
+      "text": "First, we will take for H the Hamilton function for Keplerian motion, and show that ψ can be so chosen for all positive, but only for a discrete set of negative values of E. That is, the above variation problem has a discrete and a continuous spectrum of proper values."
+    },
+    {
+      "id": "p0011",
+      "text": "The discrete spectrum corresponds to the Balmer terms and the continuous to the energies of the hyperbolic orbits. For numerical agreement K must have the value h/2π."
+    },
+    {
+      "id": "p0012",
+      "text": "The choice of co-ordinates in the formation of the variational equations being arbitrary, let us take rectangular Cartesians. Then (1’) becomes in our case ayy GG) +E) ale Dato e=charge, m =mass of an electron, 7? =a? + y? +2?, Our variation problem then reads"
+    },
+    {
+      "id": "p0013",
+      "text": "(3) B1=5f f fae dy ae| (3) + (Sh) + (CE) ~ tab +S) | ="
+    },
+    {
+      "id": "p0014",
+      "text": "the integral being taken over all space. From this we find in the usual way"
+    },
+    {
+      "id": "p0015",
+      "text": "(4) 18 = faray- -[ [fae dy aed] y ps n(n +e “| =0."
+    },
+    {
+      "id": "p0016",
+      "text": "Therefore we must have, firstly,"
+    },
+    {
+      "id": "p0017",
+      "text": "2m e (6) V+ aE +, WO, and secondly, Cys (6) Japoue =0."
+    },
+    {
+      "id": "p0018",
+      "text": "df is an element of the infinite closed surface over which the integral is taken."
+    },
+    {
+      "id": "p0019",
+      "text": "(It will turn out later that this last condition requires us to supplement our problem by a postulate as to the behaviour of δψ at infinity, in order to ensure the existence of the above-mentioned continuous spectrum of proper values. See later.)"
+    },
+    {
+      "id": "p0020",
+      "text": "The solution of (5) can be effected, for example, in polar co-ordinates, r, θ, φ, if ψ be written as the product of three functions, each only of r, of θ, or of φ. The method is sufficiently well known. The function of the angles turns out to be a surface harmonic, and if that of r be called χ, we get easily the differential equation,"
+    },
+    {
+      "id": "p0021",
+      "text": "¹ I am aware this formulation is not entirely unambiguous. dy 2dy _(2mh Ame*® nin+1)\\ _ (7) date det (eet ge a x0. n=0,1,2,3..."
+    },
+    {
+      "id": "p0022",
+      "text": "The limitation of n to integral values is necessary so that the surface harmonic may be single-valued. We require solutions of (7) that will remain finite for all non-negative real values of r. Now¹ equation (7) has two singularities in the complex r-plane, at r=0 and r = oo, of which the second is an “ indefinite point ” (essential singularity) of all integrals, but the first on the contrary is not (for any integral). These two singularities form exactly the bounding points of our real interval. In such a case it is known now that the postulation of the finiteness of χ at the bounding points is equivalent to a boundary condition. The equation has in general no integral which remains finite at both end points; such an integral exists only for certain special values of the constants in the equation. It is now a question of defining these special values. This is the jumping-off point of the whole investigation.²"
+    },
+    {
+      "id": "p0023",
+      "text": "Let us examine first the singularity at r=0. The so-called indicial equation which defines the behaviour of the integral at this point, is"
+    },
+    {
+      "id": "p0024",
+      "text": "(8) p(p — 1) +2p ~n(n +1) =0, with roots (8′) p₁ = n, p₂ = −(n + 1)."
+    },
+    {
+      "id": "p0025",
+      "text": "The two canonical integrals at this point have therefore the exponents n and −(n + 1). Since n is not negative, only the first of these is of use to us. Since it belongs to the greater exponent, it can be represented by an ordinary power series, which begins with rⁿ. (The other integral, which does not interest us, can contain a logarithm, since the difference between the indices is an integer.) The next singularity is at infinity, so the above power series is always convergent and represents a transcendental integral function. We therefore have established that:"
+    },
+    {
+      "id": "p0026",
+      "text": "The required solution is (except for a constant factor) a single-valued definite transcendental integral function, which at r=0 belongs to the exponent n."
+    },
+    {
+      "id": "p0027",
+      "text": "We must now investigate the behaviour of this function at infinity on the positive real axis. To that end we simplify equation (7) by the substitution"
+    },
+    {
+      "id": "p0028",
+      "text": "(9) χ = rᵃU, where a is so chosen that the term with I/r? drops out. It is easy to verify that then a must have one of the two values n, —(n +1). Equation (7) then takes the form, 1 For guidance in the treatment of (7) I owe thanks to Hermann Weyl."
+    },
+    {
+      "id": "p0029",
+      "text": "2. For unproved propositions in what follows, see L. Schlesinger’s Differential Equations (Collection Schubert, No. 13, Göschen, 1900, especially chapters 3 and 5)."
+    },
+    {
+      "id": "p0030",
+      "text": ", dU 4 2(a +1) dU 2m e\\ 7 (7) dr dr + alB +9 JU =0."
+    },
+    {
+      "id": "p0031",
+      "text": "Its integrals belong at r=0 to the exponents 0 and -2a-—1. For the a-value, a =n, the first of these integrals, and for the second a-value, a=-(n+1), the second of these integrals is an integral function and leads, according to (9), to the desired solution, which is single-valued. We therefore lose nothing if we confine ourselves to one of the two a-values. Take, then,"
+    },
+    {
+      "id": "p0032",
+      "text": "(10) a = n."
+    },
+    {
+      "id": "p0033",
+      "text": "Our solution U then, at r=0, belongs to the exponent 0. Equation (7’) is called Laplace’s equation. The general type is"
+    },
+    {
+      "id": "p0034",
+      "text": "(7\") U\" + (8, 4° tu\" +(e +\"\")U =0. Here the constants have the values"
+    },
+    {
+      "id": "p0035",
+      "text": "Init 2mne? (11) 8=0, 8:=2°a4]), e= \"> = —<"
+    },
+    {
+      "id": "p0036",
+      "text": "This type of equation is comparatively simple to handle for this reason: The so-called Laplace’s transformation, which in general leads again to an equation of the second order, here gives one of the first. This allows the solutions of (7”) to be represented by complex integrals. The result! only is given here. The integral"
+    },
+    {
+      "id": "p0037",
+      "text": "(12) U =| e\"(z — 0)\" 7 1(z — cg) dz is a solution of (7”) for a path of integration L, for which 9) [ glee ene -ayMe="
+    },
+    {
+      "id": "p0038",
+      "text": "The constants c₁, c₂, α₁, α₂ have the following values. c, and ¢, are the roots of the quadratic equation and (14’) a _€1 +840, € +810, 1 Gy Ce Cy — Ce n the case of equation these become, usin an; In th f equation (7’) these b ing (11) and (10) 2 me? 1. O11 Ky Im 08 Ka 3mB + +"
+    },
+    {
+      "id": "p0039",
+      "text": "The representation by the integral (12) allows us, not only to survey the asymptotic behaviour of the totality of solutions when r"
+    },
+    {
+      "id": "p0040",
+      "text": "1 Cf. Schlesinger. The theory is due to H. Poincaré and J. Horn."
+    },
+    {
+      "id": "p0041",
+      "text": "tends to infinity in a definite way, but also to give an account of this behaviour for one definite solution, which is always a much more difficult task."
+    },
+    {
+      "id": "p0042",
+      "text": "We shall at first exclude the case where α₁ and α₂ are real integers. When this occurs, it occurs for both quantities simultaneously, and when, and only when,"
+    },
+    {
+      "id": "p0043",
+      "text": "(15) mee a real integer, KV/-2mE"
+    },
+    {
+      "id": "p0044",
+      "text": "+"
+    },
+    {
+      "id": "p0045",
+      "text": "Therefore we assume that (15) is not fulfilled."
+    },
+    {
+      "id": "p0046",
+      "text": "The behaviour of the totality of solutions when r tends to infinity in a definite manner—we think always of r becoming infinite through real positive values—-is characterised! by the behaviour of the two linearly independent solutions, which we will call U, and U,, and which are obtained by the following specialisations of the path of integration L. In each case let z come from infinity and return there along the same path, in such a direction that (16) lim e” =0, z → −∞, i.e. the real part of zr is to become negative and infinite. In this way condition (13) is satisfied. In the one case let z make a circuit once round the point c₁ (solution U₁), and in the other, round c₂ (solution U₂)."
+    },
+    {
+      "id": "p0047",
+      "text": "Now for very large real positive values of 7, these two solutions are represented asymptotically (in the sense used by Poincaré) by (17) [Orr er — 1)(ePrtar — 1) P(ay)(Cy - ¢2)*-7, | U,~eetr—99( — 1)%2(e2r#2 — 1) DP(ag) (Cg - Gy)\" 7}, in which we are content to take the first term of the asymptotic series of integral negative powers of 7."
+    },
+    {
+      "id": "p0048",
+      "text": "We have now to distinguish between the two cases."
+    },
+    {
+      "id": "p0049",
+      "text": "1. E > 0. This guarantees the non-fulfilment of (15), as it makes the left hand a pure imaginary. Further, by (14\"), c, and cy, also become pure imaginaries. The exponential functions in (17), since r is real, are therefore periodic functions which remain finite. The values of a, and a, from (14”) show that both U, and U, tend to zero like r-\"~1. This must therefore be valid for our transcendental integral solution U, whose behaviour we are investigating, however it may be linearly compounded from U, and U,, Further, (9) and (10) show that the function χ, i.e. the transcendental integral solution of the original equation (7), always tends to zero like 1/r, as it arises from U through multiplication by r\", We can thus state:"
+    },
+    {
+      "id": "p0050",
+      "text": "The Eulerian differential equation (5) of our variation problem has, for every positive E, solutions, which are everywhere single-valued, finite, and continuous; and which tend to zero with 1 /r at infinity, under continual oscillations. The surface condition (6) has yet to be discussed."
+    },
+    {
+      "id": "p0051",
+      "text": "¹ If (15) is satisfied, at least one of the two paths of integration described in the text cannot be used, as it yields a vanishing result."
+    },
+    {
+      "id": "p0052",
+      "text": "2. E < 0. In this case the possibility (15) is not eo ipso excluded, yet we will maintain that exclusion provisionally. Then by (14”) and (17), for r → ∞, U₁ grows beyond all limits, but U₂ vanishes exponentially. Our integral function U (and the same is true for χ) will then remain finite if, and only if, U is identical with U,, save perhaps for a numerical factor. This, however, can never be, as is proved thus: If a closed circuit round both points c, and c, be chosen for the path L, thereby satisfying condition (13) since the circuit is really closed on the Riemann surface of the integrand, on account of a, +a, being an integer, then it is easy to show that the integral (12) represents our integral function U. (12) can be developed in a series of positive powers of r, which converges, at all events, for r sufficiently small, and since it satisfies equation (7’), it must coincide with the series for U. Therefore U is represented by (12) if L be a closed circuit round both points c, and ¢. This closed circuit can be so distorted, however, as to make it appear additively combined from the two paths, considered above, which belonged to U, and U,; and the factors are non-vanishing, 1 and et, Therefore U cannot coincide with U,, but must contain also U,. Q.E.D."
+    },
+    {
+      "id": "p0053",
+      "text": "Our integral function U, which alone of the solutions of (7’) is considered for our problem, is therefore not finite for r large, on the above hypothesis. Reserving meanwhile the question of completeness, i.e. the proving that our treatment allows us to find all the linearly independent solutions of the problem, then we may state:"
+    },
+    {
+      "id": "p0054",
+      "text": "For negative values of E which do not satisfy condition (15) our variation problem has no solution."
+    },
+    {
+      "id": "p0055",
+      "text": "We have now only to investigate that discrete set of negative E-values which satisfy condition (15). α₁ and α₂ are then both integers. The first of the integration paths, which previously gave us the fundamental values U, and U2, must now undoubtedly be modified so as to give a non-vanishing result. For, since a, —1 is certainly positive, the point c, is neither a branch point nor a pole of the integrand, but an ordinary zero. The point c, can also become regular if a, — 1 is also not negative. In every case, however, two suitable paths are readily found and the integration effected completely in terms of known functions, so that the behaviour of the solutions can be fully investigated."
+    },
+    {
+      "id": "p0056",
+      "text": "Let me? 15’ a ls; 1=1,2,3,4.. () KV -2mE Then from (14”) we have (14’”’) a,-l=l+n, a,-l=-—l+n."
+    },
+    {
+      "id": "p0057",
+      "text": "Two cases have to be distinguished: l ≤ n and l > n."
+    },
+    {
+      "id": "p0058",
+      "text": "(a) l ≤ n. Then c, and c, lose every singular character, but instead become starting-points or end-points of the path of integration, in order to fulfil condition (13). A third characteristic point here is at infinity (negative and real). Every path between two of these three points yields a solution, and of these three solutions there are two linearly independent, as is easily confirmed if the integrals are calculated out. In particular, the transcendental integral solution is given by the path from c₁ to c₂. That this integral remains regular at r = 0 can be seen at once without calculating it. I emphasize this point, as the actual calculation is apt to obscure it. However, the calculation does show that the integral becomes indefinitely great for positive, infinitely great values of r. One of the other two integrals remains finite for r large, but it becomes infinite for r=0."
+    },
+    {
+      "id": "p0059",
+      "text": "Therefore when l ≤ n we get no solution of the problem."
+    },
+    {
+      "id": "p0060",
+      "text": "(b) l>n. Then from (14’”), c, is a zero and c, a pole of the first order at least of the integrand. Two independent integrals are then obtained: one from the path which leads from z = −∞ to the zero, intentionally avoiding the pole; and the other from the residue at the pole. The latter is the integral function. We will give its calculated value, but multiplied by rⁿ, so that we obtain, according to (9) and (10), the solution χ of the original equation (7). (The multiplying constant is arbitrary.) We find s/ -2mB, -2 yale ) (18) xr); fay=arer® BEY tn -1-k It is seen that this is a solution that can be utilised, since it remains finite for all real non-negative values of r. In addition, it satisfies the surface condition (6) because of its vanishing exponentially at infinity. Collecting then the results for E negative:"
+    },
+    {
+      "id": "p0061",
+      "text": "For E negative, our variation problem has solutions if, and only if, E satisfies condition (15). Only values smaller than l (and there is always at least one such at our disposal) can be given to the integer n, which denotes the order of the surface harmonic appearing in the equation. The part of the solution depending on r is given by (18)."
+    },
+    {
+      "id": "p0062",
+      "text": "Taking into account the constants in the surface harmonic (known to be 2n +1 in number), it is further found that:"
+    },
+    {
+      "id": "p0063",
+      "text": "The discovered solution has exactly 2n +1 arbitrary constants for any permissible (n, l) combination; and therefore for a prescribed value of l has l² arbitrary constants."
+    },
+    {
+      "id": "p0064",
+      "text": "We have thus confirmed the main points of the statements originally made about the proper-value spectrum of our variation problem, but there are still deficiencies."
+    },
+    {
+      "id": "p0065",
+      "text": "Firstly, we require information as to the completeness of the collected system of proper functions indicated above, but I will not concern myself with that in this paper. From experience of similar cases, it may be supposed that no proper value has escaped us."
+    },
+    {
+      "id": "p0066",
+      "text": "Secondly, it must be remembered that the proper functions, ascertained for E positive, do not solve the variation problem as originally postulated, because they only tend to zero at infinity as 1/r, and therefore δψ/δr only tends to zero on an infinite sphere as 1/r². Hence the surface integral (6) is still of the same order as δψ at infinity. If it is desired therefore to obtain the continuous spectrum, another condition must be added to the problem, viz. that δψ is to vanish at infinity, or at least, that it tends to a constant value independent of the direction of proceeding to infinity; in the latter case the surface harmonics cause the surface integral to vanish."
+    },
+    {
+      "id": "p0067",
+      "text": "§ 2. Condition (15) yields mes (19) ~ Be oR Therefore the well-known Bohr energy-levels, corresponding to the"
+    },
+    {
+      "id": "p0068",
+      "text": "Balmer terms, are obtained, if to the constant K, introduced into (2) for reasons of dimensions, we give the value h (20) K= On from which comes, 2ar2me4"
+    },
+    {
+      "id": "p0069",
+      "text": "Our l is the principal quantum number. n + 1 is analogous to the azimuthal quantum number. The splitting up of this number through a closer definition of the surface harmonic can be compared with the resolution of the azimuthal quantum into an “ equatorial” and a “polar” quantum. These numbers here define the system of nodelines on the sphere. Also the “radial quantum number” l − n − 1 gives exactly the number of the “ node-spheres’”’, for it is easily established that the function f(x) in (18) has exactly l − n − 1 positive real roots. The positive E-values correspond to the continuum of the hyperbolic orbits, to which one may ascribe, in a certain sense, the radial quantum number ∞. The fact corresponding to this is the proceeding to infinity, under continual oscillations, of the functions in question."
+    },
+    {
+      "id": "p0070",
+      "text": "It is interesting to note that the range, inside which the functions of (18) differ sensibly from zero, and outside which their oscillations die away, is of the general order of magnitude of the major axis of the ellipse in each case. The factor, multiplied by which the radius vector enters as the argument of the constant-free function f, is— naturally—the reciprocal of a length, and this length is"
+    },
+    {
+      "id": "p0071",
+      "text": "K Rl hl a"
+    },
+    {
+      "id": "p0072",
+      "text": "(21) 2m met ber?me® = V"
+    },
+    {
+      "id": "p0073",
+      "text": "where a; = the semi-axis of the /th elliptic orbit. (‘The equations follow"
+    },
+    {
+      "id": "p0074",
+      "text": "—p2 from (19) plus the known relation £;= Ja)"
+    },
+    {
+      "id": "p0075",
+      "text": "The quantity (21) gives the order of magnitude of the range of the roots when l and n are small; for then it may be assumed that the roots of f(x) are of the order of unity. That is naturally no longer the case if the coefficients of the polynomial are large numbers. At present I will not enter into a more exact evaluation of the roots, though I believe it would confirm the above assertion pretty thoroughly."
+    },
+    {
+      "id": "p0076",
+      "text": "§ 3. It is, of course, strongly suggested that we should try to connect the function ψ with some vibration process in the atom, which would more nearly approach reality than the electronic orbits, the real existence of which is being very much questioned to-day. I originally intended to found the new quantum conditions in this more intuitive manner, but finally gave them the above neutral mathematical form, because it brings more clearly to light what is really essential. The essential thing seems to me to be, that the postulation of “whole numbers ”’ no longer enters into the quantum rules mysteriously, but that we have traced the matter a step further back, and found the “integralness ”’ to have its origin in the finiteness and single-valuedness of a certain space function."
+    },
+    {
+      "id": "p0077",
+      "text": "I do not wish to discuss further the possible representations of the vibration process, before more complicated cases have been calculated successfully from the new stand-point. It is not decided that the results will merely re-echo those of the usual quantum theory. For example, if the relativistic Kepler problem be worked out, it is found to lead in a remarkable manner to half-integral partial quanta (radial and azimuthal)."
+    },
+    {
+      "id": "p0078",
+      "text": "Still, a few remarks on the representation of the vibration may be permitted. Above all, I wish to mention that I was led to these deliberations in the first place by the suggestive papers of M. Louis de Broglie,’ and by reflecting over the space distribution of those ‘“ phase waves ”’, of which he has shown that there is always a whole number, measured along the path, present on each period or quasi-period of the electron. The main difference is that de Broglie thinks of progressive waves, while we are led to stationary proper vibrations if we interpret our formulae as representing vibrations. I have lately shown² that the Einstein gas theory can be based on the consideration of such stationary proper vibrations, to which the dispersion law of de Broglie’s phase waves has been applied. The above reflections on the atom could have been represented as a generalisation from those on the gas model."
+    },
+    {
+      "id": "p0079",
+      "text": "If we take the separate functions (18), multiplied by a surface harmonic of order n, as the description of proper vibration processes, then the quantity E must have something to do with the related frequency. Now in vibration problems we are accustomed to the “‘ parameter ” (usually called A) being proportional to the square of the frequency. However, in the first place, such a statement in our case would lead to imaginary frequencies for the negative E-values, and, secondly, instinct leads us to believe that the energy must be proportional to the frequency itself and not to its square."
+    },
+    {
+      "id": "p0080",
+      "text": "The contradiction is explained thus. There has been no natural zero level laid down for the “parameter” E of the variation equation (5), especially as the unknown function ψ appears multiplied by a function of r, which can be changed by a constant to meet a corresponding"
+    },
+    {
+      "id": "p0081",
+      "text": "1 L, de Broglie, Ann. de Physique (10) 3, p. 22, 1925. (Théses, Paris, 1924.) 2 Physik. Ztschr. 27, p. 95, 1926."
+    },
+    {
+      "id": "p0082",
+      "text": "change in the zero level of E. Consequently, we have to correct our anticipations, in that not E itself—continuing to use the same terminology—but E increased by a certain constant is to be expected to be proportional to the square of the frequency. Let this constant be now very great compared with all the admissible negative E-values (which are already limited by (15)). Then firstly, the frequencies will become real, and secondly, since our E-values correspond to only relatively small frequency differences, they will actually be very approximately proportional to these frequency differences. This, again, is all that our “ quantum-instinct ” can require, as long as the zero level of energy is not fixed. The view that the frequency of the vibration process is given by"
+    },
+    {
+      "id": "p0083",
+      "text": "’ ‘Y, TF, ar Cc\""
+    },
+    {
+      "id": "p0084",
+      "text": "(22) vaUVC+H=CVC+5 E+. my where C is a constant very great compared with all the E’s, has still another very appreciable advantage. It permits an understanding of the Bohr frequency condition. According to the latter the emission frequencies are proportional to the E-differences, and therefore from (22) also to the differences of the proper frequencies v of those hypothetical vibration processes. But these proper frequencies are all very great compared with the emission frequencies, and they agree very closely among themselves. The emission frequencies appear therefore as deep “difference tones” of the proper vibrations themselves. It is quite conceivable that on the transition of energy from one to another of the normal vibrations, something—I mean the light wave— with a frequency allied to each frequency difference, should make its appearance. One only needs to imagine that the light wave is causally related to the beats, which necessarily arise at each point of space during the transition; and that the frequency of the light is defined by the number of times per second the intensity maximum of the beat-process repeats itself."
+    },
+    {
+      "id": "p0085",
+      "text": "It may be objected that these conclusions are based on the relation (22), in its approximate form (after expansion of the square root), from which the Bohr frequency condition itself seems to obtain the nature of an approximation. This, however, is merely apparently so, and it is wholly avoided when the relativistic theory is developed and makes a profounder insight possible. The large constant C is naturally very intimately connected with the rest-energy of the electron (mc²). Also the seemingly new and independent introduction of the constant h (already brought in by (20)), into the frequency condition, is cleared up, or rather avoided, by the relativistic theory. But unfortunately the correct establishment of the latter meets right away with certain difficulties, which have been already alluded to."
+    },
+    {
+      "id": "p0086",
+      "text": "It is hardly necessary to emphasize how much more congenial it would be to imagine that at a quantum transition the energy changes over from one form of vibration to another, than to think of a jumping electron. The changing of the vibration form can take place continuously in space and time, and it can readily last as long as the emission process lasts empirically (experiments on canal rays by W. Wien); nevertheless, if during this transition the atom is placed for a comparatively short time in an electric field which alters the proper frequencies, then the beat frequencies are immediately changed sympathetically, and for just as long as the field operates. It is known that this experimentally established fact has hitherto presented the greatest difficulties. See the well-known attempt at a solution by Bohr, Kramers, and Slater."
+    },
+    {
+      "id": "p0087",
+      "text": "Let us not forget, however, in our gratification over our progress in these matters, that the idea of only one proper vibration being excited whenever the atom does not radiate—if we must hold fast to this idea—is very far removed from the natural picture of a vibrating system. We know that a macroscopic system does not behave like that, but yields in general a pot-pourri of its proper vibrations. But we should not make up our minds too quickly on this point. A pot-pourri of proper vibrations would also be permissible for a single atom, since thereby no beat frequencies could arise other than those which, according to experience, the atom is capable of emitting occasionally. The actual sending out of many of these spectral lines simultaneously by the same atom does not contradict experience. It is thus conceivable that only in the normal state (and approximately in certain “ meta-stable” states) the atom vibrates with one proper frequency and just for this reason does not radiate, namely, because no beats arise. The stimulation may consist of a simultaneous excitation of one or of several other proper frequencies, whereby beats originate and evoke emission of light."
+    },
+    {
+      "id": "p0088",
+      "text": "Under all circumstances, I believe, the proper functions, which belong to the same frequency, are in general all simultaneously stimulated. Multipleness of the proper values corresponds, namely, in the language of the previous theory to degeneration. To the reduction of the quantisation of degenerate systems probably corresponds the arbitrary partition of the energy among the functions belonging to one proper value."
+    },
+    {
+      "id": "p0089",
+      "text": "Addition at the proof correction on 28.2.1926."
+    },
+    {
+      "id": "p0090",
+      "text": "In the case of conservative systems in classical mechanics, the variation problem can be formulated in a neater way than was previously shown, and without express reference to the Hamilton-Jacobi differential equation. Thus, let T (q, p) be the kinetic energy, expressed as a function of the co-ordinates and momenta, V the potential energy, and dτ the volume element of the space, “measured rationally,” i.e. it is not simply the product dq, dq, dq,... dqn, but this divided by the square root of the discriminant of the “quadratic form T (q,:). (Cf. Gibbs’ Statistical Mechanics.) Then let ψ be such as to make the “ Hamilton integral ” fiop( Ov"
+    },
+    {
+      "id": "p0091",
+      "text": "2M ag © 2"
+    },
+    {
+      "id": "p0092",
+      "text": "(23) ae T(q, on) +Y v}"
+    },
+    {
+      "id": "p0093",
+      "text": "stationary, while fulfilling the normalising, accessory condition (24) | Yedr =1."
+    },
+    {
+      "id": "p0094",
+      "text": "The proper values of this variation problem are then the stationary values of integral (23) and yield, according to our thesis, the quantum levels of the energy."
+    },
+    {
+      "id": "p0095",
+      "text": "It is to be remarked that in the quantity α₁ of (14″) we have essentially the well-known Sommerfeld expression VA +VC. (Cf. Atombau, 4th (German) ed., p. 775.)"
+    },
+    {
+      "id": "p0096",
+      "text": "Physical Institute of the University of Zürich. (Received January 27, 1926.)"
+    }
+  ],
+  "anchors": {
+    "science-schrodinger-eigenvalues": {
+      "paragraphId": "p0003",
+      "start": 5,
+      "end": 416,
+      "quote": "In this paper I wish to consider, first, the simple case of the hydrogen atom (non-relativistic and unperturbed), and show that the customary quantum conditions can be replaced by another postulate, in which the notion of “whole numbers”, merely as such, is not introduced. Rather when integralness does appear, it arises in the same natural way as it does in the case of the node-numbers of a vibrating string.",
+      "match": "normalized-exact"
+    }
+  }
+}

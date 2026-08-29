@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-waiting-for-the-dawn-on-ministers-named-chapter-on-ministers-0a8f9018",
+  "title": "篇 On Ministers",
+  "englishTitle": "Chapter On Ministers",
+  "work": "《明夷待访录·原臣》",
+  "englishWork": "Waiting for the Dawn, On Ministers",
+  "locator": "篇 On Ministers",
+  "englishLocator": "Chapter On Ministers",
+  "version": "维基文库《明夷待访录·原臣》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Waiting for the Dawn, On Ministers; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%A4%B7%E5%BE%85%E8%A8%AA%E9%8C%84",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%A4%B7%E5%BE%85%E8%A8%AA%E9%8C%84",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E6%98%8E%E5%A4%B7%E5%BE%85%E8%A8%AA%E9%8C%84&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "5abbd06225081414f90af456a3feafaf8ed8798f6105fe7978d279e22d103d0a"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "5fd37e53d2e1fddb99ab87c4595685ee02c50b02016c893345cfee7570049741",
+  "inputHash": "b28d61e8ea42a97f6aaf7f89e57c43416f4779272a2ef2d5f65108255818c7d0",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "原臣"
+    },
+    {
+      "id": "p0002",
+      "text": "有人焉，視於無形，聽於無聲，以事其君，可謂之臣乎？曰：否！殺其身以事其君，可謂之臣乎？曰：否！夫視於無形，聽於無聲，資於事父也；殺其身者，無私之極則也。而猶不足以當之，則臣道如何而後可？曰：緣夫天下之大，非一人之所能治，而分治之以羣工。故我之出而仕也，為天下，非為君也；為萬民，非為一姓也。吾以天下萬民起見，非其道，即君以形聲強我，未之敢從也，況於無形無聲乎！非其道，即立身於其朝，未之敢許也，況於殺其身乎！不然，而以君之一身一姓起見，君有無形無聲之嗜慾，吾從而視之聽之，此宦官宮妾之心也；君為己死而為己亡，吾從而死之亡之，此其私暱者之事也。是乃臣不臣之辨也。"
+    },
+    {
+      "id": "p0003",
+      "text": "世之為臣者昧於此義，以謂臣為君而設者也。君分吾以天下而後治之，君授吾以人民而後牧之，視天下人民為人君橐中之私物。今以四方之勞擾，民生之憔悴，足以危吾君也，不得不講治之牧之之術。苟無繫於社稷之存亡，則四方之勞擾，民生之憔悴，雖有誠臣，亦以為纖芥之疾也。夫古之為臣者，於此乎，於彼乎？"
+    },
+    {
+      "id": "p0004",
+      "text": "蓋天下之治亂，不在一姓之興亡，而在萬民之憂樂。是故桀、紂之亡，乃所以為治也；秦政、蒙古之興，乃所以為亂也；晉、宋、齊、梁之興亡，無與於治亂者也。為臣者輕視斯民之水火，即能輔君而興，從君而亡，其於臣道固未嘗不背也。夫治天下猶曳大木然，前者唱邪，後者唱許。君與臣，共曳木之人也，若手不執紼，足不履地，曳木者唯娛笑於曳木者之前，從曳木者以為良，而曳木之職荒矣。"
+    },
+    {
+      "id": "p0005",
+      "text": "嗟乎！後世驕君自恣，不以天下萬民為事。其所求乎草野者，不過欲得奔走服役之人。乃使草野之應於上者，亦不出夫奔走服役。一時免於寒餓，遂感在上之知遇，不復計其禮之備與不備，躋之僕妾之間而以為當然。萬曆初，神宗之待張居正，其禮稍優，此於古之師傅未能百一。當時論者駭然居正之受無人臣禮。夫居正之罪，正坐不能以師傅自待，聽指使於僕妾，而責之反是，何也？是則耳目浸淫於流俗之所謂臣者以為鵠矣！又豈知臣之與君，名異而實同耶？"
+    },
+    {
+      "id": "p0006",
+      "text": "或曰：臣不與子並稱乎？曰：非也。父子一氣，子分父之身以為身。故孝子雖異身，而能日近其氣，久之無不通矣；不孝之子，分身而後，日遠日疑，久之而氣不相似矣。君臣之名，從天下而有之者也。吾無天下之責，則吾在君為路人。出而仕於君也，不以天下為事，則君之僕妾也；以天下為事，則君之師友也。夫然，謂之臣，其名累變，夫父子固不可變者也。"
+    }
+  ],
+  "anchors": {
+    "chinese-huang-zongxi-office-for-all": {
+      "paragraphId": "p0002",
+      "start": 118,
+      "end": 145,
+      "quote": "故我之出而仕也，为天下，非为君也；为万民，非为一姓也。",
+      "match": "normalized-exact"
+    },
+    "chinese-huang-zongxi-order-and-people": {
+      "paragraphId": "p0004",
+      "start": 0,
+      "end": 23,
+      "quote": "盖天下之治乱，不在一姓之兴亡，而在万民之忧乐。",
+      "match": "normalized-exact"
+    }
+  }
+}

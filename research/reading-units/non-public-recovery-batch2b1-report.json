@@ -1,0 +1,378 @@
+{
+  "schemaVersion": 1,
+  "command": "node scripts/derive-non-public-recovery-batch2b1.mjs",
+  "generatedFrom": "existing raw origins only; no network access",
+  "naturalUnitPolicy": "Each output is the complete registered natural unit, bounded by the next peer structural unit; no card-centered short window is used.",
+  "sharedFilesIntentionallyUnchanged": [
+    "research/reading-units/inventory.json",
+    "research/reading-units/source-overrides.json",
+    "public/readings/**",
+    "research/source-cache/reading-unit-derived/manifest.json"
+  ],
+  "written": 4,
+  "totalOutputBytes": 531797,
+  "allAnchorsMatched": true,
+  "units": [
+    {
+      "unitId": "ru-capital-volume-i-chapter-i-c4ed1d60",
+      "thoughtId": "economics-marx-commodity-fetish",
+      "currentLocator": {
+        "structureKey": "chapter-i",
+        "zh": "章 I",
+        "en": "Chapter I"
+      },
+      "currentRegisteredSourceUrl": "https://commons.wikimedia.org/wiki/File:Capital_-_Marx_-_1887_-_Volume_1.pdf",
+      "origins": {
+        "ocr": {
+          "path": "research/source-cache/non-public-24-recovery/origins/capitalcriticala00marxrich_djvu.txt",
+          "sha256": "31989387b68c8669dfd2026a457f328370240d80e26e07248e82bb32a168dac5"
+        },
+        "scan": {
+          "path": "research/source-cache/non-public-24-recovery/origins/capital-marx-1887-volume-1.pdf",
+          "sha256": "e262372b3ae63259782d30b44963a1ea03b47e22a2b8a3a0776a5056de18b95e"
+        }
+      },
+      "sourceBoundary": {
+        "ocrLinesInclusive": {
+          "firstLine": 1384,
+          "lastLine": 3967
+        },
+        "verifiedMarkers": [
+          {
+            "line": 1384,
+            "role": "start",
+            "text": "CHAPTER I."
+          },
+          {
+            "line": 3970,
+            "role": "following-page-header",
+            "text": "56 Capitalist Production,"
+          },
+          {
+            "line": 3979,
+            "role": "next-natural-unit",
+            "text": "CHAPTER 11."
+          }
+        ],
+        "scan": {
+          "firstPdfPage": 37,
+          "lastPdfPage": 91,
+          "printedPages": "1-55",
+          "followingPdfPage": 92,
+          "followingUnit": "Chapter II — Exchange"
+        }
+      },
+      "output": {
+        "path": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-i.txt",
+        "bytes": 130105,
+        "characters": 129977,
+        "paragraphs": 272,
+        "sha256": "c0b05e21a5366ec35c2bbdc2386a2f34707db8a636e6c94fd41439ab6ec20602"
+      },
+      "cardAnchor": {
+        "quote": "There it is a definite social relation between men, that assumes, in their eyes, the fantastic form of a relation between things.",
+        "evidence": {
+          "pdfPage": 79,
+          "printedPage": 43
+        },
+        "productionMatcherResult": {
+          "paragraphId": "p0232",
+          "start": 1078,
+          "end": 1207,
+          "quote": "There it is a definite social relation between men, that assumes, in their eyes, the fantastic form of a relation between things.",
+          "match": "normalized-exact"
+        }
+      },
+      "normalization": [
+        "NFC and whitespace normalization",
+        "running page headers, page folios, and printer signature artifacts removed with edition-specific rules",
+        "line-end hyphenation dewrapped; attested or clearly lexical compounds in the edition retained",
+        "no modernization, paraphrase, translation substitution, or short-window replacement"
+      ],
+      "corrections": [
+        "The card-anchor line wrap rela-/tion was dewrapped to relation after visual verification on PDF p. 79 / printed p. 43."
+      ],
+      "overrideProposal": {
+        "scope": "byUnitId",
+        "key": "ru-capital-volume-i-chapter-i-c4ed1d60",
+        "value": {
+          "localPath": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-i.txt"
+        }
+      }
+    },
+    {
+      "unitId": "ru-capital-volume-i-chapter-xxv-5db39174",
+      "thoughtId": "economics-marx-reserve-army",
+      "currentLocator": {
+        "structureKey": "chapter-xxv",
+        "zh": "章 XXV",
+        "en": "Chapter XXV"
+      },
+      "currentRegisteredSourceUrl": "https://commons.wikimedia.org/wiki/File:Capital_-_Marx_-_1887_-_Volume_2.pdf",
+      "origins": {
+        "ocr": {
+          "path": "research/source-cache/non-public-24-recovery/origins/capitalcriticala02marxrich_djvu.txt",
+          "sha256": "ec5e206a1193b0ec5aa7f6c59a295b7b47528cd1a867027da8941aa552728d05"
+        },
+        "scan": {
+          "path": "research/source-cache/non-public-24-recovery/origins/capitalcriticala02marxrich.pdf",
+          "sha256": "e024ebd282cfc24570eb7ebf60c51b316dc14b933c463eec7c9e00b6a9fd11b7"
+        }
+      },
+      "sourceBoundary": {
+        "ocrLinesInclusive": {
+          "firstLine": 12715,
+          "lastLine": 19105
+        },
+        "verifiedMarkers": [
+          {
+            "line": 12715,
+            "role": "start",
+            "text": "CHAPTER XXV."
+          },
+          {
+            "line": 19108,
+            "role": "next-part",
+            "text": "PART VIIL"
+          },
+          {
+            "line": 19112,
+            "role": "next-natural-unit",
+            "text": "CHAPTER XXVI."
+          }
+        ],
+        "scan": {
+          "firstPdfPage": 269,
+          "lastPdfPage": 379,
+          "printedPages": "625-735",
+          "followingPdfPage": 380,
+          "followingUnit": "Part VIII / Chapter XXVI — The Secret of Primitive Accumulation"
+        }
+      },
+      "output": {
+        "path": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-xxv.txt",
+        "bytes": 254948,
+        "characters": 254455,
+        "paragraphs": 1163,
+        "sha256": "d96c9084f97dfab8b5b84a5fd309eb28877d41123ad70aa4a538035ce02d778f"
+      },
+      "cardAnchor": {
+        "quote": "On the one hand, therefore, the additional capital formed in the course of accumulation attracts fewer and fewer labourers in proportion to its magnitude.",
+        "evidence": {
+          "pdfPage": 286,
+          "printedPage": 642
+        },
+        "productionMatcherResult": {
+          "paragraphId": "p0058",
+          "start": 0,
+          "end": 154,
+          "quote": "On the one hand, therefore, the additional capital formed in the course of accumulation attracts fewer and fewer labourers in proportion to its magnitude.",
+          "match": "normalized-exact"
+        }
+      },
+      "normalization": [
+        "NFC and whitespace normalization",
+        "running page headers, page folios, and printer signature artifacts removed with edition-specific rules",
+        "line-end hyphenation dewrapped; attested or clearly lexical compounds in the edition retained",
+        "no modernization, paraphrase, translation substitution, or short-window replacement"
+      ],
+      "corrections": [],
+      "overrideProposal": {
+        "scope": "byUnitId",
+        "key": "ru-capital-volume-i-chapter-xxv-5db39174",
+        "value": {
+          "localPath": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-xxv.txt"
+        }
+      }
+    },
+    {
+      "unitId": "ru-new-essays-on-human-understanding-preface-preface-9a2fa0f0",
+      "thoughtId": "leibniz-small-perceptions",
+      "currentLocator": {
+        "structureKey": "preface-preface",
+        "zh": "序言",
+        "en": "Preface"
+      },
+      "currentRegisteredSourceUrl": "https://commons.wikimedia.org/wiki/File:New_essays_concerning_human_understanding_(IA_cu31924032296422).pdf",
+      "origins": {
+        "ocr": {
+          "path": "research/source-cache/non-public-24-recovery/origins/cu31924032296422_djvu.txt",
+          "sha256": "7c23197c4f229b7a68ec935d5ac6f6cda6a1a3d00845c2ebe5b9d1bf4e936b03"
+        },
+        "scan": {
+          "path": "research/source-cache/non-public-24-recovery/origins/cu31924032296422.pdf",
+          "sha256": "4c3e9d7c3027af1ede5a50cc53d388f38f385b978000246f05c6f7b8a078211d"
+        }
+      },
+      "sourceBoundary": {
+        "ocrLinesInclusive": {
+          "firstLine": 2583,
+          "lastLine": 3664
+        },
+        "verifiedMarkers": [
+          {
+            "line": 2583,
+            "role": "start",
+            "text": "PEEFACE"
+          },
+          {
+            "line": 3665,
+            "role": "next-natural-unit",
+            "text": "NEW ESSAYS ON HUMAN UNDERSTANDING"
+          },
+          {
+            "line": 3668,
+            "role": "next-unit-subheading",
+            "text": "Book I. — Innate Ideas"
+          }
+        ],
+        "scan": {
+          "firstPdfPage": 67,
+          "lastPdfPage": 89,
+          "printedPages": "41-63",
+          "followingPdfPage": 90,
+          "followingUnit": "Book I — Innate Ideas"
+        }
+      },
+      "output": {
+        "path": "research/source-cache/reading-unit-derived/leibniz-new-essays-langley-1896-preface.txt",
+        "bytes": 55964,
+        "characters": 55885,
+        "paragraphs": 83,
+        "sha256": "d7de7d7efdf1e8f8dcbc25da8dadb22c165f2cea6a34ccb5a62aebc62ebbcd26"
+      },
+      "cardAnchor": {
+        "quote": "For it must be that we are affected a little by the motion of this wave, and that we have some perception of each one of these noises, small as they are; otherwise we would not have that of a hundred thousand waves, since a hundred thousand nothings cannot make something.",
+        "evidence": {
+          "pdfPage": 74,
+          "printedPage": 48
+        },
+        "productionMatcherResult": {
+          "paragraphId": "p0022",
+          "start": 1103,
+          "end": 1376,
+          "quote": "For it must be that we are affected a little by the motion of this wave, and that we have some perception of each one of these noises, small as they are; otherwise we would not have that of a hundred thousand waves, since a hundred thousand nothings cannot make something.",
+          "match": "normalized-exact"
+        }
+      },
+      "normalization": [
+        "NFC and whitespace normalization",
+        "running page headers, page folios, and printer signature artifacts removed with edition-specific rules",
+        "line-end hyphenation dewrapped; attested or clearly lexical compounds in the edition retained",
+        "no modernization, paraphrase, translation substitution, or short-window replacement"
+      ],
+      "corrections": [
+        "The OCR heading PEEFACE was normalized to PREFACE after visual verification on PDF p. 67 / printed p. 41.",
+        "The card-anchor wraps per-/ception and other-/wise were dewrapped after visual verification on PDF p. 74 / printed p. 48."
+      ],
+      "overrideProposal": {
+        "scope": "byUnitId",
+        "key": "ru-new-essays-on-human-understanding-preface-preface-9a2fa0f0",
+        "value": {
+          "localPath": "research/source-cache/reading-unit-derived/leibniz-new-essays-langley-1896-preface.txt"
+        }
+      }
+    },
+    {
+      "unitId": "ru-religion-within-the-boundaries-of-mere-reason-part-i-1cd8bd19",
+      "thoughtId": "kant-propensity-radical-evil",
+      "currentLocator": {
+        "structureKey": "part-i",
+        "zh": "部分 I",
+        "en": "Part I"
+      },
+      "currentRegisteredSourceUrl": "https://commons.wikimedia.org/wiki/File:Religion_within_the_boundary_of_pure_reason_(IA_religionwithinbo00kantrich).pdf",
+      "origins": {
+        "ocr": {
+          "path": "research/source-cache/non-public-24-recovery/origins/religionwithinbo00kantrich_djvu.txt",
+          "sha256": "7cfc98cc32a2969b972fb4ca5c65ecbe6f631ef63770985e8209de689e4ee635"
+        },
+        "scan": {
+          "path": "research/source-cache/non-public-24-recovery/origins/religionwithinbo00kantrich.pdf",
+          "sha256": "a3df1c22194fa94a96423dddd3b490a112fc55200bec60225ad3abf5789a98f8"
+        }
+      },
+      "sourceBoundary": {
+        "ocrLinesInclusive": {
+          "firstLine": 860,
+          "lastLine": 2697
+        },
+        "verifiedMarkers": [
+          {
+            "line": 860,
+            "role": "start",
+            "text": "BOOK I."
+          },
+          {
+            "line": 2700,
+            "role": "next-book-frontispiece",
+            "text": "HARMONY AND IDENTITY"
+          },
+          {
+            "line": 2712,
+            "role": "next-natural-unit",
+            "text": "OF THE COMBAT BETWIXT THE GOOD AND THE EVIL"
+          }
+        ],
+        "scan": {
+          "firstPdfPage": 35,
+          "lastPdfPage": 82,
+          "printedPages": "17 (unprinted opener)-64",
+          "followingPdfPage": 83,
+          "followingUnit": "Book II — Of the Combat Betwixt the Good and the Evil Principle"
+        }
+      },
+      "output": {
+        "path": "research/source-cache/reading-unit-derived/kant-religion-semple-1838-part-i.txt",
+        "bytes": 90780,
+        "characters": 90608,
+        "paragraphs": 133,
+        "sha256": "016750d952cebaf1163001a41aaeac043c021fdff1bce16dcbaeabc050354751"
+      },
+      "cardAnchor": {
+        "quote": "Hence it appears that mankind is only evil so far forth as he inverts the ethical order of those springs which he adopts into his maxims. … he makes the selfish spring condition his observance of the law; whereas the latter it is that ought to be the condition precedent of his gratifying the former.",
+        "evidence": {
+          "pdfPage": 59,
+          "printedPage": 41
+        },
+        "productionMatcherResult": {
+          "paragraphId": "p0078",
+          "start": 0,
+          "end": 137,
+          "match": "ellipsis-ordered-segments",
+          "segments": [
+            {
+              "paragraphId": "p0078",
+              "start": 0,
+              "end": 137,
+              "text": "Hence it appears that mankind is only evil so far forth as he inverts the ethical order of those springs which he adopts into his maxims."
+            },
+            {
+              "paragraphId": "p0078",
+              "start": 403,
+              "end": 564,
+              "text": "he makes the selfish spring condition his observance of the law ; whereas the latter it is that ought to be the condition precedent of his gratifying the former,"
+            }
+          ],
+          "quote": "Hence it appears that mankind is only evil so far forth as he inverts the ethical order of those springs which he adopts into his maxims. … he makes the selfish spring condition his observance of the law; whereas the latter it is that ought to be the condition precedent of his gratifying the former."
+        }
+      },
+      "normalization": [
+        "NFC and whitespace normalization",
+        "running page headers, page folios, and printer signature artifacts removed with edition-specific rules",
+        "line-end hyphenation dewrapped; attested or clearly lexical compounds in the edition retained",
+        "no modernization, paraphrase, translation substitution, or short-window replacement"
+      ],
+      "corrections": [
+        "The card-anchor wrap ob-/servance was dewrapped after visual verification on PDF p. 59 / printed p. 41."
+      ],
+      "overrideProposal": {
+        "scope": "byUnitId",
+        "key": "ru-religion-within-the-boundaries-of-mere-reason-part-i-1cd8bd19",
+        "value": {
+          "localPath": "research/source-cache/reading-unit-derived/kant-religion-semple-1838-part-i.txt"
+        }
+      }
+    }
+  ]
+}

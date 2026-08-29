@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-our-knowledge-of-the-external-world-lecture-iv-ac21dda7",
+  "title": "讲 IV",
+  "englishTitle": "Lecture IV",
+  "work": "《我们关于外部世界的知识》",
+  "englishWork": "Our Knowledge of the External World",
+  "locator": "讲 IV",
+  "englishLocator": "Lecture IV",
+  "version": "古登堡计划公版英文文本，罗素《我们关于外部世界的知识》第四讲，论逻辑构造",
+  "englishVersion": "Project Gutenberg public-domain English text, Russell, Our Knowledge of the External World, Lecture IV, logical constructions",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/37090/pg37090-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/3/7/0/9/37090/37090-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/3/7/0/9/37090/37090-0.txt",
+    "contentType": "text/plain",
+    "sha256": "d85ebd4ee3506c3e3848655a795b540e2893a4a374283e25dccf573fbf1ba238"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "f34c4d96ad6a8a57b137a9447ba08214b590defe85f186ca8f5eeaa397ce27d5",
+  "inputHash": "2b16ebe868d1c78a2c8a3c0a78b9c2ca995830eb3db09932714ebeccce8452e8",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "LECTURE IV"
+    },
+    {
+      "id": "p0002",
+      "text": "THE WORLD OF PHYSICS AND THE WORLD OF SENSE"
+    },
+    {
+      "id": "p0003",
+      "text": "Among the objections to the reality of objects of sense, there is one which is derived from the apparent difference between matter as it appears in physics and things as they appear in sensation. Men of science, for the most part, are willing to condemn immediate data as \"merely subjective,\" while yet maintaining the truth of the physics inferred from those data. But such an attitude, though it may be _capable_ of justification, obviously stands in need of it; and the only justification possible must be one which exhibits matter as a logical construction from sense-data--unless, indeed, there were some wholly _a priori_ principle by which unknown entities could be inferred from such as are known. It is therefore necessary to find some way of bridging the gulf between the world of physics and the world of sense, and it is this problem which will occupy us in the present lecture. Physicists appear to be unconscious of the gulf, while psychologists, who are conscious of it, have not the mathematical knowledge required for spanning it. The problem is difficult, and I do not know its solution in detail. All that I can hope to do is to make the problem felt, and to indicate the kind of methods by which a solution is to be sought."
+    },
+    {
+      "id": "p0004",
+      "text": "Let us begin by a brief description of the two contrasted worlds. We will take first the world of physics, for, though the other world is given while the physical world is inferred, to us now the world of physics is the more familiar, the world of pure sense having become strange and difficult to rediscover. Physics started from the common-sense belief in fairly permanent and fairly rigid bodies--tables and chairs, stones, mountains, the earth and moon and sun. This common-sense belief, it should be noticed, is a piece of audacious metaphysical theorising; objects are not continually present to sensation, and it may be doubted whether they are there when they are not seen or felt. This problem, which has been acute since the time of Berkeley, is ignored by common sense, and has therefore hitherto been ignored by physicists. We have thus here a first departure from the immediate data of sensation, though it is a departure merely by way of extension, and was probably made by our savage ancestors in some very remote prehistoric epoch."
+    },
+    {
+      "id": "p0005",
+      "text": "But tables and chairs, stones and mountains, are not _quite_ permanent or _quite_ rigid. Tables and chairs lose their legs, stones are split by frost, and mountains are cleft by earthquakes and eruptions. Then there are other things, which seem material, and yet present almost no permanence or rigidity. Breath, smoke, clouds, are examples of such things--so, in a lesser degree, are ice and snow; and rivers and seas, though fairly permanent, are not in any degree rigid. Breath, smoke, clouds, and generally things that can be seen but not touched, were thought to be hardly real; to this day the usual mark of a ghost is that it can be seen but not touched. Such objects were peculiar in the fact that they seemed to disappear completely, not merely to be transformed into something else. Ice and snow, when they disappear, are replaced by water; and it required no great theoretical effort to invent the hypothesis that the water was the same thing as the ice and snow, but in a new form. Solid bodies, when they break, break into parts which are practically the same in shape and size as they were before. A stone can be hammered into a powder, but the powder consists of grains which retain the character they had before the pounding. Thus the ideal of absolutely rigid and absolutely permanent bodies, which early physicists pursued throughout the changing appearances, seemed attainable by supposing ordinary bodies to be composed of a vast number of tiny atoms. This billiard-ball view of matter dominated the imagination of physicists until quite modern times, until, in fact, it was replaced by the electromagnetic theory, which in its turn is developing into a new atomism. Apart from the special form of the atomic theory which was invented for the needs of chemistry, some kind of atomism dominated the whole of traditional dynamics, and was implied in every statement of its laws and axioms."
+    },
+    {
+      "id": "p0006",
+      "text": "The pictorial accounts which physicists give of the material world as they conceive it undergo violent changes under the influence of modifications in theory which are much slighter than the layman might suppose from the alterations of the description. Certain features, however, have remained fairly stable. It is always assumed that there is _something_ indestructible which is capable of motion in space; what is indestructible is always very small, but does not always occupy a mere point in space. There is supposed to be one all-embracing space in which the motion takes place, and until lately we might have assumed one all-embracing time also. But the principle of relativity has given prominence to the conception of \"local time,\" and has somewhat diminished men's confidence in the one even-flowing stream of time. Without dogmatising as to the ultimate outcome of the principle of relativity, however, we may safely say, I think, that it does not destroy the possibility of correlating different local times, and does not therefore have such far-reaching philosophical consequences as is sometimes supposed. In fact, in spite of difficulties as to measurement, the one all-embracing time still, I think, underlies all that physics has to say about motion. We thus have still in physics, as we had in Newton's time, a set of indestructible entities which may be called particles, moving relatively to each other in a single space and a single time."
+    },
+    {
+      "id": "p0007",
+      "text": "The world of immediate data is quite different from this. Nothing is permanent; even the things that we think are fairly permanent, such as mountains, only become data when we see them, and are not immediately given as existing at other moments. So far from one all-embracing space being given, there are several spaces for each person, according to the different senses which give relations that may be called spatial. Experience teaches us to obtain one space from these by correlation, and experience, together with instinctive theorising, teaches us to correlate our spaces with those which we believe to exist in the sensible worlds of other people. The construction of a single time offers less difficulty so long as we confine ourselves to one person's private world, but the correlation of one private time with another is a matter of great difficulty. Thus, apart from any of the fluctuating hypotheses of physics, three main problems arise in connecting the world of physics with the world of sense, namely (1) the construction of permanent \"things,\" (2) the construction of a single space, and (3) the construction of a single time. We will consider these three problems in succession."
+    },
+    {
+      "id": "p0008",
+      "text": "(1) The belief in indestructible \"things\" very early took the form of atomism. The underlying motive in atomism was not, I think, any empirical success in interpreting phenomena, but rather an instinctive belief that beneath all the changes of the sensible world there must be something permanent and unchanging. This belief was, no doubt, fostered and nourished by its practical successes, culminating in the conservation of mass; but it was not produced by these successes. On the contrary, they were produced by it. Philosophical writers on physics sometimes speak as though the conservation of something or other were essential to the possibility of science, but this, I believe, is an entirely erroneous opinion. If the _a priori_ belief in permanence had not existed, the same laws which are now formulated in terms of this belief might just as well have been formulated without it. Why should we suppose that, when ice melts, the water which replaces it is the same thing in a new form? Merely because this supposition enables us to state the phenomena in a way which is consonant with our prejudices. What we really know is that, under certain conditions of temperature, the appearance we call ice is replaced by the appearance we call water. We can give laws according to which the one appearance will be succeeded by the other, but there is no reason except prejudice for regarding both as appearances of the same substance."
+    },
+    {
+      "id": "p0009",
+      "text": "One task, if what has just been said is correct, which confronts us in trying to connect the world of sense with the world of physics, is the task of reconstructing the conception of matter without the _a priori_ beliefs which historically gave rise to it. In spite of the revolutionary results of modern physics, the empirical successes of the conception of matter show that there must be some legitimate conception which fulfils roughly the same functions. The time has hardly come when we can state precisely what this legitimate conception is, but we can see in a general way what it must be like. For this purpose, it is only necessary to take our ordinary common-sense statements and reword them without the assumption of permanent substance. We say, for example, that things change gradually--sometimes very quickly, but not without passing through a continuous series of intermediate states. What this means is that, given any sensible appearance, there will usually be, _if we watch_, a continuous series of appearances connected with the given one, leading on by imperceptible gradations to the new appearances which common-sense regards as those of the same thing. Thus a thing may be defined as a certain series of appearances, connected with each other by continuity and by certain causal laws. In the case of slowly changing things, this is easily seen. Consider, say, a wall-paper which fades in the course of years. It is an effort not to conceive of it as one \"thing\" whose colour is slightly different at one time from what it is at another. But what do we really _know_ about it? We know that under suitable circumstances--_i.e._ when we are, as is said, \"in the room\"--we perceive certain colours in a certain pattern: not always precisely the same colours, but sufficiently similar to feel familiar. If we can state the laws according to which the colour varies, we can state all that is empirically verifiable; the assumption that there is a constant entity, the wall-paper, which \"has\" these various colours at various times, is a piece of gratuitous metaphysics. We may, if we like, _define_ the wall-paper as the series of its aspects. These are collected together by the same motives which led us to regard the wall-paper as one thing, namely a combination of sensible continuity and causal connection. More generally, a \"thing\" will be defined as a certain series of aspects, namely those which would commonly be said to be _of_ the thing. To say that a certain aspect is an aspect _of_ a certain thing will merely mean that it is one of those which, taken serially, _are_ the thing. Everything will then proceed as before: whatever was verifiable is unchanged, but our language is so interpreted as to avoid an unnecessary metaphysical assumption of permanence."
+    },
+    {
+      "id": "p0010",
+      "text": "The above extrusion of permanent things affords an example of the maxim which inspires all scientific philosophising, namely \"Occam's razor\": _Entities are not to be multiplied without necessity._ In other words, in dealing with any subject-matter, find out what entities are undeniably involved, and state everything in terms of these entities. Very often the resulting statement is more complicated and difficult than one which, like common sense and most philosophy, assumes hypothetical entities whose existence there is no good reason to believe in. We find it easier to imagine a wall-paper with changing colours than to think merely of the series of colours; but it is a mistake to suppose that what is easy and natural in thought is what is most free from unwarrantable assumptions, as the case of \"things\" very aptly illustrates."
+    },
+    {
+      "id": "p0011",
+      "text": "The above summary account of the genesis of \"things,\" though it may be correct in outline, has omitted some serious difficulties which it is necessary briefly to consider. Starting from a world of helter-skelter sense-data, we wish to collect them into series, each of which can be regarded as consisting of the successive appearances of one \"thing.\" There is, to begin with, some conflict between what common sense regards as one thing, and what physics regards an unchanging collection of particles. To common sense, a human body is one thing, but to science the matter composing it is continually changing. This conflict, however, is not very serious, and may, for our rough preliminary purpose, be largely ignored. The problem is: by what principles shall we select certain data from the chaos, and call them all appearances of the same thing?"
+    },
+    {
+      "id": "p0012",
+      "text": "A rough and approximate answer to this question is not very difficult. There are certain fairly stable collections of appearances, such as landscapes, the furniture of rooms, the faces of acquaintances. In these cases, we have little hesitation in regarding them on successive occasions as appearances of one thing or collection of things. But, as the _Comedy of Errors_ illustrates, we may be led astray if we judge by mere resemblance. This shows that something more is involved, for two different things may have any degree of likeness up to exact similarity."
+    },
+    {
+      "id": "p0013",
+      "text": "Another insufficient criterion of one thing is _continuity_. As we have already seen, if we watch what we regard as one changing thing, we usually find its changes to be continuous so far as our senses can perceive. We are thus led to assume that, if we see two finitely different appearances at two different times, and if we have reason to regard them as belonging to the same thing, then there was a continuous series of intermediate states of that thing during the time when we were not observing it. And so it comes to be thought that continuity of change is necessary and sufficient to constitute one thing. But in fact it is neither. It is not _necessary_, because the unobserved states, in the case where our attention has not been concentrated on the thing throughout, are purely hypothetical, and cannot possibly be our ground for supposing the earlier and later appearances to belong to the same thing; on the contrary, it is because we suppose this that we assume intermediate unobserved states. Continuity is also not sufficient, since we can, for example, pass by sensibly continuous gradations from any one drop of the sea to any other drop. The utmost we can say is that discontinuity during uninterrupted observation is as a rule a mark of difference between things, though even this cannot be said in such cases as sudden explosions."
+    },
+    {
+      "id": "p0014",
+      "text": "The assumption of continuity is, however, successfully made in physics. This proves something, though not anything of very obvious utility to our present problem: it proves that nothing in the known world is inconsistent with the hypothesis that all changes are really continuous, though from too great rapidity or from our lack of observation they may not always appear continuous. In this hypothetical sense, continuity may be allowed to be a _necessary_ condition if two appearances are to be classed as appearances of the same thing. But it is not a _sufficient_ condition, as appears from the instance of the drops in the sea. Thus something more must be sought before we can give even the roughest definition of a \"thing.\""
+    },
+    {
+      "id": "p0015",
+      "text": "What is wanted further seems to be something in the nature of fulfilment of causal laws. This statement, as it stands, is very vague, but we will endeavour to give it precision. When I speak of \"causal laws,\" I mean any laws which connect events at different times, or even, as a limiting case, events at the same time provided the connection is not logically demonstrable. In this very general sense, the laws of dynamics are causal laws, and so are the laws correlating the simultaneous appearances of one \"thing\" to different senses. The question is: How do such laws help in the definition of a \"thing\"?"
+    },
+    {
+      "id": "p0016",
+      "text": "To answer this question, we must consider what it is that is proved by the empirical success of physics. What is proved is that its hypotheses, though unverifiable where they go beyond sense-data, are at no point in contradiction with sense-data, but, on the contrary, are ideally such as to render all sense-data calculable from a sufficient collection of data all belonging to a given period of time. Now physics has found it empirically possible to collect sense-data into series, each series being regarded as belonging to one \"thing,\" and behaving, with regard to the laws of physics, in a way in which series not belonging to one thing would in general not behave. If it is to be unambiguous whether two appearances belong to the same thing or not, there must be only one way of grouping appearances so that the resulting things obey the laws of physics. It would be very difficult to prove that this is the case, but for our present purposes we may let this point pass, and assume that there is only one way. We must include in our definition of a \"thing\" those of its aspects, if any, which are not observed. Thus we may lay down the following definition: _Things are those series of aspects which obey the laws of physics._ That such series exist is an empirical fact, which constitutes the verifiability of physics."
+    },
+    {
+      "id": "p0017",
+      "text": "It may still be objected that the \"matter\" of physics is something other than series of sense-data. Sense-data, it may be said, belong to psychology and are, at any rate in some sense, subjective, whereas physics is quite independent of psychological considerations, and does not assume that its matter only exists when it is perceived."
+    },
+    {
+      "id": "p0018",
+      "text": "To this objection there are two answers, both of some importance."
+    },
+    {
+      "id": "p0019",
+      "text": "(a) We have been considering, in the above account, the question of the _verifiability_ of physics. Now verifiability is by no means the same thing as truth; it is, in fact, something far more subjective and psychological. For a proposition to be verifiable, it is not enough that it should be true, but it must also be such as we can _discover_ to be true. Thus verifiability depends upon our capacity for acquiring knowledge, and not only upon the objective truth. In physics, as ordinarily set forth, there is much that is unverifiable: there are hypotheses as to (α) how things would appear to a spectator in a place where, as it happens, there is no spectator; (β) how things would appear at times when, in fact, they are not appearing to anyone; (γ) things which never appear at all. All these are introduced to simplify the statement of the causal laws, but none of them form an integral part of what is _known_ to be true in physics. This brings us to our second answer."
+    },
+    {
+      "id": "p0020",
+      "text": "(b) If physics is to consist wholly of propositions known to be true, or at least capable of being proved or disproved, the three kinds of hypothetical entities we have just enumerated must all be capable of being exhibited as logical functions of sense-data. In order to show how this might possibly be done, let us recall the hypothetical Leibnizian universe of Lecture III. In that universe, we had a number of perspectives, two of which never had any entity in common, but often contained entities which could be sufficiently correlated to be regarded as belonging to the same thing. We will call one of these an \"actual\" private world when there is an actual spectator to which it appears, and \"ideal\" when it is merely constructed on principles of continuity. A physical thing consists, at each instant, of the whole set of its aspects at that instant, in all the different worlds; thus a momentary state of a thing is a whole set of aspects. An \"ideal\" appearance will be an aspect merely calculated, but not actually perceived by any spectator. An \"ideal\" state of a thing will be a state at a moment when all its appearances are ideal. An ideal thing will be one whose states at all times are ideal. Ideal appearances, states, and things, since they are calculated, must be functions of actual appearances, states, and things; in fact, ultimately, they must be functions of actual appearances. Thus it is unnecessary, for the enunciation of the laws of physics, to assign any reality to ideal elements: it is enough to accept them as logical constructions, provided we have means of knowing how to determine when they become actual. This, in fact, we have with some degree of approximation; the starry heaven, for instance, becomes actual whenever we choose to look at it. It is open to us to believe that the ideal elements exist, and there can be no reason for _dis_believing this; but unless in virtue of some _a priori_ law we cannot _know_ it, for empirical knowledge is confined to what we actually observe."
+    },
+    {
+      "id": "p0021",
+      "text": "(2) The three main conceptions of physics are space, time, and matter. Some of the problems raised by the conception of matter have been indicated in the above discussion of \"things.\" But space and time also raise difficult problems of much the same kind, namely, difficulties in reducing the haphazard untidy world of immediate sensation to the smooth orderly world of geometry and kinematics. Let us begin with the consideration of space."
+    },
+    {
+      "id": "p0022",
+      "text": "People who have never read any psychology seldom realise how much mental labour has gone into the construction of the one all-embracing space into which all sensible objects are supposed to fit. Kant, who was unusually ignorant of psychology, described space as \"an infinite given whole,\" whereas a moment's psychological reflection shows that a space which is infinite is not given, while a space which can be called given is not infinite. What the nature of \"given\" space really is, is a difficult question, upon which psychologists are by no means agreed. But some general remarks may be made, which will suffice to show the problems, without taking sides on any psychological issue still in debate."
+    },
+    {
+      "id": "p0023",
+      "text": "The first thing to notice is that different senses have different spaces. The space of sight is quite different from the space of touch: it is only by experience in infancy that we learn to correlate them. In later life, when we see an object within reach, we know how to touch it, and more or less what it will feel like; if we touch an object with our eyes shut, we know where we should have to look for it, and more or less what it would look like. But this knowledge is derived from early experience of the correlation of certain kinds of touch-sensations with certain kinds of sight-sensations. The one space into which both kinds of sensations fit is an intellectual construction, not a datum. And besides touch and sight, there are other kinds of sensation which give other, though less important spaces: these also have to be fitted into the one space by means of experienced correlations. And as in the case of things, so here: the one all-embracing space, though convenient as a way of speaking, need not be supposed really to exist. All that experience makes certain is the several spaces of the several senses, correlated by empirically discovered laws. The one space may turn out to be valid as a logical construction, compounded of the several spaces, but there is no good reason to assume its independent metaphysical reality."
+    },
+    {
+      "id": "p0024",
+      "text": "Another respect in which the spaces of immediate experience differ from the space of geometry and physics is in regard to _points_. The space of geometry and physics consists of an infinite number of points, but no one has ever seen or touched a point. If there are points in a sensible space, they must be an inference. It is not easy to see any way in which, as independent entities, they could be validly inferred from the data; thus here again, we shall have, if possible, to find some logical construction, some complex assemblage of immediately given objects, which will have the geometrical properties required of points. It is customary to think of points as simple and infinitely small, but geometry in no way demands that we should think of them in this way. All that is necessary for geometry is that they should have mutual relations possessing certain enumerated abstract properties, and it may be that an assemblage of data of sensation will serve this purpose. Exactly how this is to be done, I do not yet know, but it seems fairly certain that it can be done."
+    },
+    {
+      "id": "p0025",
+      "text": "The following illustrative method, simplified so as to be easily manipulated, has been invented by Dr Whitehead for the purpose of showing how points might be manufactured from sense-data. We have first of all to observe that there are no infinitesimal sense-data: any surface we can see, for example, must be of some finite extent. But what at first appears as one undivided whole is often found, under the influence of attention, to split up into parts contained within the whole. Thus one spatial object may be contained within another, and entirely enclosed by the other. This relation of enclosure, by the help of some very natural hypotheses, will enable us to define a \"point\" as a certain class of spatial objects, namely all those (as it will turn out in the end) which would naturally be said to contain the point. In order to obtain a definition of a \"point\" in this way, we proceed as follows:"
+    },
+    {
+      "id": "p0026",
+      "text": "Given any set of volumes or surfaces, they will not in general converge into one point. But if they get smaller and smaller, while of any two of the set there is always one that encloses the other, then we begin to have the kind of conditions which would enable us to treat them as having a point for their limit. The hypotheses required for the relation of enclosure are that (1) it must be transitive; (2) of two _different_ spatial objects, it is impossible for each to enclose the other, but a single spatial object always encloses itself; (3) any set of spatial objects such that there is at least one spatial object enclosed by them all has a lower limit or minimum, _i.e._ an object enclosed by all of them and enclosing all objects which are enclosed by all of them; (4) to prevent trivial exceptions, we must add that there are to be instances of enclosure, _i.e._ there are really to be objects of which one encloses the other. When an enclosure-relation has these properties, we will call it a \"point-producer.\" Given any relation of enclosure, we will call a set of objects an \"enclosure-series\" if, of any two of them, one is contained in the other. We require a condition which shall secure that an enclosure-series converges to a point, and this is obtained as follows: Let our enclosure-series be such that, given any other enclosure-series of which there are members enclosed in any arbitrarily chosen member of our first series, then there are members of our first series enclosed in any arbitrarily chosen member of our second series. In this case, our first enclosure-series may be called a \"punctual enclosure-series.\" Then a \"point\" is all the objects which enclose members of a given punctual enclosure-series. In order to ensure infinite divisibility, we require one further property to be added to those defining point-producers, namely that any object which encloses itself also encloses an object other than itself. The \"points\" generated by point-producers with this property will be found to be such as geometry requires."
+    },
+    {
+      "id": "p0027",
+      "text": "(3) The question of time, so long as we confine ourselves to one private world, is rather less complicated than that of space, and we can see pretty clearly how it might be dealt with by such methods as we have been considering. Events of which we are conscious do not last merely for a mathematical instant, but always for some finite time, however short. Even if there be a physical world such as the mathematical theory of motion supposes, impressions on our sense-organs produce sensations which are not merely and strictly instantaneous, and therefore the objects of sense of which we are immediately conscious are not strictly instantaneous. Instants, therefore, are not among the data of experience, and, if legitimate, must be either inferred or constructed. It is difficult to see how they can be validly inferred; thus we are left with the alternative that they must be constructed. How is this to be done?"
+    },
+    {
+      "id": "p0028",
+      "text": "Immediate experience provides us with two time-relations among events: they may be simultaneous, or one may be earlier and the other later. These two are both part of the crude data; it is not the case that only the events are given, and their time-order is added by our subjective activity. The time-order, within certain limits, is as much given as the events. In any story of adventure you will find such passages as the following: \"With a cynical smile he pointed the revolver at the breast of the dauntless youth. 'At the word _three_ I shall fire,' he said. The words one and two had already been spoken with a cool and deliberate distinctness. The word _three_ was forming on his lips. At this moment a blinding flash of lightning rent the air.\" Here we have simultaneity--not due, as Kant would have us believe, to the subjective mental apparatus of the dauntless youth, but given as objectively as the revolver and the lightning. And it is equally given in immediate experience that the words _one_ and _two_ come earlier than the flash. These time-relations hold between events which are not strictly instantaneous. Thus one event may begin sooner than another, and therefore be before it, but may continue after the other has begun, and therefore be also simultaneous with it. If it persists after the other is over, it will also be later than the other. Earlier, simultaneous, and later, are not inconsistent with each other when we are concerned with events which last for a finite time, however short; they only become inconsistent when we are dealing with something instantaneous."
+    },
+    {
+      "id": "p0029",
+      "text": "It is to be observed that we cannot give what may be called _absolute_ dates, but only dates determined by events. We cannot point to a time itself, but only to some event occurring at that time. There is therefore no reason in experience to suppose that there are times as opposed to events: the events, ordered by the relations of simultaneity and succession, are all that experience provides. Hence, unless we are to introduce superfluous metaphysical entities, we must, in defining what mathematical physics can regard as an instant, proceed by means of some construction which assumes nothing beyond events and their temporal relations."
+    },
+    {
+      "id": "p0030",
+      "text": "If we wish to assign a date exactly by means of events, how shall we proceed? If we take any one event, we cannot assign our date exactly, because the event is not instantaneous, that is to say, it may be simultaneous with two events which are not simultaneous with each other. In order to assign a date exactly, we must be able, theoretically, to determine whether any given event is before, at, or after this date, and we must know that any other date is either before or after this date, but not simultaneous with it. Suppose, now, instead of taking one event A, we take two events A and B, and suppose A and B partly overlap, but B ends before A ends. Then an event which is simultaneous with both A and B must exist during the time when A and B overlap; thus we have come rather nearer to a precise date than when we considered A and B alone. Let C be an event which is simultaneous with both A and B, but which ends before either A or B has ended. Then an event which is simultaneous with A and B and C must exist during the time when all three overlap, which is a still shorter time. Proceeding in this way, by taking more and more events, a new event which is dated as simultaneous with all of them becomes gradually more and more accurately dated. This suggests a way by which a completely accurate date can be defined."
+    },
+    {
+      "id": "p0031",
+      "text": "A____________________"
+    },
+    {
+      "id": "p0032",
+      "text": "B____________________"
+    },
+    {
+      "id": "p0033",
+      "text": "C________"
+    },
+    {
+      "id": "p0034",
+      "text": "Let us take a group of events of which any two overlap, so that there is some time, however short, when they all exist. If there is any other event which is simultaneous with all of these, let us add it to the group; let us go on until we have constructed a group such that no event outside the group is simultaneous with all of them, but all the events inside the group are simultaneous with each other. Let us define this whole group as an instant of time. It remains to show that it has the properties we expect of an instant."
+    },
+    {
+      "id": "p0035",
+      "text": "What are the properties we expect of instants? First, they must form a series: of any two, one must be before the other, and the other must be not before the one; if one is before another, and the other before a third, the first must be before the third. Secondly, every event must be at a certain number of instants; two events are simultaneous if they are at the same instant, and one is before the other if there is an instant, at which the one is, which is earlier than some instant at which the other is. Thirdly, if we assume that there is always some change going on somewhere during the time when any given event persists, the series of instants ought to be compact, _i.e._ given any two instants, there ought to be other instants between them. Do instants, as we have defined them, have these properties?"
+    },
+    {
+      "id": "p0036",
+      "text": "We shall say that an event is \"at\" an instant when it is a member of the group by which the instant is constituted; and we shall say that one instant is before another if the group which is the one instant contains an event which is earlier than, but not simultaneous with, some event in the group which is the other instant. When one event is earlier than, but not simultaneous with another, we shall say that it \"wholly precedes\" the other. Now we know that of two events which are not simultaneous, there must be one which wholly precedes the other, and in that case the other cannot also wholly precede the one; we also know that, if one event wholly precedes another, and the other wholly precedes a third, then the first wholly precedes the third. From these facts it is easy to deduce that the instants as we have defined them form a series."
+    },
+    {
+      "id": "p0037",
+      "text": "We have next to show that every event is \"at\" at least one instant, _i.e._ that, given any event, there is at least one class, such as we used in defining instants, of which it is a member. For this purpose, consider all the events which are simultaneous with a given event, and do not begin later, _i.e._ are not wholly after anything simultaneous with it. We will call these the \"initial contemporaries\" of the given event. It will be found that this class of events is the first instant at which the given event exists, provided every event wholly after some contemporary of the given event is wholly after some _initial_ contemporary of it."
+    },
+    {
+      "id": "p0038",
+      "text": "Finally, the series of instants will be compact if, given any two events of which one wholly precedes the other, there are events wholly after the one and simultaneous with something wholly before the other. Whether this is the case or not, is an empirical question; but if it is not, there is no reason to expect the time-series to be compact."
+    },
+    {
+      "id": "p0039",
+      "text": "[17] The assumptions made concerning time-relations in the above are as follows:--"
+    },
+    {
+      "id": "p0040",
+      "text": "I. In order to secure that instants form a series, we assume:"
+    },
+    {
+      "id": "p0041",
+      "text": "(a) No event wholly precedes itself. (An \"event\" is defined as whatever is simultaneous with something or other.)"
+    },
+    {
+      "id": "p0042",
+      "text": "(b) If one event wholly precedes another, and the other wholly precedes a third, then the first wholly precedes the third."
+    },
+    {
+      "id": "p0043",
+      "text": "(c) If one event wholly precedes another, it is not simultaneous with it."
+    },
+    {
+      "id": "p0044",
+      "text": "(d) Of two events which are not simultaneous, one must wholly precede the other."
+    },
+    {
+      "id": "p0045",
+      "text": "II. In order to secure that the initial contemporaries of a given event should form an instant, we assume:"
+    },
+    {
+      "id": "p0046",
+      "text": "(e) An event wholly after some contemporary of a given event is wholly after some _initial_ contemporary of the given event."
+    },
+    {
+      "id": "p0047",
+      "text": "III. In order to secure that the series of instants shall be compact, we assume:"
+    },
+    {
+      "id": "p0048",
+      "text": "(f) If one event wholly precedes another, there is an event wholly after the one and simultaneous with something wholly before the other."
+    },
+    {
+      "id": "p0049",
+      "text": "This assumption entails the consequence that if one event covers the whole of a stretch of time immediately preceding another event, then it must have at least one instant in common with the other event; _i.e._ it is impossible for one event to cease just before another begins. I do not know whether this should be regarded as inadmissible. For a mathematico-logical treatment of the above topics, _cf._ N. Wilner, \"A Contribution to the Theory of Relative Position,\" _Proc. Camb. Phil. Soc._, xvii. 5, pp. 441-449."
+    },
+    {
+      "id": "p0050",
+      "text": "Thus our definition of instants secures all that mathematics requires, without having to assume the existence of any disputable metaphysical entities."
+    },
+    {
+      "id": "p0051",
+      "text": "Instants may also be defined by means of the enclosure-relation, exactly as was done in the case of points. One object will be temporally enclosed by another when it is simultaneous with the other, but not before or after it. Whatever encloses temporally or is enclosed temporally we shall call an \"event.\" In order that the relation of temporal enclosure may be a \"point-producer,\" we require (1) that it should be transitive, _i.e._ that if one event encloses another, and the other a third, then the first encloses the third; (2) that every event encloses itself, but if one event encloses another different event, then the other does not enclose the one; (3) that given any set of events such that there is at least one event enclosed by all of them, then there is an event enclosing all that they all enclose, and itself enclosed by all of them; (4) that there is at least one event. To ensure infinite divisibility, we require also that every event should enclose events other than itself. Assuming these characteristics, temporal enclosure is an infinitely divisible point-producer. We can now form an \"enclosure-series\" of events, by choosing a group of events such that of any two there is one which encloses the other; this will be a \"punctual enclosure-series\" if, given any other enclosure-series such that every member of our first series encloses some member of our second, then every member of our second series encloses some member of our first. Then an \"instant\" is the class of all events which enclose members of a given punctual enclosure-series."
+    },
+    {
+      "id": "p0052",
+      "text": "The correlation of the times of different private worlds so as to produce the one all-embracing time of physics is a more difficult matter. We saw, in Lecture III., that different private worlds often contain correlated appearances, such as common sense would regard as appearances of the same \"thing.\" When two appearances in different worlds are so correlated as to belong to one momentary \"state\" of a thing, it would be natural to regard them as simultaneous, and as thus affording a simple means of correlating different private times. But this can only be regarded as a first approximation. What we call one sound will be heard sooner by people near the source of the sound than by people further from it, and the same applies, though in a less degree, to light. Thus two correlated appearances in different worlds are not necessarily to be regarded as occurring at the same date in physical time, though they will be parts of one momentary state of a thing. The correlation of different private times is regulated by the desire to secure the simplest possible statement of the laws of physics, and thus raises rather complicated technical problems; but from the point of view of philosophical theory, there is no very serious difficulty of principle involved."
+    },
+    {
+      "id": "p0053",
+      "text": "The above brief outline must not be regarded as more than tentative and suggestive. It is intended merely to show the kind of way in which, given a world with the kind of properties that psychologists find in the world of sense, it may be possible, by means of purely logical constructions, to make it amenable to mathematical treatment by defining series or classes of sense-data which can be called respectively particles, points, and instants. If such constructions are possible, then mathematical physics is applicable to the real world, in spite of the fact that its particles, points, and instants are not to be found among actually existing entities."
+    },
+    {
+      "id": "p0054",
+      "text": "The problem which the above considerations are intended to elucidate is one whose importance and even existence has been concealed by the unfortunate separation of different studies which prevails throughout the civilised world. Physicists, ignorant and contemptuous of philosophy, have been content to assume their particles, points, and instants in practice, while conceding, with ironical politeness, that their concepts laid no claim to metaphysical validity. Metaphysicians, obsessed by the idealistic opinion that only mind is real, and the Parmenidean belief that the real is unchanging, repeated one after another the supposed contradictions in the notions of matter, space, and time, and therefore naturally made no endeavour to invent a tenable theory of particles, points, and instants. Psychologists, who have done invaluable work in bringing to light the chaotic nature of the crude materials supplied by unmanipulated sensation, have been ignorant of mathematics and modern logic, and have therefore been content to say that matter, space, and time are \"intellectual constructions,\" without making any attempt to show in detail either how the intellect can construct them, or what secures the practical validity which physics shows them to possess. Philosophers, it is to be hoped, will come to recognise that they cannot achieve any solid success in such problems without some slight knowledge of logic, mathematics, and physics; meanwhile, for want of students with the necessary equipment, this vital problem remains unattempted and unknown."
+    },
+    {
+      "id": "p0055",
+      "text": "There are, it is true, two authors, both physicists, who have done something, though not much, to bring about a recognition of the problem as one demanding study. These two authors are Poincaré and Mach, Poincaré especially in his _Science and Hypothesis_, Mach especially in his _Analysis of Sensations_. Both of them, however, admirable as their work is, seem to me to suffer from a general philosophical bias. Poincaré is Kantian, while Mach is ultra-empiricist; with Poincaré almost all the mathematical part of physics is merely conventional, while with Mach the sensation as a mental event is identified with its object as a part of the physical world. Nevertheless, both these authors, and especially Mach, deserve mention as having made serious contributions to the consideration of our problem."
+    },
+    {
+      "id": "p0056",
+      "text": "When a point or an instant is defined as a class of sensible qualities, the first impression produced is likely to be one of wild and wilful paradox. Certain considerations apply here, however, which will again be relevant when we come to the definition of numbers. There is a whole type of problems which can be solved by such definitions, and almost always there will be at first an effect of paradox. Given a set of objects any two of which have a relation of the sort called \"symmetrical and transitive,\" it is almost certain that we shall come to regard them as all having some common quality, or as all having the same relation to some one object outside the set. This kind of case is important, and I shall therefore try to make it clear even at the cost of some repetition of previous definitions."
+    },
+    {
+      "id": "p0057",
+      "text": "A relation is said to be \"symmetrical\" when, if one term has this relation to another, then the other also has it to the one. Thus \"brother or sister\" is a \"symmetrical\" relation: if one person is a brother or a sister of another, then the other is a brother or sister of the one. Simultaneity, again, is a symmetrical relation; so is equality in size. A relation is said to be \"transitive\" when, if one term has this relation to another, and the other to a third, then the one has it to the third. The symmetrical relations mentioned just now are also transitive--provided, in the case of \"brother or sister,\" we allow a person to be counted as his or her own brother or sister, and provided, in the case of simultaneity, we mean complete simultaneity, _i.e._ beginning and ending together."
+    },
+    {
+      "id": "p0058",
+      "text": "But many relations are transitive without being symmetrical--for instance, such relations as \"greater,\" \"earlier,\" \"to the right of,\" \"ancestor of,\" in fact all such relations as give rise to series. Other relations are symmetrical without being transitive--for example, difference in any respect. If A is of a different age from B, and B of a different age from C, it does not follow that A is of a different age from C. Simultaneity, again, in the case of events which last for a finite time, will not necessarily be transitive if it only means that the times of the two events overlap. If A ends just after B has begun, and B ends just after C has begun, A and B will be simultaneous in this sense, and so will B and C, but A and C may well not be simultaneous."
+    },
+    {
+      "id": "p0059",
+      "text": "All the relations which can naturally be represented as equality in any respect, or as possession of a common property, are transitive and symmetrical--this applies, for example, to such relations as being of the same height or weight or colour. Owing to the fact that possession of a common property gives rise to a transitive symmetrical relation, we come to imagine that wherever such a relation occurs it must be due to a common property. \"Being equally numerous\" is a transitive symmetrical relation of two collections; hence we imagine that both have a common property, called their number. \"Existing at a given instant\" (in the sense in which we defined an instant) is a transitive symmetrical relation; hence we come to think that there really is an instant which confers a common property on all the things existing at that instant. \"Being states of a given thing\" is a transitive symmetrical relation; hence we come to imagine that there really is a thing, other than the series of states, which accounts for the transitive symmetrical relation. In all such cases, the class of terms that have the given transitive symmetrical relation to a given term will fulfil all the formal requisites of a common property of all the members of the class. Since there certainly is the class, while any other common property may be illusory, it is prudent, in order to avoid needless assumptions, to substitute the class for the common property which would be ordinarily assumed. This is the reason for the definitions we have adopted, and this is the source of the apparent paradoxes. No harm is done if there are such common properties as language assumes, since we do not deny them, but merely abstain from asserting them. But if there are not such common properties in any given case, then our method has secured us against error. In the absence of special knowledge, therefore, the method we have adopted is the only one which is safe, and which avoids the risk of introducing fictitious metaphysical entities."
+    }
+  ],
+  "anchors": {
+    "russell-logical-construction": {
+      "paragraphId": "p0020",
+      "start": 1408,
+      "end": 1641,
+      "quote": "It is unnecessary, for the enunciation of the laws of physics, to assign any reality to ideal elements: it is enough to accept them as logical constructions, provided we have means of knowing how to determine when they become actual.",
+      "match": "normalized-exact"
+    }
+  }
+}

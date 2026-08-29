@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-art-of-war-initial-estimations-named-chapter-initial-estimations-990674d5",
+  "title": "篇 Initial Estimations",
+  "englishTitle": "Chapter Initial Estimations",
+  "work": "《孙子兵法·计篇》",
+  "englishWork": "The Art of War, Initial Estimations",
+  "locator": "篇 Initial Estimations",
+  "englishLocator": "Chapter Initial Estimations",
+  "version": "维基文库《孙子兵法·计篇》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of The Art of War, Initial Estimations; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "9ce049cb6a26122cd7540af2e630f14e72a12521ec473181230b01120f2397e4"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "ab211160c6cd1c24c2bbe0bb196a1db45b7cfa88ee37522b17e43de764d0be68",
+  "inputHash": "26d5f569c2e96d5fa28c4ee3ca287a2c9c316176397e05490b8b3832333f7b7d",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "始計第一"
+    },
+    {
+      "id": "p0002",
+      "text": "孫子 曰：兵者，國之大事，死生之地，存亡之道，不可不察也。故經之以五事，校之以七計，而索其情：一曰道，二曰天，三曰地，四曰將，五曰法。"
+    },
+    {
+      "id": "p0003",
+      "text": "道者，令民與上同意，可與之死，可與之生，而不畏危也。天者，陰陽、寒暑、時制也。地者，高下、遠近、險易、廣狹、死生也。將者，智、信、仁、勇、嚴也。法者，曲制、官道、主用也。凡此五者，將莫不聞，知之者勝，不知者不勝。故校之以七計而索其情，曰：主孰有道？將孰有能？天地孰得？法令孰行？兵眾孰強？士卒孰練？賞罰孰明？吾以此知勝負矣。"
+    },
+    {
+      "id": "p0004",
+      "text": "將聽吾計，用之必勝，留之；將不聽吾計，用之必敗，去之。計利以聽，乃為之勢，以佐其外。勢者，因利而制權也。兵者，詭道也。故能而示之不能，用而示之不用，近而示之遠，遠而示之近。利而誘之，亂而取之，實而備之，強而避之，怒而撓之，卑而驕之，佚而勞之，親而離之。攻其無備，出其不意。此兵家之勝，不可先傳也。"
+    },
+    {
+      "id": "p0005",
+      "text": "夫未戰而廟算勝者，得算多也；未戰而廟算不勝者，得算少也。多算勝，少算不勝，而況於無算乎？吾以此觀之，勝負見矣。"
+    }
+  ],
+  "anchors": {
+    "chinese-sunzi-war-serious": {
+      "paragraphId": "p0002",
+      "start": 5,
+      "end": 29,
+      "quote": "兵者，国之大事，死生之地，存亡之道，不可不察也。",
+      "match": "normalized-exact"
+    }
+  }
+}

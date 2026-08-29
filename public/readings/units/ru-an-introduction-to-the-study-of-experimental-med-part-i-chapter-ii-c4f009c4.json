@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-introduction-to-the-study-of-experimental-med-part-i-chapter-ii-c4f009c4",
+  "title": "部分 I · 章 II",
+  "englishTitle": "Part I · Chapter II",
+  "work": "《实验医学研究导论》",
+  "englishWork": "An Introduction to the Study of Experimental Medicine",
+  "locator": "部分 I · 章 II",
+  "englishLocator": "Part I · Chapter II",
+  "version": "Wikimedia Commons 公版扫描并由 Faded Page 转录复核，Greene 1927 年英译，第一部分第2章第VIII节“证明与反证”，第55—56页，跨页连续原文",
+  "englishVersion": "Wikimedia Commons public-domain scan cross-checked against the Faded Page transcription, Greene translation (1927), Part I, Chapter II, §VIII, “Proof and Counterproof,” pp. 55–56, continuous passage across the page break",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_introduction_to_the_study_of_experimental_medicine_-_Translated_by_H.C._Greene_(IA_b21270557).pdf",
+  "preparedSourceUrl": "https://www.fadedpage.com/books/20170491/20170491.txt",
+  "source": {
+    "url": "https://www.fadedpage.com/books/20170491/20170491.txt",
+    "contentType": "text/plain",
+    "sha256": "69413d5ff872da795a82106b50e667ad25c057952f66ae0070a74907e98e06f7"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "2341e0caebbccb0ce0f8fb44891187a51ddb65b241e9d37a7efcfc4f2f92e12c",
+  "inputHash": "ab0009bbcfd982921ed2d022cca0fd8a911a3f4ca6674b855a1ce55550458737",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER II"
+    },
+    {
+      "id": "p0002",
+      "text": "THE A PRIORI IDEA AND DOUBT IN EXPERIMENTAL REASONING"
+    },
+    {
+      "id": "p0003",
+      "text": "Everyone first works out his own ideas about what he sees and is inclined to interpret natural phenomena by anticipation before knowing them through experience. This tendency is spontaneous; a preconceived idea always has been and always will be the first flight of an investigating mind. But the object of the experimental method is to transform this _a priori_ conception, based on an intuition or a vague feeling about the nature of things, into an _a posteriori_ interpretation founded on the experimental study of phenomena. This is why the experimental method is also called the _a posteriori_ method."
+    },
+    {
+      "id": "p0004",
+      "text": "Man is by nature metaphysical and proud. He has gone so far as to think that the idealistic creations of his mind, which correspond to his feelings, also represent reality. Hence it follows that the experimental method is by no means primitive or natural to man, and that only after lengthy wanderings in theological and scholastic discussion has he recognized at last the sterility of his efforts in this direction. At this point man becomes aware that he cannot dictate laws to nature, because he does not contain within himself the knowledge and criterion of external things, and he understands that to find truth he must, on the contrary, study natural laws and submit his ideas, if not his reason, to experience, that is, to the criterion of facts. Yet for all that, the method of work of the human mind is not changed at bottom. The metaphysician, the scholastic, and the experimenter all work with an _a priori_ idea. The difference is that the scholastic imposes his idea as an absolute truth which he has found, and from which he then deduces consequences by logic alone. The more modest experimenter, on the other hand, states an idea as a question, as an interpretative, more or less probable anticipation of nature, from which he logically deduces consequences which, moment by moment, he confronts with reality by means of experiment. He advances, thus, from partial to more general truths, but without ever daring to assert that he has grasped the absolute truth. Indeed if we held it at any point whatever, we should have it everywhere; for the absolute leaves nothing outside itself."
+    },
+    {
+      "id": "p0005",
+      "text": "An experimental idea, then, is also an _a priori_ idea, but it is an idea that presents itself in the form of an hypothesis the consequences of which must be submitted to the criterion of experiment, so that its value may be tested. The experimenter’s mind differs from the metaphysician’s or the scholastic’s in its modesty, because experiment makes him, moment by moment, conscious of both his relative and his absolute ignorance. In teaching man, experimental science results in lessening his pride more and more by proving to him every day that primary causes, like the objective reality of things, will be hidden from him forever and that he can know only relations. Here is, indeed, the one goal of all the sciences, as we shall see further on."
+    },
+    {
+      "id": "p0006",
+      "text": "The human mind has at different periods of its evolution passed successively through _feeling_, _reason_ and _experiment_. First, feeling alone, imposing itself on reason, created the truths of faith or theology. Reason or philosophy, the mind’s next mistress, brought to birth scholasticism. At last, experiment, or the study of natural phenomena, taught man that the truths of the outer world are to be found ready formulated neither in feeling nor in reason. These are indispensable merely as guides; but to attain external truths we must of necessity go down into the objective reality of things where they lie hidden in their phenomenal form."
+    },
+    {
+      "id": "p0007",
+      "text": "Thus, in the natural progress of things, appeared the experimental method which includes everything and which, as we shall soon see, leans successively on the three divisions of that unchangeable tripod: sentiment, reason and experiment. In the search for truth by means of this method, feeling always takes the lead, it begets the _a priori_ idea or intuition; reason or reasoning develops the idea and deduces its logical consequences. But if feeling must be clarified by the light of reason, reason in turn must be guided by experiment."
+    },
+    {
+      "id": "p0008",
+      "text": "I. Experimental Truths Are Objective or External"
+    },
+    {
+      "id": "p0009",
+      "text": "The experimental method is concerned only with the search for objective truths, not with any search for subjective truths."
+    },
+    {
+      "id": "p0010",
+      "text": "As there are two kinds of functions in man’s body, the first, conscious functions, the rest not, so in his mind there are two kinds of truths or notions, some conscious, inner or subjective, the others unconscious, outer or objective. Subjective truths are those flowing from principles of which the mind is conscious, and which bring it the sensation of absolute and necessary evidence. The greatest truths, indeed, are at bottom simply a feeling in our mind; that is what Descartes meant by his famous aphorism."
+    },
+    {
+      "id": "p0011",
+      "text": "We said, on the other hand, that man would never know either the primary cause, nor the essence of things. Hence truth never shows itself to his mind except in the form of a connection or of a necessary and absolute relation. But this connection may be absolute only in so far as its conditions are simple and subjective, that is, when the mind is aware of knowing them all. Mathematics embodies the relations of things in conditions of ideal simplicity. It follows that these principles or relations, once found, are accepted by the mind as absolute truths, i.e., truths independent of reality. We see now that all logical deductions in a piece of mathematical reasoning are just as certain as their principle, and that they do not require verification by experiment. That would be trying to place the senses above reason; and it would be absurd to seek to prove what is absolutely true for the mind and what it could not conceive otherwise."
+    },
+    {
+      "id": "p0012",
+      "text": "But when man stops working with subjective relations, the conditions of which his mind has created, and tries to learn about the objective relations of nature which he has not created, then at once the inner and conscious criterion fails him. He is, of course, still aware that in the objective or outer world truth consists, in the same way, of necessary relations; but he lacks knowledge of the conditions of these relations. Only if he had created these conditions, indeed, could he possess absolute knowledge of them and absolute understanding."
+    },
+    {
+      "id": "p0013",
+      "text": "Still man must believe that the objective relations between phenomena of the outer world might attain the certainty of subjective truths if they were reduced to a state of simplicity that his mind could completely grasp. Thus, in the study of the simplest of natural phenomena, experimental science has laid hold on certain relations which appear absolute. Such are the propositions which serve as principles in theoretical mechanics and in some branches of mathematical physics. In these sciences, indeed, we reason by logical deduction which we do not submit to experiment, because we admit, as in mathematics, that the principle being true the deductions are true also. Still, there is a wide difference to note in this respect, that the starting point here is no longer a subjective and conscious truth, but an objective and unconscious truth, borrowed from observation or experiment. Now this truth is never more than relative to the number of experiments and observations that have been made. Even if no observation has so far disproved the truth in question, still the mind does not therefore imagine that things cannot happen otherwise; so that it is only by hypothesis that we admit the principle as absolute. That is why the application of mathematical analysis to natural phenomena, even very simple ones, may have its dangers if experimental verification is entirely rejected. In this case, mathematical analysis becomes a blind instrument, if we do not from time to time retemper it in the furnace of experiment. I here express a thought uttered by many great mathematicians and great physicists; and in order to recall one of the most authoritative opinions in this field, I will cite what my learned associate and friend, J. Bertrand, wrote on this subject in his fine tribute to Sénarmont: “For the physicist, geometry should be only a powerful ally: when it has pushed its principles to their last consequences, it can do no more, and the uncertainty of the starting point can only be increased by the blind logic of analysis, if experiment at each step does not serve as compass and ruler.”[14]"
+    },
+    {
+      "id": "p0014",
+      "text": "Theoretical mechanics and mathematical physics make the connection then between mathematics proper and the experimental sciences. They include the simplest cases. But as soon as we go into physics and chemistry, and especially biology, the phenomena are complicated by so many relations that the principles, embodied in theories to which we have been able to rise, are only provisional and are so hypothetical that our deductions, even though very logical, are absolutely uncertain and can in no case dispense with experimental verification."
+    },
+    {
+      "id": "p0015",
+      "text": "In short, man may relate all his reasonings to two criteria: the one, inner and conscious, is sure and absolute; the other, outer and unconscious, is experimental and relative."
+    },
+    {
+      "id": "p0016",
+      "text": "When we reason about outer objects, but consider them in their relation to ourselves according to the pleasure or displeasure which they occasion us in proportion to their utility or their disadvantages, we still possess an inner criterion in our sensations. So, when we reason about our own actions, we again have a sure guide, because we are conscious of what we are thinking and of what we are feeling. But if we wish to judge the actions of another man and to know the motives which make him act, then it is quite different. Doubtless we see before our eyes the man’s movements and the acts which, we are sure, are expressions of his feeling and his will. What is more, we also admit that there is a necessary relation between actions and their cause; but what is this cause? We do not feel it ourselves, we are not aware of it as in our own case; we are therefore forced to interpret and imagine it from the movements that we see and the words that we hear. So we must verify the man’s acts, one by another; we consider how he behaves in such and such circumstances, and in short, we turn to the experimental method. In like manner, when a man of science considers the natural phenomena which surround him and which he wishes to know in themselves and in their complex mutual relations of causation, every inner criterion fails him, and he is forced to invoke experiment to verify the suppositions and the reasonings that he is making about them. Experiment, then, according to Goethe’s expression, becomes the one mediator between the objective and the subjective,[15] that is to say, between the man of science and the phenomena which surround him."
+    },
+    {
+      "id": "p0017",
+      "text": "Experimental reasoning is the only reasoning that naturalists and physicians can use in seeking the truth and approaching it as nearly as possible. Indeed, in its very character as an outer and unconscious criterion, experiment gives only relative truth, without being able to prove to the mind that it knows truth absolutely."
+    },
+    {
+      "id": "p0018",
+      "text": "An experimenter facing natural phenomena is like a spectator watching a dumb show. He is in some sort the examining magistrate for nature; only instead of grappling with men who seek to deceive him by lying confessions or false witness, he is dealing with natural phenomena which for him are persons whose language and customs he does not know, persons living in the midst of circumstances unknown to him, yet persons whose designs he wishes to learn. For this purpose he uses all the means within his power. He observes their actions, their gait, their behavior, and he seeks to disengage their cause by means of various attempts, called experiments. He uses every imaginable artifice, and, as the popular expression goes, he often makes a false plea in order to learn the truth. In all this, the experimenter reasons necessarily according to his own character and lends to nature his own ideas. He makes suppositions about the cause of actions taking place before his eyes; and to learn whether the hypothesis which serves as groundwork for his interpretation is correct, he takes measures to make facts appear which in the realm of logic may be either the confirmation or the negation of the idea which he has conceived. Now, I repeat, only this logical verification can teach him and give him _experience_. The naturalist observing animals whose behavior and habits he wishes to know, the physiologist and the physician wishing to study the hidden functions of living bodies, the physicist and the chemist defining the phenomena of inert matter,—they are all in the same situation; they have manifestations before them which they can interpret only with the help of the experimental criterion, the only one which we need to consider here."
+    },
+    {
+      "id": "p0019",
+      "text": "II. Intuition or Feeling Begets the Experimental Idea"
+    },
+    {
+      "id": "p0020",
+      "text": "We said above that the experimental method rests successively on feeling, reason and experiment."
+    },
+    {
+      "id": "p0021",
+      "text": "Feeling gives rise to the experimental idea or hypothesis, i.e., the previsioned interpretation of natural phenomena. The whole experimental enterprise comes from the idea, for this it is which induces experiment. Reason or reasoning serves only to deduce the consequences of this idea and to submit them to experiment."
+    },
+    {
+      "id": "p0022",
+      "text": "An anticipative idea or an hypothesis is, then, the necessary starting point for all experimental reasoning. Without it, we could not make any investigation at all nor learn anything; we could only pile up sterile observations. If we experimented without a preconceived idea, we should move at random, but, on the other hand, as we have said elsewhere, if we observed with preconceived ideas, we should make bad observations and should risk taking our mental conceptions for reality."
+    },
+    {
+      "id": "p0023",
+      "text": "Experimental ideas are by no means innate. They do not arise spontaneously; they must have an outer occasion or stimulant, as is the case in all physiological functions. To have our first idea of things, we must see those things; to have an idea about a natural phenomenon, we must, first of all, observe it. The mind of man cannot conceive an effect without a cause, so that the sight of a phenomenon always awakens an idea of causation. All human knowledge is limited to working back from observed effects to their cause. Following an observation, an idea connected with the cause of the observed phenomenon presents itself to the mind. We then inject this anticipative idea into a train of reasoning, by virtue of which we make experiments to control it."
+    },
+    {
+      "id": "p0024",
+      "text": "Experimental ideas, as we shall later see, may arise either _a priori_ of a fact observed by chance or following some experimental venture or as corollaries of an accepted theory. For the moment, we may merely note that the experimental idea is by no means arbitrary or purely imaginative; it must always have a support in observed reality, that is to say, in nature. The experimental hypothesis, in short, must always be based on prior observation. Another essential of any hypothesis is that it must be as probable as may be and must be experimentally verifiable. Indeed if we made an hypothesis which experiment could not verify, in that very act we should leave the experimental method to fall into the errors of the scholastics and makers of systems."
+    },
+    {
+      "id": "p0025",
+      "text": "_À propos_ of a given observation, no rules can be given for bringing to birth in the brain a correct and fertile idea that may be a sort of intuitive anticipation of successful research. The idea once set forth, we can only explain how to submit it to the definite precepts and precise rules of logic from which no experimenter may depart; but its appearance is wholly spontaneous, and its nature is wholly individual. A particular feeling, a _quid proprium_ constitutes the originality, the inventiveness, or the genius of each man. A new idea appears as a new or unexpected relation which the mind perceives among things. All intellects doubtless resemble each other, and in all men similar ideas may arise in the presence of certain simple relations between things, which everyone can grasp. But like the senses, intellects do not all have the same power or the same acuteness; and subtle and delicate relations exist which can be felt, grasped and unveiled only by minds more perceptive, better endowed, or placed in intellectual surroundings which predispose them favorably."
+    },
+    {
+      "id": "p0026",
+      "text": "If facts necessarily gave birth to ideas, every new fact ought to beget a new idea. True, this is what most often takes place; for new facts exist, the character of which makes the same new idea come to all men, placed in the same circumstances as respects previous information. But facts also exist which mean nothing to most minds, while they are full of light for others. It even happens that a fact or an observation stays a very long time under the eyes of a man of science without in any way inspiring him; then suddenly there comes a ray of light, and the mind interprets the fact quite differently and finds for it wholly new relations. The new idea appears, then, with the rapidity of lightning, as a kind of sudden revelation; which surely proves that in this case the discovery inheres in a feeling about things which is not only individual, but which is even connected with a transient condition of the mind. The experimental method, then, cannot give new and fruitful ideas to men who have none; it can serve only to guide the ideas of men who have them, to direct their ideas and to develop them so as to get the best possible results. The idea is a seed; the method is the earth furnishing the conditions in which it may develop, flourish and give the best of fruit according to its nature. But as only what has been sown in the ground will ever grow in it, so nothing will be developed by the experimental method except the ideas submitted to it. The method itself gives birth to nothing. Certain philosophers have made the mistake of according too much power to method along these lines."
+    },
+    {
+      "id": "p0027",
+      "text": "The experimental idea is the result of a sort of presentiment of the mind which thinks things will happen in a certain way. In this connection we may say that we have in our minds an intuition or feeling as to the laws of nature, but we do not know their form. We can learn it only from experiment."
+    },
+    {
+      "id": "p0028",
+      "text": "Men with a presentiment of new truths are rare in all the sciences; most men develop and follow the ideas of a few others. Those who make discoveries are the promoters of new and fruitful ideas. We usually give the name of discovery to recognition of a new fact; but I think that the idea connected with the discovered fact is what really constitutes the discovery. Facts are neither great nor small in themselves. A great discovery is a fact whose appearance in science gives rise to shining ideas, whose light dispels many obscurities and shows us new paths. There are other facts which, though new, teach us but little; they are therefore small discoveries. Finally, there are new facts which, though well observed, teach nothing to anyone; they remain, for the moment, detached and sterile in science; they are what we may call raw facts or crude facts."
+    },
+    {
+      "id": "p0029",
+      "text": "Discovery, then, is a new idea emerging in connection with a fact found by chance or otherwise. Consequently, there can be no method for making discoveries, because philosophic theories can no more give inventive spirit and aptness of mind to men, who do not possess them, than knowledge of the laws of acoustics or optics can give a correct ear or good sight to men deprived of them by nature. But good methods can teach us to develop and use to better purpose the faculties with which nature has endowed us, while poor methods may prevent us from turning them to good account. Thus the genius of inventiveness, so precious in the sciences, may be diminished or even smothered by a poor method, while a good method may increase and develop it. In short, a good method promotes scientific development and forewarns men of science against those numberless sources of error which they meet in the search for truth; this is the only possible object of the experimental method. In biological science, the rôle of method is even more important than in other sciences, because of the immense complexity of the phenomena and the countless sources of error which complexity brings into experimentation. Yet even from the biological point of view, we cannot claim to treat the experimental method completely here; we must limit ourselves to giving a few general principles for the guidance of minds applying themselves to research in experimental medicine."
+    },
+    {
+      "id": "p0030",
+      "text": "III. Experimenters Must Doubt, Avoid Fixed Ideas, and Always Keep Their Freedom of Mind"
+    },
+    {
+      "id": "p0031",
+      "text": "The first condition to be fulfilled by men of science, applying themselves to the investigation of natural phenomena, is to maintain absolute freedom of mind, based on philosophic doubt. Yet we must not be in the least sceptical; we must believe in science, i.e., in determinism; we must believe in a complete and necessary relation between things, among the phenomena proper to living beings as well as in all others; but at the same time we must be thoroughly convinced that we know this relation only in a more or less approximate way, and that the theories we hold are far from embodying changeless truths. When we propound a general theory in our sciences, we are sure only that, literally speaking, all such theories are false. They are only partial and provisional truths which are necessary to us, as steps on which we rest, so as to go on with investigation; they embody only the present state of our knowledge, and consequently they must change with the growth of science, and all the more often when sciences are less advanced in their evolution. On the other hand, our ideas come to us, as we said, in view of facts which have been previously observed and which we interpret afterward. Now countless sources of error may slip into our observations, and in spite of all our attention and sagacity, we are never sure of having seen everything, because our means of observation are often too imperfect. The result of all this is, then, that if reasoning guides us in experimental science, it does not necessarily force its deductions upon us. Our mind can always remain free to accept or to dispute these deductions. If an idea presents itself to us, we must not reject it simply because it does not agree with the logical deductions of a reigning theory. We may follow our feelings and our idea and give free rein to our imagination, as long as all our ideas are mere pretexts for devising new experiments that may supply us with convincing or unexpected and fertile facts."
+    },
+    {
+      "id": "p0032",
+      "text": "The freedom which experimenters maintain is founded, as I said, on philosophic doubt. Indeed, we must be aware of the uncertainty of our reasonings on account of the obscurity of their starting point. The starting point, fundamentally, always rests on hypotheses or theories more or less imperfect, according to the state of development of the sciences. In biology, and especially in medicine, theories are so precarious that the experimenter maintains almost all his freedom. In chemistry and physics the facts are simpler, the sciences are more advanced, the theories more secure, and the experimenter must take more account of them and allow greater importance to the deductions of experimental reasoning based on them. But still he must never accept these theories at their face value. In our day, we have seen great physicists make discoveries of the first rank by means of experiments devised in a way that lacked all logical relation to admitted theories. Astronomers have enough confidence in the principles of their science to build up mathematical theories with them, but that does not prevent them from testing and verifying them by direct observations; this very precept, as we have seen, must not be neglected in theoretical mechanics. But in mathematics, when we start from an axiom or principle whose truth is absolutely necessary and conscious, freedom no longer exists; truths once established are immutable. Geometricians are not free to question whether the three angles of a triangle are or are not equal to two right angles; consequently they are not free to reject the logical consequences deduced from this principle."
+    },
+    {
+      "id": "p0033",
+      "text": "If a doctor imagined that his reasoning had the value of a mathematician’s, he would be utterly in error and would be led into the most unsound conclusions. This is unluckily what has happened and still happens to the men whom I shall call systematizers. These men start, in fact, from an idea which is based more or less on observation, and which they regard as an absolute truth. They then reason logically and without experimenting, and from deduction to deduction they succeed in building a system which is logical, but which has no sort of scientific reality. Superficial persons often let themselves be dazzled by this appearance of logic; and discussions worthy of ancient scholasticism are thus sometimes renewed in our day. The excessive faith in reasoning, which leads physiologists to a false simplification of things, comes, on the one hand, from ignorance of the science of which they speak, and, on the other hand, from lack of a feeling for the complexity of natural phenomena. That is why we sometimes see pure mathematicians, with very great minds too, fall into mistakes of this kind; they simplify too much and reason about phenomena as they construct them in their minds, but not as they exist in nature."
+    },
+    {
+      "id": "p0034",
+      "text": "The great experimental principle, then, is doubt, that philosophic doubt which leaves to the mind its freedom and initiative, and from which the virtues most valuable to investigators in physiology and medicine are derived. We must trust our observations or our theories only after experimental verification. If we trust too much, the mind becomes bound and cramped by the results of its own reasoning; it no longer has freedom of action, and so lacks the power to break away from that blind faith in theories which is only scientific superstition."
+    },
+    {
+      "id": "p0035",
+      "text": "It has often been said that, to make discoveries, one must be ignorant. This opinion, mistaken in itself, nevertheless conceals a truth. It means that it is better to know nothing than to keep in mind fixed ideas based on theories whose confirmation we constantly seek, neglecting meanwhile everything that fails to agree with them. Nothing could be worse than this state of mind; it is the very opposite of inventiveness. Indeed a discovery is generally an unforeseen relation not included in theory, for otherwise it would be foreseen. In this respect, indeed, an uneducated man, knowing nothing of theory, would be in a better attitude of mind; theory would not embarrass him and would not prevent him from seeing new facts unperceived by a man preoccupied with an exclusive theory. But let us hasten to say that we certainly do not mean to raise ignorance into a principle. The better educated we are and the more acquired information we have, the better prepared shall we find our minds for making great and fruitful discoveries. Only we must keep our freedom of mind, as we said above, and must believe that in nature what is absurd, according to our theories, is not always impossible."
+    },
+    {
+      "id": "p0036",
+      "text": "Men who have excessive faith in their theories or ideas are not only ill prepared for making discoveries; they also make very poor observations. Of necessity, they observe with a preconceived idea, and when they devise an experiment, they can see, in its results, only a confirmation of their theory. In this way they distort observation and often neglect very important facts because they do not further their aim. This is what made us say elsewhere that we must never make experiments to confirm our ideas, but simply to control them;[16] which means, in other terms, that one must accept the results of experiments as they come, with all their unexpectedness and irregularity."
+    },
+    {
+      "id": "p0037",
+      "text": "But it happens further quite naturally that men who believe too firmly in their theories, do not believe enough in the theories of others. So the dominant idea of these despisers of their fellows is to find others’ theories faulty and to try to contradict them. The difficulty, for science, is still the same. They make experiments only to destroy a theory, instead of to seek the truth. At the same time, they make poor observations, because they choose among the results of their experiments only what suits their object, neglecting whatever is unrelated to it, and carefully setting aside everything which might tend toward the idea they wish to combat. By these two opposite roads, men are thus led to the same result, that is, to falsify science and the facts."
+    },
+    {
+      "id": "p0038",
+      "text": "Accordingly, we must disregard our own opinion quite as much as the opinion of others, when faced by the decisions of experience. If men discuss and experiment, as we have just said, to prove a preconceived idea in spite of everything, they no longer have freedom of mind, and they no longer search for truth. Theirs is a narrow science, mingled with personal vanity or the diverse passions of man. Pride, however, should have nothing to do with all these vain disputes. When two physiologists or two doctors quarrel, each to maintain his own ideas or theories, in the midst of their contradictory arguments, only one thing is absolutely certain: that both theories are insufficient, and neither of them corresponds to the truth. The truly scientific spirit, then, should make us modest and kindly. We really know very little, and we are all fallible when facing the immense difficulties presented by investigation of natural phenomena. The best thing, then, for us to do is to unite our efforts, instead of dividing them and nullifying them by personal disputes. In a word, the man of science wishing to find truth must keep his mind free and calm, and if it be possible, never have his eye bedewed, as Bacon says, by human passions."
+    },
+    {
+      "id": "p0039",
+      "text": "In scientific education, it is very important to differentiate, as we shall do later, between determinism which is the absolute principle of science, and theories which are only relative principles to which we should assign but temporary value in the search for truth. In a word, we must not teach theories as dogmas or articles of faith. By exaggerated belief in theories, we should give a false idea of science; we should overload and enslave the mind, by taking away its freedom, smothering its originality and infecting it with the taste for systems."
+    },
+    {
+      "id": "p0040",
+      "text": "The theories which embody our scientific ideas as a whole are, of course, indispensable as representations of science. They should also serve as a basis for new ideas. But as these theories and ideas are by no means immutable truth, one must always be ready to abandon them, to alter them or to exchange them as soon as they cease to represent the truth. In a word, we must alter theory to adapt it to nature, but not nature to adapt it to theory."
+    },
+    {
+      "id": "p0041",
+      "text": "To sum up, two things must be considered in experimental science: method and idea. The object of method is to direct the idea which arises in the interpretation of natural phenomena and in the search for truth. The idea must always remain independent, and we must no more chain it with scientific beliefs than with philosophic or religious beliefs; we must be bold and free in setting forth our ideas, must follow our feeling, and must on no account linger too long in childish fear of contradicting theories. If we are thoroughly steeped in the principles of the experimental method, we have nothing to fear; for, as long as the idea is correct, we go on developing it; when it is wrong, experimentation is there to set it right. We must be able, then, to attack questions even at the risk of going wrong. We do science better service, as has been said, by mistakes than by confusion, which means that we must fearlessly push ideas to their full development, provided that we regulate them and are always careful to judge them by experiment. The idea, in a word, is the motive of all reasoning, in science as elsewhere. But everywhere the idea must be submitted to a criterion. In science the criterion is the experimental method or experiment; this criterion is indispensable, and we must apply it to our own ideas as well as to those of others."
+    },
+    {
+      "id": "p0042",
+      "text": "IV. The Independent Character of the Experimental Method"
+    },
+    {
+      "id": "p0043",
+      "text": "From all that has so far been said, it follows necessarily, that no man’s opinion, formulated in a theory or otherwise, may be deemed to represent the whole truth in the sciences. It is a guide, a light, but not an absolute authority. The revolution which the experimental method has effected in the sciences is this: it has put a scientific criterion in the place of personal authority."
+    },
+    {
+      "id": "p0044",
+      "text": "The experimental method is characterized by being dependent only on itself, because it includes within itself its criterion,—experience. It recognizes no authority other than that of facts and is free from personal authority. When Descartes said that we must trust only to evidence or to what is sufficiently proved, he meant that we must no longer defer to authority, as scholasticism did, but must rely only on facts firmly established by experience."
+    },
+    {
+      "id": "p0045",
+      "text": "The result of this is that when we have put forward an idea or a theory in science, our object must not be to preserve it by seeking everything that may support it and setting aside everything that may weaken it. On the contrary, we ought to examine with the greatest care the facts which apparently would overthrow it, because real progress always consists in exchanging an old theory which includes fewer facts for a new one which includes more. This proves that we have advanced, for in science the best precept is to alter and exchange our ideas as fast as science moves ahead. Our ideas are only intellectual instruments which we use to break into phenomena; we must change them when they have served their purpose, as we change a blunt lancet that we have used long enough."
+    },
+    {
+      "id": "p0046",
+      "text": "The ideas and theories of our predecessors must be preserved only in so far as they represent the present state of science, but they are obviously destined to change, unless we admit that science is to make no further progress, and that is impossible. In this connection, we should perhaps make a distinction between mathematical sciences and experimental sciences. As mathematical truths are immutable and absolute, the science of mathematics grows by simple successive juxtaposition of all acquired truths. As truths in the experimental sciences, on the contrary, are only relative, these sciences can move forward only by revolution and by recasting old truths in a new scientific form."
+    },
+    {
+      "id": "p0047",
+      "text": "In the experimental sciences, a mistaken respect for personal authority would be superstition and would form a real obstacle to the progress of science: at the same time, it would be contrary to the examples given us by the great men of all time. Great men, indeed, are precisely those who bring with them new ideas and destroy errors. They do not, therefore, respect the authority of their own predecessors, and they do not expect us to treat them otherwise."
+    },
+    {
+      "id": "p0048",
+      "text": "This non-submission to authority, which the experimental method regards as a fundamental precept, is by no means out of harmony with the respect and admiration which we bear to the great men preceding us, to whom we owe the discoveries at the base of the sciences of to-day.[17]"
+    },
+    {
+      "id": "p0049",
+      "text": "In the experimental sciences, great men are never the promoters of absolute and immutable truths. Each great man belongs to his time and can come only at his proper moment, in the sense that there is a necessary and ordered sequence in the appearance of scientific discoveries. Great men may be compared to torches shining at long intervals, to guide the advance of science. They light up their time, either by discovering unexpected and fertile phenomena which open up new paths and reveal unknown horizons, or by generalizing acquired scientific facts and disclosing truths which their predecessors had not perceived. If each great man makes the science which he vitalizes take a long step forward, he never presumes to fix its final boundaries, and he is necessarily destined to be outdistanced and left behind by the progress of successive generations. Great men have been compared to giants upon whose shoulders pygmies have climbed, who nevertheless see further than they. This simply means that science makes progress subsequently to the appearance of great men, and precisely because of their influence. The result is that their successors know many more scientific facts than the great men themselves had in their day. But a great man is, none the less, still a great man, that is to say,—a giant."
+    },
+    {
+      "id": "p0050",
+      "text": "There are, indeed, two sides to science in evolution: on the one hand, what is acquired already, and on the other hand, what remains to be acquired. In the already acquired, all men are more or less equal, and the great cannot be distinguished from the rest. Mediocre men often have the most acquired knowledge. It is in the darker regions of science that great men are recognized; they are marked by ideas which light up phenomena hitherto obscure and carry science forward."
+    },
+    {
+      "id": "p0051",
+      "text": "To sum up, the experimental method draws from within itself an impersonal authority which dominates science. It forces this authority even on great men, instead of seeking, like the scholastics, to prove from texts that they are infallible and that they have seen, said or thought everything discovered after them. Every period has its own sum total of errors and of truths. Certain mistakes are, in a sense, inherent in their period, so that only the subsequent progress of science can reveal them. The progress of the experimental method consists in this,—that the sum of truths grows larger in proportion as the sum of error grows less. But each one of these particular truths is added to the rest to establish more general truths. In this fusion, the names of promoters of science disappear little by little, and the further science advances, the more it takes an impersonal form and detaches itself from the past. To avoid a mistake which has sometimes been committed, I hasten to add that I mean to speak here of the evolution of science only. In art and letters, personality dominates everything. There we are concerned with a spontaneous creation of the mind, that has nothing in common with the noting of natural phenomena, in which the mind must create nothing. The past keeps all its worth in the creations of art and letters; each individuality remains changeless in time and cannot be mistaken for another. A contemporary poet has characterized this sense of the personality of art and of the impersonality of science in these words,—“Art is myself; science is ourselves.”"
+    },
+    {
+      "id": "p0052",
+      "text": "The experimental method is the scientific method which proclaims the freedom of the mind and of thought. It not only shakes off the philosophical and theological yoke; it does not even accept any personal scientific authority. This is by no means pride and boastfulness; experimenters, on the contrary, show their humility in rejecting personal authority, for they doubt their own knowledge also and submit the authority of man to the authority of experience and of the laws of nature."
+    },
+    {
+      "id": "p0053",
+      "text": "Physics and chemistry, as established sciences, offer us the independence and impersonality which the experimental method demands. But medicine is still in the shades of empiricism and suffers the consequences of its backward condition. We see it still more or less mingled with religion and with the supernatural. Superstition and the marvellous play a great part in it. Sorcerers, somnambulists, healers by virtue of some gift from Heaven, are held as the equals of physicians. Medical personality is placed above science by physicians themselves; they seek their authority in tradition, in doctrines or in medical tact. This state of affairs is the clearest of proofs that the experimental method has by no means come into its own in medicine."
+    },
+    {
+      "id": "p0054",
+      "text": "The experimental method, the free thinker’s method, seeks only scientific truth. Feeling, from which everything emanates, must keep its complete spontaneity and all its freedom for putting forth experimental ideas; reason also must preserve that freedom to doubt, which forces it always to submit ideas to the test of experiment. Just as, in other human actions, feeling releases an act by putting forth the idea which gives a motive to action, so in the experimental method feeling takes the initiative through the idea. Feeling alone guides the mind and constitutes the _primum movens_ of science. Genius is revealed in a delicate feeling which correctly foresees the laws of natural phenomena; but this we must never forget, that correctness of feeling and fertility of idea can be established and proved only by experiment."
+    },
+    {
+      "id": "p0055",
+      "text": "V. Induction and Deduction in Experimental Reasoning"
+    },
+    {
+      "id": "p0056",
+      "text": "We have so far dealt with the influence of the experimental idea. Let us now consider how the method, while always forcing upon reason the dubitative form, may guide it more safely in the search for truth."
+    },
+    {
+      "id": "p0057",
+      "text": "We said elsewhere that experimental reasoning is practised on observed phenomena, or observations; but it is really applied only to the ideas which the phenomena have aroused in our mind. The essence of experimental reasoning, then, will always be an idea which we introduce into a piece of experimental reasoning in order to submit it to the criterion of facts, i.e., to experiment."
+    },
+    {
+      "id": "p0058",
+      "text": "There are two forms of reasoning: first, the investigating or interrogative form used by men who do not know and who wish to learn; secondly, the demonstrating or affirmative form employed by men who know or think they know, and who wish to teach others."
+    },
+    {
+      "id": "p0059",
+      "text": "Philosophers seem to have differentiated these two forms of reasoning under the names of inductive reasoning and deductive reasoning. They also accept two scientific methods: the inductive method or induction, proper to the experimental physical sciences, and the deductive method or deduction, belonging more particularly to the mathematical sciences."
+    },
+    {
+      "id": "p0060",
+      "text": "It follows that the one special form of experimental reasoning with which we must deal here is induction."
+    },
+    {
+      "id": "p0061",
+      "text": "Induction has been defined as the process of moving from the particular to the general, while deduction is the reverse process moving from the general to the particular. I certainly shall not presume to engage in a philosophic discussion which would here be out of place and beyond my competence; only in my capacity as experimenter I shall content myself with saying that it seems to me very difficult, in practice, to justify this distinction and clearly to separate induction from deduction. If the experimenter’s mind usually proceeds by starting from particular observations and going back to principles, to laws, or to general propositions, it also necessarily proceeds from the same general propositions or laws and reaches particular facts which it deduces logically from these principles. Only, when a principle is not absolutely certain, we must always make a temporary deduction requiring experimental verification. All the seeming varieties of reasoning depend merely on the nature of the subject treated and on its greater or less complexity. But in all these cases, the human mind always works in the same way, with syllogisms; it cannot behave otherwise."
+    },
+    {
+      "id": "p0062",
+      "text": "Just as man goes forward, in the natural movement of his body, only by putting one foot in front of the other, so in the natural movement of his mind, man goes forward only by putting one idea in front of another. In other words, the mind, like the body, needs a primary point of support. The body’s point of support is the ground which the foot feels; the mind’s point of support is the known, that is, a truth or a principle of which the mind is aware. Man can learn nothing except by going from the known to the unknown; but on the other hand, as science is not infused into man at birth, and as he knows only what he learns, we seem to be in a vicious circle, where man is condemned to inability to learn anything. He would be so, in fact, if his reason did not include a feeling for relations and for determinism, which are the criteria of truth; but in no case can he gain this truth or approach it, except through reasoning and experience."
+    },
+    {
+      "id": "p0063",
+      "text": "It would be incorrect to say that deduction pertains only to mathematics and induction to the other sciences exclusively. Both forms of reasoning, investigating (inductive) and demonstrating (deductive), pertain to all possible sciences, because in all the sciences there are things that we do not know and other things that we know or think we know."
+    },
+    {
+      "id": "p0064",
+      "text": "When mathematicians study subjects unfamiliar to them, they use induction, like physicists, chemists or physiologists. To prove this point, I need only cite the words of a great mathematician."
+    },
+    {
+      "id": "p0065",
+      "text": "Thus Euler expresses himself in a memoir entitled: _De inductione ad plenam certitudinem evehenda_:"
+    },
+    {
+      "id": "p0066",
+      "text": "“Notum est plerumque numerum proprietates primum per solam inductionem observatas, quas deinceps geometrae solidis demonstrationibus confirmare elaboraverunt; quo negotio in primis Fermatius summo studio et satis felici successu fuit occupatus.”[18]"
+    },
+    {
+      "id": "p0067",
+      "text": "The principles or theories which serve as foundations for a science, whatever it may be, have not fallen from the sky; they were necessarily reached by investigation, inductive or interrogative reasoning, as we may choose to call it. It was first necessary to observe something which happened within ourselves or outside of us. From the experimental point of view there are ideas, in the sciences, which we call _a priori_, because they are a starting point for experimental reasoning (see page 27 and the following pages), but from the point of view of ideogenesis they are really _a posteriori_ ideas. In a word, induction must have been the primitive, general form of reasoning; and the ideas which philosophers and men of science constantly take for _a priori_ ideas are at bottom really _a posteriori_ ideas."
+    },
+    {
+      "id": "p0068",
+      "text": "Mathematicians and naturalists are alike when going in search of principles. Both use induction, make hypotheses, and experiment, that is to say, make attempts to verify the accuracy of their ideas. But when mathematicians and naturalists reach their principles, then they part company. Indeed, as I have already said elsewhere, the mathematician’s principle is absolute, because it is not applicable to objective reality just as it is, but to relations between things considered in extremely simple conditions which the mathematician chooses and, in some sort, creates in his mind. Now, as he is thus sure that he need not introduce into his reasoning other conditions than those which he has defined, the principle remains absolute, conscious, adequate for the mind, and his logical deduction is equally certain and absolute: he no longer requires experimental verifications; logic is enough."
+    },
+    {
+      "id": "p0069",
+      "text": "A naturalist is in a very different position; the general proposition which he has reached, or the principle on which he relies, is relative and provisional, because it embodies complex relations which he is never sure that he can know. Hence, his principle is uncertain, since it is unconscious and inadequate for the mind; hence, deductions, though quite logical, always remain doubtful, and so he must necessarily appeal to experiment to verify the conclusion of his deductive reasoning. The difference between mathematicians and naturalists is capital in respect to the certainty of their principles and of the conclusions to be drawn from them; but the mechanism of deductive reasoning is exactly the same for both. Both start from a proposition; only the mathematician says: Given this starting point, such and such a particular case necessarily results. The naturalist says: If this starting point is correct, such and such a particular case will follow as a consequence."
+    },
+    {
+      "id": "p0070",
+      "text": "When starting from a principle, the mathematician and the naturalist, therefore, both use deduction. Both reason by making a syllogism; only, for the naturalist the conclusion of the syllogism is doubtful and requires verification, because its principle is unconscious.[19] Such experimental or dubitative reasoning is the only kind that we can use when reasoning about natural phenomena; if we wished to suppress doubt and if we dispensed with experiment, we should no longer have any criterion by which to know whether we were in the wrong or in the right, because, I repeat, the principle is unconscious, and one must therefore appeal to our senses."
+    },
+    {
+      "id": "p0071",
+      "text": "From all this I should conclude that induction and deduction belong to all the sciences. I do not believe that induction and deduction are really two forms of reasoning essentially distinct. By nature man has the feeling or idea of a principle that rules particular cases. He always proceeds instinctively from a principle, acquired or invented by hypothesis; but he can never go forward in reasoning otherwise than by syllogism, that is, by proceeding from the general to the particular."
+    },
+    {
+      "id": "p0072",
+      "text": "In physiology, a given organ always works through one and the same mechanism; only, when the phenomenon occurs under different conditions or in a different environment, the function takes on a different aspect; but fundamentally its character remains the same. In my opinion there is only one way of reasoning for the mind, just as there is only one way of walking for the body. But when a man goes ahead on solid flat ground, by a straight road whose whole extent he knows and sees, he advances toward his goal at an assured and rapid pace. On the contrary, when a man follows a winding road in the dark and over unknown hilly ground, he dreads precipices and goes forward cautiously, step by step. Before taking a second step, he must make sure that he has placed his first foot on a spot that is firm, then go forward in the same way verifying experimentally, moment by moment, the solidity of the ground, and always changing the direction of his advance according to what he encounters. Such is the experimenter who must never go beyond fact in his searching, lest he risk losing his way. In the two preceding examples the man goes forward over different ground and in varied surroundings, but he goes forward none the less by the same physiological method. In the same way, when an experimenter simply deduces relations from definite phenomena by means of known and established principles, his reasoning develops in a secure and necessary way, while, if he finds himself in the midst of complex relations and with the support only of vague, provisional principles, the same experimenter must then go forward cautiously and must submit to experiment each one of the ideas which he successively puts forward. But, in both these cases, the mind still reasons in the same way and by the same physiological method, only it starts from a more or less binding principle."
+    },
+    {
+      "id": "p0073",
+      "text": "When any sort of phenomenon strikes us in nature, we work out our idea of the cause determining it. Man in his primal ignorance imagined divinities connected with each phenomenon. To-day men of science acknowledge forces or laws: it is they that govern phenomena. An idea that comes to us at the sight of a phenomenon is called _a priori_. Now we shall later easily show that this _a priori_ idea, which rises in us _à propos_ of a special fact, always contains implicitly and, in some sort, without our knowledge, a _principle_ to which we tend to refer the special fact, so that when we think that we are moving from a special case to a principle, i.e., making an induction, we are really making a deduction; only the experimenter guides himself by an assumed or provisional principle which he alters moment by moment, because he is searching in almost total darkness. In proportion as we gather facts, our principles become more and more general and more secure; so we gain the certainty that we deduce. But nevertheless, in the experimental sciences, our principle must always remain provisional, because we are never certain that it includes only the facts and conditions of which we are aware. In short, our deductions are always hypothetical until verified experimentally. An experimenter, therefore, can never be in the position of the mathematician, precisely because experimental reasoning, by its very nature, is always dubitative. If we wish, we can call the experimenter’s dubitative reasoning induction, and the mathematician’s affirmative reasoning deduction; but the distinction will then apply to the certainty or uncertainty of our starting point in reasoning, not to the way in which we reason."
+    },
+    {
+      "id": "p0074",
+      "text": "VI. Doubt in Experimental Reasoning"
+    },
+    {
+      "id": "p0075",
+      "text": "I will summarize the preceding paragraph by saying that there seems to me to be only one form of reasoning: deduction by syllogism. The mind, even if it wished, could not reason otherwise, and if this were the place for it, I might try to support my proposition by physiological arguments. But to find scientific truth, we, after all, have little need to know how our mind reasons; it is enough to let it reason naturally, and in that case it will always start from a principle to reach a conclusion. All we need do here is to insist on a precept which will always forearm the mind against the countless sources of error that may be met in applying the experimental method."
+    },
+    {
+      "id": "p0076",
+      "text": "This general precept, one of the foundations of the experimental method, is doubt: it is expressed by saying that the conclusion of our reasoning must always remain dubitative when the starting point or the principle is not an absolute truth. We have seen that there is no absolute truth apart from mathematical principles; in all natural phenomena the principles from which we start, like the conclusions which we reach, embody only relative truths. The experimenter’s stumbling block, then, consists in thinking that he knows what he does not know, and in taking for absolute, truths that are only relative. Hence, the unique and fundamental rule of scientific investigation is reduced to doubt, as great philosophers, moreover, have already proclaimed."
+    },
+    {
+      "id": "p0077",
+      "text": "Experimental reasoning is precisely the reverse of scholastic reasoning. Scholasticism must always have a fixed and indubitable starting point; and, unable to find it either in outer things or in reason, it borrows it from some irrational source, such as revelation, tradition, a conventional or an arbitrary authority. The starting point once settled, scholastics or systematizers deduce logically all the consequences, even invoking as arguments observation or experience of facts when they are favorable; the one condition is that the starting point shall remain immutable and shall not vary with their experiences and observations, but on the contrary that facts shall be so interpreted as to adapt themselves to it. Experimenters, on the contrary, never accept an immutable starting point; their principle is a postulate, all of whose consequences they logically deduce, but without ever considering it absolute or beyond the reach of experiment. The chemists’ elements are elements only until proof to the contrary. All the theories which serve as starting points for physicists, chemists, and with still more reason physiologists, are true only until facts are discovered which they do not include, or which contradict them. When these contradictory facts are shown to be firmly established, far from stiffening themselves against experience, like the scholastics or systematizers, experimenters, on the contrary, hasten to safeguard their starting point, to modify their theory, because they know that this is the only way to go forward and to make progress in science. Experimenters, then, always doubt even their starting point; of necessity they keep a supple and modest mind and accept contradiction, on the one condition that it be proved. Scholastics or systematizers never question their starting point, to which they seek to refer everything; they have a proud and intolerant mind and do not accept contradiction, since they do not admit that their starting point may change. Men of system are also distinguished from men of experimental science by the fact that the first impose their idea, while the second always give it just for what it is worth. Finally, another essential characteristic, which differentiates experimental reasoning from scholastic reasoning, is the fertility of the one and the sterility of the other. The scholastic who believes himself in possession of absolute certainty comes to naught; this can easily be understood, since by his absolute principle, he puts himself outside of nature, in which everything is relative. The experimenter, on the contrary, who always doubts and who does not believe that he possesses absolute certainty about anything, succeeds in mastering the phenomena that surround him and in extending his power over nature. Man can do, then, more than he knows; and true experimental science gives him power only in showing him his ignorance. Possessing absolute truth matters little to the man of science, so long as he is certain about the relations of phenomena to one another. Indeed, our mind is so limited that we can know neither the beginning nor the end of things; but we can grasp the middle, i.e., what surrounds us closely."
+    },
+    {
+      "id": "p0078",
+      "text": "Systematic or scholastic reasoning is natural to inexperienced, proud minds; it is only by thorough experimental study of nature that we succeed in acquiring the experimenter’s doubting mind. That takes a long time; of those who think they are following the experimental path in physiology and in medicine, many, as we shall see later, are still scholastics. As for me, I am convinced that only study of nature can give scholars a true perception of science. Philosophy, which I consider an excellent gymnastic for the mind, has systematic and scholastic tendencies in spite of itself, which would be harmful to men of science properly so-called. After all, no method can replace that study of nature which makes true men of science: without that study, all that philosophers have said and all that I myself have repeated after them in this introduction would remain inapplicable and sterile."
+    },
+    {
+      "id": "p0079",
+      "text": "I do not think, therefore, as I said above, that it is very profitable for men of science to discuss definitions of induction and of deduction, nor, for that matter, the question whether we advance by one or the other of these so-called processes of mind. Baconian induction, however, has become famous and has been made the foundation of all scientific philosophy. Bacon was a great genius, and his great restoration of the sciences is sublime as an idea; we are captivated and carried along in spite of ourselves, in reading the _Novum Organum_ and the _Augmentum Scientiarum_. We are fascinated by a medley of scientific gleams, clothed in the loftiest of poetic forms. Bacon felt the sterility of scholasticism; he well understood and foresaw the importance of experiment for the future of the sciences. Yet Bacon was not a man of science, and he did not understand the mechanism of the experimental method. To prove this, it would be enough to cite the hapless attempts which he made. Bacon advises us to fly from hypotheses and theories;[20] we have seen, however, that they are auxiliaries of the method, indispensable as scaffolding is necessary in building a house. Bacon, as is always the case, had extravagant admirers and detractors. Without taking one side or the other, I will say that, while recognizing Bacon’s genius, I believe no more than J. de Maistre[21] that he endowed the human intellect with a new instrument, and it seems to me, as to M. de Rémusat,[22] that induction does not differ from the syllogism. Moreover, I believe that great experimenters appeared before all precepts of experimentation, as great orators preceded all treatises on rhetoric. Consequently, even in speaking of Bacon, it does not seem to me permissible to say he invented the experimental method, that method which Galileo and Torricelli so admirably practised and which Bacon never could use."
+    },
+    {
+      "id": "p0080",
+      "text": "When Descartes[23] starts from universal doubt and repudiates authority, he gives much more practical precepts for the experimenter than those that Bacon gives for induction. We have seen, indeed, that only doubt promotes experiment; it is doubt, finally, which determines the form of experimental reasoning."
+    },
+    {
+      "id": "p0081",
+      "text": "In connection with medicine and the physiological sciences, however, it is important to determine at what point to apply doubt, so as to distinguish it from scepticism, and to show how scientific doubt becomes an element of the greatest certainty. The sceptic disbelieves in science and believes in himself; he believes enough in himself to dare deny science and to assert that it is not subject to definite, fixed laws. The doubter is a true man of science; he doubts only himself and his interpretations, but he believes in science; in the experimental sciences, he even accepts a criterion or absolute scientific principle. This principle is the determinism of phenomena, which is as absolute in the phenomena of living bodies as in those of inorganic matter, as we shall later assert (page 65)."
+    },
+    {
+      "id": "p0082",
+      "text": "Finally, in concluding this section, we may say that in all experimental reasoning there are two possibilities: either the experimenter’s hypothesis will be disproved or it will be proved by experiment. When experiment disproves his preconceived idea, the experimenter must discard or modify it. But even when experiment fully proves his preconceived idea, the experimenter must still doubt; for since he is dealing with an unconscious truth, his reason still demands a counterproof."
+    },
+    {
+      "id": "p0083",
+      "text": "VII. The Principle of the Experimental Criterion"
+    },
+    {
+      "id": "p0084",
+      "text": "We have just said that one must doubt, but by no means be sceptical. A sceptic, indeed, who believes nothing, no longer has a foundation on which to establish his criterion, and consequently he finds it impossible to build up a science; the sterility of his unhappy mind results at once from the error of his perception and from the imperfection of his reason. After having posited the principle that investigators must doubt, we added that doubt will apply only to the soundness of their opinions, or of their ideas as experimenters, or to the value of their means of investigation, as observers, but never to determinism, the very principle of experimental science. Let us return in a few words to this fundamental point."
+    },
+    {
+      "id": "p0085",
+      "text": "Experimenters must doubt their intuition, i.e., the _a priori_ idea or the theory which serves as their starting point; this is why it is an absolute principle always to submit one’s idea to the experimental criterion so as to test its value. But just what is the foundation of this experimental criterion? This question may seem superfluous, after having repeatedly said that facts judge the idea and give us experience. Facts alone are real, it is said; and we must leave the matter to them, wholly and exclusively. Again, it is a fact, a sheer fact, men often repeat; there is no use in discussing, we must accept it. Of course I admit that facts are the only realities that can give form to the experimental idea and at the same time serve as its control; but this is on condition that reason accepts them. I think that blind belief in fact, which dares to silence reason, is as dangerous to the experimental sciences as the beliefs of feeling or of faith which also force silence on reason. In a word, in the experimental method as in everything else, the only real criterion is reason."
+    },
+    {
+      "id": "p0086",
+      "text": "A fact is nothing in itself, it has value only through the idea connected with it or through the proof it supplies. We have said elsewhere that, when one calls a new fact a discovery, the fact itself is not the discovery, but rather the new idea derived from it; in the same way, when a fact proves anything, the fact does not itself give the proof, but only the rational relation which it establishes between the phenomenon and its cause. This relation is the scientific truth which we now must discuss further."
+    },
+    {
+      "id": "p0087",
+      "text": "Let us recall how we characterized mathematical truths and experimental truths. Mathematical truths, once acquired, we said, are conscious and absolute truths, because the ideal conditions in which they exist are also conscious and known by us in an absolute way. Experimental truths, on the contrary, are unconscious and relative, because the real conditions on which they exist are unconscious and can be known by us only in their relation to the present state of our science. But if the experimental truths, which serve as foundation for our reasoning, are so wrapped up in the complex reality of natural phenomena that they appear to us only in shreds, these experimental truths rest, none the less, on principles that are absolute because, like those of mathematical truths, they speak to our consciousness and our reason. Indeed the absolute principle of experimental science is conscious and necessary determinism in the conditions of phenomena. So that, given no matter what natural phenomenon, experimenters can never acknowledge variation in the embodiment of this phenomenon, unless new conditions have at the same time occurred in its coming to pass; what is more, they have an _a priori_ certainty, that these variations are determined by rigorous, mathematical relations. Experiment only shows us the form of phenomena; but the relation of a phenomenon to a definite cause is necessary and independent of experiment; it is necessarily mathematical and absolute. Thus we see that the principle of the criterion in experimental sciences is fundamentally identical with that of the mathematical sciences, since in each case the principle is expressed by a necessary and absolute relation between things. Only in the experimental sciences these relations are surrounded by numerous, complex and infinitely varied phenomena which hide them from our sight. With the help of experiment, we analyze, we dissociate these phenomena, in order to reduce them to more and more simple relations and conditions. In this way we try to lay hold on scientific truth, i.e., find the law that shall give us the key to all variations of the phenomena. Thus experimental analysis is our only means of going in search of truth in the natural sciences, and the absolute determinism of phenomena, of which we are conscious _a priori_, is the only criterion or principle which directs and supports us. In spite of our efforts, we are still very far from this absolute truth; and it is probable, especially in the biological sciences, that it will never be given us to see it in its nakedness. But this need not discourage us, for we are constantly nearing it; and moreover, with the help of our experiments, we grasp relations between phenomena which, though partial and relative, allow us more and more to extend our power over nature."
+    },
+    {
+      "id": "p0088",
+      "text": "It follows from the above that, if a phenomenon, in an experiment, had such a contradictory appearance that it did not necessarily connect itself with determinate causes, then reason should reject the fact as non-scientific. We should wait or by direct experiments seek the source of error which may have slipped into the observation. Indeed, there must be error or insufficiency in the observation; for to accept a fact without a cause, that is, indeterminate in its necessary conditions, is neither more nor less than the negation of science. So that, in the presence of such a fact, men of science must never hesitate; they must believe in science and doubt their means of investigation. They will, therefore, perfect their means of observation and will make every effort to get out of the darkness; but they will never deny the absolute determinism of the phenomena; because it is precisely the recognition of determinism that characterizes true men of science."
+    },
+    {
+      "id": "p0089",
+      "text": "In medicine, we are often confronted with poorly observed and indefinite facts which form actual obstacles to science, in that men always bring them up, saying: it is a fact, it must be accepted. Rational science based, as we have said, on a necessary determinism, must never repudiate an accurate and well-observed fact; but on the same principle, it ought not to encumber itself with apparent facts collected without precision, and possessing no kind of meaning, which are used as a double-edged weapon to support or disprove the most diverse opinions. In short, science rejects the indeterminate; and in medicine, when we begin to base our opinions on medical tact, on inspiration, or on more or less vague intuition about things, we are outside of science and offer an example of that fanciful medicine which may involve the greatest dangers, by surrendering the health and life of the sick to the whims of an inspired ignoramus. True science teaches us to doubt and, in ignorance, to refrain."
+    },
+    {
+      "id": "p0090",
+      "text": "VIII. Proof and Counterproof"
+    },
+    {
+      "id": "p0091",
+      "text": "We said above that experimenters, who see their ideas confirmed by an experiment, should still doubt and require a counterproof. Indeed, proof that a given condition always precedes or accompanies a phenomenon does not warrant concluding with certainty that a given condition is the immediate cause of that phenomenon. It must still be established that, when this condition is removed, the phenomenon will no longer appear. If we limited ourselves to the proof of presence alone, we might fall into error at any moment and believe in relations of cause and effect where there was nothing but simple coincidence. As we shall later see, coincidences form one of the most dangerous stumbling blocks encountered by experimental scientists in complex sciences like biology. It is the _post hoc, ergo propter hoc_ of the doctors, into which we may very easily let ourselves be led, especially if the result of an experiment or an observation supports a preconceived idea."
+    },
+    {
+      "id": "p0092",
+      "text": "Counterproof, then, is a necessary and essential characteristic of the conclusion of experimental reasoning. It is the expression of philosophic doubt carried as far as possible. Counterproof decides whether the relation of cause to effect, which we seek in phenomena, has been found. To do this, it removes the accepted cause, to see if the effect persists, relying on that old and absolutely true adage: _sublata causa, tollitur effectus_. This is what we still call the _experimentum crucis_."
+    },
+    {
+      "id": "p0093",
+      "text": "We must not confuse a counterexperiment or counterproof with what has been called comparative experiment. As we shall later see, this is only a comparative observation resorted to, in complex circumstances, to simplify phenomena and to forearm oneself against unforeseen sources of error; counterproof, on the contrary, is a counterjudgment dealing directly with the experimental conclusion and forming one of its necessary terms. Indeed, proof, in science, never establishes certainty without counterproof. Analysis can be absolutely proved only when the synthesis, which demonstrates it, provides the counterproof or counterexperiment. Similarly a synthesis made at the outset should be demonstrated later by analysis. Feeling for this necessary, experimental counterproof constitutes the scientific feeling _par excellence_. It is familiar to physicists and chemists; but it is far from being as well understood by physicians. In most cases, when we see two phenomena in physiology or medicine going together and following one another in a constant order, we think we may conclude that the first is the cause of the second. This would be a false judgment in very many cases; statistical tables of presence or of absence never establish experimental demonstrations. In complex sciences like medicine, we must at the same time make use of comparative experiment and of counterproof. Some physicians fear and avoid counterproof; as soon as they make observations in the direction of their ideas, they refuse to look for contradictory facts, for fear of seeing their hypothesis vanish. We have already said that this is a very poor spirit; if we mean to find truth, we can solidly settle our ideas only by trying to destroy our own conclusions by counterexperiments. Now the only proof that one phenomenon plays the part of cause in relation to another is by removing the first, to stop the second."
+    },
+    {
+      "id": "p0094",
+      "text": "I shall not further emphasize this principle of the experimental method at this point, because I shall later take the opportunity to return to it, giving special examples which will explain my thought. Let me summarize by saying that experimenters should always push their investigation to the point of counterproof; without that, their experimental reasoning would not be complete. Counterproof establishes the necessary determinism of phenomena; and thus alone can satisfy reason to which, as we have said, we must always bring back any true scientific criterion."
+    },
+    {
+      "id": "p0095",
+      "text": "Experimental reasoning, whose different terms we have examined in the preceding section, sets itself the same goal in all the sciences. Experimenters try to reach determinism; with the help of reasoning and of experiment they try to connect natural phenomena with their necessary conditions or, in other words, with their immediate causes. By this means, they reach the law which enables them to master phenomena. All natural philosophy is summarized in _knowing the law of phenomena_. The whole experimental problem may be reduced to foreseeing and directing phenomena. But this double goal can be attained, in living bodies, only by certain special principles of experimentation which we must point out in the following chapters."
+    },
+    {
+      "id": "p0096",
+      "text": "-----"
+    },
+    {
+      "id": "p0097",
+      "text": "[14] J. Bertrand, _Eloge de M. Sénarmont_, address given at the sixth annual public meeting of the _Société de secours des amis des sciences_."
+    },
+    {
+      "id": "p0098",
+      "text": "[15] Goethe, _Œuvres d’histoire naturelle_, translation by M. Ch. Martins, Introduction, p. 1."
+    },
+    {
+      "id": "p0099",
+      "text": "[16] Claude Bernard, _Leçons sur les propriétés et les altérations des liquides de l’organisme_. Paris, 1859, _Première leçon_."
+    },
+    {
+      "id": "p0100",
+      "text": "[17] Claude Bernard, _Cours de médecine expérimentale, leçon d’ouverture_ (_Gazette méd._, April 15, 1864.)"
+    },
+    {
+      "id": "p0101",
+      "text": "[18] Euler, _Acta academiae scientiarum imperialis Petropolitanae, pro anno MDCCLXXX, pars posterior_, p. 38, Par. 1."
+    },
+    {
+      "id": "p0102",
+      "text": "[19] i.e., Not a postulate and not exclusively an affair of the mind. Translator’s note."
+    },
+    {
+      "id": "p0103",
+      "text": "[20] Bacon, _Œuvres_, edition, François Riaux, Introduction, p. 30."
+    },
+    {
+      "id": "p0104",
+      "text": "[21] J. de Maistre, _Examen de la philosophie de Bacon_."
+    },
+    {
+      "id": "p0105",
+      "text": "[22] M. de Rémusat, _Bacon, sa vie, son temps et sa philosophie, (1857)_."
+    },
+    {
+      "id": "p0106",
+      "text": "[23] Descartes, _Discours sur la méthode_."
+    }
+  ],
+  "anchors": {
+    "science-bernard-counterproof": {
+      "paragraphId": "p0092",
+      "start": 179,
+      "end": 358,
+      "quote": "Counterproof decides whether the relation of cause to effect, which we seek in phenomena, has been found. To do this, it removes the accepted cause, to see if the effect persists.",
+      "match": "punctuation-insensitive"
+    },
+    "science-bernard-hypothesis": {
+      "paragraphId": "p0005",
+      "start": 0,
+      "end": 232,
+      "quote": "An experimental idea, then, is also an a priori idea, but it is an idea that presents itself in the form of an hypothesis the consequences of which must be submitted to the criterion of experiment, so that its value may be tested.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

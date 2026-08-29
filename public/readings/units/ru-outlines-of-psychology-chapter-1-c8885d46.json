@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-outlines-of-psychology-chapter-1-c8885d46",
+  "title": "章 1",
+  "englishTitle": "Chapter 1",
+  "work": "《心理学纲要》",
+  "englishWork": "Outlines of Psychology",
+  "locator": "章 1",
+  "englishLocator": "Chapter 1",
+  "version": "莱比锡大学冯特数字档案，Charles Hubbard Judd 1907 年第三次修订公版英译，《心理学纲要》第1节第3a项，连续节录",
+  "englishVersion": "Leipzig University Wundt digital archive, Charles Hubbard Judd's third revised public-domain English edition (1907), Outlines of Psychology, §1.3a, continuous excerpt",
+  "sourceUrl": "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy01.htm",
+  "source": {
+    "url": "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy01.htm",
+    "contentType": "text/html",
+    "sha256": "2ea0ec9188a1b29819d61b8989b52da01ce19754338630ad15d7e6a4bb6d5a50"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "28487d3b0313c0cf8674f8b0bb1487371227a740a1cf0877d87aa09da9418c00",
+  "inputHash": "ead08862a2e70d4d7afb44297ceea02a73f644c218d2bc5f84c15c6dc18c0eab",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "INTRODUCTION."
+    },
+    {
+      "id": "p0002",
+      "text": "� 1. PROBLEM OF PSYCHOLOGY."
+    },
+    {
+      "id": "p0003",
+      "text": "1. Two definitions of psychology have been the most prominent in the history of this science. According to one, psychology is the \"science of mind\", psychical processes being regarded as phenomena from which it is possible to infer the nature of an underlying metaphysical mind-substance. According to the other, psychology is the \"science of inner experience\"; psychical processes are here looked upon as belonging to a specific form of experience, which is readily distinguished by the fact that its contents are known through \"introspection\", or through the \"inner sense\" as it is called if one uses the phrase which has been employed to distinguish introspection from sense-perception through the outer senses."
+    },
+    {
+      "id": "p0004",
+      "text": "Neither of these definitions, however, is satisfactory to the psychology of to-day. The first or metaphysical definition belongs to a period of development that lasted longer in this science than in others, but is here, too, forever left behind, since psychology has developed into an empirical discipline, operating with methods of its own; and since the \"mental sciences\" have gained recognition as a great department of scientific investigation, distinct from the sphere of the natural sciences, and requiring as a general groundwork an independent psychology, free from all metaphysical theories."
+    },
+    {
+      "id": "p0005",
+      "text": "The second or empirical definition, which sees in psychology a \"science of inner experience\", is inadequate because it may give rise to the misunderstanding that psychology has to do with objects totally different from the objects of so-called \"outer experience\". It is, indeed, true that there are certain contents of experience which belong in the sphere of psychological investigation, and are not to be found among the objects and processes studied by natural science; such are our feelings, emotions, and decisions. On the other hand, there is not a single natural phenomenon that may not, from a different point of view, become an object of psychology. A stone, a plant, a tone, a ray of light, are, when treated as natural phenomena, objects of mineralogy, botany, physics, etc. In so far, however, as they are at the same time ideas, they are objects of psychology, for psychology seeks to account for the genesis of these ideas, and for their relations, both to other ideas and to those psychical processes, such as feelings, volitions, etc., which are not referred to external objects. There is, then, no such thing as an \"inner sense\" which can be regarded as an organ of introspection, and as distinct from the outer senses, or organs of objective perception. The ideas of which psychology seeks to investigate the attributes, are identical with those upon which natural science is based; while the subjective activities of feeling, emotion, and volition, which are neglected in natural science, are not known through special organs, but are directly and inseparably connected with the ideas referred to external objects."
+    },
+    {
+      "id": "p0006",
+      "text": "2. It follows, then, that the expressions outer experience and inner experience do not indicate different objects, but different points of view from which we take up the consideration and scientific treatment of a unitary experience. We are naturally led to these points of view, because every concrete experience immediately divides into two factors: into a content presented to us, and our apprehension of this content. We call the first of these factors objects of experience, the second, experiencing subject. This division indicates two directions for the treatment of experience. One is that of the natural sciences, which concern themselves with the objects of experience, thought of as independent of the subject. The other is that of psychology, which investigates the whole content of experience in its relations to the subject and also in regard to the attributes which this content derives directly from the subject. The point of view of natural science may, accordingly, be designated as that of mediate experience, since it is possible only after abstracting from the subjective factor present in all actual experience; the point of view of psychology, on the other hand, may be designated as that of immediate experience, since it purposely does away with this abstraction and all its consequences."
+    },
+    {
+      "id": "p0007",
+      "text": "3. The assignment of this problem to psychology, making it a general, empirical science coordinate with the natural sciences, and supplementary to them, is justified by the method of all the mental sciences, for which psychology furnishes the basis. All of these sciences, philology, history and political and social science, have as their subject-matter, immediate experience as determined by the interaction of objects with knowing and acting subjects. None of the mental sciences employs the abstractions and hypothetical supplementary concepts of natural science; quite otherwise, they all accept ideas and the accompanying subjective activities as immediate reality. The effort is then made to explain the single components of this reality through their mutual interconnections. This method of psychological interpretation employed in each of the special mental sciences, must also be the mode of procedure in psychology itself."
+    },
+    {
+      "id": "p0008",
+      "text": "3a. Since natural science investigates the content of experience after abstracting from the experiencing subject, its problem is usually stated as that of acquiring \"knowledge of the outer world\". By the expression outer world is meant the sum total of all the objects presented in experience. The problem of psychology has sometimes been correspondingly defined as \"self-knowledge of the subject\". This definition is, however, inadequate, because the interaction of the subject with the outer world and with other similar subjects is just as much a part of the problem of psychology as are the attributes of the single subject. Furthermore, the expression can easily be interpreted to mean that the outer world and the subject are separate components of experience, or, at least, components which can be distinguished as independent contents of experience, whereas, in truth, outer experience is always connected with the apprehending and knowing functions of the subject, and inner experience always contains ideas from the outer world as indispensable components. This interconnection is the necessary result of the fact that in reality experience is not a mere juxtaposition of different elements, but a single organized whole which requires in each of its components the subject which apprehends the content, and the objects which are presented as content. For this reason natural science can not abstract from the knowing subject entirely, but only from those attributes of the subject which either disappear entirely when we remove the subject in thought, as, for example, the feelings, or from those attributes which must be regarded on the ground of physical researches as belonging to the subject, as, for example, the qualities of sensations. Psychology, on the contrary, has as its subject of treatment the total content of experience in its immediate character."
+    },
+    {
+      "id": "p0009",
+      "text": "The only ground, then, for the division between natural science on the one hand, and psychology and the mental sciences on the other, is to be found in the fact that all experience contains as its factors a content objectively presented, and an experiencing subject. It is to be noted, however, that it is not asserted that a logical definition of these two factors must precede the separation of the sciences from one another, for it is obvious that such definitions are possible only after they have a basis in the investigations of natural science and of psychology, they can never precede these investigations. The common point of departure in both natural science and psychology is the consciousness which accompanies all experience, that in this experience objects are being presented to a subject. There can, at first, be no knowledge of the conditions upon which the distinction is based, or of the definite characteristics by which one factor is to be distinguished from the other. Even the use of the terms object and subject in this connection must be regarded as the application to the first stage of experience, of distinctions which are reached only through developed logical reflection."
+    },
+    {
+      "id": "p0010",
+      "text": "The forms of interpretation in natural science and psychology are supplementary, not only in the sense that the first considers objects after abstracting, as far as possible, from the subject, while the second has to do with the part which the subject plays in the rise of experience; but they are also supplementary in the sense that each takes a different point of view in considering any single content of experience. Natural science seeks to discover the nature of objects without reference to the subject. The knowledge that it produces is therefore mediate or conceptual. In place of the immediate objects of experience, it sets concepts gained from these objects by abstracting from the subjective components of our ideas. This abstraction makes it necessary continually to supplement reality with hypothetical elements. Scientific analysis shows that many components of experience � as, for example, sensations � are subjective effects of objective processes. These objective processes in their objective character, independent of the subject, can therefore never be a part of experience. Science makes up for this lack of direct contact with the objective processes by forming supplementary hypothetical concepts of the objective properties of matter. Psychology, on the other hand, investigates the contents of experience in their complete and actual form, both the ideas that are referred to objects, and also the subjective processes which cluster about these ideas. The knowledge thus gained in psychology is, therefore, immediate and perceptual, � perceptual in the broad sense of the term in which, not only sense-perceptions, but all concrete reality is distinguished from all that is abstract and conceptual in thought. Psychology can exhibit the interconnection of the contents of experience, as these interconnections are actually presented to the subject, only by avoiding entirely the abstractions and supplementary concepts of natural science. Thus, while natural science and psychology are both empirical sciences in the sense that they aim to explain the contents of experience, though from different points of view, it is obvious that, in consequence of the special character of its problem, psychology must be recognized as the more strictly empirical."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-wundt-immediate-experience": {
+      "paragraphId": "p0008",
+      "start": 1754,
+      "end": 1874,
+      "quote": "Psychology, on the contrary, has as its subject of treatment the total content of experience in its immediate character.",
+      "match": "normalized-exact"
+    }
+  }
+}

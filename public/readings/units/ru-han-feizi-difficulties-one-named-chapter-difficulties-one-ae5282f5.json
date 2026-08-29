@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-han-feizi-difficulties-one-named-chapter-difficulties-one-ae5282f5",
+  "title": "篇 Difficulties One",
+  "englishTitle": "Chapter Difficulties One",
+  "work": "《韩非子·难一》",
+  "englishWork": "Han Feizi, Difficulties One",
+  "locator": "篇 Difficulties One",
+  "englishLocator": "Chapter Difficulties One",
+  "version": "中国哲学书电子化计划《韩非子》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Han Feizi; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/hanfeizi/nan-yi",
+  "source": {
+    "url": "https://ctext.org/hanfeizi/nan-yi",
+    "contentType": "text/html",
+    "sha256": "ca0e096f49dd40e15f89972ef79ca2e4288c45e7cdf17aa818ce47a0062c8f39"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "dc2036b3895b8d5a89f13e6b99d8f7f4a0c1392374df7b877d25044d5c8128cc",
+  "inputHash": "a0fb45cb1569b2aec6c34682131e85a899a58fecd595608c49639533234962b0",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[1]"
+    },
+    {
+      "id": "p0002",
+      "text": "晉文公將與楚人戰，召舅犯問之，曰：「吾將與楚人戰，彼眾我寡，為之奈何？」舅犯曰：「臣聞之，繁禮君子，不厭忠信；戰陣之閒，不厭詐偽。君其詐之而已矣。」文公辭舅犯，因召雍季而問之，曰：「我將與楚人戰，彼眾我寡，為之奈何？」雍季對曰：「焚林而田，偷取多獸，後必無獸；以詐遇民，偷取一時，後必無復。」文公曰：「善。」辭雍季，以舅犯之謀與楚人戰以敗之。歸而行爵，先雍季而後舅犯。群臣曰：「城濮之事，舅犯謀也，夫用其言而後其身可乎？」文公曰：「此非君所知也。夫舅犯言，一時之權也；雍季言，萬世之利也。」仲尼聞之，曰：「文公之霸也宜哉！既知一時之權，又知萬世之利。」"
+    },
+    {
+      "id": "p0003",
+      "text": "Duke Wen of Jin was about to fight against the Chu people, and summoned his maternal uncle Fan to ask him. He said, \"I am going to fight against the Chu forces; they are numerous while we are few. What should I do?\" Fan said, \"I have heard that for a gentleman, elaborate rituals are not tiresome; loyalty and trustworthiness are never sufficient. \"In the midst of battle, deception is never excessive.\" \"Your Majesty should simply deceive them.\" Duke Wen of Jin dismissed Fan and then summoned Yong Ji to ask him, saying, \"I am going to fight against the people of Chu; they are numerous while we few. What should I do?\" Yong Ji replied, \"If one burns down the forest to hunt game, he may temporarily catch many animals, but there will certainly be no animals left afterward; \"Deceiving the people for temporary gain will surely lead to no further trust in the future.\" Duke Wen said, \"Well spoken.\" After dismissing Yong Ji, Duke Wen followed Fan's strategy and fought against the Chu forces, defeating them. Upon returning, he awarded ranks and honors, giving precedence to Yong Ji over Fan. The ministers said, \"In the matter of Chengpu, it was Uncle Fan's strategy. How can we honor someone else before him when his advice was followed?\" Duke Wen replied, \"This is not something you understand.\" \"Uncle Fan's words were a temporary expedient; Yong Ji's advice was for the benefit of future generations.\" Confucius heard about this and said, \"It is indeed fitting that Duke Wen became a hegemon! \"He understood both the temporary expedients of the moment and the long-term benefits for future generations.\""
+    },
+    {
+      "id": "p0004",
+      "text": "[2]"
+    },
+    {
+      "id": "p0005",
+      "text": "或曰：雍季之對，不當文公之問。凡對問者，有因問小大緩急而對也，所問高大而對以卑狹，則明主弗受也。今文公問以少遇眾，而對曰「後必無復」，此非所以應也。且文公不知一時之權，又不知萬世之利。戰而勝，則國安而身定，兵強而威立，雖有後復，莫大於此，萬世之利，奚患不至？戰而不勝，則國亡兵弱，身死名息，拔拂今日之死不及，安暇待萬世之利？待萬世之利在今日之勝，今日之勝在詐於敵，詐敵，萬世之利而已。故曰：雍季之對不當文公之問。且文公又不知舅犯之言，舅犯所謂不厭詐偽者，不謂詐其民，請詐其敵也。敵者，所伐之國也，後雖無復，何傷哉？文公之所以先雍季者，以其功耶？則所以勝楚破軍者，舅犯之謀也；以其善言耶？則雍季乃道其後之無復也，此未有善言也。舅犯則以兼之矣。舅犯曰「繁禮君子，不厭忠信」者，忠、所以愛其下也，信、所以不欺其民也。夫既以愛而不欺矣，言孰善於此？然必曰出於詐偽者，軍旅之計也。舅犯前有善言，後有戰勝，故舅犯有二功而後論，雍季無一焉而先賞。「文公之霸，不亦宜乎，」仲尼不知善賞也。"
+    },
+    {
+      "id": "p0006",
+      "text": "Some people said: Yong Ji's reply did not directly address Duke Wen's question. Generally, when answering a question, one should respond according to the scale and urgency of the inquiry. If the question is grand in scope but the answer is narrow and petty, an enlightened ruler will not accept it. Now, Duke Wen asked about how to deal with being outnumbered by the enemy, yet Yong Ji replied, \"There will certainly be no trust in the future,\" which is not an appropriate response. Moreover, Duke Wen did not understand temporary expedients and also did not grasp long-term benefits. If the battle is won, then the state will be secure and his position stable, the military strong and authority established. Even if there are future consequences, none could surpass this benefit; what long-term advantage would he fear not coming? If the battle is lost, then the state will perish and the army weakened, his life ended and reputation faded. Even immediate death would not be avoided; how could he have time to wait for long-term benefits? The long-term benefit of the future depends on victory today, and victory today depends on deceiving the enemy. Deceiving the enemy is itself a long-term advantage. Therefore it is said: Yong Ji's answer did not match Duke Wen's question. Moreover, Duke Wen also did not understand Uncle Fan's words. What Uncle Fan meant by \"deception is never excessive\" was not to deceive the people, but rather to deceive the enemy. The enemy refers to the state one is waging war against; even if there is no future trust afterward, what harm does that cause? Was Duke Wen's reason for honoring Yong Ji first based on his merit? Yet the reason for defeating Chu and breaking their army was Uncle Fan's strategy; Was it because of his eloquent words? Yet Yong Ji merely pointed out that there would be no future trust, which is not a particularly wise or beneficial statement. Uncle Fan combined both practical strategy and moral insight in his advice. Fan said, \"For a gentleman, elaborate rituals are never tiresome; loyalty and trust are never excessive.\" Loyalty is the way to care for one's subordinates, and trustworthiness is the way not to deceive the people. Having already expressed love and sincerity without deception, what words could be better than this? Yet to say that one must resort to deceit is a matter of military strategy. Uncle Fan first gave wise counsel and later achieved a victorious battle, so he had two merits yet was awarded later. Yong Ji had none of these and was rewarded earlier. \"The hegemony of Duke Wen, was it not well deserved?\" Confucius did not understand the art of proper reward."
+    },
+    {
+      "id": "p0007",
+      "text": "[3]"
+    },
+    {
+      "id": "p0008",
+      "text": "歷山之農者侵畔，舜往耕焉，期年，甽畝正。河濱之漁者爭坻，舜往漁焉，期年，而讓長。東夷之陶者器苦窳，舜往陶焉，期年而器牢。仲尼歎曰：「耕、漁與陶，非舜官也，而舜往為之者，所以救敗也。舜其信仁乎！乃躬藉處苦而民從之，故曰：聖人之德化乎！」"
+    },
+    {
+      "id": "p0009",
+      "text": "The farmers at Lishan encroached on each other's fields, so Shun went there to farm. After one year, the furrows and plots became properly aligned. The fishermen by the river competed for good spots; Shun went there to fish, and after one year, they began yielding to those who were older. The potters of the Dongyi made wares that were crude and poorly made; Shun went there to make pottery, and after one year, their products became sturdy. Confucius sighed and said, \"Farming, fishing, and pottery-making were not duties of Shun's official position. Yet he went to do them himself in order to correct failures. How truly virtuous and benevolent was Shun! He personally endured hardship and toil, yet the people followed him. Therefore it is said: \"The moral influence of a sage reaches far!\""
+    },
+    {
+      "id": "p0010",
+      "text": "[4]"
+    },
+    {
+      "id": "p0011",
+      "text": "或問儒者曰：「方此時也，堯安在？」其人曰：「堯為天子。」「然則仲尼之聖堯奈何？聖人明察在上位，將使天下無姦也。今耕漁不爭，陶器不窳，舜又何德而化？舜之救敗也，則是堯有失也；賢舜則去堯之明察，聖堯則去舜之德化；不可兩得也。楚人有鬻楯與矛者，譽之曰：『吾楯之堅，莫能陷也。』又譽其矛曰：『吾矛之利，於物無不陷也。』或曰：『以子之矛陷子之楯，何如？』其人弗能應也。夫不可陷之楯與無不陷之矛，不可同世而立。今堯、舜之不可兩譽，矛楯之說也。且舜救敗，期年已一過，三年已三過，舜有盡，壽有盡，天下過無已者，以有盡逐無已，所止者寡矣。賞罰使天下必行之，令曰：『中程者賞，弗中程者誅。』令朝至暮變，暮至朝變，十日而海內畢矣，奚待期年？舜猶不以此說堯令從己，乃躬親，不亦無術乎？且夫以身為苦而後化民者，堯、舜之所難也；處勢而驕下者，庸主之所易也。將治天下，釋庸主之所易，道堯、舜之所難，未可與為政也。」"
+    },
+    {
+      "id": "p0012",
+      "text": "Someone asked a Confucian scholar, \"At this time, where was Yao?\" The person replied, \"Yao was the Son of Heaven.\" \"If that is so, how did Confucius praise Yao as a sage?\" A sage who is wise and in the position of authority will ensure there are no evildoers in the world. Now, if farming and fishing were done without contention, pottery was made well, what virtue did Shun need to transform them? If Shun had to correct these failures, then it means Yao had made a mistake; To praise Shun is to question Yao's wisdom and vigilance; to praise Yao as a sage is to negate Shun's moral influence; Both cannot be true at the same time. A man from Chu who sold shields and spears boasted, \"My shield is so strong that nothing can pierce it.\" He also praised his spear, saying, \"My spear is so sharp that there is no object it cannot pierce.\" Someone asked him, \"What if you use your own spear to pierce your own shield? What would happen?\" The man could not respond. A shield that cannot be pierced and a spear that can pierce anything cannot coexist in the same world. Now, the fact that Yao and Shun cannot both be praised is akin to the paradox of the spear and shield. Moreover, if Shun corrected failures, after one year he could only correct one mistake; in three years, at most three. Yet Shun's life was limited and human lifespan finite. If the mistakes of the world were endless, then with a finite life pursuing infinite errors, there would be few things that could truly be stopped. Rewards and punishments ensure that the people of the world must act accordingly. The decree says, \"Those who meet the standard will be rewarded; those who fail to meet it will be punished.\" If an order is issued in the morning and changed by evening, or one given at dusk is altered by dawn, then within ten days the whole realm would be transformed. Why wait a full year? Shun did not use this method to persuade Yao and make people follow him, but instead personally involved himself. Was that not a sign of lacking strategy? Moreover, the idea that one must endure hardship oneself in order to transform the people is something even Yao and Shun found difficult; To hold a position of power and dominate subordinates through authority is something an ordinary ruler finds easy. \"To govern the world, yet abandon what an ordinary ruler can easily do and instead pursue what even Yao and Shun found hard—such a person cannot be entrusted with political affairs.\""
+    },
+    {
+      "id": "p0013",
+      "text": "[5]"
+    },
+    {
+      "id": "p0014",
+      "text": "管仲有病，桓公往問之，曰：「仲父病，不幸卒於大命，將奚以告寡人？」管仲曰：「微君言，臣故將謁之。願君去豎刁，除易牙，遠衛公子開方。易牙為君主味，君惟人肉未嘗，易牙烝其子首而進之；夫人情莫不愛其子，今弗愛其子，安能愛君？君妒而好內，豎刁自宮以治內，人情莫不愛其身，身且不愛，安能愛君？聞開方事君十五年，齊、衛之間不容數日行，棄其母久宦不歸，其母不愛，安能愛君？臣聞之：『矜偽不長，蓋虛不久。』願君去此三子者也。」管仲卒死，桓公弗行，及桓公死，蟲出尸不葬。"
+    },
+    {
+      "id": "p0015",
+      "text": "Guan Zhong was ill, and Duke Huan of Qi went to visit him. He said, \"Master Zhong is sick; if it were unfortunate that you pass away before your time, what would you advise me?\" Guan Zhong replied, \"Even without your words, I was about to bring it up. I hope Your Majesty will remove Shudiao, expel Yiya, and keep away Wei Gongzi Kaifang. Yiya prepares flavors for the ruler; since you have not tasted human flesh, Yiya boiled his own son's head and presented it to you; People naturally love their children. Now he does not love his own child—how can he possibly love the ruler? You are jealous and fond of concubines, so Shudiao castrated himself to manage the inner palace. Human nature is such that people love their own bodies; if he does not even love his body, how can he possibly love you? I have heard that Wei Gongzi Kaifang has served you for fifteen years. The distance between Qi and Wei is no more than a few days' journey, yet he abandoned his mother and remained in office without returning home for a long time. If he does not love his mother, how can he possibly love the ruler?\" I have heard it said: \"False pride cannot last long; covering up emptiness will not endure for long.\" \"I hope, Your Majesty, that you will remove these three men.\" After Guan Zhong died, Duke Huan did not follow his advice. When Duke Huan himself died, worms came out of the corpse and it was left unburied."
+    },
+    {
+      "id": "p0016",
+      "text": "[6]"
+    },
+    {
+      "id": "p0017",
+      "text": "或曰：管仲所以見告桓公者，非有度者之言也。所以去豎刁、易牙者，以不愛其身，適君之欲也。曰「不愛其身，安能愛君」，然則臣有盡死力以為其主者，管仲將弗用也。曰「不愛其死力，安能愛君」，是君去忠臣也。且以不愛其身，度其不愛其君，是將以管仲之不能死公子糾度其不死桓公也，是管仲亦在所去之域矣。明主之道不然，設民所欲以求其功，故為爵祿以勸之；設民所惡以禁其姦，故為刑罰以威之。慶賞信而刑罰必，故君舉功於臣，而姦不用於上，雖有豎刁，其奈君何？且臣盡死力以與君市，君垂爵祿以與臣市，君臣之際，非父子之親也，計數之所出也。君有道，則臣盡力而姦不生；無道，則臣上塞主明而下成私。管仲非明此度數於桓公也，使去豎刁，一豎刁又至，非絕姦之道也。且桓公所以身死蟲流出尸不葬者，是臣重也；臣重之實，擅主也。有擅主之臣，則君令不下究，臣情不上通，一人之力能隔君臣之間，使善敗不聞，禍福不通，故有不葬之患也。明主之道，一人不兼官，一官不兼事。卑賤不待尊貴而進，論，大臣不因左右而見。百官修通，群臣輻湊。有賞者君見其功，有罰者君知其罪。見知不悖於前，賞罰不弊於後，安有不葬之患？管仲非明此言於桓公也，使去三子，故曰管仲無度矣。"
+    },
+    {
+      "id": "p0018",
+      "text": "Some said: What Guan Zhong advised Duke Huan to do was not the words of a man with proper standards. The reason for removing Shudiao and Yiya is that they do not love themselves, but merely cater to the ruler's desires. It is said, \"If one does not love himself, how can he love the ruler?\" Then if a minister gives his utmost strength and even life for his lord, Guan Zhong would have rejected such a person. To say \"If one does not give up his strength and life, how can he love the ruler?\" is for the ruler to drive away loyal ministers. Moreover, to judge that someone who does not love himself must also not love his ruler is to use Guan Zhong's failure to die for Gongzi Jiu as a measure of his unwillingness to die for Duke Huan. By this standard, even Guan Zhong would be among those to be removed. An enlightened ruler does not act in this way. He sets up what the people desire in order to achieve his goals, so he establishes ranks and rewards to encourage them; He uses what the people fear as a means to prevent wrongdoing, thus establishing punishments to instill awe. When rewards are reliable and punishments certain, the ruler can recognize merit in his ministers while preventing corruption at court. Even if someone like Shudiao exists, what could he do to the ruler? Moreover, a minister offers his life and strength in exchange for the ruler's rewards; the ruler grants ranks and benefits in return. The relationship between ruler and minister is not as intimate as that of father and son—it is based on calculation and mutual benefit. If the ruler follows the right way, then ministers will exert their full efforts and corruption will not arise; If the ruler is unjust, then ministers may block the sovereign's wisdom above while forming private interests below. Guan Zhong did not explain these principles clearly to Duke Huan. Telling him to remove Shudiao would only lead to another like him arriving—this is not the way to eradicate corruption permanently. Moreover, the reason Duke Huan died and his corpse was left unburied with worms crawling out was because the ministers held too much power; The reality of powerful ministers is that they usurp authority from the ruler. When there are ministers who usurp the ruler's authority, then royal decrees do not reach their full implementation and the true feelings of officials do not ascend to the sovereign. A single individual has enough power to block communication between ruler and minister, preventing knowledge of success or failure from being known, and cutting off understanding of blessings and misfortunes—thus leading to a fate like Duke Huan's unburied corpse. The way of an enlightened ruler is that one person does not hold multiple offices, and one office does not handle multiple duties. Lowly officials do not rely on the powerful to be promoted; appointments are based on merit, and high-ranking ministers do not depend on court favorites for audience. All government offices function smoothly, and officials from all ranks converge like spokes of a wheel to the center. Those who are rewarded have their merits known by the ruler; those who are punished have their crimes understood by him. When knowledge of merit and crime is clear beforehand, and rewards and punishments are not corrupted afterward, how could there be a fate like an unburied corpse? Guan Zhong did not clearly explain these principles to Duke Huan, so he advised the removal of those three men. Therefore it is said that Guan Zhong lacked proper standards."
+    },
+    {
+      "id": "p0019",
+      "text": "[7]"
+    },
+    {
+      "id": "p0020",
+      "text": "襄子圍於晉陽中，出圍，賞有功者五人，高赫為賞首。張孟談曰：「晉陽之事，赫無大功，今為賞首何也？」襄子曰：「晉陽之事，寡人國家危，社稷殆矣。吾群臣無有不驕侮之意者，惟赫子不失君臣之禮，是以先之。」仲尼聞之曰：「善賞哉襄子！賞一人而天下為人臣者莫敢失禮矣。」"
+    },
+    {
+      "id": "p0021",
+      "text": "Xiangzi was besieged in Jinyang, and after breaking the siege, he rewarded five men for their contributions. Gao He received the highest reward. Zhang Mengtan asked, \"In the matter of Jinyang, Gao He did not achieve great merit; why is he now receiving the highest reward?\" Xiangzi replied, \"In the matter of Jinyang my state was in danger and my dynasty nearly perished. None of my ministers showed any concern or respect, but only Gao He did not lose the proper etiquette between ruler and minister. That is why he was rewarded first.\" Confucius heard of this and said, \"How excellent was Xiangzi's reward! Rewarding one man has ensured that all ministers throughout the world dare not fail in their proper etiquette.\""
+    },
+    {
+      "id": "p0022",
+      "text": "[8]"
+    },
+    {
+      "id": "p0023",
+      "text": "或曰：仲尼不知善賞矣。夫善賞罰者，百官不敢侵職，群臣不敢失禮。上設其法，而下無姦詐之心，如此，則可謂善賞罰矣。使襄子於晉陽也，令不行，禁不止，是襄子無國，晉陽無君也，尚誰與守哉？今襄子於晉陽也，知氏灌之，臼灶生龜，而民無反心，是君臣親也；襄子有君臣親之澤，操令行禁止之法，而猶有驕侮之臣，是襄子失罰也。為人臣者，乘事而有功則賞。今赫僅不驕侮而襄子賞之，是失賞也。明主賞不加於無功，罰不加於無罪。今襄子不誅驕侮之臣，而賞無功之赫，安在襄子之善賞也？故曰仲尼不知善賞。"
+    },
+    {
+      "id": "p0024",
+      "text": "Some say: Confucius did not understand what constitutes good rewarding. One who administers rewards and punishments properly ensures that all officials dare not encroach upon their duties, and ministers dare not fail in etiquette. When the ruler establishes clear laws, and subordinates have no thoughts of deceit or fraud, then this may be called good administration of rewards and punishments. If Xiangzi had been in Jinyang at that time, and orders could not be carried out or prohibitions enforced, then Xiangzi would have no state, and Jinyang would have no ruler—then who else would remain to defend it? Now, when Xiangzi was in Jinyang and the Zhi clan flooded it, even as cooking pots were turned into turtle nests, the people still had no rebellious thoughts—this shows that ruler and minister were united. Xiangzi had the benevolence of a ruler and minister united, and wielded the authority to ensure orders were carried out and prohibitions enforced; yet he still had ministers who acted with arrogance and disrespect—this was Xiangzi's failure in punishment. As a minister, one receives reward when achieving merit through action. Now Gao He merely did not act with arrogance or disrespect, yet Xiangzi rewarded him—this is a failure in rewarding. A wise ruler does not bestow rewards upon those without merit, nor impose punishments on the innocent. Now Xiangzi did not punish his arrogant and disrespectful ministers, yet rewarded Gao He who had no merit—where is the excellence of Xiangzi's rewarding? Therefore it is said that Confucius did not know what constitutes good rewarding."
+    },
+    {
+      "id": "p0025",
+      "text": "[9]"
+    },
+    {
+      "id": "p0026",
+      "text": "晉平公與群臣飲，飲酣，乃喟然歎曰：「莫樂為人君！惟其言而莫之違。」師曠侍坐於前，援琴撞之，公披衽而避，琴壞於壁。公曰：「太師誰撞？」師曠曰：「今者有小人言於側者，故撞之。」公曰：「寡人也。」師曠曰：「啞！是非君人者之言也。」左右請除之。公曰：「釋之，以為寡人戒。」"
+    },
+    {
+      "id": "p0027",
+      "text": "Duke Ping of Jin was drinking with his ministers, and when the wine flowed freely, he sighed and said, \"Nothing is more joyful than being a ruler! For no one dares to oppose his words.\" Shikuang was seated in attendance before him, took up a zither and struck it at the duke. Duke Ping flung open his robe to avoid it, and the zither shattered against the wall. The duke asked, \"Master Shikuang, whom did you strike?\" Shikuang replied, \"Just now there was a petty person speaking at your side, so I struck him.\" The duke said, \"It is I.\" Shikuang said, \"Hush! This is not the kind of remark a ruler should make.\" Those around him requested to punish Shikuang. The duke said, \"Let it be; let this serve as a warning for me.\""
+    },
+    {
+      "id": "p0028",
+      "text": "[10]"
+    },
+    {
+      "id": "p0029",
+      "text": "或曰：平公失君道，師曠失臣禮。夫非其行而誅其身，君之於臣也；非其行則陳其言，善諫不聽則遠其身者，臣之於君也。今師曠非平公之行，不陳人臣之諫，而行人主之誅，舉琴而親其體，是逆上下之位，而失人臣之禮也。夫為人臣者，君有過則諫，諫不聽則輕爵祿以待之，此人臣之禮義也。今師曠非平公之過，舉琴而親其體，雖嚴父不加於子，而師曠行之於君，此大逆之術也。臣行大逆，平公喜而聽之，是失君道也。故平公之跡，不可明也，使人主過於聽而不悟其失。師曠之行亦不可明也，使姦臣襲極諫而飾弒君之道。不可謂兩明，此為兩過。故曰：平公失君道，師曠亦失臣禮矣。"
+    },
+    {
+      "id": "p0030",
+      "text": "Some say: Duke Ping failed in the way of rulership, and Shikuang failed in ministerial etiquette. To punish a subject for his actions is what a ruler does to his ministers; To point out the ruler's faults with words, and if good advice is not heeded to then distance oneself from him—this is what a minister does toward his ruler. Now, Shikuang criticized Duke Ping's conduct without offering the advice proper to a minister and instead resorted to the punishment of a ruler. He took up his zither and struck him directly—this was reversing the positions of superior and inferior, and violating the etiquette of a subject. As a minister, when the ruler makes an error one should advise him; if he does not listen, then one should lightly regard rank and salary in waiting for change—this is the proper conduct of a subject. Now, Shikuang did not merely point out Duke Ping's error but took up the zither and struck his body directly. Even a strict father would not do this to his son, yet Shikuang acted thus toward his ruler—this is an act of great rebellion. A minister committing such a grave offense, and Duke Ping was pleased and accepted it—this shows his failure in the way of rulership. Therefore, Duke Ping's actions cannot be justified; they encourage sovereigns to listen excessively without realizing their mistakes. Shikuang's conduct is also indefensible, as it encourages treacherous ministers to imitate extreme remonstration and disguise the path of regicide. It cannot be called a case of mutual righteousness; this is an instance of mutual fault. Therefore it is said: Duke Ping failed in rulership, and Shikuang also failed in ministerial etiquette."
+    },
+    {
+      "id": "p0031",
+      "text": "[11]"
+    },
+    {
+      "id": "p0032",
+      "text": "齊桓公時，有處士曰小臣稷，桓公三往而弗得見。桓公曰：「吾聞布衣之士，不輕爵祿，無以易萬乘之主；萬乘之主，不好仁義，亦無以下布衣之士。」於是五往乃得見之。"
+    },
+    {
+      "id": "p0033",
+      "text": "During the time of Duke Huan of Qi, there was a recluse named Xiaochen Ji; Duke Huan visited him three times but could not meet with him. Duke Huan said, \"I have heard that a commoner who does not lightly regard rank and salary cannot be compared to the ruler of ten thousand chariots; a ruler of ten thousand chariots, who does not value benevolence and righteousness, cannot be expected to humble himself before a commoner.\" Thus he visited five times before finally meeting with him."
+    },
+    {
+      "id": "p0034",
+      "text": "[12]"
+    },
+    {
+      "id": "p0035",
+      "text": "或曰：桓公不知仁義。夫仁義者，憂天下之害，趨一國之患，不避卑辱謂之仁義。故伊尹以中國為亂，道為宰于湯；百里奚以秦為亂，道為虜于穆公；皆憂天下之害，趨一國之患，不辭卑辱，故謂之仁義。今桓公以萬乘之勢，下匹夫之士，將欲憂齊國，而小臣不行，見小臣之忘民也，忘民不可謂仁義。仁義者，不失人臣之禮，不敗君臣之位者也。是故四封之內，執會而朝名曰臣，臣吏分職受事名曰萌。今小臣在民萌之眾，而逆君上之欲，故不可謂仁義。仁義不在焉，桓公又從而禮之。使小臣有智能而遁桓公，是隱也，宜刑；若無智能而虛驕矜桓公，是誣也，宜戮；小臣之行，非刑則戮。桓公不能領臣主之理，而禮刑戮之人，是桓公以輕上侮君之俗教於齊國也，非所以為治也。故曰：桓公不知仁義。"
+    },
+    {
+      "id": "p0036",
+      "text": "Some say: Duke Huan did not understand benevolence and righteousness. Benevolence and righteousness mean worrying about the harms to the world, rushing toward dangers for one's state, and not avoiding humiliation or disgrace—this is called benevolence and righteousness. Therefore Yi Yin, seeing disorder in the central lands, served as a cook to Tang; and Bai Li Xi, seeing chaos in Qin, became a captive and served Duke Mu. They all worried about the harms of the world and rushed toward dangers for their state, without shying away from humiliation or disgrace; thus they are called benevolent and righteous. Now, Duke Huan used the power of a ruler over ten thousand chariots to humble himself before an ordinary man, hoping that Xiaochen would worry about the state of Qi. Yet Xiaochen did not respond—this shows Xiaochen's disregard for the people. To forget the people cannot be called benevolence or righteousness. Benevolence and righteousness are demonstrated by not failing in ministerial etiquette, and by not undermining the proper relationship between ruler and subject. Therefore, within the four borders of a state, those who attend court assemblies are called ministers; officials assigned duties and responsibilities are called subjects. Now Xiaochen Ji was among the common people, yet defied the ruler's wishes—thus he cannot be called benevolent or righteous. Since benevolence and righteousness were not present in him, Duke Huan still followed up with courtesy toward Xiaochen Ji. If Xiaochen had wisdom and ability yet evaded Duke Huan, this would be concealment; he should have been punished; if he lacked wisdom and ability but falsely acted with pride toward Duke Huan, this is slander; he should have been executed; Xiaochen Ji's conduct deserved either punishment or execution. Duke Huan failed to uphold the principles of rulership and ministerial conduct, yet showed courtesy toward a man deserving punishment or execution. This was Duke Huan promoting in Qi a custom of disrespecting superiors and insulting the ruler—this is not how to govern properly. Therefore it is said: Duke Huan did not understand benevolent righteousness."
+    },
+    {
+      "id": "p0037",
+      "text": "[13]"
+    },
+    {
+      "id": "p0038",
+      "text": "靡笄之役，韓獻子將斬人，郤獻子聞之，駕往救之，比至，則已斬之矣。郤子因曰：「胡不以徇？」其僕曰：「曩不將救之乎？」郤子曰：「吾敢不分謗乎？」"
+    },
+    {
+      "id": "p0039",
+      "text": "During the campaign at Miji, Han Xianzi was about to execute a man. Xi Xianzi heard of it and hurried there by carriage to save him; but when he arrived, the execution had already taken place. Xi Xianzi then asked, \"Why was his crime not announced publicly?\" His attendant replied, \"Earlier you did not go to save him, why now ask this question?\" Xi Xianzi said, \"How could I dare not distinguish between blame and praise?\""
+    },
+    {
+      "id": "p0040",
+      "text": "[14]"
+    },
+    {
+      "id": "p0041",
+      "text": "或曰：郤子言不可不察也，非分謗也。韓子之所斬也，若罪人則不可救，救罪人，法之所以敗也，法敗則國亂；若非罪人，則勸之以徇，勸之以徇，是重不辜也，重不辜，民所以起怨者也，民怨則國危。郤子之言，非危則亂，不可不察也。且韓子之所斬若罪人，郤子奚分焉？斬若非罪人，則已斬之矣，而郤子乃至，是韓子之謗已成，而郤子且後至也。夫郤子曰「以徇」，不足以分斬人之謗，而又生徇之謗。是子言分謗也？昔者紂為炮烙，崇侯、惡來又曰斬涉者之脛也，奚分於紂之謗？且民之望於上也甚矣，韓子弗得，且望郤子之得之也；今郤子俱弗得，則民絕望於上矣，故曰：郤子之言非分謗也，益謗也。且郤子之往救罪也，以韓子為非也，不道其所以為非，而勸之「以徇」，是使韓子不知其過也。夫下使民望絕於上，又使韓子不知其失，吾未得郤子之所以分謗者也。"
+    },
+    {
+      "id": "p0042",
+      "text": "Some say: Xi Xianzi's words must be examined carefully; he was not distinguishing between blame and praise. The man Han Xianzi executed—if guilty, he could not be saved; to save a criminal is the reason laws fail. When laws fail, the state falls into disorder; if innocent, to publicly announce his crime as a warning is to place emphasis on the wrongly accused. Emphasizing the wrongly accused causes resentment among the people; when the people are resentful, the state becomes endangered. Xi Xianzi's words either endanger or disrupt order—they must be carefully examined. Moreover, if the man Han Xianzi executed was guilty, what distinction did Xi Xianzi make? If the man was not guilty, then he had already been executed by the time Xi Xianzi arrived; thus Han Xianzi's blame had already taken shape, and Xi Xianzi came too late. Xi Xianzi's suggestion to \"announce the crime publicly\" was insufficient to clear the blame of having executed a man, and instead created new blame over public announcement. Is this what you mean by distinguishing between blame? In the past, King Zhou established the punishment of fire pits; Chong Hou and E Lai also said to cut off the legs of those who crossed paths. How did they differ from the blame on King Zhou? Moreover, the people place great expectations upon their rulers; if Han Xianzi failed to deliver justice, they would expect Xi Xianzi to do so. Now that Xi Xianzi also failed, the people will lose all hope in their superiors. Therefore it is said: Xi Xianzi's words did not distinguish blame; they added to it. Moreover, when Xi Xianzi went to save a criminal, he regarded Han Xianzi as wrong. Yet without explaining why Han was wrong, he advised \"to announce the crime publicly\"—this caused Han Xianzi not to recognize his mistake. To cause the people to lose hope in their rulers, and also prevent Han Xianzi from understanding his error—I do not see how Xi Xianzi distinguished blame."
+    },
+    {
+      "id": "p0043",
+      "text": "[15]"
+    },
+    {
+      "id": "p0044",
+      "text": "桓公解管仲之束縛而相之。管仲曰：「臣有寵矣，然而臣卑。」公曰：「使子立高、國之上。」管仲曰：「臣貴矣，然而臣貧。」公曰：「使子有三歸之家。」管仲曰：「臣富矣，然而臣疏。」於是立以為仲父。霄略曰：「管仲以賤為不可以治國，故請高、國之上；以貧為不可以治富，故請三歸；以疏為不可以治親，故處仲父。管仲非貪，以便治也。」"
+    },
+    {
+      "id": "p0045",
+      "text": "Duke Huan released Guan Zhong from his bonds and appointed him as prime minister. Guan Zhong said, \"I have been favored, yet I remain low in rank.\" The duke said, \"Let you be placed above Gao and Guo.\" Guan Zhong said, \"I am honored now, yet I remain poor.\" The duke said, \"Let you have a residence with three courtyards.\" Guan Zhong said, \"I am wealthy now, yet I remain distant from the ruler.\" Thus he was appointed as Zhongfu. Xiao Lüe said, \"Guan Zhong believed that a lowly person could not govern the state, so he requested to be placed above Gao and Gu.\" He thought that poverty prevented one from managing wealth, hence his request for a residence with three courtyards; he believed that being distant could not manage closeness to the ruler, so he took up the title Zhongfu.\" \"Guan Zhong was not greedy; it was for the convenience of governance.\""
+    },
+    {
+      "id": "p0046",
+      "text": "[16]"
+    },
+    {
+      "id": "p0047",
+      "text": "或曰：今使臧獲奉君令詔卿相，莫敢不聽，非卿相卑而臧獲尊也，主令所加，莫敢不從也。今使管仲之治，不緣桓公，是無君也，國無君不可以為治。若負桓公之威，下桓公之令，是臧獲之所以信也，奚待高、國、仲父之尊而後行哉？當世之行事都丞之下徵令者，不辟尊貴，不就卑賤。故行之而法者，雖巷伯信乎卿相；行之而非法者，雖大吏詘乎民萌。今管仲不務尊主明法，而事增寵益爵，是非管仲貪欲富貴，必闇而不知術也。故曰：管仲有失行，霄略有過譽。"
+    },
+    {
+      "id": "p0048",
+      "text": "Some say: If now a servant or slave were to deliver the ruler's orders to ministers and high officials, none would dare disobey. This is not because the ministers are lowly while servants are noble, but because no one dares defy an order from the sovereign. Now, if Guan Zhong's governance did not rely on Duke Huan, it would mean there is no ruler. A state without a sovereign cannot be governed properly. If Guan Zhong relied on Duke Huan's authority and carried out his orders, this is the same as how a servant gains credibility. Why then did he need to be elevated above Gao, Guo, or even given the title Zhongfu before being obeyed? In the world of governance, officials below the rank of capital city administrator who issue commands do not avoid those of high status or seek out those of lowly position. Therefore, when actions conform to law, even a palace servant can be trusted by ministers and officials; when actions violate the law, even high-ranking officials may bow before commoners. Now Guan Zhong did not strive to honor the ruler or clarify laws, but instead pursued increased favor and higher rank. This must mean either that Guan Zhong was greedy for wealth and status, or he was ignorant of proper governance. Therefore it is said: Guan Zhong had a lapse in conduct, and Xiao Lüe gave excessive praise."
+    },
+    {
+      "id": "p0049",
+      "text": "[17]"
+    },
+    {
+      "id": "p0050",
+      "text": "韓宣王問於樛留：「吾欲兩用公仲、公叔其可乎？」樛留對曰：「昔魏兩用樓、翟而亡西河，楚兩用昭、景而亡鄢、郢，今君兩用公仲、公叔，此必將爭事而外市，則國必憂矣。」"
+    },
+    {
+      "id": "p0051",
+      "text": "King Xuan of Han asked Jiu Liu, \"I wish to employ both Gong Zhong and Gong Shu at the same time. Is this possible?\" Jiu Liu replied, \"In the past, Wei employed both Lou and Zhai at the same time and lost Xihhe; Chu employed Zhao and Jing together and lost Yan and Ying. Now Your Majesty wishes to employ Gong Zhong and Gong Shu simultaneously—this will surely lead them to compete for power and seek external alliances, which will bring great trouble to your state.\""
+    },
+    {
+      "id": "p0052",
+      "text": "[18]"
+    },
+    {
+      "id": "p0053",
+      "text": "或曰：昔者齊桓公兩用管仲、鮑叔，成湯兩用伊尹、仲虺。夫兩用臣者國之憂，則是桓公不霸，成湯不王也。湣王一用淖齒而手死乎東廟，主父一用李兌，減食而死。主有術，兩用不為患；無術，兩用則爭事而外市，一則專制而劫弒。今留無術以規上，使其主去兩用一，是不有西河、鄢、郢之憂，則必有身死減食之患。是樛留未有善以知言也。"
+    },
+    {
+      "id": "p0054",
+      "text": "Some say: In the past, Duke Huan of Qi employed both Guan Zhong and Bao Shu together; King Tang employed Yi Yin and Zhong Hui simultaneously. If employing two ministers at the same time is a source of national concern, then Duke Huan would not have become dominant and King Tang would not have ruled as sovereign. King Min used Nao Chi alone, and was killed by his own hands at the Eastern Temple; Lord Zhufu employed Li Dui alone, who starved him to death. If a ruler has skillful governance, employing two ministers will not cause trouble; if he lacks such skill, employing two will lead them to compete and seek outside alliances, while appointing one alone may result in autocratic rule and even regicide. Now, Jiu Liu offered no skillful advice to his ruler. By urging the king to abandon dual appointments and favor a single minister, he ensured that there would be neither the loss of Xihhe or Yan and Ying, nor the danger of being killed by starvation. This shows that Jiu Liu did not possess sufficient wisdom to understand the nature of governance."
+    }
+  ],
+  "anchors": {
+    "chinese-han-feizi-spear-shield": {
+      "paragraphId": "p0011",
+      "start": 179,
+      "end": 199,
+      "quote": "夫不可陷之楯与无不陷之矛，不可同世而立。",
+      "match": "normalized-exact"
+    }
+  }
+}

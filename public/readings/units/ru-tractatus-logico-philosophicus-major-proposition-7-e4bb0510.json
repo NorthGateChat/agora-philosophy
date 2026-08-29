@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-tractatus-logico-philosophicus-major-proposition-7-e4bb0510",
+  "title": "主命题 7",
+  "englishTitle": "Major proposition 7",
+  "work": "《逻辑哲学论》",
+  "englishWork": "Tractatus Logico-Philosophicus",
+  "locator": "主命题 7",
+  "englishLocator": "Major proposition 7",
+  "version": "Wikisource 公版英文文本，《逻辑哲学论》7，Ogden/Ramsey 1922 年英译",
+  "englishVersion": "Wikisource public-domain English text, Tractatus 7, Ogden/Ramsey translation (1922)",
+  "sourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/7",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/7",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Tractatus+Logico-Philosophicus%2F7&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "6e19d6fba2c87c59654821a71047a5a125ae72af3b262e1f4624adc41c6571f6"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "cf853d8763d948ac851f7813a2ad76df8f52347a0df8bd084626baea3e262e28",
+  "inputHash": "847a121cc6576a63ff948b5ca078027f3656a656b637cd1db8eb17dbc4471bc5",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "7 Whereof one cannot speak, thereof one must be silent."
+    }
+  ],
+  "anchors": {
+    "wittgenstein-silence": {
+      "paragraphId": "p0001",
+      "start": 2,
+      "end": 55,
+      "quote": "Whereof one cannot speak, thereof one must be silent.",
+      "match": "normalized-exact"
+    }
+  }
+}

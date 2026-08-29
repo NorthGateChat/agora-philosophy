@@ -1,8 +1,6 @@
-const DEFAULT_THOUGHT_COUNT = 27;
-
 export function dailyThoughtIndex(
+  thoughtCount: number,
   date = new Date(),
-  thoughtCount = DEFAULT_THOUGHT_COUNT,
 ) {
   const parts = new Intl.DateTimeFormat("en", {
     timeZone: "Asia/Shanghai",
@@ -14,5 +12,6 @@ export function dailyThoughtIndex(
   const year = Number(values.year);
   const month = Number(values.month);
   const day = Number(values.day);
-  return (year * 372 + month * 31 + day) % thoughtCount;
+  const count = Math.max(1, Math.trunc(thoughtCount));
+  return (year * 372 + month * 31 + day) % count;
 }

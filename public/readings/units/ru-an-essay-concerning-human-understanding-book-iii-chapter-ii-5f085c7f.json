@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-essay-concerning-human-understanding-book-iii-chapter-ii-5f085c7f",
+  "title": "卷 III · 章 II",
+  "englishTitle": "Book III · Chapter II",
+  "work": "《人类理解论》",
+  "englishWork": "An Essay Concerning Human Understanding",
+  "locator": "卷 III · 章 II",
+  "englishLocator": "Book III · Chapter II",
+  "version": "古登堡计划英文文本，《人类理解论》第三卷第 2 章第 2 节",
+  "englishVersion": "Project Gutenberg English text, An Essay Concerning Humane Understanding, Book III, Chapter II, §2",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/10616/pg10616.html.utf8",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/1/0/6/1/10616/10616-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/1/0/6/1/10616/10616-0.txt",
+    "contentType": "text/plain",
+    "sha256": "b43466cb6cd621f9b6cd0116e05c4c826a7a916061ded463090dd97afa0dae3f"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "380e13f3f32e17a44d369dbcfaa4684281547f5150154cd1d00789bfd56367c2",
+  "inputHash": "b86db0a991d64df55681e775d6b854dcf15dcf6431cd025a241455f0600326e6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER II."
+    },
+    {
+      "id": "p0002",
+      "text": "OF THE SIGNIFICATION OF WORDS."
+    },
+    {
+      "id": "p0003",
+      "text": "1. Words are sensible Signs, necessary for Communication of Ideas."
+    },
+    {
+      "id": "p0004",
+      "text": "Man, though he have great variety of thoughts, and such from which others as well as himself might receive profit and delight; yet they are all within his own breast, invisible and hidden from others, nor can of themselves be made to appear. The comfort and advantage of society not being to be had without communication of thoughts, it was necessary that man should find out some external sensible signs, whereof those invisible ideas, which his thoughts are made up of, might be made known to others. For this purpose nothing was so fit, either for plenty or quickness, as those articulate sounds, which with so much ease and variety he found himself able to make. Thus we may conceive how WORDS, which were by nature so well adapted to that purpose, came to be made use of by men as the signs of their ideas; not by any natural connexion that there is between particular articulate sounds and certain ideas, for then there would be but one language amongst all men; but by a voluntary imposition, whereby such a word is made arbitrarily the mark of such an idea. The use, then, of words, is to be sensible marks of ideas; and the ideas they stand for are their proper and immediate signification."
+    },
+    {
+      "id": "p0005",
+      "text": "2. Words, in their immediate Signification, are the sensible Signs of his Ideas who uses them."
+    },
+    {
+      "id": "p0006",
+      "text": "The use men have of these marks being either to record their own thoughts, for the assistance of their own memory; or, as it were, to bring out their ideas, and lay them before the view of others: words, in their primary or immediate signification, stand for nothing but THE IDEAS IN THE MIND OF HIM THAT USES THEM, how imperfectly soever or carelessly those ideas are collected from the things which they are supposed to represent. When a man speaks to another, it is that he may be understood: and the end of speech is, that those sounds, as marks, may make known his ideas to the hearer. That then which words are the marks of are the ideas of the speaker: nor can any one apply them as marks, immediately, to anything else but the ideas that he himself hath: for this would be to make them signs of his own conceptions, and yet apply them to other ideas; which would be to make them signs and not signs of his ideas at the same time; and so in effect to have no signification at all. Words being voluntary signs, they cannot be voluntary signs imposed by him on things he knows not. That would be to make them signs of nothing, sounds without signification. A man cannot make his words the signs either of qualities in things, or of conceptions in the mind of another, whereof he has none in his own. Till he has some ideas of his own, he cannot suppose them to correspond with the conceptions of another man; nor can he use any signs for them: for thus they would be the signs of he knows not what, which is in truth to be the signs of nothing. But when he represents to himself other men's ideas by some of his own, if he consent to give them the same names that other men do, it is still to his own ideas; to ideas that he has, and not to ideas that he has not."
+    },
+    {
+      "id": "p0007",
+      "text": "3. Examples of this."
+    },
+    {
+      "id": "p0008",
+      "text": "This is so necessary in the use of language, that in this respect the knowing and the ignorant, the learned and the unlearned, use the words they speak (with any meaning) all alike. They, in every man's mouth, stand for the ideas he has, and which he would express by them. A child having taken notice of nothing in the metal he hears called GOLD, but the bright shining yellow colour, he applies the word gold only to his own idea of that colour, and nothing else; and therefore calls the same colour in a peacock's tail gold. Another that hath better observed, adds to shining yellow great weight: and then the sound gold, when he uses it, stands for a complex idea of a shining yellow and a very weighty substance. Another adds to those qualities fusibility: and then the word gold signifies to him a body, bright, yellow, fusible, and very heavy. Another adds malleability. Each of these uses equally the word gold, when they have occasion to express the idea which they have applied it to: but it is evident that each can apply it only to his own idea; nor can he make it stand as a sign of such a complex idea as he has not."
+    },
+    {
+      "id": "p0009",
+      "text": "4. Words are often secretly referred, First to the Ideas supposed to be in other men's minds."
+    },
+    {
+      "id": "p0010",
+      "text": "But though words, as they are used by men, can properly and immediately signify nothing but the ideas that are in the mind of the speaker; yet they in their thoughts give them a secret reference to two other things."
+    },
+    {
+      "id": "p0011",
+      "text": "First, THEY SUPPOSE THEIR WORDS TO BE MARKS OF THE IDEAS IN THE MINDS ALSO OF OTHER MEN, WITH WHOM THEY COMMUNICATE; for else they should talk in vain, and could not be understood, if the sounds they applied to one idea were such as by the hearer were applied to another, which is to speak two languages. But in this men stand not usually to examine, whether the idea they, and those they discourse with have in their minds be the same: but think it enough that they use the word, as they imagine, in the common acceptation of that language; in which they suppose that the idea they make it a sign of is precisely the same to which the understanding men of that country apply that name."
+    },
+    {
+      "id": "p0012",
+      "text": "5. Secondly, to the Reality of Things."
+    },
+    {
+      "id": "p0013",
+      "text": "Secondly, Because men would not be thought to talk barely of their own imagination, but of things as really they are; therefore they often suppose the WORDS TO STAND ALSO FOR THE REALITY OF THINGS. But this relating more particularly to substances and their names, as perhaps the former does to simple ideas and modes, we shall speak of these two different ways of applying words more at large, when we come to treat of the names of mixed modes and substances in particular: though give me leave here to say, that it is a perverting the use of words, and brings unavoidable obscurity and confusion into their signification, whenever we make them stand for anything but those ideas we have in our own minds."
+    },
+    {
+      "id": "p0014",
+      "text": "6. Words by Use readily excite Ideas of their objects."
+    },
+    {
+      "id": "p0015",
+      "text": "Concerning words, also, it is further to be considered:"
+    },
+    {
+      "id": "p0016",
+      "text": "First, that they being immediately the signs of men's ideas, and by that means the instruments whereby men communicate their conceptions, and express to one another those thoughts and imaginations they have within their own breasts; there comes, by constant use, to be such a connexion between certain sounds and the ideas they stand for, that the names heard, almost as readily excite certain ideas as if the objects themselves, which are apt to produce them, did actually affect the senses. Which is manifestly so in all obvious sensible qualities, and in all substances that frequently and familiarly occur to us."
+    },
+    {
+      "id": "p0017",
+      "text": "7. Words are often used without Signification, and Why."
+    },
+    {
+      "id": "p0018",
+      "text": "Secondly, That though the proper and immediate signification of words are ideas in the mind of the speaker, yet, because by familiar use from our cradles, we come to learn certain articulate sounds very perfectly, and have them readily on our tongues, and always at hand in our memories, but yet are not always careful to examine or settle their significations perfectly; it often happens that men, even when they would apply themselves to an attentive consideration, do set their thoughts more on words than things. Nay, because words are many of them learned before the ideas are known for which they stand: therefore some, not only children but men, speak several words no otherwise than parrots do, only because they have learned them, and have been accustomed to those sounds. But so far as words are of use and signification, so far is there a constant connexion between the sound and the idea, and a designation that the one stands for the other; without which application of them, they are nothing but so much insignificant noise."
+    },
+    {
+      "id": "p0019",
+      "text": "8. Their Signification perfectly arbitrary, not the consequence of a natural connexion."
+    },
+    {
+      "id": "p0020",
+      "text": "Words, by long and familiar use, as has been said, come to excite in men certain ideas so constantly and readily, that they are apt to suppose a natural connexion between them. But that they signify only men's peculiar ideas, and that BY A PERFECT ARBITRARY IMPOSITION, is evident, in that they often fail to excite in others (even that use the same language) the same ideas we take them to be signs of: and every man has so inviolable a liberty to make words stand for what ideas he pleases, that no one hath the power to make others have the same ideas in their minds that he has, when they use the same words that he does. And therefore the great Augustus himself, in the possession of that power which ruled the world, acknowledged he could not make a new Latin word: which was as much as to say, that he could not arbitrarily appoint what idea any sound should be a sign of, in the mouths and common language of his subjects. It is true, common use, by a tacit consent, appropriates certain sounds to certain ideas in all languages, which so far limits the signification of that sound, that unless a man applies it to the same idea, he does not speak properly: and let me add, that unless a man's words excite the same ideas in the hearer which he makes them stand for in speaking, he does not speak intelligibly. But whatever be the consequence of any man's using of words differently, either from their general meaning, or the particular sense of the person to whom he addresses them; this is certain, their signification, in his use of them, is limited to his ideas, and they can be signs of nothing else."
+    }
+  ],
+  "anchors": {
+    "locke-words-sign-ideas": {
+      "paragraphId": "p0006",
+      "start": 197,
+      "end": 314,
+      "quote": "words, in their primary or immediate signification, stand for nothing but THE IDEAS IN THE MIND OF HIM THAT USES THEM",
+      "match": "normalized-exact"
+    }
+  }
+}

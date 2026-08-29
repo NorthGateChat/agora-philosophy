@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T14:30:30Z",
+  "scope": "Eight non-public-web scan/paper reading units assigned to remaining-paper-recovery; Watson and the public-web agent's units excluded.",
+  "changes": {
+    "derivationScript": "scripts/derive-non-public-recovery-batch2a.mjs",
+    "derivationEvidence": "research/source-cache/non-public-24-recovery/derived-batch-2a.json",
+    "derivedDirectory": "research/source-cache/reading-unit-derived",
+    "overrideRegistry": "research/reading-units/source-overrides.json",
+    "publicDirectory": "public/readings/units",
+    "sharedSourceCacheManifestRefreshed": false,
+    "fullBuildRun": false
+  },
+  "directedFetch": {
+    "initial": {
+      "written": 8,
+      "resumed": 0,
+      "failed": 0,
+      "anchorsMatched": 9,
+      "anchorsUnmatched": 0,
+      "report": "tmp/non-public-24-integration-batch2a.json"
+    },
+    "finalIdempotenceCheck": {
+      "written": 0,
+      "resumed": 8,
+      "failed": 0,
+      "anchorsMatched": 9,
+      "anchorsUnmatched": 0,
+      "duplicateUnboundedUnits": 0,
+      "unboundedNonWholeUnits": 0,
+      "report": "tmp/non-public-24-integration-batch2a-final-resume.json"
+    },
+    "correctionBetweenRuns": "The first Rousseau fetch selected only the labeled Simpson English evidence subsection. An explicit title start boundary was added, and the unit was refetched to include the complete 1782 French Chapter II plus the transparently labeled historical English rendering. Maxwell's trailing next-page header was also removed before the final check."
+  },
+  "tests": [
+    {
+      "command": "node --test tests/reading-unit-source-overrides.test.mjs",
+      "passed": 1,
+      "failed": 0
+    },
+    {
+      "command": "node --test tests/thought-emphasis.test.mjs",
+      "passed": 1,
+      "failed": 0
+    },
+    {
+      "command": "node --import tsx scripts/audit-source-upgrades.mjs check",
+      "result": "Source audit passed with 0 tracked warning(s)."
+    }
+  ],
+  "addedVolume": {
+    "retainedOriginAndOcrBytes": 156799075,
+    "retainedOriginAndOcrMiB": 149.5353,
+    "derivedSourceBytes": 223270,
+    "publicUnitBytes": 284726,
+    "combinedContentBytes": 507996,
+    "combinedContentMiB": 0.4845,
+    "totalRetainedSourceAndContentBytes": 157307071,
+    "totalRetainedSourceAndContentMiB": 150.0197,
+    "note": "Origin total covers the scans/OCR/transcriptions retained for these eight units. Totals exclude small override and report metadata."
+  },
+  "verifiedSourceDifferences": [
+    "Kant: the Archive OCR severely corrupted the opening paragraph; that paragraph was restored word-for-word from the 1798 scan, while the remaining complete essay stays normalized OCR.",
+    "Frege: OCR erganzungsbediirftig / satished / ungesdttigt was corrected to ergänzungsbedürftig / satisfied / ungesättigt from the journal scan.",
+    "Maxwell: OCR Umits / colUsion was corrected to limits / collision; the next-page header was excluded from Part I.",
+    "Edgeworth: OCR tliere was corrected to there in the verified sentence.",
+    "Husserl: epoché omitted at the scan column break was restored; a small set of obvious OCR spellings was corrected.",
+    "Augustine: Archive OCR omitted the Chapter XI heading, so the start and the Chapter XII boundary were verified visually on PDF pages 79 and 83.",
+    "Rousseau: the complete natural unit is the 1782 French Chapter II. Simpson 1921 supplies only a historical English rendering of the cited argument and is labeled as such, not represented as a complete chapter translation.",
+    "Einstein: the complete first paper is PDF pages 15-32; Paper II starts on page 33. The card sentence was checked on printed page 17 / PDF page 31."
+  ],
+  "galileoEmphasis": {
+    "thoughtId": "science-galileo-inclined-plane",
+    "changed": {
+      "zh": "完成下降所需的时间",
+      "en": "the time required to make the descent"
+    },
+    "reason": "Both are exact contiguous substrings of the verified display passage; the former English emphasis incorrectly skipped intervening words."
+  },
+  "units": [
+    {
+      "unitId": "ru-an-answer-to-the-question-what-is-enlightenment-whole-work-5c3bf825",
+      "status": "resumed",
+      "characters": 17442,
+      "anchors": "1/1"
+    },
+    {
+      "unitId": "ru-class-function-concept-relation-whole-work-d92333b7",
+      "status": "resumed",
+      "characters": 26419,
+      "anchors": "1/1"
+    },
+    {
+      "unitId": "ru-essay-on-the-origin-of-languages-chapter-ii-2eda6e43",
+      "status": "resumed",
+      "characters": 3296,
+      "anchors": "1/1"
+    },
+    {
+      "unitId": "ru-illustrations-of-the-dynamical-theory-of-gases-part-i-c56f9836",
+      "status": "resumed",
+      "characters": 25065,
+      "anchors": "1/1"
+    },
+    {
+      "unitId": "ru-mathematical-psychics-part-ii-0e25c1e8",
+      "status": "resumed",
+      "characters": 114313,
+      "anchors": "1/1"
+    },
+    {
+      "unitId": "ru-on-the-movement-of-small-particles-suspended-in--whole-work-8fd6f89b",
+      "status": "resumed",
+      "characters": 17352,
+      "anchors": "1/1"
+    },
+    {
+      "unitId": "ru-phenomenology-encyclopaedia-britannica-part-i-7fba793f",
+      "status": "resumed",
+      "characters": 11072,
+      "anchors": "2/2"
+    },
+    {
+      "unitId": "ru-the-teacher-chapter-xi-4bdee798",
+      "status": "resumed",
+      "characters": 4523,
+      "anchors": "1/1"
+    }
+  ]
+}

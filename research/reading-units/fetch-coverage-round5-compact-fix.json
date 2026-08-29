@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-28T15:26:57.741Z",
+  "inventoryPath": "research/reading-units/inventory.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 663,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-the-will-to-believe-whole-work-d2ac8ec7"
+  ],
+  "dryRun": false,
+  "allowNetwork": true,
+  "concurrency": 3,
+  "summary": {
+    "considered": 1,
+    "written": 1,
+    "wouldWrite": 0,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 1,
+    "anchorsMatched": 1,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-the-will-to-believe-whole-work-d2ac8ec7",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-the-will-to-believe-whole-work-d2ac8ec7.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 780,
+      "characterCount": 587404,
+      "publicByteCount": 608666,
+      "serialization": "compact",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/2/6/6/5/26659/26659.txt"
+        }
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/26659/26659-h/26659-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/2/6/6/5/26659/26659.txt",
+      "contentHash": "ccdcb1b16c998d0bc6d6b7999b5a920ef3be64aca6711d3411123524a5e66b40"
+    }
+  ],
+  "failures": []
+}

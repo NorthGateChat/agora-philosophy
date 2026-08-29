@@ -41,6 +41,16 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+/tmp/
 /extension-dist/
 /release/*.zip
+
+# Local primary-source research archive. Binaries stay on the research machine;
+# the hash manifest and cache instructions remain versioned.
+/research/source-cache/*
+!/research/source-cache/README.md
+!/research/source-cache/reading-unit-derived/
+!/research/source-cache/reading-unit-derived/*.txt
+!/research/source-cache/reading-unit-derived/manifest.json
+/research/reading-units/fetch-cache/
 /store-assets/*.zip

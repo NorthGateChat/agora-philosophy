@@ -1,0 +1,1651 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:26:36.195Z",
+  "inventoryPath": "research/source-cache/public-web-recovery/inventory.temp.json",
+  "overridesPath": "research/source-cache/public-web-recovery/overrides.temp.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b",
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db",
+    "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a",
+    "ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a",
+    "ru-capital-volume-i-chapter-vii-f8f21de9",
+    "ru-cosmos-volume-i-introduction-introduction-7f623ec4",
+    "ru-cosmos-volume-i-preface-preface-0978794c",
+    "ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5",
+    "ru-discourses-book-i-chapter-2-730b2536",
+    "ru-discourses-book-ii-chapter-17-af126ead",
+    "ru-discourses-book-ii-chapter-18-e26bc395",
+    "ru-elements-of-folk-psychology-introduction-introduction-4b0133a0",
+    "ru-ethics-part-ii-3f8d8997",
+    "ru-ethics-part-iv-67d79bde",
+    "ru-ethics-part-v-bf548558",
+    "ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1",
+    "ru-gestalt-psychology-chapter-vi-8cdc59c7",
+    "ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc",
+    "ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab",
+    "ru-opticks-book-iii-2a775caf",
+    "ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f",
+    "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+    "ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3",
+    "ru-second-treatise-of-government-chapter-v-b11ade32",
+    "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+    "ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1",
+    "ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8",
+    "ru-the-souls-of-black-folk-chapter-i-5be293cf",
+    "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+    "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+    "ru-toward-perpetual-peace-article-second-12cc512d",
+    "ru-toward-perpetual-peace-article-third-870b0243",
+    "ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5",
+    "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+    "ru-principles-of-economics-book-v-chapter-3-33bfefbb",
+    "ru-the-purchasing-power-of-money-chapter-2-63622053"
+  ],
+  "dryRun": true,
+  "allowNetwork": true,
+  "concurrency": 4,
+  "summary": {
+    "considered": 39,
+    "written": 0,
+    "wouldWrite": 31,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 8,
+    "thoughts": 45,
+    "anchorsMatched": 36,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_4/Chapter_I",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_4/Chapter_I",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "locke-knowledge-as-agreement"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "locke-knowledge-as-agreement"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "locke-knowledge-as-agreement"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "book-iv-chapter-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10616/pg10616.html.utf8",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 84,
+      "characterCount": 15532,
+      "publicByteCount": 23023,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2"
+        }
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "actualSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2",
+      "contentHash": "a166501517cc4567473b635f030bb07547e77d5f810a9db580eb7d982f805dfb",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=4",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=4",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-four-sanctions"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-four-sanctions"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "bentham-four-sanctions"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-iii",
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=5",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=5",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-felicific-circumstances"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-felicific-circumstances"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "bentham-felicific-circumstances"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-iv",
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 15,
+      "characterCount": 1087,
+      "publicByteCount": 3464,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14"
+        }
+      ],
+      "locatorStructureKey": "chapter-xiii",
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "actualSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+      "contentHash": "8b61bdb2a65a9ebbb33015ee6097864befc129b2969c363ca9cff8f44e94cd3d",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 119,
+      "characterCount": 55594,
+      "publicByteCount": 63839,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-psychology/thorndike-animal-intelligence-1911.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-chapter-laws-of-behavior-in-general",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm",
+      "contentHash": "446ac5fce2b26e4e35ebaf9b8413b80ce9347459f6a395ef94f52e4c5cb21bae",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 18,
+      "characterCount": 16514,
+      "publicByteCount": 19892,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-psychology/thorndike-animal-intelligence-1911.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-chapter-reasoning-or-inference",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm",
+      "contentHash": "51e05691c04967060982c8cf17065125328b6c12afed7216be4d4c0c0561c3b9",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-capital-volume-i-chapter-vii-f8f21de9",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-capital-volume-i-chapter-vii-f8f21de9.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 81,
+      "characterCount": 59693,
+      "publicByteCount": 65682,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7"
+        }
+      ],
+      "locatorStructureKey": "chapter-vii",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Das+Kapital+%28Moore%2C+1906%29%2FChapter+7&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "fbd0b7d9ab916170051efb5ee4d4de2f8f3ca1e485907707c5b28cb8e04921ee",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-cosmos-volume-i-introduction-introduction-7f623ec4",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-cosmos-volume-i-introduction-introduction-7f623ec4.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 157,
+      "characterCount": 153739,
+      "publicByteCount": 163759,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "introduction-introduction",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html",
+      "contentHash": "6af99a2a30259d899d4aa2933fbcc980a40f2f0e71bc8cb24328f263a4c0379a",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-cosmos-volume-i-preface-preface-0978794c",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-cosmos-volume-i-preface-preface-0978794c.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 8,
+      "characterCount": 11622,
+      "publicByteCount": 14294,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html",
+      "contentHash": "d00321a5aa994fa08ad3954dc8435cb7c49c067e95c78476864b240e01c81522",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 61,
+      "characterCount": 55394,
+      "publicByteCount": 60719,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/2/8/4280/4280-0.txt"
+        }
+      ],
+      "locatorStructureKey": "transcendental-aesthetic-transcendental-aesthetic",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/2/8/4280/4280-0.txt",
+      "contentHash": "2e2947a228603d4278120f0e469e95bbc9de49951533cf80abb362a24dbb99e0",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-discourses-book-i-chapter-2-730b2536",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourses-book-i-chapter-2-730b2536",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "epictetus-preserve-character"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-discourses-book-i-chapter-2-730b2536"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "epictetus-preserve-character"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "book-i-chapter-2",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-discourses-book-ii-chapter-17-af126ead",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-discourses-book-ii-chapter-17-af126ead.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 1,
+      "characterCount": 2152,
+      "publicByteCount": 4096,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt"
+        }
+      ],
+      "locatorStructureKey": "book-ii-chapter-17",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+      "contentHash": "88598e811219933251a0b6de0aab65a4cc7e56ad81452b2a325ad981bf297f12",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-discourses-book-ii-chapter-18-e26bc395",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-discourses-book-ii-chapter-18-e26bc395.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 7,
+      "characterCount": 4710,
+      "publicByteCount": 6547,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt"
+        }
+      ],
+      "locatorStructureKey": "book-ii-chapter-18",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+      "contentHash": "e26d1497b7e8d0b6156dcf43ac8507c05da1cfdcf4c9a6c83d18f819ff4a403d",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-elements-of-folk-psychology-introduction-introduction-4b0133a0",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-elements-of-folk-psychology-introduction-introduction-4b0133a0.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 10,
+      "characterCount": 21533,
+      "publicByteCount": 23598,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-psychology/wundt-elements-folk-psychology-1916.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "introduction-introduction",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/44138/44138-h/44138-h.htm",
+      "contentHash": "a6dd4e5c389f02e57201537590aee9a63056ce8ad093b4b46b0e2fc54e91cdf3",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-ii-3f8d8997",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-ethics-part-ii-3f8d8997.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 226,
+      "characterCount": 100848,
+      "publicByteCount": 113992,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "8183830bb342d0288132f156013721b16616b1124e761499dff9d608f94273c4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-iv-67d79bde",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-ethics-part-iv-67d79bde.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 286,
+      "characterCount": 125317,
+      "publicByteCount": 141896,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 3,
+      "matchedThoughtCount": 3,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "253db1220fa42761108c1f6ddd982d851568bae1fca35a9b5499db042900051c",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-v-bf548558",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-ethics-part-v-bf548558.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 157,
+      "characterCount": 61338,
+      "publicByteCount": 70687,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt"
+        }
+      ],
+      "locatorStructureKey": "part-v",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/3/8/0/3800/3800.txt",
+      "contentHash": "b8d468a8385b1b8ea4ca33d156bc0b350314062d503ce4ada5cab8c866fd3feb",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 52,
+      "characterCount": 36407,
+      "publicByteCount": 41266,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/60333/pg60333-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/6/0/3/3/60333/60333-0.txt"
+        }
+      ],
+      "locatorStructureKey": "named-section-preliminary-expectoration",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/60333/pg60333-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/6/0/3/3/60333/60333-0.txt",
+      "contentHash": "40a308e8764500cdab2ee47de2d34eba36cdb1f451b354067bfc7c10f0100a69",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "status": "failed",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/79014/pg79014-images.html",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "1/2 card anchors matched https://www.gutenberg.org/cache/epub/79014/pg79014-images.html",
+            "details": {
+              "matchedThoughtIds": [
+                "psychology-foundations-kohler-transposition"
+              ],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-kohler-whole-organization"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-gestalt-psychology-chapter-vi-8cdc59c7"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "psychology-foundations-kohler-whole-organization"
+        ]
+      },
+      "libraryIds": [
+        "psychology"
+      ],
+      "locatorStructureKey": "chapter-vi",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/79014/pg79014-images.html",
+      "thoughtCount": 2
+    },
+    {
+      "id": "ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 41,
+      "characterCount": 4952,
+      "publicByteCount": 8351,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/economics-context-batch11/ricardo-principles-gitenberg-33310.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm",
+      "contentHash": "b6fe0d0407b20f88e74a3d286b3590675831187c63563653edfac4c28ddaa9d2",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 17,
+      "characterCount": 23882,
+      "publicByteCount": 26680,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/51548/pg51548-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/1/5/4/51548/51548-0.txt"
+        }
+      ],
+      "locatorStructureKey": "part-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/51548/pg51548-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/1/5/4/51548/51548-0.txt",
+      "contentHash": "01aa00a2e36ff65a42d4f33beb58a71c5d5bfc1331073c90ae6bcb3c156a0317",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-opticks-book-iii-2a775caf",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-opticks-book-iii-2a775caf.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 114,
+      "characterCount": 134884,
+      "publicByteCount": 143146,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/newton-opticks-1718-book-iii.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+      "contentHash": "5fcdb3471fe0f2b8c0650b7c7c5f381bb5fe7429450c46cef8d5149332eca7b6",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 11,
+      "characterCount": 10542,
+      "publicByteCount": 12760,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/46423/pg46423-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/6/4/2/46423/46423-0.txt"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46423/pg46423-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/6/4/2/46423/46423-0.txt",
+      "contentHash": "7deb189e979beba8e9ee90845fda42eb1f46a069938c508f08b12fdc96f200ca",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-principles-of-economics-book-iii-chapter-4-f9738743.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 89,
+      "characterCount": 36201,
+      "publicByteCount": 42287,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/marshall-principles-book-iii-chapter-iv.html",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-iii-chapter-4",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "contentHash": "e4640b4520589ccbe75a96a6daf106e4b9181d1191bdc0d92c69c8683e87501c",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principles-of-economics-book-v-chapter-3-33bfefbb",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-principles-of-economics-book-v-chapter-3-33bfefbb.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 80,
+      "characterCount": 11018,
+      "publicByteCount": 16698,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31"
+        }
+      ],
+      "locatorStructureKey": "book-v-chapter-3",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "actualSourceUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+      "contentHash": "3903ce88ca31d1048511383c28d945cbb663ea1acee6340e2c4173bfe08de2f4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "economics-mill-production-distribution"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "economics-mill-production-distribution"
+        ]
+      },
+      "libraryIds": [
+        "economics"
+      ],
+      "locatorStructureKey": "book-ii-chapter-i",
+      "registeredSourceUrl": "https://www.econlib.org/library/Mill/mlP.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 22,
+      "characterCount": 14424,
+      "publicByteCount": 17057,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64"
+        }
+      ],
+      "locatorStructureKey": "book-iv-chapter-vi",
+      "registeredSourceUrl": "https://www.econlib.org/library/Mill/mlP.html",
+      "actualSourceUrl": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64",
+      "contentHash": "c743266c69cd369f12fc9799360442e552ba0951cd5592862fcbd91959290cea",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-second-treatise-of-government-chapter-v-b11ade32",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-second-treatise-of-government-chapter-v-b11ade32",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "locke-labor-and-property"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-second-treatise-of-government-chapter-v-b11ade32"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "locke-labor-and-property"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-v",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 20,
+      "characterCount": 8389,
+      "publicByteCount": 11146,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-section-fixed-stars-milky-way-nebulae",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+      "contentHash": "adea2dded0bf1641fdbde13a0d1d8f6d3b65de134859572a392383c1924bda1c",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 71,
+      "characterCount": 43536,
+      "publicByteCount": 56294,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-section-medicean-stars",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+      "contentHash": "b43ebd260179c01aa13e322e171239c3220b0baa80b2265b4ea6ed5f1f8bb1cc",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-galileo-moon"
+              ]
+            }
+          },
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-galileo-moon"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-galileo-moon"
+        ]
+      },
+      "libraryIds": [
+        "science"
+      ],
+      "locatorStructureKey": "named-section-observations-of-the-moon",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-the-purchasing-power-of-money-chapter-2-63622053",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-the-purchasing-power-of-money-chapter-2-63622053.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 62,
+      "characterCount": 11277,
+      "publicByteCount": 16004,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6"
+        }
+      ],
+      "locatorStructureKey": "chapter-2",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/fisher-the-purchasing-power-of-money",
+      "actualSourceUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+      "contentHash": "253a2b49f25d7096579e19cef680121837aed8bf4074c59450609fd32835fbf4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-i-5be293cf",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-the-souls-of-black-folk-chapter-i-5be293cf.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 22,
+      "characterCount": 17825,
+      "publicByteCount": 20637,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/0/408/408-0.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/0/408/408-0.txt",
+      "contentHash": "074ab24dd5dce0df353411da0576a276f300a044e1b908c8aad1c24d64880d3e",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-the-souls-of-black-folk-chapter-iii-941e14ab.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 40,
+      "characterCount": 28380,
+      "publicByteCount": 32194,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/du-bois-souls-chapter-iii.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "chapter-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "contentHash": "1b6831cfd9b72b66b723249128daa7723753d73113f318d88ac55cce8053becc",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-toward-perpetual-peace-article-second-12cc512d",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-toward-perpetual-peace-article-second-12cc512d.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 20,
+      "characterCount": 14658,
+      "publicByteCount": 17331,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt"
+        }
+      ],
+      "locatorStructureKey": "article-second",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt",
+      "contentHash": "5d01d78269bf2ff086803ab73975c7eafbaa8357ff10b19baa8075a72f5e83ed",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-toward-perpetual-peace-article-third-870b0243",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-toward-perpetual-peace-article-third-870b0243.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 9,
+      "characterCount": 8816,
+      "publicByteCount": 11079,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt"
+        }
+      ],
+      "locatorStructureKey": "article-third",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt",
+      "contentHash": "8c69f69edcc647a0a8418c0cf9cef06b45ff3b89999aa68f4e05faf6a5a09926",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 337,
+      "characterCount": 39527,
+      "publicByteCount": 58941,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/tractatus-major-propositions-2-and-4.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "major-propositions-2-and-4",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/2",
+      "contentHash": "3b8c9a844ede2c342621ed048d8713985436a2a339a326e0bdc88f1cac4ba4e8",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 28,
+      "characterCount": 25537,
+      "publicByteCount": 29046,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/52263/pg52263-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/2/2/6/52263/52263-0.txt"
+        }
+      ],
+      "locatorStructureKey": "named-chapter-the-four-great-errors",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/52263/pg52263-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/2/2/6/52263/52263-0.txt",
+      "contentHash": "18cc9a7500111b5f8fddc338253a3e14f599538af05de2a125b1ca271af79179",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "id": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10616/pg10616.html.utf8",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_4/Chapter_I",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://en.wikisource.org/wiki/An_Essay_Concerning_Human_Understanding_(Troutman_%26_Hayes_1853)/Book_4/Chapter_I",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "locke-knowledge-as-agreement"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "locke-knowledge-as-agreement"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "locke-knowledge-as-agreement"
+        ]
+      }
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=4",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=4",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-four-sanctions"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-four-sanctions"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "bentham-four-sanctions"
+        ]
+      }
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=5",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=5",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-felicific-circumstances"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "bentham-felicific-circumstances"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "bentham-felicific-circumstances"
+        ]
+      }
+    },
+    {
+      "id": "ru-discourses-book-i-chapter-2-730b2536",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-discourses-book-i-chapter-2-730b2536",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "epictetus-preserve-character"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-discourses-book-i-chapter-2-730b2536"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "epictetus-preserve-character"
+        ]
+      }
+    },
+    {
+      "id": "ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "reason": "partial-anchor-match",
+      "message": "No safe readable source produced a matched passage for ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "libraryIds": [
+        "psychology"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/79014/pg79014-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/cache/epub/79014/pg79014-images.html",
+            "status": "failed",
+            "reason": "partial-anchor-match",
+            "message": "1/2 card anchors matched https://www.gutenberg.org/cache/epub/79014/pg79014-images.html",
+            "details": {
+              "matchedThoughtIds": [
+                "psychology-foundations-kohler-transposition"
+              ],
+              "unmatchedThoughtIds": [
+                "psychology-foundations-kohler-whole-organization"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-gestalt-psychology-chapter-vi-8cdc59c7"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "psychology-foundations-kohler-whole-organization"
+        ]
+      }
+    },
+    {
+      "id": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "libraryIds": [
+        "economics"
+      ],
+      "registeredSourceUrl": "https://www.econlib.org/library/Mill/mlP.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "economics-mill-production-distribution"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "economics-mill-production-distribution"
+        ]
+      }
+    },
+    {
+      "id": "ru-second-treatise-of-government-chapter-v-b11ade32",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-second-treatise-of-government-chapter-v-b11ade32",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "locke-labor-and-property"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-second-treatise-of-government-chapter-v-b11ade32"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "locke-labor-and-property"
+        ]
+      }
+    },
+    {
+      "id": "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "libraryIds": [
+        "science"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-galileo-moon"
+              ]
+            }
+          },
+          {
+            "source": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "science-galileo-moon"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "science-galileo-moon"
+        ]
+      }
+    }
+  ]
+}

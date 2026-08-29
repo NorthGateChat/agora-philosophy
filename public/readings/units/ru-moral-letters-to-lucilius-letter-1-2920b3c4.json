@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-moral-letters-to-lucilius-letter-1-2920b3c4",
+  "title": "书信 1",
+  "englishTitle": "Letter 1",
+  "work": "《致鲁基里乌斯道德书信》",
+  "englishWork": "Moral Letters to Lucilius",
+  "locator": "书信 1",
+  "englishLocator": "Letter 1",
+  "version": "Wikisource 公版英译文本，Richard M. Gummere 英译，《致鲁基里乌斯道德书信》第 1 封第 1 节",
+  "englishVersion": "Wikisource public-domain English translation, Richard M. Gummere, Moral Letters to Lucilius, Letter 1, §1",
+  "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Moral+letters+to+Lucilius%2FLetter+1&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "77f2f72cf845b8353175732596b4dd167347808190bc0f4b7d589d304bd4b1b2"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "b84e4649d281685a09256d5559f080abb8d869e2f4e99ff94b799f65ac100489",
+  "inputHash": "f60eb73ae5c43eb55f6c00d81361571bf2cbf8c1f70e2aa3717f100665e746a5",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "THE EPISTLES OF SENECA"
+    },
+    {
+      "id": "p0002",
+      "text": "I. ON SAVING TIME"
+    },
+    {
+      "id": "p0003",
+      "text": "Greetings from Seneca to his friend Lucilius."
+    },
+    {
+      "id": "p0004",
+      "text": "1. Continue to act thus, my dear Lucilius—set yourself free for your own sake; gather and save your time, which till lately has been forced from you, or filched away, or has merely slipped from your hands. Make yourself believe the truth of my words,—that certain moments are torn from us, that some are gently removed, and that others glide beyond our reach. The most disgraceful kind of loss, however, is that due to carelessness. Furthermore, if you will pay close heed to the problem, you will find that the largest portion of our life passes while we are doing ill, a goodly share while we are doing nothing, and the whole while we are doing that which is not to the purpose. 2. What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years lie behind us are in death’s hands."
+    },
+    {
+      "id": "p0005",
+      "text": "Therefore, Lucilius, do as you write me that you are doing: hold every hour in your grasp. Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. 3. Nothing, Lucilius, is ours, except time. We were entrusted by nature with the ownership of this single thing, so fleeting and slippery that anyone who will can oust us from possession. What fools these mortals be! They allow the cheapest and most useless things, which can easily be replaced, to be charged in the reckoning, after they have acquired them; but they never regard themselves as in debt when they have received some of that precious commodity,—time! And yet time is the one loan which even a grateful recipient cannot repay."
+    },
+    {
+      "id": "p0006",
+      "text": "4. You may desire to know how I, who preach to you so freely, am practising. I confess frankly: my expense account balances, as you would expect from one who is free-handed but careful. I cannot boast that I waste nothing, but I can at least tell you what I am wasting, and the cause and manner of the loss; I can give you the reasons why I am a poor man. My situation, however, is the same as that of many who are reduced to slender means through no fault of their own: every one forgives them, but no one comes to their rescue."
+    },
+    {
+      "id": "p0007",
+      "text": "5. What is the state of things, then? It is this: I do not regard a man as poor, if the little which remains is enough for him. I advise you, however, to keep what is really yours; and you cannot begin too early. For, as our ancestors believed, it is too late to spare when you reach the dregs of the cask. [ 1 ] Of that which remains at the bottom, the amount is slight, and the quality is vile. Farewell."
+    },
+    {
+      "id": "p0008",
+      "text": "↑ Hesiod, Works and Days , 369."
+    }
+  ],
+  "anchors": {
+    "seneca": {
+      "paragraphId": "p0004",
+      "start": 3,
+      "end": 205,
+      "quote": "Continue to act thus, my dear Lucilius—set yourself free for your own sake; gather and save your time, which till lately has been forced from you, or filched away, or has merely slipped from your hands.",
+      "match": "normalized-exact"
+    }
+  }
+}

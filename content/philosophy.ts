@@ -1,5 +1,20 @@
+import { buildAncientExpansionThoughts } from "./philosophyExpansionAncient";
+import { philosophyCanonEarlyThoughts } from "./philosophyCanonEarly";
+import { contemporaryCanonThoughts } from "./philosophyCanonContemporary";
+import { philosophyCanonModernThoughts } from "./philosophyCanonModern";
+import { buildContemporaryExpansionThoughts } from "./philosophyExpansionContemporary";
+import { curateLegacyThoughts } from "./philosophyCuration";
+import { buildModernExpansionThoughts } from "./philosophyExpansionModern";
+import { buildSupplementaryThoughts } from "./philosophySupplement";
+
+export type ThoughtPresentationNature =
+  | "source-excerpt"
+  | "editorial-synthesis"
+  | "unverified-excerpt";
+
 export type Thought = {
   id: string;
+  authorId?: string;
   name: string;
   englishName: string;
   life: string;
@@ -17,20 +32,75 @@ export type Thought = {
     | "群众"
     | "方法"
     | "文化"
-    | "战略";
+    | "战略"
+    | "天道"
+    | "修身"
+    | "人性"
+    | "认识"
+    | "名实"
+    | "兵道"
+    | "证据"
+    | "模型"
+    | "不确定"
+    | "生命"
+    | "宇宙"
+    | "责任"
+    | "自我"
+    | "因果"
+    | "解脱"
+    | "辩证"
+    | "市场"
+    | "制度"
+    | "增长"
+    | "货币"
+    | "行为"
+    | "分配"
+    | "投资"
+    | "感知"
+    | "记忆"
+    | "学习"
+    | "决策"
+    | "情绪"
+    | "动机"
+    | "人格"
+    | "关系"
+    | "群体"
+    | "发展";
   text: string;
+  /** A contemporary Chinese reading of a classical source passage. */
+  plainText?: string;
+  /** A concise AGORA-authored restatement, shown only in the deep-reading view. */
+  editorialSummary?: string;
+  englishEditorialSummary?: string;
   english: string;
   work: string;
   englishWork: string;
   reflection: string;
   englishReflection: string;
+  /** Optional card-specific context. A source-aware fallback is resolved for every card. */
+  context?: string;
+  englishContext?: string;
+  /** Optional card-specific warning against common overreadings or category mistakes. */
+  distinction?: string;
+  englishDistinction?: string;
   question: string;
   englishQuestion: string;
   palette: [string, string, string, string];
+  /** Controls whether the card is presented as a source excerpt or as editorial synthesis. */
+  presentationNature?: ThoughtPresentationNature;
   rendering?: "short-quote" | "paraphrase";
+  sourceLocator?: [string, string];
+  /** Device-local knowledge cards created or imported by the user. */
+  customKnowledge?: {
+    collectionId: string;
+    collectionTitle: string;
+    cardType: "quote" | "knowledge" | "question";
+    provenance: "manual" | "material" | "generated";
+    sourceStatus: "verified" | "needs-review";
+  };
 };
 
-export const thoughts: Thought[] = [
+const primaryThoughts: Thought[] = [
   {
     id: "socrates",
     name: "苏格拉底",
@@ -40,14 +110,19 @@ export const thoughts: Thought[] = [
     school: "古希腊哲学",
     englishSchool: "Ancient Greek Philosophy",
     topic: "知识",
-    text: "未经省察的生活，尚未真正成为自己的生活。",
-    english: "An unexamined life has not yet truly become one's own.",
+    text: "未经省察的生活不值得过。",
+    english: "The life which is unexamined is not worth living.",
+    editorialSummary: "未经省察的生活，尚未真正成为自己的生活。",
+    englishEditorialSummary: "An unexamined life has not yet truly become one's own.",
     work: "柏拉图《申辩篇》",
     englishWork: "Plato's Apology",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "省察不是把每个选择都想得复杂，而是追问：此刻支配我的欲望与判断，真的是我认可的吗？",
     englishReflection: "Examination does not mean overcomplicating every choice. It means asking whether the desires and judgments guiding me are ones I can truly endorse.",
     question: "今天有什么念头，是你从未认真检查过的？",
     englishQuestion: "What thought have you carried today without ever seriously examining it?",
+    sourceLocator: ["柏拉图《申辩篇》38a", "Plato, Apology 38a, trans. Benjamin Jowett"],
     palette: ["#ece4d7", "#c9b89b", "#8c765c", "#2c2823"],
   },
   {
@@ -59,14 +134,19 @@ export const thoughts: Thought[] = [
     school: "古希腊哲学",
     englishSchool: "Ancient Greek Philosophy",
     topic: "知识",
-    text: "教育不是把光放进眼睛，而是让灵魂转向光。",
-    english: "Education is not the act of putting light into the eyes, but of turning the soul toward the light.",
+    text: "认识的器官，只有随着整个灵魂一同转动，才能从生成的世界转向存在的世界。",
+    english: "the instrument of knowledge can only by the movement of the whole soul be turned from the world of becoming into that of being",
+    editorialSummary: "教育不是把光放进眼睛，而是让灵魂转向光。",
+    englishEditorialSummary: "Education is not the act of putting light into the eyes, but of turning the soul toward the light.",
     work: "《理想国》",
     englishWork: "The Republic",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "学习并非单纯积累答案。更重要的变化，是我们开始愿意看向原本回避的事物。",
     englishReflection: "Learning is not simply the accumulation of answers. Its deeper change begins when we become willing to look toward what we once avoided.",
     question: "你正在获得知识，还是正在改变观看世界的方向？",
     englishQuestion: "Are you gaining knowledge, or changing the direction from which you see the world?",
+    sourceLocator: ["《理想国》第七卷 518c—d；Benjamin Jowett 公版英译，连续分句", "Republic VII, 518c–d; Benjamin Jowett public-domain translation, continuous clause"],
     palette: ["#e7e1d5", "#b3a487", "#7f7159", "#292823"],
   },
   {
@@ -78,14 +158,19 @@ export const thoughts: Thought[] = [
     school: "古希腊哲学",
     englishSchool: "Ancient Greek Philosophy",
     topic: "伦理",
-    text: "人的品格，生成于一次又一次的行动之中。",
-    english: "Character is formed through action, repeated again and again.",
+    text: "我们通过做正义的事而成为正义的人，通过做节制的事而成为节制的人，通过做勇敢的事而成为勇敢的人。",
+    english: "we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+    editorialSummary: "人的品格，生成于一次又一次的行动之中。",
+    englishEditorialSummary: "Character is formed through action, repeated again and again.",
     work: "《尼各马可伦理学》",
     englishWork: "Nicomachean Ethics",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "美德不是偶尔做对一件事，而是通过实践，逐渐成为那个能稳定作出好判断的人。",
     englishReflection: "Virtue is not occasionally doing the right thing. Through practice, we gradually become people capable of making sound judgments reliably.",
     question: "你今天重复的行动，正在把你塑造成怎样的人？",
     englishQuestion: "What kind of person are today's repeated actions shaping you into?",
+    sourceLocator: ["《尼各马可伦理学》第二卷第 1 章，1103a31—b2；W. D. Ross 公版英译，连续分句", "Nicomachean Ethics II.1, 1103a31–b2; W. D. Ross public-domain translation, continuous clause"],
     palette: ["#eee4d0", "#d1b681", "#a4773d", "#32291f"],
   },
   {
@@ -97,14 +182,19 @@ export const thoughts: Thought[] = [
     school: "伊壁鸠鲁学派",
     englishSchool: "Epicureanism",
     topic: "伦理",
-    text: "真正丰足的人，不是拥有最多，而是需要最少。",
-    english: "The truly abundant person is not the one who has the most, but the one who needs the least.",
+    text: "懂得生命界限的人，知道取得足以消除匮乏之苦、使整个生命完整圆满的东西，是多么容易。",
+    english: "He who understands the limits of life knows how easy it is to procure enough to remove the pain of want and make the whole of life complete and perfect.",
+    editorialSummary: "真正丰足的人，不是拥有最多，而是需要最少。",
+    englishEditorialSummary: "The truly abundant person is not the one who has the most, but the one who needs the least.",
     work: "《主要教义》",
     englishWork: "Principal Doctrines",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "快乐不等于不断增加刺激。减少不必要的欲望，平静本身就会显露出来。",
     englishReflection: "Pleasure is not the endless addition of stimulation. As unnecessary desires diminish, tranquility can reveal itself.",
     question: "哪一种‘必须拥有’，其实可以被轻轻放下？",
     englishQuestion: "Which supposed necessity could you gently let go of?",
+    sourceLocator: ["《主要教义》第 21 条；Robert Drew Hicks 公版英译", "Principal Doctrine 21; Robert Drew Hicks public-domain translation"],
     palette: ["#e6ebdc", "#b7c59f", "#7a9364", "#253024"],
   },
   {
@@ -116,14 +206,19 @@ export const thoughts: Thought[] = [
     school: "斯多葛主义",
     englishSchool: "Stoicism",
     topic: "伦理",
-    text: "困扰我们的并非事情本身，而是我们对事情的判断。",
-    english: "We are troubled not by things themselves, but by our judgments about them.",
+    text: "使人不安的不是所发生的事情，而是对事情的意见；例如，死亡并不可怕——如果它可怕，苏格拉底也会这样认为；真正可怕的，是认为死亡可怕的那个意见。",
+    english: "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.",
+    editorialSummary: "困扰我们的并非事情本身，而是我们对事情的判断。",
+    englishEditorialSummary: "We are troubled not by things themselves, but by our judgments about them.",
     work: "《手册》",
     englishWork: "Enchiridion",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "这不是否认痛苦，而是在事实与解释之间留出一点空间，让我们重新获得行动的自由。",
     englishReflection: "This does not deny suffering. It creates a little space between fact and interpretation, where freedom to act can return.",
     question: "此刻让你不安的，是事实，还是你给事实写下的结论？",
     englishQuestion: "What unsettles you right now: the fact itself, or the conclusion you have written about it?",
+    sourceLocator: ["《手册》第 5 节；George Long 公版英译", "Enchiridion §5; George Long public-domain translation"],
     palette: ["#dde7e5", "#a7c0bd", "#668e89", "#223130"],
   },
   {
@@ -135,14 +230,18 @@ export const thoughts: Thought[] = [
     school: "教父哲学",
     englishSchool: "Patristic Philosophy",
     topic: "存在",
-    text: "时间若无人问，我仿佛明白；若要说明，我却不再明白。",
-    english: "If no one asks me what time is, I seem to know; when I try to explain it, I no longer do.",
+    text: "那么，时间是什么？若无人问我，我知道；若要向询问者解释，我便不知道。",
+    english: "What, then, is time? If no one ask of me, I know; if I wish to explain to him who asks, I know not.",
+    editorialSummary: "时间若无人问，我仿佛明白；若要说明，我却不再明白。",
+    englishEditorialSummary: "If no one asks me what time is, I seem to know; when I try to explain it, I no longer do.",
     work: "《忏悔录》",
     englishWork: "Confessions",
+    presentationNature: "source-excerpt",
     reflection: "最熟悉的经验往往最难定义。哲学从这种迟疑开始：让日常重新变得值得惊讶。",
     englishReflection: "Our most familiar experiences are often the hardest to define. Philosophy begins in that hesitation, making the everyday surprising again.",
     question: "有什么你每天经历，却从未真正理解？",
     englishQuestion: "What do you experience every day without ever truly understanding it?",
+    sourceLocator: ["《忏悔录》第十一卷第 14 章第 17 节；J. G. Pilkington 1887 年 NPNF 公版英译，连续节录", "Confessions XI.14.17; J. G. Pilkington public-domain translation in NPNF, First Series, vol. 1 (1887), continuous excerpt"],
     palette: ["#e8ded7", "#c6a99a", "#946f60", "#312522"],
   },
   {
@@ -154,14 +253,19 @@ export const thoughts: Thought[] = [
     school: "理性主义",
     englishSchool: "Rationalism",
     topic: "知识",
-    text: "当我怀疑一切时，至少无法怀疑：怀疑正在发生。",
-    english: "When I doubt everything, at least I cannot doubt that doubting is taking place.",
+    text: "因此，我可以把这一点立为原则：每当“我存在，我实存”这句话由我说出或想到时，它必定是真的。",
+    english: "Wherefore I may lay this down as a Principle, that whenever this sentence I am, I exist, is spoken or thought of by Me, ’tis necessarily True.",
+    editorialSummary: "当我怀疑一切时，至少无法怀疑：怀疑正在发生。",
+    englishEditorialSummary: "When I doubt everything, at least I cannot doubt that doubting is taking place.",
     work: "《第一哲学沉思集》",
     englishWork: "Meditations on First Philosophy",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "彻底的怀疑并不是为了陷入虚无，而是寻找一个无法被继续动摇的认识起点。",
     englishReflection: "Radical doubt is not meant to leave us in nothingness. It seeks a starting point for knowledge that cannot be shaken any further.",
     question: "如果删去所有未经验证的确信，你还能从哪里开始？",
     englishQuestion: "If every untested certainty were removed, where could you still begin?",
+    sourceLocator: ["《第一哲学沉思集》第二沉思，第 13 页；William Molyneux 1680 年公版英译", "Meditation II, p. 13; William Molyneux public-domain translation (1680)"],
     palette: ["#e5e7e9", "#b6bec5", "#71808d", "#252b31"],
   },
   {
@@ -173,14 +277,18 @@ export const thoughts: Thought[] = [
     school: "理性主义",
     englishSchool: "Rationalism",
     topic: "伦理",
-    text: "理解一件事，会让我们少一些谴责，多一些自由。",
-    english: "To understand something is to condemn less and become more free.",
+    text: "正确认识到万物皆由神圣本性的必然性而来，并依自然的永恒法则与规则发生的人，不会发现任何值得仇恨、嘲笑或轻蔑的事物，也不会怜悯任何事物。",
+    english: "He who rightly realizes, that all things follow from the necessity of the divine nature, and come to pass in accordance with the eternal laws and rules of nature, will not find anything worthy of hatred, derision, or contempt, nor will he bestow pity on anything.",
+    editorialSummary: "理解一件事，会让我们少一些谴责，多一些自由。",
+    englishEditorialSummary: "To understand something is to condemn less and become more free.",
     work: "《伦理学》",
     englishWork: "Ethics",
+    presentationNature: "source-excerpt",
     reflection: "看见情感如何被原因推动，并不会消除情感，却可能让我们不再完全受它摆布。",
     englishReflection: "Seeing the causes that move an emotion does not erase it, but it may keep us from being completely ruled by it.",
     question: "若先理解一个人，你对他的判断会不会改变？",
     englishQuestion: "If you understood someone before judging them, how might your judgment change?",
+    sourceLocator: ["《伦理学》第四部命题 50 附释；R. H. M. Elwes 公版英译，连续节录", "Ethics IV, Proposition 50, Scholium; R. H. M. Elwes public-domain translation, continuous excerpt"],
     palette: ["#e2e8df", "#b3c3ad", "#718b6b", "#263025"],
   },
   {
@@ -192,10 +300,15 @@ export const thoughts: Thought[] = [
     school: "经验主义",
     englishSchool: "Empiricism",
     topic: "知识",
-    text: "心灵并非带着现成观念出生，经验为它写下最初的字迹。",
-    english: "The mind is not born with ready-made ideas; experience writes its first marks upon it.",
+    text: "那么，让我们假定心灵就像我们所说的那样，是一张白纸，没有任何字符，也没有任何观念；它是怎样得到这些内容的？……我的回答可以归结为一个词：来自经验；我们的一切知识都以经验为基础，并最终从经验而来。",
+    english: "Let us then suppose the Mind to be, as we say, white Paper, void of all Characters, without any Ideas; How comes it to be furnished? ... To this I answer, in one word, From Experience: In that, all our Knowledge is founded; and from that it ultimately derives it self.",
+    editorialSummary: "心灵并非带着现成观念出生，经验为它写下最初的字迹。",
+    englishEditorialSummary: "The mind is not born with ready-made ideas; experience writes its first marks upon it.",
     work: "《人类理解论》",
     englishWork: "An Essay Concerning Human Understanding",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
+    sourceLocator: ["《人类理解论》第二卷第一章第 2 节；卡片以省略号标示中间删节", "An Essay Concerning Human Understanding, II.1.2; internal omission marked with an ellipsis"],
     reflection: "我们的知识有边界。回到经验，也是在提醒自己：不要把习惯的观念误认作永恒真理。",
     englishReflection: "Knowledge has limits. Returning to experience reminds us not to mistake familiar ideas for eternal truths.",
     question: "你深信不疑的哪种看法，其实来自特定的成长经验？",
@@ -211,10 +324,15 @@ export const thoughts: Thought[] = [
     school: "经验主义",
     englishSchool: "Empiricism",
     topic: "知识",
-    text: "我们看见的是一件事随后发生，因果则是心灵形成的期待。",
-    english: "We see one event follow another; causality is the expectation formed by the mind.",
+    text: "一切事件看起来都是完全松散而分离的。一件事接着另一件事发生；但我们永远观察不到它们之间的任何纽带。它们似乎总是相伴，却从未显出必然连接。",
+    english: "All events seem entirely loose and separate. One event follows another; but we never can observe any tye between them. They seem conjoined, but never connected.",
+    editorialSummary: "我们看见的是一件事随后发生，因果则是心灵形成的期待。",
+    englishEditorialSummary: "We see one event follow another; causality is the expectation formed by the mind.",
     work: "《人类理解研究》",
     englishWork: "An Enquiry Concerning Human Understanding",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
+    sourceLocator: ["《人类理解研究》第 7 节第二部分，E 7.26；SBN 73—74", "An Enquiry Concerning Human Understanding, E 7.26; SBN 73–74"],
     reflection: "重复让我们产生确定感，但过去一再如此，并不能在逻辑上保证未来仍会如此。",
     englishReflection: "Repetition gives us a feeling of certainty, but the fact that the past has followed a pattern does not logically guarantee the future will do the same.",
     question: "你把哪一种熟悉的模式，当成了必然？",
@@ -230,14 +348,19 @@ export const thoughts: Thought[] = [
     school: "启蒙哲学",
     englishSchool: "Enlightenment Philosophy",
     topic: "政治",
-    text: "服从自己共同参与制定的规则，才可能成为自由。",
-    english: "To obey rules we have helped make together is what can make us free.",
+    text: "单纯欲望的冲动是奴役，而服从我们为自己规定的法律则是自由。",
+    english: "for the mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty.",
+    editorialSummary: "服从自己共同参与制定的规则，才可能成为自由。",
+    englishEditorialSummary: "To obey rules we have helped make together is what can make us free.",
     work: "《社会契约论》",
     englishWork: "The Social Contract",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "政治自由不是没有约束，而是公共规则不再只是来自他人的强迫，而有我们的共同意志在其中。",
     englishReflection: "Political freedom is not the absence of constraint. It exists when public rules express our shared will rather than merely someone else's force.",
     question: "什么样的规则，能让服从与自由不再矛盾？",
     englishQuestion: "What kind of rule could make obedience and freedom no longer contradict each other?",
+    sourceLocator: ["《社会契约论》第一卷第 8 章；G. D. H. Cole 公版英译，连续分句", "The Social Contract, Book I, Chapter 8; G. D. H. Cole public-domain translation, continuous clause"],
     palette: ["#e9e2d9", "#c9b39c", "#94765e", "#302721"],
   },
   {
@@ -249,14 +372,19 @@ export const thoughts: Thought[] = [
     school: "德国古典哲学",
     englishSchool: "German Classical Philosophy",
     topic: "伦理",
-    text: "人永远不应只被当作手段，也应同时被当作目的。",
-    english: "A person should never be treated merely as a means, but always also as an end.",
+    text: "你应当这样行动：无论是你自己的人格，还是任何其他人的人格，在任何情况下，都同时把人性当作目的，而决不只当作手段。",
+    english: "So act as to treat humanity, whether in thine own person or in that of any other, in every case as an end withal, never as means only.",
+    editorialSummary: "人永远不应只被当作手段，也应同时被当作目的。",
+    englishEditorialSummary: "A person should never be treated merely as a means, but always also as an end.",
     work: "《道德形而上学奠基》",
     englishWork: "Groundwork of the Metaphysics of Morals",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "尊严意味着：无论目标多么诱人，都不能把一个人的自主性简化成可利用的工具。",
     englishReflection: "Dignity means that no matter how attractive the goal, another person's autonomy cannot be reduced to a tool for our use.",
     question: "你今天的决定，有没有把谁仅仅当成通往结果的手段？",
     englishQuestion: "Has any decision you made today treated someone merely as a means to an outcome?",
+    sourceLocator: ["《道德形而上学奠基》第二节，学院版 4:429；Thomas Kingsmill Abbott 公版英译", "Groundwork, Section II, Akademie 4:429; Thomas Kingsmill Abbott public-domain translation"],
     palette: ["#e5e2dc", "#beb6aa", "#847b70", "#292724"],
   },
   {
@@ -268,14 +396,18 @@ export const thoughts: Thought[] = [
     school: "德国观念论",
     englishSchool: "German Idealism",
     topic: "存在",
-    text: "我们只有穿过矛盾，才能理解一个事物如何成为它自己。",
-    english: "Only by passing through contradiction can we understand how something becomes itself.",
+    text: "真理是整体。不过，整体只是通过自身发展过程达到完成的本质。",
+    english: "The truth is the whole. The whole, however, is merely the essential nature reaching its completeness through the process of its own development.",
+    editorialSummary: "我们只有穿过矛盾，才能理解一个事物如何成为它自己。",
+    englishEditorialSummary: "Only by passing through contradiction can we understand how something becomes itself.",
     work: "《精神现象学》",
     englishWork: "Phenomenology of Spirit",
+    presentationNature: "source-excerpt",
     reflection: "矛盾未必是思考失败的标志。事物内部的张力，常常正是变化与发展的动力。",
     englishReflection: "Contradiction need not mark a failure of thought. The tension within a thing is often precisely what drives its change and development.",
     question: "你正在回避的冲突，是否也藏着变化的方向？",
     englishQuestion: "Could the conflict you are avoiding also contain a direction for change?",
+    sourceLocator: ["《精神现象学》序言，第 20 节；J. B. Baillie 1910 年公版英译，连续节录", "Phenomenology of Mind, Preface, §20; J. B. Baillie public-domain translation (1910), continuous excerpt"],
     palette: ["#e1e2e6", "#afb3c0", "#6f7489", "#25262e"],
   },
   {
@@ -287,14 +419,22 @@ export const thoughts: Thought[] = [
     school: "存在主义先驱",
     englishSchool: "Forerunner of Existentialism",
     topic: "存在",
-    text: "生活只能向后理解，却必须向前生活。",
-    english: "Life can only be understood backward, but it must be lived forward.",
+    text: "正如哲学家们所说，生活必须向后理解，这完全正确。但他们忘了另一个命题：生活必须向前活。",
+    english: "It is perfectly true, as philosophers say, that life must be understood backwards. But they forget the other proposition, that it must be lived forwards.",
+    editorialSummary: "理解常在回望中形成，行动却只能在未知中向前展开。",
+    englishEditorialSummary: "Understanding often forms in retrospect, while action can only unfold forward into the unknown.",
     work: "《日记》",
     englishWork: "Journals",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
     reflection: "意义经常在经历之后才显现，而行动无法等到一切都被解释清楚才开始。",
     englishReflection: "Meaning often appears only after an experience, while action cannot wait for everything to be fully explained.",
     question: "在无法预知答案时，你愿意迈出哪一步？",
     englishQuestion: "What step are you willing to take when the answer cannot be known in advance?",
+    sourceLocator: [
+      "克尔凯郭尔《日记》IV A 164（1843；现行编目 JJ:167 / SKS 18，第 194 页）；Alexander Dru 编译《The Journals of Søren Kierkegaard》（1938），印刷页 127；相邻两个完整句，作者本人声音",
+      "Kierkegaard, Journals IV A 164 (1843; modern catalog JJ:167 / SKS 18, p. 194); Alexander Dru ed. and trans., The Journals of Søren Kierkegaard (1938), print p. 127; two consecutive complete sentences in Kierkegaard's own voice",
+    ],
     palette: ["#e6e0dd", "#bea9a1", "#876b63", "#2e2523"],
   },
   {
@@ -306,10 +446,15 @@ export const thoughts: Thought[] = [
     school: "历史唯物主义",
     englishSchool: "Historical Materialism",
     topic: "政治",
-    text: "人创造历史，但不是在自己任意选择的条件下创造。",
-    english: "People make history, but not under conditions of their own choosing.",
+    text: "人创造自己的历史，但不是凭空创造；不是在自己选择的条件下创造，而是在近在手边的既有条件下创造。",
+    english: "Man makes his own history, but he does not make it out of the whole cloth; he does not make it out of conditions chosen by himself, but out of such as he finds close at hand.",
+    editorialSummary: "人创造历史，但不是在自己任意选择的条件下创造。",
+    englishEditorialSummary: "People make history, but not under conditions of their own choosing.",
     work: "《路易·波拿巴的雾月十八日》",
     englishWork: "The Eighteenth Brumaire of Louis Bonaparte",
+    presentationNature: "source-excerpt",
+    rendering: "short-quote",
+    sourceLocator: ["《路易·波拿巴的雾月十八日》第一章；丹尼尔·德莱昂 1898 年公版英译", "The Eighteenth Brumaire of Louis Bonaparte, Chapter I; Daniel De Leon public-domain translation (1898)"],
     reflection: "行动者既不是全能的，也不是无力的。自由总在既有结构、历史遗产与现实机会之间展开。",
     englishReflection: "Agents are neither all-powerful nor powerless. Freedom always unfolds among existing structures, historical inheritances, and present opportunities.",
     question: "哪些条件限制着你，哪些条件又能被你改变？",
@@ -325,14 +470,18 @@ export const thoughts: Thought[] = [
     school: "生命哲学",
     englishSchool: "Philosophy of Life",
     topic: "存在",
-    text: "成为你自己，并不是发现答案，而是持续创造它。",
-    english: "Becoming yourself is not a matter of finding the answer, but of continually creating it.",
+    text: "你的良知说什么？——“你应当成为你所是的那个人。”",
+    english: "What Saith thy Conscience?—\"Thou shalt become what thou art.\"",
+    editorialSummary: "成为你自己，并不是发现答案，而是持续创造它。",
+    englishEditorialSummary: "Becoming yourself is not a matter of finding the answer, but of continually creating it.",
     work: "《快乐的科学》",
     englishWork: "The Gay Science",
+    presentationNature: "source-excerpt",
     reflection: "自我不是等待发掘的固定内核。我们通过选择、训练与重新评价，参与自己的生成。",
     englishReflection: "The self is not a fixed core waiting to be uncovered. Through choice, discipline, and revaluation, we participate in our own becoming.",
     question: "如果身份不是答案，你今天想为自己创造什么？",
     englishQuestion: "If identity is not an answer, what would you like to create for yourself today?",
+    sourceLocator: ["《快乐的科学》第 270 节；Thomas Common 1910 年公版英译，连续节录", "The Joyful Wisdom §270; Thomas Common public-domain translation (1910), continuous excerpt"],
     palette: ["#e8dfd0", "#c9ad7d", "#a07335", "#302719"],
   },
   {
@@ -344,14 +493,18 @@ export const thoughts: Thought[] = [
     school: "现象学",
     englishSchool: "Phenomenology",
     topic: "知识",
-    text: "暂时搁置关于世界的成见，让事物重新显现。",
-    english: "Set aside our assumptions about the world for a moment, and let things show themselves again.",
-    work: "《纯粹现象学通论》",
-    englishWork: "Ideas I",
-    reflection: "现象学邀请我们暂停自动判断，仔细描述经验究竟如何出现，而不是急着解释它是什么。",
-    englishReflection: "Phenomenology asks us to suspend automatic judgment and describe carefully how experience appears before rushing to explain what it is.",
-    question: "若暂时不命名，你眼前的经验是什么样子？",
-    englishQuestion: "If you withheld its name for a moment, what would the experience before you be like?",
+    text: "他必须抑止每一种通常的客观“设定”，并且不参与任何关于客观世界的判断。",
+    english: "He must inhibit every ordinary objective “position,” and partake in no judgment concerning the objective world.",
+    editorialSummary: "现象学还原暂停关于客观世界的日常设定，把注意转向世界如何作为意识经验显现。",
+    englishEditorialSummary: "Phenomenological reduction suspends ordinary positings of the objective world and turns attention to how the world appears in conscious experience.",
+    work: "〈现象学〉（《大英百科全书》）",
+    englishWork: "“Phenomenology” (Encyclopaedia Britannica)",
+    presentationNature: "source-excerpt",
+    reflection: "“抑止”并非断言世界不存在，而是暂不参与关于客观世界的判断，以便描述经验中的显现。",
+    englishReflection: "“Inhibit” does not declare the world nonexistent; it suspends participation in objective judgments so appearances can be described as experienced.",
+    question: "当你暂不判断一件事是否客观成立时，经验本身还有哪些可描述的细节？",
+    englishQuestion: "When you suspend judgment about whether something is objectively the case, what details of the experience itself remain describable?",
+    sourceLocator: ["胡塞尔〈现象学〉，《大英百科全书》第14版第17卷（1929），第一部分“现象学心理学”之“现象学—心理学与本质还原”，印刷页700第2栏；C. V. Salmon英译，完整连续句；仅确认美国公版", "Husserl, “Phenomenology,” Encyclopaedia Britannica, 14th ed., vol. 17 (1929), Part I, “Phenomenological Psychology,” subsection “Phenomenological-psychological and Eidetic Reductions,” print p. 700, col. 2; trans. C. V. Salmon, complete continuous sentence; U.S. public-domain status only"],
     palette: ["#e1e8e5", "#aec3bd", "#6f9188", "#23312e"],
   },
   {
@@ -382,14 +535,18 @@ export const thoughts: Thought[] = [
     school: "语言哲学",
     englishSchool: "Philosophy of Language",
     topic: "语言",
-    text: "一个词的意义，常常就在它被使用的方式里。",
-    english: "The meaning of a word often lies in the way it is used.",
+    text: "对于我们使用“意义”一词的一大类情形——虽非全部——它可以这样界定：一个词的意义就是它在语言中的使用。",
+    english: "For a large class of cases—though not for all—in which we employ the word “meaning” it can be defined thus: the meaning of a word is its use in the language.",
+    editorialSummary: "一个词的意义，常常就在它被使用的方式里。",
+    englishEditorialSummary: "The meaning of a word often lies in the way it is used.",
     work: "《哲学研究》",
     englishWork: "Philosophical Investigations",
+    presentationNature: "source-excerpt",
     reflection: "很多哲学困惑来自语言离开了日常使用。回到具体场景，问题有时不是被解答，而是被化解。",
     englishReflection: "Many philosophical confusions arise when language leaves its ordinary use. Back in a concrete situation, a problem may dissolve rather than be answered.",
     question: "你争论的那个词，在彼此口中真的是同一个意思吗？",
     englishQuestion: "Does the word you are arguing about really mean the same thing in each person's mouth?",
+    sourceLocator: ["维特根斯坦《哲学研究》，G. E. M. Anscombe 英译，第三版英文文本（第二版修订文本在第三版保持不变），第一部第43节，印刷页20e（PDF第14页左页）；完整连续句，英文33词", "Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe, third-edition English text (the revised second-edition text remains unchanged in the third), Part I, §43, print p. 20e (PDF p. 14, left page); one complete continuous sentence, 33 English words"],
     palette: ["#e4e4df", "#bab9ab", "#7e7c6c", "#292924"],
   },
   {
@@ -546,7 +703,25 @@ export const thoughts: Thought[] = [
   },
 ];
 
+const legacyThoughtArchive: Thought[] = [
+  ...primaryThoughts,
+  ...buildSupplementaryThoughts(primaryThoughts),
+  ...buildAncientExpansionThoughts(primaryThoughts),
+  ...buildModernExpansionThoughts(primaryThoughts),
+  ...buildContemporaryExpansionThoughts(primaryThoughts),
+];
+
+export const thoughts: Thought[] = [
+  ...curateLegacyThoughts(legacyThoughtArchive),
+  ...philosophyCanonEarlyThoughts,
+  ...philosophyCanonModernThoughts,
+  ...contemporaryCanonThoughts,
+];
+
 export type ConnectionKind = "inherits" | "reframes" | "challenges" | "dialogues" | "resonates" | "contrasts";
+
+export type ThoughtConnectionScope = "author" | "thought";
+export type ThoughtConnectionBasis = "editorial" | "documented";
 
 export type ThoughtConnection = {
   source: string;
@@ -554,8 +729,26 @@ export type ThoughtConnection = {
   kind: ConnectionKind;
   summary: string;
   englishSummary: string;
+  scope?: ThoughtConnectionScope;
+  basis?: ThoughtConnectionBasis;
 };
 
+export type ThoughtLevelConnection = ThoughtConnection & {
+  id: string;
+  scope: "thought";
+};
+
+export type AuthorLevelConnection = ThoughtConnection & {
+  scope: "author";
+};
+
+/**
+ * Legacy Western author-to-author map.
+ *
+ * Its endpoint strings happen to match representative card IDs, but the
+ * summaries describe relationships between authors or bodies of work. Keep
+ * this catalog separate from quote-level lineage resolution.
+ */
 export const thoughtConnections: ThoughtConnection[] = [
   {
     source: "socrates",
@@ -963,4 +1156,271 @@ export const thoughtConnections: ThoughtConnection[] = [
     summary: "从省察生活到“关切自身”，两者都让哲学成为改变主体的实践，而不仅是积累知识。",
     englishSummary: "From the examined life to care of the self, both make philosophy a practice that transforms the subject, not merely accumulated knowledge.",
   },
+  {
+    source: "heraclitus",
+    target: "parmenides",
+    kind: "contrasts",
+    summary: "赫拉克利特以变化与对立把握世界，巴门尼德则坚持真正的存在不可生成、不可消灭；这组张力塑造了后来关于变化何以可能的争论。",
+    englishSummary: "Heraclitus approaches the world through change and opposition, while Parmenides holds that what truly is cannot come to be or pass away; their tension frames later debates about how change is possible.",
+  },
+  {
+    source: "seneca",
+    target: "epictetus",
+    kind: "dialogues",
+    summary: "两位斯多葛思想家都把哲学落到日常训练；塞涅卡更多从情绪、时间与处境写起，爱比克泰德则集中区分可控与不可控。",
+    englishSummary: "Both Stoics turn philosophy into daily training: Seneca often begins from emotion, time, and circumstance, while Epictetus centers the distinction between what is and is not up to us.",
+  },
+  {
+    source: "plato",
+    target: "plotinus",
+    kind: "reframes",
+    summary: "普罗提诺把柏拉图散见于不同对话中的理念、灵魂与善，重构为从“一者”到心智与灵魂的层级体系。",
+    englishSummary: "Plotinus recasts Plato's dispersed accounts of Forms, soul, and the Good into a layered procession from the One through Intellect and Soul.",
+  },
+  {
+    source: "plotinus",
+    target: "augustine",
+    kind: "reframes",
+    summary: "奥古斯丁借助新柏拉图主义理解内在性、非物质实在与恶的匮乏，同时把回归最高原则改写进基督教的创造与恩典框架。",
+    englishSummary: "Augustine draws on Neoplatonism for inwardness, immaterial reality, and evil as privation, while recasting return to the highest principle within Christian creation and grace.",
+  },
+  {
+    source: "aristotle",
+    target: "avicenna",
+    kind: "reframes",
+    summary: "阿维森纳继承亚里士多德的形而上学与灵魂论，却以本质与存在之分、必然存在者等概念建立了自己的体系。",
+    englishSummary: "Avicenna inherits Aristotelian metaphysics and psychology but constructs a new system through the essence-existence distinction and the Necessary Existent.",
+  },
+  {
+    source: "avicenna",
+    target: "thomas_aquinas",
+    kind: "dialogues",
+    summary: "托马斯·阿奎那吸收阿维森纳关于本质、存在与因果的分析，同时在创造、个体化和上帝知识等问题上作出关键修正。",
+    englishSummary: "Thomas Aquinas absorbs Avicenna's analyses of essence, existence, and causation while substantially revising them on creation, individuation, and divine knowledge.",
+  },
+  {
+    source: "aristotle",
+    target: "averroes",
+    kind: "reframes",
+    summary: "阿威罗伊通过系统注释重建亚里士多德的论证；他的读法随后进入拉丁世界，并改变了中世纪关于理智与哲学自主性的争论。",
+    englishSummary: "Averroes reconstructs Aristotle through systematic commentary; his readings then enter the Latin world and reshape medieval disputes over intellect and philosophy's autonomy.",
+  },
+  {
+    source: "averroes",
+    target: "thomas_aquinas",
+    kind: "challenges",
+    summary: "阿奎那认真借鉴又反对拉丁阿威罗伊主义，尤其围绕全人类是否共享一个可能理智展开论辩。",
+    englishSummary: "Aquinas engages Averroist interpretation while opposing it, especially in the dispute over whether all humans share a single possible intellect.",
+  },
+  {
+    source: "machiavelli",
+    target: "hobbes",
+    kind: "reframes",
+    summary: "两者都不从理想德性直接推演政治；马基雅维利研究权力、机运与建国行动，霍布斯则以恐惧、契约和主权重构秩序问题。",
+    englishSummary: "Neither derives politics directly from ideal virtue: Machiavelli studies power, fortune, and founding action, while Hobbes reconstructs order through fear, covenant, and sovereignty.",
+  },
+  {
+    source: "francis_bacon",
+    target: "locke",
+    kind: "resonates",
+    summary: "培根要求知识回到有组织的经验与实验，洛克则追踪观念如何由经验形成；两者共同削弱了诉诸先天权威的解释。",
+    englishSummary: "Bacon returns knowledge to organized experience and experiment, while Locke traces ideas to experience; both weaken appeals to inherited or innate authority.",
+  },
+  {
+    source: "hobbes",
+    target: "locke",
+    kind: "challenges",
+    summary: "霍布斯用绝对主权终止自然状态的不安全，洛克则以自然权利、有限政府与反抗权限制政治权力。",
+    englishSummary: "Hobbes ends the insecurity of the state of nature through undivided sovereignty; Locke limits political power through natural rights, limited government, and a right of resistance.",
+  },
+  {
+    source: "descartes",
+    target: "leibniz",
+    kind: "dialogues",
+    summary: "莱布尼茨延续笛卡尔以理性建立体系的雄心，却反对身心与广延实体的简化，并以单子、充足理由和预定和谐另作回答。",
+    englishSummary: "Leibniz shares Descartes's rational-systematic ambition but rejects his simplified substances and mind-body account, answering with monads, sufficient reason, and pre-established harmony.",
+  },
+  {
+    source: "leibniz",
+    target: "kant",
+    kind: "challenges",
+    summary: "康德在莱布尼茨—沃尔夫体系的问题背景中成长，却反对仅凭纯粹概念认识实在；先验哲学由此重新划定理性的权限。",
+    englishSummary: "Kant develops against the Leibniz-Wolffian background but denies that pure concepts alone disclose reality; transcendental philosophy redraws reason's jurisdiction.",
+  },
+  {
+    source: "berkeley",
+    target: "hume",
+    kind: "dialogues",
+    summary: "贝克莱与休谟都把经验主义推向观念、知觉与语言的内部检验；休谟进一步把因果、自我与必然性的怀疑系统化。",
+    englishSummary: "Berkeley and Hume both press empiricism into a critique of ideas, perception, and language; Hume further systematizes doubts about causation, self, and necessity.",
+  },
+  {
+    source: "wollstonecraft",
+    target: "beauvoir",
+    kind: "reframes",
+    summary: "沃斯通克拉夫特揭示所谓女性天性如何由不平等教育塑造；波伏瓦把这一问题推进为性别主体如何在社会中被制造。",
+    englishSummary: "Wollstonecraft shows how unequal education manufactures supposed feminine nature; Beauvoir extends the problem into an account of how gendered subjects are socially made.",
+  },
+  {
+    source: "bentham",
+    target: "mill",
+    kind: "reframes",
+    summary: "密尔继承边沁以幸福评价行动与制度的原则，同时用快乐的质差、个体发展和自由论修正单纯的数量计算。",
+    englishSummary: "Mill inherits Bentham's appeal to happiness in evaluating action and institutions, while revising simple quantity through qualitative pleasures, individuality, and liberty.",
+  },
+  {
+    source: "kant",
+    target: "schopenhauer",
+    kind: "challenges",
+    summary: "叔本华接受现象受认识条件塑造的康德式转向，却把不可知的物自身改写为可从身体经验触及的意志。",
+    englishSummary: "Schopenhauer accepts Kant's turn to the conditions shaping appearance but recasts the unknowable thing in itself as will, approached through bodily experience.",
+  },
+  {
+    source: "schopenhauer",
+    target: "nietzsche",
+    kind: "reframes",
+    summary: "尼采早期深受叔本华影响，后来拒绝以否定意志求解脱，并把悲观主义转向生命、价值创造与自我超越的检验。",
+    englishSummary: "Nietzsche begins under Schopenhauer's influence but rejects salvation through denial of the will, turning pessimism into a test of life, value creation, and self-overcoming.",
+  },
+  {
+    source: "frege",
+    target: "russell",
+    kind: "inherits",
+    summary: "罗素继承弗雷格以逻辑分析数学和语言的计划；罗素悖论又迫使这一计划重新处理集合、类型与基础。",
+    englishSummary: "Russell inherits Frege's logical analysis of mathematics and language, while Russell's paradox forces the project to reconsider sets, types, and foundations.",
+  },
+  {
+    source: "russell",
+    target: "wittgenstein",
+    kind: "dialogues",
+    summary: "早期维特根斯坦在与罗素的密切对话中重画逻辑、语言与世界的边界，后来又转向日常语言批评早期共同预设。",
+    englishSummary: "In close dialogue with Russell, the early Wittgenstein redraws the limits of logic, language, and world; his later work turns to ordinary language and criticizes assumptions they once shared.",
+  },
+  {
+    source: "peirce",
+    target: "james",
+    kind: "dialogues",
+    summary: "皮尔士把概念意义系于可设想的实践后果，詹姆斯则把实用主义扩展到真理、经验与人生选择；相近起点并不等于同一理论。",
+    englishSummary: "Peirce ties a concept's meaning to conceivable practical effects, while James extends pragmatism to truth, experience, and lived choice; their shared starting point does not make their theories identical.",
+  },
+  {
+    source: "james",
+    target: "dewey",
+    kind: "reframes",
+    summary: "杜威继承詹姆斯对经验过程与实际后果的重视，并把它重构为探究、教育、民主与公共问题的方法。",
+    englishSummary: "Dewey inherits James's attention to experiential process and practical consequences, recasting it as a method of inquiry, education, democracy, and public problem-solving.",
+  },
+  {
+    source: "russell",
+    target: "carnap",
+    kind: "reframes",
+    summary: "卡尔纳普延续逻辑分析与科学语言重构的计划，却更系统地区分语言框架、句法与经验检验。",
+    englishSummary: "Carnap continues the project of logical analysis and reconstructing scientific language, while more systematically distinguishing linguistic frameworks, syntax, and empirical testing.",
+  },
+  {
+    source: "carnap",
+    target: "quine",
+    kind: "challenges",
+    summary: "奎因挑战卡尔纳普所依赖的分析—综合区分与框架观，主张信念整体面对经验，哲学也不能站在科学之外。",
+    englishSummary: "Quine challenges the analytic-synthetic distinction and framework view on which Carnap relies, arguing that belief faces experience as a whole and philosophy cannot stand outside science.",
+  },
+  {
+    source: "popper",
+    target: "kuhn",
+    kind: "challenges",
+    summary: "波普尔以可证伪的批判检验说明科学理性，库恩则指出常规科学受范式组织，重大转变也包含历史共同体与概念变化。",
+    englishSummary: "Popper explains scientific rationality through falsifiable critical testing; Kuhn shows normal science organized by paradigms and major shifts involving historical communities and conceptual change.",
+  },
+  {
+    source: "husserl",
+    target: "merleau-ponty",
+    kind: "reframes",
+    summary: "梅洛-庞蒂继承胡塞尔对经验显现方式的追问，却把身体从被意识把握的对象提升为我们拥有世界的前反思条件。",
+    englishSummary: "Merleau-Ponty inherits Husserl's inquiry into how experience appears but elevates the body from an object of consciousness to the pre-reflective condition of having a world.",
+  },
+  {
+    source: "wittgenstein",
+    target: "anscombe",
+    kind: "inherits",
+    summary: "安斯康姆既是维特根斯坦的重要学生与译者，也把对语言使用的严格辨析带入意向、行动与伦理学研究。",
+    englishSummary: "Anscombe was a major student and translator of Wittgenstein and carried rigorous attention to language use into the study of intention, action, and ethics.",
+  },
+  {
+    source: "anscombe",
+    target: "foot",
+    kind: "dialogues",
+    summary: "安斯康姆与富特共同推动德性伦理复兴，并反对把道德判断还原成脱离人类生活形式的抽象命令。",
+    englishSummary: "Anscombe and Foot help revive virtue ethics and resist reducing moral judgment to abstract commands detached from forms of human life.",
+  },
+  {
+    source: "kant",
+    target: "habermas",
+    kind: "reframes",
+    summary: "哈贝马斯保留康德关于自主与普遍可辩护性的要求，却把理性的根据从孤立主体转移到参与者之间可检验的沟通程序。",
+    englishSummary: "Habermas retains Kant's demands for autonomy and universal justifiability but relocates reason from an isolated subject to communicative procedures open to participants' testing.",
+  },
+  {
+    source: "habermas",
+    target: "foucault",
+    kind: "contrasts",
+    summary: "哈贝马斯寻找批判所需的沟通规范，福柯则追踪规范自身如何在权力与知识关系中形成；二者代表批判理论的不同路径。",
+    englishSummary: "Habermas seeks communicative norms required for critique, while Foucault traces how norms themselves form within power-knowledge relations; they mark different routes for critical theory.",
+  },
+  {
+    source: "hegel",
+    target: "du-bois",
+    kind: "reframes",
+    summary: "杜波依斯借助承认、分裂意识等黑格尔式问题理解种族化经验，并以“二重意识”揭示美国民主内部的现实断裂。",
+    englishSummary: "Du Bois draws on Hegelian problems of recognition and divided consciousness to interpret racialized experience, using double consciousness to expose fractures within American democracy.",
+  },
+  {
+    source: "du-bois",
+    target: "fanon",
+    kind: "resonates",
+    summary: "二重意识与殖民凝视都说明主体如何在他人的贬抑目光中被迫看待自己；法农进一步追踪殖民制度、身体与暴力的结构。",
+    englishSummary: "Double consciousness and the colonial gaze both show a subject forced to see itself through a devaluing other; Fanon further traces the structures of colonial institutions, embodiment, and violence.",
+  },
+  {
+    source: "sartre",
+    target: "fanon",
+    kind: "dialogues",
+    summary: "法农借用又改造存在主义关于自由、处境与他人目光的分析，拒绝让殖民经验只停留在抽象主体层面。",
+    englishSummary: "Fanon borrows and transforms existential analyses of freedom, situation, and the other's gaze, refusing to leave colonial experience at the level of an abstract subject.",
+  },
+  {
+    source: "husserl",
+    target: "levinas",
+    kind: "reframes",
+    summary: "列维纳斯从胡塞尔学习意向性与现象学描述，却把第一哲学的重心由意识构成转向面对他者时不可回避的伦理责任。",
+    englishSummary: "Levinas learns intentionality and phenomenological description from Husserl but shifts first philosophy from conscious constitution to inescapable ethical responsibility before the other.",
+  },
+  {
+    source: "heidegger",
+    target: "levinas",
+    kind: "challenges",
+    summary: "列维纳斯接受海德格尔对传统主体哲学的突破，却反对让存在论先于伦理，坚持他者不能被总体化为我的理解对象。",
+    englishSummary: "Levinas accepts Heidegger's break with traditional subject philosophy but rejects ontology's priority over ethics, insisting that the other cannot be totalized as an object of my understanding.",
+  },
+  {
+    source: "heidegger",
+    target: "gadamer",
+    kind: "reframes",
+    summary: "伽达默尔把海德格尔关于理解的存在论分析推进到诠释学，强调传统、语言与应用并非偏见干扰，而是理解得以发生的条件。",
+    englishSummary: "Gadamer develops Heidegger's ontological account of understanding into hermeneutics, treating tradition, language, and application not merely as distortions but as conditions of understanding.",
+  },
+  {
+    source: "gadamer",
+    target: "habermas",
+    kind: "dialogues",
+    summary: "伽达默尔强调理解总在传统与语言中发生，哈贝马斯则追问传统是否可能被权力扭曲、因而需要批判性反思。",
+    englishSummary: "Gadamer stresses that understanding always occurs within tradition and language; Habermas asks whether tradition may be distorted by power and therefore require critical reflection.",
+  },
 ];
+
+export const westernAuthorConnections: AuthorLevelConnection[] = thoughtConnections.map(
+  (connection) => ({
+    ...connection,
+    scope: "author",
+    basis: connection.basis ?? "editorial",
+  }),
+);

@@ -1,0 +1,67 @@
+{
+  "name": "AGORA Chrome Web Store assets",
+  "version": 3,
+  "generatedAt": "2026-07-30T20:49:13.888Z",
+  "identity": {
+    "concept": "open courtyard and thought node",
+    "palette": {
+      "ivory": "#eee8dc",
+      "ivoryLight": "#f7f3ea",
+      "charcoal": "#26231e",
+      "charcoalSoft": "#55514a",
+      "verdigris": "#5f8176",
+      "verdigrisDark": "#496a60",
+      "line": "#aaa396"
+    }
+  },
+  "files": {
+    "storeIcon": {
+      "path": "upload/global/store-icon-128.png",
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    "screenshots": {
+      "zh-CN": [
+        "upload/zh-CN/screenshot-01-new-tab-1280x800.png",
+        "upload/zh-CN/screenshot-02-collections-1280x800.png",
+        "upload/zh-CN/screenshot-03-deep-reading-1280x800.png",
+        "upload/zh-CN/screenshot-04-thought-network-1280x800.png",
+        "upload/zh-CN/screenshot-05-keep-and-share-1280x800.png"
+      ],
+      "zh-TW": [
+        "upload/zh-TW/screenshot-01-new-tab-1280x800.png",
+        "upload/zh-TW/screenshot-02-collections-1280x800.png",
+        "upload/zh-TW/screenshot-03-deep-reading-1280x800.png",
+        "upload/zh-TW/screenshot-04-thought-network-1280x800.png",
+        "upload/zh-TW/screenshot-05-keep-and-share-1280x800.png"
+      ],
+      "en": [
+        "upload/en/screenshot-01-new-tab-1280x800.png",
+        "upload/en/screenshot-02-collections-1280x800.png",
+        "upload/en/screenshot-03-deep-reading-1280x800.png",
+        "upload/en/screenshot-04-thought-network-1280x800.png",
+        "upload/en/screenshot-05-keep-and-share-1280x800.png"
+      ],
+      "global": [
+        "upload/global/screenshot-01-new-tab-1280x800.png",
+        "upload/global/screenshot-02-collections-1280x800.png",
+        "upload/global/screenshot-03-deep-reading-1280x800.png",
+        "upload/global/screenshot-04-thought-network-1280x800.png",
+        "upload/global/screenshot-05-keep-and-share-1280x800.png"
+      ]
+    },
+    "smallPromo": {
+      "path": "upload/global/small-promo-440x280.png",
+      "width": 440,
+      "height": 280,
+      "alpha": false
+    },
+    "marquee": {
+      "path": "upload/global/marquee-1400x560.png",
+      "width": 1400,
+      "height": 560,
+      "alpha": false
+    }
+  }
+}

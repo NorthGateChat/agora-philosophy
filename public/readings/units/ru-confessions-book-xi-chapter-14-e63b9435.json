@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-confessions-book-xi-chapter-14-e63b9435",
+  "title": "卷 XI · 章 14",
+  "englishTitle": "Book XI · Chapter 14",
+  "work": "《忏悔录》",
+  "englishWork": "Confessions",
+  "locator": "卷 XI · 章 14",
+  "englishLocator": "Book XI · Chapter 14",
+  "version": "New Advent，J. G. Pilkington 1887 年 NPNF 公版英译，《忏悔录》第十一卷第 14 章第 17 节",
+  "englishVersion": "New Advent, J. G. Pilkington public-domain translation in NPNF (1887), Confessions XI.14.17",
+  "sourceUrl": "https://www.newadvent.org/fathers/110111.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/110111.htm",
+    "contentType": "text/html",
+    "sha256": "f30b4e6bc76c805d906b6fca78b3d1b7bff903d1bb6a6fb31950c3cf4761f5f2"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "c5835b7b094e4895d4595c64c69dffb396ea709330b44f9985cd782074e26004",
+  "inputHash": "4437a62a2bbe0c1bd446a34cc22ad390bc57c6aa49e7563c7863901a9a621682",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 14. Neither Time Past Nor Future, But the Present Only, Really is."
+    },
+    {
+      "id": "p0002",
+      "text": "17. At no time, therefore, had Thou not made anything, because You had made time itself. And no times are co-eternal with You, because You remain for ever; but should these continue, they would not be times. For what is time? Who can easily and briefly explain it? Who even in thought can comprehend it, even to the pronouncing of a word concerning it? But what in speaking do we refer to more familiarly and knowingly than time? And certainly we understand when we speak of it; we understand also when we hear it spoken of by another. What, then, is time? If no one ask of me, I know ; if I wish to explain to him who asks, I know not. Yet I say with confidence, that I know that if nothing passed away, there would not be past time; and if nothing were coming, there would not be future time; and if nothing were, there would not be present time. Those two times, therefore, past and future, how are they, when even the past now is not; and the future is not as yet? But should the present be always present, and should it not pass into time past, time truly it could not be, but eternity . If, then, time present — if it be time — only comes into existence because it passes into time past, how do we say that even this is, whose cause of being is that it shall not be — namely, so that we cannot truly say that time is, unless because it tends not to be?"
+    }
+  ],
+  "anchors": {
+    "augustine": {
+      "paragraphId": "p0002",
+      "start": 536,
+      "end": 636,
+      "quote": "What, then, is time? If no one ask of me, I know; if I wish to explain to him who asks, I know not.",
+      "match": "normalized-exact"
+    }
+  }
+}

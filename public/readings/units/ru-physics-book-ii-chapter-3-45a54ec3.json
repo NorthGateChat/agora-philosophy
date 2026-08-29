@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-physics-book-ii-chapter-3-45a54ec3",
+  "title": "卷 II · 章 3",
+  "englishTitle": "Book II · Chapter 3",
+  "work": "《物理学》",
+  "englishWork": "Physics",
+  "locator": "卷 II · 章 3",
+  "englishLocator": "Book II · Chapter 3",
+  "version": "MIT 经典文库 R. P. Hardie 与 R. K. Gaye 公版英译，亚里士多德《物理学》II.3，194b23—35；卡片以省略号标示中间删节",
+  "englishVersion": "MIT Internet Classics Archive, R. P. Hardie and R. K. Gaye public-domain translation, Aristotle, Physics II.3, 194b23–35; internal omissions marked with ellipses",
+  "sourceUrl": "https://classics.mit.edu/Aristotle/physics.2.ii.html",
+  "source": {
+    "url": "https://classics.mit.edu/Aristotle/physics.2.ii.html",
+    "contentType": "text/html",
+    "sha256": "215dfbbccf4158b5399082e6ef30a6497b3a0443862fc17c7743275bdc5614a7"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "04e4ee3c00cbf4969eb4c26322c751bcb2ef3b8f75be0cb988fdc175e2792ffa",
+  "inputHash": "e3b46245738125e25e2e152c91690cf0341fcc1f4edb84ee5a57a8036081952d",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Part 3"
+    },
+    {
+      "id": "p0002",
+      "text": "Now that we have established these distinctions, we must proceed to consider causes, their character and number. Knowledge is the object of our inquiry, and men do not think they know a thing till they have grasped the 'why' of (which is to grasp its primary cause). So clearly we too must do this as regards both coming to be and passing away and every kind of physical change, in order that, knowing their principles, we may try to refer to these principles each of our problems."
+    },
+    {
+      "id": "p0003",
+      "text": "In one sense, then, (1) that out of which a thing comes to be and which persists, is called 'cause', e.g. the bronze of the statue, the silver of the bowl, and the genera of which the bronze and the silver are species."
+    },
+    {
+      "id": "p0004",
+      "text": "In another sense (2) the form or the archetype, i.e. the statement of the essence, and its genera, are called 'causes' (e.g. of the octave the relation of 2:1, and generally number), and the parts in the definition."
+    },
+    {
+      "id": "p0005",
+      "text": "Again (3) the primary source of the change or coming to rest; e.g. the man who gave advice is a cause, the father is cause of the child, and generally what makes of what is made and what causes change of what is changed."
+    },
+    {
+      "id": "p0006",
+      "text": "Again (4) in the sense of end or 'that for the sake of which' a thing is done, e.g. health is the cause of walking about. ('Why is he walking about?' we say. 'To be healthy', and, having said that, we think we have assigned the cause.) The same is true also of all the intermediate steps which are brought about through the action of something else as means towards the end, e.g. reduction of flesh, purging, drugs, or surgical instruments are means towards health. All these things are 'for the sake of' the end, though they differ from one another in that some are activities, others instruments."
+    },
+    {
+      "id": "p0007",
+      "text": "This then perhaps exhausts the number of ways in which the term 'cause' is used."
+    },
+    {
+      "id": "p0008",
+      "text": "As the word has several senses, it follows that there are several causes of the same thing not merely in virtue of a concomitant attribute), e.g. both the art of the sculptor and the bronze are causes of the statue. These are causes of the statue qua statue, not in virtue of anything else that it may be-only not in the same way, the one being the material cause, the other the cause whence the motion comes. Some things cause each other reciprocally, e.g. hard work causes fitness and vice versa, but again not in the same way, but the one as end, the other as the origin of change. Further the same thing is the cause of contrary results. For that which by its presence brings about one result is sometimes blamed for bringing about the contrary by its absence. Thus we ascribe the wreck of a ship to the absence of the pilot whose presence was the cause of its safety."
+    },
+    {
+      "id": "p0009",
+      "text": "All the causes now mentioned fall into four familiar divisions. The letters are the causes of syllables, the material of artificial products, fire, &c., of bodies, the parts of the whole, and the premisses of the conclusion, in the sense of 'that from which'. Of these pairs the one set are causes in the sense of substratum, e.g. the parts, the other set in the sense of essence-the whole and the combination and the form. But the seed and the doctor and the adviser, and generally the maker, are all sources whence the change or stationariness originates, while the others are causes in the sense of the end or the good of the rest; for 'that for the sake of which' means what is best and the end of the things that lead up to it. (Whether we say the 'good itself or the 'apparent good' makes no difference.)"
+    },
+    {
+      "id": "p0010",
+      "text": "Such then is the number and nature of the kinds of cause. Now the modes of causation are many, though when brought under heads they too can be reduced in number. For 'cause' is used in many senses and even within the same kind one may be prior to another (e.g. the doctor and the expert are causes of health, the relation 2:1 and number of the octave), and always what is inclusive to what is particular. Another mode of causation is the incidental and its genera, e.g. in one way 'Polyclitus', in another 'sculptor' is the cause of a statue, because 'being Polyclitus' and 'sculptor' are incidentally conjoined. Also the classes in which the incidental attribute is included; thus 'a man' could be said to be the cause of a statue or, generally, 'a living creature'. An incidental attribute too may be more or less remote, e.g. suppose that 'a pale man' or 'a musical man' were said to be the cause of the statue."
+    },
+    {
+      "id": "p0011",
+      "text": "All causes, both proper and incidental, may be spoken of either as potential or as actual; e.g. the cause of a house being built is either 'house-builder' or 'house-builder building'."
+    },
+    {
+      "id": "p0012",
+      "text": "Similar distinctions can be made in the things of which the causes are causes, e.g. of 'this statue' or of 'statue' or of 'image' generally, of 'this bronze' or of 'bronze' or of 'material' generally. So too with the incidental attributes. Again we may use a complex expression for either and say, e.g. neither 'Polyclitus' nor 'sculptor' but 'Polyclitus, sculptor'."
+    },
+    {
+      "id": "p0013",
+      "text": "All these various uses, however, come to six in number, under each of which again the usage is twofold. Cause means either what is particular or a genus, or an incidental attribute or a genus of that, and these either as a complex or each by itself; and all six either as actual or as potential. The difference is this much, that causes which are actually at work and particular exist and cease to exist simultaneously with their effect, e.g. this healing person with this being-healed person and that house-building man with that being-built house; but this is not always true of potential causes--the house and the housebuilder do not pass away simultaneously."
+    },
+    {
+      "id": "p0014",
+      "text": "In investigating the cause of each thing it is always necessary to seek what is most precise (as also in other things): thus man builds because he is a builder, and a builder builds in virtue of his art of building. This last cause then is prior: and so generally."
+    },
+    {
+      "id": "p0015",
+      "text": "Further, generic effects should be assigned to generic causes, particular effects to particular causes, e.g. statue to sculptor, this statue to this sculptor; and powers are relative to possible effects, actually operating causes to things which are actually being effected."
+    },
+    {
+      "id": "p0016",
+      "text": "This must suffice for our account of the number of causes and the modes of causation."
+    }
+  ],
+  "anchors": {
+    "aristotle-four-causes": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 100,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0003",
+          "start": 0,
+          "end": 100,
+          "text": "In one sense, then, (1) that out of which a thing comes to be and which persists, is called 'cause',"
+        },
+        {
+          "paragraphId": "p0004",
+          "start": 0,
+          "end": 46,
+          "text": "In another sense (2) the form or the archetype"
+        },
+        {
+          "paragraphId": "p0005",
+          "start": 0,
+          "end": 60,
+          "text": "Again (3) the primary source of the change or coming to rest"
+        },
+        {
+          "paragraphId": "p0006",
+          "start": 0,
+          "end": 78,
+          "text": "Again (4) in the sense of end or 'that for the sake of which' a thing is done,"
+        }
+      ],
+      "quote": "In one sense, then, (1) that out of which a thing comes to be and which persists, is called 'cause' ... In another sense (2) the form or the archetype ... Again (3) the primary source of the change or coming to rest ... Again (4) in the sense of end or 'that for the sake of which' a thing is done."
+    }
+  }
+}

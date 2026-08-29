@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-enneads-ennead-i-tractate-2-7ce6aa88",
+  "title": "九章集 I · 篇 2",
+  "englishTitle": "Ennead I · Tractate 2",
+  "work": "《九章集》",
+  "englishWork": "Enneads",
+  "locator": "九章集 I · 篇 2",
+  "englishLocator": "Ennead I · Tractate 2",
+  "version": "Wikisource 公版英译文本，Stephen MacKenna 1917 年英译，《九章集》I.2.2；卡片末尾以省略号标示截断",
+  "englishVersion": "Wikisource public-domain English translation, Stephen MacKenna (1917), Enneads I.2.2; terminal truncation marked with an ellipsis",
+  "sourceUrl": "https://en.wikisource.org/wiki/Plotinus_(MacKenna)/Volume_1/Ennead_1.2",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Plotinus_(MacKenna)/Volume_1/Ennead_1.2",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Plotinus+%28MacKenna%29%2FVolume+1%2FEnnead+1.2&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "c193fe90fb6628bebb6c894e3218c8e8e942bf783a48e883b92016c64a55f63b"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "18f63afabae21e7d73fdbc25b7be435d63e039bc9098e238ea61e7700cdf26b3",
+  "inputHash": "49a129ef28c605d06eadc063122cd825a4b622ddda8c5f87a3a011201e1a6edd",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "2."
+    },
+    {
+      "id": "p0002",
+      "text": "First, then, let us examine those good qualities by which we hold Likeness comes, and seek to establish what is this thing which, as we possess it, in transcription, is virtue but as the Supreme possesses it, is in the nature of an exemplar or archetype and is not virtue."
+    },
+    {
+      "id": "p0003",
+      "text": "We must first distinguish two modes of Likeness."
+    },
+    {
+      "id": "p0004",
+      "text": "There is the likeness demanding an identical nature in the objects which, further, must draw their likeness from a common principle: and there is the case in which B resembles A, but A is a Primal, not concerned about B and not said to resemble B. In this second case, likeness is understood in a distinct sense: we no longer look for identity of nature, but, on the contrary, for divergence since the likeness has come about by the mode of difference."
+    },
+    {
+      "id": "p0005",
+      "text": "What, then, precisely is Virtue, collectively and in the particular? The clearer method will be to begin with the particular, for so the common element by which all the forms hold the general name will readily appear."
+    },
+    {
+      "id": "p0006",
+      "text": "The Civic Virtues, on which we have touched above, are a principle or order and beauty in us as long as we remain passing our life here: they ennoble us by setting bound and measure to our desires and to our entire sensibility, and dispelling false judgement—and this by sheer efficacy of the better, by the very setting of the bounds, by the fact that the measured is lifted outside of the sphere of the unmeasured and lawless."
+    },
+    {
+      "id": "p0007",
+      "text": "And, further, these Civic Virtues—measured and ordered themselves and acting as a principle of measure to the Soul which is as Matter to their forming—are like to the measure reigning in the over-world, and they carry a trace of that Highest Good in the Supreme; for, while utter measurelessness is brute Matter and wholly outside of Likeness, any participation in Ideal-Form produces some corresponding degree of Likeness to the formless Being There. And participation goes by near- ness: the Soul nearer than the body, therefore closer akin, participates more fully and shows a godlike presence, almost cheating us into the delusion that in the Soul we see God entire."
+    },
+    {
+      "id": "p0008",
+      "text": "This is the way in which men of the Civic Virtues attain Likeness."
+    }
+  ],
+  "anchors": {
+    "plotinus-virtue": {
+      "paragraphId": "p0006",
+      "start": 0,
+      "end": 258,
+      "quote": "The Civic Virtues, on which we have touched above, are a principle or order and beauty in us as long as we remain passing our life here: they ennoble us by setting bound and measure to our desires and to our entire sensibility, and dispelling false judgement ...",
+      "match": "normalized-exact"
+    }
+  }
+}

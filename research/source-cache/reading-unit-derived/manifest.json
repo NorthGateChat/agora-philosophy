@@ -1,0 +1,1285 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Reproducible text-only reading-unit fallbacks derived from eligible source PDFs and locally preserved text extractions; source scans are never shipped.",
+  "generator": "scripts/derive-reading-unit-texts.mjs",
+  "artifacts": [
+    {
+      "sourceUrl": "https://web.stanford.edu/class/msande314/arrow-debreu.pdf",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/reading-unit-origins/papers/arrow-debreu-1954.txt",
+      "sourceTextSha256": "4aadd333842f24b726baad1c3a4ce6935999b71a02a9cd2778c9af23de49a322",
+      "command": "select declared line ranges from research/source-cache/reading-unit-origins/papers/arrow-debreu-1954.txt",
+      "lineRanges": [
+        [
+          33,
+          88
+        ]
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/arrow-debreu-equilibrium-1954-introduction.txt",
+      "outputBytes": 4105,
+      "outputSha256": "f7a026bf76b1b08fab8371db932734e6d3aa07501e8d38a8a13f623de24daa18",
+      "matchedThoughtIds": [
+        "economics-principles-arrow-debreu-equilibrium-existence"
+      ]
+    },
+    {
+      "sourceUrl": "https://assets.aeaweb.org/asset-server/files/9442.pdf",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/economics-context-batch7/arrow-medical-care-uncertainty-1963.pdf",
+      "sourcePdfSha256": "6a5c54a652f84884c30c846b2ffb73e3332632ef75a3bc56129f8bda518062b8",
+      "command": "pdftotext -layout research/source-cache/economics-context-batch7/arrow-medical-care-uncertainty-1963.pdf -",
+      "lineRanges": [
+        [
+          1,
+          342
+        ]
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/arrow-medical-care-1963-introduction.txt",
+      "outputBytes": 21779,
+      "outputSha256": "7af996027540bcee3641563d8d51601836e1167fec80173d051aca5728eabbac",
+      "matchedThoughtIds": [
+        "economics-modern-arrow-medical-care-uncertainty"
+      ]
+    },
+    {
+      "sourceUrl": "https://gwern.net/doc/psychology/personality/1946-asch.pdf",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/reading-unit-origins/papers/asch-forming-impressions-1946.pdf",
+      "sourcePdfSha256": "1fc8008b9b17b34659d520c588f44b8271a210f2d86d5c514101a810b5ae8275",
+      "command": "pdftotext -raw research/source-cache/reading-unit-origins/papers/asch-forming-impressions-1946.pdf -",
+      "outputPath": "research/source-cache/reading-unit-derived/asch-forming-impressions-1946.txt",
+      "outputBytes": 103129,
+      "outputSha256": "5c30b1d03b732d64942a3a936cf865dacbfcab58b3c9042fad86ab82fcf642d9",
+      "matchedThoughtIds": [
+        "psychology-social-asch-central-traits",
+        "psychology-social-asch-impression-whole",
+        "psychology-social-asch-order"
+      ]
+    },
+    {
+      "sourceUrl": "https://jwclegg.org/psy329/readings/Bandura.pdf",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/reading-unit-origins/papers/bandura-aggression-1961.pdf",
+      "sourcePdfSha256": "f9d9b3357af1961f635973b240dbd794c4a1faf01850c4b3eb75d63c9da0830e",
+      "command": "pdftotext -raw research/source-cache/reading-unit-origins/papers/bandura-aggression-1961.pdf -",
+      "outputPath": "research/source-cache/reading-unit-derived/bandura-aggression-1961.txt",
+      "outputBytes": 37647,
+      "outputSha256": "5ad7f2b30f4bb7f29f4d21203511813e9e28109d798c59b9480369912d4a5873",
+      "matchedThoughtIds": [
+        "psychology-social-bandura-observational-learning"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5",
+      "naturalUnit": "An Introduction to the Principles of Morals and Legislation, Chapter III",
+      "sourceUrl": "https://oll.libertyfund.org/title/2009",
+      "retrievalUrl": "https://oll.libertyfund.org/title/2009",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/public-unhandled-resolution/alternate-editions/bentham-works-vol1-1843-oll.pdf",
+      "sourcePdfSha256": "7c6fe2e819284fbe21628faae4a7570515da7d2a7aa4a04421d0e3573fb68d82",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "pdfPageIndexesInclusive": [
+          135,
+          137
+        ]
+      },
+      "corrections": [
+        "Use the public-domain 1843 Bowring Works, vol. 1 text of the author-corrected edition. The registered Econlib transcription drops “be” from the card sentence.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iii-bowring-1843.txt",
+      "outputBytes": 7261,
+      "outputSha256": "aff9a0ee68879bfafb78a2514fe523cb66a3cf301203877a51a15405e088024f",
+      "matchedThoughtIds": [
+        "bentham-four-sanctions"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a",
+      "naturalUnit": "An Introduction to the Principles of Morals and Legislation, Chapter IV",
+      "sourceUrl": "https://oll.libertyfund.org/title/2009",
+      "retrievalUrl": "https://oll.libertyfund.org/title/2009",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/public-unhandled-resolution/alternate-editions/bentham-works-vol1-1843-oll.pdf",
+      "sourcePdfSha256": "7c6fe2e819284fbe21628faae4a7570515da7d2a7aa4a04421d0e3573fb68d82",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "pdfPageIndexesInclusive": [
+          138,
+          140
+        ]
+      },
+      "corrections": [
+        "Use the public-domain 1843 Bowring Works, vol. 1 text of the author-corrected edition. It preserves “with reference to each of whom” without Econlib's intrusive extra “to”.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iv-bowring-1843.txt",
+      "outputBytes": 6436,
+      "outputSha256": "87eb28a0e99b47446562f48cd943876f6ad21d67b6e862c04453e24e086aded3",
+      "matchedThoughtIds": [
+        "bentham-felicific-circumstances"
+      ]
+    },
+    {
+      "sourceUrl": "https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review",
+      "useBasis": "open-license",
+      "sourceTextPath": "research/source-cache/reading-unit-origins/papers/dasgupta-biodiversity-2021.txt",
+      "sourceTextSha256": "acaf6908dfb47ccad4140d2aee5aac1aba1c3df2ea32cab77a027747aded5601",
+      "command": "select declared line ranges from research/source-cache/reading-unit-origins/papers/dasgupta-biodiversity-2021.txt",
+      "lineRanges": [
+        [
+          94,
+          784
+        ]
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/dasgupta-biodiversity-2021-preface.txt",
+      "outputBytes": 42113,
+      "outputSha256": "84bb914c46618c23e22e30d387f253e66df046ba602d9b5d3cd6592d173c0680",
+      "matchedThoughtIds": [
+        "economics-modern-dasgupta-biodiversity-inclusive-wealth"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-meditations-on-first-philosophy-meditation-ii-1865582b",
+      "naturalUnit": "Meditations on First Philosophy, Meditation II",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/7/0/0/9/70091/70091-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/descartes-meditations-70091.raw.txt",
+      "sourceTextSha256": "8d8835e0abc13e992d8167b3a18005cefbc73bf63ba54597c3a8eb2407f62beb",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          81,
+          115
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/descartes-meditation-ii-molyneux-1680.txt",
+      "outputBytes": 17404,
+      "outputSha256": "4cf2d8f0e93e00142e0321af161e6bf8c4eb05c1d53af469aa45d472c93a1ca7",
+      "matchedThoughtIds": [
+        "descartes",
+        "descartes-wax-and-judgment"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-meditations-on-first-philosophy-meditation-iii-98ef2f62",
+      "naturalUnit": "Meditations on First Philosophy, Meditation III",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/7/0/0/9/70091/70091-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/descartes-meditations-70091.raw.txt",
+      "sourceTextSha256": "8d8835e0abc13e992d8167b3a18005cefbc73bf63ba54597c3a8eb2407f62beb",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          116,
+          161
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/descartes-meditation-iii-molyneux-1680.txt",
+      "outputBytes": 31344,
+      "outputSha256": "230facc6ed60a1b0ca503f2f187af502d522b69e95ba6d3b3772eb7f0f635701",
+      "matchedThoughtIds": [
+        "descartes-idea-of-the-infinite"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-meditations-on-first-philosophy-meditation-iv-94021970",
+      "naturalUnit": "Meditations on First Philosophy, Meditation IV",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/7/0/0/9/70091/70091-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/descartes-meditations-70091.raw.txt",
+      "sourceTextSha256": "8d8835e0abc13e992d8167b3a18005cefbc73bf63ba54597c3a8eb2407f62beb",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          162,
+          185
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/descartes-meditation-iv-molyneux-1680.txt",
+      "outputBytes": 16494,
+      "outputSha256": "494a8e6603cbfb2399bb6fcf8e6c34180a946352d53aeb1220a9455075f0a7e3",
+      "matchedThoughtIds": [
+        "descartes-error-of-the-will"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-meditations-on-first-philosophy-meditation-v-34e6b8eb",
+      "naturalUnit": "Meditations on First Philosophy, Meditation V",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/70091/pg70091-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/7/0/0/9/70091/70091-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/descartes-meditations-70091.raw.txt",
+      "sourceTextSha256": "8d8835e0abc13e992d8167b3a18005cefbc73bf63ba54597c3a8eb2407f62beb",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          186,
+          204
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/descartes-meditation-v-molyneux-1680.txt",
+      "outputBytes": 13615,
+      "outputSha256": "3180b992a6b52c7bb98584743442d7d3176b8f4178b8afbb3dde1004a330b20a",
+      "matchedThoughtIds": [
+        "descartes-existence-and-perfect-being"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab",
+      "naturalUnit": "Memory: A Contribution to Experimental Psychology, Chapter V",
+      "sourceUrl": "https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology/Chapter_5",
+      "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Memory%3A+A+Contribution+to+Experimental+Psychology%2FChapter+5&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/ebbinghaus-memory-chapter-5-wikisource.raw.txt",
+      "sourceTextSha256": "78fa5fe5ad9232588a8139274718c674de5b036f32239673dd6c9c6bf3e51271",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          7,
+          55
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/ebbinghaus-memory-chapter-v-ruger-bussenius-1913.txt",
+      "outputBytes": 10667,
+      "outputSha256": "dbfb82a36d255731be8f6a70f5d341931a608e1cf1443764dbb5bc7e906cb204",
+      "matchedThoughtIds": [
+        "psychology-foundations-ebbinghaus-meaning"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-discourses-book-i-chapter-2-730b2536",
+      "naturalUnit": "Discourses of Epictetus, Book I, Chapter 2",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/epictetus-discourses-enchiridion-10661.raw.txt",
+      "sourceTextSha256": "38c813f7623104e29bbc8cca52703043d45cc06be4557ca4b5d09fd4b6ebd635",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          16,
+          17
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/epictetus-discourses-book-i-chapter-ii-long.txt",
+      "outputBytes": 1450,
+      "outputSha256": "e7e681c4ffac454809d001572fd46ae16d1d878aa062c469daa33a1d05050402",
+      "matchedThoughtIds": [
+        "epictetus-preserve-character"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-enchiridion-whole-work-f7640499",
+      "naturalUnit": "The Encheiridion, or Manual",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/epictetus-discourses-enchiridion-10661.raw.txt",
+      "sourceTextSha256": "38c813f7623104e29bbc8cca52703043d45cc06be4557ca4b5d09fd4b6ebd635",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          240,
+          360
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/epictetus-encheiridion-long.txt",
+      "outputBytes": 43419,
+      "outputSha256": "b284ee544e0c41cf2748bb657fe8677c2d492897fff355206b4da6c720bd1cdd",
+      "matchedThoughtIds": [
+        "epictetus",
+        "epictetus-actor-and-role",
+        "epictetus-banquet-metaphor",
+        "epictetus-control",
+        "epictetus-duties-from-relations",
+        "epictetus-practice-not-display",
+        "epictetus-price-of-tranquility",
+        "epictetus-return-what-was-given",
+        "epictetus-train-desire-first",
+        "epictetus-two-handles",
+        "epictetus-wish-events-as-they-are"
+      ]
+    },
+    {
+      "sourceUrl": "https://library.oarcloud.noaa.gov/docs.lib/htdocs/rescue/Rarebook_treasures/QC503F211839_PDF/QC503F211839v3.pdf",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/completion-mao-science/faraday-experimental-researches-v3.pdf",
+      "sourcePdfSha256": "c04da9ced4c55c0bcecc75246eec1f02a00eefe622a2a07cc51449d8a504e538",
+      "command": "pdftotext -layout research/source-cache/completion-mao-science/faraday-experimental-researches-v3.pdf -",
+      "lineRanges": [
+        [
+          256,
+          1365
+        ],
+        [
+          13835,
+          15595
+        ]
+      ],
+      "corrections": [
+        "Normalize the Series XIX heading as its own paragraph boundary.",
+        "Normalize the Series XXVIII heading and its footnote marker as its own paragraph boundary.",
+        "Remove the superscript note marker after ‘first time’ in paragraph 2221.",
+        "Remove the footnote and repeated page header interrupting paragraph 2221.",
+        "Correct two unambiguous OCR errors in paragraph 3075 (phœnomena/he)."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/faraday-experimental-researches-v3-series-xix-xxviii.txt",
+      "outputBytes": 170779,
+      "outputSha256": "8ba7c57fb7c99ff35420c18f4c49188fc4144e35c5e0563a9d6d54b12e66d509",
+      "matchedThoughtIds": [
+        "science-faraday-magneto-optics",
+        "science-faraday-lines-force"
+      ]
+    },
+    {
+      "sourceUrl": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/reading-unit-origins/papers/festinger-carlsmith-1959.pdf",
+      "sourcePdfSha256": "4b24a13a22b5ba1b29f04f7b6e90d5b01c17bb55dd9f347d5e49bd6935f8645a",
+      "command": "pdftotext -raw research/source-cache/reading-unit-origins/papers/festinger-carlsmith-1959.pdf -",
+      "outputPath": "research/source-cache/reading-unit-derived/festinger-carlsmith-forced-compliance-1959.txt",
+      "outputBytes": 32919,
+      "outputSha256": "3c3295f8fbe6018bf1dc335f9fa360be625efd8aac5f80c6727621103230056c",
+      "matchedThoughtIds": [
+        "psychology-social-festinger-insufficient-justification"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16",
+      "naturalUnit": "Sidereus Nuncius, Observations of the Moon",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/4/6/0/3/46036/46036-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/galileo-sidereus-46036.raw.txt",
+      "sourceTextSha256": "17918ed8db6583590eb430b459d422d8bbacb1c6eb76d2c7791fe9bfaf325aa4",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          93,
+          125
+        ]
+      },
+      "corrections": [
+        "Replace the card's sentence from the introductory synopsis with Galileo's detailed statement in the actual Moon-observations section.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/galileo-sidereus-moon-observations-carlos-1880.txt",
+      "outputBytes": 32201,
+      "outputSha256": "71ef0487682c6d6dfbb868c14afece6c85e211639058748344b3ccdd912793bc",
+      "matchedThoughtIds": [
+        "science-galileo-moon"
+      ]
+    },
+    {
+      "sourceUrl": "https://german.yale.edu/sites/default/files/hayek_-_the_use_of_knowledge_in_society.pdf",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/economics-context-batch7/hayek-use-knowledge-society-1945.pdf",
+      "sourcePdfSha256": "358e62925da4f5a56839f4e039ad8fc03e61ee387968ce1ca933e6ad4a0b410c",
+      "command": "pdftotext -layout research/source-cache/economics-context-batch7/hayek-use-knowledge-society-1945.pdf -",
+      "outputPath": "research/source-cache/reading-unit-derived/hayek-use-knowledge-1945.txt",
+      "outputBytes": 35762,
+      "outputSha256": "4689782b55a38c3006f0c571a448bec657327c95ea094d64711ebe3b6c100a9c",
+      "matchedThoughtIds": [
+        "economics-hayek-dispersed-knowledge",
+        "economics-hayek-price-signal"
+      ]
+    },
+    {
+      "sourceUrl": "https://archive.org/details/cu31924014578979",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/reading-unit-origins/hegel-philosophy-of-right-dyde-1896-archive-ocr.txt",
+      "sourceTextSha256": "3ca35f7977fd0f6555085693dcc4efe0172711c982f28de623add98563e4817a",
+      "command": "select declared line ranges from research/source-cache/reading-unit-origins/hegel-philosophy-of-right-dyde-1896-archive-ocr.txt",
+      "lineRanges": [
+        [
+          482,
+          1167
+        ],
+        [
+          7836,
+          16393
+        ]
+      ],
+      "corrections": [
+        "Correct the three unambiguous Archive OCR errors in the registered §142 sentence (etMcal/tlie/wWcli)."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/hegel-philosophy-of-right-dyde-1896-selected-units.txt",
+      "outputBytes": 437487,
+      "outputSha256": "6926c7d5af332f2a0ac841ff2c595bb46301516feb93ae8348c9c3a98dfb75d0",
+      "matchedThoughtIds": [
+        "hegel-actual-rational",
+        "hegel-owl-of-minerva",
+        "hegel-ethical-life",
+        "hegel-civil-society-dependence",
+        "hegel-poverty-rabble",
+        "hegel-state-concrete-freedom"
+      ]
+    },
+    {
+      "sourceUrl": "https://ntrs.nasa.gov/citations/19840008978",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/nasa-heisenberg.pdf",
+      "sourcePdfSha256": "2d6a19e8f6df69757860e9646e3b04fa94ecd0682a1bca8b437667deca1f977c",
+      "command": "pdftotext -layout research/source-cache/nasa-heisenberg.pdf -",
+      "corrections": [
+        "Replace OCR margin debris inside the position–impulse sentence on print p. 5.",
+        "Replace OCR margin debris inside the gamma-ray-microscope passage on print p. 4."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/heisenberg-nasa-tm-77379.txt",
+      "outputBytes": 126553,
+      "outputSha256": "4e9230c331fde4ac833502ece6012a083284eb248f39b323f05e229501de7e3e",
+      "matchedThoughtIds": [
+        "science-heisenberg-conjugate-limits",
+        "science-heisenberg-microscope"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+      "naturalUnit": "Fragments of Heraclitus, John Burnet translation (1920)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+      "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Fragments+of+Heraclitus&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/heraclitus-wikisource.raw.txt",
+      "sourceTextSha256": "919e0ebe01090018aefc1e299b684c00fc91c2153bd97866ccebb55277813e4a",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          6,
+          275
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: heraclitus."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/heraclitus-fragments-burnet-1920.txt",
+      "outputBytes": 15435,
+      "outputSha256": "95d2089d67db57e92a248e8bff0d3f6de5db63f210414fd780f6470ec0a160ec",
+      "matchedThoughtIds": [
+        "heraclitus",
+        "heraclitus-character",
+        "heraclitus-conflict",
+        "heraclitus-logos",
+        "heraclitus-river"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-leviathan-part-ii-chapter-xxix-612ebd74",
+      "naturalUnit": "Leviathan (1651), Chapter XXIX",
+      "sourceUrl": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_29",
+      "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Leviathan+%281651%29%2FChapter+29&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/hobbes-leviathan-chapter-29-wikisource.raw.txt",
+      "sourceTextSha256": "341c695341e56483c6491173472176e02b6ade79b2ec394f5c39acf6801e8b83",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          7,
+          30
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: hobbes-sidenotes."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/hobbes-leviathan-chapter-xxix-1651.txt",
+      "outputBytes": 23545,
+      "outputSha256": "0a9fee27ddb2e1012074839cb6ca48416f20d67aef39bce805d45bd895c65c15",
+      "matchedThoughtIds": [
+        "hobbes-sovereignty"
+      ]
+    },
+    {
+      "sourceUrl": "https://www.math.toronto.edu/mccann/assignments/477/Hotelling29.pdf",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/reading-unit-origins/papers/hotelling-stability-1929.txt",
+      "sourceTextSha256": "b749085f5c89d5b02dce6b066982f4f4ba3f240314f72251fdd9413c5929dec7",
+      "command": "select declared line ranges from research/source-cache/reading-unit-origins/papers/hotelling-stability-1929.txt",
+      "lineRanges": [
+        [
+          20,
+          748
+        ]
+      ],
+      "corrections": [
+        "Remove the JSTOR access footer repeated after each article page."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/hotelling-stability-in-competition-1929.txt",
+      "outputBytes": 41104,
+      "outputSha256": "77037c7303c8eda5dc4028b5243b657947edb5627555253102a0d01a82ba362b",
+      "matchedThoughtIds": [
+        "economics-principles-hotelling-spatial-competition"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f",
+      "naturalUnit": "The Varieties of Religious Experience, Lecture I",
+      "sourceUrl": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/6/2/621/621-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/james-varieties-621.raw.txt",
+      "sourceTextSha256": "8b2dd118fc6f52a95a2b0d4f8fbfe2c0f902c80626907370db373f43c5ce1171",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          31,
+          81
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/james-varieties-lecture-i.txt",
+      "outputBytes": 42849,
+      "outputSha256": "62e37529cffd71c1087d179699865fb80b5e24836e8e05c243b1b5a49badb5a8",
+      "matchedThoughtIds": [
+        "james-fruits-not-origins"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-critique-of-pure-reason-introduction-introduction-1ecd26ec",
+      "naturalUnit": "Critique of Pure Reason, Introduction",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/4/2/8/4280/4280-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/kant-critique-pure-reason-4280.raw.txt",
+      "sourceTextSha256": "a90107de6d33c7355bcc4bb6ea4d9469401b8e76795896491f95a0c5e9d47144",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          185,
+          229
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-introduction-meiklejohn.txt",
+      "outputBytes": 41366,
+      "outputSha256": "3683025f119a24d07944095a374cd753ddb5168fc4c007bd2aeb292c99a72a94",
+      "matchedThoughtIds": [
+        "kant-synthetic-a-priori"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-critique-of-pure-reason-preface-b-d5be9bd1",
+      "naturalUnit": "Critique of Pure Reason, Preface to the Second Edition (1787)",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/4/2/8/4280/4280-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/kant-critique-pure-reason-4280.raw.txt",
+      "sourceTextSha256": "a90107de6d33c7355bcc4bb6ea4d9469401b8e76795896491f95a0c5e9d47144",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          152,
+          184
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-preface-b-meiklejohn.txt",
+      "outputBytes": 48255,
+      "outputSha256": "5907bed3b70e279dcaa5535a0fb0a265b35e8f9d413aa83943c45a196aed699a",
+      "matchedThoughtIds": [
+        "kant-copernican-turn"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5",
+      "naturalUnit": "Groundwork of the Metaphysics of Morals, Section II",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/5682/pg5682-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/5/6/8/5682/5682-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/kant-groundwork-5682.raw.txt",
+      "sourceTextSha256": "24b4409cea0950539dc244ad0971f074d03387dec94a9b3e1713f4446f2ec712",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          50,
+          163
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/kant-groundwork-section-ii-abbott.txt",
+      "outputBytes": 91312,
+      "outputSha256": "a2d92069d51a20f4ffcca9d58d4d3e7b8ba7f2edcad443b57e69f13caaeeb38b",
+      "matchedThoughtIds": [
+        "kant",
+        "kant-autonomy-self-legislation",
+        "kant-universal-law-test"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-gestalt-psychology-chapter-vi-8cdc59c7",
+      "naturalUnit": "Gestalt Psychology, Chapter VI",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/79014/pg79014-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/7/9/0/1/79014/79014-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/kohler-gestalt-79014.raw.txt",
+      "sourceTextSha256": "c01dc75654dc361dc23564780fa2c49ede191931c6c76d7e6b6c513176dea198",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          294,
+          345
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/kohler-gestalt-psychology-chapter-vi-1929.txt",
+      "outputBytes": 47542,
+      "outputSha256": "e3a418c1306880037032b91c03e3aa933dd777871c6da232b7cfb0d8aca29ba8",
+      "matchedThoughtIds": [
+        "psychology-foundations-kohler-transposition",
+        "psychology-foundations-kohler-whole-organization"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-monadology-whole-work-bf71c0f6",
+      "naturalUnit": "Monadology, George Martin Duncan translation (1890)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Duncan)",
+      "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Monadology+%28Leibniz%2C+tr.+Duncan%29&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/leibniz-monadology-duncan-wikisource.raw.txt",
+      "sourceTextSha256": "e413aab19b7982241cd7a5cb28e632c4603cc4d4d96bd82bd3150dbf7a9daad1",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          4,
+          94
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: monadology-citations."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/leibniz-monadology-duncan-1890.txt",
+      "outputBytes": 32947,
+      "outputSha256": "5144e0ed102e917f6c3024ec51c5031926f33c51d4887108c836331bf5405619",
+      "matchedThoughtIds": [
+        "leibniz",
+        "leibniz-harmony",
+        "leibniz-identity",
+        "leibniz-perception-appetition",
+        "leibniz-perspectives",
+        "leibniz-possible-worlds",
+        "leibniz-two-truths",
+        "leibniz-windowless"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4",
+      "naturalUnit": "An Essay Concerning Humane Understanding (1690), Book IV, Chapter I",
+      "sourceUrl": "https://en.wikisource.org/wiki/An_Essay_Concerning_Humane_Understanding/Book_IV/Chapter_1",
+      "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=An+Essay+Concerning+Humane+Understanding%2FBook+IV%2FChapter+1&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/locke-humane-understanding-1690-book-4-chapter-1-wikisource.raw.txt",
+      "sourceTextSha256": "ff80124fff9ea9243f79d07eb3bcf66891973d87a76067227d0992c99fb1ceb5",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          6,
+          24
+        ]
+      },
+      "corrections": [
+        "Replace the faulty Gutenberg transcription (“connexion of and agreement”) with the scan-backed 1690 Wikisource transcription (“connexion and agreement”).",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/locke-humane-understanding-1690-book-iv-chapter-i.txt",
+      "outputBytes": 8830,
+      "outputSha256": "b336eac10d494145d2954c9175339898e1bd3d328c96dbc38aec09513b12d648",
+      "matchedThoughtIds": [
+        "locke-knowledge-as-agreement"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-second-treatise-of-government-chapter-v-b11ade32",
+      "naturalUnit": "Second Treatise of Government, Chapter V",
+      "sourceUrl": "https://www.gutenberg.org/files/7370/7370-h/7370-h.htm",
+      "retrievalUrl": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/locke-second-treatise-7370.raw.txt",
+      "sourceTextSha256": "0e861e198bf4c5406a413d72d54d3a0efe26e780afa5bcadacf1ec85290587a1",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          62,
+          93
+        ]
+      },
+      "corrections": [
+        "Keep the registered Gutenberg edition and make the card agree with that edition's spelling and capitalization instead of mixing it with 1690 forms.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/locke-second-treatise-chapter-v.txt",
+      "outputBytes": 31931,
+      "outputSha256": "dd3bd8e169a8d64f7b9f7725101ab41e0e2eccdf3715b11ac256e539268703dd",
+      "matchedThoughtIds": [
+        "locke-labor-and-property"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-discourses-on-livy-book-i-chapter-4-f36c1d2d",
+      "naturalUnit": "Discourses on Livy, Book I, Chapter IV",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/10827/pg10827-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/1/0/8/2/10827/10827-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/machiavelli-discourses-livy-10827.raw.txt",
+      "sourceTextSha256": "7b823645c43fdaccefc777b2b74f4641308eeadb9cd7f3a082be82f222f57ad1",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          208,
+          212
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/machiavelli-discourses-livy-book-i-chapter-iv-thomson.txt",
+      "outputBytes": 4275,
+      "outputSha256": "82b4d1db96ae339d9c9704179826a7eaa2eaf6cf4e39c1b4e8dd37d4bddd0819",
+      "matchedThoughtIds": [
+        "machiavelli-conflict-liberty"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf",
+      "naturalUnit": "Manifesto of the Communist Party, Chapter I, “Bourgeois and Proletarians”",
+      "sourceUrl": "https://en.wikisource.org/wiki/Manifesto_of_the_Communist_Party/1",
+      "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Manifesto+of+the+Communist+Party%2F1&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/marx-manifesto-chapter-1-1910-wikisource.raw.txt",
+      "sourceTextSha256": "d0c019d6b0336e307fa1824e705f17ace8a294b39f100189d2e9bf5cd7ecd3de",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          7,
+          65
+        ]
+      },
+      "corrections": [
+        "Replace Gutenberg ebook 61, whose transcription has “societies”, with the scan-backed authorized Moore/Engels text, which has the card's singular “society”.",
+        "Reader-body cleanup: wikisource-numeric-references."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/marx-manifesto-chapter-i-moore-engels-1910.txt",
+      "outputBytes": 29444,
+      "outputSha256": "ea9da815d5b6858538ea0d12a1f3a32ba1df68a83aaec19d079c6ccb597f39af",
+      "matchedThoughtIds": [
+        "marx-class-struggle"
+      ]
+    },
+    {
+      "sourceUrl": "https://cdn.mises.org/On%20the%20Origins%20of%20Money_5.pdf",
+      "useBasis": "public-domain",
+      "sourcePdfPath": "research/source-cache/menger-origin-money.pdf",
+      "sourcePdfSha256": "ae0073e11ffab901c55082541ca40a1ef557eac2868087e06302ab74dc928489",
+      "command": "pdftotext -layout research/source-cache/menger-origin-money.pdf -",
+      "outputPath": "research/source-cache/reading-unit-derived/menger-origin-money-2009.txt",
+      "outputBytes": 50577,
+      "outputSha256": "0ffe91beca01a0e3eee90bbd9acc30dd9682c4961e0a93ff450b128b1018914b",
+      "matchedThoughtIds": [
+        "economics-principles-menger-origin-money"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "naturalUnit": "Principles of Political Economy, Book II, Chapter I",
+      "sourceUrl": "https://www.econlib.org/library/Mill/mlP.html",
+      "retrievalUrl": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/mill-political-economy-chapter-17-econlib.raw.txt",
+      "sourceTextSha256": "355430e2cdb7ba28a6307655898d926764f0de939186d2487a80f73b3c388a82",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          96,
+          168
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/mill-political-economy-book-ii-chapter-i.txt",
+      "outputBytes": 51324,
+      "outputSha256": "131868da66d03cb1b4c8882d0a20fb74bcc5df88e7e7bd6ee2388880e55e09a1",
+      "matchedThoughtIds": [
+        "economics-mill-production-distribution"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-the-subjection-of-women-chapter-i-de45861e",
+      "naturalUnit": "The Subjection of Women, Chapter I",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/27083/pg27083-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/2/7/0/8/27083/27083-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/mill-subjection-women-27083.raw.txt",
+      "sourceTextSha256": "717bea34ed5bb682e51e7a730d2698726723176ba645e15c6b3409daebbf5d29",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          5,
+          31
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/mill-subjection-women-chapter-i.txt",
+      "outputBytes": 70119,
+      "outputSha256": "bb28f62122ff84da77320a64f3b5b70165b8bfc427c1a202617d4456dbceff25",
+      "matchedThoughtIds": [
+        "mill-subjection-women"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-utilitarianism-chapter-ii-6f8a19dc",
+      "naturalUnit": "Utilitarianism, Chapter II",
+      "sourceUrl": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "retrievalUrl": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/mill-utilitarianism-11224.raw.txt",
+      "sourceTextSha256": "0b4c7191e7759753c064c13a90a694bc230486e5b5dc39c01ade22fee6a5e5e5",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          24,
+          55
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/mill-utilitarianism-chapter-ii.txt",
+      "outputBytes": 52997,
+      "outputSha256": "ed5d3e5db2e038e96131eaecad1c74b7b846e34fe618ad80f9007cdddf72ed71",
+      "matchedThoughtIds": [
+        "mill-happiness-as-end",
+        "mill-higher-pleasures"
+      ]
+    },
+    {
+      "sourceUrl": "https://www.haverford.edu/sites/default/files/Nash1950.pdf",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/reading-unit-origins/papers/nash-bargaining-1950.txt",
+      "sourceTextSha256": "af6ba7f56ea4194800bdab69ae05c19b4853604e5db58e9df5299188566c15e4",
+      "command": "select declared line ranges from research/source-cache/reading-unit-origins/papers/nash-bargaining-1950.txt",
+      "lineRanges": [
+        [
+          20,
+          314
+        ]
+      ],
+      "corrections": [
+        "Remove the JSTOR access footer repeated after each article page.",
+        "Restore u₁ subscripts that the PDF text layer read as u1/ul; verified against print p. 159.",
+        "Restore u₂ subscripts that the PDF text layer flattened; verified against print p. 159."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/nash-bargaining-problem-1950.txt",
+      "outputBytes": 16421,
+      "outputSha256": "375bb3ffed46df9314f6ce06b70d33fe38ea71777d066974160944441c2504c0",
+      "matchedThoughtIds": [
+        "economics-principles-nash-bargaining"
+      ]
+    },
+    {
+      "sourceUrl": "https://archive.org/details/NyayaSutra",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/reading-unit-origins/nyaya-sutra-vidyabhusana-1913-archive-ocr.txt",
+      "sourceTextSha256": "da934d676bd1b31bf38fc337ea86985059b3f66939314806368c6591b078dc5d",
+      "command": "select declared line ranges from research/source-cache/reading-unit-origins/nyaya-sutra-vidyabhusana-1913-archive-ocr.txt",
+      "lineRanges": [
+        [
+          1448,
+          2082
+        ],
+        [
+          2083,
+          2459
+        ]
+      ],
+      "corrections": [
+        "Normalize the Book I / Chapter I heading without changing its meaning.",
+        "Normalize the Book I / Chapter II heading without changing its meaning.",
+        "Normalize the following Book II / Chapter I boundary without changing its meaning."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/nyaya-sutra-vidyabhusana-1913-book-i.txt",
+      "outputBytes": 36555,
+      "outputSha256": "a1debb4f4332414392abbdcc6490ded38d1b0c17423a2aa84221aaad47e120aa",
+      "matchedThoughtIds": [
+        "indian-nyaya-error-to-liberation",
+        "indian-nyaya-five-member-argument",
+        "indian-nyaya-four-means",
+        "indian-nyaya-perception-conditions",
+        "indian-nyaya-sixteen-categories",
+        "indian-nyaya-debate-modes"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-on-nature-whole-work-aaa8e8ca",
+      "naturalUnit": "Fragments of Parmenides' poem in John Burnet, Early Greek Philosophy, Chapter IV, §85",
+      "sourceUrl": "https://en.wikisource.org/wiki/Fragments_of_Parmenides",
+      "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Fragments+of+Parmenides&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/parmenides-fragments-wikisource.raw.txt",
+      "sourceTextSha256": "c21e47e276d2b42bb212af1800a6f5f45f4a9993d127cd6817121a6bbed93b89",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          11,
+          58
+        ]
+      },
+      "corrections": [
+        "Relabel the body honestly: it is the complete surviving poem-fragment section in Burnet's 1920 edition, not a direct complete copy of a work titled On Nature.",
+        "Reader-body cleanup: parmenides."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/parmenides-fragments-burnet-1920.txt",
+      "outputBytes": 10163,
+      "outputSha256": "dcd43d9e55f06485dc537c385d8d104975c32a182b5c5505869513e5dd1dd9f4",
+      "matchedThoughtIds": [
+        "parmenides",
+        "parmenides-sayable",
+        "parmenides-thinking-being",
+        "parmenides-unchanging"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-on-spontaneous-generation-whole-work-80e9bc01",
+      "naturalUnit": "The Life of Pasteur, Chapter V (1860–1864)",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/60956/pg60956-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/6/0/9/5/60956/60956-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/pasteur-life-60956.raw.txt",
+      "sourceTextSha256": "9ff6ffd737dfb5aef5a8b73bd7cd5581e2bb89509ea9a549928f1cd28a86850f",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          371,
+          480
+        ]
+      },
+      "corrections": [
+        "Relabel the body as the complete biography chapter that preserves Pasteur's lecture passage; do not present it as a stand-alone complete work titled On Spontaneous Generation.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/pasteur-life-chapter-v-devonshire-1920.txt",
+      "outputBytes": 66571,
+      "outputSha256": "708a6f6babbf13a035ffc5f6a53dd36071e548905dc867a44c8aa417b1ce6554",
+      "matchedThoughtIds": [
+        "science-pasteur-airborne-contamination"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46",
+      "naturalUnit": "Discourse on Inequality, Note XV",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/4/6/3/3/46333/46333-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/rousseau-discourses-46333.raw.txt",
+      "sourceTextSha256": "fa8468800d708b8330efc0a6c4383320e209bd0dec7a7f1fb4bd9028e9532bbf",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          925,
+          925
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: rousseau-note-xv."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/rousseau-inequality-note-xv.txt",
+      "outputBytes": 1669,
+      "outputSha256": "96887f9f9f5da0ba45ce03abef691192486d5ef55570a8271b8db72a301e55f8",
+      "matchedThoughtIds": [
+        "rousseau-amour-propre-comparison"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222",
+      "naturalUnit": "Discourse on Inequality, Part I",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/4/6/3/3/46333/46333-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/rousseau-discourses-46333.raw.txt",
+      "sourceTextSha256": "fa8468800d708b8330efc0a6c4383320e209bd0dec7a7f1fb4bd9028e9532bbf",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          870,
+          926
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/rousseau-inequality-part-i.txt",
+      "outputBytes": 69644,
+      "outputSha256": "b62c28b42df064f16f50162987321de8d23dc4d6de60cb9c284c7178c19ece3e",
+      "matchedThoughtIds": [
+        "rousseau-compassion-prior-to-reason",
+        "rousseau-perfectibility-double-edge"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb",
+      "naturalUnit": "Discourse on Inequality, Part II",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/4/6/3/3/46333/46333-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/rousseau-discourses-46333.raw.txt",
+      "sourceTextSha256": "fa8468800d708b8330efc0a6c4383320e209bd0dec7a7f1fb4bd9028e9532bbf",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          927,
+          1000
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/rousseau-inequality-part-ii.txt",
+      "outputBytes": 73169,
+      "outputSha256": "31d2965f3e9d26f7e23b865a27a98eea936e94270036306390fec75051f1aa8a",
+      "matchedThoughtIds": [
+        "rousseau-metallurgy-agriculture-inequality",
+        "rousseau-property-enclosure"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-discourse-on-the-sciences-and-arts-part-ii-612100dd",
+      "naturalUnit": "Discourse on the Sciences and Arts, Part II",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/4/6/3/3/46333/46333-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/rousseau-discourses-46333.raw.txt",
+      "sourceTextSha256": "fa8468800d708b8330efc0a6c4383320e209bd0dec7a7f1fb4bd9028e9532bbf",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          769,
+          808
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/rousseau-sciences-arts-part-ii.txt",
+      "outputBytes": 33028,
+      "outputSha256": "26380d2e06df501c89228306a253865328b5922caf66d78c2df8480e450de2f7",
+      "matchedThoughtIds": [
+        "rousseau-luxury-corrupts-virtue"
+      ]
+    },
+    {
+      "sourceUrl": "https://archive.org/details/anenglishtransla00vaacuoft",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/reading-unit-origins/samkhya-karika-jha-1896-archive-ocr.txt",
+      "sourceTextSha256": "32673ea55ee42cb1c980a5227148c503106d39e93e359fc520c603d303a01081",
+      "command": "select declared line ranges from research/source-cache/reading-unit-origins/samkhya-karika-jha-1896-archive-ocr.txt",
+      "lineRanges": [
+        [
+          896,
+          7662
+        ]
+      ],
+      "corrections": [
+        "Restore the continuous Karika XIII sentence from the same-edition scan (print p. 42), removing only interleaved marginal-heading OCR and repairing line-break OCR in illuminating/versatile.",
+        "Restore the continuous Karika XVIII sentence from the same-edition scan (print p. 56), correcting clear OCR glyph errors and removing only an interleaved marginal heading.",
+        "Restore the continuous Karika XXI sentence from the same-edition scan (print p. 60), removing only the interleaved marginal gloss and repairing the line-break OCR in proceeds."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/samkhya-karika-jha-1896-complete-text.txt",
+      "outputBytes": 296643,
+      "outputSha256": "4bddbe055fb29a51d63e0d5dd77379b1a27d5989982a700ad6b45a6a4aeb4110",
+      "matchedThoughtIds": [
+        "indian-samkhya-blind-lame",
+        "indian-samkhya-effect-preexists",
+        "indian-samkhya-many-purushas",
+        "indian-samkhya-three-gunas",
+        "indian-samkhya-threefold-suffering",
+        "indian-samkhya-unmanifest-manifest-knower"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-theological-political-treatise-chapter-20-80467ac4",
+      "naturalUnit": "Theological-Political Treatise, Chapter XX",
+      "sourceUrl": "https://www.gutenberg.org/files/992/992-h/992-h.htm",
+      "retrievalUrl": "https://gutenberg.pglaf.org/9/9/992/992-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/spinoza-theological-political-992.raw.txt",
+      "sourceTextSha256": "73ce411c9ae5f8e1f65cddb1fbec305328548e0a6428ba477a91c5a8fb79ebe5",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          206,
+          236
+        ]
+      },
+      "corrections": [
+        "Retain the registered edition; integrate its complete natural unit with the exact card text recorded below.",
+        "Reader-body cleanup: spinoza-markers."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/spinoza-theological-political-treatise-chapter-xx-elwes.txt",
+      "outputBytes": 20586,
+      "outputSha256": "6a4d88d6d3d401ea11ed7861e4a56d3c8bcba576ba0a7e936984135b69372fc2",
+      "matchedThoughtIds": [
+        "spinoza-state-end-freedom"
+      ]
+    },
+    {
+      "sourceUrl": "https://archive.org/details/thevaiasesikasut00kanauoft",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/indian-source-audit-batch9/sinha-vaisheshika-sutras-1923-djvu.txt",
+      "sourceTextSha256": "859a757b1f1fb61134d66efc71afd5b51ae41bdab488aa8c274c6e3bd953e7d9",
+      "command": "select declared line ranges from research/source-cache/indian-source-audit-batch9/sinha-vaisheshika-sutras-1923-djvu.txt",
+      "lineRanges": [
+        [
+          2265,
+          4310
+        ],
+        [
+          4311,
+          5104
+        ],
+        [
+          10123,
+          10709
+        ],
+        [
+          14881,
+          16862
+        ]
+      ],
+      "corrections": [
+        "Normalize the Book II / Chapter I boundary without changing its meaning.",
+        "Normalize the Book IV / Chapter I boundary without changing its meaning.",
+        "Normalize the Book VII / Chapter II boundary without changing its meaning.",
+        "Normalize the Book VIII / Chapter I boundary without changing its meaning.",
+        "Restore ‘cause’ in aphorism VII.ii.26, dropped by Archive OCR; the same-edition contents summary prints ‘effect and cause’ in full."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/vaisheshika-sutra-sinha-1923-selected-chapters.txt",
+      "outputBytes": 312845,
+      "outputSha256": "e416f829dcae000833e74dfbd1e76211f57a93663273ac55f41829f7b6f1493c",
+      "matchedThoughtIds": [
+        "indian-vaisheshika-category-errors",
+        "indian-vaisheshika-dharma-inquiry",
+        "indian-vaisheshika-nine-substances",
+        "indian-vaisheshika-universal-particular",
+        "indian-vaisheshika-atoms-composites",
+        "indian-vaisheshika-inherence"
+      ]
+    },
+    {
+      "batch": "public-unhandled-resolution-2026-08-29",
+      "previousUnitId": "ru-astronomia-nova-chapter-19-89268069",
+      "naturalUnit": "William Whewell, On the Philosophy of Discovery, Chapter XIV, “The Practical Reformers of Science”",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/51555/pg51555-images.html",
+      "retrievalUrl": "https://gutenberg.pglaf.org/5/1/5/5/51555/51555-0.txt",
+      "useBasis": "public-domain",
+      "sourceTextPath": "research/source-cache/public-unhandled-resolution/kepler-whewell-51555.raw.txt",
+      "sourceTextSha256": "805d8f5eb10c67ba76c68d52f802c43c48f4b939679d56cfca5d005043abdabd",
+      "command": "npx tsx research/source-cache/public-unhandled-resolution/build-resolution-proposal.mjs",
+      "boundary": {
+        "sourceParagraphIndexesInclusive": [
+          422,
+          493
+        ]
+      },
+      "corrections": [
+        "Keep the registered Gutenberg evidence but stop labelling the complete reader body as Astronomia Nova Chapter 19. It is Whewell's complete Chapter XIV; the card is a Kepler quotation preserved in §10.",
+        "Reader-body cleanup: whitespace and source emphasis markup only."
+      ],
+      "outputPath": "research/source-cache/reading-unit-derived/whewell-philosophy-discovery-chapter-xiv.txt",
+      "outputBytes": 43078,
+      "outputSha256": "b79fe33fa9052ea4d9fbdd472b293609488a3d62eeb27afafaccc4c0e5dd0531",
+      "matchedThoughtIds": [
+        "science-kepler-eight-minutes"
+      ]
+    }
+  ]
+}

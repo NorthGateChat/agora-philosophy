@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-waiting-for-the-dawn-on-laws-named-chapter-on-laws-3c97487f",
+  "title": "篇 On Laws",
+  "englishTitle": "Chapter On Laws",
+  "work": "《明夷待访录·原法》",
+  "englishWork": "Waiting for the Dawn, On Laws",
+  "locator": "篇 On Laws",
+  "englishLocator": "Chapter On Laws",
+  "version": "维基文库《明夷待访录·原法》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Waiting for the Dawn, On Laws; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%A4%B7%E5%BE%85%E8%A8%AA%E9%8C%84",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%A4%B7%E5%BE%85%E8%A8%AA%E9%8C%84",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E6%98%8E%E5%A4%B7%E5%BE%85%E8%A8%AA%E9%8C%84&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "5abbd06225081414f90af456a3feafaf8ed8798f6105fe7978d279e22d103d0a"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "808ed020a08d40f8a8cf60b4cfa8fc2bc24058a022d121d6d3e3615b62a6a408",
+  "inputHash": "30df17a8bce25613428501985f292e79201325ce97c38ed38084e0b266bff493",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "原法"
+    },
+    {
+      "id": "p0002",
+      "text": "三代以上有法，三代以下無法。何以言之？二帝、三王知天下之不可無養也，為之授田以耕之；知天下之不可無衣也，為之授地以桑麻之；知天下之不可無教也，為之學校以興之，為之婚姻之禮以防其淫，為之卒乘之賦以防其亂。此三代以上之法也，因未嘗為一己而立也。後之人主，既得天下，唯恐其祚命之不長也，子孫之不能保有也，思患於未然以為之法。然則其所謂法者，一家之法，而非天下之法也。是故秦變封建而為郡縣，以郡縣得私於我也；漢建庶孽，以其可以藩屏於我也；宋解方鎮之兵，以方鎮之不利於我也。此其法何曾有一毫為天下之心哉！而亦可謂之法乎？"
+    },
+    {
+      "id": "p0003",
+      "text": "三代之法，藏天下於天下者也。山澤之利不必其盡取，刑賞之權不疑其旁落，貴不在朝廷也，賤不在草莽也。在後世方議其法之疏，而天下之人不見上之可欲，不見下之可惡，法愈疏而亂愈不作，所謂無法之法也。後世之法，藏天下於筐篋者也；利不欲其遺於下，福必欲其斂於上；用一人焉則疑其自私，而又用一人以制其私；行一事焉則慮其可欺，而又設一事以防其欺。天下之人共知其筐篋之所在，吾亦鰓鰓然日唯筐篋之是虞，故其法不得不密。法愈密而天下之亂即生於法之中，所謂非法之法也。"
+    },
+    {
+      "id": "p0004",
+      "text": "論者謂一代有一代之法，子孫以法祖為孝。夫非法之法，前王不勝其利欲之私以創之，後王或不勝其利欲之私以壞之。壞之者固足以害天下，其創之者亦未始非害天下者也。乃必欲周旋於此膠彼漆之中，以博憲章之餘名，此俗儒之勦說也。即論者謂天下之治亂不繫於法之存亡。夫古今之變，至秦而一盡，至元而又一盡。經此二盡之後，古聖王之所惻隱愛人而經營者蕩然無具，苟非為之遠思深覽，一一通變，以復井田、封建、學校、卒乘之舊，雖小小更革，生民之戚戚終無已時也。即論者謂有治人無治法，吾以謂有治法而後有治人。自非法之法桎梏天下人之手足，即有能治之人，終不勝其牽挽嫌疑之顧盼，有所設施，亦就其分之所得，安於苟簡，而不能有度外之功名。使先王之法而在，莫不有法外之意存乎其間。其人是也，則可以無不行之意；其人非也，亦不至深刻羅網，反害天下。故曰有治法而後有治人。"
+    }
+  ],
+  "anchors": {
+    "chinese-huang-zongxi-public-law": {
+      "paragraphId": "p0002",
+      "start": 159,
+      "end": 180,
+      "quote": "然则其所谓法者，一家之法，而非天下之法也。",
+      "match": "normalized-exact"
+    }
+  }
+}

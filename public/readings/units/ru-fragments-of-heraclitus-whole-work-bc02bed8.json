@@ -1,0 +1,1153 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-fragments-of-heraclitus-whole-work-bc02bed8",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《赫拉克利特残篇》",
+  "englishWork": "Fragments of Heraclitus",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 公版英译文本，John Burnet《早期希腊哲学》第三版（1920），赫拉克利特残篇 DK 22 B2",
+  "englishVersion": "Wikisource public-domain translation, John Burnet, Early Greek Philosophy, 3rd ed. (1920), Heraclitus DK 22 B2",
+  "sourceUrl": "https://en.wikisource.org/wiki/Fragments_of_Heraclitus",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "95d2089d67db57e92a248e8bff0d3f6de5db63f210414fd780f6470ec0a160ec"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "a123a09e5c3df5ddafb302d8e0a7f83b17e91706c7f05d06b2526a9d0f269b1e",
+  "inputHash": "9660a55cd23d1162bff1990e92ee3867afdcc8c76dabf03d36c43fd67b1a78c1",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Fragments of Heraclitus"
+    },
+    {
+      "id": "p0002",
+      "text": "Contents"
+    },
+    {
+      "id": "p0003",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 49a 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 67a 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82-83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 101a 102 103 104 105 106 107 108 109 110-111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129"
+    },
+    {
+      "id": "p0004",
+      "text": "Fragment 1"
+    },
+    {
+      "id": "p0005",
+      "text": "Though this Word is true evermore, yet men are as unable to understand it when they hear it for the first time as before they have heard it at all. For, though all things come to pass in accordance with this Word, men seem as if they had no experience of them, when they make trial of words and deeds such as I set forth, dividing each thing according to its kind and showing how it truly is. But other men know not what they are doing when awake, even as they forget what they do in sleep."
+    },
+    {
+      "id": "p0006",
+      "text": "Fragment 2"
+    },
+    {
+      "id": "p0007",
+      "text": "So we must follow the common, yet though my Word is common, the many live as if they had a wisdom of their own."
+    },
+    {
+      "id": "p0008",
+      "text": "Fragment 3"
+    },
+    {
+      "id": "p0009",
+      "text": "(The sun is the width of a human foot.)"
+    },
+    {
+      "id": "p0010",
+      "text": "Fragment 4"
+    },
+    {
+      "id": "p0011",
+      "text": "Oxen are happy when they find bitter vetches to eat."
+    },
+    {
+      "id": "p0012",
+      "text": "Fragment 5"
+    },
+    {
+      "id": "p0013",
+      "text": "(129, 130) They vainly purify themselves by defiling themselves with blood, just as if one who had stepped into the mud were to wash his feet in mud. Any man who marked him doing thus, would deem him mad."
+    },
+    {
+      "id": "p0014",
+      "text": "And they pray to these images, as if one were to talk with a man's house, knowing not what gods or heroes are."
+    },
+    {
+      "id": "p0015",
+      "text": "Fragment 6"
+    },
+    {
+      "id": "p0016",
+      "text": "The sun is new every day."
+    },
+    {
+      "id": "p0017",
+      "text": "Fragment 7"
+    },
+    {
+      "id": "p0018",
+      "text": "If all things were turned to smoke, the nostrils would distinguish them."
+    },
+    {
+      "id": "p0019",
+      "text": "Fragment 8"
+    },
+    {
+      "id": "p0020",
+      "text": "It is the opposite which is good for us."
+    },
+    {
+      "id": "p0021",
+      "text": "Fragment 9"
+    },
+    {
+      "id": "p0022",
+      "text": "Asses would rather have straw than gold."
+    },
+    {
+      "id": "p0023",
+      "text": "Fragment 10"
+    },
+    {
+      "id": "p0024",
+      "text": "Couples are things whole and things not whole, what is drawn together and what is drawn asunder, the harmonious and the discordant. The one is made up of all things, and all things issue from the one."
+    },
+    {
+      "id": "p0025",
+      "text": "Fragment 11"
+    },
+    {
+      "id": "p0026",
+      "text": "Every beast is driven to pasture with blows."
+    },
+    {
+      "id": "p0027",
+      "text": "Fragment 12"
+    },
+    {
+      "id": "p0028",
+      "text": "(41, 42) You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you."
+    },
+    {
+      "id": "p0029",
+      "text": "Fragment 13"
+    },
+    {
+      "id": "p0030",
+      "text": ". . . to delight in the mire."
+    },
+    {
+      "id": "p0031",
+      "text": "Fragment 14"
+    },
+    {
+      "id": "p0032",
+      "text": "Night-walkers, Magians, Bakchoi, Lenai, and the initiated . . ."
+    },
+    {
+      "id": "p0033",
+      "text": "The mysteries practised among men are unholy mysteries."
+    },
+    {
+      "id": "p0034",
+      "text": "Fragment 15"
+    },
+    {
+      "id": "p0035",
+      "text": "For if it were not to Dionysos that they made a procession and sang the shameful phallic hymn, they would be acting most shamelessly. But Hades is the same as Dionysos in whose honour they go mad and rave."
+    },
+    {
+      "id": "p0036",
+      "text": "Fragment 16"
+    },
+    {
+      "id": "p0037",
+      "text": "How can one hide from that which never sets?"
+    },
+    {
+      "id": "p0038",
+      "text": "Fragment 17"
+    },
+    {
+      "id": "p0039",
+      "text": "The many do not take heed of such things as those they meet with, nor do they mark them when they are taught, though they think they do."
+    },
+    {
+      "id": "p0040",
+      "text": "Fragment 18"
+    },
+    {
+      "id": "p0041",
+      "text": "If you do not expect the unexpected, you will not find it; for it is hard to be sought out and difficult."
+    },
+    {
+      "id": "p0042",
+      "text": "Fragment 19"
+    },
+    {
+      "id": "p0043",
+      "text": "Knowing not how to listen nor how to speak."
+    },
+    {
+      "id": "p0044",
+      "text": "Fragment 20"
+    },
+    {
+      "id": "p0045",
+      "text": "When they are born, they wish to live and to meet with their dooms—or rather to rest—and they leave children behind them to meet with their dooms in turn."
+    },
+    {
+      "id": "p0046",
+      "text": "Fragment 21"
+    },
+    {
+      "id": "p0047",
+      "text": "All the things we see when awake are death, even as all we see in slumber are sleep."
+    },
+    {
+      "id": "p0048",
+      "text": "Fragment 22"
+    },
+    {
+      "id": "p0049",
+      "text": "Those who seek for gold dig up much earth and find a little."
+    },
+    {
+      "id": "p0050",
+      "text": "Fragment 23"
+    },
+    {
+      "id": "p0051",
+      "text": "Men would not have known the name of justice if these things were not."
+    },
+    {
+      "id": "p0052",
+      "text": "Fragment 24"
+    },
+    {
+      "id": "p0053",
+      "text": "Gods and men honour those who are slain in battle."
+    },
+    {
+      "id": "p0054",
+      "text": "Fragment 25"
+    },
+    {
+      "id": "p0055",
+      "text": "Greater deaths win greater portions."
+    },
+    {
+      "id": "p0056",
+      "text": "Fragment 26"
+    },
+    {
+      "id": "p0057",
+      "text": "Man kindles a light for himself in the night-time, when he has died but is alive. The sleeper, whose vision has been put out, lights up from the dead; he that is awake lights up from the sleeping."
+    },
+    {
+      "id": "p0058",
+      "text": "Fragment 27"
+    },
+    {
+      "id": "p0059",
+      "text": "There awaits men when they die such things as they look not for nor dream of."
+    },
+    {
+      "id": "p0060",
+      "text": "Fragment 28"
+    },
+    {
+      "id": "p0061",
+      "text": "The most esteemed of them knows but fancies, and holds fast to them, yet of a truth justice shall overtake the artificers of lies and the false witnesses."
+    },
+    {
+      "id": "p0062",
+      "text": "Fragment 29"
+    },
+    {
+      "id": "p0063",
+      "text": "For even the best of them choose one thing above all others, immortal glory among mortals, while most of them are glutted like beasts."
+    },
+    {
+      "id": "p0064",
+      "text": "Fragment 30"
+    },
+    {
+      "id": "p0065",
+      "text": "This world, which is the same for all, no one of gods or men has made; but it was ever, is now, and ever shall be an ever-living Fire, with measures of it kindling, and measures going out."
+    },
+    {
+      "id": "p0066",
+      "text": "Fragment 31"
+    },
+    {
+      "id": "p0067",
+      "text": "The transformations of Fire are, first of all, sea; and half of the sea is earth, half whirlwind. . . ."
+    },
+    {
+      "id": "p0068",
+      "text": "It becomes liquid sea, and is measured by the same tale as before it became earth."
+    },
+    {
+      "id": "p0069",
+      "text": "Fragment 32"
+    },
+    {
+      "id": "p0070",
+      "text": "The wise is one only. It is unwilling and willing to be called by the name of Zeus."
+    },
+    {
+      "id": "p0071",
+      "text": "Fragment 33"
+    },
+    {
+      "id": "p0072",
+      "text": "And it is law, too, to obey the counsel of one."
+    },
+    {
+      "id": "p0073",
+      "text": "Fragment 34"
+    },
+    {
+      "id": "p0074",
+      "text": "Fools when they do hear are like the deaf: of them does the saying bear witness that they are absent when present."
+    },
+    {
+      "id": "p0075",
+      "text": "Fragment 35"
+    },
+    {
+      "id": "p0076",
+      "text": "Men that love wisdom must be acquainted with very many things indeed."
+    },
+    {
+      "id": "p0077",
+      "text": "Fragment 36"
+    },
+    {
+      "id": "p0078",
+      "text": "For it is death to souls to become water, and death to water to become earth. But water comes from earth; and from water, soul."
+    },
+    {
+      "id": "p0079",
+      "text": "Fragment 37"
+    },
+    {
+      "id": "p0080",
+      "text": "Swine wash in the mire, and barnyard fowls in dust."
+    },
+    {
+      "id": "p0081",
+      "text": "Fragment 38"
+    },
+    {
+      "id": "p0082",
+      "text": "(Thales foretold an eclipse.)"
+    },
+    {
+      "id": "p0083",
+      "text": "Fragment 39"
+    },
+    {
+      "id": "p0084",
+      "text": "In Priene lived Bias, son of Teutamas, who is of more account than the rest. (He said, \"Most men are bad.\")"
+    },
+    {
+      "id": "p0085",
+      "text": "Fragment 40"
+    },
+    {
+      "id": "p0086",
+      "text": "The learning of many things teacheth not understanding, else would it have taught Hesiod and Pythagoras, and again Xenophanes and Hekataios."
+    },
+    {
+      "id": "p0087",
+      "text": "Fragment 41"
+    },
+    {
+      "id": "p0088",
+      "text": "Wisdom is one thing. It is to know the thought by which all things are steered through all things."
+    },
+    {
+      "id": "p0089",
+      "text": "Fragment 42"
+    },
+    {
+      "id": "p0090",
+      "text": "Homer should be turned out of the lists and whipped, and Archilochos likewise."
+    },
+    {
+      "id": "p0091",
+      "text": "Fragment 43"
+    },
+    {
+      "id": "p0092",
+      "text": "Wantonness needs putting out, even more than a house on fire."
+    },
+    {
+      "id": "p0093",
+      "text": "Fragment 44"
+    },
+    {
+      "id": "p0094",
+      "text": "The people must fight for its law as for its walls."
+    },
+    {
+      "id": "p0095",
+      "text": "Fragment 45"
+    },
+    {
+      "id": "p0096",
+      "text": "You will not find the boundaries of soul by travelling in any direction, so deep is the measure of it."
+    },
+    {
+      "id": "p0097",
+      "text": "Fragment 46"
+    },
+    {
+      "id": "p0098",
+      "text": "Self-conceit [is] a falling sickness (epilepsy) and eyesight a lying sense."
+    },
+    {
+      "id": "p0099",
+      "text": "Fragment 47"
+    },
+    {
+      "id": "p0100",
+      "text": "Let us not conjecture at random about the greatest things."
+    },
+    {
+      "id": "p0101",
+      "text": "Fragment 48"
+    },
+    {
+      "id": "p0102",
+      "text": "The bow (βιός) is called life (βίος) but its work is death."
+    },
+    {
+      "id": "p0103",
+      "text": "Fragment 49"
+    },
+    {
+      "id": "p0104",
+      "text": "One is ten thousand to me, if he be the best."
+    },
+    {
+      "id": "p0105",
+      "text": "Fragment 49a"
+    },
+    {
+      "id": "p0106",
+      "text": "We step and do not step into the same rivers; we are and are not."
+    },
+    {
+      "id": "p0107",
+      "text": "Fragment 50"
+    },
+    {
+      "id": "p0108",
+      "text": "It is wise to hearken, not to me, but to my Word, and to confess that all things are one. R.P. 40."
+    },
+    {
+      "id": "p0109",
+      "text": "Fragment 51"
+    },
+    {
+      "id": "p0110",
+      "text": "Men do not know how what is at variance agrees with itself. It is an attunement of opposite tensions, like that of the bow and the lyre. R. P. 34.E"
+    },
+    {
+      "id": "p0111",
+      "text": "Fragment 52"
+    },
+    {
+      "id": "p0112",
+      "text": "Time is a child playing draughts, the kingly power is a child's."
+    },
+    {
+      "id": "p0113",
+      "text": "Fragment 53"
+    },
+    {
+      "id": "p0114",
+      "text": "War is the father of all and the king of all; and some he has made gods and some men, some bond and some free."
+    },
+    {
+      "id": "p0115",
+      "text": "Fragment 54"
+    },
+    {
+      "id": "p0116",
+      "text": "The hidden attunement is better than the open."
+    },
+    {
+      "id": "p0117",
+      "text": "Fragment 55"
+    },
+    {
+      "id": "p0118",
+      "text": "The things that can be seen, heard, and learned are what I prize the most. R .P. 42."
+    },
+    {
+      "id": "p0119",
+      "text": "Fragment 56"
+    },
+    {
+      "id": "p0120",
+      "text": "Men allow themselves to be deceived as Homer was, who yet was wiser than all the Greeks; for some boys killing lice deceived him saying, \"What we see and catch we leave behind; what we neither see nor catch we take with us.\""
+    },
+    {
+      "id": "p0121",
+      "text": "Fragment 57"
+    },
+    {
+      "id": "p0122",
+      "text": "Hesiod is most men's teacher. Men are sure he knew very many things, a man who did not know day or night! They are one."
+    },
+    {
+      "id": "p0123",
+      "text": "Fragment 58"
+    },
+    {
+      "id": "p0124",
+      "text": "Physicians who cut, burn, stab, and rack the sick, demand a fee for it which they do not deserve to get."
+    },
+    {
+      "id": "p0125",
+      "text": "Fragment 59"
+    },
+    {
+      "id": "p0126",
+      "text": "The straight and the crooked path of the fuller's comb is one and the same."
+    },
+    {
+      "id": "p0127",
+      "text": "Fragment 60"
+    },
+    {
+      "id": "p0128",
+      "text": "The way up and the way down is one and the same."
+    },
+    {
+      "id": "p0129",
+      "text": "Fragment 61"
+    },
+    {
+      "id": "p0130",
+      "text": "The sea is the purest and the impurest water. Fish can drink it, and it is good for them; to men it is undrinkable and destructive."
+    },
+    {
+      "id": "p0131",
+      "text": "Fragment 62"
+    },
+    {
+      "id": "p0132",
+      "text": "Mortals are immortals and immortals are mortals, the one living the others' death and dying the others' life."
+    },
+    {
+      "id": "p0133",
+      "text": "Fragment 63"
+    },
+    {
+      "id": "p0134",
+      "text": ". . . that they rise up and become the wakeful guardians of the quick and dead."
+    },
+    {
+      "id": "p0135",
+      "text": "Fragment 64"
+    },
+    {
+      "id": "p0136",
+      "text": "It is the thunderbolt that steers the course of all things."
+    },
+    {
+      "id": "p0137",
+      "text": "Fragment 65"
+    },
+    {
+      "id": "p0138",
+      "text": "Fire is want and surfeit."
+    },
+    {
+      "id": "p0139",
+      "text": "Fragment 66"
+    },
+    {
+      "id": "p0140",
+      "text": "Fire in its advance will judge and convict all things."
+    },
+    {
+      "id": "p0141",
+      "text": "Fragment 67"
+    },
+    {
+      "id": "p0142",
+      "text": "God is day and night, winter and summer, war and peace, surfeit and hunger; but he takes various shapes, just as fire, when it is mingled with spices, is named according to the savour of each."
+    },
+    {
+      "id": "p0143",
+      "text": "Fragment 67a"
+    },
+    {
+      "id": "p0144",
+      "text": "ita vitalis calor a sole procedens omnibus quae vivunt vitam subministrat. cui sententiae Heraclitus adquiescens optimam similitudinem dat de aranea ad animam, de tela araneae ad corpus, sic(ut) aranea, ait, stans in medio telae sentit, quam cito musca aliquem filum suum corrumpit itaque illuc celeriter currit quasi de fili persectione dolens, sic hominis anima aliqua parte corporis laesa, illuc festine meat, quasi impatiens laesionis corporis, cui firme et proportionaliter iuncta est."
+    },
+    {
+      "id": "p0145",
+      "text": "[Hisdosus scholasticus, Commentary on the Timaeus , 17v.]"
+    },
+    {
+      "id": "p0146",
+      "text": "Fragment 68"
+    },
+    {
+      "id": "p0147",
+      "text": "(Therefore Heraclitus rightly called them \"atonements,\" since they are to make amends for evils and render the souls free from the dangers in generation.)"
+    },
+    {
+      "id": "p0148",
+      "text": "Fragment 69"
+    },
+    {
+      "id": "p0149",
+      "text": "(Iamblichus, De Mysteriis, v. 15. I distinguish two kinds of sacrifices. First, those of men wholly purified, such as would rarely happen in the case of a single individual, as Heraclitus says, or of a certain very few men...)"
+    },
+    {
+      "id": "p0150",
+      "text": "Fragment 70"
+    },
+    {
+      "id": "p0151",
+      "text": "(A little better, then, Heraclitus has considered human opinions to be children's toys.)"
+    },
+    {
+      "id": "p0152",
+      "text": "Fragment 71"
+    },
+    {
+      "id": "p0153",
+      "text": "(Think too of him who forgets where the way leads.)"
+    },
+    {
+      "id": "p0154",
+      "text": "Fragment 72"
+    },
+    {
+      "id": "p0155",
+      "text": "They are estranged from that with which they have most constant intercourse."
+    },
+    {
+      "id": "p0156",
+      "text": "Fragment 73"
+    },
+    {
+      "id": "p0157",
+      "text": "It is not meet to act and speak like men asleep."
+    },
+    {
+      "id": "p0158",
+      "text": "Fragment 74"
+    },
+    {
+      "id": "p0159",
+      "text": "(We ought not [behave] like children who learn from their parents.)"
+    },
+    {
+      "id": "p0160",
+      "text": "Fragment 75"
+    },
+    {
+      "id": "p0161",
+      "text": "Those who are asleep are fellow-workers (in what goes on in the world)."
+    },
+    {
+      "id": "p0162",
+      "text": "Fragment 76"
+    },
+    {
+      "id": "p0163",
+      "text": "Fire lives the death of air, and air lives the death of fire; water lives the death of earth, earth that of water. R.P. 37."
+    },
+    {
+      "id": "p0164",
+      "text": "Fragment 77"
+    },
+    {
+      "id": "p0165",
+      "text": "It is pleasure to souls to become moist."
+    },
+    {
+      "id": "p0166",
+      "text": "Fragment 78"
+    },
+    {
+      "id": "p0167",
+      "text": "The way of man has no wisdom, but that of God has."
+    },
+    {
+      "id": "p0168",
+      "text": "Fragment 79"
+    },
+    {
+      "id": "p0169",
+      "text": "Man is called a baby by God, even as a child by a man."
+    },
+    {
+      "id": "p0170",
+      "text": "Fragment 80"
+    },
+    {
+      "id": "p0171",
+      "text": "We must know that war is common to all and strife is justice, and that all things come into being and pass away (?) through strife."
+    },
+    {
+      "id": "p0172",
+      "text": "Fragment 81"
+    },
+    {
+      "id": "p0173",
+      "text": "(and according to Heraclitus rhetoric is the prince of liars.)"
+    },
+    {
+      "id": "p0174",
+      "text": "Fragment 82-83"
+    },
+    {
+      "id": "p0175",
+      "text": "(98, 99) The wisest man is an ape compared to God, just as the most beautiful ape is ugly compared to man."
+    },
+    {
+      "id": "p0176",
+      "text": "Fragment 84"
+    },
+    {
+      "id": "p0177",
+      "text": "It rests by changing."
+    },
+    {
+      "id": "p0178",
+      "text": "It is a weariness to labour for the same masters and be ruled by them."
+    },
+    {
+      "id": "p0179",
+      "text": "Fragment 85"
+    },
+    {
+      "id": "p0180",
+      "text": "(105–107) It is hard to fight with one's heart's desire. Whatever it wishes to get, it purchases at the cost of soul."
+    },
+    {
+      "id": "p0181",
+      "text": "Fragment 86"
+    },
+    {
+      "id": "p0182",
+      "text": ". . . (The wise man) is not known because of men's want of belief."
+    },
+    {
+      "id": "p0183",
+      "text": "Fragment 87"
+    },
+    {
+      "id": "p0184",
+      "text": "The fool is fluttered at every word."
+    },
+    {
+      "id": "p0185",
+      "text": "Fragment 88"
+    },
+    {
+      "id": "p0186",
+      "text": "And it is the same thing in us that is quick and dead, awake and asleep, young and old; the former are shifted and become the latter, and the latter in turn are shifted and become the former."
+    },
+    {
+      "id": "p0187",
+      "text": "Fragment 89"
+    },
+    {
+      "id": "p0188",
+      "text": "The waking have one common world, but the sleeping turn aside each into a world of his own."
+    },
+    {
+      "id": "p0189",
+      "text": "Fragment 90"
+    },
+    {
+      "id": "p0190",
+      "text": "All things are an exchange for Fire, and Fire for all things, even as wares for gold and gold for wares."
+    },
+    {
+      "id": "p0191",
+      "text": "Fragment 91"
+    },
+    {
+      "id": "p0192",
+      "text": "It scatters and it gathers; it advances and retires."
+    },
+    {
+      "id": "p0193",
+      "text": "Fragment 92"
+    },
+    {
+      "id": "p0194",
+      "text": "And the Sibyl, with raving lips uttering things mirthless, unbedizened, and unperfumed, reaches over a thousand years with her voice, thanks to the god in her."
+    },
+    {
+      "id": "p0195",
+      "text": "Fragment 93"
+    },
+    {
+      "id": "p0196",
+      "text": "The lord whose is the oracle at Delphoi neither utters nor hides his meaning, but shows it by a sign. R. P. 30. a."
+    },
+    {
+      "id": "p0197",
+      "text": "Fragment 94"
+    },
+    {
+      "id": "p0198",
+      "text": "The sun will not overstep his measures; if he does, the Erinyes, the handmaids of Justice, will find him out."
+    },
+    {
+      "id": "p0199",
+      "text": "Fragment 95"
+    },
+    {
+      "id": "p0200",
+      "text": "(108, 109) It is best to hide folly; but it is hard in times of relaxation, over our cups."
+    },
+    {
+      "id": "p0201",
+      "text": "Fragment 96"
+    },
+    {
+      "id": "p0202",
+      "text": "Corpses are more fit to be cast out than dung."
+    },
+    {
+      "id": "p0203",
+      "text": "Fragment 97"
+    },
+    {
+      "id": "p0204",
+      "text": "Dogs bark at every one they do not know."
+    },
+    {
+      "id": "p0205",
+      "text": "Fragment 98"
+    },
+    {
+      "id": "p0206",
+      "text": "Souls smell in Hades."
+    },
+    {
+      "id": "p0207",
+      "text": "Fragment 99"
+    },
+    {
+      "id": "p0208",
+      "text": "If there were no sun it would be night, for all the other stars could do."
+    },
+    {
+      "id": "p0209",
+      "text": "Fragment 100"
+    },
+    {
+      "id": "p0210",
+      "text": ". . . the seasons that bring all things."
+    },
+    {
+      "id": "p0211",
+      "text": "Fragment 101"
+    },
+    {
+      "id": "p0212",
+      "text": "I have sought for myself."
+    },
+    {
+      "id": "p0213",
+      "text": "Fragment 101a"
+    },
+    {
+      "id": "p0214",
+      "text": "The eyes are more exact witnesses than ears."
+    },
+    {
+      "id": "p0215",
+      "text": "Fragment 102"
+    },
+    {
+      "id": "p0216",
+      "text": "To God all things are fair and good and right, but men hold some things wrong and some right."
+    },
+    {
+      "id": "p0217",
+      "text": "Fragment 103"
+    },
+    {
+      "id": "p0218",
+      "text": "In the circumference of a circle the beginning and end are common."
+    },
+    {
+      "id": "p0219",
+      "text": "Fragment 104"
+    },
+    {
+      "id": "p0220",
+      "text": "For what thought or wisdom have they? They follow the poets and take the crowd as their teacher, knowing not that there are many bad and few good."
+    },
+    {
+      "id": "p0221",
+      "text": "Fragment 105"
+    },
+    {
+      "id": "p0222",
+      "text": "(Homer was an astronomer.)"
+    },
+    {
+      "id": "p0223",
+      "text": "Fragment 106"
+    },
+    {
+      "id": "p0224",
+      "text": "One day is like any other."
+    },
+    {
+      "id": "p0225",
+      "text": "Fragment 107"
+    },
+    {
+      "id": "p0226",
+      "text": "Eyes and ears are bad witnesses to men if they have souls that understand not their language."
+    },
+    {
+      "id": "p0227",
+      "text": "Fragment 108"
+    },
+    {
+      "id": "p0228",
+      "text": "Of all whose discourses I have heard, there is not one who attains to understanding that wisdom is apart from all. R.P. 32 b."
+    },
+    {
+      "id": "p0229",
+      "text": "Fragment 109"
+    },
+    {
+      "id": "p0230",
+      "text": "It is better to conceal ignorance than to expose it."
+    },
+    {
+      "id": "p0231",
+      "text": "Fragment 110-111"
+    },
+    {
+      "id": "p0232",
+      "text": "It is not good for men to get all they wish to get. It is sickness that makes health pleasant; evil, good; hunger, plenty; weariness, rest."
+    },
+    {
+      "id": "p0233",
+      "text": "Fragment 112"
+    },
+    {
+      "id": "p0234",
+      "text": "Self-control is the highest virtue, and wisdom is to speak truth and consciously to act according to nature."
+    },
+    {
+      "id": "p0235",
+      "text": "Fragment 113"
+    },
+    {
+      "id": "p0236",
+      "text": "Thought is common to all."
+    },
+    {
+      "id": "p0237",
+      "text": "Fragment 114"
+    },
+    {
+      "id": "p0238",
+      "text": "Those who speak with understanding must hold fast to what is common to all as a city holds fast to its law, and even more strongly. For all human laws are fed by the one divine law. It prevails as much as it will, and suffices for all things with something to spare."
+    },
+    {
+      "id": "p0239",
+      "text": "Fragment 115"
+    },
+    {
+      "id": "p0240",
+      "text": "To the soul, belongs the self-multiplying Logos."
+    },
+    {
+      "id": "p0241",
+      "text": "Fragment 116"
+    },
+    {
+      "id": "p0242",
+      "text": "It pertains to all men to know themselves and to learn self-control."
+    },
+    {
+      "id": "p0243",
+      "text": "Fragment 117"
+    },
+    {
+      "id": "p0244",
+      "text": "A man, when he gets drunk, is led by a beardless lad, tripping, knowing not where he steps, having his soul moist."
+    },
+    {
+      "id": "p0245",
+      "text": "Fragment 118"
+    },
+    {
+      "id": "p0246",
+      "text": "(74-76) The dry soul is the wisest and best."
+    },
+    {
+      "id": "p0247",
+      "text": "Fragment 119"
+    },
+    {
+      "id": "p0248",
+      "text": "Man's character is his fate."
+    },
+    {
+      "id": "p0249",
+      "text": "Fragment 120"
+    },
+    {
+      "id": "p0250",
+      "text": "The limit of dawn and evening is the Bear; and opposite the Bear is the boundary of bright Zeus."
+    },
+    {
+      "id": "p0251",
+      "text": "Fragment 121"
+    },
+    {
+      "id": "p0252",
+      "text": "The Ephesians would do well to hang themselves, every grown man of them, and leave the city to beardless lads; for they have cast out Hermodoros, the best man among them, saying, \"We will have none who is best among us; if there be any such, let him be so elsewhere and among others.\""
+    },
+    {
+      "id": "p0253",
+      "text": "Fragment 122"
+    },
+    {
+      "id": "p0254",
+      "text": "Debate."
+    },
+    {
+      "id": "p0255",
+      "text": "Fragment 123"
+    },
+    {
+      "id": "p0256",
+      "text": "Nature loves to hide."
+    },
+    {
+      "id": "p0257",
+      "text": "Fragment 124"
+    },
+    {
+      "id": "p0258",
+      "text": "The fairest Cosmos is merely a rubbish-heap poured out at random."
+    },
+    {
+      "id": "p0259",
+      "text": "Fragment 125"
+    },
+    {
+      "id": "p0260",
+      "text": "Even the posset separates if it is not stirred."
+    },
+    {
+      "id": "p0261",
+      "text": "Fragment 126"
+    },
+    {
+      "id": "p0262",
+      "text": "Cold things become warm, and what is warm cools; what is wet dries, and the parched is moistened."
+    },
+    {
+      "id": "p0263",
+      "text": "Fragment 127"
+    },
+    {
+      "id": "p0264",
+      "text": "ὁ αὐτὸς πρὸς Αἰγυπτίους ἔφη· εἰ θεοί εἰσιν, ἵνα τί θρηνεῖτε αὐτούς; εἰ δὲ θρηνεῖτε αὐτούς, μηκέτι τούτους ἡγεῖσθε θεούς."
+    },
+    {
+      "id": "p0265",
+      "text": "[Fragment of a Greek Theosophist, 69.]"
+    },
+    {
+      "id": "p0266",
+      "text": "Fragment 128"
+    },
+    {
+      "id": "p0267",
+      "text": "ὅτι ὁ Ἡράκλειτος ὁρῶν τοὺς Ἕλληνας γέρα τοῖς δαίμοσιν ἀπονέμοντας εἶπεν·"
+    },
+    {
+      "id": "p0268",
+      "text": "[Fragment of a Greek Theosophist, 74.]"
+    },
+    {
+      "id": "p0269",
+      "text": "Fragment 129"
+    },
+    {
+      "id": "p0270",
+      "text": "Pythagoras, son of Mnesarchos, practised scientific inquiry beyond all other men, and making a selection of these writings, claimed for his own wisdom what was but a knowledge of many things and an imposture."
+    }
+  ],
+  "anchors": {
+    "heraclitus": {
+      "paragraphId": "p0007",
+      "start": 0,
+      "end": 111,
+      "quote": "So we must follow the common, yet though my Word is common, the many live as if they had a wisdom of their own.",
+      "match": "normalized-exact"
+    },
+    "heraclitus-character": {
+      "paragraphId": "p0248",
+      "start": 0,
+      "end": 28,
+      "quote": "Man's character is his fate.",
+      "match": "normalized-exact"
+    },
+    "heraclitus-conflict": {
+      "paragraphId": "p0114",
+      "start": 0,
+      "end": 110,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0114",
+          "start": 0,
+          "end": 110,
+          "text": "War is the father of all and the king of all; and some he has made gods and some men, some bond and some free."
+        },
+        {
+          "paragraphId": "p0171",
+          "start": 0,
+          "end": 131,
+          "text": "We must know that war is common to all and strife is justice, and that all things come into being and pass away (?) through strife."
+        }
+      ],
+      "quote": "War is the father of all and the king of all; and some he has made gods and some men, some bond and some free. ... We must know that war is common to all and strife is justice, and that all things come into being and pass away through strife."
+    },
+    "heraclitus-logos": {
+      "paragraphId": "p0108",
+      "start": 0,
+      "end": 89,
+      "quote": "It is wise to hearken, not to me, but to my Word, and to confess that all things are one.",
+      "match": "normalized-exact"
+    },
+    "heraclitus-river": {
+      "paragraphId": "p0028",
+      "start": 9,
+      "end": 99,
+      "quote": "You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you.",
+      "match": "normalized-exact"
+    }
+  }
+}

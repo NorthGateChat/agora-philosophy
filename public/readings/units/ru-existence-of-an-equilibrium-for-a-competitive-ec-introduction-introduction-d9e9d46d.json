@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-existence-of-an-equilibrium-for-a-competitive-ec-introduction-introduction-d9e9d46d",
+  "title": "导言",
+  "englishTitle": "Introduction",
+  "work": "《竞争经济均衡的存在》",
+  "englishWork": "Existence of an Equilibrium for a Competitive Economy",
+  "locator": "导言",
+  "englishLocator": "Introduction",
+  "version": "Arrow与Debreu〈竞争经济均衡的存在〉，《计量经济学》22卷3期（1954年7月），导言，印刷页266，完整连续句；该卷期及本文未见美国续展记录，仅确认美国公版",
+  "englishVersion": "Arrow and Debreu, ‘Existence of an Equilibrium for a Competitive Economy,’ Econometrica 22(3) (July 1954), Introduction, print p. 266, complete continuous sentence; renewal research found no renewal for the issue or contribution; U.S. public-domain status only",
+  "sourceUrl": "https://web.stanford.edu/class/msande314/arrow-debreu.pdf",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "f7a026bf76b1b08fab8371db932734e6d3aa07501e8d38a8a13f623de24daa18"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "224440fff567e4ae68e46b5f3fb38103343c14cda311159f1e66a52a5f76ee11",
+  "inputHash": "f73931976383b5149c7c4b93e1c021f0c2edd620250e4022b14b7c7eac895825",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "INTRODUCTION"
+    },
+    {
+      "id": "p0002",
+      "text": "L. WALRAS[24] first formulated the state of the economic system at any point of time as the solution of a system of simultaneous equations representing the demand for goods by consumers, the supply of goods by producers, and the equilibrium condition that supply equal demand on every market. It was as- sumed that each consumer acts so as to maximize his utility, each producer acts so as to maximize his profit, and perfect competition prevails, in the sense that each producer and consumer regards the prices paid and received as in- dependent of his own choices. Walras did not, however, give any conclusive arguments to show that the equations, as given, have a solution. The investigation of the existence of solutions is of interest both for descrip- tive and for normative economics. Descriptively, the view that the competitive model is a reasonably accurate description of reality, at least for certain purposes, presupposes that the equations describing the model are consistent with each other. Hence, one check on the empirical usefulness of the model is the prescrip- tion of the conditions under which the equations of competitive equilibrium have a solution. Perhaps as important is the relation between the existence of solutions to a competitive equilibrium and the problems of normative or welfare economics. It is well known that, under suitable assumptions on the preferences of consumers and the production possibilities of producers, the allocation of resources in a competitive equilibrium is optimal in the sense of Pareto (no redistribution of goods or productive resources can improve the position of one individual without making at least one other individual worse off), and conversely every Pareto- optimal allocation of resources can be realized by a competitive equilibrium (see for example Arrow [I], Debreu [4] and the references given there). From the 1 This paper was read at a meeting of the Econometric Society, Chicago, December 27, 1952. The work of the authors was prepared for the Office of Naval Research under contracts N6onr-25133 (NR-047-004) and Nonr-358(01) (NR-047-006), respectively. 266 KENNETH J. ARROW AND GERARD DEBRELT point of view of normative economics the problem of existence of an equilibrium for a competitive system is therefore also basic. To study this question, it is first necessary to specify more carefully than is generally done the precise assumptions of a competitive economy. The main results of this paper are two theorems stating very general conditions under which a competitive equilibrium will exist. Loosely speaking, the first theorem asserts that if every individual has initially some positive quantity of every com- modity available for sale, then a competitive equilibrium will exist. The second theorem asserts the existence of competitive equilibrium if there are some types of labor with the following two properties: (1) each individual can supply some positive amount of at least one such type of labor; and (2) each such type of labor has a positive usefulness in the production of desired commodities. The conditions of the second theorem, particularly, may be expected to be satisfied in a wide variety of actual situations, though not, for example, if there is insuf- ficient substitutability in the structure of production. The assumptions made below are, in several respects, weaker and closer to economic reality than A. Wald's [23]. Unlike his models, ours presents an in- tegrated system of production and consumption which takes account of the circular flow of income. The proof of existence is also simpler than his. Neither the uniqueness nor the stability of the competitive solution is investigated in this paper. The latter study would require specification of the dynamics of a competitive market as well as the definition of equilibrium. Mathematical techniques are set-theoretical. A central concept is that of an abstract economy, a generalization of the concept of a game. The last section contains a detailed historical note."
+    }
+  ],
+  "anchors": {
+    "economics-principles-arrow-debreu-equilibrium-existence": {
+      "paragraphId": "p0002",
+      "start": 2449,
+      "end": 2578,
+      "quote": "The main results of this paper are two theorems stating very general conditions under which a competitive equilibrium will exist.",
+      "match": "normalized-exact"
+    }
+  }
+}

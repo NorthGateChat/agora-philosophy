@@ -1,0 +1,259 @@
+A CONTRIBUTION TO THE THEORY OF TAXATION
+
+THE problem I propose to tackle is this: a given revenue is to be raised by proportionate taxes on some or all uses of income, the taxes on different uses being possibly at different rates; how should these rates be adjusted in order that the decrement of utility may be a minimum? I propose to neglect altogether questions of distribution and considerations arising from the differences in the marginal utility of money to different people; and I shall deal only with a purely competitive system with no foreign trade. Further I shall suppose that, in Professor Pigou’s terminology, private and social net products are always equal or have been made so by State interference not included in the taxation we are considering. I thus exclude the case discussed in Marshall’s Principles in which a bounty on increasing-return commodities is advisable. Nevertheless we shall find that the obvious solution that there should be no differentiation is entirely erroneous.
+
+The effect of taxation is to transfer income in the first place from individuals to the State and then, in part, back again to rentiers and pensioners. These transfers will slightly alter the demand schedules in a way depending on the incidence of the taxes and the manner of their expenditure. I neglect these alterations; 1 and I also suppose that “‘ a given revenue’’ means a given money revenue, ‘‘money” being so adjusted that its marginal utility is constant.
+
+This problem was suggested to me by Professor Pigou, to whom I am also indebted for help and encouragement in its solution.
+
+In the first part I deal with the perfectly general utility function and establish a result which is valid for a sufficiently small revenue, and takes a peculiarly simple form if we can treat the revenue as an infinitesimal. I prove, in fact, that in raising an infinitesimal revenue by proportionate taxes on given commodities the taxes should be such as to diminish in the same proportion the production of each commodity taxed.
+
+In the second part I assume that the utility function is quadratic, which means roughly that the supply and demand
+
+1 The outline of a more general treatment is given in the Appendix.
+
+curves are straight lines, but does not exclude the most general possibilities of joint supply and joint demand. With this assumption we can show that the rule given above for an infinitesimal revenue is valid for any revenue which can be raised at all.
+
+In the third part I give certain important special cases of these general theorems; and in part four indicate certain practical applications.
+
+Part I
+
+(1) I suppose there to be altogether n commodities on which incomes are spent and denote the quantities of them which are produced in a unit of time by w,, x... a. Some of these commodities may be identical, save for the place or manner of their production or consumption; eg., we can regard sugar used in tea as a different commodity from sugar used in coffee, and corn grown in Norfolk as different from that grown in Suffolk. In order to avoid double reckoning we suppose that these commodities are all either consumed or saved; eg., we include household coal, but not industrial coal except in so far as an increase in the stock of industrial coal is a form of saving, so that this rate of increase can form one of our quantities x The quantities 7,,%,... can be measured in any convenient different units.
+
+(2) We denote by wu = F(x,... am) the net utility of producing and consuming (or saving) these quantities of commodities. This is usually regarded as the difference of two functions, one of which represents the utility of consuming, the other the disutility of producing. But so to regard it is to make an unnecessary assumption of independence between consumption and production; to assume, for instance, that the utility of a hot bath is the same whether one does or does not work in a coal mine. This assumption we do not require to make.
+
+(3) If there is no taxation stable equilibrium will occur for values of the 2’s which make u a maximum. Let us call these values 71, %,... % or collectively the point P. Then at P
+
+we have ou OLp O2u, dy = XD bu,0a, dx,dx, is a negative definite form.
+
+0: r=1,...%N.
+
+Suppose now taxes are levied on the different commodities at the rates A,, A,... Aw per unit in money whose marginal utility is unity. Then the new equilibrium is determined by
+
+OU yy _
+
+ag, r=I1,...%n. *. (1) In virtue of these equations we can regard the A’s as functions of the x’s, which vanish at P, and satisfy identically
+
+Dh Be ow) Loew ee (2)
+
+Ode Oh, \ OtyOas
+
+Also the revenue R = 2)ja,.
+
+We shall always suppose R to be positive, but there is no @ priori reason why some of the 4’s should not be negative; they will then, of course, represent bounties.
+
+(4) Our first problem is this: given R, how should the ’s be chosen in order that the values of the «’s given by equations (1) shall make w a maximum.
+
+L.e., wis to be a maximum subject to ZA a, = R (where Ar is ie
+
+We must have
+
+0 = du = Xda, for any values of day subject to
+
+0 = dR = Dvds, + TEx Oe dz, rs Ly and so we have
+
+Moe gy Ze, os Sar, oh Ber, $ vy 8 OX, 3 OXn -~—B-b0n we
+
+(5) These equations determine values of the «’s which are | critical for u, and it remains to discuss the possibility of a plurality of solutions and to determine conditions under which they give a true maximum. We shall show that if R is small enough they will have a unique solution x, 7... %, which tends to %1, Z_... Tas R-+>0, and that this solution will make u a true maximum.
+
+1 #.g.,if u = uw, — U, (consumers’ utility — producers’ disutility)
+
+Ou Ou, Og. She. bn, = d0, ~ Oz, 7 demand price of rth commodity — supply price = tax.
+
+For, since d*u = 22 oe didi, is negative definite at P,
+
+(— nbn Aa - - a)
+
+O(x4, 2, rr) we can express the x’s as functions of the \’s. The equations (3) then become
+
+Ay = Rie(Ay,... An) y=1,2,...%0.
+
+is positive at, and therefore near, P. Hence
+
+For the denominator 22’ ie XX; is a negative definite form with d*y and so cannot vanish near P (and therefore also? >0). The Jacobian of these last equations with regard to the A’s will tend to 1 as & tends to 0, and they will therefore have a unique solution A,, -.. An which tends to 0,0... 0 as R& tends to 0. Hence the equations (3) have a unique solution tending to P as R->0.
+
+We have now to consider the conditions for a maximum which are obtained most simply by Lagrange’s multipliers.
+
+If we consider u -+- KR
+
+we should have st + Kok = or 1+4+K—; = 0 if @has the meaning it has in equations (3). _ te or K = Toe Then du = (u + ~—pR) — Y 2
+
+(calculated as if the variables 2 were independent 4), and in a sufficiently small neighbourhood of P we shall have @ < any assigned positive constant and so d*u + i o pvr negative definite with d’u. This establishes the desired result.? (6) Suppose now F and the A’s can be regarded as infinitesimals; then putting OAr
+
+An Sin dite dis equations (3) give us, using (2),
+
+1 See, e.g., de la Vallée Poussin, Cours d’Analyse, 4th ed., t. 1, p. 149.
+
+2 Clearly also we shall get a maximum at any point for which d?R is negative and 6 <1; i.e.,if d*® is everywhere negative (3) will give amaximum for all values of 6 up to @ = 1, which gives a maximum of R. This covers the case treated in Part II and so also any case approximating to that.
+
+ye ae | 280, R
+
+and their solution is evidently given by dx, day _ — din 4.e., the production of each commodity should be diminished in the same proportion.
+
+(7) It is interesting to extend these results to the case of a given revenue to be raised by taxing certain commodities only. If the utility were the sum of two functions, one of the taxed and the other of the untaxed commodities, it is obvious that our conclusions would be the same as before. But in the general case the question is by no means so simple.
+
+Let us denote the quantities of the commodities to be taxed by 2,... %, and those not to be taxed by y,... yn.
+
+If += ete then A, is the tax per unit on 2, andif p,p= a pr =0 (’s and p’s functions of z’s and y’s), also as before oe = One Ofer Opts OAr __ Ope and we have to. maximise u subject to Ot = Roy = 0,t=1,... mM. =1 We have " 0=du= Pedi, 0=dk= Pedit, + aon, i dir + Etre dy:
+
+0 = du = pan, 4 5H dy, t=1,...m.
+
+r Ox, u Yn Solving these last equations (dy: = 0) for the dy’s we obtain dy: = Zixwlte rae (') | where Oye + Sls 0 {ia =4, | 7 mh (7) O Lp ee Oyu” — _ 1,.m e ° ry
+
+(The possibility of solution is guaranteed by the discriminants of d*u not vanishing.) As OAs )
+
+Whence 0=dR= Zidane + Dis = a zt aT Oy: Xtr r 8 E2
+
+*, instead of equations (3) we have Av, = ~. (3’) Th Oh (
+
+Boal +r ri Xie ay)
+
+It can be shown that these give a maximum of wu with the same sort of limitations as equations (3) do.
+
+(8) And if the.’s are infinitesimal y= es dit, + Eat dy _ Erdal 5 Ae I Xu ) by (5), (6). Ope Op. But 2x0 ae = — roa XtsXur by (7) Ope 0 Opn = 2x03 Aa, * (by symmetry since om i= Ba st), OAs OAs Ope So Ar = Sitn( se Aa, 2 Xie a =) since Bye Bae and so equations (3’) are satisfied by day — Hn t.e., as before the taxes should be such as to reduce in the same proportion the production of each taxed commodity.
+
+(9) Further than this it is difficult to go without making some new assumption. The assumption I propose is perhaps unnecessarily restrictive, but it still allows scope for all possible first-order relations between commodities in respect of joint supply or joint demand, and it has the great merit of rendering the problem completely soluble.
+
+I shall assume that the utility is a non-homogeneous quadratic function of the «’s, or that the A’s are linear. This assumption simplifies the problem in precisely the same way as we have previously simplified it by supposing the taxes to be infinitesimal. We shall, however, make this new assumption the occasion for exhibiting a method of interpreting our formulae geometrically in a manner which makes their meaning and mutual relations considerably clearer.
+
+It is not, of course, necessary, nor would it be sensible to suppose the utility function quadratic for all values of the variables; we need only suppose it so for a certain range of values round the point P, such that there is no question of imposing taxes large enough to move the production point (values of the x’s) outside this range. If we were concerned with independent commodities, this assumption would mean that the taxes were small enough for us to treat the supply and demand curves as straight lines.
+
+Parr IT
+
+(10) Let w= constant + Lor, + 2 2Prstras, (Bre = Bsr), and let us regard the x’s as rectangular Cartesian co-ordinates of points in n-dimensional space.
+
+The point P(%,,... %) is given by ao = 0, and at that point dy == 2ASBdaxdas is a negative definite form.
+
+“, LEPrstrts is a negative definite form, and the loci w = constant are hyper-ellipsoids with the point
+
+P for centre. ou
+
+Since Ar = Bn, = ay + 22XBrsls. © 6 6. (8) r 8 R= Ltr = Lardy + ZLUBrstres. « « (9) and the loci R = constant are hyper-ellipsoids with the point Q, whose co-ordinates are $%,, 4%,... 4%, for centre.
+
+(The equations for @ are those for P with their first degree terms doubled and their constant terms unaltered.)
+
+Moreover, the hyper-ellipsoids u = constant, R = constant are all similar and similarly situated. The figure shows these relations for the case of two commodities only.
+
+Xp ui=c! Q
+
+LP | | Oo xy
+
+(11) If we are to raise a revenue p we must depress production to some point on the hyper-ellipsoid R = p.4
+
+1 We can depress production to any point we please because the connection between the #’s and 2’s is one-one.
+
+To do this so as to make u a maximum we must choose a point on this hyper-ellipsoid at which it touches an ellipsoid of the family u = constant. There will be two such points which will lie on the line PQ: one between Q and P making u a maximum, the other between O and Q making uw a minimum. For the point of contact of two similar and similarly situated hyper-ellipsoids must lie on the line joining their centres. Since the maximum of u is given by a point on OP we have as before that
+
+The taxes should be such as to diminish the production of all commodities in the same proportion.
+
+And this result is now valid not merely for an infinitesimal revenue but for any revenue which it is possible to raise at all.
+
+The maximum revenue will be obtained by diminishing the production of each commodity to one-half of its previous amount, i.e., to the point Q.
+
+(12) If in accordance with this rule we impose taxes reducing production from %,, %...% to (l—k)#,, (l—k)e,... (1 — k)n. We get from (8) Ar = ar + 2(1 — k)XB str, but at P Ar = 0, so that 0 = ar + 2DBrsk;; r therefore \=Kkor «. «ww ee CTO) i.e., the taxes should be in the fixed proportions A,:A,: tXAn ii ay id,: an independent of the revenue to be raised.
+
+Also R = Lara = h(1 — k)Larx,, = 4k(1 — k) x the maximum revenue (got by putting k = 4).
+
+(13) Since & is positive it follows from (10) that the sign of d- is the same as that of ar, and unless the a, are all positive some of the A, will be negative, and the most expedient way of raising a revenue will be by placing bounties on some commodities and taxes on others.
+
+The sort of case in which this might occur is that of sugar and particularly sour fruits, eg. damsons. A tax on sugar might reduce the consumption of damsons more than in proportion to the reduction in the total consumption of sugar and so require to be offset by a bounty on damsons.
+
+(14) We can now consider the more general problem: a given revenue is to be raised by means of fixed taxes p,... fm On m commodities and by taxes to be chosen at discretion on the remainder. How should they be chosen in order that utility may be a maximum?
+
+We have A, = py,...An=pm, m hyperplanes (n — 1 folds) whose intersection is a plane » — m fold which we will call S. WS will cut the hyper-ellipsoids wu = constant, R = constant in hyper-ellipsoids which are similar and similarly situated and whose centres are the points P’, and Q’ in which S is met by the m-folds through P and Q conjugate to Sinwu=cor R= ce. As before the required maximum is given by the point of contact of two of these hyper-ellipsoids in 8, which must lie upon the line P’Q’.
+
+Now the hyperplane A, = p, or = =p, is conjugate in u = c to the diameter
+
+Hence S is conjugate to the m-fold Lmy1 = Lm+y oe oy An Xn, and the co-ordinates of P’ satisfy these equations, since they lie on this m-fold. Similarly the co-ordinates of Q’ satisfy eUm41 = $Xm+1, oe ew On = £n. And so the desired production point lying on the line P’Q’ satisfies intl Lmt2 __ &n
+
+Lm+1 Lm+2 - Xn’ i.¢e., the whole system of taxes must be such as to reduce in the same proportion the production of the commodities taxed at discretion.
+
+Parr IIT
+
+(15) I propose now to explain what our results reduce to in certain special cases. First suppose that all the commodities are independent and have their own supply and demand equations, z.€., we have for the rth commodity the demand price
+
+Pr = del 2r) and the supply price Or = fr(ar). ‘ r= Pr — Gr = grltr) — fila), and equations (3) become, since oe = 0, r+s, Ay _ Ag _ {hy (x) — fr (%1)} aka’ (2) — Fa’ (Wa)} These equations we can express in terms of elasticities in the following way.
+
+eS,
+
+Suppose the tax ad valorem (reckoned on the price got by the producer) on the rth commodity is pr, then and = _ fa + Ap = (1 + pr) fr(aer).
+
+oF eM rey ~~ Belge (ar) — Fr ()} r(&) 4 gr (er) way — Ot ane now Pal r (at) is the reciprocal of the elasticity of supply of the
+
+Sx(ar) commodity reckoned positive for diminishing returns, and — oe is the reciprocal of the elasticity of demand, reckoned positive in the normal case.
+
+Hence if we denote by p, and ¢ the elasticities of demand and supply, wae +) pr
+
+(valid provided the revenue is small enough, see § 5). For infinitesimal taxes @ is infinitesimal and
+
+Lad _— = ee Ta ma ™ P1 en pr i.e., the tax ad valorem on each commodity should be proportional to the sum of the reciprocals of its supply and demand elasticities. (16) It is easy to seé (1) that the same rule (12) applies if the revenue is to be collected off certain commodities only, which have supply and demand schedules independent of each other and all other commodities, even when the other commodities are not independent of one another. (2) The rule does not justify any bounties; for in stable equilibrium, although 2 may be negative, - +2 must be r Tr r positive. (3) If any one commodity i is absolutely inelastic, either for supply or for demand, the whole of the revenue should be collected off it. This is independently obvious, for taxing such a commodity does not diminish utility at all. If there are several such commodities the whole revenue should be collected off them, it does not matter in what proportions. (17) Let us next take the case in which all the commodities have independent demand schedules but are complete substitutes for supply; 7.e., with appropriate units the demand price
+
+Pr = hr(2r); the supply price Qr = flay + + an). Let us put z= %,+ + in.
+
+We can imagine this case as that of a country in which all commodities are produced at constant returns by the application of one kind of labour only, the increase in the supply price arising solely from the increasing marginal disutility of labour, and the commodities satisfying independent needs. Then z will represent the amount of labour.
+
+Equations (3) give us a r tre’ (er) — 2f"(2)"
+
+Or if py, represents the tax ad valorem and p; the elasticity of demand for the rth commodity and « the elasticity of supply of things in general, we get, by a similar process to that of § 15,
+
+] ] & + 28 be = — a 7 © 8 © © -« (13) 1—2 Pr If the taxes are infinitesimal we have ln = = = Py. e T 1 oO.. (14) or te
+
+In this case we see that if the supply of labour is fixed (absolutely inelastic, ¢-> 0) the taxes should be at the same ad valorem rate on all commodities.
+
+(19) If some commodities only are to be taxed it is easier to work from the result proved in § 8 for an infinitesimal revenue, that the production of the commodities taxed should be diminished in the same ratio.
+
+Suppose, then, 2,...%m are to be taxed, Mii... Xn untaxed. Let dx, =e kx, ar) dtm = ktm
+
+Let 2 = y+ a+... + 2m 2" = Ami +t.. ~ + an. Ay = $1(% + day) — 2f(z + dz) = py'(1)dx, — f'(z)dz.
+
+ak _& 4 _& an re ze 1 7 Bm op now dz = dz’ + dz” = — kz’ + dz”, also a aL Pm41%m+41 €% ditmi1 mya _ dn dz dz” kz! Pm4+1%m+1 Pm+2%m+2 Pntn €z a" prkr €2 + Poe m+1 m+1 O"Ly
+
+Pa = X(— +r EX"Lp Sia) ete. 1 m+1
+
+As before we see that of two commodities that should be taxed most which has the least elasticity of demand, but that if the supply of labour is absolutely inelastic all the commodities should be taxed equally.
+
+Part IV
+
+(20) We come now to applications of our theory; these cannot be made at all exactly without data which I, at any rate, do not possess. The simplest result is the one which we have proved in the general case for an infinitesimal revenue (§ 8); this means that it is approximately true for small revenues, and that the approximation approaches perfection as the revenue approaches zero. It is thus logically similar to the theorem that the period of oscillation of a pendulum is independent of the amplitude. We have also extended the result to any revenue which does not take the production point outside a region in which the utility may be taken to be quadratic, 1.e., the supply and demand schedules linear.
+
+The sort of cases in which our theory may be useful are the following:;
+
+(21) (a) If a commodity is produced by several different methods or in several different places between which there is no mobility of resources, it is shown that it will be advantageous to discriminate between them and tax most the source of supply which is least elastic. For this will be necessary if we are to maintain unchanged the proportion of production between the two sources (result analogous to § 19 with supply and demand interchanged).
+
+(b) If several commodities which are independent for demand require precisely the same resources for their production, that should be taxed most for which the elasticity of demand is least (§ 19).
+
+(c) In taxing commodities which are rivals for demand, like wine, beer and spirits, or complementary like tea and sugar, the rule to be observed is that the taxes should be such as to leave unaltered the proportions in which they. are consumed (§ 14). Whether the present taxes satisfy this criterion I do not know.
+
+(d) In the case of the motor taxes we must separate off so much of the taxation as is offset by damage to the roads. This part should be so far as possible equal to the damage done. The remainder is a genuine tax and should be distributed according to our theory;- that is to say, it should be placed partly on petrol and partly on motor-cars, so as to preserve unchanged the proportion between their consumption, and should be distributed between Fords’ and Morrises, so as to reduce their output in the same ratio. The present system fails in both these respects.
+
+(22) (e) Another possible application of our theory is to the question of exempting savings from income-tax.1 We may consider two uses of income only, saving and spending, and supposing them independent we may use the result (13) in §17. We must suppose the taxes imposed only for a very short time? and that they raise no expectation of similar taxation in the future; since otherwise we require a mathematical theory considerably more difficult than anything in this paper.
+
+On these assumptions, since the amount of saving in the very short time cannot be sufficient to alter appreciably the marginal utility of capital, the elasticity of demand for saving will be
+
+‘infinite, and we have 1] ] 2 47\g ( + € @ 3
+
+I—— Pi jy (tax on spending) =
+
+pi, (taX on saving) = 6, and we see that income-tax should be partially but not wholly remitted on savings. The case for remission would, however,
+
+1 No account is taken of graduation in this. 2 Strictly, we consider the limit as this time tends to zero, be strengthened enormously by taking into account the expectation of taxation in the future.
+
+(23) It should be emphasized in conclusion that the results about “‘ infinitesimal ” taxes can only claim to be approximately true for small taxes, how small depending on data which are not obtainable. It is perfectly possible that a tax of 500% on whisky could for the present purpose be regarded as small. The unknown factors are the curvatures of the supply and demand curves; if these are zero our results will be true for any revenue whatever, but the greater the curvatures the narrower the range of ‘‘small”’ taxes.
+
+On the other hand, the more complicated results contained in equations (3), (3’), (11), (13) may well be valid under still wider conditions. But these are, in the general case, too complicated to be worth setting down in the absence of practical data to compare with them, __
+
+APPENDIX
+
+We can also say something about the more general problem in which the State wishes to raise a revenue for two purposes; first, as before, a fixed money revenue, R,, which is transferred to rentiers or otherwise without effect on the demand schedules; and secondly, an additional revenue, R,, sufficient to purchase fixed quantities, a1, d:,... dm of each commodity.
+
+Let us denote by pr, gr, as before, the demand and supply prices of the rth commodity, and the tax on it by 4,. Then if a is the amount of the rth commodity consumed by the public (or by the State out of R,), a -++ a is the amount produced, and we have en = Ap = Pr(X4, Va, + +) Xn) — Yr(Xy -} Ay, Vy + Ag,. « «5 Xa + an), Ry + By = Zdstr, Ry = Longe; so that u is to be a maximum subject to Ldrkr — LarGr = RK, = constant, whence de - 2. ne Ors Oqs 7 - - Mie, — Oa, or A. = 0, which replace equations (3).
+
+0qs ODs 2(as + Us)a aa
+
+Although these equations do not give such simple results as we previously obtained for an infinitesimal revenue or a quadratic utility function, in the cases considered in § 15 and § 17 they lead us again to the equations (11) and (13).
+
+For, taking the case of § 15, in which the commodities are independent both for demand and supply, and, as before, denoting by pr the rate of tax ad valorem on the rth commodity and by pr, er its elasticities of demand and supply for the amounts 2, ar + ar respectively consumed and produced by the public, we have
+
+Lr — @g tr + Or ddr =X Ap qr A (Ir + ar) q, dx, ee a or re ttm 0 ey Pr L 4 2N, whence pt, = Er, which is equation (11) again. And we
+
+Pr can similarly derive equation (13) from the assumption of independence for demand and equivalence for supply. F. P. RAMSEY

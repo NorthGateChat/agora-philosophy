@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-summa-contra-gentiles-chapter-7-d7bd109c",
+  "title": "章 7",
+  "englishTitle": "Chapter 7",
+  "work": "《反异教大全》",
+  "englishWork": "Summa Contra Gentiles",
+  "locator": "章 7",
+  "englishLocator": "Chapter 7",
+  "version": "CCEL 数字文本，约瑟夫·里卡比 1905 年公版英译，《反异教大全》第一卷第 7 章；卡片以省略号标示中间删节",
+  "englishVersion": "CCEL digital text, Joseph Rickaby public-domain translation (1905), Summa Contra Gentiles I, Chapter 7; internal omission marked with an ellipsis",
+  "sourceUrl": "https://ccel.org/ccel/aquinas/gentiles/gentiles.iv.vii.html",
+  "source": {
+    "url": "https://ccel.org/ccel/aquinas/gentiles/gentiles.iv.vii.html",
+    "contentType": "text/html",
+    "sha256": "c8326e22bfff07b9304704196fb0bd4865f22826d2dbe3b3b5b842fa574d00de"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "c9059c67b5b8fe309513cbf7571a44274b2584a85d65ec770ca93df32c8151e8",
+  "inputHash": "6c97a7992e11d80a22ed77e62aa652c3bcc63dcaa26878b118688b5279122de7",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER VII"
+    },
+    {
+      "id": "p0002",
+      "text": "— That the Truth of reason is not contrary to the Truth of Christian Faith"
+    },
+    {
+      "id": "p0003",
+      "text": "THE natural dictates of reason must certainly be quite true: it is impossible to think of their being otherwise. Nor a gain is it permissible to believe that the tenets of faith are false, being so evidently confirmed by God. 13 13 The evidently refers to believers. To other men the thing is not so evident: why, it is not for us to enquire. But to one who has the faith, “the tenets of faith” are “so evidently confirmed by God” that he feels that for him to reject any of these tenets would be tantamount to throwing over his God. Since therefore falsehood alone is contrary to truth, it is impossible for the truth of faith to be contrary to principles known by natural reason."
+    },
+    {
+      "id": "p0004",
+      "text": "2. Whatever is put into the disciple’s mind by the teacher is contained in the knowledge of the teacher, unless the teacher is teaching dishonestly, which would be a wicked thing to say of God. But the knowledge of principles naturally known is put into us by God, seeing that God Himself is the author of our nature. Therefore these principles also are contained in the Divine Wisdom. Whatever therefore is contrary to these principles is contrary to Divine Wisdom, and cannot be of God."
+    },
+    {
+      "id": "p0005",
+      "text": "3. Contrary reasons fetter our intellect fast, so that it cannot proceed to the knowledge of the truth. If therefore contrary informations were sent us by God, our intellect would be thereby hindered from knowledge of the truth: but such hindrance cannot be of God."
+    },
+    {
+      "id": "p0006",
+      "text": "4. What is natural cannot be changed while nature remains. 14 14 A notable pronouncement against the Nominalists. But contrary opinions cannot be in the same mind at the same time: therefore no opinion or belief is sent to man from God contrary to natural knowledge."
+    },
+    {
+      "id": "p0007",
+      "text": "And therefore the Apostle says: The word is near in thy heart and in thy mouth, that is, the word of faith which we preach ( Rom. x, 8 ). But because it surpasses reason it is counted by some as contrary to reason, which cannot be. To the same effect is the authority of Augustine ( Gen. ad litt . ii, 18): “ What truth reveals can nowise be contrary to the holy books either of the Old or of the New Testament.” Hence the conclusion is evident, that any arguments alleged against the teachings of faith do not proceed logically from first principles of nature, principles of themselves known, and so do not amount to a demonstration; but are either probable reasons or sophistical; hence room is left for refuting them. 15 15 A reference to the Aristotelian ‘demonstration’ by strict logical reasoning from necessary truths, as laid down in the Posterior Analytics. This chapter goes to set aside the notion that unsound theology may still be sound philosophy. But as a truth, undiscernible by reason, may be discerned by revelation, so also may an error, or a flaw in an argument, be evident on grounds of revelation only, and not on any other grounds, where the argument is complicated and the matter removed from every-day experience, as in many Old Testament difficulties."
+    },
+    {
+      "id": "p0008",
+      "text": "13 The evidently refers to believers. To other men the thing is not so evident: why, it is not for us to enquire. But to one who has the faith, “the tenets of faith” are “so evidently confirmed by God” that he feels that for him to reject any of these tenets would be tantamount to throwing over his God."
+    },
+    {
+      "id": "p0009",
+      "text": "14 A notable pronouncement against the Nominalists."
+    },
+    {
+      "id": "p0010",
+      "text": "15 A reference to the Aristotelian ‘demonstration’ by strict logical reasoning from necessary truths, as laid down in the Posterior Analytics. This chapter goes to set aside the notion that unsound theology may still be sound philosophy. But as a truth, undiscernible by reason, may be discerned by revelation, so also may an error, or a flaw in an argument, be evident on grounds of revelation only, and not on any other grounds, where the argument is complicated and the matter removed from every-day experience, as in many Old Testament difficulties."
+    },
+    {
+      "id": "p0011",
+      "text": "« Prev Chapter VII. That the Truth of reason is not… Next »"
+    },
+    {
+      "id": "p0012",
+      "text": "Please login or register to save highlights and make annotations."
+    }
+  ],
+  "anchors": {
+    "thomas-aquinas-faith-reason": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 112,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0003",
+          "start": 0,
+          "end": 112,
+          "text": "THE natural dictates of reason must certainly be quite true: it is impossible to think of their being otherwise."
+        },
+        {
+          "paragraphId": "p0003",
+          "start": 534,
+          "end": 681,
+          "text": "Since therefore falsehood alone is contrary to truth, it is impossible for the truth of faith to be contrary to principles known by natural reason."
+        }
+      ],
+      "quote": "The natural dictates of reason must certainly be quite true: it is impossible to think of their being otherwise. ... Since therefore falsehood alone is contrary to truth, it is impossible for the truth of faith to be contrary to principles known by natural reason."
+    }
+  }
+}

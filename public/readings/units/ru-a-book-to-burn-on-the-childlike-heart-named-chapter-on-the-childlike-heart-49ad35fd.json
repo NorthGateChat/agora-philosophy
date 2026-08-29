@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-a-book-to-burn-on-the-childlike-heart-named-chapter-on-the-childlike-heart-49ad35fd",
+  "title": "篇 On the Childlike Heart",
+  "englishTitle": "Chapter On the Childlike Heart",
+  "work": "《焚书·童心说》",
+  "englishWork": "A Book to Burn, On the Childlike Heart",
+  "locator": "篇 On the Childlike Heart",
+  "englishLocator": "Chapter On the Childlike Heart",
+  "version": "维基文库《焚书·卷三·童心说》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of A Book to Burn, vol. 3, On the Childlike Heart; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E7%84%9A%E6%9B%B8/%E5%8D%B73",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E7%84%9A%E6%9B%B8/%E5%8D%B73",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E7%84%9A%E6%9B%B8%2F%E5%8D%B73&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "7d840f56237a560efadff95b6e97ce5c69be2eb9e1c58e4f7d2cb92033faa3cb"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "1d68c6800eaaa58241d0e213e9c2bb1285cef4dd390c12c58c7d4d98a3dca920",
+  "inputHash": "db352954647478d40680a9e560daa269627a92a62a82aab2c9624346e4994e0c",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "童心說"
+    },
+    {
+      "id": "p0002",
+      "text": "龍洞山農敘《西廂》未語雲：「知者勿謂我尚有童心可也。」夫童心者，真心也。若以童心為不可，是以真心為不可也。夫童心者，絕假純真，最初一念之本心也。若失卻童心，便失卻真心，失卻真心，便失卻真人。人而非真，全不復有初矣。童子者，人之初也；童心者，心之初也。夫心之初曷可失也！"
+    },
+    {
+      "id": "p0003",
+      "text": "然童心胡然而遽失也？蓋方其始也，有聞見從耳目而入，而以為主於其內而童心失。其長也，有道理從聞見而入，而以為主於其內而童心失。其久也，道理聞見日以益多，則所知所覺日以益廣，於是焉又知美名之可好也，而務欲以揚之而童心失；知不美之名之可醜也，而務欲以掩之而童心失。夫道理聞見，皆自多讀書識義理而來也。古之聖人，易嘗不讀書哉！"
+    },
+    {
+      "id": "p0004",
+      "text": "然縱不讀書，童心固自在也，縱多讀書，亦以護此童心而使之勿失焉耳，非若學者反以多讀書識義理而反障之也。夫學者既以多讀書識義理障其童心矣，聖人又何用多著書立言以障學人為耶？童心既障，於是發而為言語，則言語不由衷；見而為政事，則政事無根抵；著而為文辭，則文辭不能達。蓋內含以章美也，非篤實生輝光也，欲求一句有德之言，卒不可得。"
+    },
+    {
+      "id": "p0005",
+      "text": "所以者何？以童心既障，而以從外入者聞見道理為之心也。"
+    },
+    {
+      "id": "p0006",
+      "text": "夫既以聞見道理為心矣，則所有言皆聞見道理之言，非童心自出之言也。言雖工，於我何與，豈非以假人言假言，而事假事文似文乎？蓋其人既假，則無所不假矣。由是而以假言與假人言，則假人喜。以假事與假人道，則假人喜；以假文與假人談，則假人喜。無所不假，則無所不再。滿場是假，矮人何辯也？然則雖有天下之至文，其湮滅於假人而不盡見於後世者，又豈少哉！何也？天下之至文，未有不出於童心焉者也茍童心長存，則道理不行，聞見不立，無時不文，無人不文，無一樣創制體格文字而非文者。詩何必古選，文何必先秦。降而為六朝，變而為近體；又變而為傳奇，變而為院本，為雜劇，為《西廂》，為《水滸傳》，為今之舉子業，大賢言聖人之道，皆古今至文，不可得而時勢先後論也。故吾因是而有感於童心者之自文也，更說甚麽《六經》，更說甚麽《語》《孟》乎？"
+    },
+    {
+      "id": "p0007",
+      "text": "夫《六經》《語》《孟》非其史官過為褒崇之詞，則其臣子極為贊美之語。又不然，則其迂闊門徒，懵懂弟子，記憶師說，有頭無尾，得後遺前，隨其所見，筆之於書。後學不察，便謂出自聖人之口也，決定目之為經矣，孰知其大半非聖人之言乎？縱出自聖人，要亦有為而發，不過因病發藥，隨時處方，以救此一等懵懂弟子，迂闊門徒雲耳。藥醫假病，方難定執，是豈可遽以為萬世之至論乎？然則《六經》《語》《孟》，乃道學之口實，假人之淵蔽也，斷斷乎其不可以語於童心之言明矣。嗚呼！吾又安得真正大聖人童心未曾失者而與之一言文哉！"
+    }
+  ],
+  "anchors": {
+    "chinese-li-zhi-childlike-heart": {
+      "paragraphId": "p0002",
+      "start": 27,
+      "end": 72,
+      "quote": "夫童心者，真心也。若以童心为不可，是以真心为不可也。夫童心者，绝假纯真，最初一念之本心也。",
+      "match": "normalized-exact"
+    }
+  }
+}

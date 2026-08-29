@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-metaphysics-book-vii-chapter-17-c7d34642",
+  "title": "卷 VII · 章 17",
+  "englishTitle": "Book VII · Chapter 17",
+  "work": "《形而上学》",
+  "englishWork": "Metaphysics",
+  "locator": "卷 VII · 章 17",
+  "englishLocator": "Book VII · Chapter 17",
+  "version": "Logic Museum 收录的 W. D. Ross 公版英译，亚里士多德《形而上学》VII.17，1041b7—9",
+  "englishVersion": "Logic Museum, W. D. Ross public-domain translation, Aristotle, Metaphysics VII.17, 1041b7–9",
+  "sourceUrl": "https://www.logicmuseum.com/wiki/Authors/Aristotle/metaphysics/l7",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "c1c21442a587994f7433931399c11e8ffb461cefc08fa118207909714dd7f1d5"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "cae1a6ac45d9c5d676dae40b2ae62d49f321e1574d59caf58575f0f6289e83f8",
+  "inputHash": "b7e15e69a027e2e85a8951803e8cb9028f4360755881d89d7ab5be767e6a1cde",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 17"
+    },
+    {
+      "id": "p0002",
+      "text": "Let us state what, i.e. what kind of thing, substance should be said to be, taking once more another starting-point; for perhaps from this we shall get a clear view also of that substance which exists apart from sensible substances. Since, then, substance is a principle and a cause, let us pursue it from this starting-point."
+    },
+    {
+      "id": "p0003",
+      "text": "The ‘why’ is always sought in this form—’why does one thing attach to some other?’ For to inquire why the musical man is a musical man, is either to inquire—as we have said why the man is musical, or it is something else. Now ‘why a thing is itself’ is a meaningless inquiry (for (to give meaning to the question ‘why’) the fact or the existence of the thing must already be evident – e.g. that the moon is eclipsed – but the fact that a thing is itself is the single reason and the single cause to be given in answer to all such questions as why the man is man, or the musician musical’, unless one were to answer ‘because each thing is inseparable from itself, and its being one just meant this’; this, however, is common to all things and is a short and easy way with the question). But we can inquire why man is an animal of such and such a nature. This, then, is plain, that we are not inquiring why he who is a man is a man. We are inquiring, then, why something is predicable of something (that it is predicable must be clear; for if not, the inquiry is an inquiry into nothing). E.g. why does it thunder? This is the same as ‘why is sound produced in the clouds?’ Thus the inquiry is about the predication of one thing of another. And why are these things, i.e. bricks and stones, a house? Plainly we are seeking the cause. And this is the essence (to speak abstractly), which in some cases is the end, e.g. perhaps in the case of a house or a bed, and in some cases is the first mover; for this also is a cause. But while the efficient cause is sought in the case of genesis and destruction, the final cause is sought in the case of being also."
+    },
+    {
+      "id": "p0004",
+      "text": "The object of the inquiry is most easily overlooked where one term is not expressly predicated of another (e.g. when [41b] we inquire ‘what man is’), because we do not distinguish and do not say definitely that certain elements make up a certain whole."
+    },
+    {
+      "id": "p0005",
+      "text": "But we must articulate our meaning before we begin to inquire; if not, the inquiry is on the border-line between being a search for something and a search for nothing. Since we must have the existence of the thing as something given, clearly the question is why the matter is some definite thing; e.g. why are these materials a house? Because that which was the essence of a house is present. And why is this individual thing, or this body having this form, a man? Therefore what we seek is the cause, i.e. the form, by reason of which the matter is some definite thing; and this is the substance of the thing."
+    },
+    {
+      "id": "p0006",
+      "text": "Evidently, then, in the case of simple terms no inquiry nor teaching is possible; our attitude towards such things is other than that of inquiry."
+    },
+    {
+      "id": "p0007",
+      "text": "Since that which is compounded out of something so that the whole is one, not like a heap but like a syllable – now the syllable is not its elements, ba is not the same as b and a, nor is flesh fire and earth (for when these are separated the wholes, i.e. the flesh and the syllable, no longer exist, but the elements of the syllable exist, and so do fire and earth); the syllable, then, is something – not only its elements (the vowel and the consonant) but also something else, and the flesh is not only fire and earth or the hot and the cold, but also something else:"
+    },
+    {
+      "id": "p0008",
+      "text": "– if, then, that something must itself be either an element or composed of elements, (1) if it is an element the same argument will again apply; for flesh will consist of this and fire and earth and something still further, so that the process will go on to infinity. But (2) if it is a compound, clearly it will be a compound not of one but of more than one (or else that one will be the thing itself), so that again in this case we can use the same argument as in the case of flesh or of the syllable."
+    },
+    {
+      "id": "p0009",
+      "text": "But it would seem that this ‘other’ is something, and not an element, and that it is the cause which makes this thing flesh and that a syllable. And similarly in all other cases. And this is the substance of each thing (for this is the primary cause of its being);"
+    },
+    {
+      "id": "p0010",
+      "text": "and since, while some things are not substances, as many as are substances are formed in accordance with a nature of their own and by a process of nature, their substance would seem to be this kind of ‘nature’, which is not an element but a principle. An element, on the other hand, is that into which a thing is divided and which is present in it as matter; e.g. a and b are the elements of the syllable."
+    }
+  ],
+  "anchors": {
+    "aristotle-substance-and-form": {
+      "paragraphId": "p0005",
+      "start": 475,
+      "end": 610,
+      "quote": "What we seek is the cause, i.e. the form, by reason of which the matter is some definite thing; and this is the substance of the thing.",
+      "match": "normalized-exact"
+    }
+  }
+}

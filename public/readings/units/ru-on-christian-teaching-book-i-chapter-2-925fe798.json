@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-christian-teaching-book-i-chapter-2-925fe798",
+  "title": "卷 I · 章 2",
+  "englishTitle": "Book I · Chapter 2",
+  "work": "《论基督教教义》",
+  "englishWork": "On Christian Teaching",
+  "locator": "卷 I · 章 2",
+  "englishLocator": "Book I · Chapter 2",
+  "version": "New Advent，James Shaw 1887 年 NPNF 公版英译，《论基督教教义》第一卷第 2 章第 2 节",
+  "englishVersion": "New Advent, James Shaw public-domain translation in NPNF (1887), On Christian Doctrine I.2.2",
+  "sourceUrl": "https://www.newadvent.org/fathers/12021.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/12021.htm",
+    "contentType": "text/html",
+    "sha256": "5a343dca9a9469ff6660a70e483fa0f89fe457dd4daf3f5945dce3181d6e4bf8"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "df7f25eb1f67a01ea02121a3b73eb519be7ed5c865d4904803de47a39c408e17",
+  "inputHash": "a5241a30744383555b1debcc63c00b3d2139ab10ef02bab64eac4527b7f95a2d",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 2.— What a Thing Is, and What A Sign."
+    },
+    {
+      "id": "p0002",
+      "text": "2. All instruction is either about things or about signs; but things are learned by means of signs. I now use the word thing in a strict sense, to signify that which is never employed as a sign of anything else: for example, wood, stone, cattle, and other things of that kind. Not, however, the wood which we read Moses cast into the bitter waters to make them sweet, Exodus 15:25 nor the stone which Jacob used as a pillow, Genesis 28:11 nor the ram which Abraham offered up instead of his son; Genesis 22:13 for these, though they are things, are also signs of other things. There are signs of another kind, those which are never employed except as signs: for example, words. No one uses words except as signs of something else; and hence may be understood what I call signs: those things, to wit, which are used to indicate something else. Accordingly, every sign is also a thing; for what is not a thing is nothing at all. Every thing, however, is not also a sign. And so, in regard to this distinction between things and signs, I shall, when I speak of things, speak in such a way that even if some of them may be used as signs also, that will not interfere with the division of the subject according to which I am to discuss things first and signs afterwards. But we must carefully remember that what we have now to consider about things is what they are in themselves, not what other things they are signs of."
+    }
+  ],
+  "anchors": {
+    "augustine-things-and-signs": {
+      "paragraphId": "p0002",
+      "start": 3,
+      "end": 99,
+      "quote": "All instruction is either about things or about signs; but things are learned by means of signs.",
+      "match": "normalized-exact"
+    }
+  }
+}

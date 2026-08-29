@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"
+  viewBox="0 0 128 128">
+  <title>AGORA</title>
+  <desc>A Chrome new-tab space for ideas in context.</desc>
+  <defs>
+    <style>
+  @font-face {
+    font-family: "AGORA Sans";
+    src: url("/Users/alanxrhuang/.codex/skills/canvas-design/canvas-fonts/InstrumentSans-Regular.ttf");
+  }
+  @font-face {
+    font-family: "AGORA Serif";
+    src: url("/Users/alanxrhuang/.codex/skills/canvas-design/canvas-fonts/Gloock-Regular.ttf");
+  }
+  .sans { font-family: "AGORA Sans", "Helvetica Neue", Arial, sans-serif; }
+  .serif { font-family: "AGORA Serif", "Songti SC", "STSong", serif; }
+  .cjk { font-family: "Songti SC", "STSong", "Noto Serif CJK SC", serif; }
+</style>
+    
+  <symbol id="open-o" viewBox="0 0 256 256">
+    <circle cx="128" cy="128" r="91" fill="none" stroke="currentColor"
+      stroke-width="24" stroke-linecap="butt" stroke-dasharray="522 50"
+      transform="rotate(-30 128 128)"/>
+    <circle cx="192" cy="64" r="12" fill="#d97757" stroke="none"/>
+  </symbol>
+    
+  <symbol id="agora-wordmark" viewBox="0 0 620 144">
+    <g fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="butt"
+      stroke-linejoin="miter" shape-rendering="geometricPrecision">
+      <path d="M18 124 64 20l46 104M36 84h56"/>
+      <path d="M232 43c-12-16-28-24-48-24-33 0-57 22-57 53s24 53 57 53c20 0 37-8 49-23V76h-42"/>
+      <path d="M382 124V20h40c28 0 46 13 46 34 0 22-18 36-46 36h-40M426 90l48 34"/>
+      <path d="M501 124 547 20l46 104M519 84h56"/>
+    </g>
+    <use href="#open-o" x="227.5" y="-2.5" width="149" height="149"/>
+  </symbol>
+    
+  </defs>
+  
+  <!-- Chrome icon artwork occupies a 96 px safe area with 16 px outer padding. -->
+  <rect x="16" y="16" width="96" height="96" rx="21" fill="#171715"/>
+  <rect x="16.5" y="16.5" width="95" height="95" rx="20.5" fill="none"
+    stroke="#f3efe6" stroke-opacity="0.14"/>
+  <use href="#open-o" x="22" y="22" width="84" height="84"
+    color="#f3efe6"/>
+
+</svg>

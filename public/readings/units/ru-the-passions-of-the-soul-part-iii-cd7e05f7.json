@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-passions-of-the-soul-part-iii-cd7e05f7",
+  "title": "部分 III",
+  "englishTitle": "Part III",
+  "work": "《论灵魂的激情》",
+  "englishWork": "The Passions of the Soul",
+  "locator": "部分 III",
+  "englishLocator": "Part III",
+  "version": "1650年伦敦出版的《论灵魂的激情》匿名公版英译，第153条连续全文；以 EEBO-TCP 的 CC0 键录本和克莱蒙特研究页逐字核对",
+  "englishVersion": "Anonymous public-domain English translation of The Passions of the Soul published in London in 1650, complete continuous text of Article 153; checked against the EEBO-TCP CC0 transcription and Claremont research page",
+  "sourceUrl": "https://research.cgu.edu/wp-content/uploads/descartes/passions/english/en153.html",
+  "source": {
+    "url": "https://research.cgu.edu/wp-content/uploads/descartes/passions/english/en153.html",
+    "contentType": "text/html",
+    "sha256": "c60c316b5a32c19623cdac96990029ba542201be2e0f849507c5efd63527a08b"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "55ce45466b49a2b184d8b18c083a8922305033e3694267df2bf8b018fb144021",
+  "inputHash": "a9a49fc3ca590009ebf77a3c1a08cfc7ecb65ee0f85103b643457ffe9ebd7a20",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "The 153rd Article"
+    },
+    {
+      "id": "p0002",
+      "text": "Wherein generosity consists."
+    },
+    {
+      "id": "p0003",
+      "text": "So, I believe true generosity, which causes a man to set himself at the highest rate he justly may, consists only partly in knowing there is nothing which truly he can call his own, unless this free disposition of his wills, nor wherefore he ought to be praised or blamed, unless for using that well or ill; and partly in feeling a constant, and firm resolution in himself to use it well, that is, his will shall never be wanting to undertake and execute such things as he shall judge to be best, which is to follow virtue absolutely."
+    }
+  ],
+  "anchors": {
+    "descartes-generosity": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 534,
+      "quote": "So, I believe true generosity, which causes a man to set himself at the highest rate he justly may, consists only partly in knowing there is nothing which truly he can call his own, unless this free disposition of his wills, nor wherefore he ought to be praised or blamed, unless for using that well or ill; and partly in feeling a constant, and firm resolution in himself to use it well, that is, his will shall never be wanting to undertake and execute such things as he shall judge to be best, which is to follow virtue absolutely.",
+      "match": "normalized-exact"
+    }
+  }
+}

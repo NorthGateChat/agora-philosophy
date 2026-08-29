@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a",
+  "title": "Reasoning or Inference,",
+  "englishTitle": "Reasoning or Inference,",
+  "work": "《动物智慧》",
+  "englishWork": "Animal Intelligence",
+  "locator": "Reasoning or Inference,",
+  "englishLocator": "Reasoning or Inference,",
+  "version": "古登堡计划英文文本，桑代克《动物智慧》1911 年英文原著，“推理或推断”第 74—75 页；卡片以省略号标示中间删节",
+  "englishVersion": "Project Gutenberg English text, Edward L. Thorndike, Animal Intelligence (1911), “Reasoning or Inference,” pp. 74-75; internal omission marked with an ellipsis",
+  "sourceUrl": "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "d62bb2be6346f8fbae4c8f6b2b6d1df0a560873f214bd80ebd82109022ecd8b6"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "51e05691c04967060982c8cf17065125328b6c12afed7216be4d4c0c0561c3b9",
+  "inputHash": "fa419015881a31ee473aa58fa48e4897e2f400443b23d1d32fe5fe654cc88c84",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "REASONING OR INFERENCE"
+    },
+    {
+      "id": "p0002",
+      "text": "The first great question is whether or not animals are ever led to do any of their acts by reasoning. Do they ever conclude from inference that a certain act will produce a certain desired result, and so do it? The best opinion has been that they do not. The best interpretation of even the most extraordinary performances of animals has been that they were the result of accident and association or imitation. But it has after all been only opinion and interpretation, and the opposite theory persistently reappears in the literature of the subject. So, although it is in a way superfluous to give the _coup de grâce_ to the despised theory that animals reason, I think it is worth while to settle this question once for all."
+    },
+    {
+      "id": "p0003",
+      "text": "The great support of those who do claim for animals the ability to infer has been their wonderful performances which resemble our own. These could not, they claim, have happened by accident. No animal could learn to open a latched gate by accident. The whole substance of the argument vanishes if, as a matter of fact, animals do learn those things by accident. _They certainly do._ In this investigation choice was made of the intelligent performances described by Romanes in the following passages. I shall quote at some length because these passages give an admirable illustration of an attitude of investigation which this research will, I hope, render impossible for any scientist in the future. Speaking of the general intelligence of cats, Romanes says:"
+    },
+    {
+      "id": "p0004",
+      "text": "“Thus, for instance, while I have only heard of one solitary case ... of a dog which, without tuition, divined the use of a thumb latch so as to open a closed door by jumping on the handle and depressing the thumb-piece, I have received some half-dozen instances of this display of intelligence on the part of cats. These instances are all such precise repetitions of one another that I conclude the fact to be one of tolerably ordinary occurrence among cats, while it is certainly rare among dogs. I may add that my own coachman once had a cat which, certainly without tuition, learnt thus to open a door that led into the stables from a yard into which looked some of the windows of the house. Standing at these windows when the cat did not see me, I have many times witnessed her _modus operandi_. Walking up to the door with a most matter-of-course kind of air, she used to spring at the half hoop handle just below the thumb latch. Holding on to the bottom of this half-hoop with one fore paw, she then raised the other to the thumb piece, and while depressing the latter finally with her hind legs scratched and pushed the door posts so as to open the door...."
+    },
+    {
+      "id": "p0005",
+      "text": "“Of course in all such cases the cats must have previously observed that the doors are opened by persons placing their hands upon the handles and, having observed this, the animals act by what may be strictly termed rational imitation. But it should be observed that the process as a whole is something more than imitative. For not only would observation alone be scarcely enough (within any limits of thoughtful reflection that it would be reasonable to ascribe to an animal) to enable a cat upon the ground to distinguish that the essential part of the process consists not in grasping the handle, but in depressing the latch; but the cat certainly never saw any one, after having depressed the latch, pushing the door posts with his legs; and that this pushing action is due to an originally deliberate intention of opening the door, and not to having accidentally found this action to assist the process, is shown by one of the cases communicated to me; for in this case, my correspondent says, ‘the door was not a loose-fitting one, by any means, and I was surprised that by the force of one hind leg she should have been able to push it open after unlatching it.’ Hence we can only conclude that the cats in such cases have a very definite idea as to the mechanical properties of a door: they know that to make it open, even when unlatched, it requires to be _pushed_—a very different thing from trying to imitate any particular action which they may see to be performed for the same purpose by man. The whole psychological process, therefore, implied by the fact of a cat opening a door in this way is really most complex. First the animal must have observed that the door is opened by the hand grasping the handle and moving the latch. Next she must reason, by ‘the logic of feelings’—‘If a hand can do it, why not a paw?’ Then strongly moved by this idea she makes the first trial. The steps which follow have not been observed, so we cannot certainly say whether she learns by a succession of trials that depression of the thumb piece constitutes the essential part of the process, or, perhaps more probably, that her initial observations supplied her with the idea of clicking the thumb piece. But, however this may be, it is certain that the pushing with the hind feet after depressing the latch must be due to adaptive reasoning unassisted by observation; and only by the concerted action of all her limbs in the performance of a highly complex and most unnatural movement is her final purpose attained.” (Animal Intelligence, pp. 420-422.)"
+    },
+    {
+      "id": "p0006",
+      "text": "A page or two later we find a less ponderous account of a cat’s success in turning aside a button and so opening a window:—"
+    },
+    {
+      "id": "p0007",
+      "text": "“At Parara, the residence of Parker Bowman, Esq., a full-grown cat was one day accidentally locked up in a room without any other outlet than a small window, moving on hinges, and kept shut by means of a swivel. Not long afterwards the window was found open and the cat gone. This having happened several times, it was at last found that the cat jumped upon the window sill, placed her fore paws as high as she could reach against the side, deliberately reached with one over to the swivel, moved it from its horizontal to a vertical position, and then, leaning with her whole weight against the window, swung it open and escaped.” (Animal Intelligence, p. 425.)"
+    },
+    {
+      "id": "p0008",
+      "text": "A description has already been given on page 31 of the small box (C), whose door fell open when the button was turned, and also of a large box (CC) for the dogs, with a similar door. The thumb-latch experiment was carried on with the same box (G) for both cats and dogs, but the door was arranged so that a greater force (1.3 kilograms) was required in the case of the dogs. It will be remembered that the latch was so fixed that if the thumb piece were pressed down, without contemporaneous outward pressure of the door, the latch bar would merely drop back into its catch as soon as the paw was taken off the door. If, however, the door were pushed outward, the latch bar, being pressed closely against the outer edge of its catch, would, if lifted, be likely to fall outside it and so permit the door to open if then or later sufficient pressure were exerted. Eight cats (Nos. 1, 2, 3, 4, 5, 6, 7 and 13) were, one at a time, left in this thumb-latch box. All exhibited the customary instinctive clawings and squeezings and bitings. Out of the eight all succeeded in the course of their vigorous struggles in pressing down the thumb piece, so that if the door had been free to swing open, they could have escaped. Six succeeded in pushing both thumb-piece down and door out, so that the bar did not fall back into its place. Of these five succeeded in also later pushing the door open, so that they escaped and got the fish outside. Of these, three, after repeated trials, associated the complicated movements required with the sight of the interior of the box so firmly that they attacked the thumb latch the moment they were put in. The history of the formation of the association in the case of 3 and of 4 is shown in the curves in Figs. 6 and 7. In the case of 13 the exact times were not taken. The combination of accidents required was enough to make No. 1 and No. 6 take a long time to get out. Consequently, weariness and failure inhibited their impulses to claw, climb, etc., more than the rare pleasure from getting out strengthened them, and they failed to form the association. Like the cats who utterly failed to get out, they finally ceased to try when put in. The history of their efforts is as in Table 3: the figures in the columns represent the time (in minutes and seconds) the animal was in the box before escaping or before being taken out if he failed to escape. Cases of failure are designated by an F after the figures. Double lines represent an interval of twenty-four hours."
+    },
+    {
+      "id": "p0009",
+      "text": "TABLE 3"
+    },
+    {
+      "id": "p0010",
+      "text": "+----------+---------+ | No. 1. | No. 6. | +==========+=========+ | 13.00 F | 17.50 | | 9.30 | 3.30 | | 1.40 | 9.00 | | .50 | 2.10 | | 15.00 | 1.45 | | 6.00 F | 1.55 | +==========+ | | 14.00 | 13.00 | | +=========+ | 20.00 F | 5.00 | | 4.30 | 2.30 | | 20.00 F | 15.00 | | 20.00 F | 10.00 F | | +=========+ | 15.00 F | 5.00 | +==========+ | | 60.00 F | 15.00 F | | +=========+ | | 10.00 F | | +=========+ | | 10.00 F | +----------+---------+"
+    },
+    {
+      "id": "p0011",
+      "text": "It should be noted that, although cats 3 and 4 had had some experience in getting out of boxes by clawing at loops and turning buttons, they had never had anything at all like a thumb latch to claw at, nor had they ever seen the door opened by its use, nor did they even have any experience of the fact that the part of the box where the thumb piece was was the door. And we may insert here, what will be stated more fully later, that there was displayed no observation of the surroundings or deliberation upon them. It was just a mad scramble to get out."
+    },
+    {
+      "id": "p0012",
+      "text": "Three dogs (1, 2 and 3) were given a chance to liberate themselves from this same box. 2 and 3, who were rather inactive, failed to even push the thumb piece down. No. 1, who was very active, did push it down at the same time that she happened to be pushing against the door. She repeated this and formed the association as shown in the curve on page 60. She had had experience only of escaping by pulling a loop of string."
+    },
+    {
+      "id": "p0013",
+      "text": "Out of 6 cats who were put in the box whose door opened by a button, not one failed, in the course of its impulsive activity, to push the button around. Sometimes it was clawed to one side from below; sometimes vigorous pressure on the top turned it around; sometimes it was pushed up by the nose. No cat who was given repeated trials failed to form a perfect association between the sight of the interior of that box and the proper movements. Some of these cats had been in other boxes where pulling a loop of string liberated them, 3 and 4 had had considerable experience with the boxes and probably had acquired a general tendency to claw at loose objects. 10, 11 and 12 had never been in _any box_ before. The curves are on pages 41 and 43."
+    },
+    {
+      "id": "p0014",
+      "text": "Of two dogs, one, when placed in a similar but larger box, succeeded in hitting the button in such a way as to let the door open, and formed a permanent association, as shown by the curves on page 41. No one who had seen the behavior of these animals when trying to escape could doubt that their actions were directed by instinctive impulses, not by rational observation. It is then absolutely sure that a dog or cat _can_ open a door closed by a thumb latch or button, merely by the accidental success of its natural impulses. If _all_ cats, when hungry and in a _small_ box, will accidentally push the button that holds the door, an _occasional_ cat in a _large_ room may very well do the same. If three cats out of eight will accidentally press down a thumb piece and push open a small door, three cats out of a thousand may very well open doors or gates in the same way."
+    },
+    {
+      "id": "p0015",
+      "text": "But besides thus depriving of their value the facts which these theorizers offer as evidence, we may, by a careful examination of the method of formation of these associations as it is shown in the time-curves, gain positive evidence that no power of inference was present in the subjects of the experiments. Surely if 1 and 6 had possessed any power of inference, they would not have failed to get out after having done so several times. Yet they did. (See p. 71.) If they had once even, much less if they had six or eight times, inferred what was to be done, they should have made the inference the seventh or ninth time. And if there were in these animals any power of inference, however rudimentary, however sporadic, however dim, there should have appeared among the multitude some cases where an animal, seeing through the situation, knows the proper act, does it, and from then on does it immediately upon being confronted with the situation. There ought, that is, to be a sudden vertical descent in the time-curve. Of course, where the act resulting from the impulse is very simple, very obvious, and very clearly defined, a single experience may make the association perfect, and we may have an abrupt descent in the time-curve without needing to suppose inference. But if in a complex act, a series of acts or an ill-defined act, one found such a sudden consummation in the associative process, one might very well claim that reason was at work. Now, the scores of cases recorded show no such phenomena. The cat does not look over the situation, much less _think_ it over, and then decide what to do. It bursts out at once into the activities which instinct and experience have settled on as suitable reactions to the situation ‘_confinement when hungry with food outside_.’ It does not ever in the course of its successes realize that such an act brings food and therefore decide to do it and thenceforth do it immediately from _decision_ instead of from impulse. The one impulse, out of many accidental ones, which leads to pleasure, becomes strengthened and stamped in thereby, and more and more firmly associated with the sense-impression of that box’s interior. Accordingly it is sooner and sooner fulfilled. Futile impulses are gradually stamped out. The gradual slope of the time-curve, then, shows the absence of reasoning. They represent the wearing smooth of a path in the brain, not the decisions of a rational consciousness."
+    },
+    {
+      "id": "p0016",
+      "text": "In a later discussion of imitation further evidence that animals do not reason will appear. For the present, suffice it to say, that a dog, or cat, or chick, who does not in his own impulsive activity learn to escape from a box by pulling the proper loop, or stepping on a platform, or pecking at a door, will not learn it from seeing his fellows do so. They are incapable of even the inference (if the process may be dignified by that name) that what gives another food will give it to them also. So, also, it will be later seen that an animal cannot learn an act by being put through it. For instance, a cat who fails to push down a thumb piece and push out the door cannot be taught by having one take its paw and press the thumb piece down with it. This _could_ be learned by a certain type of associative process without inference. _Were there inference, it surely would be learned._"
+    },
+    {
+      "id": "p0017",
+      "text": "Finally, attention may be called to the curves which show the way that the animal mind deals with a series of acts (_e.g._ curves for G, J, K, L and O, found on pages 45 to 55 and 60). Were there any reasoning the animals ought early to master the method of escape in these cases (see descriptions on pages 31 to 34) so as to do the several acts in order, and not to repeat one after doing it once, or else ought utterly to fail to master the thing. But, in all these experiments, where there was every motive for the use of any reasoning faculty, if such existed, where the animals literally lived by their intellectual powers, one finds no sign of abstraction, or inference, or judgment."
+    },
+    {
+      "id": "p0018",
+      "text": "So far I have only given facts which are quite uninfluenced by any possible incompetence or prejudice of the observer. These alone seem to disprove the existence of any rational faculty in the subjects experimented on. I may add that my observations of all the conduct of all these animals during the months spent with them, failed to find any act that even _seemed_ due to reasoning. I should claim that this quarrel ought now to be dropped for good and all,—that investigation ought to be directed along more sensible and profitable lines. I should claim that the psychologist who studies dogs and cats in order to defend this ‘reason’ theory is on a level with a zoölogist who should study fishes with a view to supporting the thesis that they possessed clawed digits. The rest of this account will deal with more promising problems, of which the first, and not the least important, concerns the facts and theories of _imitation_."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-thorndike-puzzle-box": {
+      "paragraphId": "p0015",
+      "start": 1514,
+      "end": 1610,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0015",
+          "start": 1514,
+          "end": 1610,
+          "text": "The cat does not look over the situation, much less _think_ it over, and then decide what to do."
+        },
+        {
+          "paragraphId": "p0015",
+          "start": 1975,
+          "end": 2266,
+          "text": "The one impulse, out of many accidental ones, which leads to pleasure, becomes strengthened and stamped in thereby, and more and more firmly associated with the sense-impression of that box’s interior. Accordingly it is sooner and sooner fulfilled. Futile impulses are gradually stamped out."
+        }
+      ],
+      "quote": "The cat does not look over the situation, much less think it over, and then decide what to do. ... The one impulse, out of many accidental ones, which leads to pleasure, becomes strengthened and stamped in thereby, and more and more firmly associated with the sense-impression of that box’s interior. Accordingly it is sooner and sooner fulfilled. Futile impulses are gradually stamped out."
+    }
+  }
+}

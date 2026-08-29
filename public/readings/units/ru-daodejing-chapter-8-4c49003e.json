@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-8-4c49003e",
+  "title": "章 8",
+  "englishTitle": "Chapter 8",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 8",
+  "englishLocator": "Chapter 8",
+  "version": "中国哲学书电子化计划《道德经》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Daodejing; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/dao-de-jing",
+  "source": {
+    "url": "https://ctext.org/dao-de-jing",
+    "contentType": "text/html",
+    "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "12b87607161286acaad52e251e9a1d3223b829ef312df5be1f69014e61e92c73",
+  "inputHash": "3115483066ca5a085d362be00ab6bff54b5ab0520aa6642ac99c525cf1886ebe",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[8]"
+    },
+    {
+      "id": "p0002",
+      "text": "上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。夫唯不爭，故無尤。"
+    },
+    {
+      "id": "p0003",
+      "text": "(The placid and contented nature) The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike. Hence (its way) is near to (that of) the Dao. The excellence of a residence is in (the suitability of) the place; that of the mind is in abysmal stillness; that of associations is in their being with the virtuous; that of words is in their trustworthiness; that of government is in its securing good order; that of (the conduct of) affairs is in its ability; and that of (the initiation of) any movement is in its timeliness. And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him."
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-water": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 26,
+      "quote": "上善若水。水善利万物而不争，处众人之所恶，故几于道。",
+      "match": "normalized-exact"
+    }
+  }
+}

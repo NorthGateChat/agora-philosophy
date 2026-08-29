@@ -1,0 +1,1347 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-economics-of-exhaustible-resources-whole-work-997380af",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《可耗竭资源经济学》",
+  "englishWork": "The Economics of Exhaustible Resources",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "霍特林〈可耗竭资源经济学〉，第2节“自由竞争”，《政治经济学杂志》39卷2期（1931年4月），印刷页140—141；引句在141页公式(1)，p与γ定义见140—141页；续展检索未发现该卷期或本文续展，仅确认美国公版",
+  "englishVersion": "Hotelling, ‘The Economics of Exhaustible Resources,’ §2, ‘Free Competition,’ Journal of Political Economy 39(2) (April 1931), print pp. 140–141; quote at p. 141, equation (1), with p and γ defined on pp. 140–141; renewal research found no renewal for the issue or contribution; U.S. public-domain status only",
+  "sourceUrl": "https://archive.org/details/sim_journal-of-political-economy_1931-04_39_2",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "9950a76681f6b034f768a39998a2d2317706d4a0a5e37076e2996beb33a825cb"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "f399cf0b9412e56b307704a3f55da8f90294eea493fd34351547cfe59620549e",
+  "inputHash": "bff98ae70547ff29502306b26e1883e18297675ff36387802c28ef812fc6a1d6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "THE ECONOMICS OF EXHAUSTIBLE RESOURCES"
+    },
+    {
+      "id": "p0002",
+      "text": "Harold Hotelling"
+    },
+    {
+      "id": "p0003",
+      "text": "I. THE PECULIAR PROBLEMS OF MINERAL WEALTH"
+    },
+    {
+      "id": "p0004",
+      "text": "CONTEMPLATION of the world’s disappearing supplies of minerals, forests, and other exhaustible assets has led to demands for regulation of their exploitation. The feeling that these products are now too cheap for the good of future generations, that they are being selfishly exploited at too rapid a rate, and that in consequence of their excessive cheapness they are being produced and consumed wastefully has given rise to the conservation movement. The method ordinarily proposed to stop the wholesale devastation of irreplaceable natural resources, or of natural resources replaceable only with difficulty and long delay, is to forbid production at certain times and in certain regions or to hamper production by insisting that obsolete and inefficient methods be continued. The prohibitions against oil and mineral development and cutting timber on certain government lands have this justification, as have also closed seasons for fish and game and statutes forbidding certain highly efficient means of catching fish. Taxation would be a more economic method than publicly ordained inefficiency in the case of purely commercial activities such as mining and fishing for profit, if not also for sport fishing. However, the opposition of those who are making the profits, with the apathy of everyone else, is usually sufficient to prevent the diversion into the public treasury of any considerable part of the proceeds of the exploitation of natural resources."
+    },
+    {
+      "id": "p0005",
+      "text": "In contrast to the conservationist belief that a too rapid exploitation of natural resources is taking place, we have the retarding influence of monopolies and combinations, whose growth in industries directly concerned with the exploitation of irreplaceable resources has been striking. If “combinations in restraint of trade” extort high prices from consumers and restrict production, can it be said that their products are too cheap and are being sold too rapidly?"
+    },
+    {
+      "id": "p0006",
+      "text": "It may seem that the exploitation of an exhaustible natural resource can never be too slow for the public good. For every proposed rate of production there will doubtless be some to point to the ultimate exhaustion which that rate will entail, and to urge more delay. But if it is agreed that the total supply is not to be reserved for our remote descendants and that there is an optimum rate of present production, then the tendency of monopoly and partial monopoly is to keep production below the optimum rate and to exact excessive prices from consumers. The conservation movement, in so far as it aims at absolute prohibitions rather than taxation or regulation in the interest of efficiency, may be accused of playing into the hands of those who are interested in maintaining high prices for the sake of their own pockets rather than of posterity. On the other hand, certain technical conditions most pronounced in the oil industry lead to great wastes of material and to expensive competitive drilling, losses which may be reduced by systems of control which involve delay in production. The government of the United States under the present administration has withdrawn oil lands from entry in order to conserve this asset, and has also taken steps toward prosecuting a group of California oil companies for conspiring to maintain unduly high prices, thus restricting production. Though these moves may at first sight appear contradictory in intent, they are really aimed at two distinct evils, a Scylla and Charybdis between which public policy must be steered."
+    },
+    {
+      "id": "p0007",
+      "text": "In addition to these public questions, the economics of exhaustible assets presents a whole forest of intriguing problems. The static-equilibrium type of economic theory which is now so well developed is plainly inadequate for an industry in which the indefinite maintenance of a steady rate of production is a physical impossibility, and which is therefore bound to decline. How much of the proceeds of a mine should be reckoned as income, and how much as return of capital? What is the value of a mine when its contents are supposedly fully known, and what is the effect of uncertainty of estimate? If a mine-owner produces too rapidly, he will depress the price, perhaps to zero. If he produces too slowly, his profits, though larger, may be postponed farther into the future than the rate of interest warrants. Where is his golden mean? And how does this most profitable rate of production vary as exhaustion approaches? Is it more profitable to complete the extraction within a finite time, to extend it indefinitely in such a way that the amount remaining in the mine approaches zero as a limit, or to exploit so slowly that mining operations will not only continue at a diminishing rate forever but leave an amount in the ground which does not approach zero? Suppose the mine is publicly owned. How should exploitation take place for the greatest general good, and how does a course having such an objective compare with that of the profit-seeking entrepreneur? What of the plight of laborers and of subsidiary industries when a mine is exhausted? How can the state, by regulation or taxation, induce the mine-owner to adopt a schedule of production more in harmony with the public good? What about import duties on coal and oil? And for these dynamical systems what becomes of the classic theories of monopoly, duopoly, and free competition?"
+    },
+    {
+      "id": "p0008",
+      "text": "Problems of exhaustible assets are peculiarly liable to become entangled with the infinite. Not only is there infinite time to consider, but also the possibility that for a necessity the price might increase without limit as the supply vanishes. If we are not to have property of infinite value, we must, in choosing empirical forms for cost and demand curves, take precautions to avoid assumptions, perfectly natural in static problems, which lead to such conditions."
+    },
+    {
+      "id": "p0009",
+      "text": "While a complete study of the subject would include semi-replaceable assets such as forests and stocks of fish, ranging gradually downward to such short-time operations as crop carry-overs, this paper will be confined in scope to absolutely irreplaceable assets. The forests of a continent occupied by a new population may, for purposes of a first approximation at least, be regarded as composed of two parts, of which one will be replaced after cutting and the other will be consumed without replacement. The first part obeys the laws of static theory; the second, those of the economics of exhaustible assets. Wild life which may replenish itself if not too rapidly exploited presents questions of a different type."
+    },
+    {
+      "id": "p0010",
+      "text": "Problems of exhaustible assets cannot avoid the calculus of variations, including even the most recent researches in this branch of mathematics. However, elementary methods will be sufficient to bring out, in the next few pages, some of the principles of mine economics, with the help of various simplifying assumptions. These will later be generalized in considering a series of cases taking on gradually some of the complexities of the actual situation. We shall assume always that the owner of an exhaustible supply wishes to make the present value of all his future profits a maximum. The force of interest will be denoted by γ, so that e^{-γt} is the present value of a unit of profit to be obtained after time t, interest rates being assumed to remain unchanged in the meantime. The case of variable interest rates gives rise to fairly obvious modifications.¹"
+    },
+    {
+      "id": "p0011",
+      "text": "2. FREE COMPETITION"
+    },
+    {
+      "id": "p0012",
+      "text": "Since it is a matter of indifference to the owner of a mine whether he receives for a unit of his product a price p₀ now or a price p₀e^{γt} after time t, it is not unreasonable to expect that the price p will be a function of the time of the form p = p₀e^{γt}. This will not apply to monopoly, where the form of the demand function is bound to affect the rate of production, but is characteristic of completely free competition. The various units of the mineral are then to be thought of as being at any time all equally valuable, excepting for varying costs of placing them upon the market."
+    },
+    {
+      "id": "p0013",
+      "text": "¹ As in “‘A General Mathematical Theory of Depreciation,” by Harold Hotelling, Journal of the American Statistical Association, September, 1925."
+    },
+    {
+      "id": "p0014",
+      "text": "They will be removed and used in order of accessibility, the most cheaply available first. If interest rates or degrees of impatience vary among the mine-owners, this fact will also affect the order of extraction. Here p is to be interpreted as the net price received after paying the cost of extraction and placing upon the market— a convention to which we shall adhere throughout."
+    },
+    {
+      "id": "p0015",
+      "text": "The formula p = p₀e^{γt} fixes the relative prices at different times under free competition. The absolute level, or the value /, of the price when ¢=0, will depend upon demand and upon the total supply of the substance. Denoting the latter by a, and putting"
+    },
+    {
+      "id": "p0016",
+      "text": "q=f(b,t)"
+    },
+    {
+      "id": "p0017",
+      "text": "for the quantity taken at time ¢ if the price is p, we have the equation,"
+    },
+    {
+      "id": "p0018",
+      "text": "T T (2) { qai= f I(bee\"', )dt=a ,"
+    },
+    {
+      "id": "p0019",
+      "text": "the upper limit 7 being the time of final exhaustion. Since g will then be zero, we shall have the equation"
+    },
+    {
+      "id": "p0020",
+      "text": "(3) Idee, T)=o"
+    },
+    {
+      "id": "p0021",
+      "text": "to determine T."
+    },
+    {
+      "id": "p0022",
+      "text": "The nature of these solutions will depend upon the function f (p, }), which gives g. In accordance with the usual assumptions, we shall assume that it is a diminishing function of p, and depends upon the time, if at all, in so simple a fashion that the equations all have unique solutions."
+    },
+    {
+      "id": "p0023",
+      "text": "Suppose, for example, that the demand function is given by"
+    },
+    {
+      "id": "p0024",
+      "text": "qI=5—?, (oSpSs) q=o for p25,"
+    },
+    {
+      "id": "p0025",
+      "text": "independently of the time."
+    },
+    {
+      "id": "p0026",
+      "text": "As gq diminishes and approaches zero, p increases toward the value 5, which represents the highest price anyone will pay. Thus at time 7,"
+    },
+    {
+      "id": "p0027",
+      "text": "p er = as"
+    },
+    {
+      "id": "p0028",
+      "text": "The relation (2) between the unknowns /p, and T becomes in this case"
+    },
+    {
+      "id": "p0029",
+      "text": "T a= { (5— poe” )\\dt= 5T — p.(ev? —1)/y."
+    },
+    {
+      "id": "p0030",
+      "text": "Eliminating »., we have"
+    },
+    {
+      "id": "p0031",
+      "text": "a/5=T+(e7\"—1)/7,"
+    },
+    {
+      "id": "p0032",
+      "text": "that is, eT =1+7(a/5—T)."
+    },
+    {
+      "id": "p0033",
+      "text": "Now, if we plot as functions of T"
+    },
+    {
+      "id": "p0034",
+      "text": "4: = eT"
+    },
+    {
+      "id": "p0035",
+      "text": "and y=1+7(a/5—T),"
+    },
+    {
+      "id": "p0036",
+      "text": "we have a diminishing exponential curve whose slope where it crosses the y-axis is —y, and a straight line with the same slope. The line crosses the y-axis at a higher point than the curve, since, when T =o, y;<y,. Hence there is one and only one positive value of T for which y,=¥,. This value of T gives the time of complete exhaustion. Clearly it is finite."
+    },
+    {
+      "id": "p0037",
+      "text": "If the demand curve is fixed, the question whether the time until exhaustion will be finite or infinite turns upon whether a finite or infinite value of » will be required to make g vanish. For the demand function g=e~*?, where d is a constant, the exploitation will continue forever, though of course at a gradually diminishing rate. If g=a—{p, all will be exhausted in a finite time. In general, the higher the price anticipated when the rate of production becomes extremely small, compared with the price for a more rapid production, the more protracted will be the period of operation."
+    },
+    {
+      "id": "p0038",
+      "text": "3. MAXIMUM SOCIAL VALUE AND STATE INTERFERENCE"
+    },
+    {
+      "id": "p0039",
+      "text": "As in the static case, there is under free competition in the absence of complicating factors a certain tendency toward maximizing what might be called the “total utility” but is better called the “social value of the resource.” For a unit of time this quantity may be defined as"
+    },
+    {
+      "id": "p0040",
+      "text": "(4) wlg)= f “o(q) da,"
+    },
+    {
+      "id": "p0041",
+      "text": "where the integrand is a diminishing function and the upper limit is the quantity actually placed upon the market and consumed. If future enjoyment be discounted with force of interest y, the present value is"
+    },
+    {
+      "id": "p0042",
+      "text": "T V= { ulg(t)je** dt ."
+    },
+    {
+      "id": "p0043",
+      "text": "T Since f q dt is fixed, the production schedule g (#) which makes"
+    },
+    {
+      "id": "p0044",
+      "text": "V a maximum must be such that a unit increment in g will increase the integrand as much at one time as at another. That is,"
+    },
+    {
+      "id": "p0045",
+      "text": "é ulg(t)le\" ,"
+    },
+    {
+      "id": "p0046",
+      "text": "which by (4) equals pe~™, is to be a constant. Calling this constant po, we have"
+    },
+    {
+      "id": "p0047",
+      "text": "p=pe',"
+    },
+    {
+      "id": "p0048",
+      "text": "the result (1) obtained in considering free competition. That this gives a genuine maximum appears from the fact that the second derivative is essentially negative, owing to the downward slope of the demand curve."
+    },
+    {
+      "id": "p0049",
+      "text": "This conclusion does not, of course, supply any more justification for laissez faire with the exploitation of natural resources than with other pursuits. It shows that the true basis of the conservation movement is not in any tendency inherent in competition under these ideal conditions. However, there are in extractive industries discrepancies from our assumed conditions leading to particularly wasteful forms of exploitation which might well be regulated in the public interest. We have tacitly assumed all the conditions fully known. Great wastes arise from the suddenness and unexpectedness of mineral discoveries, leading to wild rushes, immensely wasteful socially, to get hold of valuable property."
+    },
+    {
+      "id": "p0050",
+      "text": "Of this character is the drilling of “‘offset wells” along each side of a property line over a newly discovered oil pool. Each owner must drill and get the precious oil quickly, for otherwise his neighbors will get it all. Consequently great forests of tall derricks rise overnight at a cost of $50,000 or more each; whereas a much smaller number and a slower exploitation would be more economic. Incidentally, great volumes of natural gas and oil are lost because the suddenness of development makes adequate storage impossible.’"
+    },
+    {
+      "id": "p0051",
+      "text": "The unexpectedness of mineral discoveries provides another reason than wastefulness for governmental control and for special taxation. Great profits of a thoroughly adventitious character arise in connection with mineral discoveries, and it is not good public policy to allow such profits to remain in private hands. Of course the prospector may be said to have earned his reward by effort and risk; but can this be said of the landowner who discovers the value of his subsoil purely by observing the results of his neighbors’ mining and drilling?"
+    },
+    {
+      "id": "p0052",
+      "text": "The market rate of interest must be used by an entrepreneur in his calculations, but should it be used in determinations of"
+    },
+    {
+      "id": "p0053",
+      "text": "@ social value and optimum public policy? The use of f pdgasa"
+    },
+    {
+      "id": "p0054",
+      "text": "measure of social value in a unit of time, whereas the smaller quantity pg would be the greatest possible profit to an owner for the same extraction of material, suggests that a similar integral be used in connection with the various rates of time-preference. There is, however, an important difference between the two cases in that the rate of interest is set by a great variety of forces, chiefly independent of the particular commodity and industry in question, and is not greatly affected by variations in the out-"
+    },
+    {
+      "id": "p0055",
+      "text": "2 Cf. George W. Stocking, The Oil Indusiry and the Competitive System, Hart Schaffner and Marx prize essay (Houghton Mifflin, 1928)."
+    },
+    {
+      "id": "p0056",
+      "text": "put of the mine or oil well in question. It is likely, therefore, that in deciding questions of public policy relative to exhaustible resources, no large errors will be made by using the market rate of interest. Of course, changes in this rate are to be anticipated, especially in considering the remote future. If we look ahead to a distant time when all the resources of the earth will be near exhaustion, and the human race reduced to complete poverty, we may expect very high interest rates indeed. But the exhaustion of one or a few types of resources will not bring about this condition."
+    },
+    {
+      "id": "p0057",
+      "text": "The discounting of future values of « may be challenged on the ground that future pleasures are ethically equivalent to present pleasure of the same intensity. The reply to this is that capital is productive, that future pleasures are uncertain in a degree increasing with their remoteness in time, and that V and wu are concrete quantities, not symbols for pleasure. They measure the social value of the mine in the sense concerned with the total production of goods, but not properly its utility or the happiness to which it leads, since this depends upon the distribution of wealth, and is greater if the products of the mine benefit chiefly the poor than if they become articles of luxury. A platinum mine is of greater general utility when platinum is used for electrical and chemical purposes than when it is pre-empted by the jewelry trade. However, we must leave questions of distribution of wealth to be dealt with otherwise, perhaps by graded income and inheritance taxes, and consider the effects of various schedules of operation upon the total value of goods produced. It is for this reason that we are concerned with V."
+    },
+    {
+      "id": "p0058",
+      "text": "The general question of how much of its income a people should save has been beautifully treated by F. P. Ramsey.’"
+    },
+    {
+      "id": "p0059",
+      "text": "Money metals, of course, occasion very special cause for public concern. Not only does gold production tend to unstabilize prices; but if the uses in the arts can be neglected, the costs of discovery, extraction, and transportation from the mine are, from the social standpoint, wasted."
+    },
+    {
+      "id": "p0060",
+      "text": "Still a different reason for caution in deducing a laissez faire"
+    },
+    {
+      "id": "p0061",
+      "text": "3“A Mathematical Theory of Saving,” Economic Journal, XX XVIII (1928), 543: policy from the theoretical maximizing of V under “‘free’”’ competition is that the actual conditions, even when competition exists, are likely to be far removed from the ideal state we have been postulating. A large producing company can very commonly affect the price by varying its rate of marketing. There is then something of the monopoly element, with a tendency toward undue retardation of production and elevation of price. This will be considered further in our last section. The monopoly problem"
+    },
+    {
+      "id": "p0062",
+      "text": ">"
+    },
+    {
+      "id": "p0063",
+      "text": "we"
+    },
+    {
+      "id": "p0064",
+      "text": "Fic. 1. y=pq. The tangent turns counterclockwise. The value of the mine is proportional to the distance to O from the intersection of the tangent with the g-axis. of course extends also to non-extractive industries; but in dealing with exhaustible resources there are some features of special interest, which will now be examined."
+    },
+    {
+      "id": "p0065",
+      "text": "4. MONOPOLY"
+    },
+    {
+      "id": "p0066",
+      "text": "The usual theory of monopoly prices deals with the maximum point of the curve"
+    },
+    {
+      "id": "p0067",
+      "text": "Y=?q;"
+    },
+    {
+      "id": "p0068",
+      "text": "y being plotted as a function either of p or of g, each of these variables being a diminishing function of the other (Fig. 1). We now consider the problem of choosing g as a function of ¢, subject to the condition"
+    },
+    {
+      "id": "p0069",
+      "text": "(5) foe di=a, so as to maximize the present value,"
+    },
+    {
+      "id": "p0070",
+      "text": "(6) J@ f gp(qje™* dt ,"
+    },
+    {
+      "id": "p0071",
+      "text": "of the profits of the owner of a mine. We do not restrict g to be a continuous function of ¢, though will be considered a continuous function of g with a continuous first derivative which is nowhere positive. The upper limit of the integrals may be taken as oo even if the exploitation is to take place only for a finite time T, for then g=o when t>T."
+    },
+    {
+      "id": "p0072",
+      "text": "This may or may not be considered a problem in the calculus of variations; some definitions of that subject would exclude our problem because no derivative is involved under the integral signs, though the methods of the science may be applied to it. However, the problem may be treated fairly simply by observing that"
+    },
+    {
+      "id": "p0073",
+      "text": "(7) q P(g)e\"\"'—g ,"
+    },
+    {
+      "id": "p0074",
+      "text": "where \\ is a Lagrange multiplier, is to be a maximum for every value of ¢. We must therefore have"
+    },
+    {
+      "id": "p0075",
+      "text": "(8) re (pg) —A=0, and also"
+    },
+    {
+      "id": "p0076",
+      "text": "ad? (9) ow dq (pq) <o. Evidently (8) may also be written (10) y¥=J, (p= eta Pane,"
+    },
+    {
+      "id": "p0077",
+      "text": "the contrast with the competitive conditions of the last section appearing in the term gq dp/dq."
+    },
+    {
+      "id": "p0078",
+      "text": "The constant A is determined by solving (8) or (10) for g as a function of \\ and ¢ and substituting in (5). Upon integrating from o to T an equation will then be obtained for \\ in terms of T and of the amount a initially in the mine, which is here assumed to be known. The additional equation required to determine T is obtained by putting g=o for ¢=T. In general, if p takes on a finite value K as g approaches zero,"
+    },
+    {
+      "id": "p0079",
+      "text": "q dp/dq also remaining finite, (8) or (10) can be written"
+    },
+    {
+      "id": "p0080",
+      "text": "4(P9) _ Keut-7) dq °"
+    },
+    {
+      "id": "p0081",
+      "text": "Suppose, for example, that the demand function is p= (1—e—*2)/q ’ =K—K°q/2!+K3q?/3!—... ,"
+    },
+    {
+      "id": "p0082",
+      "text": "where K is a positive constant. For every positive value of g this expression is positive and has a negative derivative. As g approaches zero, p approaches K. We have"
+    },
+    {
+      "id": "p0083",
+      "text": "y=pqui—e—™, y’ = Ke~*¢=)e\""
+    },
+    {
+      "id": "p0084",
+      "text": "whence q= (log K/A—t)/K ,"
+    },
+    {
+      "id": "p0085",
+      "text": "this expression holding when # is less than 7, the time of ultimate exhaustion. When t=T7, g is of course zero. We have, therefore,"
+    },
+    {
+      "id": "p0086",
+      "text": "putting g=o for ‘=T,"
+    },
+    {
+      "id": "p0087",
+      "text": "log K/A=yT; and from (5) T o= f (log K/A—-yt)dt/K=y¥ (“r-nay/x = T?/2K T=V 2Ka/y, log K/A=V 2K ya :"
+    },
+    {
+      "id": "p0088",
+      "text": "giving finally, q=7(V 2Ka/y—2)/K."
+    },
+    {
+      "id": "p0089",
+      "text": "i"
+    },
+    {
+      "id": "p0090",
+      "text": "5. GRAPHICAL STUDY: DISCONTINUOUS SOLUTIONS The interpretation of (10) in terms of Figure 1 is that the rate of production is the abscissa of the point of tangency of a tangent line which rotates counterclockwise. The slope of this line is proportional to a sum increasing at compound interest. Other graphical representations of the exhaustion of natural resources are possible. Drawing a curve giving y’ =d(pq)/dq as a function of g (Fig. 2), we have for the most profitable rate of"
+    },
+    {
+      "id": "p0091",
+      "text": "x"
+    },
+    {
+      "id": "p0092",
+      "text": "¢"
+    },
+    {
+      "id": "p0093",
+      "text": "Fic. 2. RS rises with increasing speed. Its length is the rate of production and diminishes. extraction the length of a horizontal line RS which rises like compound interest."
+    },
+    {
+      "id": "p0094",
+      "text": "The waviness with which these curves have been drawn suggests that the solution obtained in this way is not unambiguous. Such waviness will arise if the demand function is, for example"
+    },
+    {
+      "id": "p0095",
+      "text": "(11) p=b—(q—1)5, the derivative of which, —3(q—1)\" ’"
+    },
+    {
+      "id": "p0096",
+      "text": "is never positive. Here 6 is a constant, taken as 1 for Figure 2. For this demand function"
+    },
+    {
+      "id": "p0097",
+      "text": "~ ¥ =b—(4q—1)(q—1)."
+    },
+    {
+      "id": "p0098",
+      "text": "When the rising line RS reaches the position AC, the point S$ whose abscissa represents the rate of production might apparently continue along the curve to B and then jump to D; or it might jump from A to C and then move on through D; or it might leave the arc AB at a point between A and B. At first sight there would seem to be another possibility, namely, to jump from A to C, to move up the curve to B, and then to leap to D. But this would mean increasing production for a period. This is never so profitable as to run through the same set of values of g in reverse order, for the total profit would be the same but would be received on the average more quickly if the most rapid production takes place at the beginning of the period. Hence we may regard q as always diminishing, though in this case with a discontinuity."
+    },
+    {
+      "id": "p0099",
+      "text": "The values of g between which the leap is made in this case will be determined in § 10; it will be shown that the maximum profit will be reached if the monopolist moves horizontally from a certain point F on AB to a point G on CD."
+    },
+    {
+      "id": "p0100",
+      "text": "6. VALUE OF A MINE MONOPOLY To find the present value"
+    },
+    {
+      "id": "p0101",
+      "text": "4 Ji= f page ‘dt & te"
+    },
+    {
+      "id": "p0102",
+      "text": "of the profits which are to be realized in any interval /, to #¢, during which the maximizing value of g is a continuous function of ¢, we integrate by parts:"
+    },
+    {
+      "id": "p0103",
+      "text": "t= That (ae ts. . Y tk » t dq dt"
+    },
+    {
+      "id": "p0104",
+      "text": "When we put"
+    },
+    {
+      "id": "p0105",
+      "text": "(12) y= Pq"
+    },
+    {
+      "id": "p0106",
+      "text": "and apply (10), the last integral takes a simple form admitting direct integration. This gives, after applying (10) also to eliminate e~* from the first term,"
+    },
+    {
+      "id": "p0107",
+      "text": "oa T=H(0-}) |."
+    },
+    {
+      "id": "p0108",
+      "text": "Now upon differentiating (12), we find"
+    },
+    {
+      "id": "p0109",
+      "text": ". d qy =yt+¢ zs Hence (13) can be written J ¢ el a. F y’ dg “’s The expressions (13) and (14) provide very convenient means of computing the discounted profits. Their validity will be shown"
+    },
+    {
+      "id": "p0110",
+      "text": "in § 10 to extend to cases in which gq is discontinuous. The expression"
+    },
+    {
+      "id": "p0111",
+      "text": "(14)"
+    },
+    {
+      "id": "p0112",
+      "text": "q—y/y’"
+    },
+    {
+      "id": "p0113",
+      "text": "which appears in (13) is, in terms of Figure 1, the difference between the abscissa and the subtangent of a point on the curve. It therefore equals the distance to the left of the origin of the point where a tangent to the curve meets the q-axis."
+    },
+    {
+      "id": "p0114",
+      "text": "The value of the mine when ‘=o is, in this notation, a It"
+    },
+    {
+      "id": "p0115",
+      "text": "is \\/y times the distance from the origin to the point of intersection with the negative x-axis of the initial tangent to the curve of monopoly profit."
+    },
+    {
+      "id": "p0116",
+      "text": "7. RETARDATION OF PRODUCTION UNDER MONOPOLY Although the rate of production may suffer discontinuities in spite of the demand function having a continuous derivative, these breaks will always occur during actual production, never at the end. Eventually g will trail off in a continuous fashion to zero. This means that the highest point of the curve of Figure 2 corresponds to g=o. To prove this, we use the monotonic decreasing character of p as a function of g, which shows that"
+    },
+    {
+      "id": "p0117",
+      "text": "¥'(g) =P(q)+90'(9)"
+    },
+    {
+      "id": "p0118",
+      "text": "is, for positive values of g, less than p(q), and that this in turn is less than p(o). Hence the curve rises higher at the y’-axis than for any level maximum at the right."
+    },
+    {
+      "id": "p0119",
+      "text": "The duration of monopolistic exploitation is finite or infinite according as y’ takes on a finite or an infinite value when g approaches zero. This condition is a little different from that under competition, where a finite value of » as g approaches zero was found to be necessary and sufficient for a finite time. The two conditions agree unless » remains finite while gp’(g) becomes infinite, in which case the demand curve reaches the p-axis and is tangent to it with contact of order higher than the first. In such a case the period of operation is finite under competition but infinite under monopoly. That this apparently exceptional case is quite likely to exist in fact is indicated by a study of the general properties of supply and demand functions applying the theory of frequency curves, a fascinating subject for which space will not be taken in this paper."
+    },
+    {
+      "id": "p0120",
+      "text": "Such a study indicates that very high order contact of the demand curve with the p-axis is to be expected, and therefore that monopolistic exploitation of an exhaustible asset is likely to be protracted immensely longer than competition would bring about or a maximizing of social value.would require. This is simply a part of the general tendency for production to be retarded under monopoly."
+    },
+    {
+      "id": "p0121",
+      "text": "8. CUMULATED PRODUCTION AFFECTING PRICE"
+    },
+    {
+      "id": "p0122",
+      "text": "The net price p per unit of product received by the owner of a mine depends not only on the current rate of production but also on past production. The accumulated production affects both cost and demand. The cost of extraction increases as the mine goes deeper; and durable substances, such as gold and diamonds, by their accumulation influence the market. In considering this effect, the calculus of variations cannot be avoided; the following formulation in terms of this science will include as special cases the situations previously treated."
+    },
+    {
+      "id": "p0123",
+      "text": "Let x be the amount which has been extracted from a mine, q=dx/dt the current rate of production, and a the amount originally in the mine. Then ? is a function of x as well as of g and ¢. The discounted profit at time =o, which equals the value of the mine at that time, is"
+    },
+    {
+      "id": "p0124",
+      "text": "(15) { p(s, ¢, gen\" dt If exhaustion is to come at a finite time 7, we may suppose that g=o for t>T, so that T becomes the upper limit. We put"
+    },
+    {
+      "id": "p0125",
+      "text": "I(x, a, )=pqe"
+    },
+    {
+      "id": "p0126",
+      "text": "Then the owner of the mine (who is now assumed to have a monopoly) cannot do better than to adjust his production so that"
+    },
+    {
+      "id": "p0127",
+      "text": "In case f does not involve x, the first term is zero and the former case of monopoly is obtained."
+    },
+    {
+      "id": "p0128",
+      "text": "In general the differential equation is of the second order in x, since g=dx/dt, and so requires two terminal conditions. One of these is x=o for =o. The other end of the curve giving x as a function of may be anywhere on the line x =a, or the curve may have this line as an asymptote. This indefiniteness will be settled by invoking again the condition that the discounted profit is a maximum. The “transversality condition” thus obtained,"
+    },
+    {
+      "id": "p0129",
+      "text": "of _ f 1g\" °°"
+    },
+    {
+      "id": "p0130",
+      "text": "Op _ g aq ?"
+    },
+    {
+      "id": "p0131",
+      "text": "is equivalent to the proposition that, if p always diminishes when q increases, the curve is tangent or asymptotic to the line x=a. Thus ultimately g descends continuously to zero."
+    },
+    {
+      "id": "p0132",
+      "text": "Suppose, for example, that g, x, and ¢ all affect the net price linearly. Thus"
+    },
+    {
+      "id": "p0133",
+      "text": "p=a—Bq—cax+ zt."
+    },
+    {
+      "id": "p0134",
+      "text": "Ordinarily a, 8, and c will be positive, but g may have either sign. The growth of population and the rising prices to consumers of competing exhaustible goods would lead to a positive value of g. On the other hand, the progress of science might lead to the gradual introduction of new substitutes for the commodity in question, tending to make g negative. The exhaustion of complementary commodities would also tend toward a negative value of g."
+    },
+    {
+      "id": "p0135",
+      "text": "The differential equation reduces, for this linear demand function, to the linear form"
+    },
+    {
+      "id": "p0136",
+      "text": "ax dx 2B an — 2BY 3 —eve= — Bvt g—a7 ."
+    },
+    {
+      "id": "p0137",
+      "text": "Since 8, c, and ¥ are positive, the roots of the auxiliary equation are real and of opposite signs. Let m denote the positive and — the negative root. Since"
+    },
+    {
+      "id": "p0138",
+      "text": "m—n=% , m is numerically greater than m. The solution is x= Ae™'+ Be~™'+- gt/c—2Bg/c—g/cyt+a/c,"
+    },
+    {
+      "id": "p0139",
+      "text": "whence qg=Ame™— Bn-\"'+-/c ."
+    },
+    {
+      "id": "p0140",
+      "text": "Since x =o when /=o, A+B—2Bg/c?—g/cyt+a/c=o. Since x =a and g=o at the time 7 of ultimate exhaustion,"
+    },
+    {
+      "id": "p0141",
+      "text": "Ae™™ + Be\"? +-gT/c—2Bg/e—g/cy+a/c—a=o,"
+    },
+    {
+      "id": "p0142",
+      "text": "Ame™! — Bne-\"? +-/c =o."
+    },
+    {
+      "id": "p0143",
+      "text": "From these equations A and B are eliminated by equating to zero the determinant of their coefficients and of the terms not containing A or B. After multiplying the first column by e~”” and the second by e*’, this gives:"
+    },
+    {
+      "id": "p0144",
+      "text": "emt eT = =——28g/C—g/cy+a/c I gT /c—2Bg/c—g/cyt+a/c—a| =o. —n g/¢ Expanding and using the relations m—n=+, and mn=cy/28, we have for A and its derivative with respect to T,"
+    },
+    {
+      "id": "p0145",
+      "text": "A =(e-™? —e\"?)g/c+ (me +me\"\")(gT/c— 28g/C—g/cy+a/c—a) +(m-+-n)(28g/e+g/cy—a/c) ,"
+    },
+    {
+      "id": "p0146",
+      "text": "A! =(e\"? —e-™?)[T —1/y+(a—ac)/gley/28 ,"
+    },
+    {
+      "id": "p0147",
+      "text": "the last expression being useful in applying Newton’s method to find 7. Obviously, the derivative changes sign for only one value of T; for this value A has a minimum if g is positive, a maximum if g is negative."
+    },
+    {
+      "id": "p0148",
+      "text": "We may measure time in such units that , the force of interest, is unity. If money is worth 4 per cent, compounded quarterly, the unit of time will then be about 25 years and 1 month. With this convention let us consider an example in which there is an upward secular trend in the price consumers are willing to pay: take a= 100, 8=1,c=4, g=16, and a@=10. The net amount received per unit is in this case"
+    },
+    {
+      "id": "p0149",
+      "text": "p=100—q—4x+ 168."
+    },
+    {
+      "id": "p0150",
+      "text": "Substituting the values of the constants, and noting that m=2 and m=1, we have e~*T eT 19 1 4T7+9| =(87+14)e\"+(47+13)e°7 —57, 2<—-I 4"
+    },
+    {
+      "id": "p0151",
+      "text": "A’ =(e? —e~*7)(8T+ 22) ."
+    },
+    {
+      "id": "p0152",
+      "text": "Evidently A<o for T=0, A=+o for T=, and A’>o for all positive values of JT. Hence A=o has one and only one positive root."
+    },
+    {
+      "id": "p0153",
+      "text": "For the trial value T=1 we have"
+    },
+    {
+      "id": "p0154",
+      "text": "A=5.10, A’=77.5."
+    },
+    {
+      "id": "p0155",
+      "text": "Applying to T the correction —A/A’=—.07 roughly, we take T =.93 as a second approximation. For this value of 7,"
+    },
+    {
+      "id": "p0156",
+      "text": "A=-—.06, A’=70.0,"
+    },
+    {
+      "id": "p0157",
+      "text": "whence —A/A’=.oo1."
+    },
+    {
+      "id": "p0158",
+      "text": "The most profitable schedule of extraction will therefore exhaust the mine in about 0.931 unit of time, or about 23 years and 4 months, perhaps a surprisingly short time in view of the prospect of obtaining an indefinitely higher price in the future, at the rate of increase of 16 per unit of time."
+    },
+    {
+      "id": "p0159",
+      "text": "In order that the time of working a mine be infinite, it is necessary not only that the price shall increase indefinitely but that it shall ultimately increase at least as fast as compound interest."
+    },
+    {
+      "id": "p0160",
+      "text": "The last two equations for determining A and B now become, since e?? = 6.4366 and e~? =.3942,"
+    },
+    {
+      "id": "p0161",
+      "text": "6.4366A+ .3942B+12.724=0 12.8732A — .3942B+4 =o."
+    },
+    {
+      "id": "p0162",
+      "text": "Hence A = —.866, B= — 18.13; so that = — .866¢e'—18.13¢7'+4/+19."
+    },
+    {
+      "id": "p0163",
+      "text": "As a check we observe that this expression for x vanishes when ¢ =0. Differentiating, we have"
+    },
+    {
+      "id": "p0164",
+      "text": "q= —1.732¢e7'+-18.13¢°'+4,"
+    },
+    {
+      "id": "p0165",
+      "text": "showing how the rate of production begins at 20.40 and gradually declines to zero. Substitution in the assumed expression for the"
+    },
+    {
+      "id": "p0166",
+      "text": "net price gives"
+    },
+    {
+      "id": "p0167",
+      "text": "p=100—q—4x+ 16 = 20+ 5. 196¢\"'+54.39¢',"
+    },
+    {
+      "id": "p0168",
+      "text": "showing a decline from 79.60 at the beginning to 74.90 at exhaustion, owing to the greater cost of extracting the deeper parts of the deposit. The buyer of course pays an increasing, not a decreasing price, namely, p+4x=100—q¢+ 168 =96+1.732e\"—18.13¢e7*+- 164."
+    },
+    {
+      "id": "p0169",
+      "text": "This increases from 79.60 to 114.90."
+    },
+    {
+      "id": "p0170",
+      "text": "Q. THE OPTIMUM COURSE"
+    },
+    {
+      "id": "p0171",
+      "text": "To examine the course of exploitation of a mine which would be best socially, in contrast with the schedule which a well-informed but entirely selfish owner would adopt, we generalize the considerations of § 3. Instead of the rate of profit pg, we must now deal with the social return per unit of time,"
+    },
+    {
+      "id": "p0172",
+      "text": "u= { “p(x, q tdg ,"
+    },
+    {
+      "id": "p0173",
+      "text": "x and ¢ being held constant in the integration. Taking again the market rate of interest as the appropriate discount factor for future enjoyments, we set"
+    },
+    {
+      "id": "p0174",
+      "text": "F=ue™,"
+    },
+    {
+      "id": "p0175",
+      "text": "and inquire what curve of exploitation will make the total discounted social value,"
+    },
+    {
+      "id": "p0176",
+      "text": "V= {Fat"
+    },
+    {
+      "id": "p0177",
+      "text": "a maximum. The characteristic equation"
+    },
+    {
+      "id": "p0178",
+      "text": "oF d a i Ox dt dq"
+    },
+    {
+      "id": "p0179",
+      "text": "reduces to"
+    },
+    {
+      "id": "p0180",
+      "text": "Opdx Aapdx _,_du ap aq dp ax di Pax an’ The initial condition is x =o for =o. The other end-point of the curve is movable on the line x—a=o, a being the amount originally in the mine. The transversality condition,"
+    },
+    {
+      "id": "p0181",
+      "text": "OF F— “=O, 1 ag"
+    },
+    {
+      "id": "p0182",
+      "text": "reduces to u—pq=o."
+    },
+    {
+      "id": "p0183",
+      "text": "This is satisfied only for g=o, for otherwise we should have the"
+    },
+    {
+      "id": "p0184",
+      "text": "equation I @ = dq , p {\"p q"
+    },
+    {
+      "id": "p0185",
+      "text": "stating that the ultimate price is the mean of the potential prices corresponding to lower values of g. Since / is assumed to decrease when g increases, this is impossible. Even if 0/0 is zero in isolated points, the equation will be impossible if, as is always held, this derivative is elsewhere negative. Hence g=o at the time of exhaustion."
+    },
+    {
+      "id": "p0186",
+      "text": "If, as in § 8, we suppose the demand function linear,"
+    },
+    {
+      "id": "p0187",
+      "text": "p=a—Bq—cx+ gt, the characteristic equation becomes"
+    },
+    {
+      "id": "p0188",
+      "text": "Px"
+    },
+    {
+      "id": "p0189",
+      "text": "B ip"
+    },
+    {
+      "id": "p0190",
+      "text": "dx By 3, ~cve= —brtt+g—a7 «"
+    },
+    {
+      "id": "p0191",
+      "text": "This differs from the corresponding equation for monopoly only in that 8 is here replaced by 8/2. In a sense, this means that the decline of price, or marginal utility, with increase of supply counts just twice as much in affecting the rate of production, when this is in the control of a monopolist, as the public welfare would warrant."
+    },
+    {
+      "id": "p0192",
+      "text": "The analysis of § 8 may be applied to this case without any qualitative change. The values of m and n depend on 8, and are therefore changed. The time 7 until ultimate exhaustion will be reduced, if social value rather than monopoly profit is to be maximized. For the numerical example given, JT was found to be 0.931 unit of time under monopoly. Repeating the calculation for the case in which maximum social value is the goal, we find as the best value only 0.6741 unit of time."
+    },
+    {
+      "id": "p0193",
+      "text": "For different values of the constants, even with a linear demand function, the mathematics may be less simple. For example, the equation A =o may have two positive roots instead of one. This will be the case if the numerical illustration chosen be varied by supposing that the sign of g is reversed, owing to the progressive discovery of substitutes, the direct effect of passage of time being then to decrease instead of increase the price. In such cases a further examination is necessary of the two possible curves of development, to determine which will yield a greater monopoly profit or total discounted social value, according to our object."
+    },
+    {
+      "id": "p0194",
+      "text": "10. DISCONTINUOUS SOLUTIONS"
+    },
+    {
+      "id": "p0195",
+      "text": "Even if the rate of production g has a discontinuity, as in the example of § 5, the condition that ff dt shall be a maximum requires that each of the quantities"
+    },
+    {
+      "id": "p0196",
+      "text": "of = | aq’ I-q°"
+    },
+    {
+      "id": "p0197",
+      "text": "must nevertheless be continuous.‘ This will be true whether f stands for discounted monopoly profit or discounted total utility. The equation (8) on p. 147, may be written"
+    },
+    {
+      "id": "p0198",
+      "text": "of _ a :"
+    },
+    {
+      "id": "p0199",
+      "text": "which shows, since the left-hand member is continuous, that \\ must have the same value before and after the discontinuity. When ? is a function of g alone, the two continuous quantities may be written in the notation of § 4, y’e~* and (y—gqy’) e~, 4C. Caratheodory, “Uber die diskontinuirlichen Lésungen in der Variationsrechnung,” thesis, Géttingen, 1904, p. 11. The condition that the first of these quantities must be continuous is given in the textbooks, but for some reason the second is generally omitted."
+    },
+    {
+      "id": "p0200",
+      "text": "which shows that y’ and y—gy’ are continuous. Thus the expression \\ (¢—y/y’) appearing in (13), p. 150, is continuous. Consequently the expressions (13) or (14) pertaining to the different time-intervals may simply be added to obtain an expression of the same form. Hence the present value of the discounted future profits of the mine—and therefore of the mine—is in such cases the difference between the values of"
+    },
+    {
+      "id": "p0201",
+      "text": "Aq—y/y')/¥"
+    },
+    {
+      "id": "p0202",
+      "text": "at present and at the time of exhaustion."
+    },
+    {
+      "id": "p0203",
+      "text": "We are now ready to answer such questions as that raised at the end of § 5 as to the location of the discontinuity there shown to exist in the most profitable schedule of production when the demand function is"
+    },
+    {
+      "id": "p0204",
+      "text": "p=b—(q—1)'."
+    },
+    {
+      "id": "p0205",
+      "text": "Since in this case f=pge-™'=[bqg—g(q—1)]e™"
+    },
+    {
+      "id": "p0206",
+      "text": "the two quantities b—(4q—1)(q—1)\",,"
+    },
+    {
+      "id": "p0207",
+      "text": "3¢°(q—- 1) ? are continuous. Consequently"
+    },
+    {
+      "id": "p0208",
+      "text": "(4g—1)(q—1)\" and"
+    },
+    {
+      "id": "p0209",
+      "text": "g(q—1)?"
+    },
+    {
+      "id": "p0210",
+      "text": "are continuous. If g, denote the rate of production just before the sudden jump and gq, the initial rate after it, this means that"
+    },
+    {
+      "id": "p0211",
+      "text": "(49:—1)(q:—1)*=(4¢.—1) (Qa — 1)? q:°(9:—1)? =9.°(G.—1)* ."
+    },
+    {
+      "id": "p0212",
+      "text": "The only admissible solution is:"
+    },
+    {
+      "id": "p0213",
+      "text": "g:=(3+V 3)/4=1.1830, =(3—1/3)/4=0.31699."
+    },
+    {
+      "id": "p0214",
+      "text": "II. TESTS FOR A TRUE MAXIMUM"
+    },
+    {
+      "id": "p0215",
+      "text": "The equations which have been given for finding the production schedule of maximum profit or social value are necessary, not sufficient, conditions for maxima, like the vanishing of the first derivative in the differential calculus. We must also consider more definitive tests."
+    },
+    {
+      "id": "p0216",
+      "text": "The integrals which have arisen in the problems of exhaustible assets are to be maxima, not necessarily for the most general type of variation conceivable for a curve, but only for the so-called ‘special weak” variations. The nature of the economic situation seems to preclude all variations which involve turning time backward, increasing the rate of production, maintaining two different rates of production at the same time, or varying production with infinite rapidity. Extremely sudden increases in production usually involve special costs which will be borne only under unexpected conditions, and are to be avoided in long-term planning. Likewise sudden decreases involve social losses of great magnitude such as unemployment, which even a selfish monopolist will often try to prevent. This will be considered further in the next section. It is indeed possible that in some special cases these “strong” variations might take on some economic significance, but such a situation would involve forces of a different sort from those with which economic theory is ordinarily concerned."
+    },
+    {
+      "id": "p0217",
+      "text": "The critical tests which must be applied are by the foregoing considerations reduced to two—those of Legendre and Jacobi.5 The Legendre test requires, in order that the total discounted utility or social value (§ 9) shall be a maximum, that"
+    },
+    {
+      "id": "p0218",
+      "text": "Ou Op ag? aq ~°?"
+    },
+    {
+      "id": "p0219",
+      "text": "a condition which is always held to obtain save in exceptional cases. In order that the chosen curve shall yield a genuine maximum for a monopolist’s profit, the Legendre test requires that"
+    },
+    {
+      "id": "p0220",
+      "text": "(69) _ oP, FP, oq :"
+    },
+    {
+      "id": "p0221",
+      "text": "og og’ 5A. R. Forsyth, Calculus of Variations (Cambridge, 1927), pp. 17-28."
+    },
+    {
+      "id": "p0222",
+      "text": "This means that the curve of Figure 1 is convex upward at all points touched by the turning tangent. The re-entrant portions, if any, are passed over, producing discontinuities in the rate of"
+    },
+    {
+      "id": "p0223",
+      "text": "production. When the solution of the characteristic equation has been"
+    },
+    {
+      "id": "p0224",
+      "text": "found in the form x=g(t, A, B),"
+    },
+    {
+      "id": "p0225",
+      "text": "A and B being arbitrary constants, the Jacobi test requires that"
+    },
+    {
+      "id": "p0226",
+      "text": "0¢/dA 0¢/dB"
+    },
+    {
+      "id": "p0227",
+      "text": "shall not take the same value for two different values of ¢. For the example of §8 this critical quantity is simply e™*\"*, which obviously satisfies the test. The solution represents a real, not an illusory maximum for the monopolist’s profit. The like is true for the schedule of production maximizing the total discounted utility with the same demand function. Each case must, however,"
+    },
+    {
+      "id": "p0228",
+      "text": "be examined separately, as the test might show in some instances that a seeming maximum could be improved."
+    },
+    {
+      "id": "p0229",
+      "text": "12. THE NEED FOR STEADINESS IN PRODUCTION"
+    },
+    {
+      "id": "p0230",
+      "text": "The demand function giving p may involve not only the rate of production g, but also the rate of change q’ of g. Such a condition would display a duality with that considered by C. F. Roos® and G. C. Evans,’ who hold that the quantity of a commodity which can be sold per unit of time depends ordinarily upon the rate of change of the price, as well as upon the price itself. If p is a function of x, g, g’, and #, the maximum of monopoly profit or of social value can only be obtained if the course of exploitation satisfies a fourth-order differential equation."
+    },
+    {
+      "id": "p0231",
+      "text": "6 “4 Dynamical Theory of Economics,” Journal of Political Economy, XXXV (1927), 632, and references there given; also “‘A Mathematical Theory of Depreciation and Replacement,” American Journal of Mathematics, L (1928), 147."
+    },
+    {
+      "id": "p0232",
+      "text": "7“The Dynamics of Monopoly,” American Mathematical Monthly, Vol. XXXI (1924); also Mathematical Introduction to Economics (McGraw-Hill Book Co., 1930)."
+    },
+    {
+      "id": "p0233",
+      "text": "More generally we might suppose that / and its rate of change p’ are connected with x, g, g’, and ¢ by a relation"
+    },
+    {
+      "id": "p0234",
+      "text": "o(?, ?’, x, 9,7, =o."
+    },
+    {
+      "id": "p0235",
+      "text": "This presents a Lagrange problem, which can be dealt with by known methods.* A further generalization is to suppose that the price, the quantity, and their derivatives are subject to a relation in the nature of a demand function which also involves an integral or integrals giving the effect of past prices and rates of consumption.®"
+    },
+    {
+      "id": "p0236",
+      "text": "Capital investment in developing the mine and industries essential to it is a source of a need for steady production; the desirability of regular employment for labor is another. Under the term “capital” might possibly be included the costs, both to employers and to laborers, in drawing laborers to the mine from other places and occupations. The returning of these laborers to other occupations as production declines would have to be reckoned as part of the social cost. Whether this would enter into the mine-owner’s costs would probably depend upon whether the laborers have at the beginning sufficient information and bargaining power to insist upon compensation for the cost to them of the return shift."
+    },
+    {
+      "id": "p0237",
+      "text": "Problems in which the fixity of capital investment plays a part in determining production schedules may be dealt with by introducing new variables x,, x2, . . . ., to represent the various types of capital investment involved. In so far as these variables are continuous, the problem is that of maximizing an integral involving x, %:, %2, ... ., and their derivatives, using well-known methods. The simultaneous equations"
+    },
+    {
+      "id": "p0238",
+      "text": "oe} Lex; i =dx;/dt)"
+    },
+    {
+      "id": "p0239",
+      "text": "* Cf. G. A. Bliss, “The Problem of Lagrange in the Calculus of Variations” (mimeographed by O. E. Brown), (University of Chicago Bookstore)."
+    },
+    {
+      "id": "p0240",
+      "text": "* See “‘Generalized Lagrange Problems in the Calculus of Variations,” by C. F. Roos, Transactions of the American Mathematical Society, XXX, (1927), 360."
+    },
+    {
+      "id": "p0241",
+      "text": "are necessary for a maximum. The depreciation of mining equipment raises considerations of this kind."
+    },
+    {
+      "id": "p0242",
+      "text": "The cases considered in the earlier part of this paper all led to solutions in which the rate of production of a mine always decreases. By considering the influence of fixed investments and the cost of accelerating production at the beginning, we may be led to production curves which rise continuously from zero to a maximum, and then fall more slowly as exhaustion approaches. Certain production curves of this type have been found statistically to exist for whole industries of the extractive type, such as petroleum production.”"
+    },
+    {
+      "id": "p0243",
+      "text": "I3. CAPITAL VALUE TAXES AND SEVERANCE TAXES"
+    },
+    {
+      "id": "p0244",
+      "text": "An unanticipated tax upon the value of a mine will have no effect other than to transfer to the government treasury a part of the mine-owner’s income. An anticipated tax at the rate a per year and payable continuously will have the same effects upon the value of the mine and the schedule of production as an increase of the force of interest by a. This we shall now prove."
+    },
+    {
+      "id": "p0245",
+      "text": "From the income pg from the mine at time ¢ must now be deducted the tax, a/(#). Consequently the value at time 7 is"
+    },
+    {
+      "id": "p0246",
+      "text": "I(r)= i [pg—aJ (t)le-7\"*—\"idt ."
+    },
+    {
+      "id": "p0247",
+      "text": "This integral equation in J reduces by differentiation to a differential equation:"
+    },
+    {
+      "id": "p0248",
+      "text": "J\"(r)=—pqtal (1) +75 (7) . The solution is found by well-known methods. The constant of"
+    },
+    {
+      "id": "p0249",
+      "text": "integration is evaluated by means of the condition that J(T) =o. We have:"
+    },
+    {
+      "id": "p0250",
+      "text": ": J(r) -{ pqe- (at+y)(t—r) gy ."
+    },
+    {
+      "id": "p0251",
+      "text": "so that a is merely added to y."
+    },
+    {
+      "id": "p0252",
+      "text": "% C, E. Van Orstrand, “On the Empirical Representation of Certain Production Curves,”’ Journal of the Washington Academy of Sciences, XV, (1925), 19."
+    },
+    {
+      "id": "p0253",
+      "text": "Quite a different kind of levy is represented by the “severance tax.’’* Such a tax, of so much per unit of material extracted from the mine, tends to conservation. The ordinary theory of monopoly of an inexhaustible commodity suggests that the incidence of such a tax is divided between monopolist and consumer, equally in the case of a linear demand function. However, for an exhaustible supply the division is in a different proportion, varying with time and the supply remaining. Indeed, the imposition of the tax will lead eventually to an actually lower price than as if there had been no tax."
+    },
+    {
+      "id": "p0254",
+      "text": "Consider the linear demand function"
+    },
+    {
+      "id": "p0255",
+      "text": "p=a—Bq"
+    },
+    {
+      "id": "p0256",
+      "text": "and, for simplicity, no cost of production. The rate of net profit, after paying a tax v per unit extracted, will be"
+    },
+    {
+      "id": "p0257",
+      "text": "(p—v)q=(a—v)g—f¢’. As in § 4, the derivative increases as compound interest:"
+    },
+    {
+      "id": "p0258",
+      "text": "a—v—2Bq=he\"'."
+    },
+    {
+      "id": "p0259",
+      "text": "Since ultimately g=o and t=T, we obtain"
+    },
+    {
+      "id": "p0260",
+      "text": "a—v=)e! \""
+    },
+    {
+      "id": "p0261",
+      "text": "« A variant is an ad valorem tax. A great deal of information and discussion concerning these taxes is contained in the biennial Report of the Minnesota State Tax Commission, 1928, (St. Paul). From p. 111 of this report it appears that Alabama since 1927 has had a severance tax of 2} cents a ton on coal, 44 cents a ton on iron ore, and 3 per cent on quarry products; Montana taxes coal extracted at 5 cents per ton; Arkansas imposes a tax of 2} per cent on the gross value of all natural resources except coal and timber, 1 per cent on coal, and 7 cents per 1,000 board feet on timber. Minnesota taxes iron ore extracted at 6 per cent on value minus cost of labor and materials used in mining, and also assesses ore lands at a higher rate than other property for the general property tax. These taxes are not based entirely on the conservation idea, but aim also at taxing persons outside the state, or “retaining for the state its natural heritage.” Since Minnesota produces about two-thirds of the iron ore of the United States, the outside incidence is doubtless accomplished. Mexican petroleum taxes have the same object. The Minnesota Commission believes that prospecting for ore has virtually ceased on account of the high taxes."
+    },
+    {
+      "id": "p0262",
+      "text": "whence eliminating \\ and solving for gq, q=[1—e\"'-M](a—v)/28 ."
+    },
+    {
+      "id": "p0263",
+      "text": "The time of exhaustion T is related to the amount originally in the mine through the equation"
+    },
+    {
+      "id": "p0264",
+      "text": "T a= f q dt=(yT +e? —1)(a—v)/2By ;"
+    },
+    {
+      "id": "p0265",
+      "text": "2Ba dv"
+    },
+    {
+      "id": "p0266",
+      "text": "a0 =o Ge)’"
+    },
+    {
+      "id": "p0267",
+      "text": "showing how much of an increase in time of exploitation is likely to result from the imposition of a small severance tax. The effect upon the rate of production at time # is"
+    },
+    {
+      "id": "p0268",
+      "text": "_ oq oq qq=~. dota 7 dT =dv{—1+e\"'-2[1+ 2B-ya/(a—v) (1—e-77)]} /28 ."
+    },
+    {
+      "id": "p0269",
+      "text": "From the form of the demand function it follows that the increase in price at time ¢ is"
+    },
+    {
+      "id": "p0270",
+      "text": "dp=—Bdq=dv{}—er'-P[}-+ Bya/(a—2) (1x—e-7)]} ."
+    },
+    {
+      "id": "p0271",
+      "text": "If a is very large, then so is 7; the expression in curly brackets will, for moderate values of ¢, differ infinitesimally from 4, reducing to the case of monopoly with unlimited supplies. However, dp will always be less than }dv and, as exhaustion approaches, will decline and become negative. Finally, when ¢=T7, the price of the tax-paid articles to buyers is lower by"
+    },
+    {
+      "id": "p0272",
+      "text": "Byav/(a—v)(1—e~77)"
+    },
+    {
+      "id": "p0273",
+      "text": "than the ultimate price if there had been no tax. The price will, nevertheless, be so high that very little of the commodity will be bought."
+    },
+    {
+      "id": "p0274",
+      "text": "A tax on a monopolist which will lead him to reduce his prices is reminiscent of Edgeworth’s paradox of a tax on first-class railway tickets which makes the monopolistic (and unregulated) owner’s most profitable course the reduction of the prices both of first- and of third-class tickets, besides paying the tax himself.** The case of a mine is, however, of a distinct species from Edgeworth’s, and cannot be assimilated to it by treating ore extracted at different times as different commodities. Indeed, in the simple case of mine economics which we are now considering, the demands at different times are not correlated; supplies put upon the market now and in the future neither complement nor compete with each other. Correlated demand of a particular type was, on the other hand, an essential feature of Edgeworth’s phenomenon."
+    },
+    {
+      "id": "p0275",
+      "text": "The ultimate lowering of price and the extension of the life of a mine as a result of a severance tax are not peculiar to the linear demand function, but hold similarly for any declining demand function p(qg) whose slope is always finite. This general proposition does not depend upon the tax being small."
+    },
+    {
+      "id": "p0276",
+      "text": "The conclusion reached in the linear case that the division of the incidence of the tax is more favorable to the consumer than for an inexhaustible supply is probably true in general; at least this is indicated by an examination of a number of demand curves. However, the general proposition seems very difficult to prove."
+    },
+    {
+      "id": "p0277",
+      "text": "Since the severance tax postpones exhaustion, falls in considerable part on the monopolist, and leads ultimately to an actual lowering of price, it would seem to be a good tax. It is particularly to be commended if the monopolist is regarded as unfairly possessed of his property, and there is no other feasible means of taking away from him so great a portion of it as the severance tax will yield. However, the total wealth of the community may be diminished rather than increased by such a tax. Considering as in § 3 the integral u of the prices p which buyers are willing to pay for quantities below that actually put on the market, and"
+    },
+    {
+      "id": "p0278",
+      "text": "\" Economic Journal, VII (1897), 231, and various passages in Edgeworth’s Papers Relating to Political Economy."
+    },
+    {
+      "id": "p0279",
+      "text": "the time-integral U of values of u discounted for interest, we have in the case of linear demand just discussed,"
+    },
+    {
+      "id": "p0280",
+      "text": "ow { “(e—Bg)dq=aq—48¢\""
+    },
+    {
+      "id": "p0281",
+      "text": "If we were considering the portion of this social benefit which inures to consumers, we should have to subtract the portion pg which they pay to the monopolist, an amount from which he would have to subtract the tax, which benefits the state. But the sum of all these benefits is u, which is affected by the tax only as this affects the rate of production gq."
+    },
+    {
+      "id": "p0282",
+      "text": "If, for simplicity, we measure time in such units that y=1, the rate of production determined earlier in this section becomes"
+    },
+    {
+      "id": "p0283",
+      "text": "q=(1-¢-7)(a—)/28"
+    },
+    {
+      "id": "p0284",
+      "text": "Substituting this in the expression for « and the result in U, we obtain"
+    },
+    {
+      "id": "p0285",
+      "text": "T U= ( ue~* dt"
+    },
+    {
+      "id": "p0286",
+      "text": "=(a—v)[4a(1—e-7 — Te?) —(a—v)(1— 2Te-7 —e-?7)]/88 ."
+    },
+    {
+      "id": "p0287",
+      "text": "We differentiate U and then, to examine the effect of a small tax, put v=o. The results simplify to:"
+    },
+    {
+      "id": "p0288",
+      "text": "OF = — (1 e-7)'0/48"
+    },
+    {
+      "id": "p0289",
+      "text": "aU apa I +1)e-7 —e- 77 Ja2/48 . From the amount initially in the mine, a=(T+e-7—1)/28,"
+    },
+    {
+      "id": "p0290",
+      "text": "we obtain, as on page 166,"
+    },
+    {
+      "id": "p0291",
+      "text": "dT 2Ba dv a%(1—e~7)’ when v=o. Substituting here the preceding value for a we find, after simplification, dU _9U , dU dT a e?+e-T—2—T*"
+    },
+    {
+      "id": "p0292",
+      "text": "dv oo tar dv 4B e? —1"
+    },
+    {
+      "id": "p0293",
+      "text": "The numerator of the last fraction may be expanded in a convergent series of powers of T in which all the terms are positive. Hence dU/dv is negative."
+    },
+    {
+      "id": "p0294",
+      "text": "Thus a small tax on a monopolized resource will diminish its total social value, at least if the demand function is linear. Whether this is true for demand functions in general is an unsolved problem."
+    },
+    {
+      "id": "p0295",
+      "text": "We have here supposed the tax v to be constant, permanent, and fully foreseen. Since an unforeseen tax will have unforeseen results, we can scarcely build up a general theory of such taxes. However, any tax of amount varying with time in a manner definitely fixed upon in advance will have predictable results. In this connection, an interesting problem is to fix upon a schedule of taxation v, which may involve the rate of production g and the cumulated production x, as well as the time, such that, when the monopolist then chooses his schedule of production to maximize his profit, the social value U will be greater than as if any other tax schedule had been adopted. This leads to a problem of Lagrange type in the calculus of variations, one end-point being variable. Putting g=dx/dt and"
+    },
+    {
+      "id": "p0296",
+      "text": "= {fe q, 2, t) dt, u- { \"FC, q; t) dt,"
+    },
+    {
+      "id": "p0297",
+      "text": "the problem is to choose v, subject to the differential relation"
+    },
+    {
+      "id": "p0298",
+      "text": "af , af av_ d (1+42) = ai"
+    },
+    {
+      "id": "p0299",
+      "text": "Ox Ovdx di Ov Og"
+    },
+    {
+      "id": "p0300",
+      "text": "so that U will be a maximum. In general, of course, a still greater value of U would be obtainable, at least in theory, by public ownership and operation."
+    },
+    {
+      "id": "p0301",
+      "text": "14. MINE INCOME AND DEPLETION"
+    },
+    {
+      "id": "p0302",
+      "text": "With income taxes we are not concerned except for the determination of the amount of the income from a mine. The problem of allowance for depletion has been a perplexing one. It has been said that if the value of ore removed from the ground could be claimed as a deduction from income, then a mining company having no income except from the sale of ore could escape payment of income tax entirely. The fallacy of this contention may be examined by considering the value of the mine at time /,"
+    },
+    {
+      "id": "p0303",
+      "text": "T i= { pge-2- Md"
+    },
+    {
+      "id": "p0304",
+      "text": "In this integral » and g have the values corresponding to the time 7, later than /, assigned by whatever production schedule has been adopted, whether this results from competition, from a desire to maximize monopoly profit, or from any other set of conditions. The net income consists of the return from sales of material removed (cost of production and selling having as usual been deducted), minus the decrease in the value of the mine. It therefore equals, per unit of time,"
+    },
+    {
+      "id": "p0305",
+      "text": "pqat+dJ /dt ;"
+    },
+    {
+      "id": "p0306",
+      "text": "and from the expression for J, this is exactly yJ. In other words, any particular production schedule fixes the value of the mine at such a figure that the income at any time, after allowing for depletion, is exactly equal to the interest on the value of the investment at that time."
+    },
+    {
+      "id": "p0307",
+      "text": "But, although the rate of decline in value of a mine seems a logical quantity to define as depletion and to deduct from income, such is not the practice of income-tax administrations, at least in the United States. The value of the property upon acquisition, or on March 1, 1913, a date shortly before the inauguration of the tax, if acquired before that time, is taken as a basis and divided by the number of units of material estimated to have been in the ground at that time. The resulting “unit of depletion,” an amount of money, is multiplied by the number of tons, pounds, or ounces of material removed in a year to give the depletion for that year. The total of depletion allowances must not exceed the original value of the property."
+    },
+    {
+      "id": "p0308",
+      "text": "The differences between the two methods of calculating depletion arise from the uncertainties of valuation and of forecasting price, demand, production, costs, interest rates, and amount of material remaining. If the theoretical method were applied, a year in which the mine failed to operate would still be set down as yielding an income equal to the interest on the investment value. This seems anomalous only because of another defect, from the theoretical standpoint, in income-tax laws: the non-taxation of increase in value of a property until the sale of the property. During a year of idleness, if foreseen, the value of the property is actually increasing, for the idle year has been considered in fixing the value at the beginning of the year."
+    },
+    {
+      "id": "p0309",
+      "text": "An amendment made to the United States federal income-tax law in 1918 provides that the valuation upon which depletion is calculated may under certain circumstances be taken, not as the value of the property when acquired or in 1913, but the higher value which it later took when its mineral content was discovered. This provision has the effect of materially increasing depletion allowances, and so of reducing tax payments. The sudden increase in value when the mineral is discovered might well be regarded as taxable income, but is not so regarded by the law unless the property is immediately sold. The framers of the statute seem indeed, according to its language, to have considered this increase in value a reward for the efforts and risks of prospecting, which would suggest that it is of the nature of income, a reasonable position. However, the object of the amendment is to treat this increment as pre-existing capital value, to be returned to the owner by sale of the mineral. The amendment appears to be inconsistent and quite too generous to the owners particularly affected."
+    },
+    {
+      "id": "p0310",
+      "text": "15. DUOPOLY"
+    },
+    {
+      "id": "p0311",
+      "text": "Intermediate between monopoly and perfect competition, and more closely related than either to the real economic world, is the condition in which there are a few competing sellers. In a former paper™ this situation was discussed for the static case, with special reference to a factor usually ignored, the existence with reference to each seller of groups of buyers who have a special advantage in dealing with him in spite of possible lower prices elsewhere. More than one price in the same market is then possible, and with a sort of quasi-stability which sets a lower limit to prices, as well as the known upper limit of monopoly price."
+    },
+    {
+      "id": "p0312",
+      "text": "For exhaustible resources the corresponding problems of competition among a small number of entrepreneurs may be studied in the first instance by means of the jointly stationary values of the several integrals representing discounted profits. We need not confine ourselves, as we have done for convenience in dealing with monopoly, to a single mine for each competitor. Let there be m competitors, and let the one numbered contro] m; mines, whose production rates and initial contents we shall denote by Gily - + + +» Vimy ANd Gy, . . . -, Gin, Tespectively. The demand functions will be intercorrelated, both among the mines owned by each competitor and between the mines of different concerns. Consequently the m integrals J; representing the discounted profits will involve in their integrands f; all the g,;, as well as some at"
+    },
+    {
+      "id": "p0313",
+      "text": "least of the cumulated productions x= {gy dt. If the i owner wishes to make his profit a maximum, assuming the production rates of the others to have been fixed upon, he will adjust his »; production rates so that"
+    },
+    {
+      "id": "p0314",
+      "text": "af: da ae ms Oxi dt Ogi; Gat, & «++ «900"
+    },
+    {
+      "id": "p0315",
+      "text": "Continuing the analogy with the static case, we are to imagine that the other competitors, hearing of his plans, do likewise, altering their schedules to conform to equations resembling those above. When the i** owner learns of their changed plans, he will in turn readjust. The only possible final equilibrium with a settled schedule of production for each mine will be determined by the solution of the set of differential equations of this type, which are exactly as numerous as the mines, and therefore as the vari-"
+    },
+    {
+      "id": "p0316",
+      "text": "3 Harold Hotelling, “Stability in Competition,” Economic Journal, XLI (March, 1929), 41."
+    },
+    {
+      "id": "p0317",
+      "text": "ables to be determined. All this is a direct generalization of the case of inexhaustible supplies. But we shall show that the solution tends to overstate the production rates and understate the prices of competing mines."
+    },
+    {
+      "id": "p0318",
+      "text": "Doubts in plenty have been cast upon the result in the simpler case, and the reasons which can there be adduced in favor of the solution are even more painfully inadequate when the supplies are of limited amount. The chief difficulty with the problem of a small number of sellers consists in the fact that each, in modifying his conduct in accordance with what he thinks the others are going to do, may or may not take account of the effect upon their prices and policies of his own prospective acts. There is an “equilibrium point,” such that neither of two sellers can, by changing his price, increase his rate of profit while the other’s price remains unchanged. However, if one seller increases his price moderately, thus making some immediate sacrifice, the other will find his most profitable course to lie in increasing his own price; and then, if the original increase is not too great, both will obtain higher: profits than at “equilibrium.” But that the tendency to cut prices below the equilibrium is less important than has been supposed is shown in the article just referred to."
+    },
+    {
+      "id": "p0319",
+      "text": "With an exhaustible supply, and therefore with less to lose by a temporary reduction in sales, a seller will be particularly inclined to experiment by raising his price above the theoretical level in the hope that his competitors will also increase their prices. For the loss of business incurred while waiting for them to do so he can in this case take comfort, not merely in the prospect of approximating his old sales at the higher price in the near future but also in the fact that he is conserving his supplies for a time when general exhaustion will be nearer and even the theoretical price will be higher. Thus a general condition may be expected of higher prices and lower rates of production than are given by the solution of the simultaneous characteristic equations."
+    },
+    {
+      "id": "p0320",
+      "text": "For complementary products, such as iron and coal, the situation is in some ways reversed. Edgeworth in his Papers Relating to Political Economy points out that when two complementary goods are separately monopolized the consumer is worse off than if both were under the control of the same monopolist. This assumes the equilibrium solution to hold. The tentative deviations from equilibrium made in order to influence the other party may now be in either direction, according as the nature of the demand function and other conditions make it more profitable to move toward the lower prices and larger sales characterizing the maximum joint profit, or to raise one’s price in an effort to force one’s rival to lower his in order to maintain sales. When the supplies of the complementary goods are exhaustible, the same indeterminateness exists."
+    },
+    {
+      "id": "p0321",
+      "text": "A very different problem of duopoly involving the calculus of variations has been studied by C. F. Roos,“ who finds\" that the respective profits take true maximum values. However, as in the static case, no definitively stable equilibrium is insured by the fact that each profit is a maximum when the other is considered fixed, since the acts of one competitor affect those of the other. The calculus of variations is used by Roos and G. C. Evans\" to deal with cost and demand functions involving the rate of change of price as well as the price. Such functions we have for concreteness and simplicity avoided, but if they should prove to be of importance in mine economics the foregoing treatment can readily be extended to them. (Cf. § 12.) Evans and Roos are not concerned with exhaustible assets, and assume that at any time all competitors sell at the same price."
+    },
+    {
+      "id": "p0322",
+      "text": "The problems of exhaustible resources involve the time in another way besides bringing on exhaustion and higher prices, namely, as bringing increased information, both as to the physical extent and condition of the resource and as to the economic phenomena attending its extraction and sale. In the most elementary discussions of exchange, as in bartering nuts for apples, as well as in discussions of duopoly, a time element is always introduced to show a gradual approach to equilibrium or a breaking"
+    },
+    {
+      "id": "p0323",
+      "text": "™ “A Mathematical Theory of Competition,” American Journal of Mathematics, XLVII (1925), 163."
+    },
+    {
+      "id": "p0324",
+      "text": "*s “Generalized Lagrange Problems in the Calculus of Variations,”’ Transactions of the American Mathematical Society, XXX (1927), 360."
+    },
+    {
+      "id": "p0325",
+      "text": "© 4 Mathematical Introduction to Economics (McGraw-Hill, 1930)."
+    },
+    {
+      "id": "p0326",
+      "text": "away from it. Such time effects are equally or in even greater measure involved in exploiting irreplaceable assets, entangling with the secular tendencies peculiar to this class of goods. With duopoly in the sale of exhaustible resources the possibilities of bargaining, bluff, and bluster become remarkably intricate."
+    },
+    {
+      "id": "p0327",
+      "text": "The periodic price wars which break the monotony of gasoline prices on the American Pacific Coast are an interesting phenomenon. Along most of the fifteen-hundred-mile strip west of the summits of the Sierras a few large companies dominate the oil business. In the southern California oil fields, however, numerous small concerns sell gasoline at cut prices. Cheap gasoline is for the most part not distilled from oil but is filtered from natural gas, and may be of slightly inferior quality; nevertheless, it is an acceptable motor fuel. The extreme mobility of purchasers of gasoline reduces to a minimum the element of gradualness in the shift of demand from seller to seller with change of price. Ordinarily, the price outside of southern California is held steady by agreement among the five or six major companies, being fixed in each of several large areas according to distance from the oil fields. But every year or two a price war occurs, in which prices go down day by day to extremely low levels, sometimes almost to the point of giving away gasoline, and certainly below the cost of distribution. From a normal price of 20 to 23 cents a gallon the price sometimes drops to 6 or 7 cents, including the tax of 3 cents. Peace is made and the old high price restored after a few weeks of universal joy-riding and storage in every available container, even in bath tubs. The interesting thing is the slowness of the spread of these contests, which usually begin in southern California. The companies fight each other violently there, and a few weeks later in northern California, while in some cases maintaining full prices in Oregon’ and Washington. These affrays give an example of the instability of competition when variations of price with location as well as time complicate commerce in an exhaustible asset."
+    },
+    {
+      "id": "p0328",
+      "text": "HAROLD HOTELLING"
+    },
+    {
+      "id": "p0329",
+      "text": "STANFORD UNIVERSITY"
+    }
+  ],
+  "anchors": {
+    "economics-modern-hotelling-scarcity-rent": {
+      "paragraphId": "p0015",
+      "start": 0,
+      "end": 93,
+      "quote": "The formula p = p₀e^{γt} fixes the relative prices at different times under free competition.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,1190 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-actual-content-of-quantum-theoretical-kinema-whole-work-f59ee806",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《量子理论运动学与力学的实际内容》",
+  "englishWork": "The Actual Content of Quantum Theoretical Kinematics and Mechanics",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "NASA TM-77379（1983年12月）英译，第1节，印刷页5（PDF第7页），位置—动量段完整连续句；NASA 技术报告记录标注“Work of the US Gov. Public Use Permitted”",
+  "englishVersion": "NASA TM-77379 translation (December 1983), §1, print p. 5 (PDF p. 7), complete continuous sentence in the position–momentum passage; the NASA record states “Work of the US Gov. Public Use Permitted”",
+  "sourceUrl": "https://ntrs.nasa.gov/citations/19840008978",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "4e9230c331fde4ac833502ece6012a083284eb248f39b323f05e229501de7e3e"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "11bdee081ebfe4514536c412ae2e8a0cfdbf8b120842c2227b24115034eb4c24",
+  "inputHash": "db671e09cf9d95cf3b40621e210041f189ac2b45110f4077adeaa1d75e84e376",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "NAS_ TECHNICAL MEMORANDUM NASA TM-77379 %"
+    },
+    {
+      "id": "p0002",
+      "text": "i"
+    },
+    {
+      "id": "p0003",
+      "text": ",L THE ACTUAL CONTENT OF QUANTUM i , _, THEORETICAL KINEMATICS AND MECHANICS ,"
+    },
+    {
+      "id": "p0004",
+      "text": "d"
+    },
+    {
+      "id": "p0005",
+      "text": "t\" ,"
+    },
+    {
+      "id": "p0006",
+      "text": "W ? l"
+    },
+    {
+      "id": "p0007",
+      "text": "-I , 1"
+    },
+    {
+      "id": "p0008",
+      "text": ":"
+    },
+    {
+      "id": "p0009",
+      "text": "Translation of \"Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik\", Zeit- \" schrift fur Physik, v. 43, no. 3-4, pp. 172-198, 1927."
+    },
+    {
+      "id": "p0010",
+      "text": "!--i . (lIISk-TB-773791 Tile ICTaAL COIJTEIJT OF QU&IITUB THEOiigTZCaL KZlfEH&TICS &lid BKCiikJZCS !18_- 170 _6"
+    },
+    {
+      "id": "p0011",
+      "text": "(18ational aeronautics and Space &dminist_ation) 35 p iIC &O3/_F &OI CSCL 126 63/77 Uncla8 18109"
+    },
+    {
+      "id": "p0012",
+      "text": "• s"
+    },
+    {
+      "id": "p0013",
+      "text": "L"
+    },
+    {
+      "id": "p0014",
+      "text": "J"
+    },
+    {
+      "id": "p0015",
+      "text": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION .. WASHINGTON D.C, 20546 DECEMBER 1983"
+    },
+    {
+      "id": "p0016",
+      "text": "i"
+    },
+    {
+      "id": "p0017",
+      "text": "o ,, , m _1 i I I II I • I II"
+    },
+    {
+      "id": "p0018",
+      "text": "First, exact definitions are supplied in this paper for : the terms: position, velocity, energy, etc. (of the electron, for instance), such that they are valid also in quantum mech- anics; then we shall show that canonically conjugated variables \" can be determined simultaneously only with a characteristic uncertainty. This uncertainty is the intrinsic reason for the occurrence of statistic_l relations in quantum mechanics. Their mathematical formulation is made possible by the Dirac-Jordan theory. Beginning from the basic principles thus obtained, we shall show how macroscopic processes can be understood from.the viewpoint of quantum mechanics. Several imaginary experiments are discussed to elucidate the theory."
+    },
+    {
+      "id": "p0019",
+      "text": "I i."
+    },
+    {
+      "id": "p0020",
+      "text": "_classlJ_l_ _mdUnllmited a. _,,_ _,_ioi_i_i_ u. I,,,,_.,_kRRI, l"
+    },
+    {
+      "id": "p0021",
+      "text": "III II_ ..... Ul"
+    },
+    {
+      "id": "p0022",
+      "text": "i W\""
+    },
+    {
+      "id": "p0023",
+      "text": "THE ACTUAL CONTENT OF QUANTUrl THEORETICAL KINEMATICS AND 1172\" ! \"I MECHANICS"
+    },
+    {
+      "id": "p0024",
+      "text": "By W Heisenberg, Institute for Theoretical Physics of the '• _ University, Copenhagen, Denmark"
+    },
+    {
+      "id": "p0025",
+      "text": "'[ I"
+    },
+    {
+      "id": "p0026",
+      "text": "_ i SUMMARY First, plied in this exact paper for definitions the terms: are sup- position, i _ velocity, energy, etc. (of the electron, for ! instance), such that they are valid also in : _ quantum mechanics; then we shall show that =! canonically conjugated variables can be de- •_ term,ned simultaneously only with a charac- _ teristic uncertainty _§I]. This uncertainty , :_\" is the intrinsic reason for the occurrence of statistical relations in quantum mechan- ics. Their mathematical formulation is made _ possible by the Dirac-Jordan theory (§2). Be- _ ginning from the basic principles thus oh- \" rained, we shall show how macroscopic pro- 1-* cesses can be understood from the viewpoint |:"
+    },
+    {
+      "id": "p0027",
+      "text": "_ of quantum mechanics experiments (§3). Several imaginary are discussed to elucidate the F theory (§4)."
+    },
+    {
+      "id": "p0028",
+      "text": "_ We believe to understand a theory intuitively, if in all sim- °_ ple cases we can qualitatively imagine the theory's experi- .i"
+    },
+    {
+      "id": "p0029",
+      "text": "mental consequences and if we have simultaneously realized ._I J that the application of the theory excludes internal contra- dictions• For instance: we believe to understand Einstein's"
+    },
+    {
+      "id": "p0030",
+      "text": "4l concept of a finite three-dimensional space intuitively, be- , cause we can imagine the experimental consequences of this concept without contradictions. Of course, these consequences I contradict our customary intuitive space-tlme beliefs. But we ["
+    },
+    {
+      "id": "p0031",
+      "text": "customary view of space and time can not be deduced either _ ' can from convince our laws ourselves that orthefrom of thinking, possibility experience.of applying this The intuitive I\"\" , i"
+    },
+    {
+      "id": "p0032",
+      "text": "• Numbers in the margin indicate foreign pagination"
+    },
+    {
+      "id": "p0033",
+      "text": "I I , ORIGINAL PAGE Ig OF POOR QUALITY"
+    },
+    {
+      "id": "p0034",
+      "text": "interpretation of quantum mechanics is still full of internal I contradictions, which become apparent in the battle of opin- _ ions on the theory of continuums and discontinuums, corpuscles and waves. This alone tempts us to believe that an interpre- tation of quantum mechanics is not going to be possible in the • customary terms of kinematic and mechanical concepts. Quantum ' theory, after, derives from the attempt to break with those customary concepts of kinematics and replace them with rela- tions between concrete, experimentally derived values. Since this appears to have succeeded, the mathematical structure of quantum mechanics won't require revision, on the other hand. By the same token, a revision of the space-time geometry for r small spaces and times will also not be necessary, since by a _ choice of arbitrarily heavy masses the laws of quantum mechan- k ics can be made to approach the classic laws as closely as 117___3 desired, no matter how small the spaces and times. The fact ,i that a revision of the kinematic and mechanic concepts is re- ' quired seems to follow immediately from the basic equations of quantum mechanics. Given a mass _, it is readily understand- able, in our customary understanding, to speak of the position and of the velocity of the center of gravity of that mass m. h But in quantum mechanics, a relation Pq--qP:'f_-_i exists between mass, position and velocity. We thus have good reasons to suspect the uncritical application of the terms \"position\" and \"velocity\". If we admit that for very small spaces and times discontinuities are somehow typical, then the failure of the concepts precisely of \"position\" and \"velocity\" become immediately plausible: if, for instance, we imagine the uni-"
+    },
+    {
+      "id": "p0035",
+      "text": "it_ _1. ..q.z"
+    },
+    {
+      "id": "p0036",
+      "text": "dimensional motion of a mass point, then in a continuum theory"
+    },
+    {
+      "id": "p0037",
+      "text": "2 J"
+    },
+    {
+      "id": "p0038",
+      "text": "it will be possible to trace the trajectory curve x(t) for the particle's trajectory (or rather, that of its center of mass) (see Fig. I, above), with the tangent to the curve in- dicating the velocity, in each _ase. In a discontinuum theo- ! ry, in contrast, instead of the curve we shall have a series :_ of points at finite distances (s_e Gig. 2, above). In this"
+    },
+    {
+      "id": "p0039",
+      "text": "case it is obviously pointless to talk of the velocity at a i certain position, since the velocity can be defined only by ' means of two positions and consequently and inversely, two"
+    },
+    {
+      "id": "p0040",
+      "text": ": different velocities corresponded to each point. 1"
+    },
+    {
+      "id": "p0041",
+      "text": "The question thus arises whether it might not be possible, by I i means of\" a more precise analysis of those kinematic and me- ._ chanical concepts, to clear up the contradictions currently i to thus achieve an intuitive understanding of the relations of existing in an intuitive interpretation of quantum mechanics,"
+    },
+    {
+      "id": "p0042",
+      "text": "quantum mechanics.*"
+    },
+    {
+      "id": "p0043",
+      "text": "§ I The concepts: position, path, velocity, energy /17--4"
+    },
+    {
+      "id": "p0044",
+      "text": "In order to be able to follow the quantum-mechanical behavior of any object, it is necessary to know the object's mass and and the interactive forces with any fields or other objects."
+    },
+    {
+      "id": "p0045",
+      "text": "Only then is it possible to set up the hamiiconian function for the quantum-mechanical system. [The considerations below"
+    },
+    {
+      "id": "p0046",
+      "text": "* This paper was written as a consequence of the efforts and wishes expressed clearly by other scientists, much earlier, be- fore quantum mechanics was developed. I particularly remember Bohr's papers on the basic tenets of quantum theory (for instance, Z.f.Physlk 13, 117 (1923)) and Einstein's discus- sions on the relation--Setween wave fields and light quanta. In more recent times, the problems here mentioned were dis- cussed most clearly by W. Pauli, who also answered some of the questions that arise (\"Ouantentheorle\", Handbuch d.Phys. [\"Quantum theory\", Handbook of Physics] Vol. XXIII, subse- quently cited as l.c.). Quantum mechanics has changed little in the formulation Pauli gave to these problems. It is also a special pleasure for me here to thank Mr. W. Paull for the stimulation I derived from our oral and written discussions, which have substantially contributed to this paper."
+    },
+    {
+      "id": "p0047",
+      "text": "3"
+    },
+    {
+      "id": "p0048",
+      "text": "i -._lh_ \" II l II I III ., ,.,,m,,, shall in general refer to non-relativistic quantum mechanics, since the laws of quantum-theory electrodynamics are not com- pletely known yet.* No further statements regarding the ob- ._ Ject's \"gestalt\" are necessary: the totality of those inter- _'_ active forces is best designated by the term \"gestalt\"."
+    },
+    {
+      "id": "p0049",
+      "text": "°, If we want to clearly understand what is meant by the word _ \"position of the object\" - for instance, an electron - (rela- tive co a given reference system}, th_n we must indicate the i definite experiments by means of which we intend to determine _ the \"position of the electron \" Otherwise the word is meaning- ?"
+    },
+    {
+      "id": "p0050",
+      "text": "! ! less In principle, there is no shortage of experiments that 1"
+    },
+    {
+      "id": "p0051",
+      "text": "permit a determination of the \"position of the electron\" to t any desired precision, even. For instance: illuminate the e-"
+    },
+    {
+      "id": "p0052",
+      "text": "lectron and look at it under the microscope. The highest pre- cision attainable here in the determination of the position is substantially determined by the wavelength of the light used. But let us build in principle, a r-ray microscope and by means s"
+    },
+    {
+      "id": "p0053",
+      "text": "\" of it determine the position as precisely as desired. But in"
+    },
+    {
+      "id": "p0054",
+      "text": "I this determination a secondary circumstance becomes essential:"
+    },
+    {
+      "id": "p0055",
+      "text": "] the Compton effect. Any observation of the scattered light I coming from the electron (into the eye, onto a photographic t i plate, into a photocell} presupposes a photoelectric effect,"
+    },
+    {
+      "id": "p0056",
+      "text": "i that is, it can also be interpreted as a light quantum strik- I ing the electron, there being ref]ectedordiffracted to then ) I"
+    },
+    {
+      "id": "p0057",
+      "text": "I - deflected once again by the microscope's lense - finally /17__55 I triggering the photoelectric effect. At the instant of the determination of its position - i.e., the instant at which the light quantum is diffracted by the electron - the electron discontinuously changes its impulse. That change will be more pronounced, the smaller the wavelength of the light used, i.e. the more precise the position determination is to be. In the f iii J u • i,"
+    },
+    {
+      "id": "p0058",
+      "text": "i * However, significant progress was made very recently through ! the work of P. Vlrac [Proc. Roy. Soc. (A), 114, 243 (1927) ' and subsequent studies.] I"
+    },
+    {
+      "id": "p0059",
+      "text": "4"
+    },
+    {
+      "id": "p0060",
+      "text": "F ........... ,- _ ORIGINAL PAGE |g i ' OF POOR qUALITY"
+    },
+    {
+      "id": "p0061",
+      "text": ".i instant at which the electron's position is known, therefore, ; its impulse can become known only to the order of magnitude corresponding to that discontinuous change. That is, the more precisely the position is determined, the more imprecisely will the impulse be known, and vice-versa. This provides us with a direct, intuitive clarification of the relation _ h . Let q be the precision to which the value _\" Pq --qP--__i I of _ is known (ql is approximately the average error of _), or here, the wavelength of the light; Pl is the precision to i which the value of _ can be determined, or in this case, the iF discontinuous change in _ during the Compton effect. Accord- ing to the basic equations of the Compton effect, the rela-"
+    },
+    {
+      "id": "p0062",
+      "text": "tion between Pl and ql is then"
+    },
+    {
+      "id": "p0063",
+      "text": "P,_l _ _'. , (l)"
+    },
+    {
+      "id": "p0064",
+      "text": "That relation (I) above stands in a direct mathematical con- h nection with the commutation relation Pq--qP--_;i shall be shown below. Here we shall point out that equation (I) is the precise expression for the fact that we once sought to describe by dividing the phase space into cells of size h."
+    },
+    {
+      "id": "p0065",
+      "text": "Other experiments can also be performed to determine the e- lectron's position, such as impact tests. A very precise de- termination of the position requires impacts with very fast particles, since for slow electrons the diffraction phenomena - which according to Einstein are a consequence of the de Broglle waves (see for instance the Ramsay effect) - preclude a precise determination of the position. Thus, once again for a precise position measurement the electron's impulse changes disontlnuously and a simple estimate of the precision with the equations of the de Broglie waves once again leads to e- quation (1)."
+    },
+    {
+      "id": "p0066",
+      "text": "This discussion seems to define the concept \"position of the electron\" clearly enough and we only need to add a word about"
+    },
+    {
+      "id": "p0067",
+      "text": "5 the \"size\" of the electron. If two very fast particles strike the electron sequentially in the very brief time interval At, then the two positions of the electron defined by these two particles lie very close together, separated by a distance AI. From the laws observed for m-particles we conclude that AI can be reduced to a magnitude of the order of 10-12 cm, provided At is sufficiently small and the particles selected are suf- /17--6 ficiently fast. That is the meaning, when we say that the e- lectron is a particle whose radius is not greater than 10-12 cm."
+    },
+    {
+      "id": "p0068",
+      "text": "Let us move on to the concept of the \"path of the electron.\" By path or trajectory we mean a series of points in space (in a given reference system) that the electron adopts as sucessive \"positions.\" Since we already know what \"position at a certain time\" means, there &re no new difficulties, here. It is still readily understood that the often used expression, for instance, \"the I-S orbit of the electron in the hydrogen atom\" makes no sense, from out point of view. Because in order to measure this IS orbit, we would have to illuminate the atom with light such that its wavelength is considerably shorter than 10-8 cm. But one light quantum of this kind of light would be sufficient to completely throw the electron out of its \"orbit\" (for which reason never more than a single point of this \"path\" could be defined, in space) and hence the word \"path\" is not very sen- sible or meaningful, here. This can be easily derived from the experimental possibilities, even without any knowledge of the new theories."
+    },
+    {
+      "id": "p0069",
+      "text": "In contrast, the imaginary position measurements can be per- formed for many atoms in a IS state. (Atoms in a given \"station- ary\" state, for instance, can in principle be isolated by the Stern-Gerlach experiment.) Thus, for a given state, for ins- tance 1S, of an atom, a probability function must exist for the electron's positions, such that it corresponds, on the average, to the classical trajectory over all phases, and that can be established by measurements to any desired pre_ision. Accord-"
+    },
+    {
+      "id": "p0070",
+      "text": "ing to Born* this function is given by _is(q)$1s(q) , if $is(q) is the Schroedinger wave function corresponding to the state IS. I want to Join Dirac* and Jordan*, in view of sub-"
+    },
+    {
+      "id": "p0071",
+      "text": "sequent generalizations, in saying: the probability is given /177 by S(IS,q)_(IS,q), where S(IS,q) is that column of the trans- formation matrix S(E,q) from E to _, which corresponds to E = EIS (E = energies)."
+    },
+    {
+      "id": "p0072",
+      "text": "In the fact that in quantum theory for a given state - for instance IS - only the probability function for the electron position can be given, we may see a characteristic statistical feature of quantum theory, as do Born and Jordan, quite in contrast to the classical theory. On the other hand, if we want to we can say with Dirac that the statistics came in via our experiments. Because also in classical theory only the probability of a certain electron position could be given, if and as long as we do not know the atom's phases. Rather, the difference between classical aud quantum mechanics consists in this: classically, we can always assume the phases to have been determined in a previous experiment. But in reality this is impossible, because every experiment to determine the phase would either destroy or modify the atom. In a definite station- ary \"state\" of the atom, the phases are indetermined in"
+    },
+    {
+      "id": "p0073",
+      "text": "* The statistical meaning of the de Broglie waves was first formulated by A. Einstein [Sitzungsber.d.preuss.Akad.d. Wiss. 1925, p.3). This statistical element then plays a slgnifT_t role for M. Born, W. Helsenberg and P. Jordan, \"Ouantum mechanics II.\" [Z.f.Phys. 35, 557 (1926)], espe- cially chapter 4, §3, and P. Jordan-_Z.f.Phys. 37, 376 (1926)]; it is analyzed mathematically in a fun_-amental paper by M. Born [Z.f.Phys. 38, 803 (1926)] and used for the interpretation of the coIIislon phenomena. The founda- tion for using the probability theorem from the transforma- tion theory for matrices can be found in: W. Helsenberg [Z. f. Phys. 40, 501 (1926)], P. Jordan [ibid. 40, 661 (1926)], W. Paull-TAnm. in Z.f.Phys. 41, 81 (1927)]_-P. Virac [Proc. Roy.Soc.(A) 113, 621 (1926)], P. Jordan [Z.f.Phys. 40, 809 (1926)]. The_atistical side of quantum mechanics i_ gen- eral is discussed by P. Jordan (Naturwiss. 15, 105 (1927)] and M. Born [Naturwlss. 15, 238 (1927)]. a@ i ORIGINAL PAGE [8 OF POOR QUALITY"
+    },
+    {
+      "id": "p0074",
+      "text": "principle, which we may consider a direct clarification of the _' known equations"
+    },
+    {
+      "id": "p0075",
+      "text": "El-- fE = _ h =D or 3w- w3= _=-;"
+    },
+    {
+      "id": "p0076",
+      "text": "(] : action variable, w: angular variable). t ! The word \"velocity\" of an object is easily defined by measure- merit, if it is a force-free motion. For instance, the object can be illuminated with red light and then the particle's ve- locity can be determined by the Doppler effect of the scatter- ed light. The determination of the velocity will be the more precise, the longer the wavelength of the light used is, since then the particle's velocity change per light quantum due to Compton effect will be the smaller. The position determination becomes correspondingly uncertain, as required by equation(1). If the velocity of the electron in an atom is to be measured at a certain instant, we should have to make the nuclear charge and the forct:s due to the other electrons disappear, at that instant, so that the motion may proceed force free, after that instant, to then perform the determination described above. As was the case earlier, we once again can convince ourselves that a function p(t) for a certain state of the atom - say, IS - can not be defined. In contrast, there again will be a function for 117--8 the probability of _ I_ this state, which according to Dlrac and Jordan will have the value S(1S,p)_(1S,p). Again, S(1S,p) means the column of the transformation matrix S(E,p) of E Int_ pthat corresponds to E = EIS."
+    },
+    {
+      "id": "p0077",
+      "text": "Finally, let us point out the experiments that allow the meas- urement of the energy or the value of the action variables J. Such experiment_ are particularly important since only with their aid will we be able to define what we mean, when we talk about the discontinuous change of the energy or or J. The"
+    },
+    {
+      "id": "p0078",
+      "text": "8 Franck-Hertz collision experiments permit the tracing back of the energ_ measurements on atoms to the energy measurements of electrons moving in a straight line, because of the validity of the energy theorem in the quantum theory. In principle, this measurement can be made as precise as desired, if only"
+    },
+    {
+      "id": "p0079",
+      "text": "t we forego the simultaneous determination of the electron posi- J tion, i.e., of the phase (see above, the determination of _), : k corresponding to the relation £t--tE----_-z3 • The Stern- Gerlach experiment permits the determination of the magnetic or an average electric moment of the atom, i.e., the measure- ment of magnitudes that depend only the action variables J. The phases remain undetermined in principle. If it is not sensible to talk of the frequency of a light wave at a given instant, it is not possible either to speak of the energy of an atom at a particular instant. In the Stern-Gerlach experiment this cor- responds to the situation that the precision of the energy measurement will be the smaller, the shorter the time interval during which the atom is under the influence of the deflecting forcem. Because an upper limit for the deflecting force is given by the fact that the potential energy of that deflecting force inside the beam of rays can vary only by quantities that are considerably smaller than the energy differences of the Q"
+    },
+    {
+      "id": "p0080",
+      "text": "stationary states, if a determination of the stationary states'"
+    },
+    {
+      "id": "p0081",
+      "text": "energy is to be possible. If E I is the quantity of energy that satisfies that condition (E I at the same time is a measure of the precision of that energy measurement), then E1/d is the maximum value for the deflecting force, if d is the width of the ray beam (measurable by means of the width of the slit"
+    },
+    {
+      "id": "p0082",
+      "text": "used. The angular deflection of the atom beam Is then £1tl/dP, where t I is the period of time during which the atoms are under. the effect of the deflecting force, _ the impulse of the atoms /179 in the direction of the beam. This deflection must be at least"
+    },
+    {
+      "id": "p0083",
+      "text": "of the same order of magnitude as the naturaZ beam broadening caused by diffraction in the slit, in order for a measurement"
+    },
+    {
+      "id": "p0084",
+      "text": "u Cf. also W. Pault, 1.c.p.61"
+    },
+    {
+      "id": "p0085",
+      "text": "9 . OF POOR QOALFrV"
+    },
+    {
+      "id": "p0086",
+      "text": "to be possible. The angular deflection due to diffraction is approximately _/d, where R is the de Broglie wavelength, i.e.,"
+    },
+    {
+      "id": "p0087",
+      "text": "a _ dp cr since _--_. _ ., ; _t, _ h. (_)"
+    },
+    {
+      "id": "p0088",
+      "text": "\"_ This equation corresponds to equation (1) and it shows that a t': precise energy determination can be attained only through a corresponding uncertainty in the time."
+    },
+    {
+      "id": "p0089",
+      "text": "§ 2 The Dirac-Jordan theory"
+    },
+    {
+      "id": "p0090",
+      "text": "i We would like to summarize the results of the previous section and generalize them in tLis statement: All concepts used in classical theory to describe a mechanical system can also be defined exactly for atomic processes, in analogy to the classic concepts. But purely from experimentation, the experiments that"
+    },
+    {
+      "id": "p0091",
+      "text": "! serve for such definitions carry an inherent uncertainty, if we expect from them the simultaneous determination of two canoni- cally conjugated variables. The degree of this uncertainty is given by equation (I), widened to include any canonically con- jugated varlab]es. It is reasonable to _ere compare the quantum theory wlth the special theory of relativity. According to the theory of relativity, the term \"slmultaneous _'can only be de- fined by experiments in which the propagation veloclty of light plays an essential role. if there were a \"sharper\" definition of simultaneity - for instance, signals that propasate infl- nltely rapidly - then the theory of relativlty would be Impos- slble. But since such signals do not exist - because the velo- city of light already appears in the definltlon of simultane- ity - room is available for the postulate of a constant velo- city of light and therefore th_a Fostulate is not contradicted by the appropriate use of the terms, \"position, veloclty, time *. The situation Is similar in regard to the _efinttlon of the"
+    },
+    {
+      "id": "p0092",
+      "text": "10 ORIGINAL PAGE_ ' OF POOR QUALITY"
+    },
+    {
+      "id": "p0093",
+      "text": "concepts \"electron position and velocity\", in quantum theory. All the experiments we could use to define these terms neces- sarily contain the uncertainty expressed by equation (I), even though they permit an exact definition of the individual con- cepts £ and _. If experiments existed that allowed a \"more precise\" definition of _ and _ than that corresponding to e- quation (I), then the quantum theory would be impossible. This /IBO i @ uncertainty - which is fixed by equation (I) - now provides the space for the relations that find thel; terse expression in the commutation relations of quantum mechanics, k Pv--qP --'- 2xi \""
+    },
+    {
+      "id": "p0094",
+      "text": "This equation becomes possible without having to change the"
+    },
+    {
+      "id": "p0095",
+      "text": "physical meaning of the variables E and _. I t"
+    },
+    {
+      "id": "p0096",
+      "text": "For those physical phenomena for which a quantum theory formu- lation is still unknown (for instance, electrodynamics), equa- t tion (1) represents a demand that may be helpful in finding the new laws. For quantum mechanics, equation (1) can be derived from the Dirac-Jordan formulation, by means of a minor general- ization. If for a certain value n of an arbitrary parameter we can determine the position _ of the electron at q' with a pre- cision ql' then we can express this fact by means of a proba- bility am_lltude $(n,q) that wlll be noticeably different from zero only in an area of approximate dimension ql around q'. We c_n thus say, more specifically"
+    },
+    {
+      "id": "p0097",
+      "text": "i.e., We thus have for the probability amplitude correspondtn8 to p:"
+    },
+    {
+      "id": "p0098",
+      "text": "s($_) : _s($ e)s_.t)de. (4)"
+    },
+    {
+      "id": "p0099",
+      "text": "Zn asreement wlth Jordan, we can say for :S(q,p) :hat"
+    },
+    {
+      "id": "p0100",
+      "text": ",(,,.)="
+    },
+    {
+      "id": "p0101",
+      "text": "1'1 J , ORIG,,._ = Pj • OF POGR 4UALITY"
+    },
+    {
+      "id": "p0102",
+      "text": "ferent from zero only for values of p for which 2_(p-p')ql/h is not substantially larger than I. More especially, in the ii In that case, according to (4), S(q,p) will be noticeably dif- case of (3) we shall have:"
+    },
+    {
+      "id": "p0103",
+      "text": "S(_. j,) prop J e _ 'v,' ,tq, I ,_ i.e.,"
+    },
+    {
+      "id": "p0104",
+      "text": "S{_,p)prop¢ =l,= _ +h-¢'_-I\"_ that is S_prope pt*"
+    },
+    {
+      "id": "p0105",
+      "text": "_! where"
+    },
+    {
+      "id": "p0106",
+      "text": "\" _iqt --\" .... (6) 4"
+    },
+    {
+      "id": "p0107",
+      "text": "/181 t - Thus, assumption (3) for S(n,q) corresponds to the experiment-"
+    },
+    {
+      "id": "p0108",
+      "text": "al fact that the value p' of _ and the value q' of _ were mess- _ ured [with the precision restriction (6)]. _ ! !"
+    },
+    {
+      "id": "p0109",
+      "text": "t The purely mathematical characteristic of the Dirac-Jordan formulation of quantum mechanics is that the relations between ._i ; p,¢,E , etc., can be written as equations between very gen- eral matrices, such that any variable indicated by quantum theory appears as the diagonal matrix. The feasibility of such a notation seem reasonable if we visualize the matrices as tensors (for instance, moments of inertia) in multidimensional spaces, among which mathematical relations exist. The axes of the coordinate system in which these mathematical relations are expressed can always be placed along the main axis of one of these tensors. It is after all always possible to character- ize the mathematical relation between two tensors A and B by means of transformation formulae that will convert a system of coordinates oriented along the main axis of A, into one ori .... ented along the main axis of B. The latter formulation cortes- '\" ponds to $chroedinger's theory. In contrast, Dirac's notation of the q-numbers must be considered the truly \"Invarlant\""
+    },
+    {
+      "id": "p0110",
+      "text": "12 ! '_ formulation of quantum mechanics, independent of all coordi- nate systems. If we wanted to derive physical results from"
+    },
+    {
+      "id": "p0111",
+      "text": "that mathematical model, then we must assign numerical values i ! to the quantum mechanics variables, i.e., the matrices (or l \"tensors\" in multidimensional space). This is to be understood I as meaning that in that multidimensional rection kind is arbitrarily of experiment space a certain di- chosen performed), (that and is, then established the \"value\" by the of the I matrix is asked for (for instance, the value of the moment of inertia, in that picturel, in the direction chosen. This ques- tion has unequivocal meaning only if the direction chosen co- incides with one of the matrix' main axes: in that case there will be an exact answer to the question. If the direction chosen deviates but little from one of the matrix' main direc-"
+    },
+    {
+      "id": "p0112",
+      "text": "tions, we can still talk with a certain imprecision, given by the relative inclination, with a certain probable error, of the \"value\" of the matrix in the direction chosen. We can thus state: it is possible to assign a number to every quantum theory variable, or matrix, which provides its \"value\", with a certain probable error. The probable error depends on the sys- tem of coordinates. For each quantum mechanics variable there /182 exists one system of coordinates for which the probable error vanishes, for that variable. Thus, a given experiment can never provide precise information on all quantum mechanics variables: rather, it divides the physical variables into \"known\" and \"unknown\" {or: more or less precisely known vari- ables), in a manner characteristic for that experiment. The results of two experiments can be derived precisely from each other only when the two experiments divide the physical vari- ables in the same manner into \"known\" and \"unknown\" (i.e., if the tensors in that multidimensional space already used for visualization are \"viewed\" from the same direction, in both experiments.) If two experiments cause two different distribu- tions into \"known\" and \"unknown\" variables, then the relation of the results of those experiments can be given appropriately only statistically."
+    },
+    {
+      "id": "p0113",
+      "text": "13 ' ORiGiNAL _A_ _ OF POOR QUALITY"
+    },
+    {
+      "id": "p0114",
+      "text": "Let us perform an imaginary experiment, to more precisely dis- cuss these statistical relations We shall start by sending a"
+    },
+    {
+      "id": "p0115",
+      "text": "t Stern-Gerlach beam of atoms through a field F I that is so in- _ homogeneous in the beam direction, that it causes noticeably numerous transitions due to a \"shaking effect\". The atom beam"
+    },
+    {
+      "id": "p0116",
+      "text": "._ is then allowed to run unimpeded, but then a second field shall begin, F2, as inhomogeneous as F I. We shall assume that it is possible to measure the number of atoms in the different sta-"
+    },
+    {
+      "id": "p0117",
+      "text": "tionary states, between F I and F2 and also beyond F2, by means of an eventually applied magnetic field. Let us assume the atoms' radiative forces to be zero. If we know that an atom was i!"
+    },
+    {
+      "id": "p0118",
+      "text": "in the energy state En before passing through F I, then we can express this experimental fact by assigning a wave function to"
+    },
+    {
+      "id": "p0119",
+      "text": "the atom - for instance, in p-space - with a certain energy Ep and the indetermined phase Sn"
+    },
+    {
+      "id": "p0120",
+      "text": "After passing through field FI, the function will have become*"
+    },
+    {
+      "id": "p0121",
+      "text": "_. ' _ _:,_(. __) S(E., _)--,. _]c.,. _(E.,, _)¢ h _.7) Jl"
+    },
+    {
+      "id": "p0122",
+      "text": "Let us assume that here the 8m are arbitrarily fixed, such /183 that the Cnm is unequivocally determined by F]. The matrix Cnm transforms the energy value before passing through F I to that after passing through F]. If behind F] we perform a de- termination of the stationary states - for instance, by means of an inhomogeneous magnetic field - then we shall find, with"
+    },
+    {
+      "id": "p0123",
+      "text": "a probability of Cnm_nm that the atom has passed from the state _ to the state _. If we determine experimentally that the atom has actually acquired the state m, then in the sub- sequent calculations we shall have to assign it the function * See P. Dirac, Proc.Roy.Soc. (A)112, 661 (1926) and M. Born, Z. f. Phys• 40, 167 (1926)."
+    },
+    {
+      "id": "p0124",
+      "text": "14"
+    },
+    {
+      "id": "p0125",
+      "text": "% [,"
+    },
+    {
+      "id": "p0126",
+      "text": ", o"
+    },
+    {
+      "id": "p0127",
+      "text": "ORIGINAL PACT _ OF POOR QUALITY"
+    },
+    {
+      "id": "p0128",
+      "text": "Sm with an indeterminate phase, instead of the function _c_,.Sm . Through the experimental determination \"state m\""
+    },
+    {
+      "id": "p0129",
+      "text": "we select, from among the different possibilities (Cnm) , a • : certain _ and simultaneously destroy, as we shall explain | below, whatever remained of phase relations in the variables"
+    },
+    {
+      "id": "p0130",
+      "text": "Cnm. When the beam passes through F2, we repeat the same pro- cedure used for F I. Let dnm be the coefficients of the trans- formation matrix that converts the energies before F2 to those after F2. If no determination of the state is performed bet- ween F I and F2, then the eigen-function is transformed accord- ing to the following pattern:"
+    },
+    {
+      "id": "p0131",
+      "text": "s(E.,p) ' r-__.,..s(_.,p) _-__. \" _,_.._.,S(E,, _,). (8) m m I"
+    },
+    {
+      "id": "p0132",
+      "text": "Let _=g._--e._ . If the stationary state of the atom"
+    },
+    {
+      "id": "p0133",
+      "text": "is determined, after F2, we shall find the state _ with a pro- bability of enlenl . If, in contrast, we determined \"state m\" between F I and F2, then the probability for _ behind F2 is given by dml_ml . Repeating the entire experiment several times (determining the state, each time, between F I and F2) we shall then observe the state _, behind F2, with the relative frequency Z.L---_,,c..c_.d,_a,.t . This expression does not agree with m"
+    },
+    {
+      "id": "p0134",
+      "text": "enl_nl. For this reason Jordan (l.c.) mentions an \"interference of the probabilities\". I, for one, would not agree with this."
+    },
+    {
+      "id": "p0135",
+      "text": "Because the two experiments leading to enlenl or Znl, respec- tively, are really physically different. In one case the atom"
+    },
+    {
+      "id": "p0136",
+      "text": "suffers no disturbance between F I and F21 in the other it is disturbed by the equipment that makes the determination of the stationary states possible. The consequence of this equipment is that the \"phase\" of the atom changes by quantities that are uncontrollable in principle, Just as the impulse was changed /18__4 in the determination of the electron's position (cf. § I). The"
+    },
+    {
+      "id": "p0137",
+      "text": "magnetic field for the determination of the state between FI and F2 will change the eigen-values E and during the observa- tion of the atom beam (I am thinking of something like a Wilson track) the atoms will be slowed down in different degrees,"
+    },
+    {
+      "id": "p0138",
+      "text": "15 statistically, and in an uncontrollable manner. As a conse-"
+    },
+    {
+      "id": "p0139",
+      "text": "quence, the final transformation matrix enl (from the energy i values before F I to those after leaving F2) is no longer given by 3_,_ , and instead each term of the sum will have, in addition, an unknown phase factor. Hence, all we can expect"
+    },
+    {
+      "id": "p0140",
+      "text": "is for the average changes, to be equal value to Znl. of enlenl, - A simple over all calculation eventual shows phase this 1 to be the case."
+    },
+    {
+      "id": "p0141",
+      "text": "Thus, following certain statistical rules, we can draw conclu- sion3, based on one experiment, regarding the results possible for _nother. The other experiment selects, by itself and from among all the possibilities, one particular one, thus limiting the possibilities for all subsequent experiments. This inter- pretation of the equation for the transformation matrix S, or Schroedinger's wave equation, is possible only because the sum oe all solutions is also a solution. Here we can see the deeper meaning of the linearity of Schroeding, r's equations and hence t!ey can be understood only as waves in the phase space; for ttis same reason we would consider any attempt to replace these equations - for instance, in the relativistic case (for several electrons) - by non-linear equations as doomed to fail."
+    },
+    {
+      "id": "p0142",
+      "text": "§ 3 The transition from micro to macromechanics"
+    },
+    {
+      "id": "p0143",
+      "text": "I believe the analyses performed in the preceding sections of the terms \"electron position\", \"velocity\", \"energy\", etc., have sufficiently clarified the concepts of quantum theory kinemat- ics and mechanics, so that an intuitive understanding of the _croscopic processes must also be possible, from the point of view of quantum mechanics. The transition from micro to macro mechanics _as already been dealt with by Schroedinger*, but I"
+    },
+    {
+      "id": "p0144",
+      "text": "* E. Scnroedinger, Naturwiss. 14, 664 (1926)"
+    },
+    {
+      "id": "p0145",
+      "text": "16 do not believe that Schroedinger's considerations address the essence of the problem, for the following reasons: according to Schroedinger, in highly excited states a sum of the eigen- i vibrations will yield a not overly large wave packet, that in i its turn, under periodic changes of its size, performs the , periodic motions of the classical \"electron\". The following /185 ij objections can be raised here: If the wave packet had such properties as described here, then the radiation emitted by"
+    },
+    {
+      "id": "p0146",
+      "text": "s the atom could be developed into a Fourier series in which the ]"
+    },
+    {
+      "id": "p0147",
+      "text": ": frequencies of the harmonic vibrations are integer multiples of the fundamental fr_4uency. Instead, the frequencies of the : spectral lines emitted by the atom are never integer multiples of a fundamental frequency, according to quantum mechanics - with the exception of the special case of the harmonic oscil- lator. Thus Schroedinger's consideration is applicable only to the harmonic oscillator considered by him, while in all other cases in the course of time the wave packet spreads over all space surrounding the atom. The higher the atom's excitation"
+    },
+    {
+      "id": "p0148",
+      "text": "state, the slower will be the scattering of the wave packet• !-_v? But it will occur, if one waits long enough. The argument used _\"- above for the radiation emitted by an atom can be used, for the '. time being, against all attempts of a direct transition from"
+    },
+    {
+      "id": "p0149",
+      "text": "quantum to classical mechanics, for high quantum numbers. For b _ this reason, it used to be attempted to circumvent that argu- |_ ment by pointing to the natural beam width of the stationary I. _ states; certainly improperly, since in the first place this I_ ,° ,"
+    },
+    {
+      "id": "p0150",
+      "text": "way insufficient out is already radiation blocked at higherthestates; for hydrogenin the atom,second because place, of l\\_-_'i"
+    },
+    {
+      "id": "p0151",
+      "text": "the transitionwithout derstandable from quantum to classical borrowing mechanics from electrodynamics. must be un- Bohr* has _0 [_ .o."
+    },
+    {
+      "id": "p0152",
+      "text": "repeatedly pointed out these known difficulties, in the past, ;_{[ that make a direct connection between quantum and classical \", 1,%I., $"
+    },
+    {
+      "id": "p0153",
+      "text": "theory difficult. If we explained them here again in such ,_."
+    },
+    {
+      "id": "p0154",
+      "text": "* N. Bohr, Basic Postulates of Quantum Theory, l.c. 17 _:, J"
+    },
+    {
+      "id": "p0155",
+      "text": "F !"
+    },
+    {
+      "id": "p0156",
+      "text": "detail, it is because apparently they have been forgotten. 1"
+    },
+    {
+      "id": "p0157",
+      "text": "I believe the genesis of the classical \"orbit\" can be precise- ly formulated thus: the \"orbit\" only comes into being by our"
+    },
+    {
+      "id": "p0158",
+      "text": "observing it. Let us assume an atom in its thousandth excita- i tion state. The dimensions of the orbit are relatively large here, already, so that it is sufficient, in the sense of § I, i to determine the electron's position with a light of relative- ly long wavelength. If the determination of the electron's position is not to be too uncertain, then one consequence of i ! Compton recoil will be that after the collision, the atom will be in some state between, say, the 950th and the 1050th. At"
+    },
+    {
+      "id": "p0159",
+      "text": "the same time, the electron's impulse can be derived - to a i precision given by equation (I) - from the Doppler effect. The i experimental fact so obtained can be characterized by means of /186 a wave packet - or better, probability packet - in q-space, by a variable given by the wavelength of the light used, essen- tially composed of eigenfunctions between the 950th and the"
+    },
+    {
+      "id": "p0160",
+      "text": "1050th eigen-function, and through the corresponding packet in _ p-space. After a certain time, a new position determination is _;_ performed, to the same precision. According to § 2, its result can be expressed only statistically; possible positions are all those within the now already spread wave packet, with a calcu- lable probability. This would in no way be different in clas- sical theory, since in classical theory the result of the sec- ond position could also be given only statistically, due to the uncertainty in the first determination; In addition, the system's orbits would also spread in classical theory similarly to the wave packet. However, the laws of statistics themselves are different, in quantum mechanics and classical theory. The second position determination selected a _ from among all those possible, thus limiting the possibilities for all subsequent determinations. After the second position determination, the results for later measurements can be calculated only by again assigning to the electron a \"smaller\" wave packet of dimension"
+    },
+    {
+      "id": "p0161",
+      "text": "18 I ORIG.,_AL =_'4\" OF POOR OUALI'P[ T _ (wavelength of the light used for the observation). Thus, each position determination reduces the wave packet again to l its original dimension i. The \"values\" of the variables p and q are known to a certain precision, during all experi-"
+    },
+    {
+      "id": "p0162",
+      "text": "il ments. Since within these limits of precision the values of i_ p and q follow the classical equations of motion, we can conclude, directly from the laws of quantum mechanics, ["
+    },
+    {
+      "id": "p0163",
+      "text": "dH #H"
+    },
+    {
+      "id": "p0164",
+      "text": "P=- q= . J But as we mentioned, the orbit can only be calcu]%ted statis- tically from the initial conditions, which we may consider a J consequence uncertainty existing in principle, in the initial conditions. The laws of statistics are different for quantum mechanics and classical theory. Under certain conditions, this can lead to gross macroscopic differences between classical and quantum theory. Before discussing an example of this, I want to show by means of a simple mechanical system - the force-free motion of a mass point - how the transition to the classical"
+    },
+    {
+      "id": "p0165",
+      "text": "theory discussed above is to be formulated mathematically. The /18__/7 equations of motion are (for unidimensional motion)"
+    },
+    {
+      "id": "p0166",
+      "text": "1 , 4=;i I p\", p=o. (1o) Since time can be treated as a parameter (as a \"c-number\") if there are no external, time-dependent forces, then the solu- tion to this equation is:"
+    },
+    {
+      "id": "p0167",
+      "text": "1 t q ----._p, + q, ; p -- p,, (11)"
+    },
+    {
+      "id": "p0168",
+      "text": "where p, and _ represent impulse and position at time t=O."
+    },
+    {
+      "id": "p0169",
+      "text": "At time t=O [see equations (3) to (6)], let qo = q' be meas- ured with precision q1' Po = p' with precision p;. If from the values\" of _ and _ we are to derive the \"value\" of q at time _, then according to Dirac and Jordan we must find that transformation function, that transforms all matrices"
+    },
+    {
+      "id": "p0170",
+      "text": "19 I"
+    },
+    {
+      "id": "p0171",
+      "text": "f ' ORIGINALPAGE_J OF POOR QUALITY"
+    },
+    {
+      "id": "p0172",
+      "text": "• ,_{: in which qo appears as a diagonal matrix, into matrices in g which q appears as the diagonal matrix. In the _atrlx pat- tern in which qo appears as the diagonal matrix, p, can be"
+    },
+    {
+      "id": "p0173",
+      "text": "i' __ replaced by the operator _k d . According to Dirac [l.c. _.._ equation (11)] we then have for the transformation amplitude"
+    },
+    {
+      "id": "p0174",
+      "text": "I; i_ sought, S(qo,q) , the differential equation"
+    },
+    {
+      "id": "p0175",
+      "text": "'-: li k 0 ! \"_c I,,,_ _-_q,_ +eoj s(q.,e)= es(q.,_) (1_)"
+    },
+    {
+      "id": "p0176",
+      "text": ":, ,,,, __ (,,).- ! S(qe, e) _ const.e ..... _.-t..... (IS) . i ¢"
+    },
+    {
+      "id": "p0177",
+      "text": "_ Thus S_ is independent of qo' i.e., if at time t : 0, qo is - known exactly, then at any time t > 0 all values of q are e- qually likely, i.e., the probability that _ lles within a fi- nite range, is generally zero. This is quite clear, intuitive-"
+    },
+    {
+      "id": "p0178",
+      "text": "ly. Because the exact determination of qo leads to an infi- \" nitely large Compton recoil. The same would of course be true"
+    },
+    {
+      "id": "p0179",
+      "text": "• of any mechanical system. However, if at time t = 0 , qo i_ known only to a precision ql and Po to precision PI' then [cf. equation (3)]"
+    },
+    {
+      "id": "p0180",
+      "text": "S(,/,_,)= COat.e--\"_ f--Tp _'--_,"
+    },
+    {
+      "id": "p0181",
+      "text": "and the probability function for _ will have be calculated /18_8 from the equation"
+    },
+    {
+      "id": "p0182",
+      "text": "We obtain"
+    },
+    {
+      "id": "p0183",
+      "text": "t Bdm f I t ,%"
+    },
+    {
+      "id": "p0184",
+      "text": "If we introduce the abbreviation"
+    },
+    {
+      "id": "p0185",
+      "text": "20 \" oRIGINALpAGE_ • OF PoOR QUALITY"
+    },
+    {
+      "id": "p0186",
+      "text": "_: then the exponent in (141 becomes"
+    },
+    {
+      "id": "p0187",
+      "text": "i -- , (, ;,))+\"\"I '_ The term in q,2 can be included in the constant factor (inde- .P -} pendent of g); by integration we obtain"
+    },
+    {
+      "id": "p0188",
+      "text": "_:i _{,-_,,)r , l,' $(_,,j) -- eou.t.e lqt= 1 , (16"
+    },
+    {
+      "id": "p0189",
+      "text": "! (,_;,,_.,,)(,- ¢onst. e- \" s qL'(I J From which follows"
+    },
+    {
+      "id": "p0190",
+      "text": "(,--,._,.)' - S(e_._J]._(_,__-- eonst.e e_t(i\"+P_\"-. (IT)"
+    },
+    {
+      "id": "p0191",
+      "text": ".-| Thus, at time t the electron is at position (tlm)p' + q' to ., . a precision _lyT_-_ . The \"wave packet\" or better, the \""
+    },
+    {
+      "id": "p0192",
+      "text": "\"probabilityto (15), According p_c_:et\" has become 13 is largerto bythea time proportional factort, ofinversely }:I_."
+    },
+    {
+      "id": "p0193",
+      "text": "proportional to the mass - this is immediately plausible - and , inversely proportional to q2I. Too great a precision in qo has a ,\"\" greater uncertainty in Po as a consequence and hence al.qo ! leads to an increased uncertainty in _[. The parameter n, which we introduced above for formal reasons, could be eliminated in all equations, here, since it does not enter in the calcula- ,o ."
+    },
+    {
+      "id": "p0194",
+      "text": "tions"
+    },
+    {
+      "id": "p0195",
+      "text": "of statistics As an example and that those the from quantumbetween difference theory thecan lead classicalto gross laws ! macroscopic differences in the results from both theories, un- ' der certain conditions, shall be briefly discussed for the reflection of an electron flow by a grating. If the lattice m w"
+    },
+    {
+      "id": "p0196",
+      "text": "constant is of the order of magnitude of the de Broglie wave- /189 length of the electron, then the reflection will occur in ! i certain discrete directions in space, as does the light at a '_ grating. Here, classical theory yields macroscopically some- _4 thing grossly different. And yet, we can not find a contradic- .'! tion against classical theory in the orbit of a single electron. _i We could do it, if somehow we could direct the electron to a _4 certain location on a grating line and there establish that the reflection did not occur classically. But if we want to deter- ; mine the electron's position so precisely that we could say at"
+    },
+    {
+      "id": "p0197",
+      "text": "i which location ona grating line it would impact, then the elec- { tron would acquire such a velocity, due to this determination, that the de Broglie wavelength of the electron would be reduced to the point that in this approximation, the electron would be a-tually reflected in the direction prescribed by classical theory, without contradicting the laws of quantum theory."
+    },
+    {
+      "id": "p0198",
+      "text": "§ 4 Discussion of some special, imaginary experiments .:.0_"
+    },
+    {
+      "id": "p0199",
+      "text": "According to the intuitive interpretation of quantum theory at- tempted here, the points in time at which transitions - the \"quantum Jumps\" - occur should be experimentally determinable in a concrete manner, such as energies of stationary states, for instance. The precision to which such a point in time can be determined is given by equation (2) as hlAEI, if AE is the change in energy accompanying the transition. We are thinking of an experiment such as the following: Let an atom, in state 2 at time t=O, return to its normal state I by emitting radia- tion. We could then assign to the atom, in analogy to equation (7), the eigenfunctton"
+    },
+    {
+      "id": "p0200",
+      "text": "i i gl i i el i i"
+    },
+    {
+      "id": "p0201",
+      "text": "m See W. Pauli, 1.c., p.12"
+    },
+    {
+      "id": "p0202",
+      "text": ",?.2 ' ' ORIGINAL PAGE t OFPOORQUALrrf"
+    },
+    {
+      "id": "p0203",
+      "text": "i s(t,p) = _.,_(_,_e A + _1 - e- '\"_(E,,p)e- -T'- (18) L"
+    },
+    {
+      "id": "p0204",
+      "text": "'I if we assume that the radiation damping wlll express itself in"
+    },
+    {
+      "id": "p0205",
+      "text": "•-) the eigen-function by means of a factor of the form e-at(the '_ true dependence may not be that simple). Let us send this atom _i through an inhomogeneous magnetic field, to measure its energy, as is customary in the Stern-Gerlach experiment, except that ) the inhomogeneous field shall follow tl_eatom beam for a good ' portion of the path. The corresponding acceleration could be :_ measured by dividing the entire path followed by the atom beam ) ! in the magnetic field, into small partial paths, at the end of ; each of which we measure the beam's deflection. Depending on 119--0 :=_ the atom beam's velocity, the division into partial paths will correspond, atom, partlal _I for the also to division into time -, intervals At. According to § I, equation (2), to the interval At corresponds a precision in the energy of h/At. The probabll- ity of measuring a certain energy can be dlrectly derived from S(p,E) and is hence calculated in the l.,terval from nat to (n+1)At by means of + I)4e Imd&J"
+    },
+    {
+      "id": "p0206",
+      "text": "mAt_ (a + I)_/ & m4t"
+    },
+    {
+      "id": "p0207",
+      "text": "If at time (n+1)At we make the determination, \"state 2\", then for all subsequent events we may no longer assign to the atom the elgen-function (18], but one derived from (18) if we re- place t with t-(n+1)At. If, in contrast, we determine \"state , I\", then from then on we must assign to the atom the elgen- , function i"
+    },
+    {
+      "id": "p0208",
+      "text": "Thus, in a series of Intervals &t we would first observe \"state 2 e, then continuously estate 1. e To hake a differentiation of the two states possible, At must not fall below h/AE. Thus, the"
+    },
+    {
+      "id": "p0209",
+      "text": "23 e"
+    },
+    {
+      "id": "p0210",
+      "text": "! transition-point in time can be determined with that precision. I We conceive of the experiment above entirely in the sense of I | the old _nterpretation of quantum theory, as explained by Planck, Einstein and Bohr when we speak of a discontinuous {"
+    },
+    {
+      "id": "p0211",
+      "text": "change of energy. Since such an experiment can be performed, I in principle, agreement as to its results must be possible, i"
+    },
+    {
+      "id": "p0212",
+      "text": "In Bohr's basic postulate of the quantum theory, the energy"
+    },
+    {
+      "id": "p0213",
+      "text": "of an atom, as well as the values of the action variables J, i has the privilege over other items to be determined (such as J | the position of the electron, etc.) that its numerical value ! can always be given. This privileged position held by energy | over other quantum mechanics magnitudes is owed strictly to the circumstance integral that in a closed system, it represents of the equation an of motion (for the energy matrix we I have E = const.). In contrast, in open systems the energy has no preference over other quantum mechanics variables. In /191 particular, it will be possible to conceive of experiments, in which the atom's phases w are precisely measurable and"
+    },
+    {
+      "id": "p0214",
+      "text": "for which then the energy will remain, in principle, Indeter- mined, corresponding to a relation Jw-wJ.-:-_s- i , or J1wl _ h. Such an experiment is provided by resonance fluorescence, for instance. If an atom is irradiated wlth an"
+    },
+    {
+      "id": "p0215",
+      "text": "etgen-frequency of say, v12 : (E 2 - E1)/h, then the atom will vibrate in phase wlth the external radiation, in whlch case"
+    },
+    {
+      "id": "p0216",
+      "text": "in principle It is senseless to ask, in which state - E I or E2 - the atom is vlbratlns. The phase relation between atom and external radiation can be determined, for instance, by means of the phase relations among many atoms (Woods experi- ment). IF one does not want to use experiments Involving ra- diation, the phase relation can also be measured by perform- lng precise position measurements In the sense oF J 1 For the electron, at different times, relatlve to the phase of the ltsht used for Illumination (for many atoms). To each atom we could then assign a \"wave function\" such as"
+    },
+    {
+      "id": "p0217",
+      "text": "24 (Z\" ORIGINAL PAGE • OF POOR QUAL_P("
+    },
+    {
+      "id": "p0218",
+      "text": "s(e. 0 --'=c,_, (J:,,,_);\" _ + I/T -- ,'7v,,(_,, _) e- ,, (l_) ."
+    },
+    {
+      "id": "p0219",
+      "text": "Here c2 depends on the _ntensity and B on the phase of the i illuminating light. Thus, the probability _ of a certain posl- _i tion is"
+    },
+    {
+      "id": "p0220",
+      "text": "s(q,o + (,-4),,,"
+    },
+    {
+      "id": "p0221",
+      "text": "The periodic *,erm in (20) can be experimentally separated from the non-periodical, since the position determi_ _.ion can be performed at different phases of the illuminating light."
+    },
+    {
+      "id": "p0222",
+      "text": "In a known imaginary experiment proposed by Bob,-, Lhe atoms of a Stern-Gerlach atom beam are initially excited to resonance fluorescence, at a certain location, by means of light irradia- tion. After a certain length, the atoms pass throush an Inhomo- geneous magnetic field; the radiation emitted by the atoms can be observed over the entire length of their path, before and behind the magnetic fleld. Before the atoms enter the magnetic field, they exhibit normal resonance fluorescence, i.e., In analogy to the d_sperslon theory, we must assume that all atoms emit in phase wlth the incident , spherical light waves. At first, thls latter interpretation stands in conflict wlth what a rough application of the light quanta theory or the baslc /1_ rules of quantum theory indicate: from it one would conc].udo that that only a few atoms would be ra!sed to an \"upper state\" by the absorption of a light quantum and hence, that _11 of the resonance radiation would come from Intensively radiating excited centers. Thus, It used to be tempting to say: the con- cept ot ltght quanta can be called upon here only for the energy tmpulse balance; \"in reality\" all atoms radiate In lower states as a weak and coherent spherical wave. Once the atoms have passed through the magnetic field, there can hardly b_ any doubt left that the atom beam has split into two beams i"
+    },
+    {
+      "id": "p0223",
+      "text": "of which one corresponds to atoms in the higher state and the other, to atoms in the lower state. If the atoms in the lower"
+    },
+    {
+      "id": "p0224",
+      "text": "state were radiating, this would be a gross infringement of the energy theorem, because all of the excitation energy is t contained in the fraction with the higher state. Rather, there can be no doubt that behind the magnetic field, only the atom i beam with the upper states is emitting light - and non-coherent light, at that - from the few intensively radiating atoms in the upper state. As Bohr showed, this imaginary experiment makes ! particularly clear how careful we must be with the application i"
+    },
+    {
+      "id": "p0225",
+      "text": "of the concept \"stationary state\". From the conception of the ! I"
+    },
+    {
+      "id": "p0226",
+      "text": "quantum theory developed here, it is easy to discuss Bohr'S ex- periment without any difficulty. In the outer radiation field the phases of the atoms are determined and hence there is no sense in talking of the energy of the atom. Even after the atom has left the radiation field we can not say that it is in a"
+    },
+    {
+      "id": "p0227",
+      "text": "certain stationary state, if we are asking for coherence charac- _ teristics of the radiation. But experiments can be performed to test in which state the atom is; the result of this experiment car only be given statistically. Such an experiment is actual- ly performed by the inhomogeneous magnetic field. Behind the magnetic field, the energies of the atoms are determined and hence their phases are undetermined. The radiation is incoher- ent and emitted only by atoms in the upper state. The magnetic field determined the energies and hence destroys the phase re- lations. Bohr's imaginary experiment provides a beautiful clarification of the fact that the energy of the atom is also, \"in reality, not a number, but a matrix.\"The law of conserva- tion applies to the matrix energy and hence also to the value of the energy, as precisely as it is measured, in each case."
+    },
+    {
+      "id": "p0228",
+      "text": "Analytically, the cancellation of the phase relations can be /19--3 followed approximately thus: let Q be the coordinates of the atom's center of mass; we can then assign to the atom (instead of (19)) the eigen-function"
+    },
+    {
+      "id": "p0229",
+      "text": "26 i OR,GINAL PAG_ ?_ • OF POOR QUALITY I"
+    },
+    {
+      "id": "p0230",
+      "text": "s(Q,Os(q, t) -- s(_, _,0 ('_D"
+    },
+    {
+      "id": "p0231",
+      "text": "where S(Q,t) is a function that [as S(n,q) in (1611 is differ- o"
+    },
+    {
+      "id": "p0232",
+      "text": "_;! ent from zero in only a small area around a point in Q-space, i '_ and propagates with the velocity of the atoms in the direction _} of the beam. The probability of a relative amplitude q for some values Q is given by the integral of _"
+    },
+    {
+      "id": "p0233",
+      "text": "S(Q,q,t)S(O,q,t) over Q, i.e., via (20). \""
+    },
+    {
+      "id": "p0234",
+      "text": "The eigen-function (21), however, will change in the magnetic"
+    },
+    {
+      "id": "p0235",
+      "text": "field in a calculable manner, and because of the differing de- flection of the atoms in the upper and the lower state, will have become, behind the magnetic field, i"
+    },
+    {
+      "id": "p0236",
+      "text": "S(Q,_,t) = %s,(0,t),/,,(,_;,v)e h i, _=l£,t -_ _/i -- ,'_ S, (Q, t) ea (El, q) ¢ 1 (22)"
+    },
+    {
+      "id": "p0237",
+      "text": "S1(Q,q,t) and S2(Q,t) will be functions in Q-space differing from zero only in a small area surrounding the point. But this _ point is different for S1_%nd for S 2. Hence SIS 2 is zero every- _ where. Hence, the probabilzty of a relative amplitude R and a definite value 0 is"
+    },
+    {
+      "id": "p0238",
+      "text": "The periodic term in (201 has disappeared and with it, the pos-"
+    },
+    {
+      "id": "p0239",
+      "text": "sibility of measuring a phase relation. The result of the sta-"
+    },
+    {
+      "id": "p0240",
+      "text": "tistical less position of the phase determination of the incidentwill always light for be the itsame, which was regard- deter- }"
+    },
+    {
+      "id": "p0241",
+      "text": "mined. We may assume that experiments with radiation whose theo- ry has not yet been fully elaborated will yield the same re- sults regarding the phase relations of atoms to the incident light."
+    },
+    {
+      "id": "p0242",
+      "text": "Finally, let us examine the relation between equation (2),"
+    },
+    {
+      "id": "p0243",
+      "text": "E1t I =h, and a problem complex discussed by Ehrenfest* and two ' other researchers by means of Bohr's correspondence principle,"
+    },
+    {
+      "id": "p0244",
+      "text": "27"
+    },
+    {
+      "id": "p0245",
+      "text": "• _ mm - ................... ! { i"
+    },
+    {
+      "id": "p0246",
+      "text": "in two important papers**. Eflrenfest and Tolman speak of \"weak ! quantization\" when a quantifiea periodic motion is subdivided, by quantum jumps or other disturbances, into time intervals /I__9_ : that can not be considered long in relation to the system's"
+    },
+    {
+      "id": "p0247",
+      "text": "period. Supposedly, in this case there are not only the exact _ energy values from quantum theory, but also - with a lower a priori probability that can be qualitatively indicated - energy values that do not differ too much from the quantum theory-based values. In quantum mechanics, such a behavior is to be inter- i pretated as follows: since the energy is really changed, due to •: other disturbances or to quantum jumps, each energy measurement has to be performed in the interval between two disturbances,"
+    },
+    {
+      "id": "p0248",
+      "text": "if it is to be unequivocal. This provides an upper limit to t I in the sense of § I. Thus the energy value Eo of a quantified state is also measured only with a precision E I = t/t I. Here, the question whether the system \"really\" adopts energy values"
+    },
+    {
+      "id": "p0249",
+      "text": "E that differ from Eo-with the correspondingly smaller statis- tical weight - or whether their experimental determination is"
+    },
+    {
+      "id": "p0250",
+      "text": "due only to the uncertainty of the measurement, is pointless, _ in principle. If t I is smaller than the system's period, then ._. there is no longer any sense in talking of discrete stationary \"_ states or discrete energy values."
+    },
+    {
+      "id": "p0251",
+      "text": "In a similar context, Ehrenfest and Breit (l.c.) point out the following paradox: let us imagine a rotator - for instance, in the shape of a gear wheel - fitted with a mechanism that after f revolutions just reverses the direction of rotation. Let us further assume that the gear wheel acts on a rack that can be linearly displaced between two blocks. After the specified num- ber of revolutions, the blocks force the rack, and hence the wheel, to reverse direction. The true period T of the system is u, , ii"
+    },
+    {
+      "id": "p0252",
+      "text": "XS.f. Phys. 9, 207 (1922) and P. * P\" Ehrenfest EhrenfeStandandR.c.G.Tolman,Breit, Phys.Aev. 2_, 28? (1924); see also the discussion in N. Bohr, Basic postulates of quantum theory, l.c. ** Mr. W. Pauli pointed this relation out to me."
+    },
+    {
+      "id": "p0253",
+      "text": "28 i long in relation to the period _ of the wheel; the discrete energy steps are correspondingly dense, and denser, she greater"
+    },
+    {
+      "id": "p0254",
+      "text": "T is. Since from the point of view of a consistent quantum theo- ry all stationary states have the same statistical weight, for i _ a sufficiently large T practically all energy values will occur with the same frequency - in contrast to what we would expect _ for the rotator. Initially, this paradox becomes even sharper"
+    },
+    {
+      "id": "p0255",
+      "text": "_ when we consider our points of view. Because in order to es- r tablish whether the system will adopt the discrete energy val- ues corresponding to a pure rotator singly or with special _ _ frequency, or whether it will adopt all possible values {i.e., values corresponding to the small energy steps h/T) with the same probability, a time t_ is sufficient, which is small in"
+    },
+    {
+      "id": "p0256",
+      "text": "• for such measurements never becomes effective, it apparently ii manifests to T relation itself (but-- in that _). all That is, possible although energythe values large can period occur. /195 We believe that such experiments for the determination of the system's total energy would actually yield all possible energy values with the same probability; and this is not due to the large period T, but to the linearly displaceable rack. Even if the system should find itself in a state whose energy corres- ponds to the rotator quantification, by means of external forces acting on the rack it can be easily taken to states, that do not correspond to the rotator quantification*. The coupled system rotator-rack simply has periodicity character- istics that are different from those of the rotator. The solu- tion of the paradox rather lies in the following: if we wanted to measure the energy of the rotator alone, then we shall first_ have to dissolve the coupling between rotator and rack. In classical theory, for a sufficiently small mass of the rack the dissolution of the coupling could occur without energy changes and therefore there the energy of the total system could be equated to that of the rotator (for a small rack mass). In , ii"
+    },
+    {
+      "id": "p0257",
+      "text": "* According_to Ehrenfest and Breit, this can occur not at all, or only rarely, due to forces acting\" on the wheel."
+    },
+    {
+      "id": "p0258",
+      "text": "29 l w"
+    },
+    {
+      "id": "p0259",
+      "text": "J"
+    },
+    {
+      "id": "p0260",
+      "text": "•i wheel quantumis mechanics, at least ofthetheinteraction same order energy of magnitude, as between rack one and of ,_ the rotator's energy steps (even for a small rack mass, a high P"
+    },
+    {
+      "id": "p0261",
+      "text": "wheel and rack!} Once the coupling is dissolved, the rack and"
+    },
+    {
+      "id": "p0262",
+      "text": "i! the wheel zero-point individually energy adopt remains for their quantum theory the elastic energy interaction between !_ values. Thus, to the extent that we can measure the energy values of the rotator alone, we will always find the values with allowed i prescribed by quantum theory, the precision by i the experiment. Even for a vanishingly small rack mass will the energy of the coupled system be different from that of the rotator. The energy of the coupled system can adopt all pos- T ' sible values (those allowed by T-quantification) with the same i probability • 6"
+    },
+    {
+      "id": "p0263",
+      "text": "Ouantum theory kinematics and mechanics are vastly different ! from classical. But the applicability of classical kinemati= _ -_"
+    },
+    {
+      "id": "p0264",
+      "text": "and mechanical concepts can not be deduced either laws that govern our thinking, or from experience• from the We are en- i.._. ='.\""
+    },
+    {
+      "id": "p0265",
+      "text": "the impulse, position, energy, etc., of an electron are pre- cisely defined concepts, we need not be discouraged by the fact \"_ titled to this conclusion by the relation (I) plql _h. Since /196 i__ that the fundamental equation (I) contains only a qualitative [ statement. Since, in addition, we can qualitatively conceive of the theory's experimental consequences, in all simple cases, we shall no longer have to view quantum mechanics as not intui- tive or abstract*. If we admit this, then we would of course"
+    },
+    {
+      "id": "p0266",
+      "text": "* Schroedinger described quantum mechanics as a formal theory, of frightening, even repulsive un-intuitiveness and abstrac- tion. The value of the mathematical (and to that extent, in- tuitive) penetration of the laws of quantum mechanics accom- \" plished by Schroedinger can certainly not be praised highly enough. However, in terms of the principled, physical ques- tions, I believe the popular intuitiveness of wave mechanics has deflected it from the straight path that had been _erked"
+    },
+    {
+      "id": "p0267",
+      "text": "3O e"
+    },
+    {
+      "id": "p0268",
+      "text": ", & 0"
+    },
+    {
+      "id": "p0269",
+      "text": "also like to be able to derive the quantitative laws of quan- tum mechanics directly from the intuitive foundations, i.e., essentially, from relation (I). For this reason Jordan attempt- ed to interpret the equation"
+    },
+    {
+      "id": "p0270",
+      "text": "as a probability relation. We can not agree, however, with that interpretation (§ 2}. Rather, we believe that the quanti- tative laws can be understood, to begin with, according to the principle of the greatest possible simplicity, starting from the intuitive foundations. If, for instance, the X coordinate of the electron no longer is a \"number\" - as can be concluded experimentally, from equation (I) - then the simplest imaginary assumption [that does not contradict (I)] is that this X coor- dinate is a diagonal term of a matrix whose non-diagonal terms"
+    },
+    {
+      "id": "p0271",
+      "text": "are expressed in an uncertainty, or respectively, by other kinds I of transformations (cf. for instance § 4). Perhaps the statement that the velocity in the X-direction \"in reality\" is not a num-"
+    },
+    {
+      "id": "p0272",
+      "text": "ber, but a diagonal term in a matrix is no more unintuitive and _v abstract than the determination, that the electric field inten- _T sity \"in reality\" is the time portion of an antisymmetrical t tensor of the space-time world. The expression \"in reality\" is"
+    },
+    {
+      "id": "p0273",
+      "text": "description of natural phenomena in mathematical terms. As soon _ as we admit that all quantum theory variables \"in reality\" are just as much or as little justified here as it is for any other I<°_"
+    },
+    {
+      "id": "p0274",
+      "text": "If one assumes that the interpretation of quantum mechanics at- /19__/7 matrices, here tempted the is valid at least quantitative laws infollow its essential without difficulty,then we points, \" l,i= ii may be allowed to discuss its main consequences, in a few words. We have not assumed that quantum theory - in contrast to clas- .."
+    },
+    {
+      "id": "p0275",
+      "text": "that starting from exact data we can only draw statistical \"::'"
+    },
+    {
+      "id": "p0276",
+      "text": "by the works of Einstein and de Broglie on the one hand, and ,, by quantum mechanics, on the other."
+    },
+    {
+      "id": "p0277",
+      "text": "31 l I r b"
+    },
+    {
+      "id": "p0278",
+      "text": ", conclusions. Among others, the known experiments by Geiger and ii Bothe speak against such an assumption. Rather, in all cases in which relations exist between variables, in classical theo-"
+    },
+    {
+      "id": "p0279",
+      "text": "i! ry, that can really be measured precisely, the corresponding _-_ exact relations exist also in quantum theory (impulse and en- \", ergy theorems). But in the rigorous formulation of the law of _;T causality - \"If we know the present precisely, we can calculate \"''. the future\" - it is not the conclusion that is faulty, but the premise. We simply can not know the present in principle in all its parameters. Therefore all perception is a selection from a ; totality of possibilities and a limitation of what is possible in the future. Since the statistical nature of quantum theory is so closely to the u_certainty in all observations or percep- _i tions, one could be tempted to conclude that behind the ob- _' served, statistical world a \"real\" world is hidden, in which -: the law of causality is applicable. We want to state explicit- ly that we believe such speculations to be both fruitless and pointless. The only task of physics is to describe the relation"
+    },
+    {
+      "id": "p0280",
+      "text": "'i i cribed better by the following: betweenobservationseThetruesituationcouldratherbedes- Because all experiments are i'_"
+    },
+    {
+      "id": "p0281",
+      "text": ":i, subject to the laws of quantum mechanics and hence to equation p _ (I), it follows that quantum mechanics once and for all ,stab- ' lishes the invalidity of the law of causality."
+    },
+    {
+      "id": "p0282",
+      "text": "i 4 i Addendum at the time of correction. After closing this paper, I new investigations by Bohr have led to viewpoints that allow a"
+    },
+    {
+      "id": "p0283",
+      "text": ": considerable broadening and refining of the analysis of quantum ;. . mechanics relations attempted here. In this context, Bohr cal- ,_.: ' led my attention to the fact that I had overlooked some essen- !i t. tial points in some discussions of this work. Above all, the uncertainty in the observation is not due exclusively to the _ existence of discontinuities, but is directly related to the :_. requirement of doing Justice simultaneously to the different I_ experiences expressed by corpuscular theory on the one hand, ,_,_"
+    },
+    {
+      "id": "p0284",
+      "text": "32 ! • $"
+    },
+    {
+      "id": "p0285",
+      "text": "and by wave theory on the other. For instance, in the use of /19.8 an imaginary r-ray microscope, the divergence of the ray beam must be taking into account. The first consequence of this is i that in the observation of the electron's position, the direc- tion of the Comptom recoil will only be known with some uncer- tainty, which will then lead to relation (I). It is further- more not sufficiently stressed that rigorously, the simple theory of the Compton effect can be applied only to free elec- trons. As professor Bohr made very clear, the care necessary in the application of the uncertainty relationship is essential above all in a general discussion of the transition from micro to macro-mechanics. Finally, the considerations on resonance"
+    },
+    {
+      "id": "p0286",
+      "text": "fluorescence are not entirely correct, because the relation ]"
+    },
+    {
+      "id": "p0287",
+      "text": "electrons is not as simple as assumed here. I am greatly in- between the phase of the light and that of the motion of the ! debted to professor Bohr for being permitted to know and discuss during their gestation those new investigations by Bohr, men- tioned above, dealing with the conceptual structure of quantum theory, and to be published soon."
+    },
+    {
+      "id": "p0288",
+      "text": "33"
+    }
+  ],
+  "anchors": {
+    "science-heisenberg-conjugate-limits": {
+      "paragraphId": "p0061",
+      "start": 171,
+      "end": 290,
+      "quote": "That is, the more precisely the position is determined, the more imprecisely will the impulse be known, and vice-versa.",
+      "match": "normalized-exact"
+    },
+    "science-heisenberg-microscope": {
+      "paragraphId": "p0057",
+      "start": 108,
+      "end": 430,
+      "quote": "At the instant of the determination of its position - i.e., the instant at which the light quantum is diffracted by the electron - the electron discontinuously changes its impulse. That change will be more pronounced, the smaller the wavelength of the light used, i.e. the more precise the position determination is to be.",
+      "match": "normalized-exact"
+    }
+  }
+}

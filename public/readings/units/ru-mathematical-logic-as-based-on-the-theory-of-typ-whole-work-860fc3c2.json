@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-mathematical-logic-as-based-on-the-theory-of-typ-whole-work-860fc3c2",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《以类型论为基础的数理逻辑》",
+  "englishWork": "Mathematical Logic as Based on the Theory of Types",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 原刊扫描与校订文本，罗素《以类型论为基础的数理逻辑》（1908），第 225 页",
+  "englishVersion": "Wikisource scan and transcription, Russell, Mathematical Logic as Based on the Theory of Types (1908), p. 225",
+  "sourceUrl": "https://en.wikisource.org/wiki/Page%3AMathematical_Logic_as_Based_on_the_Theory_of_Types_-_Bertrand_Russell_%281908%29.pdf/5",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Page%3AMathematical_Logic_as_Based_on_the_Theory_of_Types_-_Bertrand_Russell_%281908%29.pdf/5",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Page%3AMathematical+Logic+as+Based+on+the+Theory+of+Types+-+Bertrand+Russell+%281908%29.pdf%2F5&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "abc3cd35063bb98086a217a50243304923f51b097a7f8f88d41825fad4f7a2ed"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "4294467f496ae26f1f6096f21451579b5a624875934098b62b79511aab6d7c84",
+  "inputHash": "3b18fd83ba99879f6745fd13550426df3ef834f309a7a29b438d44236ecb4659",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Russell: Mathematical Logic as based on the Theory of Types."
+    },
+    {
+      "id": "p0002",
+      "text": "4"
+    },
+    {
+      "id": "p0003",
+      "text": "In this case, the class w is defined by reference to \"all classes,\" and then turns out to be one among classes. If we seek help by deciding that no class is a member of itself, then w becomes the class of all classes, and we have to decide that this is not a member of itself, i.e. , is not a class. This is only possible if there is no such thing as the class of all classes in the sense required by the paradox. That there is no such class results from the fact that, if we suppose there is, the supposition immediately gives rise (as in the above contradiction) to new classes lying outside the supposed total of all classes."
+    },
+    {
+      "id": "p0004",
+      "text": "This case is exactly analogous to (2), and shows that we can not legitimately speak of \"all relations.\""
+    },
+    {
+      "id": "p0005",
+      "text": "\"The least integer not nameable in fewer than nineteen syllables\" involves the totality of names, for it is \"the least integer such that all names either do not apply to it or have more than nineteen syllables.\" Here we assume, in obtaining the contradiction, that a phrase containing \"all names\" is itself a name, though it appears from the contradiction that it can not be one of the names which were supposed to be all the names there are. Hence \"all names\" is an illegitimate notion."
+    },
+    {
+      "id": "p0006",
+      "text": "This case, similarly, shows that \"all definitions\" is an illegitimate notion."
+    },
+    {
+      "id": "p0007",
+      "text": "This is solved, like (5), by remarking that \"all definitions\" is an illegitimate notion. Thus the number E is not defined in a finite number of words, being in fact not defined at all. [ 1 ]"
+    },
+    {
+      "id": "p0008",
+      "text": "Burali-Forti's contradiction shows that \"all ordinals\" is an illegitimate notion; for if not, all ordinals in order of magnitude form a well-ordered series, which must have an ordinal number greater than all ordinals."
+    },
+    {
+      "id": "p0009",
+      "text": "Thus all our contradictions have in common the assumption of a totality such that, if it were legitimate, it would at once be enlarged by new members defined in terms of itself."
+    },
+    {
+      "id": "p0010",
+      "text": "This leads us to the rule: \"Whatever involves all of a collection must not be one of the collection;\" or, conversely: \"If, provided a certain collection had a total, it would have members only definable in terms of that total, then the said collection has no total.\" [ 2 ]"
+    },
+    {
+      "id": "p0011",
+      "text": "↑ Cf. \"Les paradoxes de la logique,\" by the present author, Revue de Metaphysique et de Morale , Sept., 1906, p. 645."
+    },
+    {
+      "id": "p0012",
+      "text": "↑ When I say that a collection has no total, I mean that statements about all its members are nonsense. Furthermore, it will be found that the use of this principle requires the distinction of all and any considered in Section II."
+    }
+  ],
+  "anchors": {
+    "russell-theory-of-types": {
+      "paragraphId": "p0010",
+      "start": 28,
+      "end": 266,
+      "quote": "Whatever involves all of a collection must not be one of the collection; or, conversely: If, provided a certain collection had a total, it would have members only definable in terms of that total, then the said collection has no total.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-conditioned-emotional-reactions-whole-work-f0cdd437",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《条件性情绪反应》",
+  "englishWork": "Conditioned Emotional Reactions",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "约克大学心理学经典文库英文原文，华生与雷纳《条件性情绪反应》（1920），第4—6页实验记录；卡片以省略号标示跨日期、跨观察删节",
+  "englishVersion": "York University Classics in the History of Psychology original English text, Watson and Rayner, Conditioned Emotional Reactions (1920), pp. 4–6, laboratory notes; ellipses mark omissions across dates and observations",
+  "sourceUrl": "https://psychclassics.yorku.ca/Watson/emotion.htm",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "78a4483b0f9f4b478c0b9e959dbf7e180cf2ddd10d9cbdcf11e52394057bb7da"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "5ce23d4176577d6d6c52ecc0b2c9161640171bf85ddb1ab8d126381aeff1167f",
+  "inputHash": "a07e60e854d6a664f327d8357e2d4740f7550ed497528a751b797bc862fcb8c1",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CONDITIONED EMOTIONAL REACTIONS"
+    },
+    {
+      "id": "p0002",
+      "text": "By John B. Watson and Rosalie Rayner(1920)"
+    },
+    {
+      "id": "p0003",
+      "text": "First published in Journal of Experimental Psychology, 3(1), 1-14."
+    },
+    {
+      "id": "p0004",
+      "text": "In recent literature various speculations have been entered into concerning the possibility of conditioning various types of emotional response, but direct experimental evidence in support of such a view has been lacking. If the theory advanced by Watson and Morgan [ 1] to the effect that in infancy the original emotional reaction patterns are few, consisting so far as observed of fear, rage and love, then there must be some simple method by means of which the range of stimuli which can call out these emotions and their compounds is greatly increased. Otherwise, complexity in adult response could not be accounted for. These authors without adequate experimental evidence advanced the view that this range was increased by means of conditioned reflex factors. It was suggested there that the early home life of the child furnishes a laboratory situation for establishing conditioned emotional responses. The present authors have recently put the whole matter to an experimental test."
+    },
+    {
+      "id": "p0005",
+      "text": "Experimental work had been done so far on only one child, Albert B. This infant was reared almost from birth in a hospital environment; his mother was a wet nurse in the Harriet Lane Home for Invalid Children. Albert's life was normal: he was healthy from birth and one of the best developed youngsters ever brought to the hospital, weighing twenty-one pounds at nine months of age. He was on the whole stolid and unemotional. His stability was one of the principal reasons for using him as a subject in this test. We [p.2] felt that we could do him relatively little harm by carrying out such experiments as those outlined below."
+    },
+    {
+      "id": "p0006",
+      "text": "At approximately nine months of age we ran him through the emotional tests that have become a part of our regular routine in determining whether fear reactions can be called out by other stimuli than sharp noises and the sudden removal of support. Tests of this type have been described by the senior author in another place.[ 2] In brief, the infant was confronted suddenly and for the first time successively with a white rat, a rabbit, a dog, a monkey, with masks with and without hair, cotton wool, burning newspapers, etc. A permanent record of Albert's reactions to these objects and situations has been preserved in a motion picture study. Manipulation was the most usual reaction called out. At no time did this infant ever show fear in any situation. These experimental records were confirmed by the casual observations of the mother and hospital attendants. No one had ever seen him in a state of fear and rage. The infant practically never cried."
+    },
+    {
+      "id": "p0007",
+      "text": "Up to approximately nine months of age we had not tested him with loud sounds. The test to determine whether a fear reaction could be called out by a loud sound was made when he was eight months, twenty-six days of age. The sound was that made by striking a hammer upon a suspended steel bar four feet in length and three-fourths of an inch in diameter. The laboratory notes are as follows:"
+    },
+    {
+      "id": "p0008",
+      "text": "One of the two experimenters caused the child to turn its head and fixate her moving hand; the other stationed back of the child, struck the steel bar a sharp blow. The child started violently, his breathing was checked and the arms were raised in a characteristic manner. On the second stimulation the same thing occurred, and in addition the lips began to pucker and tremble. On the third stimulation the child broke into a sudden crying fit. This is the first time an emotional situation in the laboratory has produced any fear or even crying in Albert."
+    },
+    {
+      "id": "p0009",
+      "text": "[p.3] We had expected just these results on account of our work with other infants brought up under similar conditions. It is worth while to call attention to the fact that removal of support (dropping and jerking the blanket upon which the infant was lying) was tried exhaustively upon this infant on the same occasion. It was not effective in producing the fear response. This stimulus is effective in younger children. At what age such stimuli lose their potency in producing fear is not known. Nor is it known whether less placid children ever lose their fear of them. This probably depends upon the training the child gets. It is well known that children eagerly run to be tossed into the air and caught. On the other hand it is equally well known that in the adult fear responses are called out quite clearly by the sudden removal of support, if the individual is walking across a bridge, walking out upon a beam, etc. There is a wide field of study here which is aside from our present point."
+    },
+    {
+      "id": "p0010",
+      "text": "The sound stimulus, thus, at nine months of age, gives us the means of testing several important factors. I. Can we condition fear of an animal, e.g., a white rat, by visually presenting it and simultaneously striking a steel bar? II. If such a conditioned emotional response can be established, will there be a transfer to other animals or other objects? III. What is the effect of time upon such conditioned emotional responses? IV. If after a reasonable period such emotional responses have not died out, what laboratory methods can be devised for their removal?"
+    },
+    {
+      "id": "p0011",
+      "text": "I. The establishment of conditioned emotional responses."
+    },
+    {
+      "id": "p0012",
+      "text": "At first there was considerable hesitation upon our part in making the attempt to set up fear reactions experimentally. A certain responsibility attaches to such a procedure. We decided finally to make the attempt, comforting ourselves by the reflection that such attachments would arise anyway as soon as the child left the sheltered environment of the nursery for the rough and tumble of the home. We did not begin this work until Albert was eleven months, three days of age. Before attempting to set up a conditioned response we, as before, put him through all of the regular emotional [p.4] tests. Not the slightest sign of a fear response was obtained in any situation."
+    },
+    {
+      "id": "p0013",
+      "text": "The steps taken to condition emotional responses are shown in our laboratory notes."
+    },
+    {
+      "id": "p0014",
+      "text": "11 Months 3 Days"
+    },
+    {
+      "id": "p0015",
+      "text": "1. White rat suddenly taken from the basket and presented to Albert. He began to reach for rat with left hand. Just as his hand touched the animal the bar was struck immediately behind his head. The infant jumped violently and fell forward, burying his face in the mattress. He did not cry, however."
+    },
+    {
+      "id": "p0016",
+      "text": "2. Just as the right hand touched the rat the bar was again struck. Again the infant jumped violently, fell forward and began to whimper."
+    },
+    {
+      "id": "p0017",
+      "text": "In order not to disturb the child too seriously no further tests were given for one week."
+    },
+    {
+      "id": "p0018",
+      "text": "11 Months 10 Days"
+    },
+    {
+      "id": "p0019",
+      "text": "1. Rat presented suddenly without sound. There was steady fixation but no tendency at first to reach for it. The rat was then placed nearer, whereupon tentative reaching movements began with the right hand. When the rat nosed the infant's left hand, the hand was immediately withdrawn. He started to reach for the head of the animal with the forefinger of the left hand, but withdrew it suddenly before contact. It is thus seen that the two joint stimulations given the previous week were not without effect. He was tested with his blocks immediately afterwards to see if they shared in the process of conditioning. He began immediately to pick them up, dropping them, pounding them, etc. In the remainder of the tests the blocks were given frequently to quiet him and to test his general emotional state. They were always removed from sight when the process of conditioning was under way."
+    },
+    {
+      "id": "p0020",
+      "text": "2. Joint stimulation with rat and sound. Started, then fell over immediately to right side No crying.[p.5]"
+    },
+    {
+      "id": "p0021",
+      "text": "3. Joint stimulation. Fell to right side and rested upon hands, with head turned away from rat. No crying."
+    },
+    {
+      "id": "p0022",
+      "text": "4. Joint stimulation. Same reaction."
+    },
+    {
+      "id": "p0023",
+      "text": "5. Rat suddenly presented alone. Puckered face, whimpered and withdrew body sharply to the left."
+    },
+    {
+      "id": "p0024",
+      "text": "6. Joint stimulation. Fell over immediately to right side and began to whimper."
+    },
+    {
+      "id": "p0025",
+      "text": "7. Joint stimulation. Started violently and cried, but did not fall over."
+    },
+    {
+      "id": "p0026",
+      "text": "8. Rat alone. The instant the rat was shown the baby began to cry. Almost instantly he turned sharply to the left, fell over on left side, raised himself on all fours and began to crawl away so rapidly that he was caught with difficulty before reaching the edge of the table."
+    },
+    {
+      "id": "p0027",
+      "text": "This was as convincing a case of a completely conditioned fear response as could have been theoretically pictured. In all seven joint stimulations were given to bring about the complete reaction. It is not unlikely had the sound been of greater intensity or of a more complex clang character that the number of joint stimulations might have been materially reduced. Experiments designed to define the nature of the sounds that will serve best as emotional stimuli are under way."
+    },
+    {
+      "id": "p0028",
+      "text": "II. When a conditioned emotional response has been established for one object, is there a transfer? Five days later Albert was again brought back into the laboratory and tested as follows:"
+    },
+    {
+      "id": "p0029",
+      "text": "11 Months 15 Days"
+    },
+    {
+      "id": "p0030",
+      "text": "1. Tested first with blocks. He reached readily for them, playing with them as usual. This shows that there has been no general transfer to the room, table, blocks, etc."
+    },
+    {
+      "id": "p0031",
+      "text": "2. Rat alone. Whimpered immediately, withdrew right hand and turned head and trunk away."
+    },
+    {
+      "id": "p0032",
+      "text": "3.Blocks again offered. Played readily with them, smiling and gurgling. [p.6]"
+    },
+    {
+      "id": "p0033",
+      "text": "4. Rat alone. Leaned over to the left side as far away from the rat as possible, then fell over, getting up on all fours and scurrying away as rapidly as possible."
+    },
+    {
+      "id": "p0034",
+      "text": "5. Blocks again offered. Reached immediately for them, smiling and laughing as before."
+    },
+    {
+      "id": "p0035",
+      "text": "The above preliminary test shows that the conditioned response to the rat had carried over completely for the five days in which no tests were given. The question as to whether or not there is a transfer was next taken up."
+    },
+    {
+      "id": "p0036",
+      "text": "6. Rabbit alone. The rabbit was suddenly placed on the mattress in front of him. The reaction was pronounced. Negative responses began at once. He leaned as far away from the animal as possible, whimpered, then burst into tears. When the rabbit was placed in contact with him he buried his face in the mattress, then got up on all fours and crawled away, crying as he went. This was a most convincing test."
+    },
+    {
+      "id": "p0037",
+      "text": "7. The blocks were next given him, after an interval. He played with them as before. It was observed by four people that he played far more energetically with them than ever before. The blocks were raised high over his head and slammed down with a great deal of force."
+    },
+    {
+      "id": "p0038",
+      "text": "8. Dog alone. The dog did not produce as violent a reaction as the rabbit. The moment fixation occurred the child shrank back and as the animal came nearer he attempted to get on all fours but did not cry at first. As soon as the dog passed out of his range of vision he became quiet. The dog was then made to approach the infant's head (he was lying down at the moment). Albert straightened up immediately, fell over to the opposite side and turned his head away. He then began to cry."
+    },
+    {
+      "id": "p0039",
+      "text": "9. The blocks were again presented. He began immediately to play with them."
+    },
+    {
+      "id": "p0040",
+      "text": "10. Fur coat (seal). Withdrew immediately to the left side and began to fret. Coat put close to him on the [p.7] left side, he turned immediately, began to cry and tried to crawl away on all fours."
+    },
+    {
+      "id": "p0041",
+      "text": "11. Cotton wool. The wool was presented in a paper package. At the end the cotton was not covered by the paper. It was placed first on his feet. He kicked it away but did not touch it with his hands. When his hand was laid on the wool he immediately withdrew it but did not show the shock that the animals or fur coat produced in him. He then began to play with the paper, avoiding contact with the wool itself. He finally, under the impulse of the manipulative instinct, lost some of his negativism to the wool."
+    },
+    {
+      "id": "p0042",
+      "text": "12. Just in play W. put his head down to see if Albert would play with his hair. Albert was completely negative. Two other observers did the same thing. He began immediately to play with their hair. W. then brought the Santa Claus mask and presented it to Albert. He was again pronouncedly negative."
+    },
+    {
+      "id": "p0043",
+      "text": "11 Months 20 Days"
+    },
+    {
+      "id": "p0044",
+      "text": "1. Blocks alone. Played with them as usual."
+    },
+    {
+      "id": "p0045",
+      "text": "2. Rat alone. Withdrawal of the whole body, bending over to left side, no crying. Fixation and following with eyes. The response was much less marked than on first presentation the previous week. It was thought best to freshen up the reaction by another joint stimulation."
+    },
+    {
+      "id": "p0046",
+      "text": "3. Just as the rat was placed on his hand the rod was struck. Reaction violent."
+    },
+    {
+      "id": "p0047",
+      "text": "4. Rat alone. Fell over at once to left side. Reaction practically as strong as on former occasion but no crying."
+    },
+    {
+      "id": "p0048",
+      "text": "5. Rat alone. Fell over to left side, got up on all fours and started to crawl away. On this occasion there was no crying, but strange to say, as he started away he began to gurgle and coo, even while leaning far over to the left side to avoid the rat."
+    },
+    {
+      "id": "p0049",
+      "text": "6. Rabbit alone. Leaned over to left side as far as possible. Did not fall over. Began to whimper but reaction not so violent as on former occasions. [p.8]"
+    },
+    {
+      "id": "p0050",
+      "text": "7. Blocks again offered. He reached for them immediately and began to play."
+    },
+    {
+      "id": "p0051",
+      "text": "All of these tests so far discussed were carried out upon a table supplied with a mattress, located in a small, well-lighted dark-room. We wished to test next whether conditioned fear responses so set up would appear if the situation were markedly altered. We thought it best before making this test to freshen the reaction both to the rabbit and to the dog by showing them at the moment the steel bar was struck. It will be recalled that this was the first time any effort had been made to directly condition response to the dog and rabbit. The experimental notes are as follows:"
+    },
+    {
+      "id": "p0052",
+      "text": "8. The rabbit at first was given alone. The reaction was exactly as given in test (6) above. When the rabbit was left on Albert's knees for a long time he began tentatively to reach out and manipulate its fur with forefingers. While doing this the steel rod was struck. A violent fear reaction resulted."
+    },
+    {
+      "id": "p0053",
+      "text": "9. Rabbit alone. Reaction wholly similar to that on trial (6) above."
+    },
+    {
+      "id": "p0054",
+      "text": "I0. Rabbit alone. Started immediately to whimper, holding hands far up, but did not cry. Conflicting tendency to manipulate very evident."
+    },
+    {
+      "id": "p0055",
+      "text": "11. Dog alone. Began to whimper, shaking head from side to side, holding hands as far away from the animal as possible."
+    },
+    {
+      "id": "p0056",
+      "text": "12. Dog and sound. The rod was struck just as the animal touched him. A violent negative reaction appeared. He began to whimper, turned to one side, fell over and started to get up on all fours."
+    },
+    {
+      "id": "p0057",
+      "text": "13. Blocks. Played with them immediately and readily."
+    },
+    {
+      "id": "p0058",
+      "text": "On this same day and immediately after the above experiment Albert was taken into the large well-lighted lecture room belonging to the laboratory. He was placed on a table in the center of the room immediately under the skylight. Four people were present. The situation [p.9] was thus very different from that which obtained in the small dark room."
+    },
+    {
+      "id": "p0059",
+      "text": "I. Rat alone. No sudden fear reaction appeared at first. The hands, however, were held up and away from the animal. No positive manipulatory reactions appeared."
+    },
+    {
+      "id": "p0060",
+      "text": "2. Rabbit alone. Fear reaction slight. Turned to left and kept face away from the animal but the reaction was never pronounced."
+    },
+    {
+      "id": "p0061",
+      "text": "3. Dog alone. Turned away but did not fall over. Cried. Hands moved as far away from the animal as possible. Whimpered as long as the dog was present."
+    },
+    {
+      "id": "p0062",
+      "text": "4. Rat alone. Slight negative reaction."
+    },
+    {
+      "id": "p0063",
+      "text": "5. Rat and sound. It was thought best to freshen the reaction to the rat. The sound was given just as the rat was presented. Albert jumped violently but did not cry."
+    },
+    {
+      "id": "p0064",
+      "text": "6. Rat alone. At first he did not show any negative reaction. When rat was placed nearer he began to show negative reaction by drawing back his body, raising his hands, whimpering, etc."
+    },
+    {
+      "id": "p0065",
+      "text": "7. Blocks. Played with them immediately."
+    },
+    {
+      "id": "p0066",
+      "text": "8. Rat alone. Pronounced withdrawal of body and whimpering."
+    },
+    {
+      "id": "p0067",
+      "text": "9. Blocks. Played with them as before."
+    },
+    {
+      "id": "p0068",
+      "text": "10. Rabbit alone. Pronounced reaction. Whimpered with arms held high, fell over backward and had to be caught."
+    },
+    {
+      "id": "p0069",
+      "text": "11. Dog alone. At first the dog did not produce the pronounced reaction. The hands were held high over the head, breathing was checked, but there was no crying. Just at this moment the dog, which had not barked before, barked three times loudly when only about six inches from the baby's face. Albert immediately fell over and broke into a wail that continued until the dog was removed. The sudden barking of the hitherto quiet dog produced a marked fear response in the adult observers!"
+    },
+    {
+      "id": "p0070",
+      "text": "[p.10] From the above results it would seem that emotional transfers do take place. Furthermore it would seem that the number of transfers resulting from an experimentally produced conditioned emotional reaction may be very large. In our observations we had no means of testing the complete number of transfers which may have resulted."
+    },
+    {
+      "id": "p0071",
+      "text": "III. The effect of time upon conditioned emotional responses. We have already shown that the conditioned emotional response will continue for a period of one week. It was desired to make the time test longer. In view of the imminence of Albert's departure from the hospital we could not make the interval longer than one month. Accordingly no further emotional experimentation was entered into for thirty-one days after the above test. During the month, however, Albert was brought weekly to the laboratory for tests upon right and left-handedness, imitation, general development, etc. No emotional tests whatever were given and during the whole month his regular nursery routine was maintained in the Harriet Lane Home. The notes on the test given at the end of this period are as follows:"
+    },
+    {
+      "id": "p0072",
+      "text": "1 Year 21 Days"
+    },
+    {
+      "id": "p0073",
+      "text": "1. Santa Claus mask. Withdrawal, gurgling, then slapped at it without touching. When his hand was forced to touch it, he whimpered and cried. His hand was forced to touch it two more times. He whimpered and cried on both tests. He finally cried at the mere visual stimulus of the mask."
+    },
+    {
+      "id": "p0074",
+      "text": "2. Fur coat. Wrinkled his nose and withdrew both hands, drew back his whole body and began to whimper as the coat was put nearer. Again there was the strife between withdrawal and the tendency to manipulate. Reached tentatively with left hand but drew back before contact had been made. In moving his body to one side his hand accidentally touched the coat. He began to cry at once, nodding his head in a very peculiar manner (this reaction was an entirely new one). Both hands were withdrawn as far as possible from the coat. The coat [p.11] was then laid on his lap and he continued nodding his head and whimpering, withdrawing his body as far as possible, pushing the while at the coat with his feet but never touching it with his hands."
+    },
+    {
+      "id": "p0075",
+      "text": "3. Fur coat. The coat was taken out of his sight and presented again at the end of a minute. He began immediately to fret, withdrawing his body and nodding his head as before."
+    },
+    {
+      "id": "p0076",
+      "text": "4. Blocks. He began to play with them as usual."
+    },
+    {
+      "id": "p0077",
+      "text": "5. The rat. He allowed the rat to crawl towards him without withdrawing. He sat very still and fixated it intently. Rat then touched his hand. Albert withdrew it immediately, then leaned back as far as possible but did not cry. When the rat was placed on his arm he withdrew his body and began to fret, nodding his head. The rat was then allowed to crawl against his chest. He first began to fret and then covered his eyes with both hands."
+    },
+    {
+      "id": "p0078",
+      "text": "6. Blocks. Reaction normal."
+    },
+    {
+      "id": "p0079",
+      "text": "7. The rabbit. The animal was placed directly in front of him. It was very quiet. Albert showed no avoiding reactions at first. After a few seconds he puckered up his face, began to nod his head and to look intently at the experimenter. He next began to push the rabbit away with his feet, withdrawing his body at the same time. Then as the rabbit came nearer he began pulling his feet away, nodding his head, and wailing \"da da\". After about a minute he reached out tentatively and slowly and touched the rabbit's ear with his right hand, finally manipulating it. The rabbit was again placed in his lap. Again he began to fret and withdrew his hands. He reached out tentatively with his left hand and touched the animal, shuddered and withdrew the whole body. The experimenter then took hold of his left hand and laid it on the rabbit's back. Albert immediately withdrew his hand and began to suck his thumb. Again the rabbit was laid in his lap. He began to cry, covering his face with both hands. [p.12]"
+    },
+    {
+      "id": "p0080",
+      "text": "8. Dog. The dog was very active. Albert fixated it intensely for a few seconds, sitting very still. He began to cry but did not fall over backwards as on his last contact with the dog. When the dog was pushed closer to him he at first sat motionless, then began to cry, putting both hands over his face."
+    },
+    {
+      "id": "p0081",
+      "text": "These experiments would seem to show conclusively that directly conditioned emotional responses as well as those conditioned by transfer persist, although with a certain loss in the intensity of the reaction, for a longer period than one month. Our view is that they persist and modify personality throughout life. It should be recalled again that Albert was of an extremely phlegmatic type. Had he been emotionally unstable probably both the directly conditioned response and those transferred would have persisted throughout the month unchanged in form."
+    },
+    {
+      "id": "p0082",
+      "text": "IV. \"Detachment\" or removal of conditioned emotional responses. Unfortunately Albert was taken from the hospital the day the above tests were made. Hence the opportunity of building up an experimental technique by means of which we could remove the conditioned emotional responses was denied us. Our own view, expressed above, which is possibly not very well grounded, is that these responses in the home environment are likely to persist indefinitely, unless an accidental method for removing them is hit upon. The importance of establishing some method must be apparent to all. Had the opportunity been at hand we should have tried out several methods, some of which we may mention. (I) Constantly confronting the child with those stimuli which called out the responses in the hopes that habituation would come in corresponding to \"fatigue\" of reflex when differential reactions are to be set up. (2) By trying to \"recondition\" by showing objects calling out fear responses (vsual) and simultaneously stimulating the erogenous zones (tactual). We should try first the lips, then the nipples and as a final resort the sex organs. (3) By trying to \"recondition\" by feeding the subject candy or other food just as the animal is shown. This method calls for the food control of the subject. (4) By building up \"constructive\" activities around the object by imitation and [p.13] by putting the hand through the motions of manipulation. At this age imitation of overt motor activity is strong, as our present but unpublished experimentation has shown."
+    },
+    {
+      "id": "p0083",
+      "text": "I NCIDENTAL O BSERVATIONS"
+    },
+    {
+      "id": "p0084",
+      "text": "(a) Thumb sucking as a compensatory device for blocking fear and noxious stimuli. During the course of these experiments, especially in the final test, it was noticed that whenever Albert was on the verge of tears or emotionally upset generally he would continually thrust his thumb into his mouth. The moment the hand reached the mouth he became impervious to the stimuli producing fear. Again and again while the motion pictures were being made at the end of the thirty-day period, we had to remove the thumb from his mouth before the conditioned response could be obtained. This method of blocking noxious and emotional stimuli (fear and rage) through erogenous stimulation seems to persist from birth onward. Very often in our experiments upon the work adders with infants under ten days of age the same reaction appeared. When at work upon the adders both of the infants arms are under slight restraint. Often rage appears. They begin to cry, thrashing their arms and legs about. If the finger gets into the mouth crying ceases at once. The organism thus apparently from birth, when under the influence of love stimuli is blocked to all others.[ 3] This resort to sex stimulation when under the influence of noxious and emotional situations, or when the individual is restless and idle, persists throughout adolescent and adult life. Albert, at any rate, did not resort to thumb sucking except in the presence of such stimuli. Thumb sucking could immediately be checked by offering him his blocks. These invariably called out active manipulation instincts. It is worth while here to call attention to the fact that Freud's conception of the stimulation of erogenous zones as being the expression of an original \"pleasure\" seeking principle may be turned about [p.14] and possibly better described as a compensatory (and often conditioned) device for the blockage of noxious and fear and rage producing stimuli."
+    },
+    {
+      "id": "p0085",
+      "text": "(b) Equal primacy of fear, love and possibly rage. While in general the results of our experiment offer no particular points of conflict with Freudian concepts, one fact out of harmony with them should be emphasized. According to proper Freudians sex (or in our terminology, love) is the principal emotion in which conditioned responses arise which later limit and distort personality. We wish to take sharp issue with this view on the basis of the experimental evidence we have gathered. Fear is as primal a factor as love in influencing personality. Fear does not gather its potency in any derived manner from love. It belongs to the original and inherited nature of man. Probably the same may be true of rage although at present we are not so sure of this."
+    },
+    {
+      "id": "p0086",
+      "text": "The Freudians twenty years from now, unless their hypotheses change, when they come to analyze Albert's fear of a seal skin coat - assuming that he comes to analysis at that age - will probably tease from him the recital of a dream which upon their analysis will show that Albert at three years of age attempted to play with the pubic hair of the mother and was scolded violently for it. (We are by no means denying that this might in some other case condition it). If the analyst has sufficiently prepared Albert to accept such a dream when found as an explanation of his avoiding tendencies, and if the analyst has the authority and personality to put it over, Albert may be fully convinced that the dream was a true revealer of the factors which brought about the fear."
+    },
+    {
+      "id": "p0087",
+      "text": "It is probable that many of the phobias in psychopathology are true conditioned emotional reactions either of the direct or the transferred type. One may possibly have to believe that such persistence of early conditioned responses will be found only in persons who are constitutionally inferior. Our argument is meant to be constructive. Emotional disturbances in adults cannot be traced back to sex alone. They must be retraced along at least three collateral lines - to conditioned and transferred responses set up in infancy and early youth in all three of the fundamental human emotions."
+    },
+    {
+      "id": "p0088",
+      "text": "Footnotes"
+    },
+    {
+      "id": "p0089",
+      "text": "[1] 'Emotional Reactions and Psychological Experimentation,' American Journal of Psychology, April, 1917, Vol. 28, pp. 163-174."
+    },
+    {
+      "id": "p0090",
+      "text": "[2] 'Psychology from the Standpoint of a Behaviorist,' p.202."
+    },
+    {
+      "id": "p0091",
+      "text": "[3] The stimulus to love in infants according to our view is stroking of the skin, lips, nipples and sex organs, patting and rocking, picking up, etc. Patting and rocking (when not conditioned) are probably equivalent to actual stimulation of the sex organs. In adults of course, as every lover knows, vision, audition and olfaction soon become conditioned by joint stimulation with contact and kinaesthetic stimuli."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-watson-conditioned-emotion": {
+      "paragraphId": "p0015",
+      "start": 111,
+      "end": 194,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0015",
+          "start": 111,
+          "end": 194,
+          "text": "Just as his hand touched the animal the bar was struck immediately behind his head."
+        },
+        {
+          "paragraphId": "p0026",
+          "start": 14,
+          "end": 66,
+          "text": "The instant the rat was shown the baby began to cry."
+        },
+        {
+          "paragraphId": "p0036",
+          "start": 3,
+          "end": 16,
+          "text": "Rabbit alone."
+        },
+        {
+          "paragraphId": "p0036",
+          "start": 110,
+          "end": 143,
+          "text": "Negative responses began at once."
+        }
+      ],
+      "quote": "Just as his hand touched the animal the bar was struck immediately behind his head. ... The instant the rat was shown the baby began to cry. ... Rabbit alone. ... Negative responses began at once."
+    }
+  }
+}

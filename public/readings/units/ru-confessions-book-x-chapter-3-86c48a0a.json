@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-confessions-book-x-chapter-3-86c48a0a",
+  "title": "卷 X · 章 3",
+  "englishTitle": "Book X · Chapter 3",
+  "work": "《忏悔录》",
+  "englishWork": "Confessions",
+  "locator": "卷 X · 章 3",
+  "englishLocator": "Book X · Chapter 3",
+  "version": "New Advent，J. G. Pilkington 1887 年 NPNF 公版英译，《忏悔录》第十卷第 3 章第 3 节",
+  "englishVersion": "New Advent, J. G. Pilkington public-domain translation in NPNF (1887), Confessions X.3.3",
+  "sourceUrl": "https://www.newadvent.org/fathers/110110.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/110110.htm",
+    "contentType": "text/html",
+    "sha256": "10cf5fc0d73656b25b99a373e74702908bb2eed25d343076bb0128e626b2cb31"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "e0b9ef1414e64cbfc69dfe0c3b6987f6c907702311a51e3cb1975bd7b5920800",
+  "inputHash": "75308ed7e2f748dffc16d21b393da43aae7acec19696c9f37dc4cacb02a4bdee",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 3. He Who Confesses Rightly Unto God Best Knows Himself."
+    },
+    {
+      "id": "p0002",
+      "text": "3. What then have I to do with men, that they should hear my confessions, as if they were going to cure all my diseases? A people curious to know the lives of others, but slow to correct their own. Why do they desire to hear from me what I am, who are unwilling to hear from You what they are? And how can they tell, when they hear from me of myself, whether I speak the truth , seeing that no man knows what is in man, save the spirit of man which is in him ? 1 Corinthians 2:11 But if they hear from You anything concerning themselves, they will not be able to say, The Lord lies. For what is it to hear from You of themselves, but to know themselves? And who is he that knows himself and says, It is false, unless he himself lies? But because charity believes all things 1 Corinthians 13:7 (among those at all events whom by union with itself it makes one), I too, O Lord, also so confess unto You that men may hear, to whom I cannot prove whether I confess the truth , yet do they believe me whose ears charity opens unto me."
+    },
+    {
+      "id": "p0003",
+      "text": "4. But yet do Thou, my most secret Physician, make clear to me what fruit I may reap by doing it. For the confessions of my past sins — which You have forgiven and covered, that You might make me happy in You, changing my soul by faith and Your sacrament — when they are read and heard, stir up the heart, that it sleep not in despair and say, I cannot; but that it may awake in the love of Your mercy and the sweetness of Your grace , by which he that is weak is strong, 2 Corinthians 12:10 if by it he is made conscious of his own weakness. As for the good , they take delight in hearing of the past errors of such as are now freed from them; and they delight, not because they are errors , but because they have been and are so no longer. For what fruit, then, O Lord my God , to whom my conscience makes her daily confession, more confident in the hope of Your mercy than in her own innocency — for what fruit, I beseech You, do I confess even to men in Your presence by this book what I am at this time, not what I have been? For that fruit I have both seen and spoken of, but what I am at this time, at the very moment of making my confessions, various people desire to know , both who knew me and who knew me not — who have heard of or from me — but their ear is not at my heart, where I am whatsoever I am. They are desirous, then, of hearing me confess what I am within, where they can neither stretch eye, nor ear, nor mind; they desire it as those willing to believe — but will they understand? For charity, by which they are good, says unto them that I do not lie in my confessions, and she in them believes me."
+    }
+  ],
+  "anchors": {
+    "augustine-confession-and-self-knowledge": {
+      "paragraphId": "p0002",
+      "start": 198,
+      "end": 460,
+      "quote": "Why do they desire to hear from me what I am, who are unwilling to hear from You what they are? And how can they tell, when they hear from me of myself, whether I speak the truth, seeing that no man knows what is in man, save the spirit of man which is in him?",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-principles-of-economics-book-iii-chapter-vi-b6c4aa35",
+  "title": "卷 III · 章 VI",
+  "englishTitle": "Book III · Chapter VI",
+  "work": "《经济学原理》",
+  "englishWork": "Principles of Economics",
+  "locator": "卷 III · 章 VI",
+  "englishLocator": "Book III · Chapter VI",
+  "version": "Econlib 公版文本，马歇尔《经济学原理》1920年第八版，第三篇第6章第1节，对消费者剩余的连续两句定义",
+  "englishVersion": "Econlib public-domain text, Marshall, Principles of Economics, 1920 eighth edition, Book III, Chapter VI, §1, two continuous sentences defining consumer's surplus",
+  "sourceUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=15",
+  "source": {
+    "url": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=15",
+    "contentType": "text/html",
+    "sha256": "7d240c82dd37a2df79eaf7a1405e4e3e9228067498d8b2c860d515dca8fe8813"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "229eb3ca751fe89522772fd033abe8b656dfd9a22c85eb91f1d1929fe1abadb8",
+  "inputHash": "27ab6c1b359fd5655611ce55b59090610ebf32e796f1c352db29028fa8dea232",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "§ 1."
+    },
+    {
+      "id": "p0002",
+      "text": "We may now turn to consider how far the price which is actually paid for a thing represents the benefit that arises from its possession. This is a wide subject on which economic science has very little to say, but that little is of some importance."
+    },
+    {
+      "id": "p0003",
+      "text": "We have already seen that the price which a person pays for a thing can never exceed, and seldom comes up to that which he would be willing to pay rather than go without it: so that the satisfaction which he gets from its purchase generally exceeds that which he gives up in paying away its price; and he thus derives from the purchase a surplus of satisfaction. The excess of the price which he would be willing to pay rather than go without the thing, over that which he actually does pay, is the economic measure of this surplus satisfaction. It may be called"
+    },
+    {
+      "id": "p0004",
+      "text": "consumer’s surplus."
+    },
+    {
+      "id": "p0005",
+      "text": "It is obvious that the consumer’s surpluses derived from some commodities are much greater than from others. There are many comforts and luxuries of which the prices are very much below those which many people would pay rather than go entirely without them; and which therefore afford a very great consumer’s surplus. Good instances are matches, salt, a penny newspaper, or a postage-stamp."
+    },
+    {
+      "id": "p0006",
+      "text": "This benefit, which he gets from purchasing at a low price things for which he would rather pay a high price than go without them, may be called the benefit which he derives from his"
+    },
+    {
+      "id": "p0007",
+      "text": "opportunities, or from his"
+    },
+    {
+      "id": "p0008",
+      "text": "environment; or, to recur to a word that was in common use a few generations ago, from his"
+    },
+    {
+      "id": "p0009",
+      "text": "conjuncture. Our aim in the present chapter is to apply the notion of consumer’s surplus as an aid in estimating roughly some of the benefits which a person derives from his environment or his conjuncture"
+    },
+    {
+      "id": "p0010",
+      "text": "*85 ."
+    }
+  ],
+  "anchors": {
+    "economics-principles-marshall-consumer-surplus": {
+      "paragraphId": "p0003",
+      "start": 363,
+      "end": 562,
+      "match": "normalized-adjacent-paragraphs",
+      "segments": [
+        {
+          "paragraphId": "p0003",
+          "start": 363,
+          "end": 562,
+          "text": "The excess of the price which he would be willing to pay rather than go without the thing, over that which he actually does pay, is the economic measure of this surplus satisfaction. It may be called"
+        },
+        {
+          "paragraphId": "p0004",
+          "start": 0,
+          "end": 19,
+          "text": "consumer’s surplus."
+        }
+      ],
+      "quote": "The excess of the price which he would be willing to pay rather than go without the thing, over that which he actually does pay, is the economic measure of this surplus satisfaction. It may be called consumer’s surplus."
+    }
+  }
+}

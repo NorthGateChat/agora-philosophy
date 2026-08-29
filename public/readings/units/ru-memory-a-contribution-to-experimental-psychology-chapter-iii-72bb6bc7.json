@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-memory-a-contribution-to-experimental-psychology-chapter-iii-72bb6bc7",
+  "title": "章 III",
+  "englishTitle": "Chapter III",
+  "work": "《记忆：对实验心理学的贡献》",
+  "englishWork": "Memory: A Contribution to Experimental Psychology",
+  "locator": "章 III",
+  "englishLocator": "Chapter III",
+  "version": "约克大学心理学经典文库英文译本，《记忆：对实验心理学的贡献》第 3 章第 12 节“材料的优点”",
+  "englishVersion": "York University Classics in the History of Psychology English translation, Memory: A Contribution to Experimental Psychology, Chapter III, §12, “Advantages of the Material”",
+  "sourceUrl": "https://psychclassics.yorku.ca/Ebbinghaus/index.htm",
+  "source": {
+    "contentType": "text/html",
+    "sha256": "39aa3b53ef2869fd71f854029d248b6e6379d8542bfec3cf7539013c18b38a6b"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "af4b262a5483ccd6e717b2bca11b676b9a0693c5205881caa285ff5c8801640b",
+  "inputHash": "ddfba6ee6cdb1f6d9c2c1382a5a9dc39f657f918216feed2dcb52457a9297f77",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER III"
+    },
+    {
+      "id": "p0002",
+      "text": "THE METHOD OF INVESTIGATION"
+    },
+    {
+      "id": "p0003",
+      "text": "Section 11. Series of Nonsense Syllables"
+    },
+    {
+      "id": "p0004",
+      "text": "In order to test practically, although only for a limited field, a way of penetrating more deeply into memory processes -- and it is to these that the preceding considerations have been directed -- I have hit upon the following method."
+    },
+    {
+      "id": "p0005",
+      "text": "Out of the simple consonants of the alphabet and our eleven vowels and diphthongs all possible syllables of a certain sort were constructed, a vowel sound being placed between two consonants.[ 1 ]"
+    },
+    {
+      "id": "p0006",
+      "text": "These syllables, about 2,300 in number, were mixed together and then drawn out by chance and used to construct series of different lengths, several of which each time formed the material for a test.[ 2 ]"
+    },
+    {
+      "id": "p0007",
+      "text": "At the beginning a few rules were observed to prevent, in the construction of the syllables, too immediate repetition of similar sounds, but these were not strictly adhered to. Later they were abandoned and the matter left to chance. The syllables used each time were carefully laid aside till the whole number had been used, then they were mixed together and used again."
+    },
+    {
+      "id": "p0008",
+      "text": "The aim of the tests carried on with these syllable series was, by means of repeated audible perusal of the separate series, to so impress them that immediately afterward they could voluntarily be reproduced. This aim was considered attained when, the initial syllable being given, a series could be recited at the first attempt, without hesitation, at a certain rate, and with the consciousness of being correct."
+    },
+    {
+      "id": "p0009",
+      "text": "Section 12. Advantages of the Material"
+    },
+    {
+      "id": "p0010",
+      "text": "The nonsense material, just described, offers many advantages, in part because of this very lack of meaning. First of all, it is relatively simple and relatively homogeneous. In the case of the material nearest at hand, namely poetry or prose, the content is now narrative in style, now descriptive, or now reflective; it contains now a phrase that is pathetic, now one that is humorous; its metaphors are sometimes beautiful, sometimes harsh; its rhythm is sometimes smooth and sometimes rough. There is thus brought into play a multiplicity of influences which change without regularity and are therefore disturbing. Such are associations which dart here and there, different degrees of interest, lines of verse recalled because of their striking quality or their beauty, and the like. All this is avoided with our syllables. Among many thousand combinations there occur scarcely a few dozen that have a meaning and among these there are again only a few whose meaning was realised while they were being memorised."
+    },
+    {
+      "id": "p0011",
+      "text": "However, the simplicity and homogeneity of the material must not be overestimated. It is still far from ideal. The learning of the syllables calls into play the three sensory fields, sight, hearing and the muscle sense of the organs of speech. And although the part that each of these senses plays is well limited and always similar in kind, a certain complication of the results must still be anticipated because of their combined action. Again, to particularise, the homogeneity of the series of syllables falls considerably short of what might be expected of it. These series exhibit very important and almost incomprehensible variations as to the ease or difficulty with which they are learned. It even appears from this point of view as if the differences between sense and nonsense material were not nearly so great as one would be inclined a priori to imagine. At least I found in the case of learning by heart a few cantos from Byron's \"Don Juan\" no greater range of distribution of the separate numerical measures than in the case of a series of nonsense syllables in the learning of which an approximately equal time had been spent. In the former case the innumerable disturbing influences mentioned above seem to have compensated each other in producing a certain intermediate effect; whereas in the latter case the predisposition, due to the influence of the mother tongue, for certain combinations of letters and syllables must be a very heterogeneous one."
+    },
+    {
+      "id": "p0012",
+      "text": "More indubitable are the advantages of our material in two other respects. In the first place it permits an inexhaustible amount of new combinations of quite homogeneous character, while different poems, different prose pieces always have something incomparable. It also makes possible a quantitative variation which is adequate and certain; whereas to break off before the end or to begin in the middle of the verse or the sentence leads to new complications because of various and unavoidable disturbances of the meaning."
+    },
+    {
+      "id": "p0013",
+      "text": "Series of numbers, which I also tried, appeared impracticable for the more thorough tests. Their fundamental elements were too small in number and therefore too easily exhausted."
+    },
+    {
+      "id": "p0014",
+      "text": "Section 13. Establishment of the Most Constant Experimental Conditions Possible"
+    },
+    {
+      "id": "p0015",
+      "text": "The following rules were made for the process of memorising."
+    },
+    {
+      "id": "p0016",
+      "text": "1. The separate series were always read through completely from beginning to end; they were not learned in separate parts which were then joined together; neither were especially difficult parts detached and repeated more frequently. There was a perfectly free interchange between the reading and the occasionally necessary tests of the capacity to reproduce by heart. For the latter there was an important rule to the effect that upon hesitation the rest of the series was to be read through to the end before beginning it again."
+    },
+    {
+      "id": "p0017",
+      "text": "2. The reading and the recitation of the series took place at a constant rate, that of 150 strokes per minute. A clockwork metronome placed at some distance was at first used to regulate the rate; but very soon the ticking of a watch was substituted, that being much simpler and less disturbing to the attention. The mechanism of escapement of most watches swings 300 times per minute."
+    },
+    {
+      "id": "p0018",
+      "text": "3. Since it is practically impossible to speak continuously without variation of accent, the following method was adopted to avoid irregular variations: either three or four syllables were united into a measure, and thus either the 1st, 4th, 7th, or the 1st, 5th, 9th ... syllables were pronounced with a slight accent. Stressing of the voice was otherwise, as far as possible, avoided."
+    },
+    {
+      "id": "p0019",
+      "text": "4. After the learning of each separate series a pause of 15 seconds was made, and used for the tabulation of results. Then the following series of the same test was immediately taken up."
+    },
+    {
+      "id": "p0020",
+      "text": "5. During the process of learning, the purpose of reaching the desired goal as soon as possible was kept in mind as much as was feasible. Thus, to the limited degree to which conscious resolve is of influence here, the attempt was made to keep the attention concentrated on the tiresome task and its purpose. It goes without saying that care was taken to keep away all outer disturbances in order to make possible the attainment of this aim. The smaller distractions caused by carrying on the test in various surroundings were also avoided as far as that could be done."
+    },
+    {
+      "id": "p0021",
+      "text": "6. There was no attempt to connect the nonsense syllables by the invention of special associations of the mnemotechnik [sic] type; learning was carried on solely by the influence of the mere repetitions upon the natural memory. As I do not possess the least practical knowledge of the mnemotechnical devices, the fulfillment of this condition offered no difficulty to me."
+    },
+    {
+      "id": "p0022",
+      "text": "7. Finally and chiefly, care was taken that the objective conditions of life during the period of the tests were so controlled as to eliminate too great changes or irregularities. Of course, since the tests extended over many months, this was possible only to a limited extent. But, even so, the attempt was made to conduct, under as similar conditions of life as possible, those tests the results of which were to be directly compared. In particular the activity immediately preceding the test was kept as constant in character as was possible. Since the mental as well as the physical condition of man is subject to an evident periodicity of 24 hours, it was taken for granted that like experimental conditions are obtainable only at like times of day. However, in order to carry out more than one test in a given day, different experiments were occasionally carried on together at different times of day. When too great changes in the outer and inner life occurred, the tests were discontinued for a length of time. Their resumption was preceded by some days of renewed training varying according to the length of the interruption."
+    },
+    {
+      "id": "p0023",
+      "text": "Section 14. Sources of Error"
+    },
+    {
+      "id": "p0024",
+      "text": "The guiding point of view in the selection of material and in determining the rules for its employment was, as is evident, the attempt to simplify as far as possible, and to keep as constant as possible, the conditions under which the activity to be observed, that of memory, came into play. Naturally the better one succeeds in this attempt the more does he withdraw from the complicated and changing conditions under which this activity takes place in ordinary life and under which it is of importance to us. But that is no objection to the method. The freely falling body and the frictionless machine, etc., with which physics deals, are also only abstractions when compared with the actual happenings in nature which are of import to us. We can almost nowhere get a direct knowledge of the complicated and the real, but must get at them in roundabout ways by successive combinations of experiences, each of which is obtained in artificial, experimental cases, rarely or never furnished in this form by nature."
+    },
+    {
+      "id": "p0025",
+      "text": "Meanwhile the fact that the connection with the activity of memory in ordinary life is for the moment lost is of less importance than the reverse, namely, that this connection with the complications and fluctuations of life is necessarily still a too close one. The struggle to attain the most simple and uniform conditions possible at numerous points naturally encounters obstacles that are rooted in the nature of the case and which thwart the attempt. The unavoidable dissimilarity of the material and the equally unavoidable irregularity of the external conditions have already been touched upon. I pass next to two other unsurmountable [sic] sources of difficulty."
+    },
+    {
+      "id": "p0026",
+      "text": "By means of the successive repetitions the series are, so to speak, raised to ever higher levels. The natural assumption would be that at the moment when they could for the first time be reproduced by heart the level thus attained would always be the same. If this were the case, i.e., if this characteristic first reproduction were everywhere an invariable objective sign of an equally invariable fixedness of the series, it would be of real value to us. This, however, is not actually the case. The inner conditions of the separate series at the moment of the first possible reproduction are not always the same, and the most that can be assumed is that in the case of these different series these conditions always oscillate about the same degree of inner surety. This is clearly seen if the learning and repeating of the series is continued after that first spontaneous reproduction of the series has been attained. As a general thing the capacity for voluntary reproduction persists after it has once been reached. In numerous cases, however, it disappears immediately after its first appearance, and is regained only after several further repetitions. This proves that the predisposition for memorising the series, irrespective of their differences of a larger sort according to the time of day, to the objective and subjective conditions, etc., is subject to small variations of short duration, whether they be called oscillations of attention or something else. If, at the very instant when the material to be memorised has almost reached the desired degree of surety, a chance moment of especial mental clearness occurs, then the series is caught on the wing as it were, often to the learner's surprise; but the series cannot long be retained. By the occurrence of a moment of special dullness, on the other hand, the first errorless reproduction is postponed for a while, although the learner feels that he really is master of the thing and wonders at the constantly recurring hesitations. In the former case, in spite of the homogeneity of the external conditions, the first errorless reproduction is reached at a point a little below the level of retention normally connected with it. In the latter case it is reached at a point a little above that level. As was said before, the most plausible conjecture to make in this connection is that these deviations will compensate each other in the case of large groups."
+    },
+    {
+      "id": "p0027",
+      "text": "Of the other source of error, I can only say that it may occur and that, when it does, it is a source of great danger. I mean the secret influence of theories and opinions which are in the process of formation. An investigation usually starts out with definite presuppositions as to what the results will be. But if this is not the case at the start, such presuppositions form gradually in case the experimenter is obliged to work alone. For it is impossible to carry on the investigations for any length of time without taking notice of the results. The experimenter must know whether the problem has been properly formulated or whether it needs completion or correction. The fluctuations of the results must be controlled in order that the separate observations may be continued long enough to give to the mean value the certainty necessary for the purpose in hand. Consequently it is unavoidable that, after the observation of the numerical results, suppositions should arise as to general principles which are concealed in them and which occasionally give hints as to their presence. As the investigations are carried further, these suppositions, as well as those present at the beginning, constitute a complicating factor which probably has a definite influence upon the subsequent results. It goes without saying that what I have in mind is not any consciously recognised influence but something similar to that which takes place when one tries to be very unprejudiced or to rid one's self of a thought and by that very attempt fosters that thought or prejudice. The results are met half way with an anticipatory knowledge, with a kind of expectation. Simply for the experimenter to say to himself that such anticipations must not be allowed to alter the impartial character of the investigation will not by itself bring about that result. On the contrary, they do remain and play a r&ocirc;le in determining the whole inner attitude. According as the subject notices that these anticipations are confirmed or not confirmed (and in general he notices this during the learning), he will feel, if only in a slight degree, a sort of pleasure or surprise. And would you not expect that, in spite of the greatest conscientiousness, the surprise felt by the subject over especially startling deviations, whether positive or negative, would result, without any volition on his part, in a slight change in attitude? Would he not be likely to exert himself a little more here and to relax a little more there than would have been the case had he had no knowledge or presupposition concerning the probable numerical value of the results? I cannot assert that this is always or even frequently the case, since we are not here concerned with things that can be directly observed, and since numerous results in which such secret warping of the truth might be expected show evident independence of it. All I can say is, we must expect something of the sort from our general knowledge of human nature, and in any investigations in which the inner attitude is of very great importance, as for example in experiments on sense perception, we must give special heed to its misleading influence."
+    },
+    {
+      "id": "p0028",
+      "text": "It is evident how this influence in general makes itself felt. With average values it would tend to level the extremes; where especially large or small numbers are expected it would tend to further increase or decrease the values. This influence can only be avoided with certainty when the tests are made by two persons working together, one of whom acts as subject for a certain time without raising any questions concerning the purpose or the result of the investigations. Otherwise help can be obtained only by roundabout methods, and then, probably, only to a limited extent. The subject, as I myself always did, can conceal from himself as long as possible the exact results. The investigation can be extended in such a way that the upper limits of the variables in question are attained. In this way, whatever warping of the truth takes place becomes relatively more difficult and unimportant. Finally, the subject can propose many problems which will appear to be independent of each other in the hope that, as a result, the true relation of the interconnected mental processes will break its way through."
+    },
+    {
+      "id": "p0029",
+      "text": "To what extent the sources of error mentioned have affected the results given below naturally cannot be exactly determined. The absolute value of the numbers will doubtless be frequently influenced by them, but as the purpose of the tests could never have been the precise determination of absolute values, but rather the attainment of comparative results (especially in the numerical sense) and relatively still more general results, there is no reason for too great anxiety. In one important case (sec. 38) I could directly convince myself that the exclusion of all knowledge concerning the character of the results brought about no change; in another case where I myself could not eliminate a doubt I called especial attention to it. In any case he who is inclined a priori to estimate very highly the unconscious influence of secret wishes on the total mental attitude will also have to take into consideration that the secret wish to find objective truth and not with disproportionate toil to place the creation of his own fancy upon the feet of clay -- that this wish, I say, may also claim a place in the complicated mechanism of these possible influences."
+    },
+    {
+      "id": "p0030",
+      "text": "Section 15. Measurement of Work Required"
+    },
+    {
+      "id": "p0031",
+      "text": "The number of repetitions which were necessary for memorising a series up to the first possible reproduction was not originally determined by counting, but indirectly by measuring in seconds the time that was required to memorise it. My purpose was in this way to avoid the distraction necessarily connected with counting; and I could assume that there was a proportional relation existing between the times and the number of repetitions occurring at any time in a definite rhythm. We could scarcely expect this proportionality to be perfect, since, when only the time is measured, the moments of hesitation and reflection are included, which is not true when the repetitions are counted. Difficult series in which hesitation will occur relatively more frequently, will, by the method of time measurement, get comparatively greater numbers, the easier series will get comparatively smaller numbers than when the repetitions are counted. But with larger groups of series a tolerably equal distribution of difficult and equal series may be taken for granted. Consequently the deviations from proportionality will compensate themselves in a similar manner in the case of each group."
+    },
+    {
+      "id": "p0032",
+      "text": "When, for certain tests, the direct counting of the repetitions became necessary, I proceeded in the following manner. Little wooden buttons measuring about 14 mms. in diameter and 4 mms. at their greatest thickness were strung on a cord which would permit of easy displacement and yet heavy enough to prevent accidental slipping. Each tenth piece was black; the others had their natural color. During the memorisation the cord was held in the hand and at each new repetition a piece was displaced some centimeters from left to right. When the series could be recited, a glance at the cord, since it was divided into tens, was enough to ascertain the number of repetitions that had been necessary. The manipulation required so little attention that in the mean values of the time used (which was always tabulated at the same time) no lengthening could be noted as compared with earlier tests."
+    },
+    {
+      "id": "p0033",
+      "text": "By means of this simultaneous measurement of time and repetitions incidental opportunity was afforded for verifying and more accurately defining that which had been foreseen and which has just been explained with regard to their interrelation. When the prescribed rhythm of 150 strokes per minute was precisely maintained, each syllable would take 0.4 second; and when the simple reading of the series was interrupted by attempts to recite it by heart, the unavoidable hesitations would lengthen the time by small but fairly uniform amounts. This, however, did not hold true with any exactness; on the contrary, the following modifications appeared."
+    },
+    {
+      "id": "p0034",
+      "text": "When the direct reading of the series predominated, a certain forcing, an acceleration of the rhythm, occurred which, without coming to consciousness, on the whole lowered the time for each syllable below the standard of 0.4 sec."
+    },
+    {
+      "id": "p0035",
+      "text": "When there was interchange between reading and reciting, however, the lengthening of the time was not in general constant, but was greater with the longer series. In this case, since the difficulty increases very rapidly with increasing length of the series, there occurs a slowing of the tempo, again involuntary and not directly noticeable. Both are illustrated by the following table."
+    },
+    {
+      "id": "p0036",
+      "text": "As soon as this direction of deviation from exact proportionality was noticed there appeared in the learning a certain conscious reaction against it."
+    },
+    {
+      "id": "p0037",
+      "text": "Finally, it appeared that the probable error of the time measurements was somewhat larger than that of the repetitions. This relation is quite intelligible in the light of the explanations given above. In the case of the time measurements the larger values, which naturally occurred with the more difficult series, were relatively somewhat greater than in the case of the number of repetitions, because relatively they were for the most part lengthened by the hesitations; conversely, the smaller times were necessarily somewhat smaller relatively than the number of repetitions, because in general they corresponded to the easier series. The distribution of the values in the case of the times is therefore greater than that of the values in the case of the repetitions."
+    },
+    {
+      "id": "p0038",
+      "text": "The differences between the two methods of reckoning are, as is readily seen, sufficiently large to lead to different results in the case of investigations seeking a high degree of exactness. That is not the case with the results as yet obtained; it is therefore immaterial whether the number of seconds is used or that of the repetitions."
+    },
+    {
+      "id": "p0039",
+      "text": "Decision cannot be given a priori as to which method of measurement is more correct-- i.e. , is the more adequate measure of the mental work expended. It can be said that the impressions are due entirely to the repetitions, they are the thing that counts; it can be said that a hesitating repetition is just as good as a simple fluent reproduction of the line, and that both are to be counted equally. But on the other hand it may be doubted that the moments of recollection are merely a loss, In ,any case a certain display of energy takes place in them: on the one hand, a very rapid additional recollection of the immediately preceding words occurs, a new start, so to speak, to get over the period of hesitation; on the other hand, there is heightened attention to the passages following. If with this, as is probable, a firmer memorisation of the series takes place, then these moments have a claim upon consideration which can only be given to them through the measurement of the times."
+    },
+    {
+      "id": "p0040",
+      "text": "Only when a considerable difference in the results of the two kinds of tabulation appears will it be possible to give one the preference over the other. That one will then be chosen which gives the simpler formulation of the result in question."
+    },
+    {
+      "id": "p0041",
+      "text": "Section 16. Periods of the Tests"
+    },
+    {
+      "id": "p0042",
+      "text": "The tests were made in two periods, in the years 1879-80 and 1883-84, and extended each over more than a year. During a long time preliminary experiments of a similar nature had preceded the definite tests of the first period, so that, for all results communicated, the time of increasing skill may be considered as past. At the beginning of the second period I was careful to give myself renewed training. This temporal distribution of the tests with a separating interval of more than three years gives the desired possibility of a certain mutual control of most of the results. Frankly, the tests of the two periods are not strictly comparable. In the case of the tests of the first period, in order to limit the significance of the first fleeting grasp[ 3 ] of the series in moments of special concentration, it was decided to study the series until two successive faultless reproductions were possible. Later I abandoned this method, which only incompletely accomplished its purpose, and kept to the first fluent reproduction. The earlier method evidently in many cases resulted in a somewhat longer period of learning. In addition there was a difference in the hours of the day appointed for the tests. Those of the later period all occurred in the afternoon hours between one and three o'clock; those of the earlier period were unequally divided between the hours of 10-11 A.M., 11-12 A.M., and 6-8 P.M., which for the sake of brevity I shall designate A, B, and C."
+    },
+    {
+      "id": "p0043",
+      "text": "Footnotes"
+    },
+    {
+      "id": "p0044",
+      "text": "[1] The vowel sounds employed were a, e, i, o, u, &auml; &ouml;, &uuml;, au, ei, eu. For the beginning of the syllables the following consonants were employed: b, d, f g, h, j, k, l, m, n, p, r, s, (= sz), t, w and in addition ch, sch, soft s, and the French j (19 altogether); for the end of the syllables f, k, l, m, n, p, r, s, (= sz) t, ch, sch (11 altogether). For the final sound fewer consonants were employed than for the initial sound, because a German tongue even after several years practise in foreign languages does not quite accustom itself to the correct pronunciation of the mediae at the end. For the same reason I refrained from the use of other foreign sounds although I tried at first to use them for the sake of enriching the material."
+    },
+    {
+      "id": "p0045",
+      "text": "[2] I shall retain in what follows the designations employed above and call a group of several syllable series or a single series a \"test.\" A number of \"tests\" I shall speak of as a \"test series\" or a \"group of tests.\""
+    },
+    {
+      "id": "p0046",
+      "text": "[3] Described in sec. 14."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-ebbinghaus-nonsense-syllables": {
+      "paragraphId": "p0010",
+      "start": 0,
+      "end": 108,
+      "quote": "The nonsense material, just described, offers many advantages, in part because of this very lack of meaning.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-art-of-war-nine-changes-named-chapter-nine-changes-0c2e4bb0",
+  "title": "篇 Nine Changes",
+  "englishTitle": "Chapter Nine Changes",
+  "work": "《孙子兵法·九变篇》",
+  "englishWork": "The Art of War, Nine Changes",
+  "locator": "篇 Nine Changes",
+  "englishLocator": "Chapter Nine Changes",
+  "version": "维基文库《孙子兵法·九变篇》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of The Art of War, Nine Changes; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "9ce049cb6a26122cd7540af2e630f14e72a12521ec473181230b01120f2397e4"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "cfc2b70cd24cd9bf8f5c85ee99b701dfb7a73c0fdf7151966e619c9af177a576",
+  "inputHash": "61eb830da5ac76fe0404ef50483c64683f0e4f16e54057830be494351db9c4c9",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "九變第八"
+    },
+    {
+      "id": "p0002",
+      "text": "孫子曰：凡用兵之法，將受命於君，合軍聚眾。圮地無舍，衢地合交，絕地無留，圍地則謀，死地則戰。途有所不由，軍有所不擊，城有所不攻，地有所不爭，君命有所不受。故將通於九變之利者，知用兵矣；將不通於九變之利，雖知地形，不能得地之利矣；治兵不知九變之術，雖知地利，不能得人之用矣。"
+    },
+    {
+      "id": "p0003",
+      "text": "是故智者之慮，必雜於利害，雜於利而務可信也，雜於害而患可解也。是故屈諸侯者以害，役諸侯者以業，趨諸侯者以利。"
+    },
+    {
+      "id": "p0004",
+      "text": "故用兵之法，無恃其不來，恃吾有以待之；無恃其不攻，恃吾有所不可攻也。"
+    },
+    {
+      "id": "p0005",
+      "text": "故將有五危︰必死，可殺也﹔必生，可虜也﹔忿速，可侮也﹔廉潔，可辱也﹔愛民，可煩也。凡此五者，將之過也，用兵之災也。覆軍殺將，必以五危，不可不察也。"
+    }
+  ],
+  "anchors": {
+    "chinese-sunzi-mix-profit-harm": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 31,
+      "quote": "是故智者之虑，必杂于利害，杂于利而务可信也，杂于害而患可解也。",
+      "match": "normalized-exact"
+    }
+  }
+}

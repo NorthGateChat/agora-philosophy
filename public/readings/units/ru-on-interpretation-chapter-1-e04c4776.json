@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-interpretation-chapter-1-e04c4776",
+  "title": "章 1",
+  "englishTitle": "Chapter 1",
+  "work": "《解释篇》",
+  "englishWork": "On Interpretation",
+  "locator": "章 1",
+  "englishLocator": "Chapter 1",
+  "version": "MIT 经典文库 E. M. Edghill 公版英译，亚里士多德《解释篇》第 1 章，16a3—8",
+  "englishVersion": "MIT Internet Classics Archive, E. M. Edghill public-domain translation, Aristotle, On Interpretation 1, 16a3–8",
+  "sourceUrl": "https://classics.mit.edu/Aristotle/interpretation.1.1.html",
+  "source": {
+    "url": "https://classics.mit.edu/Aristotle/interpretation.1.1.html",
+    "contentType": "text/html",
+    "sha256": "4b2ea47b22faacde8d92f5ca597717241b6c802384f9ffc4ae38bbc8c7c22559"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "455442652a84a84f3a8282f51214b75431387cb7189a26c9c3d889cacaab302d",
+  "inputHash": "4743f0112d425e25c91ea2c3743f2bfc9197a901a0f4264b756a70480e925fa2",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Part 1"
+    },
+    {
+      "id": "p0002",
+      "text": "First we must define the terms 'noun' and 'verb', then the terms 'denial' and 'affirmation', then 'proposition' and 'sentence.'"
+    },
+    {
+      "id": "p0003",
+      "text": "Spoken words are the symbols of mental experience and written words are the symbols of spoken words. Just as all men have not the same writing, so all men have not the same speech sounds, but the mental experiences, which these directly symbolize, are the same for all, as also are those things of which our experiences are the images. This matter has, however, been discussed in my treatise about the soul, for it belongs to an investigation distinct from that which lies before us."
+    },
+    {
+      "id": "p0004",
+      "text": "As there are in the mind thoughts which do not involve truth or falsity, and also those which must be either true or false, so it is in speech. For truth and falsity imply combination and separation. Nouns and verbs, provided nothing is added, are like thoughts without combination or separation; 'man' and 'white', as isolated terms, are not yet either true or false. In proof of this, consider the word 'goat-stag.' It has significance, but there is no truth or falsity about it, unless 'is' or 'is not' is added, either in the present or in some other tense."
+    }
+  ],
+  "anchors": {
+    "aristotle-words-and-affections": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 269,
+      "quote": "Spoken words are the symbols of mental experience and written words are the symbols of spoken words. Just as all men have not the same writing, so all men have not the same speech sounds, but the mental experiences, which these directly symbolize, are the same for all.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

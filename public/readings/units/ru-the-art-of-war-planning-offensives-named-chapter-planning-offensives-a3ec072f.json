@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-art-of-war-planning-offensives-named-chapter-planning-offensives-a3ec072f",
+  "title": "篇 Planning Offensives",
+  "englishTitle": "Chapter Planning Offensives",
+  "work": "《孙子兵法·谋攻篇》",
+  "englishWork": "The Art of War, Planning Offensives",
+  "locator": "篇 Planning Offensives",
+  "englishLocator": "Chapter Planning Offensives",
+  "version": "维基文库《孙子兵法·谋攻篇》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of The Art of War, Planning Offensives; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "9ce049cb6a26122cd7540af2e630f14e72a12521ec473181230b01120f2397e4"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "e7f8501f9782817634f30637b79ee1b624abb5e962ae6764c33fd2a857b8fc0b",
+  "inputHash": "6e2211ee784a95424b7a7bb2b734a09f9ff3df0b34caea6e190ae33b22ffec0a",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "謀攻第三"
+    },
+    {
+      "id": "p0002",
+      "text": "孫子曰：凡用兵之法，全國為上，破國次之；全軍為上，破軍次之；全旅為上，破旅次之；全卒為上，破卒次之；全伍為上，破伍次之。是故百戰百勝，非善之善者也；不戰而屈人之兵，善之善者也。"
+    },
+    {
+      "id": "p0003",
+      "text": "故上兵伐謀，其次伐交，其次伐兵，其下攻城。攻城之法，為不得已。修櫓轒轀，具器械，三月而後成；距闉，又三月而後已。將不勝其忿，而蟻附之，殺士三分之一，而城不拔者，此攻之災也。"
+    },
+    {
+      "id": "p0004",
+      "text": "故善用兵者，屈人之兵而非戰也，拔人之城而非攻也，毀人之國而非久也，必以全爭於天下，故兵不頓而利可全，此謀攻之法也。"
+    },
+    {
+      "id": "p0005",
+      "text": "故用兵之法，十則圍之，五則攻之，倍則分之，敵則能戰之，少則能守之，不若則能避之。故小敵之堅，大敵之擒也。"
+    },
+    {
+      "id": "p0006",
+      "text": "夫將者，國之輔也。輔周則國必強，輔隙則國必弱。"
+    },
+    {
+      "id": "p0007",
+      "text": "故君之所以患於軍者三：不知軍之不可以進而謂之進，不知軍之不可以退而謂之退，是為縻軍；不知三軍之事，而同三軍之政，則軍士惑矣；不知三軍之權，而同三軍之任，則軍士疑矣。三軍既惑且疑，則諸侯之難至矣，是謂亂軍引勝。"
+    },
+    {
+      "id": "p0008",
+      "text": "故知勝有五：知可以戰與不可以戰者勝，識衆寡之用者勝，上下同欲者勝，以虞待不虞者勝，將能而君不御者勝。此五者，知勝之道也。"
+    },
+    {
+      "id": "p0009",
+      "text": "故曰：知彼知己，百戰不殆；不知彼而知己，一勝一負；不知彼不知己，每戰必殆。"
+    }
+  ],
+  "anchors": {
+    "chinese-sunzi-know-self-other": {
+      "paragraphId": "p0009",
+      "start": 3,
+      "end": 37,
+      "quote": "知彼知己，百战不殆；不知彼而知己，一胜一负；不知彼不知己，每战必殆。",
+      "match": "normalized-exact"
+    },
+    "chinese-sunzi-win-without-battle": {
+      "paragraphId": "p0002",
+      "start": 60,
+      "end": 88,
+      "quote": "是故百战百胜，非善之善者也；不战而屈人之兵，善之善者也。",
+      "match": "normalized-exact"
+    }
+  }
+}

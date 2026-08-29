@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-discourses-book-ii-chapter-18-e26bc395",
+  "title": "卷 II · 章 18",
+  "englishTitle": "Book II · Chapter 18",
+  "work": "《论说集》",
+  "englishWork": "Discourses",
+  "locator": "卷 II · 章 18",
+  "englishLocator": "Book II · Chapter 18",
+  "version": "古登堡计划乔治·朗公版英译，爱比克泰德《论说集》第二卷第18章",
+  "englishVersion": "Project Gutenberg, George Long public-domain translation, Epictetus, Discourses II.18",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+    "contentType": "text/plain",
+    "sha256": "38c813f7623104e29bbc8cca52703043d45cc06be4557ca4b5d09fd4b6ebd635"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "e26d1497b7e8d0b6156dcf43ac8507c05da1cfdcf4c9a6c83d18f819ff4a403d",
+  "inputHash": "bf84eaaf0f8c7aa2b54145928abda3cf163bc3c56ca2c88636cde04702a8c762",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "HOW WE SHOULD STRUGGLE AGAINST APPEARANCES.—Every habit and faculty is maintained and increased by the corresponding actions: the habit of walking by walking, the habit of running by running. If you would be a good reader, read; if a writer, write. But when you shall not have read for thirty days in succession, but have done something else, you will know the consequence. In the same way, if you shall have lain down ten days, get up and attempt to make a long walk, and you will see how your legs are weakened. Generally then if you would make anything a habit, do it; if you would not make it a habit, do not do it, but accustom yourself to do something else in place of it."
+    },
+    {
+      "id": "p0002",
+      "text": "So it is with respect to the affections of the soul: when you have been angry, you must know that not only has this evil befallen you, but that you have also increased the habit, and in a manner thrown fuel upon fire."
+    },
+    {
+      "id": "p0003",
+      "text": "In this manner certainly, as philosophers say, also diseases of the mind grow up. For when you have once desired money, if reason be applied to lead to a perception of the evil, the desire is stopped, and the ruling faculty of our mind is restored to the original authority. But if you apply no means of cure, it no longer returns to the same state, but being again excited by the corresponding appearance, it is inflamed to desire quicker than before: and when this takes place continually, it is henceforth hardened (made callous), and the disease of the mind confirms the love of money. For he who has had a fever, and has been relieved from it, is not in the same state that he was before, unless he has been completely cured. Something of the kind happens also in diseases of the soul. Certain traces and blisters are left in it, and unless a man shall completely efface them, when he is again lashed on the same places, the lash will produce not blisters (weals) but sores. If then you wish not to be of an angry temper, do not feed the habit: throw nothing on it which will increase it: at first keep quiet, and count the days on which you have not been angry. I used to be in passion every day; now every second day; then every third, then every fourth. But if you have intermitted thirty days, make a sacrifice to God. For the habit at first begins to be weakened, and then is completely destroyed. “I have not been vexed to-day, nor the day after, nor yet on any succeeding day during two or three months; but I took care when some exciting things happened.” Be assured that you are in a good way."
+    },
+    {
+      "id": "p0004",
+      "text": "How then shall this be done? Be willing at length to be approved by yourself, be willing to appear beautiful to God, desire to be in purity with your own pure self and with God. Then when any such appearance visits you, Plato says, Have recourse to expiations, go a suppliant to the temples of the averting deities. It is even sufficient if you resort to the society of noble and just men, and compare yourself with them, whether you find one who is living or dead."
+    },
+    {
+      "id": "p0005",
+      "text": "But in the first place, be not hurried away by the rapidity of the appearance, but say, Appearances, wait for me a little; let me see who you are, and what you are about; let me put you to the test. And then do not allow the appearance to lead you on and draw lively pictures of the things which will follow; for if you do, it will carry you off wherever it pleases. But rather bring in to oppose it some other beautiful and noble appearance, and cast out this base appearance. And if you are accustomed to be exercised in this way, you will see what shoulders, what sinews, what strength you have. But now it is only trifling words, and nothing more."
+    },
+    {
+      "id": "p0006",
+      "text": "This is the true athlete, the man who exercises himself against such appearances. Stay, wretch, do not be carried away. Great is the combat, divine is the work; it is for kingship, for freedom, for happiness, for freedom from perturbation. Remember God; call on him as a helper and protector, as men at sea call on the Dioscuri in a storm. For what is a greater storm than that which comes from appearances which are violent and drive away the reason? For the storm itself, what else is it but an appearance? For take away the fear of death, and suppose as many thunders and lightnings as you please, and you will know what calm and serenity there is in the ruling faculty. But if you have once been defeated and say that you will conquer hereafter, and then say the same again, be assured that you will at last be in so wretched a condition and so weak that you will not even know afterwards that you are doing wrong, but you will even begin to make apologies (defences) for your wrong-doing, and then you will confirm the saying of Hesiod to be true,"
+    },
+    {
+      "id": "p0007",
+      "text": "With constant ills the dilatory strives."
+    }
+  ],
+  "anchors": {
+    "epictetus-delay-assent": {
+      "paragraphId": "p0005",
+      "start": 0,
+      "end": 198,
+      "quote": "But in the first place, be not hurried away by the rapidity of the appearance, but say, Appearances, wait for me a little; let me see who you are, and what you are about; let me put you to the test.",
+      "match": "normalized-exact"
+    }
+  }
+}

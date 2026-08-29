@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-64-be8f79dd",
+  "title": "章 64",
+  "englishTitle": "Chapter 64",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 64",
+  "englishLocator": "Chapter 64",
+  "version": "中国哲学书电子化计划《道德经》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Daodejing; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/dao-de-jing",
+  "source": {
+    "url": "https://ctext.org/dao-de-jing",
+    "contentType": "text/html",
+    "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "08e396c7e55ab6ef4c9dad4c17022dd3b4ece7d2a293847193436ce494ee7233",
+  "inputHash": "07f59c80659f1ece9b68e5f9eb41d89df205fb6e4b953a7e3be2dd68b60c7226",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[64]"
+    },
+    {
+      "id": "p0002",
+      "text": "其安易持，其未兆易謀。其脆易泮，其微易散。為之於未有，治之於未亂。合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。為者敗之，執者失之。是以聖人無為故無敗；無執故無失。民之從事，常於幾成而敗之。慎終如始，則無敗事，是以聖人欲不欲，不貴難得之貨；學不學，復衆人之所過，以輔萬物之自然，而不敢為。"
+    },
+    {
+      "id": "p0003",
+      "text": "(Guarding the minute) That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it; that which is brittle is easily broken; that which is very small is easily dispersed. Action should be taken before a thing has made its appearance; order should be secured before disorder has begun. The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step. He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold. The sage does not act (so), and therefore does no harm; he does not lay hold (so), and therefore does not lose his bold. (But) people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them. Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by. Thus he helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)."
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-small-beginnings": {
+      "paragraphId": "p0002",
+      "start": 33,
+      "end": 63,
+      "quote": "合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。",
+      "match": "normalized-exact"
+    }
+  }
+}

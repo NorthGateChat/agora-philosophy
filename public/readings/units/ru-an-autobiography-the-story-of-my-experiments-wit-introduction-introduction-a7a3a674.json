@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-autobiography-the-story-of-my-experiments-wit-introduction-introduction-a7a3a674",
+  "title": "导言",
+  "englishTitle": "Introduction",
+  "work": "《我体验真理的故事》",
+  "englishWork": "An Autobiography: The Story of My Experiments with Truth",
+  "locator": "导言",
+  "englishLocator": "Introduction",
+  "version": "Wikimedia Commons公版记录与Internet Archive来源扫描，甘地《我体验真理的故事》第1卷，Mahadev Desai英译初版（Navajivan Press，1927），《导言》，印刷页6（PDF第26页）；完整连续13词句；中文为项目研读译文",
+  "englishVersion": "Wikimedia Commons public-domain record and Internet Archive source scan, Gandhi, The Story of My Experiments with Truth, vol. 1, Mahadev Desai's first English translation (Navajivan Press, 1927), Introduction, print p. 6 (PDF p. 26); complete continuous thirteen-word sentence; Chinese is a project study translation",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandhi_-_The_Story_of_My_Experiments_With_Truth,_vol._1.pdf",
+  "preparedSourceUrl": "https://dn720505.ca.archive.org/0/items/gandhisautobiogr01gand/gandhisautobiogr01gand_djvu.txt",
+  "source": {
+    "url": "https://dn720505.ca.archive.org/0/items/gandhisautobiogr01gand/gandhisautobiogr01gand_djvu.txt",
+    "contentType": "text/plain",
+    "sha256": "08f9cdcd7abe316c61283da030caa08f006956f87dc0988d25acb892be923f82"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "cb68a1fd43a180499bca78faee79d574e852f608d162bfbf52791dcf57ebb573",
+  "inputHash": "43ba4d4fd0d492278ed3782c242d12418a7d07a26201c10ecb638df9d0403e74",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "INTRODUCTION"
+    },
+    {
+      "id": "p0002",
+      "text": "provision for their onward march. Far be it from me to claim any degree of perfection for these experiments. I claim for them nothing more than does a scientist, who, though he conducts his experiments with the utmost accuracy,, forethought and minuteness, never claims* any finality about his conclusions, but keeps an open mind regarding them. I have gone through deep self-introspectionr searched myself through and through, and"
+    },
+    {
+      "id": "p0003",
+      "text": "examined and analysed every psychological"
+    },
+    {
+      "id": "p0004",
+      "text": "*"
+    },
+    {
+      "id": "p0005",
+      "text": "situation. Yet I am far from claiming any finality, or infallibility about my conclusions. One claim I do indeed make and it is this. For me they appear to be absolutely correct, and seem for the time being to be final. For if they were not, I should base no action on them.. But at every step I have carried out the process of acceptance or rejection and acted accordingly. And so long as my acts satisfy my reason and my heart, I must firmly adhere to my original conclusions."
+    }
+  ],
+  "anchors": {
+    "indian-gandhi-experiment-truth": {
+      "paragraphId": "p0005",
+      "start": 11,
+      "end": 90,
+      "quote": "Yet I am far from claiming any finality, or infallibility about my conclusions.",
+      "match": "normalized-exact"
+    }
+  }
+}

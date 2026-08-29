@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-37-361cdf36",
+  "title": "章 37",
+  "englishTitle": "Chapter 37",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 37",
+  "englishLocator": "Chapter 37",
+  "version": "中国哲学书电子化计划《道德经》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Daodejing; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/dao-de-jing",
+  "source": {
+    "url": "https://ctext.org/dao-de-jing",
+    "contentType": "text/html",
+    "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "39f158708eef014c1e86ff458cde2aca58cbb6ecc2e70924c4bb6c80a0744124",
+  "inputHash": "a4c20ac1d15d84eb70ed2c04f0e8438798699e8383638abbd13620f636c1394c",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[37]"
+    },
+    {
+      "id": "p0002",
+      "text": "道常無為而無不為。侯王若能守之，萬物將自化。化而欲作，吾將鎮之以無名之樸。無名之樸，夫亦將無欲。不欲以靜，天下將自定。"
+    },
+    {
+      "id": "p0003",
+      "text": "(The exercise of government) The Dao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do. If princes and kings were able to maintain it, all things would of themselves be transformed by them. If this transformation became to me an object of desire, I would express the desire by the nameless simplicity."
+    },
+    {
+      "id": "p0004",
+      "text": "Simplicity without a name Is free from all external aim. With no desire, at rest and still, All things go right as of their will."
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-noncoercive-order": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 22,
+      "quote": "道常无为而无不为。侯王若能守之，万物将自化。",
+      "match": "normalized-exact"
+    }
+  }
+}

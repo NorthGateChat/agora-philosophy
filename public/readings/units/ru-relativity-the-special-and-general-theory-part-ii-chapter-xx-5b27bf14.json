@@ -1,0 +1,625 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-relativity-the-special-and-general-theory-part-ii-chapter-xx-5b27bf14",
+  "title": "部分 II · 章 XX",
+  "englishTitle": "Part II · Chapter XX",
+  "work": "《相对论：狭义与广义理论》",
+  "englishWork": "Relativity: The Special and General Theory",
+  "locator": "部分 II · 章 XX",
+  "englishLocator": "Part II · Chapter XX",
+  "version": "古登堡计划，Robert W. Lawson 1920 年授权英译，《相对论：狭义与广义理论》第二部分第 XX 章，加速箱思想实验结论段",
+  "englishVersion": "Project Gutenberg, Robert W. Lawson authorized translation (1920), Relativity: The Special and General Theory, Part II, Chapter XX, conclusion of the accelerated-chest thought experiment",
+  "sourceUrl": "https://www.gutenberg.org/files/30155/old/30155-h/30155-h.htm",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/3/0/1/5/30155/30155-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/3/0/1/5/30155/30155-0.txt",
+    "contentType": "text/plain",
+    "sha256": "a2d82bf011d864a27116bdd96b4118252aad44238000c534ae4b75ea8293e63b"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "1088ce4d6d099446a990de2e7c49eebfd50b9f9292f51b45dc9ad9b4d5118d7e",
+  "inputHash": "15dafea679649903313904f17ffab7b7b88ec7684d73c9edb86c0a1de320aca6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "PART II: THE GENERAL THEORY OF RELATIVITY"
+    },
+    {
+      "id": "p0002",
+      "text": "XVIII."
+    },
+    {
+      "id": "p0003",
+      "text": "SPECIAL AND GENERAL PRINCIPLE OF RELATIVITY"
+    },
+    {
+      "id": "p0004",
+      "text": "The basal principle, which was the pivot of all our previous considerations, was the _special_ principle of relativity, _i.e._ the principle of the physical relativity of all _uniform_ motion. Let as once more analyse its meaning carefully."
+    },
+    {
+      "id": "p0005",
+      "text": "It was at all times clear that, from the point of view of the idea it conveys to us, every motion must be considered only as a relative motion. Returning to the illustration we have frequently used of the embankment and the railway carriage, we can express the fact of the motion here taking place in the following two forms, both of which are equally justifiable:"
+    },
+    {
+      "id": "p0006",
+      "text": "(_a_) The carriage is in motion relative to the embankment,"
+    },
+    {
+      "id": "p0007",
+      "text": "(_b_) The embankment is in motion relative to the carriage."
+    },
+    {
+      "id": "p0008",
+      "text": "In (_a_) the embankment, in (_b_) the carriage, serves as the body of reference in our statement of the motion taking place. If it is simply a question of detecting or of describing the motion involved, it is in principle immaterial to what reference-body we refer the motion. As already mentioned, this is self-evident, but it must not be confused with the much more comprehensive statement called “the principle of relativity,” which we have taken as the basis of our investigations."
+    },
+    {
+      "id": "p0009",
+      "text": "The principle we have made use of not only maintains that we may equally well choose the carriage or the embankment as our reference-body for the description of any event (for this, too, is self-evident). Our principle rather asserts what follows: If we formulate the general laws of nature as they are obtained from experience, by making use of"
+    },
+    {
+      "id": "p0010",
+      "text": "(_a_) the embankment as reference-body,"
+    },
+    {
+      "id": "p0011",
+      "text": "(_b_) the railway carriage as reference-body,"
+    },
+    {
+      "id": "p0012",
+      "text": "then these general laws of nature (_e.g._ the laws of mechanics or the law of the propagation of light _in vacuo_) have exactly the same form in both cases. This can also be expressed as follows: For the physical description of natural processes, neither of the reference bodies _K, K′_ is unique (lit. “specially marked out”) as compared with the other. Unlike the first, this latter statement need not of necessity hold _a priori;_ it is not contained in the conceptions of “motion” and “reference-body” and derivable from them; only _experience_ can decide as to its correctness or incorrectness."
+    },
+    {
+      "id": "p0013",
+      "text": "Up to the present, however, we have by no means maintained the equivalence of _all_ bodies of reference _K_ in connection with the formulation of natural laws. Our course was more on the following Iines. In the first place, we started out from the assumption that there exists a reference-body _K_, whose condition of motion is such that the Galileian law holds with respect to it: A particle left to itself and sufficiently far removed from all other particles moves uniformly in a straight line. With reference to K (Galileian reference-body) the laws of nature were to be as simple as possible. But in addition to K, all bodies of reference _K′_ should be given preference in this sense, and they should be exactly equivalent to _K_ for the formulation of natural laws, provided that they are in a state of _uniform rectilinear and non-rotary motion_ with respect to _K_; all these bodies of reference are to be regarded as Galileian reference-bodies. The validity of the principle of relativity was assumed only for these reference-bodies, but not for others (_e.g._ those possessing motion of a different kind). In this sense we speak of the _special_ principle of relativity, or special theory of relativity."
+    },
+    {
+      "id": "p0014",
+      "text": "In contrast to this we wish to understand by the “general principle of relativity” the following statement: All bodies of reference _K, K′_, etc., are equivalent for the description of natural phenomena (formulation of the general laws of nature), whatever may be their state of motion. But before proceeding farther, it ought to be pointed out that this formulation must be replaced later by a more abstract one, for reasons which will become evident at a later stage."
+    },
+    {
+      "id": "p0015",
+      "text": "Since the introduction of the special principle of relativity has been justified, every intellect which strives after generalisation must feel the temptation to venture the step towards the general principle of relativity. But a simple and apparently quite reliable consideration seems to suggest that, for the present at any rate, there is little hope of success in such an attempt; Let us imagine ourselves transferred to our old friend the railway carriage, which is travelling at a uniform rate. As long as it is moving uniformly, the occupant of the carriage is not sensible of its motion, and it is for this reason that he can without reluctance interpret the facts of the case as indicating that the carriage is at rest, but the embankment in motion. Moreover, according to the special principle of relativity, this interpretation is quite justified also from a physical point of view. If the motion of the carriage is now changed into a non-uniform motion, as for instance by a powerful application of the brakes, then the occupant of the carriage experiences a correspondingly powerful jerk forwards. The retarded motion is manifested in the mechanical behaviour of bodies relative to the person in the railway carriage. The mechanical behaviour is different from that of the case previously considered, and for this reason it would appear to be impossible that the same mechanical laws hold relatively to the non-uniformly moving carriage, as hold with reference to the carriage when at rest or in uniform motion. At all events it is clear that the Galileian law does not hold with respect to the non-uniformly moving carriage. Because of this, we feel compelled at the present juncture to grant a kind of absolute physical reality to non-uniform motion, in opposition to the general principle of relativity. But in what follows we shall soon see that this conclusion cannot be maintained."
+    },
+    {
+      "id": "p0016",
+      "text": "XIX."
+    },
+    {
+      "id": "p0017",
+      "text": "THE GRAVITATIONAL FIELD"
+    },
+    {
+      "id": "p0018",
+      "text": "“If we pick up a stone and then let it go, why does it fall to the ground?” The usual answer to this question is: “Because it is attracted by the earth.” Modern physics formulates the answer rather differently for the following reason. As a result of the more careful study of electromagnetic phenomena, we have come to regard action at a distance as a process impossible without the intervention of some intermediary medium. If, for instance, a magnet attracts a piece of iron, we cannot be content to regard this as meaning that the magnet acts directly on the iron through the intermediate empty space, but we are constrained to imagine—after the manner of Faraday—that the magnet always calls into being something physically real in the space around it, that something being what we call a “magnetic field.” In its turn this magnetic field operates on the piece of iron, so that the latter strives to move towards the magnet. We shall not discuss here the justification for this incidental conception, which is indeed a somewhat arbitrary one. We shall only mention that with its aid electromagnetic phenomena can be theoretically represented much more satisfactorily than without it, and this applies particularly to the transmission of electromagnetic waves. The effects of gravitation also are regarded in an analogous manner."
+    },
+    {
+      "id": "p0019",
+      "text": "The action of the earth on the stone takes place indirectly. The earth produces in its surrounding a gravitational field, which acts on the stone and produces its motion of fall. As we know from experience, the intensity of the action on a body dimishes according to a quite definite law, as we proceed farther and farther away from the earth. From our point of view this means: The law governing the properties of the gravitational field in space must be a perfectly definite one, in order correctly to represent the diminution of gravitational action with the distance from operative bodies. It is something like this: The body (_e.g._ the earth) produces a field in its immediate neighbourhood directly; the intensity and direction of the field at points farther removed from the body are thence determined by the law which governs the properties in space of the gravitational fields themselves."
+    },
+    {
+      "id": "p0020",
+      "text": "In contrast to electric and magnetic fields, the gravitational field exhibits a most remarkable property, which is of fundamental importance for what follows. Bodies which are moving under the sole influence of a gravitational field receive an acceleration, _which does not in the least depend either on the material or on the physical state of the body._ For instance, a piece of lead and a piece of wood fall in exactly the same manner in a gravitational field (_in vacuo_), when they start off from rest or with the same initial velocity. This law, which holds most accurately, can be expressed in a different form in the light of the following consideration."
+    },
+    {
+      "id": "p0021",
+      "text": "According to Newton’s law of motion, we have"
+    },
+    {
+      "id": "p0022",
+      "text": "(Force) = (inertial mass) x (acceleration),"
+    },
+    {
+      "id": "p0023",
+      "text": "where the “inertial mass” is a characteristic constant of the accelerated body. If now gravitation is the cause of the acceleration, we then have"
+    },
+    {
+      "id": "p0024",
+      "text": "(Force) = (gravitational mass) x (intensity of the gravitational field),"
+    },
+    {
+      "id": "p0025",
+      "text": "where the “gravitational mass” is likewise a characteristic constant for the body. From these two relations follows:"
+    },
+    {
+      "id": "p0026",
+      "text": "image032"
+    },
+    {
+      "id": "p0027",
+      "text": "If now, as we find from experience, the acceleration is to be independent of the nature and the condition of the body and always the same for a given gravitational field, then the ratio of the gravitational to the inertial mass must likewise be the same for all bodies. By a suitable choice of units we can thus make this ratio equal to unity. We then have the following law: The _gravitational_ mass of a body is equal to its _inertial_ mass."
+    },
+    {
+      "id": "p0028",
+      "text": "It is true that this important law had hitherto been recorded in mechanics, but it had not been _interpreted_. A satisfactory interpretation can be obtained only if we recognise the following fact: _The same_ quality of a body manifests itself according to circumstances as “inertia” or as “weight” (lit. “heaviness”). In the following section we shall show to what extent this is actually the case, and how this question is connected with the general postulate of relativity."
+    },
+    {
+      "id": "p0029",
+      "text": "XX."
+    },
+    {
+      "id": "p0030",
+      "text": "THE EQUALITY OF INERTIAL AND GRAVITATIONAL MASS AS AN ARGUMENT FOR THE GENERAL POSTULATE OF RELATIVITY"
+    },
+    {
+      "id": "p0031",
+      "text": "We imagine a large portion of empty space, so far removed from stars and other appreciable masses, that we have before us approximately the conditions required by the fundamental law of Galilei. It is then possible to choose a Galileian reference-body for this part of space (world), relative to which points at rest remain at rest and points in motion continue permanently in uniform rectilinear motion. As reference-body let us imagine a spacious chest resembling a room with an observer inside who is equipped with apparatus. Gravitation naturally does not exist for this observer. He must fasten himself with strings to the floor, otherwise the slightest impact against the floor will cause him to rise slowly towards the ceiling of the room."
+    },
+    {
+      "id": "p0032",
+      "text": "To the middle of the lid of the chest is fixed externally a hook with rope attached, and now a “being” (what kind of a being is immaterial to us) begins pulling at this with a constant force. The chest together with the observer then begin to move “upwards” with a uniformly accelerated motion. In course of time their velocity will reach unheard-of values—provided that we are viewing all this from another reference-body which is not being pulled with a rope."
+    },
+    {
+      "id": "p0033",
+      "text": "But how does the man in the chest regard the Process? The acceleration of the chest will be transmitted to him by the reaction of the floor of the chest. He must therefore take up this pressure by means of his legs if he does not wish to be laid out full length on the floor. He is then standing in the chest in exactly the same way as anyone stands in a room of a home on our earth. If he releases a body which he previously had in his land, the accelertion of the chest will no longer be transmitted to this body, and for this reason the body will approach the floor of the chest with an accelerated relative motion. The observer will further convince himself _that the acceleration of the body towards the floor of the chest is always of the same magnitude, whatever kind of body he may happen to use for the experiment._"
+    },
+    {
+      "id": "p0034",
+      "text": "Relying on his knowledge of the gravitational field (as it was discussed in the preceding section), the man in the chest will thus come to the conclusion that he and the chest are in a gravitational field which is constant with regard to time. Of course he will be puzzled for a moment as to why the chest does not fall in this gravitational field. just then, however, he discovers the hook in the middle of the lid of the chest and the rope which is attached to it, and he consequently comes to the conclusion that the chest is suspended at rest in the gravitational field."
+    },
+    {
+      "id": "p0035",
+      "text": "Ought we to smile at the man and say that he errs in his conclusion? I do not believe we ought to if we wish to remain consistent; we must rather admit that his mode of grasping the situation violates neither reason nor known mechanical laws. Even though it is being accelerated with respect to the “Galileian space” first considered, we can nevertheless regard the chest as being at rest. We have thus good grounds for extending the principle of relativity to include bodies of reference which are accelerated with respect to each other, and as a result we have gained a powerful argument for a generalised postulate of relativity."
+    },
+    {
+      "id": "p0036",
+      "text": "We must note carefully that the possibility of this mode of interpretation rests on the fundamental property of the gravitational field of giving all bodies the same acceleration, or, what comes to the same thing, on the law of the equality of inertial and gravitational mass. If this natural law did not exist, the man in the accelerated chest would not be able to interpret the behaviour of the bodies around him on the supposition of a gravitational field, and he would not be justified on the grounds of experience in supposing his reference-body to be “at rest.”"
+    },
+    {
+      "id": "p0037",
+      "text": "Suppose that the man in the chest fixes a rope to the inner side of the lid, and that he attaches a body to the free end of the rope. The result of this will be to stretch the rope so that it will hang “vertically” downwards. If we ask for an opinion of the cause of tension in the rope, the man in the chest will say: “The suspended body experiences a downward force in the gravitational field, and this is neutralised by the tension of the rope; what determines the magnitude of the tension of the rope is the _gravitational mass_ of the suspended body.” On the other hand, an observer who is poised freely in space will interpret the condition of things thus: “The rope must perforce take part in the accelerated motion of the chest, and it transmits this motion to the body attached to it. The tension of the rope is just large enough to effect the acceleration of the body. That which determines the magnitude of the tension of the rope is the _inertial mass_ of the body.” Guided by this example, we see that our extension of the principle of relativity implies the _necessity_ of the law of the equality of inertial and gravitational mass. Thus we have obtained a physical interpretation of this law."
+    },
+    {
+      "id": "p0038",
+      "text": "From our consideration of the accelerated chest we see that a general theory of relativity must yield important results on the laws of gravitation. In point of fact, the systematic pursuit of the general idea of relativity has supplied the laws satisfied by the gravitational field. Before proceeding farther, however, I must warn the reader against a misconception suggested by these considerations. A gravitational field exists for the man in the chest, despite the fact that there was no such field for the co-ordinate system first chosen. Now we might easily suppose that the existence of a gravitational field is always only an _apparent_ one. We might also think that, regardless of the kind of gravitational field which may be present, we could always choose another reference-body such that _no_ gravitational field exists with reference to it. This is by no means true for all gravitational fields, but only for those of quite special form. It is, for instance, impossible to choose a body of reference such that, as judged from it, the gravitational field of the earth (in its entirety) vanishes."
+    },
+    {
+      "id": "p0039",
+      "text": "We can now appreciate why that argument is not convincing, which we brought forward against the general principle of relativity at the end of Section XVIII. It is certainly true that the observer in the railway carriage experiences a jerk forwards as a result of the application of the brake, and that he recognises, in this the non-uniformity of motion (retardation) of the carriage. But he is compelled by nobody to refer this jerk to a “real” acceleration (retardation) of the carriage. He might also interpret his experience thus: “My body of reference (the carriage) remains permanently at rest. With reference to it, however, there exists (during the period of application of the brakes) a gravitational field which is directed forwards and which is variable with respect to time. Under the influence of this field, the embankment together with the earth moves non-uniformly in such a manner that their original velocity in the backwards direction is continuously reduced.”"
+    },
+    {
+      "id": "p0040",
+      "text": "XXI."
+    },
+    {
+      "id": "p0041",
+      "text": "IN WHAT RESPECTS ARE THE FOUNDATIONS OF CLASSICAL MECHANICS AND OF THE SPECIAL THEORY OF RELATIVITY UNSATISFACTORY?"
+    },
+    {
+      "id": "p0042",
+      "text": "We have already stated several times that classical mechanics starts out from the following law: Material particles sufficiently far removed from other material particles continue to move uniformly in a straight line or continue in a state of rest. We have also repeatedly emphasised that this fundamental law can only be valid for bodies of reference _K_ which possess certain unique states of motion, and which are in uniform translational motion relative to each other. Relative to other reference-bodies _K_ the law is not valid. Both in classical mechanics and in the special theory of relativity we therefore differentiate between reference-bodies _K_ relative to which the recognised “laws of nature” can be said to hold, and reference-bodies _K_ relative to which these laws do not hold."
+    },
+    {
+      "id": "p0043",
+      "text": "But no person whose mode of thought is logical can rest satisfied with this condition of things. He asks: “How does it come that certain reference-bodies (or their states of motion) are given priority over other reference-bodies (or their states of motion)? _What is the reason for this preference?_” In order to show clearly what I mean by this question, I shall make use of a comparison."
+    },
+    {
+      "id": "p0044",
+      "text": "I am standing in front of a gas range. Standing alongside of each other on the range are two pans so much alike that one may be mistaken for the other. Both are half full of water. I notice that steam is being emitted continuously from the one pan, but not from the other. I am surprised at this, even if I have never seen either a gas range or a pan before. But if I now notice a luminous something of bluish colour under the first pan but not under the other, I cease to be astonished, even if I have never before seen a gas flame. For I can only say that this bluish something will cause the emission of the steam, or at least _possibly_ it may do so. If, however, I notice the bluish something in neither case, and if I observe that the one continuously emits steam whilst the other does not, then I shall remain astonished and dissatisfied until I have discovered some circumstance to which I can attribute the different behaviour of the two pans."
+    },
+    {
+      "id": "p0045",
+      "text": "Analogously, I seek in vain for a real something in classical mechanics (or in the special theory of relativity) to which I can attribute the different behaviour of bodies considered with respect to the reference systems _K_ and _K′_. Newton saw this objection and attempted to invalidate it, but without success. But E. Mach recognised it most clearly of all, and because of this objection he claimed that mechanics must be placed on a new basis. It can only be got rid of by means of a physics which is conformable to the general principle of relativity, since the equations of such a theory hold for every body of reference, whatever may be its state of motion."
+    },
+    {
+      "id": "p0046",
+      "text": "[15] The objection is of importance more especially when the state of motion of the reference-body is of such a nature that it does not require any external agency for its maintenance, _e.g._ in the case when the reference-body is rotating uniformly."
+    },
+    {
+      "id": "p0047",
+      "text": "XXII."
+    },
+    {
+      "id": "p0048",
+      "text": "A FEW INFERENCES FROM THE GENERAL PRINCIPLE OF RELATIVITY"
+    },
+    {
+      "id": "p0049",
+      "text": "The considerations of Section XX show that the general principle of relativity puts us in a position to derive properties of the gravitational field in a purely theoretical manner. Let us suppose, for instance, that we know the space-time “course” for any natural process whatsoever, as regards the manner in which it takes place in the Galileian domain relative to a Galileian body of reference _K_. By means of purely theoretical operations (_i.e._ simply by calculation) we are then able to find how this known natural process appears, as seen from a reference-body _K′_ which is accelerated relatively to _K_. But since a gravitational field exists with respect to this new body of reference _K′_, our consideration also teaches us how the gravitational field influences the process studied."
+    },
+    {
+      "id": "p0050",
+      "text": "For example, we learn that a body which is in a state of uniform rectilinear motion with respect to _K_ (in accordance with the law of Galilei) is executing an accelerated and in general curvilinear motion with respect to the accelerated reference-body _K′_ (chest). This acceleration or curvature corresponds to the influence on the moving body of the gravitational field prevailing relatively to _K_. It is known that a gravitational field influences the movement of bodies in this way, so that our consideration supplies us with nothing essentially new."
+    },
+    {
+      "id": "p0051",
+      "text": "However, we obtain a new result of fundamental importance when we carry out the analogous consideration for a ray of light. With respect to the Galileian reference-body _K_, such a ray of light is transmitted rectilinearly with the velocity _c_. It can easily be shown that the path of the same ray of light is no longer a straight line when we consider it with reference to the accelerated chest (reference-body _K′_). From this we conclude, _that, in general, rays of light are propagated curvilinearly in gravitational fields._ In two respects this result is of great importance."
+    },
+    {
+      "id": "p0052",
+      "text": "In the first place, it can be compared with the reality. Although a detailed examination of the question shows that the curvature of light rays required by the general theory of relativity is only exceedingly small for the gravitational fields at our disposal in practice, its estimated magnitude for light rays passing the sun at grazing incidence is nevertheless 1.7 seconds of arc. This ought to manifest itself in the following way. As seen from the earth, certain fixed stars appear to be in the neighbourhood of the sun, and are thus capable of observation during a total eclipse of the sun. At such times, these stars ought to appear to be displaced outwards from the sun by an amount indicated above, as compared with their apparent position in the sky when the sun is situated at another part of the heavens. The examination of the correctness or otherwise of this deduction is a problem of the greatest importance, the early solution of which is to be expected of astronomers."
+    },
+    {
+      "id": "p0053",
+      "text": "[16] By means of the star photographs of two expeditions equipped by a Joint Committee of the Royal and Royal Astronomical Societies, the existence of the deflection of light demanded by theory was first confirmed during the solar eclipse of 29th May, 1919. (Cf. Appendix III.)"
+    },
+    {
+      "id": "p0054",
+      "text": "In the second place our result shows that, according to the general theory of relativity, the law of the constancy of the velocity of light in vacuo, which constitutes one of the two fundamental assumptions in the special theory of relativity and to which we have already frequently referred, cannot claim any unlimited validity. A curvature of rays of light can only take place when the velocity of propagation of light varies with position. Now we might think that as a consequence of this, the special theory of relativity and with it the whole theory of relativity would be laid in the dust. But in reality this is not the case. We can only conclude that the special theory of relativity cannot claim an unlimited domain of validity; its results hold only so long as we are able to disregard the influences of gravitational fields on the phenomena (_e.g._ of light)."
+    },
+    {
+      "id": "p0055",
+      "text": "Since it has often been contended by opponents of the theory of relativity that the special theory of relativity is overthrown by the general theory of relativity, it is perhaps advisable to make the facts of the case clearer by means of an appropriate comparison. Before the development of electrodynamics the laws of electrostatics were looked upon as the laws of electricity. At the present time we know that electric fields can be derived correctly from electrostatic considerations only for the case, which is never strictly realised, in which the electrical masses are quite at rest relatively to each other, and to the co-ordinate system. Should we be justified in saying that for this reason electrostatics is overthrown by the field-equations of Maxwell in electrodynamics? Not in the least. Electrostatics is contained in electrodynamics as a limiting case; the laws of the latter lead directly to those of the former for the case in which the fields are invariable with regard to time. No fairer destiny could be allotted to any physical theory, than that it should of itself point out the way to the introduction of a more comprehensive theory, in which it lives on as a limiting case."
+    },
+    {
+      "id": "p0056",
+      "text": "In the example of the transmission of light just dealt with, we have seen that the general theory of relativity enables us to derive theoretically the influence of a gravitational field on the course of natural processes, the laws of which are already known when a gravitational field is absent. But the most attractive problem, to the solution of which the general theory of relativity supplies the key, concerns the investigation of the laws satisfied by the gravitational field itself. Let us consider this for a moment."
+    },
+    {
+      "id": "p0057",
+      "text": "We are acquainted with space-time domains which behave (approximately) in a “Galileian” fashion under suitable choice of reference-body, _i.e._ domains in which gravitational fields are absent. If we now refer such a domain to a reference-body _K′_ possessing any kind of motion, then relative to _K′_ there exists a gravitational field which is variable with respect to space and time. The character of this field will of course depend on the motion chosen for _K′._ According to the general theory of relativity, the general law of the gravitational field must be satisfied for all gravitational fields obtainable in this way. Even though by no means all gravitationial fields can be produced in this way, yet we may entertain the hope that the general law of gravitation will be derivable from such gravitational fields of a special kind. This hope has been realised in the most beautiful manner. But between the clear vision of this goal and its actual realisation it was necessary to surmount a serious difficulty, and as this lies deep at the root of things, I dare not withhold it from the reader. We require to extend our ideas of the space-time continuum still farther."
+    },
+    {
+      "id": "p0058",
+      "text": "[17] This follows from a generalisation of the discussion in Section XX."
+    },
+    {
+      "id": "p0059",
+      "text": "XXIII."
+    },
+    {
+      "id": "p0060",
+      "text": "BEHAVIOUR OF CLOCKS AND MEASURING-RODS ON A ROTATING BODY OF REFERENCE"
+    },
+    {
+      "id": "p0061",
+      "text": "Hitherto I have purposely refrained from speaking about the physical interpretation of space- and time-data in the case of the general theory of relativity. As a consequence, I am guilty of a certain slovenliness of treatment, which, as we know from the special theory of relativity, is far from being unimportant and pardonable. It is now high time that we remedy this defect; but I would mention at the outset, that this matter lays no small claims on the patience and on the power of abstraction of the reader."
+    },
+    {
+      "id": "p0062",
+      "text": "We start off again from quite special cases, which we have frequently used before. Let us consider a space time domain in which no gravitational field exists relative to a reference-body _K_ whose state of motion has been suitably chosen. _K_ is then a Galileian reference-body as regards the domain considered, and the results of the special theory of relativity hold relative to _K_. Let us suppose the same domain referred to a second body of reference _K′_, which is rotating uniformly with respect to _K_. In order to fix our ideas, we shall imagine _K′_ to be in the form of a plane circular disc, which rotates uniformly in its own plane about its centre. An observer who is sitting eccentrically on the disc _K′_ is sensible of a force which acts outwards in a radial direction, and which would be interpreted as an effect of inertia (centrifugal force) by an observer who was at rest with respect to the original reference-body _K_. But the observer on the disc may regard his disc as a reference-body which is “at rest”; on the basis of the general principle of relativity he is justified in doing this. The force acting on himself, and in fact on all other bodies which are at rest relative to the disc, he regards as the effect of a gravitational field. Nevertheless, the space-distribution of this gravitational field is of a kind that would not be possible on Newton’s theory of gravitation. But since the observer believes in the general theory of relativity, this does not disturb him; he is quite in the right when he believes that a general law of gravitation can be formulated—a law which not only explains the motion of the stars correctly, but also the field of force experienced by himself."
+    },
+    {
+      "id": "p0063",
+      "text": "[18] The field disappears at the centre of the disc and increases proportionally to the distance from the centre as we proceed outwards."
+    },
+    {
+      "id": "p0064",
+      "text": "The observer performs experiments on his circular disc with clocks and measuring-rods. In doing so, it is his intention to arrive at exact definitions for the signification of time- and space-data with reference to the circular disc _K′_, these definitions being based on his observations. What will be his experience in this enterprise?"
+    },
+    {
+      "id": "p0065",
+      "text": "To start with, he places one of two identically constructed clocks at the centre of the circular disc, and the other on the edge of the disc, so that they are at rest relative to it. We now ask ourselves whether both clocks go at the same rate from the standpoint of the non-rotating Galileian reference-body _K_. As judged from this body, the clock at the centre of the disc has no velocity, whereas the clock at the edge of the disc is in motion relative to _K_ in consequence of the rotation. According to a result obtained in Section XII, it follows that the latter clock goes at a rate permanently slower than that of the clock at the centre of the circular disc, _i.e._ as observed from _K_. It is obvious that the same effect would be noted by an observer whom we will imagine sitting alongside his clock at the centre of the circular disc. Thus on our circular disc, or, to make the case more general, in every gravitational field, a clock will go more quickly or less quickly, according to the position in which the clock is situated (at rest). For this reason it is not possible to obtain a reasonable definition of time with the aid of clocks which are arranged at rest with respect to the body of reference. A similar difficulty presents itself when we attempt to apply our earlier definition of simultaneity in such a case, but I do not wish to go any farther into this question."
+    },
+    {
+      "id": "p0066",
+      "text": "Moreover, at this stage the definition of the space co-ordinates also presents insurmountable difficulties. If the observer applies his standard measuring-rod (a rod which is short as compared with the radius of the disc) tangentially to the edge of the disc, then, as judged from the Galileian system, the length of this rod will be less than 1, since, according to Section XII, moving bodies suffer a shortening in the direction of the motion. On the other hand, the measuring-rod will not experience a shortening in length, as judged from _K_, if it is applied to the disc in the direction of the radius. If, then, the observer first measures the circumference of the disc with his measuring-rod and then the diameter of the disc, on dividing the one by the other, he will not obtain as quotient the familiar number π = 3.14 . . ., but a larger number, whereas of course, for a disc which is at rest with respect to _K_, this operation would yield π exactly. This proves that the propositions of Euclidean geometry cannot hold exactly on the rotating disc, nor in general in a gravitational field, at least if we attribute the length 1 to the rod in all positions and in every orientation. Hence the idea of a straight line also loses its meaning. We are therefore not in a position to define exactly the co-ordinates _x, y, z_ relative to the disc by means of the method used in discussing the special theory, and as long as the co-ordinates and times of events have not been defined, we cannot assign an exact meaning to the natural laws in which these occur."
+    },
+    {
+      "id": "p0067",
+      "text": "[19] Throughout this consideration we have to use the Galileian (non-rotating) system _K_ as reference-body, since we may only assume the validity of the results of the special theory of relativity relative to _K_ (relative to _K′_ a gravitational field prevails)."
+    },
+    {
+      "id": "p0068",
+      "text": "Thus all our previous conclusions based on general relativity would appear to be called in question. In reality we must make a subtle detour in order to be able to apply the postulate of general relativity exactly. I shall prepare the reader for this in the following paragraphs."
+    },
+    {
+      "id": "p0069",
+      "text": "XXIV."
+    },
+    {
+      "id": "p0070",
+      "text": "EUCLIDEAN AND NON-EUCLIDEAN CONTINUUM"
+    },
+    {
+      "id": "p0071",
+      "text": "The surface of a marble table is spread out in front of me. I can get from any one point on this table to any other point by passing continuously from one point to a “neighbouring” one, and repeating this process a (large) number of times, or, in other words, by going from point to point without executing “jumps.” I am sure the reader will appreciate with sufficient clearness what I mean here by “neighbouring” and by “jumps” (if he is not too pedantic). We express this property of the surface by describing the latter as a continuum."
+    },
+    {
+      "id": "p0072",
+      "text": "Let us now imagine that a large number of little rods of equal length have been made, their lengths being small compared with the dimensions of the marble slab. When I say they are of equal length, I mean that one can be laid on any other without the ends overlapping. We next lay four of these little rods on the marble slab so that they constitute a quadrilateral figure (a square), the diagonals of which are equally long. To ensure the equality of the diagonals, we make use of a little testing-rod. To this square we add similar ones, each of which has one rod in common with the first. We proceed in like manner with each of these squares until finally the whole marble slab is laid out with squares. The arrangement is such, that each side of a square belongs to two squares and each corner to four squares."
+    },
+    {
+      "id": "p0073",
+      "text": "It is a veritable wonder that we can carry out this business without getting into the greatest difficulties. We only need to think of the following. If at any moment three squares meet at a corner, then two sides of the fourth square are already laid, and, as a consequence, the arrangement of the remaining two sides of the square is already completely determined. But I am now no longer able to adjust the quadrilateral so that its diagonals may be equal. If they are equal of their own accord, then this is an especial favour of the marble slab and of the little rods, about which I can only be thankfully surprised. We must experience many such surprises if the construction is to be successful."
+    },
+    {
+      "id": "p0074",
+      "text": "If everything has really gone smoothly, then I say that the points of the marble slab constitute a Euclidean continuum with respect to the little rod, which has been used as a “distance” (line-interval). By choosing one corner of a square as “origin” I can characterise every other corner of a square with reference to this origin by means of two numbers. I only need state how many rods I must pass over when, starting from the origin, I proceed towards the “right” and then “upwards,” in order to arrive at the corner of the square under consideration. These two numbers are then the “Cartesian co-ordinates” of this corner with reference to the “Cartesian co-ordinate system” which is determined by the arrangement of little rods."
+    },
+    {
+      "id": "p0075",
+      "text": "By making use of the following modification of this abstract experiment, we recognise that there must also be cases in which the experiment would be unsuccessful. We shall suppose that the rods “expand” by in amount proportional to the increase of temperature. We heat the central part of the marble slab, but not the periphery, in which case two of our little rods can still be brought into coincidence at every position on the table. But our construction of squares must necessarily come into disorder during the heating, because the little rods on the central region of the table expand, whereas those on the outer part do not."
+    },
+    {
+      "id": "p0076",
+      "text": "With reference to our little rods—defined as unit lengths—the marble slab is no longer a Euclidean continuum, and we are also no longer in the position of defining Cartesian co-ordinates directly with their aid, since the above construction can no longer be carried out. But since there are other things which are not influenced in a similar manner to the little rods (or perhaps not at all) by the temperature of the table, it is possible quite naturally to maintain the point of view that the marble slab is a “Euclidean continuum.” This can be done in a satisfactory manner by making a more subtle stipulation about the measurement or the comparison of lengths."
+    },
+    {
+      "id": "p0077",
+      "text": "But if rods of every kind (_i.e._ of every material) were to behave _in the same way_ as regards the influence of temperature when they are on the variably heated marble slab, and if we had no other means of detecting the effect of temperature than the geometrical behaviour of our rods in experiments analogous to the one described above, then our best plan would be to assign the distance one to two points on the slab, provided that the ends of one of our rods could be made to coincide with these two points; for how else should we define the distance without our proceeding being in the highest measure grossly arbitrary? The method of Cartesian coordinates must then be discarded, and replaced by another which does not assume the validity of Euclidean geometry for rigid bodies. The reader will notice that the situation depicted here corresponds to the one brought about by the general postulate of relativity (Section XXIII)."
+    },
+    {
+      "id": "p0078",
+      "text": "[20] Mathematicians have been confronted with our problem in the following form. If we are given a surface (_e.g._ an ellipsoid) in Euclidean three-dimensional space, then there exists for this surface a two-dimensional geometry, just as much as for a plane surface. Gauss undertook the task of treating this two-dimensional geometry from first principles, without making use of the fact that the surface belongs to a Euclidean continuum of three dimensions. If we imagine constructions to be made with rigid rods _in the surface_ (similar to that above with the marble slab), we should find that different laws hold for these from those resulting on the basis of Euclidean plane geometry. The surface is not a Euclidean continuum with respect to the rods, and we cannot define Cartesian co-ordinates _in the surface_. Gauss indicated the principles according to which we can treat the geometrical relationships in the surface, and thus pointed out the way to the method of Riemann of treating multi-dimensional, non-Euclidean _continuum_. Thus it is that mathematicians long ago solved the formal problems to which we are led by the general postulate of relativity."
+    },
+    {
+      "id": "p0079",
+      "text": "XXV."
+    },
+    {
+      "id": "p0080",
+      "text": "GAUSSIAN CO-ORDINATES"
+    },
+    {
+      "id": "p0081",
+      "text": "image033"
+    },
+    {
+      "id": "p0082",
+      "text": "According to Gauss, this combined analytical and geometrical mode of handling the problem can be arrived at in the following way. We imagine a system of arbitrary curves (see Fig. 4) drawn on the surface of the table. These we designate as _u_-curves, and we indicate each of them by means of a number. The Curves _u_ = 1, _u_ = 2 and _u_ = 3 are drawn in the diagram. Between the curves _u_ = 1 and _u_ = 2 we must imagine an infinitely large number to be drawn, all of which correspond to real numbers lying between 1 and 2. We have then a system of _u_-curves, and this “infinitely dense” system covers the whole surface of the table. These _u_-curves must not intersect each other, and through each point of the surface one and only one curve must pass. Thus a perfectly definite value of _u_ belongs to every point on the surface of the marble slab. In like manner we imagine a system of _v_-curves drawn on the surface. These satisfy the same conditions as the _u_-curves, they are provided with numbers in a corresponding manner, and they may likewise be of arbitrary shape. It follows that a value of _u_ and a value of _v_ belong to every point on the surface of the table. We call these two numbers the co-ordinates of the surface of the table (Gaussian co-ordinates). For example, the point _P_ in the diagram has the Gaussian co-ordinates _u_ = 3, _v_ = 1. Two neighbouring points _P_ and _P′_ on the surface then correspond to the co-ordinates"
+    },
+    {
+      "id": "p0083",
+      "text": "_P_: _u, v_"
+    },
+    {
+      "id": "p0084",
+      "text": "_P′_: _u_ + _du, v_ + _dv_,"
+    },
+    {
+      "id": "p0085",
+      "text": "where _du_ and _dv_ signify very small numbers. In a similar manner we may indicate the distance (line-interval) between _P_ and _P′_, as measured with a little rod, by means of the very small number _ds_. Then according to Gauss we have"
+    },
+    {
+      "id": "p0086",
+      "text": "_ds_2 = _g_11_du_2 + 2_g_12_du dv_ + _g_22_dv_2,"
+    },
+    {
+      "id": "p0087",
+      "text": "where _g_11, _g_12, _g_22, are magnitudes which depend in a perfectly definite way on _u_ and _v_. The magnitudes _g_11, _g_12 and _g_22, determine the behaviour of the rods relative to the _u_-curves and _v_-curves, and thus also relative to the surface of the table. For the case in which the points of the surface considered form a Euclidean continuum with reference to the measuring-rods, but only in this case, it is possible to draw the _u_-curves and _v_-curves and to attach numbers to them, in such a manner, that we simply have:"
+    },
+    {
+      "id": "p0088",
+      "text": "_ds_2 = _du_2 + _dv_2"
+    },
+    {
+      "id": "p0089",
+      "text": "Under these conditions, the _u_-curves and _v_-curves are straight lines in the sense of Euclidean geometry, and they are perpendicular to each other. Here the Gaussian coordinates are simply Cartesian ones. It is clear that Gauss co-ordinates are nothing more than an association of two sets of numbers with the points of the surface considered, of such a nature that numerical values differing very slightly from each other are associated with neighbouring points “in space.”"
+    },
+    {
+      "id": "p0090",
+      "text": "So far, these considerations hold for a continuum of two dimensions. But the Gaussian method can be applied also to a continuum of three, four or more dimensions. If, for instance, a continuum of four dimensions be supposed available, we may represent it in the following way. With every point of the continuum, we associate arbitrarily four numbers, _x_1, _x_2, _x_3, _x_4, which are known as “co-ordinates.” Adjacent points correspond to adjacent values of the coordinates. If a distance _ds_ is associated with the adjacent points _P_ and _P′_, this distance being measurable and well defined from a physical point of view, then the following formula holds:"
+    },
+    {
+      "id": "p0091",
+      "text": "_ds_2 = _g_11_dx_12 + 2_g_12_dx_1_dx_2 . . . . + _g_44_dx_42,"
+    },
+    {
+      "id": "p0092",
+      "text": "where the magnitudes _g_11, etc., have values which vary with the position in the continuum. Only when the continuum is a Euclidean one is it possible to associate the co-ordinates _x_1 . . _x_4. with the points of the continuum so that we have simply"
+    },
+    {
+      "id": "p0093",
+      "text": "_ds_2 = _dx_12 + _dx_22 + _dx_32 + _dx_42."
+    },
+    {
+      "id": "p0094",
+      "text": "In this case relations hold in the four-dimensional continuum which are analogous to those holding in our three-dimensional measurements."
+    },
+    {
+      "id": "p0095",
+      "text": "However, the Gauss treatment for _ds_2 which we have given above is not always possible. It is only possible when sufficiently small regions of the continuum under consideration may be regarded as Euclidean continua. For example, this obviously holds in the case of the marble slab of the table and local variation of temperature. The temperature is practically constant for a small part of the slab, and thus the geometrical behaviour of the rods is _almost_ as it ought to be according to the rules of Euclidean geometry. Hence the imperfections of the construction of squares in the previous section do not show themselves clearly until this construction is extended over a considerable portion of the surface of the table."
+    },
+    {
+      "id": "p0096",
+      "text": "We can sum this up as follows: Gauss invented a method for the mathematical treatment of continua in general, in which “size-relations” (“distances” between neighbouring points) are defined. To every point of a continuum are assigned as many numbers (Gaussian coordinates) as the continuum has dimensions. This is done in such a way, that only one meaning can be attached to the assignment, and that numbers (Gaussian coordinates) which differ by an indefinitely small amount are assigned to adjacent points. The Gaussian coordinate system is a logical generalisation of the Cartesian co-ordinate system. It is also applicable to non-Euclidean continua, but only when, with respect to the defined “size” or “distance,” small parts of the continuum under consideration behave more nearly like a Euclidean system, the smaller the part of the continuum under our notice."
+    },
+    {
+      "id": "p0097",
+      "text": "XXVI."
+    },
+    {
+      "id": "p0098",
+      "text": "THE SPACE-TIME CONTINUUM OF THE SPECIAL THEORY OF RELATIVITY CONSIDERED AS A EUCLIDEAN CONTINUUM"
+    },
+    {
+      "id": "p0099",
+      "text": "We are now in a position to formulate more exactly the idea of Minkowski, which was only vaguely indicated in Section XVII. In accordance with the special theory of relativity, certain co-ordinate systems are given preference for the description of the four-dimensional, space-time continuum. We called these “Galileian co-ordinate systems.” For these systems, the four co-ordinates _x, y, z, t_, which determine an event or—in other words—a point of the four-dimensional continuum, are defined physically in a simple manner, as set forth in detail in the first part of this book. For the transition from one Galileian system to another, which is moving uniformly with reference to the first, the equations of the Lorentz transformation are valid. These last form the basis for the derivation of deductions from the special theory of relativity, and in themselves they are nothing more than the expression of the universal validity of the law of transmission of light for all Galileian systems of reference."
+    },
+    {
+      "id": "p0100",
+      "text": "Minkowski found that the Lorentz transformations satisfy the following simple conditions. Let us consider two neighbouring events, the relative position of which in the four-dimensional continuum is given with respect to a Galileian reference-body _K_ by the space co-ordinate differences _dx, dy, dz_ and the time-difference _dt_. With reference to a second Galileian system we shall suppose that the corresponding differences for these two events are _dx′, dy′, dz′, dt′_. Then these magnitudes always fulfill the condition."
+    },
+    {
+      "id": "p0101",
+      "text": "[21] Cf. Appendixes I and II. The relations which are derived there for the co-ordinates themselves are valid also for co-ordinate _differences_, and thus also for co-ordinate differentials (indefinitely small differences)."
+    },
+    {
+      "id": "p0102",
+      "text": "_dx_2 + _dy_2 + _dz_2 – _c_2_dt_2 = _dx′_2 + _dy′_2 + _dz′_2 – _c_2_dt′_2."
+    },
+    {
+      "id": "p0103",
+      "text": "The validity of the Lorentz transformation follows from this condition. We can express this as follows: The magnitude"
+    },
+    {
+      "id": "p0104",
+      "text": "_ds_2 = _dx_2 + _dy_2 + _dz_2 – _c_2 _dt_2,"
+    },
+    {
+      "id": "p0105",
+      "text": "which belongs to two adjacent points of the four-dimensional space-time continuum, has the same value for all selected (Galileian) reference-bodies. If we replace _x, y, z_,"
+    },
+    {
+      "id": "p0106",
+      "text": "image034"
+    },
+    {
+      "id": "p0107",
+      "text": "by _x_1, _x_2, _x_3, _x_4, we also obtain the result that"
+    },
+    {
+      "id": "p0108",
+      "text": "_ds_2 = _dx_12 + _dx_22 + _dx_32 + _dx_42."
+    },
+    {
+      "id": "p0109",
+      "text": "is independent of the choice of the body of reference. We call the magnitude _ds_ the “distance” apart of the two events or four-dimensional points."
+    },
+    {
+      "id": "p0110",
+      "text": "Thus, if we choose as time-variable the imaginary variable"
+    },
+    {
+      "id": "p0111",
+      "text": "image035"
+    },
+    {
+      "id": "p0112",
+      "text": "instead of the real quantity _t_, we can regard the space-time contintium—accordance with the special theory of relativity—as a “Euclidean” four-dimensional continuum, a result which follows from the considerations of the preceding section."
+    },
+    {
+      "id": "p0113",
+      "text": "XXVII."
+    },
+    {
+      "id": "p0114",
+      "text": "THE SPACE-TIME CONTINUUM OF THE GENERAL THEORY OF RELATIVITY IS NOT A EUCLIDEAN CONTINUUM"
+    },
+    {
+      "id": "p0115",
+      "text": "In the first part of this book we were able to make use of space-time co-ordinates which allowed of a simple and direct physical interpretation, and which, according to Section XXVI, can be regarded as four-dimensional Cartesian co-ordinates. This was possible on the basis of the law of the constancy of the velocity of light. But according to Section XXI the general theory of relativity cannot retain this law. On the contrary, we arrived at the result that according to this latter theory the velocity of light must always depend on the co-ordinates when a gravitational field is present. In connection with a specific illustration in Section XXIII, we found that the presence of a gravitational field invalidates the definition of the coordinates and the time, which led us to our objective in the special theory of relativity."
+    },
+    {
+      "id": "p0116",
+      "text": "In view of the resuIts of these considerations we are led to the conviction that, according to the general principle of relativity, the space-time continuum cannot be regarded as a Euclidean one, but that here we have the general case, corresponding to the marble slab with local variations of temperature, and with which we made acquaintance as an example of a two-dimensional continuum. Just as it was there impossible to construct a Cartesian co-ordinate system from equal rods, so here it is impossible to build up a system (reference-body) from rigid bodies and clocks, which shall be of such a nature that measuring-rods and clocks, arranged rigidly with respect to one another, shall indicate position and time directly. Such was the essence of the difficulty with which we were confronted in Section XXIII."
+    },
+    {
+      "id": "p0117",
+      "text": "But the considerations of Sections XXV and XXVI show us the way to surmount this difficulty. We refer the four-dimensional space-time continuum in an arbitrary manner to Gauss co-ordinates. We assign to every point of the continuum (event) four numbers, _x_1, _x_2, _x_3, _x_4 (co-ordinates), which have not the least direct physical significance, but only serve the purpose of numbering the points of the continuum in a definite but arbitrary manner. This arrangement does not even need to be of such a kind that we must regard _x_1, _x_2, _x_3, as “space” co-ordinates and _x_4, as a “time” co-ordinate."
+    },
+    {
+      "id": "p0118",
+      "text": "The reader may think that such a description of the world would be quite inadequate. What does it mean to assign to an event the particular co-ordinates _x_1, _x_2, _x_3, _x_4, if in themselves these co-ordinates have no significance? More careful consideration shows, however, that this anxiety is unfounded. Let us consider, for instance, a material point with any kind of motion. If this point had only a momentary existence without duration, then it would to described in space-time by a single system of values _x_1, _x_2, _x_3, _x_4. Thus its permanent existence must be characterised by an infinitely large number of such systems of values, the co-ordinate values of which are so close together as to give continuity; corresponding to the material point, we thus have a (uni-dimensional) line in the four-dimensional continuum. In the same way, any such lines in our continuum correspond to many points in motion. The only statements having regard to these points which can claim a physical existence are in reality the statements about their encounters. In our mathematical treatment, such an encounter is expressed in the fact that the two lines which represent the motions of the points in question have a particular system of co-ordinate values, _x_1, _x_2, _x_3, _x_4, in common. After mature consideration the reader will doubtless admit that in reality such encounters constitute the only actual evidence of a time-space nature with which we meet in physical statements."
+    },
+    {
+      "id": "p0119",
+      "text": "When we were describing the motion of a material point relative to a body of reference, we stated nothing more than the encounters of this point with particular points of the reference-body. We can also determine the corresponding values of the time by the observation of encounters of the body with clocks, in conjunction with the observation of the encounter of the hands of clocks with particular points on the dials. It is just the same in the case of space-measurements by means of measuring-rods, as a little consideration will show."
+    },
+    {
+      "id": "p0120",
+      "text": "The following statements hold generally: Every physical description resolves itself into a number of statements, each of which refers to the space-time coincidence of two events _A_ and _B_. In terms of Gaussian co-ordinates, every such statement is expressed by the agreement of their four co-ordinates _x_1, _x_2, _x_3, _x_4. Thus in reality, the description of the time-space continuum by means of Gauss co-ordinates completely replaces the description with the aid of a body of reference, without suffering from the defects of the latter mode of description; it is not tied down to the Euclidean character of the continuum which has to be represented."
+    },
+    {
+      "id": "p0121",
+      "text": "XXVIII."
+    },
+    {
+      "id": "p0122",
+      "text": "EXACT FORMULATION OF THE GENERAL PRINCIPLE OF RELATIVITY"
+    },
+    {
+      "id": "p0123",
+      "text": "We are now in a position to replace the provisional formulation of the general principle of relativity given in Section XVIII by an exact formulation. The form there used, “All bodies of reference _K, K′_, etc., are equivalent for the description of natural phenomena (formulation of the general laws of nature), whatever may be their state of motion,” cannot be maintained, because the use of rigid reference-bodies, in the sense of the method followed in the special theory of relativity, is in general not possible in space-time description. The Gauss co-ordinate system has to take the place of the body of reference. The following statement corresponds to the fundamental idea of the general principle of relativity: “_All Gaussian co-ordinate systems are essentially equivalent for the formulation of the general laws of nature._”"
+    },
+    {
+      "id": "p0124",
+      "text": "We can state this general principle of relativity in still another form, which renders it yet more clearly intelligible than it is when in the form of the natural extension of the special principle of relativity. According to the special theory of relativity, the equations which express the general laws of nature pass over into equations of the same form when, by making use of the Lorentz transformation, we replace the space-time variables _x, y, z, t_, of a (Galileian) reference-body _K_ by the space-time variables _x′, y′, z′, t′_, of a new reference-body _K′_. According to the general theory of relativity, on the other hand, by application of _arbitrary substitutions_ of the Gauss variables _x_1, _x_2, _x_3, _x_4, the equations must pass over into equations of the same form; for every transformation (not only the Lorentz transformation) corresponds to the transition of one Gauss co-ordinate system into another."
+    },
+    {
+      "id": "p0125",
+      "text": "If we desire to adhere to our “old-time” three-dimensional view of things, then we can characterise the development which is being undergone by the fundamental idea of the general theory of relativity as follows: The special theory of relativity has reference to Galileian domains, _i.e._ to those in which no gravitational field exists. In this connection a Galileian reference-body serves as body of reference, _i.e._ a rigid body the state of motion of which is so chosen that the Galileian law of the uniform rectilinear motion of “isolated” material points holds relatively to it."
+    },
+    {
+      "id": "p0126",
+      "text": "Certain considerations suggest that we should refer the same Galileian domains to _non-Galileian_ reference-bodies also. A gravitational field of a special kind is then present with respect to these bodies (cf. Sections XX and XXIII)."
+    },
+    {
+      "id": "p0127",
+      "text": "In gravitational fields there are no such things as rigid bodies with Euclidean properties; thus the fictitious rigid body of reference is of no avail in the general theory of relativity. The motion of clocks is also influenced by gravitational fields, and in such a way that a physical definition of time which is made directly with the aid of clocks has by no means the same degree of plausibility as in the special theory of relativity."
+    },
+    {
+      "id": "p0128",
+      "text": "For this reason non-rigid reference-bodies are used, which are as a whole not only moving in any way whatsoever, but which also suffer alterations in form _ad lib._ during their motion. Clocks, for which the law of motion is of any kind, however irregular, serve for the definition of time. We have to imagine each of these clocks fixed at a point on the non-rigid reference-body. These clocks satisfy only the one condition, that the “readings” which are observed simultaneously on adjacent clocks (in space) differ from each other by an indefinitely small amount. This non-rigid reference-body, which might appropriately be termed a “reference-mollusc”, is in the main equivalent to a Gaussian four-dimensional co-ordinate system chosen arbitrarily. That which gives the “mollusc” a certain comprehensibility as compared with the Gauss co-ordinate system is the (really unjustified) formal retention of the separate existence of the"
+    },
+    {
+      "id": "p0129",
+      "text": "space co-ordinates as opposed to the time co-ordinate. Every point on the mollusc is treated as a space-point, and every material point which is at rest relatively to it as at rest, so long as the mollusc is considered as reference-body. The general principle of relativity requires that all these molluscs can be used as reference-bodies with equal right and equal success in the formulation of the general laws of nature; the laws themselves must be quite independent of the choice of mollusc."
+    },
+    {
+      "id": "p0130",
+      "text": "The great power possessed by the general principle of relativity lies in the comprehensive limitation which is imposed on the laws of nature in consequence of what we have seen above."
+    },
+    {
+      "id": "p0131",
+      "text": "XXIX."
+    },
+    {
+      "id": "p0132",
+      "text": "THE SOLUTION OF THE PROBLEM OF GRAVITATION ON THE BASIS OF THE GENERAL PRINCIPLE OF RELATIVITY"
+    },
+    {
+      "id": "p0133",
+      "text": "If the reader has followed all our previous considerations, he will have no further difficulty in understanding the methods leading to the solution of the problem of gravitation."
+    },
+    {
+      "id": "p0134",
+      "text": "We start off on a consideration of a Galileian domain, _i.e._ a domain in which there is no gravitational field relative to the Galileian reference-body _K_. The behaviour of measuring-rods and clocks with reference to _K_ is known from the special theory of relativity, likewise the behaviour of “isolated” material points; the latter move uniformly and in straight lines."
+    },
+    {
+      "id": "p0135",
+      "text": "Now let us refer this domain to a random Gauss coordinate system or to a “mollusc” as reference-body _K′_. Then with respect to _K′_ there is a gravitational field _G_ (of a particular kind). We learn the behaviour of measuring-rods and clocks and also of freely-moving material points with reference to _K′_ simply by mathematical transformation. We interpret this behaviour as the behaviour of measuring-rods, clocks and material points under the influence of the gravitational field _G_. Hereupon we introduce a hypothesis: that the influence of the gravitational field on measuring-rods, clocks and freely-moving material points continues to take place according to the same laws, even in the case where the prevailing gravitational field is _not_ derivable from the Galileian special case, simply by means of a transformation of co-ordinates."
+    },
+    {
+      "id": "p0136",
+      "text": "The next step is to investigate the space-time behaviour of the gravitational field _G_, which was derived from the Galileian special case simply by transformation of the coordinates. This behaviour is formulated in a law, which is always valid, no matter how the reference-body (mollusc) used in the description may be chosen."
+    },
+    {
+      "id": "p0137",
+      "text": "This law is not yet the _general_ law of the gravitational field, since the gravitational field under consideration is of a special kind. In order to find out the general law-of-field of gravitation we still require to obtain a generalisation of the law as found above. This can be obtained without caprice, however, by taking into consideration the following demands:"
+    },
+    {
+      "id": "p0138",
+      "text": "(_a_) The required generalisation must likewise satisfy the general postulate of relativity."
+    },
+    {
+      "id": "p0139",
+      "text": "(_b_) If there is any matter in the domain under consideration, only its inertial mass, and thus according to Section XV only its energy is of importance for its effect in exciting a field."
+    },
+    {
+      "id": "p0140",
+      "text": "(_c_) Gravitational field and matter together must satisfy the law of the conservation of energy (and of impulse)."
+    },
+    {
+      "id": "p0141",
+      "text": "Finally, the general principle of relativity permits us to determine the influence of the gravitational field on the course of all those processes which take place according to known laws when a gravitational field is absent _i.e._ which have already been fitted into the frame of the special theory of relativity. In this connection we proceed in principle according to the method which has already been explained for measuring-rods, clocks and freely moving material points."
+    },
+    {
+      "id": "p0142",
+      "text": "The theory of gravitation derived in this way from the general postulate of relativity excels not only in its beauty; nor in removing the defect attaching to classical mechanics which was brought to light in Section XXI; nor in interpreting the empirical law of the equality of inertial and gravitational mass; but it has also already explained a result of observation in astronomy, against which classical mechanics is powerless."
+    },
+    {
+      "id": "p0143",
+      "text": "If we confine the application of the theory to the case where the gravitational fields can be regarded as being weak, and in which all masses move with respect to the coordinate system with velocities which are small compared with the velocity of light, we then obtain as a first approximation the Newtonian theory. Thus the latter theory is obtained here without any particular assumption, whereas Newton had to introduce the hypothesis that the force of attraction between mutually attracting material points is inversely proportional to the square of the distance between them. If we increase the accuracy of the calculation, deviations from the theory of Newton make their appearance, practically all of which must nevertheless escape the test of observation owing to their smallness."
+    },
+    {
+      "id": "p0144",
+      "text": "We must draw attention here to one of these deviations. According to Newton’s theory, a planet moves round the sun in an ellipse, which would permanently maintain its position with respect to the fixed stars, if we could disregard the motion of the fixed stars themselves and the action of the other planets under consideration. Thus, if we correct the observed motion of the planets for these two influences, and if Newton’s theory be strictly correct, we ought to obtain for the orbit of the planet an ellipse, which is fixed with reference to the fixed stars. This deduction, which can be tested with great accuracy, has been confirmed for all the planets save one, with the precision that is capable of being obtained by the delicacy of observation attainable at the present time. The sole exception is Mercury, the planet which lies nearest the sun. Since the time of Leverrier, it has been known that the ellipse corresponding to the orbit of Mercury, after it has been corrected for the influences mentioned above, is not stationary with respect to the fixed stars, but that it rotates exceedingly slowly in the plane of the orbit and in the sense of the orbital motion. The value obtained for this rotary movement of the orbital ellipse was 43 seconds of arc per century, an amount ensured to be correct to within a few seconds of arc. This effect can be explained by means of classical mechanics only on the assumption of hypotheses which have little probability, and which were devised solely for this purponse."
+    },
+    {
+      "id": "p0145",
+      "text": "On the basis of the general theory of relativity, it is found that the ellipse of every planet round the sun must necessarily rotate in the manner indicated above; that for all the planets, with the exception of Mercury, this rotation is too small to be detected with the delicacy of observation possible at the present time; but that in the case of Mercury it must amount to 43 seconds of arc per century, a result which is strictly in agreement with observation."
+    },
+    {
+      "id": "p0146",
+      "text": "Apart from this one, it has hitherto been possible to make only two deductions from the theory which admit of being tested by observation, to wit, the curvature of light rays by the gravitational field of the sun, and a displacement of the spectral lines of light reaching us from large stars, as compared with the corresponding lines for light produced in an analogous manner terrestrially (_i.e._ by the same kind of atom). These two deductions from the theory have both been confirmed."
+    },
+    {
+      "id": "p0147",
+      "text": "[22] First observed by Eddington and others in 1919. (Cf. Appendix III)."
+    },
+    {
+      "id": "p0148",
+      "text": "[23] Established by Adams in 1924. (Cf. p. 132)"
+    }
+  ],
+  "anchors": {
+    "science-einstein-equivalence": {
+      "paragraphId": "p0035",
+      "start": 390,
+      "end": 632,
+      "quote": "We have thus good grounds for extending the principle of relativity to include bodies of reference which are accelerated with respect to each other, and as a result we have gained a powerful argument for a generalised postulate of relativity.",
+      "match": "normalized-exact"
+    }
+  }
+}

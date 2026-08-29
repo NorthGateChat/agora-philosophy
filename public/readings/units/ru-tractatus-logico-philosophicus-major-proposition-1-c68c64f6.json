@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-tractatus-logico-philosophicus-major-proposition-1-c68c64f6",
+  "title": "主命题 1",
+  "englishTitle": "Major proposition 1",
+  "work": "《逻辑哲学论》",
+  "englishWork": "Tractatus Logico-Philosophicus",
+  "locator": "主命题 1",
+  "englishLocator": "Major proposition 1",
+  "version": "Wikisource 公版英文文本，《逻辑哲学论》1、1.1，Ogden/Ramsey 1922 年英译；卡片以省略号标示跨编号删节",
+  "englishVersion": "Wikisource public-domain English text, Tractatus 1 and 1.1, Ogden/Ramsey translation (1922); omission between numbered remarks marked with an ellipsis",
+  "sourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/1",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/1",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Tractatus+Logico-Philosophicus%2F1&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "eb777a238a02f46cf40bbcd446cf65ade53e591acc8bdbca8aef400d99505175"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "bc6869fc888bab358b79bd106e06d75d05da62b63a06c665fcadd0a10c0efa5f",
+  "inputHash": "536650b110bc4c8d0d759603417b6096b05ab767706f9d341bff8a0764f18123",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "1 The world is everything that is the case. [ 1 ]"
+    },
+    {
+      "id": "p0002",
+      "text": "1.1 The world is the totality of facts, not of things."
+    },
+    {
+      "id": "p0003",
+      "text": "1.11 The world is determined by the facts, and by these being all the facts."
+    },
+    {
+      "id": "p0004",
+      "text": "1.12 For the totality of facts determines both what is the case, and also all that is not the case."
+    },
+    {
+      "id": "p0005",
+      "text": "1.13 The facts in logical space are the world."
+    },
+    {
+      "id": "p0006",
+      "text": "1.2 The world divides into facts."
+    },
+    {
+      "id": "p0007",
+      "text": "1.21 Any one can either be the case or not be the case, and everything else remain the same."
+    },
+    {
+      "id": "p0008",
+      "text": "↑ The decimal figures as numbers of the separate propositions indicate the logical importance of the propositions, the emphasis laid upon them in my exposition. The propositions n .1, n .2, n .3, etc., are comments on proposition No. n ; the propositions n.m 1, n.m 2, etc., are comments on the proposition No. n.m ; and so on."
+    }
+  ],
+  "anchors": {
+    "wittgenstein-world-facts": {
+      "paragraphId": "p0001",
+      "start": 2,
+      "end": 43,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0001",
+          "start": 2,
+          "end": 43,
+          "text": "The world is everything that is the case."
+        },
+        {
+          "paragraphId": "p0002",
+          "start": 4,
+          "end": 54,
+          "text": "The world is the totality of facts, not of things."
+        }
+      ],
+      "quote": "The world is everything that is the case. ... The world is the totality of facts, not of things."
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-inoculation-against-hydrophobia-whole-work-737c646c",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《接种预防恐水病》",
+  "englishWork": "Inoculation Against Hydrophobia",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 原刊扫描，《大众科学月刊》第28卷（1886年1月）第289页，《接种预防恐水病》开篇；英译自巴斯德1885年10月26日在法国科学院宣读的报告，卡片跨段删节以省略号标明",
+  "englishVersion": "Wikisource original journal scan, Popular Science Monthly, vol. 28 (January 1886), p. 289, opening of Inoculation Against Hydrophobia; translated from Pasteur's paper read to the French Academy of Sciences on 26 October 1885, with the internal omission marked by an ellipsis",
+  "sourceUrl": "https://en.wikisource.org/wiki/Page:Popular_Science_Monthly_Volume_28.djvu/301",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Page:Popular_Science_Monthly_Volume_28.djvu/301",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Page%3APopular+Science+Monthly+Volume+28.djvu%2F301&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "0669253299d6f09b42591f2a6e6daca091105159ad029ffc4537d0028f78b1e3"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "1fbe1220e1ad4ccc2ed4c0d361c9c1cb770cdd3096de12807fc4bb825a5252a0",
+  "inputHash": "24e8936606fea7c893e373ba1a6a0e87f74d9d59b7c04928f3571bd159da7e73",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "THE"
+    },
+    {
+      "id": "p0002",
+      "text": "POPULAR SCIENCE"
+    },
+    {
+      "id": "p0003",
+      "text": "MONTHLY."
+    },
+    {
+      "id": "p0004",
+      "text": "JANUARY, 1886."
+    },
+    {
+      "id": "p0005",
+      "text": "INOCULATION AGAINST HYDROPHOBIA. [ 1 ]"
+    },
+    {
+      "id": "p0006",
+      "text": "By M. LOUIS PASTEUR."
+    },
+    {
+      "id": "p0007",
+      "text": "T HE prevention of rabies, as I have described it, in my own name and the names of my collaborators, in previous notes, certainly constitutes a real progress in the study of that malady, a progress which was, however, more scientific than practical. Its application was precarious. Of twenty dogs that I had then treated, I could not assert that I had made more than fifteen or sixteen proof against rabies."
+    },
+    {
+      "id": "p0008",
+      "text": "It was expedient, on the other hand, to finish the treatment by a final exceedingly virulent inoculation, with virus of control, in order to confirm and strengthen the refractory state. Finally, prudence made it necessary to keep the dogs under observation for a longer time than the period of incubation of the disease produced by the direct inoculation of the last virus; and it thus required an interval not less, perhaps, than three or four months to be assured of a fully refractory condition. These necessities considerably limited the application of the method. The method, also, did not accommodate itself readily to contingencies, which were always immediate, growing out of the accidental and sudden character of the bites of rabid animals. It was therefore necessary to obtain, if possible, a more rapid method, and one more capable of giving a security which might be considered perfect over dogs. Besides, how, before reaching that stage of progress, could we venture to make an experiment on man?"
+    },
+    {
+      "id": "p0009",
+      "text": "After almost innumerable experiments I obtained a preventive method, practical and prompt, of which sufficiently numerous and assured successes have been gained upon dogs to give me confidence in its general applicability to all animals, and to man himself."
+    },
+    {
+      "id": "p0010",
+      "text": "↑ A paper read in the French Academy of Sciences, October 26, 1885."
+    }
+  ],
+  "anchors": {
+    "science-pasteur-rabies": {
+      "paragraphId": "p0007",
+      "start": 0,
+      "end": 407,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0007",
+          "start": 0,
+          "end": 407,
+          "text": "T HE prevention of rabies, as I have described it, in my own name and the names of my collaborators, in previous notes, certainly constitutes a real progress in the study of that malady, a progress which was, however, more scientific than practical. Its application was precarious. Of twenty dogs that I had then treated, I could not assert that I had made more than fifteen or sixteen proof against rabies."
+        },
+        {
+          "paragraphId": "p0008",
+          "start": 910,
+          "end": 1010,
+          "text": "Besides, how, before reaching that stage of progress, could we venture to make an experiment on man?"
+        }
+      ],
+      "quote": "The prevention of rabies, as I have described it, in my own name and the names of my collaborators, in previous notes, certainly constitutes a real progress in the study of that malady, a progress which was, however, more scientific than practical. Its application was precarious. Of twenty dogs that I had then treated, I could not assert that I had made more than fifteen or sixteen proof against rabies. … Besides, how, before reaching that stage of progress, could we venture to make an experiment on man?"
+    }
+  }
+}

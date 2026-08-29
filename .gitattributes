@@ -1,0 +1,5 @@
+# Preserve byte-exact research derivatives and generated vector masters. Their
+# source/OCR spacing is evidence or generator output, not application formatting.
+/research/source-cache/reading-unit-derived/*.txt -whitespace
+/research/illustration-generation/*.md -whitespace
+/store-assets/**/*.svg -whitespace

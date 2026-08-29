@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-faradays-lines-of-force-introduction-introduction-23863fee",
+  "title": "导言",
+  "englishTitle": "Introduction",
+  "work": "《论法拉第力线》",
+  "englishWork": "On Faraday's Lines of Force",
+  "locator": "导言",
+  "englishLocator": "Introduction",
+  "version": "Wikisource 原刊扫描，麦克斯韦《论法拉第力线》，《剑桥哲学学会汇刊》第10卷第1部分第156页，导言中始于“By a physical analogy I mean”的连续原文",
+  "englishVersion": "Wikisource original journal scan, Maxwell, On Faraday's Lines of Force, Transactions of the Cambridge Philosophical Society, vol. X, part I, p. 156, continuous passage beginning “By a physical analogy I mean”",
+  "sourceUrl": "https://en.wikisource.org/wiki/Page:On_Faraday%27s_Lines_of_Force.pdf/2",
+  "source": {
+    "contentType": "text/html",
+    "sha256": "6e7cad96362774385f22f28cdc720e30f5dad4ef1100782ff18ff5957ee958c5"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "ce051dd791f8285512a0850e055854582be7aba1349198c7cd67e8baa15e4f30",
+  "inputHash": "4eaab919ac901d206a5f38a64d411f074ab46919cf30d0ee45aa8ab00752ad91",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "VIII. On Faraday's Lines of Force ."
+    },
+    {
+      "id": "p0002",
+      "text": "[Read Dec . 10, 1855, and Feb . 11, 1856.]"
+    },
+    {
+      "id": "p0003",
+      "text": "The present state of electrical science seems peculiarly unfavourable to speculation. The laws of the distribution of electricity on the surface of conductors have been analytically deduced from experiment; some parts of the mathematical theory of magnetism are established, while in other parts the experimental data are wanting; the theory of conduction of galvanism and that of the mutual attraction of conductors have been reduced to mathematical formulæ, but have not fallen into relation with the other parts of the science. No electrical theory can now be put forth, unless it shews the connexion not only between electricity at rest and current electricity, but between the attractions and inductive effects of electricity in both states. Such a theory must accurately satisfy those laws, the mathematical form of which is known, and must afford the means of calculating the effects in the limiting cases where the known formulæ are inapplicable. In order therefore to appreciate the requirements of the science, the student must make himself familiar with a considerable body of most intricate mathematics, the mere retention of which in the memory materially interferes with further progress. The first process therefore in the effectual study of the science must be one of simplification and reduction of the results of previous investigations to a form in which the mind can grasp them. The results of this simplification may take the form of a purely mathematical formula or of a physical hypothesis. In the first case we entirely lose sight of the phenomena to be explained; and though we may trace out the consequences of given laws, we can never obtain more extended views of the connexions of the subject. If on the other hand, we adopt a physical hypothesis, we can see the phenomena only through a medium, and are liable to that blindness to facts and rashness in assumption which a partial explanation encourages. We must therefore discover some method of investigation which allows the mind at every step to lay hold of a clear physical conception, without being committed to any theory founded on the physical science from which that conception is borrowed, so that it is neither drawn aside from the subject in pursuit of analytical subtleties, nor carried beyond the truth by a favourite hypothesis."
+    },
+    {
+      "id": "p0004",
+      "text": "In order to obtain physical ideas without adopting a physical theory we must make ourselves familiar with the existence of physical analogies. By a physical analogy I mean that partial similarity between the laws of one science and those of another which makes each of them illustrate the other. Thus all the mathematical sciences are founded on relations between physical laws and laws of numbers, so that the aim of exact science is to reduce the problems of nature to the determination of quantities by operations with numbers. Passing from the most universal of all analogies to a very partial one, we ﬁnd the same resemblance in mathematical form between two different phenomena giving rise to a physical theory of light."
+    },
+    {
+      "id": "p0005",
+      "text": "The changes of direction which light undergoes in passing from one medium to another, are identical with the deviations of the path of a particle in moving through a narrow space in which intense forces act. This analogy, which extends only to the direction, and not to the velocity of motion, was long believed to be the true explanation of the refraction of light; and we still ﬁnd it useful in the solution of certain problems, in which we employ it without danger, as an artificial method. The other analogy, between light and the vibrations of an elastic medium, extends much farther, but, though its importance and fruitfulness cannot be over-estimated, we must recollect that it is founded only on a resemblance in form between the laws of light and those of vibrations. By stripping it of its physical dress and reducing it to a theory of \"transverse alternations,\" we might obtain a system of truth strictly founded on observation, but probably deficient both in the vividness of its conceptions and the fertility of its method. I have said thus much on the disputed questions of Optics, as a preparation for the discussion of the almost universally admitted theory of attraction at a distance."
+    },
+    {
+      "id": "p0006",
+      "text": "We have all acquired the mathematical conception of these attractions. We can reason about them and determine their appropriate forms or formulæ. These formulæ have a distinct mathematical significance, and their results are found to be in accordance with natural phenomena. There is no formula in applied mathematics more consistent with nature than the formula of attractions, and no theory better established in the minds of men than that of the action of bodies on one another at a distance. The laws of the conduction of heat in uniform media appear at ﬁrst sight among the most different in their physical relations from those relating to attractions. The quantities which enter into them are temperature, ﬂow of heat, conductivity . The word force is foreign to the subject. Yet we ﬁnd that the mathematical laws of the uniform motion of heat in homogeneous media are identical in form with those of attractions varying inversely as the square of the distance. We have only to substitute source of heat for centre of attraction , ﬂow of heat for accelerating effect of attraction at any point, and temperature for potential , and the solution of a problem in attractions is transformed into that of a problem in heat."
+    },
+    {
+      "id": "p0007",
+      "text": "This analogy between the formula of heat and attraction was, I believe, ﬁrst pointed out by Professor William Thomson in the Camb. Math. Journal , Vol. III."
+    },
+    {
+      "id": "p0008",
+      "text": "Now the conduction of heat is supposed to proceed by an action between contiguous parts of a medium, while the force of attraction is a relation between distant bodies, and yet, if we knew nothing more than is expressed in the mathematical formulae, there would be nothing to distinguish between the one set of phenomena and the other."
+    },
+    {
+      "id": "p0009",
+      "text": "It is true, that if we introduce other considerations and observe additional facts, the two subjects will assume very different aspects, but the mathematical resemblance of some of their laws will remain, and may still be made useful in exciting appropriate mathematical ideas."
+    },
+    {
+      "id": "p0010",
+      "text": "It is by the use of analogies of this kind that I have attempted to bring before the mind, in a convenient and manageable form, those mathematical ideas which are necessary to the study of the phenomena of electricity. The methods are generally those suggested by the processes of reasoning which are found in the researches of Faraday [ 1 ] , and which, though they have been interpreted mathematically by Prof. Thomson and others, are very generally supposed to be of an indefinite and unmathematical character, when compared with those employed by the professed mathematicians. By the method which I adopt, I hope to render it evident that I am not attempting to establish any physical theory of a science in which I have hardly made a single experiment, and that the limit of my design is to shew how, by a strict application of the ideas and methods of Faraday, the connexion of the very different orders of phenomena which he has discovered may be clearly placed before the mathematical mind. I shall therefore avoid as much as I can the introduction of anything which does not serve as a direct illustration of Faraday’s methods, or of the mathematical deductions which may be made from them. In treating the simpler parts of the subject I shall use Faraday’s mathematical methods as well as his ideas. When the complexity of the subject requires it, I shall use analytical notation, still conﬁning myself to the development of ideas originated by the same philosopher."
+    },
+    {
+      "id": "p0011",
+      "text": "I have in the ﬁrst place to explain and illustrate the idea of “lines of force.\""
+    },
+    {
+      "id": "p0012",
+      "text": "When a body is electriﬁed in any manner, a small body charged with positive electricity, and placed in any given position, will experience a force urging it in a certain direction. If the small body be now negatively electriﬁed, it will be urged by an equal force in a direction exactly opposite."
+    },
+    {
+      "id": "p0013",
+      "text": "The same relations held between a magnetic body and the north or south poles of a small magnet. If the north pole is urged in one direction, the south pole is urged in the opposite direction."
+    },
+    {
+      "id": "p0014",
+      "text": "In this way we might ﬁnd a line passing through any point of space, such that it represents the direction of the force acting on a positively electriﬁed particle, or on an elementary north pole, and the reverse direction of the force on a negatively electriﬁed particle or an elementary south pole. Since at every point of space such a direction may be found, if we commence at any point and draw a line so that, as we go along it, its direction at any point shall always coincide with that of the resultant force at that point, this curve will indicate the direction of that force for every point through which it passes, and might be called on that account a line of force. We might in the same way draw other lines of force, till we had ﬁlled all space with curves indicating by their direction that of the force at any assigned point."
+    },
+    {
+      "id": "p0015",
+      "text": "We should thus obtain a geometrical model of the physical phenomena, which would tell us the direction of the force, but we should still require some method of indicating the intensity of the force at any point. If we consider these curves not as mere lines, but as ﬁne tubes of variable section carrying an incompressible ﬂuid, then, since the velocity of the ﬂuid is inversely as the section of the tube, we may make the velocity vary according to any given law, by regulating the section of the tube, and in this way we might represent the intensity of the force as well as its direction by the motion of the ﬂuid in these tubes. This method of representing the intensity of a force by the velocity of an imaginary ﬂuid in a tube is applicable to any conceivable s ystem of forces, but it is capable of great simpliﬁcation in the case in which the forces are such as can be explained by the hypothesis of attractions varying inversely as the square of the distance, such as those observed in electrical and magnetic phenomena. In the case of a perfectly arbitrary system of forces, there will generally be interstices between the tubes; but in the case of electric and magnetic forces it is possible to arrange the tubes so as to leave no interstices. The tubes will then be mere surfaces, directing the motion of a ﬂuid ﬁlling up the whole space. It has been usual to commence the investigation of the laws of these forces by at once assuming that the phenomena are due to attractive or repulsive forces acting between certain points. We may however obtain a different view of the subject, and one more suited to our more difﬁcult inquiries, by adopting for the deﬁnition of the forces of which we treat, that they may be represented in magnitude and direction by the uniform motion of an incompressible ﬂuid."
+    },
+    {
+      "id": "p0016",
+      "text": "I propose, then, ﬁrst to describe a method by which the motion of such a ﬂuid can be clearly conceived; secondly to trace the consequences of assuming certain conditions of motion, and to point out the application of the method to some of the less complicated phenomena of electricity, magnetism, and galvanism; and lastly to show how by an extension of these methods, and the introduction of another idea due to Faraday, the laws of the attractions and inductive actions of magnets and currents may be clearly conceived, without making any assumptions as to the physical nature of electricity, or anything to that which has been already proved by experiment."
+    },
+    {
+      "id": "p0017",
+      "text": "By referring everything to the purely geometrical idea of the motion of an imaginary ﬂuid, I hope to attain generality and precision, and to avoid the dangers arising from a premature theory professing to explain the cause of the phenomena. If the results of mere speculation which I have collected are found to be of any use to experimental philosophers, in arranging and interpreting their results, they will have served their purpose, and a mature theory, in which physical facts will be physically explained, will be formed by those who by interrogating Nature herself can obtain the only true solution of the questions which the mathematical theory suggest."
+    }
+  ],
+  "anchors": {
+    "science-maxwell-analogy": {
+      "paragraphId": "p0004",
+      "start": 143,
+      "end": 295,
+      "quote": "By a physical analogy I mean that partial similarity between the laws of one science and those of another which makes each of them illustrate the other.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-11-5bf560b8",
+  "title": "章 11",
+  "englishTitle": "Chapter 11",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 11",
+  "englishLocator": "Chapter 11",
+  "version": "中国哲学书电子化计划《道德经》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Daodejing; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/dao-de-jing",
+  "source": {
+    "url": "https://ctext.org/dao-de-jing",
+    "contentType": "text/html",
+    "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "f25f8e618b206eff256c74629fd5b06d5c8257e696a32de09f37b874a6d2e664",
+  "inputHash": "6e2c46962d87f885513ed55afa0714efbf3c7c52ffd22df5d1377985ff5a12a1",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[11]"
+    },
+    {
+      "id": "p0002",
+      "text": "三十輻，共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。"
+    },
+    {
+      "id": "p0003",
+      "text": "(The use of what has no substantive existence) The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends. Therefore, what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness."
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-use-of-emptiness": {
+      "paragraphId": "p0002",
+      "start": 48,
+      "end": 61,
+      "quote": "故有之以为利，无之以为用。",
+      "match": "normalized-exact"
+    }
+  }
+}

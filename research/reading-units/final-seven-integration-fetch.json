@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T14:58:49.787Z",
+  "inventoryPath": "research/reading-units/inventory.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-behaviorism-chapter-v-97ffd266",
+    "ru-enneads-ennead-vi-tractate-9-34ca2c91",
+    "ru-metaphysics-book-vii-chapter-17-c7d34642",
+    "ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241",
+    "ru-the-economics-of-exhaustible-resources-whole-work-997380af",
+    "ru-the-economics-of-welfare-part-ii-chapter-xiv-6cc3710f",
+    "ru-the-philosophy-of-history-introduction-introduction-21f23086"
+  ],
+  "dryRun": false,
+  "allowNetwork": false,
+  "concurrency": 4,
+  "summary": {
+    "considered": 7,
+    "written": 7,
+    "wouldWrite": 0,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 8,
+    "anchorsMatched": 8,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-behaviorism-chapter-v-97ffd266",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-behaviorism-chapter-v-97ffd266.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 68,
+      "characterCount": 41457,
+      "publicByteCount": 47864,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/watson-behaviorism-1925-chapter-v.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "chapter-v",
+      "registeredSourceUrl": "https://archive.org/details/behaviorism0000john",
+      "contentHash": "6e4a7dc1ec565efe7e6e9b556fd8e6384a62137f2ea998e702f0a29b1c79b1f4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-enneads-ennead-vi-tractate-9-34ca2c91",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-enneads-ennead-vi-tractate-9-34ca2c91.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 83,
+      "characterCount": 33408,
+      "publicByteCount": 39211,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/plotinus-ennead-vi-tractate-9-mackenna.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "ennead-vi-tractate-9",
+      "registeredSourceUrl": "https://www.ccel.org/ccel/plotinus/enneads.html",
+      "contentHash": "6ef90af897e81f0228b86b066f08d7e705d7046884e8ad40ef921bd5d22040aa",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-metaphysics-book-vii-chapter-17-c7d34642",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-metaphysics-book-vii-chapter-17-c7d34642.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 10,
+      "characterCount": 4738,
+      "publicByteCount": 6605,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/aristotle-metaphysics-vii-17-ross.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-vii-chapter-17",
+      "registeredSourceUrl": "https://www.logicmuseum.com/wiki/Authors/Aristotle/metaphysics/l7",
+      "contentHash": "cae1a6ac45d9c5d676dae40b2ae62d49f321e1574d59caf58575f0f6289e83f8",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-stages-on-lifes-road-part-i-in-vino-veritas-the--part-i-dfaef241.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 268,
+      "characterCount": 156315,
+      "publicByteCount": 172375,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/kierkegaard-stages-in-vino-veritas-hollander-1923.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "part-i",
+      "registeredSourceUrl": "https://archive.org/details/selectionsfromwr00kieruoft/page/n51/mode/1up",
+      "contentHash": "c91918a466467bc9f050f15dc1e18c5d8eebc5fb4f068fe430afa142b87ae9e3",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-economics-of-exhaustible-resources-whole-work-997380af",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-the-economics-of-exhaustible-resources-whole-work-997380af.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 329,
+      "characterCount": 64496,
+      "publicByteCount": 83720,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/hotelling-exhaustible-resources-1931-complete-paper.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://archive.org/details/sim_journal-of-political-economy_1931-04_39_2",
+      "contentHash": "f399cf0b9412e56b307704a3f55da8f90294eea493fd34351547cfe59620549e",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-economics-of-welfare-part-ii-chapter-xiv-6cc3710f",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-the-economics-of-welfare-part-ii-chapter-xiv-6cc3710f.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 29,
+      "characterCount": 35245,
+      "publicByteCount": 38223,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/pigou-economics-welfare-1920-part-ii-chapter-xiv.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "part-ii-chapter-xiv",
+      "registeredSourceUrl": "https://archive.org/details/cu31924073868113",
+      "contentHash": "4dde3eb3683f07fc0d48c34360ce178a7954a590791ca090305b5f18237bf81e",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-philosophy-of-history-introduction-introduction-21f23086",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-the-philosophy-of-history-introduction-introduction-21f23086.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 248,
+      "characterCount": 254803,
+      "publicByteCount": 270914,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/hegel-philosophy-history-sibree-1899-introduction.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "introduction-introduction",
+      "registeredSourceUrl": "https://archive.org/details/philosophyofhist00hege",
+      "contentHash": "4d8695f745326615006a7197099793f0362dec99dce20a37f02a121e62b44453",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

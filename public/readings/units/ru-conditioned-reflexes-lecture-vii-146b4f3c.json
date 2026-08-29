@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-conditioned-reflexes-lecture-vii-146b4f3c",
+  "title": "讲 VII",
+  "englishTitle": "Lecture VII",
+  "work": "《条件反射》",
+  "englishWork": "Conditioned Reflexes",
+  "locator": "讲 VII",
+  "englishLocator": "Lecture VII",
+  "version": "约克大学心理学经典文库，G. V. Anrep 1927 年英译公版文本，巴甫洛夫《条件反射》讲座七第112—113页，分析功能实验段",
+  "englishVersion": "York University Classics in the History of Psychology, G. V. Anrep public-domain translation (1927), Pavlov, Conditioned Reflexes, Lecture VII, pp. 112–113, passage on the experimental study of the analysing function",
+  "sourceUrl": "https://psychclassics.yorku.ca/Pavlov/lecture7.htm",
+  "source": {
+    "contentType": "text/html",
+    "sha256": "33bae4aa0d9921f3a5b35b5bf0c662c5b7a886e58ce898af9ff30564140d8c7e"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "f5033f3dc2cdbe0f9f1270653cd93353dbf78e73ee9931d9481532c0e93c823d",
+  "inputHash": "44f217fedb7da3040f4cc2884af3e20fd14ccbcce826331e788517a07b35467d",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "LECTURE"
+    },
+    {
+      "id": "p0002",
+      "text": "VII"
+    },
+    {
+      "id": "p0003",
+      "text": "The analysing and synthesizing activity of the cerebral hemispheres:"
+    },
+    {
+      "id": "p0004",
+      "text": "(a) The initial generalization of conditioned stimuli. (b) Differential inhibition."
+    },
+    {
+      "id": "p0005",
+      "text": "Stimuli which evoke conditioned reflexes are perpetually acting as signals of those agencies in the environment which are in themselves immediately favourable or immediately destructive for the organism. Such signals are drawn sometimes from only one elementary property of the environing agencies, sometimes from a whole complex of these properties. This is possible only because the nervous system possesses on the one hand a definite analysing mechanism , by means of which it selects out of the whole complexity of the environment those units which are of significance, and, on the other hand, a synthesizing mechanism by means of which individual units can be integrated into an excitatory complex. Thus in studying the nervous activity of the cerebral cortex it is necessary to deal with two further and distinct phenomena, one involving a neuro-analysis and the other involving a neuro-synthesis. The analysing and synthesizing functions of the nervous system constantly superimpose themselves upon and interact with one another."
+    },
+    {
+      "id": "p0006",
+      "text": "Every type of nervous system presents a more or less complex analysing apparatus which readily admits of subdivision into what we may term the nervous analysers. For example, the visual analyser selects the vibrations of light, the acoustic analyser selects the vibrations of sound, and so on. Furthermore, each analyser differentiates its own selective medium of the environment into a very large number of elementary physiological stimuli. With regard to the structure of the analysers, each includes, on the one hand, the peripheral receptor with all its afferent nerves, and, on the other hand, the nerve cells which lie at the central termination of the nerve fibres. The peripheral receptors can be regarded as \"transformers,\" which, in the case of any single analyser, are capable of accepting only one definite form of energy as an adequate stimulus for the initiation of a nerve impulse. It is obvious that both the peripheral receptors and the central nervous elements are involved in the [p. 111] analysing function of the nervous system. Inferior analysing qualities are of course manifested by lower parts of the nervous system, and even by the crudely differentiated nervous substance in those animals which lack a nervous system proper. An organism deprived of its cerebral hemispheres still responds in a great variety of ways to stimuli applied to its receptor surfaces, according to the site of application, the intensity and the quality of the stimuli. However, the highest and most subtle analysing activity of which an animal is capable can be obtained only with the help of the cerebral cortex. It is evident also that only with the progressive development of the analysing activity of the nervous system is the organism enabled to multiply the complexity of its contacts with the external world and to achieve a more and more varied and exact adaptation to external conditions. In contemporary research the study of the analysing function forms a very important section of the so-called physiology of the sense organs. This section has reached a very high state of development in the hands of some of the greatest physiologists, especially Helmholtz, and presents an abundant wealth of data concerning the activities of the peripheral structures of the different analysers and of their cerebral terminations. A good deal is known also about the limits of the analysing functions in man. But while the study of the physiology of the special sense organs suggests explanations of many complicated cases of the analysing function, and enunciates many fundamental laws to which this activity conforms, the greater part of the material which has been gathered is of a subjective character, being based on our psychical apperceptions which are the most elementary subjective indications of the objective correlations between organism and environment. This fact constitutes the greatest defect of this section of physiology, since it excludes the study of the analysing function in animals outside man, and therewith all the advantages of animal experimentation. The method of conditioned reflexes, however, gives over the study of the whole of this most important function of nervous analysis into the bands of the purely experimental physiologist. With the help of conditioned reflexes the scope and limits of the analysing functions in different animals can be exactly determined, and the laws regulating this function made clear. Although the study of the physiology of analysers has been as yet but little developed, research upon the new line is making rapid progress and may be expected to add largely to our knowledge of the [p. 112] mechanism by which the exact correspondence between the organism and its environment is maintained."
+    },
+    {
+      "id": "p0007",
+      "text": "The first step was to find s method by which the activities of the analysers could be objectively studied in animals by means of visible outward reactions. As was mentioned before, even insignificant changes in the external environment call forth if not a, special inborn or acquired reflex activity, then a reaction of orientation (the \"investigatory reflex\"). It is obvious that the investigatory reflex can be used to determine the degree to which the nervous system of a given animal is capable of discriminating between various stimuli. If, for example, among the different environing agencies there is present a definite musical tone, any, even slight, alteration of its pitch will suffice to evoke an investigatory reflex in the form of a definite orientation of the ears and maybe of the whole body of the animal in relation to the tone. The same is true even of slight changes in various other elementary or compound stimuli. The investigatory reflex, of course, takes place only provided that the structure of the analysing apparatus is sufficiently delicate to register the change in the environment. This reflex can be used for the purpose of our investigation by itself, or, much better, through its inhibitory or dis-inhibitory effects upon conditioned reflexes, since these are the most delicate nervous reactions of which the animal is capable. However in spite of the high degree of sensitivity manifested by the investigatory reflex this reaction is in many respects unsuitable as a basis for the study of the analysing activity of the nervous system. One of its chief defects is that in the case of certain weak stimuli the reaction is only transient and cannot be repeated, and it is therefore useless for the purpose of exact experimentation. The detailed investigation of a conditioned reflex reaction, on the contrary, provides an eminently suitable method for an exact experimental research into the analysing function. A definite external agent is made, for example, to acquire by our usual technique the properties of a definite conditioned stimulus. By repeated reinforcement this particular stimulus is strengthened in its new properties, while the stimulus nearest to it in intensity, position or quality is always contrasted by being left without reinforcement, with the result that it becomes readily and exactly differentiated from the established positive conditioned stimulus."
+    },
+    {
+      "id": "p0008",
+      "text": "The successful development of analysis of external agencies by means of conditioned reflexes is always preceded by what we call a [p. 113] \"period of generalization\" (which may possibly be regarded as some form of synthesizing activity)."
+    },
+    {
+      "id": "p0009",
+      "text": "For instance, if a tone of 1000 d.v. is established as a conditioned stimulus, many other tones spontaneously acquire similar properties, such properties diminishing proportionally to the intervals of these tones from the one of 1000 d.v. Similarly, if a tactile stimulation of a definite circumscribed area of skin is made into a conditioned stimulus, tactile stimulation of other skin areas will also elicit some conditioned reaction, the effect diminishing with increasing distance of these areas from the one for which the conditioned reflex was originally established. The same is observed with stimulation of other receptor organs. This spontaneous development of accessory reflexes, or, as we have termed it, generalization of stimuli, can be interpreted from a biological point of view by reference to the fact that natural stimuli are in most cases not rigidly constant but range around a particular strength and quality of stimulus in a common group. For example, the hostile sound of any beast of prey serves as a conditioned stimulus to a defence reflex in the animals which it hunts. The defence reflex is brought about independently of variations in pitch, strength and timbre of the sound produced by the animal according to its distance, the tension of its vocal cords and similar factors."
+    },
+    {
+      "id": "p0010",
+      "text": "Besides this we have encountered in conditioned reflexes another form of generalization, the vital importance of which is not so immediately apparent. So far we have been dealing with a temporary form of generalization within a single analyser in the case of simultaneous and delayed reflexes. In the case of conditioned long-trace reflexes, with a pause of 1-3 minutes, the generalization becomes permanent and of a wider scope. Trace reflexes, like all delayed reflexes, present two phases-an initial, inactive phase based on internal inhibition, and a second, active phase based on nervous excitation. All that has been said about the effect of extra stimuli upon these two phases in the case of delayed reflexes is true also for the two phases in trace reflexes. The trace reflexes, however, have another characteristic of their own, namely, that they exhibit a permanent and universal generalization, involving all the analysers. For example, if we establish a long-trace conditioned reflex to a tactile cutaneous stimulus, it is found that stimuli which belong to other analysers and which have never been connected with the given reflex begin to act as conditioned stimuli to the same trace reflex. [p. 114] We shall deal with this phenomenon at some length, since the investigation presents some special points of interest."
+    },
+    {
+      "id": "p0011",
+      "text": "The following experiments bearing upon this question are taken from a research by Dr. Grossman:"
+    },
+    {
+      "id": "p0012",
+      "text": "A tactile stimulation of the skin is used as the conditioned stimulus for a long-trace reflex to acid, the interval between the end of the conditioned stimulus and the beginning of the unconditioned being one minute. The experiments show the effect of a thermal stimulus at 0�C. and of a given musical tone, both applied for the very first time."
+    },
+    {
+      "id": "p0013",
+      "text": "It is thus seen that stimuli which had previously never been connected with the reflex to acid have now acquired the property to excite this reflex. Furthermore, the stimuli, although applied for the very first time, act in the same manner as the stimulus used to establish the trace reflex, their effect being manifested not at the time of their application, but chiefly or exclusively after they have been discontinued. This similarity made us inclined to regard them as being due to a generalization of the original trace reflex. Of course, the evidence from a few isolated experiments of this type was not sufficiently strong to establish this conclusion beyond doubt, and [p. 115] in view of the intrinsic interest of this phenomenon it was subjected to rigid investigation."
+    },
+    {
+      "id": "p0014",
+      "text": "On the experimental evidence available concerning conditioned reflexes only two further possible explanations of this phenomenon suggested themselves. In the first place a long-trace reflex is always formed slowly and with difficulty, and it was observed in our earlier experiments that before the formation of the trace reflex other conditioned reflexes were very easily established to any chance stimuli which happened to coincide with the actual administration of the unconditioned stimulus and of which the experimenter himself was often the cause. In the case we are speaking of at present the danger of interference by extraneous stimuli was therefore considerable, and these experiments had to be repeated in our new laboratory so as to make sure that any possible accidental influence of the experimenter upon the animal was excluded. Under these conditions the generalized character of the long-trace reflex was still found to persist."
+    },
+    {
+      "id": "p0015",
+      "text": "The second explanation which suggested itself was as follows: When conditioned reflexes are being established in dogs for the first time, it is found that the whole experimental environment, beginning with the introduction of the animal into the experimental room, acquires at first conditioned properties. This initial reflex could be called, therefore, a conditioned reflex to the environment. But later on, when the special reflex to a single definite and constant stimulus has appeared; all the other elements of the environment gradually lose their special conditioned significance, most probably on account of a gradual development of internal inhibition. However, this inhibition is at first very easily dis-inhibited by any extra stimulus. The following is a striking example of such a case which was very common, when, as formerly, the experimenter remained in the room with the dog. The reflex to environment had in the given experiments just come to an end, the glands being now in a resting state except when the special positive conditioned stimulus was applied. As soon, however, as I myself entered the room, in order for the first time to watch the experiments, a copious secretion of saliva was produced by the dog, which persisted as long as 'remained in the room. I myself presented in this case the extra stimulus dis-inhibiting the reflex to environment which had only just recently undergone extinction. Now it occurred to us that the phenomenon of the universal generalization of the long-trace reflexes might [p. 116] really be nothing but a dis-inhibition of the reflex to environment. However, after a thorough examination, this explanation had to be discarded. In the first place, a considerable generalization of long-trace reflexes could easily be observed even in dogs in which the reflex to environment had been deeply inhibited so long ago that it was now almost impossible to dis-inhibit it. In the second place, the supposition of dis-inhibition when followed up necessitated a further assumption which was easily disproved. It has been seen already that dis-inhibition of the inactive phase in delay was obtained immediately on application of the extra stimulus, i.e. without any such latent period as is observed for trace reflexes. If the generalized character of trace reflexes was in reality nothing but dis-inhibition, we should expect all the different stimuli also to act immediately, but as we have seen they act only after their termination and after about the same latent period as the initially established trace reflex. If it is still assumed that the effect is due to dis-inhibition of the reflex to environment, then in the case of trace reflexes all the different stimuli must act for some reason as very powerful extra stimuli which do not dis-inhibit the reflex to environment, but temporarily abolish all conditioned activity by producing a very powerful inhibition (as is also the case with very powerful extra stimuli in delay), and the ensuing dis-inhibition must be brought about by their traces which represent weaker stimuli. This assumption, however, is contradicted by the following facts. It is known that repeated application of the same powerful extra stimulus is followed by a gradual diminution of its inhibitory effect, which gives place, as was seen with delay, to dis-inhibition. But in the case of the generalized stimuli in long-trace reflexes the latent period does not diminish in spite of repeated applications. This shows that the reflex activity is due to a genuine generalization of the trace reflex and not to dis-inhibition. Finally, there is this striking fact, that in the case of trace reflexes following the application of various stimuli, which of course are never reinforced, the effect of the special conditioned stimulus to which the trace reflex was experimentally established also becomes temporarily diminished, and the secretion may fall to zero, a fact which cannot be reconciled with any supposition that we are dealing with a dis-inhibition of the reflex to environment. Indeed, there is no doubt that this weakening of the effect of the special conditioned stimulus represents a simple instance of extinction, as the result of non-reinforcement, of a reflex which has become generalized within the hemispheres. [p. 117]"
+    },
+    {
+      "id": "p0016",
+      "text": "Thus it is seen that in the course of the establishment of simultaneous and delayed reflexes a temporary generalization develops in the form of a number of accessory conditioned reflexes to associated stimuli. Generalization of the reflexes can be effected also through the whole environment acting on the organism by the sum total of its individual units and leading to the formation of what we may call a synthetic environmental reflex. In other cases, namely, in long-trace reflexes, it is effected in virtue of the intrinsic properties of the nervous system itself, which give a more or less generalized character to the individual external stimuli in their capacity as conditioned stimuli. In many instances, some of which we have referred to above, it is obvious that this fact of generalization of stimuli has a definite importance in the natural correlation between the animal and its environment, but in other cases the generalization can have only a limited or temporary significance. In the latter cases the approximate, general, and under some conditions useful connection with the environment as a whole is replaced by a precise and definitely specialized connection with a definite stimulatory unit."
+    },
+    {
+      "id": "p0017",
+      "text": "The question can now be discussed as to how the specialization of the conditioned reflex, or, in other words, the discrimination of external agencies, arises. Formerly we were inclined to think that this effect could be obtained by two different methods: the first method consisted in repeating the definite conditioned stimulus a great number of times always accompanied by reinforcement, and the second method consisted in contrasting the single definite conditioned stimulus, which was always accompanied by reinforcement, with different neighbouring stimuli which were never reinforced. At present, however, we are more inclined to regard this second method as more probably the only efficacious one, since it was observed that no absolute differentiation was ever obtained by the use of the first method, even though the stimulus was repeated with reinforcement over a thousand times. On the other hand, it was found that contrast by even a single unreinforced application of an allied stimulus, or by a number of single unreinforced applications of different members of a series of allied stimuli at infrequent intervals of days or weeks, led to a rapid development of differentiation. The method of contrast is now always employed in our experiments, as leading to a differentiation of external agencies in an incomparably quicker time."
+    },
+    {
+      "id": "p0018",
+      "text": "We can now follow out the development of differentiation between [p. 118] external stimuli in the conditioned reflexes in greater detail. In the first place an interesting observation which remained for a long time without explanation may be considered: It was noticed that when. after a conditioned reflex to s definite stimulus ( e.g. a definite musical tone) had been firmly established, the effect of another closely allied stimulus (a neighbouring musical tone) was tried for the first time, the conditioned reflex which resulted from the new stimulus was frequently much weaker than that obtained with the original conditioned stimuli. On repetition of the stimulus of the neighbouring tone, always, of course, without reinforcement, the secretory effect increased until it became equal to that given by the originally established stimulus, but subsequently on further repetition began to diminish, falling finally to a permanent zero. Thus it appeared that at first the two closely allied stimuli were discriminated straight away, but that later this discrimination for some reason disappeared, only gradually to re-establish itself and finally to become absolute. To provide an explanation of this phenomenon we can revert to an interpretation which was advanced previously for similar events occurring in the process of development of conditioned inhibition. It will be remembered that when, in the formation of conditioned inhibition, a conditioned stimulus was accompanied for the first time by the new stimulus which later acquired the properties of a conditioned inhibitor, the combination produced either a very small positive effect or else remained totally ineffective. Later, although the inhibitory combination was never reinforced by the unconditioned stimulus, it produced again a reflex of full strength, which, however, after further repetitions gradually fell to a permanent zero. The explanation given in the case of conditioned inhibition, and fully borne out by experimental evidence, was that the additional stimulus elicited on its first application an investigatory reflex which immediately produced an external inhibition of the conditioned reflex ; on repetition the strength of the investigatory reflex rapidly diminished and the positive effect of the conditioned stimulus was temporarily restored, being later gradually suppressed by the development of internal inhibition. Similarly, in the case of differentiation it is possible to regard stimuli neighbouring on the definite positive conditioned stimulus as bearing two aspects, one of similarity to, and the other of difference from, the positive conditioned stimulus. On account of the element which is in common, these neighbouring stimuli can act similarly to the positive conditioned [p. 119] one; it is the presence of the second factor, of difference, which determines a temporary investigatory reflex, bringing about external inhibition of the excitatory effect, but later serving as foundation for the development of a permanent and final differentiation of allied stimuli."
+    },
+    {
+      "id": "p0019",
+      "text": "The correctness of this interpretation is borne out by the striking similarity in detail in the development of differentiation and of conditioned inhibition. The same variations occur in both cases. The initial diminution in the strength of the reflex during the [p. 120] first few applications of the new stimulus is sometimes succeeded by a transitory increase in strength as compared with the normal, and after this the reflex diminishes steadily below its normal value until it finally attains a permanent zero; in most cases, however, thc initial diminution is succeeded by a phase of increase to the normal level, after which the reflex again falls steadily to zero with the development of the final differentiation; it rarely happens that a development of differentiation is established without such fluctuations, or that a gradual diminution of the reflex follows directly upon the sudden initial drop. While, in describing the formation of conditioned inhibition, the fluctuations received a considerable share of attention, no records of experiments were given. A presentation of the analogous experiments on the establishment of differential inhibition will make the matter clear."
+    },
+    {
+      "id": "p0020",
+      "text": "In the first series of experiments (see p. 119), which were conducted by Dr. Gubergritz, an object rotating in a clockwise direction served as the positive conditioned stimulus, while the same object rotating in the opposite direction served as the stimulus undergoing differentiation."
+    },
+    {
+      "id": "p0021",
+      "text": "[p. 121]"
+    },
+    {
+      "id": "p0022",
+      "text": "The above experiments were conducted on another dog, a musical tone serving as a conditioned alimentary stimulus and its semitone as the stimulus undergoing differentiation."
+    },
+    {
+      "id": "p0023",
+      "text": "The dog employed in the next series of experiments is the same as was used in the first series. A luminous circle was used for a conditioned alimentary stimulus, and a luminous square of equal surface and equal brightness for the stimulus undergoing differentiation."
+    },
+    {
+      "id": "p0024",
+      "text": "Some other interesting points besides those connected with the interference of the investigatory reflex have also come to light recent experiments. In the first place it has been shown that the development of a differentiation of two very closely allied stimuli may be attempted directly, or, on the other hand, the same differentiation may be effected in stages, leading up through the differentiation of more remote stimuli. There is a considerable difference between the rates of development of a precise differentiation by these two methods. For example, if we begin with the first method we generally find that [p. 122] the differentiation does not become established even after a considerable number of contrasts of the two very closely allied stimuli; but if we proceed to establish a, differentiation of a remoter stimulus, working up gradually through finer differentiations until the very closely allied stimulus is again reached, it is found that this differentiation is now very rapidly established. The following experiments of Dr. Gubergritz serve to illustrate these relations:"
+    },
+    {
+      "id": "p0025",
+      "text": "A circle of white paper provided a conditioned alimentary stimulus from which it was required to differentiate a circle of grey paper of similar size made of No. 10 in Zimmermann's scale (50 shades from white to black). Seventy-five applications of the grey circle No. 10 without reinforcement, contrasted with frequent applications of the white circle which always remained reinforced, failed to produce the slightest sign of differentiation. A much darker circle No. 35 was now contrasted with the white, and a differentiation was quickly established. Differentiation was now carried out for grey circles Nos. 25 and 15, after which the attempt to differentiate circle No. 10 was made again, with the result that complete differentiation was established after a total of only 20 applications, in all, of the four different circles."
+    },
+    {
+      "id": "p0026",
+      "text": "A similar experiment, also with a visual stimulus, but in a modified form, was carried out on another dog. In this case the conditioned alimentary stimulus was again a circle, while the stimulus to be differentiated from it was an ellipse cut from the same paper and of equal surface, with the semi-axes in the ratio of 8:9. Although at the beginning 70 applications of the ellipse were made with the method of contrast, no differentiation was obtained. Successive differentiations were now obtained in stages for ellipses with ratio of the semi-axes 4:6, 5:6, 7:8, and finally with the ellipse of the ratio 8:9. A precise differentiation of the latter was finally established after a total of only 18 applications, in all, of the four ellipses."
+    },
+    {
+      "id": "p0027",
+      "text": "In building up a differentiation by stages, beginning with a remote stimulus, the development of the first crude differentiation takes place comparatively slowly, especially if it is desired to obtain an absolute differentiation giving a permanent zero. When, however, an absolute, or almost absolute, differentiation has been obtained, the succeeding stages of progress towards the finer differentiation are passed through with increasing rapidity, becoming, however, somewhat retarded as the limit of the analysing activity is approached. One example may be given in illustration: [p. 123]"
+    },
+    {
+      "id": "p0028",
+      "text": "A white circle of a given surface area was used for a conditioned stimulus, while ellipses of the same area and whiteness but with different ratios of semi-axes provided the stimuli undergoing differentiation. In order to obtain a pronounced differentiation of the first ellipse, in which the ratio of the semi-axes was 4:5, twenty-four applications were required, with, of course, frequent contrastings by the circle. At this stage the circle elicited a secretion of 34 divisions of the scale in 30 seconds, whereas the effect of the ellipse was measured by only four divisions. The next ellipse, with a ratio of 5:6, required only 3 applications in contrast to the circle before it became fully differentiated. Three repetitions were required also for the next ellipse, in which the semi-axes were in the ratio 6: 7."
+    },
+    {
+      "id": "p0029",
+      "text": "It should be noted that irregularities in the curve of development of differentiation do not depend always on the disturbing influence of the investigatory reflex due to external stimuli ; in all probability they are sometimes caused by variations in the intensity of the underlying nervous activity."
+    },
+    {
+      "id": "p0030",
+      "text": "The stability of differentiation of a given stimulus can be measured by the length of time reckoned from the last application of the positive stimulus during which differentiation is fully maintained. When differentiation has only recently been established, the length of time during which the differentiated stimulus without intermediate practice will yet give a full zero on its next application is short; this length of time increases, however, as the differentiation becomes more firmly established. For practical purposes we take a differentiation as being fully established when it is maintained for not less than 24 hours, still giving a zero reflex when applied as the very first stimulus in an experiment."
+    },
+    {
+      "id": "p0031",
+      "text": "Our repeated experiments have demonstrated that the same precision of differentiation of various stimuli can be obtained whether they are used in the form of negative or positive conditioned stimuli. This holds good in the case of conditioned trace reflexes also. The following experiment from a paper by Dr. Frolov gives an illustration of the differentiation of a trace stimulus:"
+    },
+    {
+      "id": "p0032",
+      "text": "A rate of 104 beats per minute of a metronome was established as a conditioned alimentary stimulus. The conditioned trace inhibitor undergoing differentiation was given by a definite tone of an organ pipe (No. 16) which was sounded for 15 seconds and followed after a pause of one minute by the stimulus of the metronome which [p. 124] remained in this case without reinforcement. A combination of the metronome with a trace of the tone of the next organ pipe (No. 15, an interval of one tone from the first) was contrasted with the first, being reinforced so that it became an excitatory stimulus. The differentiation of the trace inhibition is illustrated in the following experiment :"
+    },
+    {
+      "id": "p0033",
+      "text": "It should be added that the above differentiation was obtained by passing through a long series of crude differentiations, beginning with traces measured by seconds, and with wider intervals of tones; but once developed the differentiation could be repeated from day to day."
+    },
+    {
+      "id": "p0034",
+      "text": "With regard to the nature of the nervous process by which the initially generalized conditioned stimulus comes to assume an extremely specialized form, we have abundant experimental evidence [p. 125] that it is based upon internal inhibition; in other words, we may say that the excitatory process which is originally widely spread in the cerebral part of the analyser is gradually overcome by internal inhibition, excepting only the minutest part of it which corresponds to the given conditioned stimulus. This interpretation of differentiation as based upon internal inhibition rests upon evidence to be described now."
+    },
+    {
+      "id": "p0035",
+      "text": "A differentiation is established between two closely allied stimuli, so that one of them which is reinforced gives a constant positive conditioned effect, while the other, which remains unreinforced, gives no secretory effect. If, however, the positive stimulus is applied a short time after the differentiated one, there is found to be a considerable diminution of its secretory effect. An illustration of such an experiment can be given from a research by Dr. Beliakov:"
+    },
+    {
+      "id": "p0036",
+      "text": "A definite tone of an organ-pipe has been given properties of an alimentary conditioned stimulus, and an interval of 1/8th lower has been firmly differentiated from it by the usual method of contrast."
+    },
+    {
+      "id": "p0037",
+      "text": "It follows that after application of the differentiated tone there remains in the nervous system a state of inhibition which is for some time sufficiently powerful to weaken the excitatory process set up by the application of the positive stimulus."
+    },
+    {
+      "id": "p0038",
+      "text": "The inhibition which is exhibited in differentiation must be recognized as constituting the fourth type of internal inhibition, which may be called differential inhibition ."
+    },
+    {
+      "id": "p0039",
+      "text": "It would to our mind be quite appropriate to bring conditioned inhibition also under the heading of differential inhibition, since in both cases we deal with a removal by means of internal inhibition [p. 126] of an excitatory effect of simple or complex stimuli which acquired their excitatory properties spontaneously in virtue of their partial resemblance to the original positive conditioned stimulus."
+    },
+    {
+      "id": "p0040",
+      "text": "The inhibitory after-effect in differential inhibition corresponds exactly with the inhibitory after-effect in conditioned inhibition, both becoming shortened by repetition. At the beginning they may persist upwards of an hour, but they become restricted finally to a matter of a few seconds."
+    },
+    {
+      "id": "p0041",
+      "text": "It is necessary to emphasize in this place the fact that the finer the degree of differentiation the greater is the intensity of the inhibitory after-effect. The following experiments of Dr. Beliakov serve to illustrate this point:"
+    },
+    {
+      "id": "p0042",
+      "text": "A definite tone represents the conditioned stimulus in an alimentary reflex; intervals of one-half and one-eighth were used for differentiation."
+    },
+    {
+      "id": "p0043",
+      "text": "Apart from the close connection already mentioned between conditioned inhibition and differential inhibition, the latter provides a close parallel in all other respects to the three types of internal inhibition which have been dealt with in previous lectures. Thus the inhibitory after-effect in differential inhibition, similarly to other forms of internal inhibition, undergoes summation on repetition of the stimulus. The following experiments are again taken from the researches by Dr. Beliakov:"
+    },
+    {
+      "id": "p0044",
+      "text": "Another dog is taken in which a conditioned alimentary reflex [p. 127] is established to a definite musical tone, while a, semitone lower is firmly differentiated as an inhibitory stimulus."
+    },
+    {
+      "id": "p0045",
+      "text": "In differentiation as in the other types of internal inhibition the intensity of inhibition stands in direct relation to the strength of the excitatory process on the basis of which it was established, and can therefore be disturbed by any increase in the intensity of the stimulus which developed the inhibitory properties, or by any change in the general or local excitability of the central nervous system. To illustrate this last condition we may take instances of differential inhibitions established on the basis of an alimentary reflex. If, for example, the dog has been kept entirely without food for a much longer period than usual before the experiment is conducted, the increase in excitability of the whole alimentary nervous mechanism renders the previously established differential inhibition wholly inadequate. Again, if the general excitability of the central nervous system has been increased, for example by an injection of caffeine, the previously established differentiation similarly becomes disturbed. This effect of an alteration of the general nervous excitability is fully illustrated by an experiment of Dr. Nikiforovsky:"
+    },
+    {
+      "id": "p0046",
+      "text": "A tactile stimulation of the fore-paw serves as a positive conditioned alimentary stimulus, while a tactile stimulation of the back is completely differentiated from it. [p. 128]"
+    },
+    {
+      "id": "p0047",
+      "text": "Lastly, in common with the other three groups of internal inhibition, differential inhibition is subject to dis-inhibition, becoming temporarily removed under the influence of mild extra stimuli belonging to the group of external inhibitors, so as to reveal the underlying excitatory process. Two experiments by Dr. Beliakov carried out on the same animal are given in illustration:"
+    },
+    {
+      "id": "p0048",
+      "text": "A tone of 800 d.v. served as a conditioned alimentary stimulus, and an interval of one-eighth (812 d.v.) was thoroughly differentiated from it. A sound of bubbling water and an odour of amyl acetate served as mild extra stimuli which by themselves did not evoke any secretory effect."
+    },
+    {
+      "id": "p0049",
+      "text": "It is interesting to note that dis-inhibition can also be obtained when mild extra stimuli influence the hemispheres while the after-effect of differential inhibition is still persisting. The following is an experiment carried out by Dr. Beliakov on the same animal. The extra stimulus is given by the sound of a metronome which by itself produced no secretion."
+    },
+    {
+      "id": "p0050",
+      "text": "Among the extra stimuli which have been employed there were some which evoked, not an ordinary investigatory reaction, but specific reflexes of greater intensity and complexity; in these cases the dis-inhibitory after-effect was very much prolonged. An example of the use of such an extra stimulus can again be taken from an experiment by Dr. Beliakov performed on the same animal as before."
+    },
+    {
+      "id": "p0051",
+      "text": "A strong extra stimulus was provided by the blare of a toy trumpet which produced voluminous and exceedingly discordant noises. The dog reacted by barking wildly, trembling and trying to break away from the stand."
+    },
+    {
+      "id": "p0052",
+      "text": "The experimental evidence advanced in this lecture leaves us in no doubt but that the establishment of differentiation is based upon the development of internal inhibition in respect to the differentiated agent."
+    },
+    {
+      "id": "p0053",
+      "text": "On the evidence of our experiments we are also forced to the conclusion that there is an important difference between the cruder form of differentiation depending upon external inhibition, and the finer form of differentiation depending upon internal inhibition. The former and more generalized inhibition is brought about by the intervention of an excitatory process, in most cases in the form of an investigatory reflex, and this has only a secondary inhibiting or dis-inhibiting effect upon the conditioned reflexes; the latter is brought about by a primary development of an inhibitory process, resulting, so to speak, from a conflict between excitation and inhibition. This supremacy of the inhibitory process is sometimes gained only with considerable difficulty, and in some cases it is even beyond the power of the nervous system to resolve the conflict in favour of either process. In the latter case the antagonism between the excitatory and inhibitory processes may not always bring about a full utilization of the results of analysis of external stimuli for the general benefit of the organism. This being so the study of the analysing activity of the nervous system by the method of conditioned reflexes will also have its limitations -- a fact which in itself presents a problem of considerable interest."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-pavlov-discrimination": {
+      "paragraphId": "p0007",
+      "start": 2077,
+      "end": 2410,
+      "quote": "By repeated reinforcement this particular stimulus is strengthened in its new properties, while the stimulus nearest to it in intensity, position or quality is always contrasted by being left without reinforcement, with the result that it becomes readily and exactly differentiated from the established positive conditioned stimulus.",
+      "match": "normalized-exact"
+    },
+    "psychology-foundations-pavlov-generalization": {
+      "paragraphId": "p0009",
+      "start": 0,
+      "end": 238,
+      "quote": "For instance, if a tone of 1000 d.v. is established as a conditioned stimulus, many other tones spontaneously acquire similar properties, such properties diminishing proportionally to the intervals of these tones from the one of 1000 d.v.",
+      "match": "normalized-exact"
+    }
+  }
+}

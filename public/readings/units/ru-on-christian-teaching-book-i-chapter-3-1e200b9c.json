@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-christian-teaching-book-i-chapter-3-1e200b9c",
+  "title": "卷 I · 章 3",
+  "englishTitle": "Book I · Chapter 3",
+  "work": "《论基督教教义》",
+  "englishWork": "On Christian Teaching",
+  "locator": "卷 I · 章 3",
+  "englishLocator": "Book I · Chapter 3",
+  "version": "New Advent，James Shaw 1887 年 NPNF 公版英译，《论基督教教义》第一卷第 3 章第 3 节",
+  "englishVersion": "New Advent, James Shaw public-domain translation in NPNF (1887), On Christian Doctrine I.3.3",
+  "sourceUrl": "https://www.newadvent.org/fathers/12021.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/12021.htm",
+    "contentType": "text/html",
+    "sha256": "5a343dca9a9469ff6660a70e483fa0f89fe457dd4daf3f5945dce3181d6e4bf8"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "67ce0b94ad3ef2f485cd10002f362ea5fc6531bba821a7a76f45a017812ae1b8",
+  "inputHash": "4ea6b3365496677eb0fd38d04e1ae1bd898928241ebe65d7501b830918f4c33a",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 3.— Some Things are for Use, Some for Enjoyment."
+    },
+    {
+      "id": "p0002",
+      "text": "3. There are some things, then, which are to be enjoyed, others which are to be used, others still which are to be enjoyed and used. Those things which are objects of enjoyment make us happy . Those things which are objects of use assist, and (so to speak) support us in our efforts after happiness , so that we can attain the things that make us happy and rest in them. We ourselves, again, who enjoy and use these things, being placed among both kinds of objects, if we set ourselves to enjoy those which we ought to use, are hindered in our course, and sometimes even led away from it; so that, getting entangled in the love of lower gratifications, we lag behind in, or even altogether turn back from, the pursuit of the real and proper objects of enjoyment."
+    }
+  ],
+  "anchors": {
+    "augustine-use-and-enjoyment": {
+      "paragraphId": "p0002",
+      "start": 3,
+      "end": 192,
+      "quote": "There are some things, then, which are to be enjoyed, others which are to be used, others still which are to be enjoyed and used. Those things which are objects of enjoyment make us happy.",
+      "match": "normalized-exact"
+    }
+  }
+}

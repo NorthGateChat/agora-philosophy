@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "status": "ready-to-merge-after-extractor-repairs",
+  "purpose": "Manual reading-unit boundary repairs discovered by strict first/last-paragraph review. These are extraction fixes, not source-text edits.",
+  "byUnitId": {
+    "ru-discourses-book-iv-chapter-1-9724a341": {
+      "startPattern": "^ABOUT FREEDOM\\.",
+      "endPattern": "^ON FAMILIAR INTIMACY\\.",
+      "evidence": "The Gutenberg text prints Book IV chapter 1 from ABOUT FREEDOM through the paragraph immediately before ON FAMILIAR INTIMACY."
+    },
+    "ru-novum-organum-book-ii-5e6fbb20": {
+      "startPattern": "^APHORISMS--BOOK II$",
+      "endPattern": "^END OF \"NOVUM ORGANUM\"$",
+      "maximumUnitCharacters": 500000,
+      "evidence": "The Devey 1902 text marks Book II explicitly and places the work-end marker before editorial notes and the Gutenberg license."
+    },
+    "ru-the-economics-of-welfare-part-ii-chapter-vi-aadfba99": {
+      "startPattern": "^DIVEEGBNCBS\\s+BETWEEN\\s+MARGIKAL\\s+SOCIAL\\s+NET\\s+PEODUCT\\s+AND",
+      "endPattern": "^CHAPTEE\\s+VII$",
+      "maximumUnitCharacters": 250000,
+      "evidence": "The Internet Archive OCR has stable, edition-specific misspellings in the Chapter VI and Chapter VII title paragraphs; the proposed pair isolates Chapter VI."
+    },
+    "ru-the-principles-of-psychology-chapter-x-fea508cc": {
+      "startPattern": "^CHAPTER X\\.$",
+      "endPattern": "^CHAPTER XI\\.$",
+      "maximumUnitCharacters": 500000,
+      "evidence": "The Gutenberg text has explicit consecutive chapter headings; quote-guided candidate selection disambiguates the table-of-contents occurrence."
+    },
+    "ru-the-souls-of-black-folk-forethought-forethought-0f6dd598": {
+      "startPattern": "^The Forethought$",
+      "endPattern": "^I\\. Of Our Spiritual Strivings$",
+      "evidence": "The Gutenberg body begins the forethought at its repeated full heading and ends it at the first numbered chapter heading."
+    },
+    "ru-the-world-as-will-and-representation-volume-i-book-ii-ea9332fc": {
+      "startPattern": "^SECOND BOOK\\. THE WORLD AS WILL\\.$",
+      "endPattern": "^THIRD BOOK\\. THE WORLD AS IDEA\\.$",
+      "maximumUnitCharacters": 250000,
+      "evidence": "The Gutenberg text prints unambiguous uppercase headings at the true starts of Books II and III."
+    },
+    "ru-vaisheshika-sutra-book-1-chapter-1-27352864": {
+      "startPattern": "^KANADA SIJTRAS I, 1, 1\\.$",
+      "endPattern": "^KANADA SUTRAS I, 2, 1\\.$",
+      "maximumUnitCharacters": 500000,
+      "evidence": "The current start at Sankara Misra's introduction selects an earlier scan occurrence and leaks front matter. The OCR heading KANADA SIJTRAS I, 1, 1 begins the chapter's sutra and commentary; the exact next-chapter running header KANADA SUTRAS I, 2, 1 provides the clean exclusive end without confusing an earlier malformed page header."
+    }
+  }
+}

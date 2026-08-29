@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-rolling-forth-the-wheel-of-dhamma-sn-56-11-whole-work-bbc6616b",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《转法轮经》",
+  "englishWork": "Rolling Forth the Wheel of Dhamma (SN 56.11)",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "SuttaCentral/Bilara已发布数据固定提交21b240d60ee298ea0bab0868d058dfac04dbd1fd，Bhikkhu Sujato 2018年CC0英译《相应部》56.11，第9.1段；关于四圣谛三转十二行相的完整连续句，中文为项目研读译文",
+  "englishVersion": "SuttaCentral/Bilara published data at frozen commit 21b240d60ee298ea0bab0868d058dfac04dbd1fd, Bhikkhu Sujato's 2018 CC0 translation of SN 56.11, segment 9.1; complete continuous sentence on the three rounds and twelve aspects of the four noble truths; Chinese is a project study translation",
+  "sourceUrl": "https://suttacentral.net/sn56.11/en/sujato",
+  "preparedSourceUrl": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+  "source": {
+    "url": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+    "retrievalUrl": "https://raw.githubusercontent.com/suttacentral/bilara-data/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/sn/sn56/sn56.11_translation-en-sujato.json",
+    "contentType": "application/json",
+    "sha256": "8900aeaeb3b922bdb428ee9ef80e05cc395ddcd3dda01ab8d3eef47dd181a3f7"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "077d00d80f4ce0c27c4d5d6aa602d2819720e7f904128aa50eb9b520cea75bc9",
+  "inputHash": "2b404660c9e23e618993b5ca5c56e1a2c3b7ed19107c8ddd1b94e2d73d4b3adf",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Linked Discourses 56.11 2. Rolling Forth the Wheel of Dhamma Rolling Forth the Wheel of Dhamma"
+    },
+    {
+      "id": "p0002",
+      "text": "At one time the Buddha was staying near Varanasi in the deer park at Isipatana. There the Buddha addressed the group of five mendicants:"
+    },
+    {
+      "id": "p0003",
+      "text": "“Mendicants, these two extremes should not be cultivated by one gone forth. What two? Indulgence in sensual pleasures, which is low, crude, ordinary, ignoble, and pointless. And indulgence in self-mortification, which is painful, ignoble, and pointless. Avoiding these two extremes, the Realized One understood the middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment."
+    },
+    {
+      "id": "p0004",
+      "text": "And what is that middle way of practice? It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is that middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment."
+    },
+    {
+      "id": "p0005",
+      "text": "Now this is the noble truth of suffering. Rebirth is suffering; old age is suffering; illness is suffering; death is suffering; being coupled with the disliked is suffering; separation from the liked is suffering; not getting what you wish for is suffering. In brief, the five grasping aggregates are suffering. Now this is the noble truth of the origin of suffering. It’s the craving that leads to future lives, mixed up with relishing and greed, taking pleasure there wherever it alights. That is, craving for sensual pleasures, craving for continued existence, and craving for nonexistence. Now this is the noble truth of the cessation of suffering. It’s the fading away and cessation of that very same craving no residue left behind; giving it away, letting it go, releasing it, and not clinging to it. Now this is the noble truth of the practice that leads to the cessation of suffering. It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."
+    },
+    {
+      "id": "p0006",
+      "text": "‘This is the noble truth of suffering.’ Such was the vision, knowledge, wisdom, realization, and light that arose in me regarding teachings not learned before from another. ‘This noble truth of suffering should be completely understood.’ Such was the vision that arose in me… ‘This noble truth of suffering has been completely understood.’ Such was the vision that arose in me…"
+    },
+    {
+      "id": "p0007",
+      "text": "‘This is the noble truth of the origin of suffering.’ Such was the vision that arose in me… ‘This noble truth of the origin of suffering should be given up.’ Such was the vision that arose in me… ‘This noble truth of the origin of suffering has been given up.’ Such was the vision that arose in me…"
+    },
+    {
+      "id": "p0008",
+      "text": "‘This is the noble truth of the cessation of suffering.’ Such was the vision that arose in me… ‘This noble truth of the cessation of suffering should be realized.’ Such was the vision that arose in me… ‘This noble truth of the cessation of suffering has been realized.’ Such was the vision that arose in me…"
+    },
+    {
+      "id": "p0009",
+      "text": "‘This is the noble truth of the practice that leads to the cessation of suffering.’ Such was the vision that arose in me… ‘This noble truth of the practice that leads to the cessation of suffering should be developed.’ Such was the vision that arose in me… ‘This noble truth of the practice that leads to the cessation of suffering has been developed.’ Such was the vision, knowledge, wisdom, realization, and light that arose in me regarding teachings not learned before from another."
+    },
+    {
+      "id": "p0010",
+      "text": "As long as my true knowledge and vision about these four noble truths was not fully purified in these three rounds and twelve aspects, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans."
+    },
+    {
+      "id": "p0011",
+      "text": "But when my true knowledge and vision about these four noble truths was fully purified in these three rounds and twelve aspects, I announced my supreme perfect awakening in this world with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans. Knowledge and vision arose in me: ‘My freedom is unshakable; this is my last rebirth; now there’ll be no more future lives.’” That is what the Buddha said. Satisfied, the group of five mendicants approved what the Buddha said."
+    },
+    {
+      "id": "p0012",
+      "text": "And while this discourse was being spoken, the stainless, immaculate vision of the Dhamma arose in Venerable Koṇḍañña: “Everything that is liable to arise is liable to cease.”"
+    },
+    {
+      "id": "p0013",
+      "text": "And when the Buddha rolled forth the Wheel of Dhamma, the earth gods raised the cry: “Near Varanasi, in the deer park at Isipatana, the Buddha has rolled forth the supreme Wheel of Dhamma. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or divinity or by anyone in the world.” Hearing the cry of the earth gods, the gods of the four great kings… the gods of the thirty-three… the gods of Yama… the joyful gods… the gods who love to create… the gods who control what is created by others… the gods of the Divinity’s host raised the cry: “Near Varanasi, in the deer park at Isipatana, the Buddha has rolled forth the supreme Wheel of Dhamma. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or divinity or by anyone in the world.”"
+    },
+    {
+      "id": "p0014",
+      "text": "And so at that moment, that second, that hour, the cry soared up to the realm of divinity. And this ten-thousandfold galaxy shook and rocked and trembled. And an immeasurable, magnificent light appeared in the world, surpassing the glory of the gods."
+    },
+    {
+      "id": "p0015",
+      "text": "Then the Buddha expressed this heartfelt sentiment: “Koṇḍañña has really understood! Koṇḍañña has really understood!” And that’s how Venerable Koṇḍañña came to be known as “Koṇḍañña Who Understood”."
+    }
+  ],
+  "anchors": {
+    "indian-buddha-four-truths": {
+      "paragraphId": "p0010",
+      "start": 0,
+      "end": 302,
+      "quote": "As long as my true knowledge and vision about these four noble truths was not fully purified in these three rounds and twelve aspects, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans.",
+      "match": "normalized-exact"
+    },
+    "indian-buddha-middle-way": {
+      "paragraphId": "p0004",
+      "start": 0,
+      "end": 216,
+      "quote": "And what is that middle way of practice? It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.",
+      "match": "normalized-exact"
+    }
+  }
+}

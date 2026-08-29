@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-platform-sutra-sitting-meditation-named-chapter-sitting-meditation-a6597bd3",
+  "title": "篇 Sitting Meditation",
+  "englishTitle": "Chapter Sitting Meditation",
+  "work": "《六祖坛经·坐禅品》",
+  "englishWork": "Platform Sutra, Sitting Meditation",
+  "locator": "篇 Sitting Meditation",
+  "englishLocator": "Chapter Sitting Meditation",
+  "version": "维基文库《六祖坛经·坐禅品》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Platform Sutra, Sitting Meditation; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E5%85%AD%E7%A5%96%E5%A3%87%E7%B6%93/%E5%9D%90%E7%A6%AA%E5%93%81",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E5%85%AD%E7%A5%96%E5%A3%87%E7%B6%93/%E5%9D%90%E7%A6%AA%E5%93%81",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%85%AD%E7%A5%96%E5%A3%87%E7%B6%93%2F%E5%9D%90%E7%A6%AA%E5%93%81&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "dfbf850fd73d5a46715d26c51b88dbb8030668f78b5bc54adb1e2a54ade43be6"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "f06e316b190ae09816e123d5e0f9d9dc51536966af6dd62ac1c584b8480cf9f6",
+  "inputHash": "204d8c6eea94bb9e0c0689c8583acc2e0ef50e9a6dfa369eebb29b332800b0d6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "坐禪品第五"
+    },
+    {
+      "id": "p0002",
+      "text": "師示眾云：此門坐禪，元不著心，亦不著淨，亦不是不動。若言著心，心元是妄，知心如幻，故無所著也。若言著淨，人性本淨，由妄念故，蓋覆真如，但無妄想，性自清淨。起心著淨，卻生淨妄，妄無處所，著者是妄。淨無形相，卻立淨相，言是工夫；作此見者，障自本性，卻被淨縛。 聽吾偈曰："
+    },
+    {
+      "id": "p0003",
+      "text": "真禪本無相，動靜兩不立。 外離一切境，內妄自然息。 獨坐非禪定，起心即是執。 無住生清淨，如來如是集。 勿滯定中枯，免落慧中纏。 雙融無所縛，無去亦無來。 若入此法門，當下入真禪。"
+    },
+    {
+      "id": "p0004",
+      "text": "善知識！若修不動者，但見一切人時，不見人之是非善惡過患，即是自性不動。善知識！迷人身雖不動，開口便說他人是非長短好惡，與道違背；若著心著淨，即障道也。師示眾云：善知識！何名坐禪？此法門中，無障無礙，外於一切善惡境界，心念不起，名為坐；內見自性不動，名為禪。"
+    },
+    {
+      "id": "p0005",
+      "text": "善知識！何名禪定？外離相為禪；內不亂為定。外若著相，內心即亂；外若離相，心即不亂。本性自淨自定，只為見境思境即亂。若見諸境心不亂者，是真定也。善知識！外離相即禪，內不亂即定；外禪內定，是為禪定。菩薩戒經云：「我本元自性清淨。」善知識！於念念中，自見本性清淨，自修自行，自成佛道。"
+    }
+  ],
+  "anchors": {
+    "chinese-huineng-attachment-to-purity": {
+      "paragraphId": "p0004",
+      "start": 84,
+      "end": 128,
+      "quote": "何名坐禅？此法门中，无障无碍，外于一切善恶境界，心念不起，名为坐；内见自性不动，名为禅。",
+      "match": "normalized-exact"
+    }
+  }
+}

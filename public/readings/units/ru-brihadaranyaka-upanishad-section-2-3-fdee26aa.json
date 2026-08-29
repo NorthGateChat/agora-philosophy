@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-brihadaranyaka-upanishad-section-2-3-fdee26aa",
+  "title": "节 2.3",
+  "englishTitle": "Section 2.3",
+  "work": "《广林奥义书》",
+  "englishWork": "Brihadaranyaka Upanishad",
+  "locator": "节 2.3",
+  "englishLocator": "Section 2.3",
+  "version": "Internet Archive原书扫描，Robert Ernest Hume 1921年公版英译《十三部主要奥义书》，《广林奥义书》2.3.6，印刷页97（扫描/PDF第117页），完整连续句；项目中文直接保留that he is thus的指称，不再把它写成原句没有的‘否定式界说’",
+  "englishVersion": "Internet Archive book scan, Robert Ernest Hume's public-domain translation (1921), The Thirteen Principal Upanishads, Brihad-Aranyaka Upanishad 2.3.6, print p. 97 (scan/PDF p. 117), complete continuous sentence; the project Chinese renders ‘that he is thus’ directly instead of inserting the interpretive phrase ‘negative definition’",
+  "sourceUrl": "https://archive.org/details/thirteenprincipa00hume",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "c10d008b5a9f54d50a090ce54dc12656a3c0c1bafc57512cc09ef74429d77752"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "35e987a6e892c04b6347f8650c529e511c391b8881426e3f1b9ac124c781a94e",
+  "inputHash": "87c75130af683d1160a11129bb50c5fbe8d1ee5ec88e5ceac1135c677d712f33",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "BRIHADARANYAKA UPANISHAD — SECTION 2.3"
+    },
+    {
+      "id": "p0002",
+      "text": "Third Brahmana"
+    },
+    {
+      "id": "p0003",
+      "text": "The two forms of Brahma"
+    },
+    {
+      "id": "p0004",
+      "text": "1. There are, assuredly, two forms of Brahma : the formed (iniirta) and the formless,1 the mortal and the immortal, the stationary and the moving, the actual (sat) and the yon (tya)."
+    },
+    {
+      "id": "p0005",
+      "text": "2. This is the formed [Brahma] — whatever is different from the wind and the atmosphere. This is mortal ; this is sta- tionary ; this is actual. The essence of this formed, mortal, stationary, actual [Brahma] is yonder [sun] which gives forth heat, for that is the essence of the actual."
+    },
+    {
+      "id": "p0006",
+      "text": "3. Now the formless [Brahma] is thewindand theatmosphere. This is immortal, this is moving, this is the yon. The essence of this unformed, immortal, moving, yonder [Brahma] is the Person in that sun-disk, for he is the essence of the yon. — Thus with reference to the divinities."
+    },
+    {
+      "id": "p0007",
+      "text": "4. Now, with reference to the self. —"
+    },
+    {
+      "id": "p0008",
+      "text": "Just that is the formed [Brahma] which is different from breath (prana) and from the space which is within the self (ātman). This is mortal, this is stationary, this is actual. The essence of this formed, mortal, stationary, actual [Brahma] is the eye, for it is the essence of the actual."
+    },
+    {
+      "id": "p0009",
+      "text": "5. Now the formless [Brahma] is the breath and the space which is within the self. This is immortal, this is moving, this is the yon. The essence of this unformed, immortal, moving, yonder [Brahma] is this Person who is in the right eye, for he is the essence of the yonder."
+    },
+    {
+      "id": "p0010",
+      "text": "6. The form of this Person is like a saffron-colored robe, like white wool, like the [purple] Indragopa beetle, like a flame of fire, like the [white] lotus-flower, like a sudden flash of lightning. Verily, like a sudden lightning-flash is the glory of him who knows this."
+    },
+    {
+      "id": "p0011",
+      "text": "Hence, now, there is the teaching * Not thus ! not so ! ’ (neti, neti), for there is nothing higher than this, that he is thus. Now the designation for him is ‘the Real of the real.’ Verily, breathing creatures are the real. He is their Real."
+    },
+    {
+      "id": "p0012",
+      "text": "1 Thus far the sentence recurs at Maitri 6. 3."
+    }
+  ],
+  "anchors": {
+    "indian-upanishad-neti-neti": {
+      "paragraphId": "p0011",
+      "start": 0,
+      "end": 127,
+      "quote": "Hence, now, there is the teaching ‘Not thus! not so!’ (neti, neti), for there is nothing higher than this, that he is thus.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

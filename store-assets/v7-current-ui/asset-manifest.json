@@ -1,0 +1,773 @@
+{
+  "schemaVersion": 1,
+  "pipeline": "agora-chrome-store-assets",
+  "pipelineVersion": 7,
+  "generatedAt": "2026-08-29T15:27:55.360Z",
+  "visualDirection": "Silent Orbit / 静默轨道",
+  "globalSourceLocale": "en",
+  "palette": {
+    "ink": "#171715",
+    "ivory": "#f3efe6",
+    "paper": "#e8e1d5",
+    "muted": "#979086",
+    "orange": "#d97757"
+  },
+  "inputs": [
+    {
+      "locale": "zh-CN",
+      "scene": "home",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-CN/01-home.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "89267a121439bb0bc51b4d7c226f2f6107a070282a34e468e7cb05be3fabb1a6"
+    },
+    {
+      "locale": "zh-CN",
+      "scene": "collections",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-CN/02-collections.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "416e678933768084491f0ffbdcf53760d96b085e49f8f307ce8268cff4c36bce"
+    },
+    {
+      "locale": "zh-CN",
+      "scene": "detail-network",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-CN/03-detail-network.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "c4903ade1f0aa13b9b8822025ba68c39755ddedc3ec710e58652d00ea3d10fb0"
+    },
+    {
+      "locale": "zh-CN",
+      "scene": "thoughtbook",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-CN/04-thoughtbook.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "520dc8e579866f1715df1c7f37c3d0c4ef6eb3addd99bb626f04ed5fbde5d3ca"
+    },
+    {
+      "locale": "zh-CN",
+      "scene": "share",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-CN/05-share.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "6c8adc0fe023ce90f741329eaefd7e7f4d4070415b9966ac8862d40a3ba4d135"
+    },
+    {
+      "locale": "zh-TW",
+      "scene": "home",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-TW/01-home.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "4cce25e1b42caaa211baf36b24a3c2a45d653e9de15ebfe64940dfbe1e0cb794"
+    },
+    {
+      "locale": "zh-TW",
+      "scene": "collections",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-TW/02-collections.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "d9ccad864be801e80942d173a878bd88c4703aac066abc00652350924fbade41"
+    },
+    {
+      "locale": "zh-TW",
+      "scene": "detail-network",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-TW/03-detail-network.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "bb77a05bfa704900d22eb06ad6e6142f01bb9d6b37e42103b04c899cb6fe92e7"
+    },
+    {
+      "locale": "zh-TW",
+      "scene": "thoughtbook",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-TW/04-thoughtbook.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "c2727ae6fc542bbd15c11a303999856e30963cabe1e5317e42f5c78bd7aacc25"
+    },
+    {
+      "locale": "zh-TW",
+      "scene": "share",
+      "path": "store-assets/v7-current-ui/source/screenshots/zh-TW/05-share.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "649234b729ee14a7d9d1c08898c77abede1303591acd3a4b3315b3a9c6f198cf"
+    },
+    {
+      "locale": "en",
+      "scene": "home",
+      "path": "store-assets/v7-current-ui/source/screenshots/en/01-home.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "a1cde1aff703ff05086e79fe659bae9b8cada0a6823442fc8cca138fb85c860c"
+    },
+    {
+      "locale": "en",
+      "scene": "collections",
+      "path": "store-assets/v7-current-ui/source/screenshots/en/02-collections.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "c0a2d8f8923d770828b231abd2b8308fa089ff37491fd235772136ccbd42a9c0"
+    },
+    {
+      "locale": "en",
+      "scene": "detail-network",
+      "path": "store-assets/v7-current-ui/source/screenshots/en/03-detail-network.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "a690155926922bf9ea21eab2369669e9294f7afff3f2896000b7c0217a544cbb"
+    },
+    {
+      "locale": "en",
+      "scene": "thoughtbook",
+      "path": "store-assets/v7-current-ui/source/screenshots/en/04-thoughtbook.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "b3628c3738381359aaa4f1ac38339ba737cddc723a66240edefae8339df9cd7b"
+    },
+    {
+      "locale": "en",
+      "scene": "share",
+      "path": "store-assets/v7-current-ui/source/screenshots/en/05-share.png",
+      "width": 1280,
+      "height": 720,
+      "format": "png",
+      "sha256": "7d42029a30210d9b249f565ecc2404de3d4aa8751108fff653230f463cfb3a89"
+    },
+    {
+      "locale": "all",
+      "scene": "store-icon",
+      "path": "store-assets/v6-agora-dialogue/source/store-icon-128.svg",
+      "format": "svg",
+      "sha256": "03964901f4703b7e7c21fbc10167b480c4d5033a29418447f9fbbdbaaf643813"
+    }
+  ],
+  "outputs": [
+    {
+      "locale": "zh-CN",
+      "file": "screenshot-01-home-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/screenshot-01-home-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-CN/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "f4e8da847fbbb9a693745e1679bb85d64697c57d33a98aa4ad714e49c4faf246"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "screenshot-02-collections-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/screenshot-02-collections-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-CN/02-collections.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "329e5e24d48fc8cf41525f282d57f799d64b0226a9deb78c33a0629b66d57ac9"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "screenshot-03-detail-network-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/screenshot-03-detail-network-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-CN/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "614e23042bf496c8c315f937f1fa0508959eabcf54fe6584062d73439a151c81"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "screenshot-04-thoughtbook-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/screenshot-04-thoughtbook-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-CN/04-thoughtbook.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "39a4b9ed5e591821a2ebd0b9aa8d0756aef0f5601f17974ee2ac70931156ea13"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "screenshot-05-share-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/screenshot-05-share-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-CN/05-share.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "ee9fdbbd8ec29ae4069b8ca161df0d6d3770916606a341d21605c5f573951fde"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "small-promo-440x280.png",
+      "kind": "small-promo",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/small-promo-440x280.png",
+      "width": 440,
+      "height": 280,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-CN/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "423ba1a0d5aa86844251eeb442ccb4932cf3e1733c283b36fb7b4bb0d96b6465"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "marquee-1400x560.png",
+      "kind": "marquee",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/marquee-1400x560.png",
+      "width": 1400,
+      "height": 560,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-CN/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "d701a0d07b2bbb0e892253c0a69256deafffc22f94aa77a4c4585b5b279b56fa"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "store-icon-128.png",
+      "kind": "store-icon",
+      "path": "store-assets/v7-current-ui/upload/zh-CN/store-icon-128.png",
+      "width": 128,
+      "height": 128,
+      "colorSpace": "srgb",
+      "alpha": true,
+      "sources": [
+        "store-assets/v6-agora-dialogue/source/store-icon-128.svg"
+      ],
+      "compositePasses": 0,
+      "previewOnly": false,
+      "sha256": "d806f1e766243f98a3d932feb962ef1d029d3e0ce7fd35a796fbb6010aa08d96"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "screenshot-01-home-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/screenshot-01-home-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-TW/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "6f4a6bfd70d8a405396bdaae9b33efe9d55c7c59d55f3f4d347c7c69fe277ce1"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "screenshot-02-collections-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/screenshot-02-collections-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-TW/02-collections.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "438172fac11e4c3146fc12c0307175c13677666f3a6ef50bc3dab7f3fcac1e15"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "screenshot-03-detail-network-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/screenshot-03-detail-network-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-TW/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "c8596a77d6c8113625ee9fa243b9b0b57e546bdb053956699700f0f4b94f4e01"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "screenshot-04-thoughtbook-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/screenshot-04-thoughtbook-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-TW/04-thoughtbook.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "400132c71208763ffc7a4f69333f2baca5b0078c83d20397c7a3c6d432ad7cd7"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "screenshot-05-share-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/screenshot-05-share-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-TW/05-share.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "6cc1e119367c8ce2899ad51856654dd00e878907709925efadc3c3d9f641de8c"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "small-promo-440x280.png",
+      "kind": "small-promo",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/small-promo-440x280.png",
+      "width": 440,
+      "height": 280,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-TW/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "8dfed09ac413d93d11954216906affdb14b415ea2a710e85656486498fb260da"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "marquee-1400x560.png",
+      "kind": "marquee",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/marquee-1400x560.png",
+      "width": 1400,
+      "height": 560,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/zh-TW/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "527da2f8276244b6e62cced4dfda248908d435279721230905764c7e36e0bb81"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "store-icon-128.png",
+      "kind": "store-icon",
+      "path": "store-assets/v7-current-ui/upload/zh-TW/store-icon-128.png",
+      "width": 128,
+      "height": 128,
+      "colorSpace": "srgb",
+      "alpha": true,
+      "sources": [
+        "store-assets/v6-agora-dialogue/source/store-icon-128.svg"
+      ],
+      "compositePasses": 0,
+      "previewOnly": false,
+      "sha256": "d806f1e766243f98a3d932feb962ef1d029d3e0ce7fd35a796fbb6010aa08d96"
+    },
+    {
+      "locale": "en",
+      "file": "screenshot-01-home-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/en/screenshot-01-home-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "0fa683700f87ce2886263dec58e541499df6f1f1a80d2948c57f2c049848bbf2"
+    },
+    {
+      "locale": "en",
+      "file": "screenshot-02-collections-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/en/screenshot-02-collections-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/02-collections.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "b6d00b48f2ebd182c4e489c1b0f814218d25367ec07643c8696d15be898ad973"
+    },
+    {
+      "locale": "en",
+      "file": "screenshot-03-detail-network-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/en/screenshot-03-detail-network-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "79eb5bc888d37f5747e4d62522a32ecbbaa86ada0c51bdaed966bbdce590e4bf"
+    },
+    {
+      "locale": "en",
+      "file": "screenshot-04-thoughtbook-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/en/screenshot-04-thoughtbook-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/04-thoughtbook.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "4202ce59c50a9d05ff78ecba8ebb43eb10b09452449a4f79cda8affefa8abdb5"
+    },
+    {
+      "locale": "en",
+      "file": "screenshot-05-share-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/en/screenshot-05-share-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/05-share.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "14fe9dd785d03308583655bf969c641f8bbafa9352fa5e466a708d7480b182df"
+    },
+    {
+      "locale": "en",
+      "file": "small-promo-440x280.png",
+      "kind": "small-promo",
+      "path": "store-assets/v7-current-ui/upload/en/small-promo-440x280.png",
+      "width": 440,
+      "height": 280,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "e216c785d7bade737ddafbec631820efa653f991a89a902e7294f79a06a544fe"
+    },
+    {
+      "locale": "en",
+      "file": "marquee-1400x560.png",
+      "kind": "marquee",
+      "path": "store-assets/v7-current-ui/upload/en/marquee-1400x560.png",
+      "width": 1400,
+      "height": 560,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "sha256": "ca136fcb1adb379fcc6b24c1fe9c7697c673c9e46e4067fe7e1f5ffdf19141a6"
+    },
+    {
+      "locale": "en",
+      "file": "store-icon-128.png",
+      "kind": "store-icon",
+      "path": "store-assets/v7-current-ui/upload/en/store-icon-128.png",
+      "width": 128,
+      "height": 128,
+      "colorSpace": "srgb",
+      "alpha": true,
+      "sources": [
+        "store-assets/v6-agora-dialogue/source/store-icon-128.svg"
+      ],
+      "compositePasses": 0,
+      "previewOnly": false,
+      "sha256": "d806f1e766243f98a3d932feb962ef1d029d3e0ce7fd35a796fbb6010aa08d96"
+    },
+    {
+      "locale": "global",
+      "file": "screenshot-01-home-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/global/screenshot-01-home-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "0fa683700f87ce2886263dec58e541499df6f1f1a80d2948c57f2c049848bbf2"
+    },
+    {
+      "locale": "global",
+      "file": "screenshot-02-collections-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/global/screenshot-02-collections-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/02-collections.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "b6d00b48f2ebd182c4e489c1b0f814218d25367ec07643c8696d15be898ad973"
+    },
+    {
+      "locale": "global",
+      "file": "screenshot-03-detail-network-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/global/screenshot-03-detail-network-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "79eb5bc888d37f5747e4d62522a32ecbbaa86ada0c51bdaed966bbdce590e4bf"
+    },
+    {
+      "locale": "global",
+      "file": "screenshot-04-thoughtbook-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/global/screenshot-04-thoughtbook-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/04-thoughtbook.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "4202ce59c50a9d05ff78ecba8ebb43eb10b09452449a4f79cda8affefa8abdb5"
+    },
+    {
+      "locale": "global",
+      "file": "screenshot-05-share-1280x800.png",
+      "kind": "screenshot",
+      "path": "store-assets/v7-current-ui/upload/global/screenshot-05-share-1280x800.png",
+      "width": 1280,
+      "height": 800,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/05-share.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "14fe9dd785d03308583655bf969c641f8bbafa9352fa5e466a708d7480b182df"
+    },
+    {
+      "locale": "global",
+      "file": "small-promo-440x280.png",
+      "kind": "small-promo",
+      "path": "store-assets/v7-current-ui/upload/global/small-promo-440x280.png",
+      "width": 440,
+      "height": 280,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/01-home.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "e216c785d7bade737ddafbec631820efa653f991a89a902e7294f79a06a544fe"
+    },
+    {
+      "locale": "global",
+      "file": "marquee-1400x560.png",
+      "kind": "marquee",
+      "path": "store-assets/v7-current-ui/upload/global/marquee-1400x560.png",
+      "width": 1400,
+      "height": 560,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/source/screenshots/en/03-detail-network.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "ca136fcb1adb379fcc6b24c1fe9c7697c673c9e46e4067fe7e1f5ffdf19141a6"
+    },
+    {
+      "locale": "global",
+      "file": "store-icon-128.png",
+      "kind": "store-icon",
+      "path": "store-assets/v7-current-ui/upload/global/store-icon-128.png",
+      "width": 128,
+      "height": 128,
+      "colorSpace": "srgb",
+      "alpha": true,
+      "sources": [
+        "store-assets/v6-agora-dialogue/source/store-icon-128.svg"
+      ],
+      "compositePasses": 0,
+      "previewOnly": false,
+      "derivedFromLocale": "en",
+      "sha256": "d806f1e766243f98a3d932feb962ef1d029d3e0ce7fd35a796fbb6010aa08d96"
+    },
+    {
+      "locale": "zh-CN",
+      "file": "zh-CN-contact-sheet.png",
+      "kind": "contact-sheet",
+      "path": "store-assets/v7-current-ui/preview/zh-CN-contact-sheet.png",
+      "width": 1600,
+      "height": 1840,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/upload/zh-CN/screenshot-01-home-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-CN/screenshot-02-collections-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-CN/screenshot-03-detail-network-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-CN/screenshot-04-thoughtbook-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-CN/screenshot-05-share-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-CN/small-promo-440x280.png",
+        "store-assets/v7-current-ui/upload/zh-CN/marquee-1400x560.png",
+        "store-assets/v7-current-ui/upload/zh-CN/store-icon-128.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": true,
+      "sha256": "e5396e1d6be5b95456f01154bb155e80f987b80df78cb4b94a0fafd0d6f19a6c"
+    },
+    {
+      "locale": "zh-TW",
+      "file": "zh-TW-contact-sheet.png",
+      "kind": "contact-sheet",
+      "path": "store-assets/v7-current-ui/preview/zh-TW-contact-sheet.png",
+      "width": 1600,
+      "height": 1840,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/upload/zh-TW/screenshot-01-home-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-TW/screenshot-02-collections-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-TW/screenshot-03-detail-network-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-TW/screenshot-04-thoughtbook-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-TW/screenshot-05-share-1280x800.png",
+        "store-assets/v7-current-ui/upload/zh-TW/small-promo-440x280.png",
+        "store-assets/v7-current-ui/upload/zh-TW/marquee-1400x560.png",
+        "store-assets/v7-current-ui/upload/zh-TW/store-icon-128.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": true,
+      "sha256": "af70ef4668278ad4f2658c8701918bdf58c9756683f4909701fcba9cf70b12fb"
+    },
+    {
+      "locale": "en",
+      "file": "en-contact-sheet.png",
+      "kind": "contact-sheet",
+      "path": "store-assets/v7-current-ui/preview/en-contact-sheet.png",
+      "width": 1600,
+      "height": 1840,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/upload/en/screenshot-01-home-1280x800.png",
+        "store-assets/v7-current-ui/upload/en/screenshot-02-collections-1280x800.png",
+        "store-assets/v7-current-ui/upload/en/screenshot-03-detail-network-1280x800.png",
+        "store-assets/v7-current-ui/upload/en/screenshot-04-thoughtbook-1280x800.png",
+        "store-assets/v7-current-ui/upload/en/screenshot-05-share-1280x800.png",
+        "store-assets/v7-current-ui/upload/en/small-promo-440x280.png",
+        "store-assets/v7-current-ui/upload/en/marquee-1400x560.png",
+        "store-assets/v7-current-ui/upload/en/store-icon-128.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": true,
+      "sha256": "1350efd0b595dc4f12b9a81566f0999c0deb60bd6e0edb907ea7061218c23ab6"
+    },
+    {
+      "locale": "global",
+      "file": "global-contact-sheet.png",
+      "kind": "contact-sheet",
+      "path": "store-assets/v7-current-ui/preview/global-contact-sheet.png",
+      "width": 1600,
+      "height": 1840,
+      "colorSpace": "srgb",
+      "alpha": false,
+      "sources": [
+        "store-assets/v7-current-ui/upload/global/screenshot-01-home-1280x800.png",
+        "store-assets/v7-current-ui/upload/global/screenshot-02-collections-1280x800.png",
+        "store-assets/v7-current-ui/upload/global/screenshot-03-detail-network-1280x800.png",
+        "store-assets/v7-current-ui/upload/global/screenshot-04-thoughtbook-1280x800.png",
+        "store-assets/v7-current-ui/upload/global/screenshot-05-share-1280x800.png",
+        "store-assets/v7-current-ui/upload/global/small-promo-440x280.png",
+        "store-assets/v7-current-ui/upload/global/marquee-1400x560.png",
+        "store-assets/v7-current-ui/upload/global/store-icon-128.png"
+      ],
+      "compositePasses": 1,
+      "previewOnly": true,
+      "sha256": "1e82ea94ca3eec2250ce8396d0729911b7d677818e883259a33e1f933882688b"
+    }
+  ]
+}

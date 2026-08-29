@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-confessions-book-vii-chapter-12-f70bac9a",
+  "title": "卷 VII · 章 12",
+  "englishTitle": "Book VII · Chapter 12",
+  "work": "《忏悔录》",
+  "englishWork": "Confessions",
+  "locator": "卷 VII · 章 12",
+  "englishLocator": "Book VII · Chapter 12",
+  "version": "New Advent，J. G. Pilkington 1887 年 NPNF 公版英译，《忏悔录》第七卷第 12 章第 18 节",
+  "englishVersion": "New Advent, J. G. Pilkington public-domain translation in NPNF (1887), Confessions VII.12.18",
+  "sourceUrl": "https://www.newadvent.org/fathers/110107.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/110107.htm",
+    "contentType": "text/html",
+    "sha256": "19496539b1e0d9d3b680621b2c34889c86a09dfbee1bc26107887d5726cd8906"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "333b97fce4187f41090ec55c2e54f0f5d079d535eb0244c7117181e8baab195d",
+  "inputHash": "deae0a7d9cfab91016301ca88709c8203a8f611dfe49af9373fa52c036c1a625",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 12. Whatever Things the Good God Has Created are Very Good."
+    },
+    {
+      "id": "p0002",
+      "text": "18. And it was made clear unto me that those things are good which yet are corrupted, which, neither were they supremely good, nor unless they were good, could be corrupted; because if supremely good, they were incorruptible, and if not good at all, there was nothing in them to be corrupted. For corruption harms, but, less it could diminish goodness, it could not harm. Either, then, corruption harms not, which cannot be; or, what is most certain, all which is corrupted is deprived of good. But if they be deprived of all good, they will cease to be. For if they be, and cannot be at all corrupted, they will become better, because they shall remain incorruptibly. And what more monstrous than to assert that those things which have lost all their goodness are made better? Therefore, if they shall be deprived of all good, they shall no longer be. So long, therefore, as they are, they are good; therefore whatsoever is, is good . That evil , then, which I sought whence it was, is not any substance; for were it a substance, it would be good. For either it would be an incorruptible substance, and so a chief good, or a corruptible substance, which unless it were good it could not be corrupted. I perceived, therefore, and it was made clear to me, that Thou made all things good, nor is there any substance at all that was not made by You; and because all that You have made are not equal, therefore all things are; because individually they are good, and altogether very good, because our God made all things very good."
+    }
+  ],
+  "anchors": {
+    "augustine-evil-as-privation": {
+      "paragraphId": "p0002",
+      "start": 853,
+      "end": 1048,
+      "quote": "So long, therefore, as they are, they are good; therefore whatsoever is, is good. That evil, then, which I sought whence it was, is not any substance; for were it a substance, it would be good.",
+      "match": "normalized-exact"
+    }
+  }
+}

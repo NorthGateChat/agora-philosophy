@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-chandogya-upanishad-section-6-8-00d9ad1a",
+  "title": "节 6.8",
+  "englishTitle": "Section 6.8",
+  "work": "《歌者奥义书》",
+  "englishWork": "Chandogya Upanishad",
+  "locator": "节 6.8",
+  "englishLocator": "Section 6.8",
+  "version": "Robert Ernest Hume 1921年公版英译《十三部主要奥义书》，《歌者奥义书》6.8.7，印刷页246，连续四句；中文为项目研读译文",
+  "englishVersion": "Robert Ernest Hume's public-domain translation, The Thirteen Principal Upanishads (1921), Chandogya Upanishad 6.8.7, print p. 246, four continuous sentences; Chinese is a project study translation",
+  "sourceUrl": "https://archive.org/details/thirteenprincipa00hume",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "c10d008b5a9f54d50a090ce54dc12656a3c0c1bafc57512cc09ef74429d77752"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "736fa3fbfe5b8a0f732d9febba96378482076da17aea31ed61b9de8112ea3978",
+  "inputHash": "5129c288000265ae51034f676ae4b249aaf5cc81fe6880967615c8cbbf0d23ac",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHANDOGYA UPANISHAD — SECTION 6.8"
+    },
+    {
+      "id": "p0002",
+      "text": "Eighth Khanda"
+    },
+    {
+      "id": "p0003",
+      "text": "Concerning sleep, hunger and thirst, and dying"
+    },
+    {
+      "id": "p0004",
+      "text": "1. Then Uddalaka Aruni said to Svetaketu, his son: ‘Understand from me, my dear, the condition of sleep. When a person here sleeps (svapiii), as it is called, then, my dear, he has reached Being, he has gone to his own {svarn apita). Therefore they say of him “ he sleeps ” ; for he has gone to his own."
+    },
+    {
+      "id": "p0005",
+      "text": "2. As a bird fastened with a string, after flying in this direction and in that without finding an abode elsewhere, rests down just upon its fastening — even so, my dear, the mind, after flying in this direction and in that without finding an abode elsewhere, rests down just upon breath ; for the mind, my dear, has breath as its fastening."
+    },
+    {
+      "id": "p0006",
+      "text": "3. Understand from me, my dear, hunger ( asana ) and thirst. When a person here is hungry (asisisati), as it is called, just water is leading off ( nayanti ) that which has been eaten ( V as). So, as they speak of “ a leader-of-cows” (go-nay a), “a leader-of-horses ” ( asva-naya ), “a leader-of-men” (pnrusa - naya ), so they speak of water as “a leader-of-food ” ( asa-naya , hunger)."
+    },
+    {
+      "id": "p0007",
+      "text": "On this point, my dear, understand that this [body] is a sprout which has sprung up. It will not be without a root."
+    },
+    {
+      "id": "p0008",
+      "text": "4. What else could its root be than food ? Even so, my dear, with food for a sprout, look for water as the root. With water, my dear, as a sprout, look for heat as the root. With heat, my dear, as a sprout, look for Being as the root. All creatures here, my dear, have Being as their root, have Being as their home, have Being as their support."
+    },
+    {
+      "id": "p0009",
+      "text": "5. Now, when a person here is thirsty, as it is called, just heat is leading off that which has been drunk. So, as they speak of “a leader-of-cows” (go-nay a), “a leader-of-horses” (asva-naya), “ a leader-of-men ” (purusa-naya), so one speaks of heat as “a leader-of-water ” ( uda-nya , thirst)."
+    },
+    {
+      "id": "p0010",
+      "text": "On this point, my dear, understand that this [body] is a sprout which has sprung up. It will not be without a root."
+    },
+    {
+      "id": "p0011",
+      "text": "6. Where else could its root be than in water ? With water, my dear, as a sprout, look for heat as the root. With heat, my dear, as a sprout, look for Being as the root. All creatures here, my dear, have Being as their root, have Being as their abode, have Being as their support."
+    },
+    {
+      "id": "p0012",
+      "text": "But how, verily, my dear, each of these three divinities, upon reaching man, becomes threefold, has previously1 been said."
+    },
+    {
+      "id": "p0013",
+      "text": "When a person here is deceasing, my dear, his voice goes into his mind ; his mind, into his breath ; his breath, into heat;"
+    },
+    {
+      "id": "p0014",
+      "text": "1 In 6. 5. 1-4."
+    },
+    {
+      "id": "p0015",
+      "text": "6.8.6-]"
+    },
+    {
+      "id": "p0016",
+      "text": "the heat, into the highest divinity. That which is the finest essence — this whole world has that as its soul. That is Reality. That is Ātman (Soul). That art thou, Svetaketu.’"
+    },
+    {
+      "id": "p0017",
+      "text": "‘ Do you, Sir, cause me to understand even more.’"
+    },
+    {
+      "id": "p0018",
+      "text": "* So be it, my dear,’ said he."
+    }
+  ],
+  "anchors": {
+    "indian-upanishad-tat-tvam-asi": {
+      "paragraphId": "p0016",
+      "start": 37,
+      "end": 176,
+      "quote": "That which is the finest essence—this whole world has that as its soul. That is Reality. That is Ātman (Soul). That art thou, Svetaketu.",
+      "match": "normalized-exact"
+    }
+  }
+}

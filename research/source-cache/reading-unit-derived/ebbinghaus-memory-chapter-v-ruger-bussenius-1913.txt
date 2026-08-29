@@ -1,0 +1,95 @@
+CHAPTER V
+
+RAPIDITY OF LEARNING SERIES OF SYLLABLES AS A FUNCTION OF THEIR LENGTH
+
+Section 19. Tests Belonging to the Later Period
+
+It is sufficiently well known that the memorisation of a series of ideas that is to be reproduced at a later time is more difficult, the longer the series is. That is, the memorisation not only requires more time taken by itself, because each repetition lasts longer, but it also requires more time relatively because an increased number of repetitions becomes necessary. Six verses of a poem require for learning not only three times as much time as two but considerably more than that.
+
+I did not investigate especially this relation of dependence, which of course becomes evident also in the first possible reproduction of series of nonsense syllables, but incidentally I obtained a few numerical values for it which are worth putting down, although they do not show particularly interesting relations.
+
+The series in question comprised (in the case of the tests of the year 1883-84), 12, 16, 24, or 36 syllables each, and 9, 6, 3, or 2 series were each time combined into a test.
+
+For the number of repetitions necessary in these cases to memorise the series up to the first errorless reproduction (and including it) the following numerical results were found:
+
+X Series Y syllables each Required together an average of Z repetitions Probable error of average values Number of tests
+
+X= Y= Z=
+
+9 12 158 ± 3.4 7
+
+6 16 186 ± 0.9 42
+
+3 24 134 ± 2.9 7
+
+2 36 112 ± 4.0 7
+
+In order to make the number of repetitions comparable it is necessary, so to speak, to reduce them to a common denominator and to divide them each time by the number of the series. In this way it is found out how many repetitions relatively were necessary to learn by heart the single series, which differ from each other only in the number of syllables, and which each time had been taken together with as many others of the same kind as would make the duration of the whole test from fifteen to thirty minutes. [ 1 ]
+
+However, a conclusion can be drawn from the figures from the standpoint of decrease in number of syllables. The question can he asked: What number of syllables can be correctly recited after only one reading? For me the number is usually seven. Indeed I have often succeeded in reproducing eight syllables, but this has happened only at the beginning of the tests and in a decided minority of the cases. In the case of six syllables on the other hand a mistake almost never occurs; with them, therefore, a single attentive reading involves an unnecessarily large expenditure of energy for an immediately following reproduction.
+
+If this latter pair of values is added, the required division made, and the last faultless reproduction subtracted as not necessary for the learning, then the following table results.
+
+Number of syllables in a series Number of repetitions necessary for first errorless reproduction (exclusive of it) Probable error
+
+7 1
+
+12 16.6 ± 1.1
+
+16 30.0 ± 0.4
+
+24 44.0 ± 1.7
+
+36 55.0 ± 2.8
+
+The longer of the two adjoining curves of Fig. 6 illustrates the regular course of these numbers with approximate accuracy for such a small number of tests. As Fig. 6 shows, in the cases examined, the number of repetitions necessary for the memorisation of series in which the number of syllables progressively increased, itself increases with extraordinary rapidity with the increase in number of the syllables.
+
+At first the ascent of the curve is very steep, but later on it appears to gradually flatten out. For the mastery of five times the number of syllables that can be reproduced after but one reading— i.e. , after about 3 seconds—over 50 repetitions were necessary, requiring an uninterrupted and concentrated effort for fifteen minutes.
+
+The curve has its natural starting point in the zero point of the co-ordinates. The short initial stretch up to the point, x=7, y=1, can be explained thus: in order to recite by heart series of 6, 5, 4, etc., syllables one reading, of course, is all that is necessary. In my case this reading does not require as much attention as does the 7-syllable one, but can become more and more superficial as the number of syllables decreases.
+
+Section 20. Tests Belonging to the Earlier Period
+
+It goes without saying that since the results reported were obtained from only one person they have meaning only as related to him. The question arises whether they are for this individual of a general significance— i.e. , whether, by repetition of the tests at another time, they could be expected to show approximately the same amount and grouping.
+
+A series of results from the earlier period furnishes the desired possibility of a control in this direction. They, again, have been obtained incidentally (consequently uninfluenced by expectations and suppositions) and from tests made under different conditions than those mentioned. These earlier tests occurred at an earlier hour of the day and the learning was continued until the separate series could be recited twice in succession without mistake. A test comprised
+
+15 series of 10 syllables each,
+
+or 8 “ “ 13 “ “
+
+or 6 “ “ 16 “ “
+
+or 4 “ “ 19 “ “
+
+So, again, four different lengths of series have been taken into account, but their separate values lie much closer together.
+
+Since the repetitions—which are in question here—were not counted at all in the earlier period, their number had to be calculated from the times. For this purpose the table on p. 31 has been used after corresponding interpolation. If the numbers found are immediately reduced to one series each, and if along with it the two repetitions representing the recitation are subtracted as above, we obtain:
+
+Number of syllables in a series Number of repetitions necessary for two errorless reproductions (exclusive of them) Probable error [ 2 ] Number of tests
+
+10 13 ± 1. 16
+
+13 23 ± 0.5 92
+
+16 32 ± 1.2 6
+
+19 38 ± 2.0 11
+
+The smaller curve of Fig. 6 exhibits graphically the arrangement of these numbers. As may be seen, the number of repetitions necessary for learning equally long series was a little larger in the earlier period than in the later one. Because of its uniformity this relation is to be attributed to differences in the experimental conditions, to inaccuracies in the calculations, and perhaps also to the increased training of the later period. The older numbers fall very close to the position of the later ones, and—what is of chief importance—the two curves lie as closely together throughout the short extent of their common course as could be desired for tests separated by 3½ years and unaffected by any presuppositions. There is a high degree of probability, then, in favor of the supposition that the relations of dependence presented in those curves, since they remained constant over a long interval of time, are to be considered as characteristic for the person concerned, although they are, to be sure, only individual.
+
+Section 21. Increase in Rapidity of Learning in the Case of Meaningful Material
+
+In order to keep in mind the similarities and differences between sense and nonsense material, I occasionally made tests with the English original of Byron’s “Don Juan.” These results do not properly belong here since I did not vary the length of the amount to be learned each time but memorised on each occasion only separate stanzas. Nevertheless, it is interesting to mention the number of repetitions necessary because of their contrast with the numerical results just given.
+
+There are only seven tests (1884) to be considered, each of which comprised six stanzas. When the latter, each by itself, were learned to the point of the first possible reproduction, an average of 52 repetitions (P.E. m = ±0.6) was necessary for all six taken together. Thus, each stanza required hardly nine repetitions; or, if the errorless reproduction is abstracted, scarcely eight repetitions. [ 3 ]
+
+If it is born in mind that each stanza contains 80 syllables (each syllable, however, consisting on the average of less than three letters) and if the number of repetitions here found is compared with the results presented above, there is obtained an approximate numerical expression for the extraordinary advantage which the combined ties of meaning, rhythm, rhyme, and a common language give to material to be memorised. If the above curve is projected in imagination still further along its present course, then it must be supposed that I would have required 70 to 80 repetitions for the memorisation of a series of 80 to 90 nonsense syllables. When the syllables were objectively and subjectively united by the ties just mentioned this requirement was in my case reduced to about one-tenth of that amount.
+
+Footnotes
+
+↑ The objection might be made that, by means of this division, recourse made directly to the averages for the memorising of the single series, and that in this way the result of the Fourth Chapter is disregarded. For, according to that, the averages of the numbers obtained from groups of series could indeed be used for investigation into relations of dependence, but the averages obtained from separate series could not be so used. I do not claim, however, that the above numbers, thus obtained by division, form the correct average for the numbers belonging to the separate series, i.e. , that the latter group themselves according to the law of errors. But the numbers are to be considered as averages for groups of series, and, for the sake of a better comparison with others—a condition which in the nature of the case could not be everywhere the same—is made the same by division. The probable error, the measure of their accuracy, has not been calculated from the numbers for the separate series but from those for the groups of series.
+
+↑ The probable errors are based upon calculation and have only an approximate value.
+
+↑ For the sake of correct evaluation of the numbers and correct connection with possible individual observations please note p. 24, 1. In order to procure uniformity of method the stanzas were always read through from beginning to end; more difficult passages were not learned separately and then inserted. If that had been done, the times would have been much shorter and nothing could have been said about the number of repetitions. Of course the reading was done at a uniform rate of speed as far as possible, but not in the slow and mechanically regulated time that was employed for the series of syllables. The regulation of speed was left to free estimation. A single reading of one stanza required 20 to 23 seconds.

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1",
+  "title": "恒星、银河与星云",
+  "englishTitle": "Fixed stars, the Milky Way, and nebulae",
+  "work": "《星际信使》",
+  "englishWork": "Sidereus Nuncius",
+  "locator": "恒星、银河与星云",
+  "englishLocator": "Fixed stars, the Milky Way, and nebulae",
+  "version": "古登堡计划，Edward Stafford Carlos 1880 年公版英译，伽利略《星际信使》第 42—43 页，连续节录",
+  "englishVersion": "Project Gutenberg, Edward Stafford Carlos public-domain translation (1880), Galileo, The Sidereal Messenger, pp. 42-43, continuous excerpt",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "74fc9b817b64bc33415c6a44100c30f48952bc531d380682e5f4f1a26cc56fb5"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "adea2dded0bf1641fdbde13a0d1d8f6d3b65de134859572a392383c1924bda1c",
+  "inputHash": "59de1d581e1189d7f050f501941340ebe0e066d5d368c5de580a1a50a3e78b4e",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[Sidenote: Stars. Their appearance in the telescope.]"
+    },
+    {
+      "id": "p0002",
+      "text": "Hitherto I have spoken of the observations which I have made concerning the Moon’s body; now I will briefly announce the phenomena which have been, as yet, seen by me with reference to the Fixed Stars. And first of all the following fact is worthy of consideration:—The stars, fixed as well as erratic, when seen with a telescope, by no means appear to be increased in magnitude in the same proportion as other objects, and the Moon herself, gain increase of size; but in the case of the stars such increase appears much less, so that you may consider that a telescope, which (for the sake of illustration) is powerful enough to magnify other objects a hundred times, will scarcely render the stars magnified four or five times. But the reason of this is as follows:—When stars are viewed with our natural eyesight they do not present themselves to us of their bare, real size, but beaming with a certain vividness, and fringed with sparkling rays, especially when the night is far advanced; and from this circumstance they appear much larger than they would if they were stripped of those adventitious fringes, for the angle which they subtend at the eye is determined not by the primary disc of the star, but by the brightness which so widely surrounds it. Perhaps you will understand this most clearly from the well-known circumstance that when stars rise just at sunset, in the beginning of twilight, they appear very small, although they may be stars of the first magnitude; and even the planet Venus itself, on any occasion when it may present itself to view in broad daylight, is so small to see that it scarcely seems to equal a star of the last magnitude. It is different in the case of other objects, and even of the Moon, which, whether viewed in the light of midday or in the depth of night, always appears of the same size. We conclude therefore that the stars are seen at midnight in uncurtailed glory, but their fringes are of such a nature that the daylight can cut them off, and not only daylight, but any slight cloud which may be interposed between a star and the eye of the observer. A dark veil or coloured glass has the same effect, for, upon placing them before the eye between it and the stars, all the blaze that surrounds them leaves them at once. A telescope also accomplishes the same result, for it removes from the stars their adventitious and accidental splendours before it enlarges their true discs (if indeed they are of that shape), and so they seem less magnified than other objects, for a star of the fifth or sixth magnitude seen through a telescope is shown as of the first magnitude only."
+    },
+    {
+      "id": "p0003",
+      "text": "The difference between the appearance of the planets and the fixed stars seems also deserving of notice. The planets present their discs perfectly round, just as if described with a pair of compasses, and appear as so many little moons, completely illuminated and of a globular shape; but the fixed stars do not look to the naked eye bounded by a circular circumference, but rather like blazes of light, shooting out beams on all sides and very sparkling, and with a telescope they appear of the same shape as when they are viewed by simply looking at them, but so much larger that a star of the fifth or sixth magnitude seems to equal Sirius, the largest of all the fixed stars."
+    },
+    {
+      "id": "p0004",
+      "text": "[13] The immense distance of stars makes it impossible for them to be magnified by any telescope, however powerful; the apparent or spurious disc is an optical effect, which depends on the telescope used, and is smallest with the largest aperture."
+    },
+    {
+      "id": "p0005",
+      "text": "[Illustration: _Orion’s Belt and Sword; 83 Stars_]"
+    },
+    {
+      "id": "p0006",
+      "text": "[Illustration: _Pleiades; 36 Stars_"
+    },
+    {
+      "id": "p0007",
+      "text": "_Galileo: “Sidereus Nuncius.”_]"
+    },
+    {
+      "id": "p0008",
+      "text": "[Sidenote: Telescopic Stars: their infinite multitude. As examples, Orion’s Belt and Sword and the Pleiades are described as seen by Galileo.]"
+    },
+    {
+      "id": "p0009",
+      "text": "But beyond the stars of the sixth magnitude you will behold through the telescope a host of other stars, which escape the unassisted sight, so numerous as to be almost beyond belief, for you may see more than six other differences of magnitude, and the largest of these, which I may call stars of the seventh magnitude, or of the first magnitude of invisible stars, appear with the aid of the telescope larger and brighter than stars of the second magnitude seen with the unassisted sight. But in order that you may see one or two proofs of the inconceivable manner in which they are crowded together, I have determined to make out a case against two star-clusters, that from them as a specimen you may decide about the rest."
+    },
+    {
+      "id": "p0010",
+      "text": "As my first example I had determined to depict the entire constellation of Orion, but I was overwhelmed by the vast quantity of stars and by want of time, and so I have deferred attempting this to another occasion, for there are adjacent to, or scattered among, the old stars more than five hundred new stars within the limits of one or two degrees. For this reason I have selected the three stars in Orion’s Belt and the six in his Sword, which have been long well-known groups, and I have added eighty other stars recently discovered in their vicinity, and I have preserved as exactly as possible the intervals between them. The well-known or old stars, for the sake of distinction, I have depicted of larger size, and I have outlined them with a double line; the others, invisible to the naked eye, I have marked smaller and with one line only. I have also preserved the differences of magnitude as much as I could."
+    },
+    {
+      "id": "p0011",
+      "text": "As a second example I have depicted the six stars of the constellation Taurus, called the Pleiades (I say _six_ intentionally, since the seventh is scarcely ever visible), a group of stars which is enclosed in the heavens within very narrow precincts. Near these there lie more than forty others invisible to the naked eye, no one of which is much more than half a degree off any of the aforesaid six; of these I have noticed only thirty-six in my diagram. I have preserved their intervals, magnitudes, and the distinction between the old and the new stars, just as in the case of the constellation Orion."
+    },
+    {
+      "id": "p0012",
+      "text": "[Sidenote: The Milky Way consists entirely of stars in countless numbers and of various magnitudes.]"
+    },
+    {
+      "id": "p0013",
+      "text": "The next object which I have observed is the essence or substance of the Milky Way. By the aid of a telescope any one may behold this in a manner which so distinctly appeals to the senses that all the disputes which have tormented philosophers through so many ages are exploded at once by the irrefragable evidence of our eyes, and we are freed from wordy disputes upon this subject, for the Galaxy is nothing else but a mass of innumerable stars planted together in clusters. Upon whatever part of it you direct the telescope straightway a vast crowd of stars presents itself to view; many of them are tolerably large and extremely bright, but the number of small ones is quite beyond determination."
+    },
+    {
+      "id": "p0014",
+      "text": "[Illustration: _Star-cluster in Orion’s Head_]"
+    },
+    {
+      "id": "p0015",
+      "text": "[Illustration: _Star-cluster of Praesepe in Cancer_"
+    },
+    {
+      "id": "p0016",
+      "text": "_Galileo: “Sidereus Nuncius,” Venice, 1610._]"
+    },
+    {
+      "id": "p0017",
+      "text": "[Sidenote: Nebulæ resolved into clusters of stars: as examples, the nebulæ in Orion’s Head and Præsepe.]"
+    },
+    {
+      "id": "p0018",
+      "text": "And whereas that milky brightness, like the brightness of a white cloud, is not only to be seen in the Milky Way, but several spots of a similar colour shine faintly here and there in the heavens, if you turn the telescope upon any of them you will find a cluster of stars packed close together. Further—and you will be more surprised at this,—the stars which have been called by every one of the astronomers up to this day _nebulous_, are groups of small stars set thick together in a wonderful way, and although each one of them on account of its smallness, or its immense distance from us, escapes our sight, from the commingling of their rays there arises that brightness which has hitherto been believed to be the denser part of the heavens, able to reflect the rays of the stars or the Sun."
+    },
+    {
+      "id": "p0019",
+      "text": "I have observed some of these, and I wish to subjoin the star-clusters of two of these nebulæ. First, you have a diagram of the nebula called that of Orion’s Head, in which I have counted twenty-one stars."
+    },
+    {
+      "id": "p0020",
+      "text": "The second cluster contains the nebula called Præsepe, which is not one star only, but a mass of more than forty small stars. I have noticed thirty-six stars, besides the Aselli, arranged in the order of the accompanying diagram."
+    }
+  ],
+  "anchors": {
+    "science-galileo-milky-way": {
+      "paragraphId": "p0013",
+      "start": 84,
+      "end": 476,
+      "quote": "By the aid of a telescope any one may behold this in a manner which so distinctly appeals to the senses that all the disputes which have tormented philosophers through so many ages are exploded at once by the irrefragable evidence of our eyes, and we are freed from wordy disputes upon this subject, for the Galaxy is nothing else but a mass of innumerable stars planted together in clusters.",
+      "match": "normalized-exact"
+    }
+  }
+}

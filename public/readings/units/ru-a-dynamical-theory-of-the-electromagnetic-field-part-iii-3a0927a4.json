@@ -1,0 +1,661 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-a-dynamical-theory-of-the-electromagnetic-field-part-iii-3a0927a4",
+  "title": "部分 III",
+  "englishTitle": "Part III",
+  "work": "《电磁场的动力学理论》",
+  "englishWork": "A Dynamical Theory of the Electromagnetic Field",
+  "locator": "部分 III",
+  "englishLocator": "Part III",
+  "version": "Wikisource 公版英文原文，麦克斯韦《电磁场的动力学理论》第三部分第74节，回答能量存在位置的连续原文",
+  "englishVersion": "Wikisource public-domain English text, Maxwell, A Dynamical Theory of the Electromagnetic Field, Part III, §74, continuous passage answering where the energy resides",
+  "sourceUrl": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_III",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_III",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=A+Dynamical+Theory+of+the+Electromagnetic+Field%2FPart+III&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "25224a3a02fcb426ffe9a172f47d3083cc4fb860fad77a4ee0db4675cf3403b1"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "61c49036910c755035ae1b10cd05a19d6ac716bd551932703ad9104f1a39648c",
+  "inputHash": "fa73d6b4cc3c5ed842e198f24927d89109b85c320b60457029568152d7d7a71b",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "PART III. – GENERAL EQUATIONS OF THE ELECTROMAGNETIC FIELD."
+    },
+    {
+      "id": "p0002",
+      "text": "(53) Let us assume three rectangular directions in space as the axes of x , y {\\displaystyle x,y} , and z {\\displaystyle z} , and let all quantities having direction be expressed by their components in these three directions."
+    },
+    {
+      "id": "p0003",
+      "text": "Electrical Currents (p, q, r)."
+    },
+    {
+      "id": "p0004",
+      "text": "(54) An electrical current consists in the transmission of electricity from one part of a body to another. Let the quantity of electricity transmitted in unit of time across unit of area perpendicular to the axis of x {\\displaystyle x} be called p {\\displaystyle p} , then p {\\displaystyle p} is the component of the current at that place in the direction of x {\\displaystyle x} ."
+    },
+    {
+      "id": "p0005",
+      "text": "We shall use the letters p , q , r {\\displaystyle p,q,r} to denote the components of the current per unit of area in the directions of x , y , z {\\displaystyle x,y,z} ."
+    },
+    {
+      "id": "p0006",
+      "text": "Electrical Displacements (f, g, h)."
+    },
+    {
+      "id": "p0007",
+      "text": "(55) Electrical displacement consists in the opposite electrification of the sides of a molecule or particle of a body which may or may not be accompanied with transmission through the body. Let the quantity of electricity which would appear on the faces d y . d z {\\displaystyle dy.dz} of an element d x , d y , d z {\\displaystyle dx,dy,dz} cut from the body be f . d y . d z {\\displaystyle f.dy.dz} , then f {\\displaystyle f} is the component of electric displacement parallel to x {\\displaystyle x} . We shall use f , g , h {\\displaystyle f,g,h} to denote the electric displacements parallel to x , y , z {\\displaystyle x,y,z} respectively."
+    },
+    {
+      "id": "p0008",
+      "text": "The variations of the electrical displacement must be added to the currents p , q , r {\\displaystyle p,q,r} to get the total motion of electricity, which we may call p ′ , q ′ , r ′ {\\displaystyle p',q',r'} , so that"
+    },
+    {
+      "id": "p0009",
+      "text": "p ′ = p + d f d t , q ′ = q + d g d t , r ′ = r + d h d t , } {\\displaystyle \\left.{\\begin{array}{l}p'=p+{\\frac {df}{dt}},\\\\\\\\q'=q+{\\frac {dg}{dt}},\\\\\\\\r'=r+{\\frac {dh}{dt}},\\end{array}}\\right\\}}"
+    },
+    {
+      "id": "p0010",
+      "text": "(A)"
+    },
+    {
+      "id": "p0011",
+      "text": "Electromotive Force (P, Q, R)."
+    },
+    {
+      "id": "p0012",
+      "text": "(56) Let P, Q, R represent the components of the electromotive force at any point. Then P represents the difference of potential per unit of length in a conductor placed in the direction of x {\\displaystyle x} at the given point. We may suppose an indefinitely short wire placed parallel to x {\\displaystyle x} at a given point and touched, during the action of the force P, by two small conductors, which are then insulated and removed from the influence of the electromotive force. The value of P might then be ascertained by measuring the charge of the conductors."
+    },
+    {
+      "id": "p0013",
+      "text": "Thus if l {\\displaystyle l} be the length of the wire, the difference of potential at its ends will be P l {\\displaystyle l} , and if C be the capacity of each of the small conductors the charge on each will be 1 2 C P l {\\displaystyle {\\tfrac {1}{2}}CPl} . Since the capacities of moderately large conductors, measured on the electromagnetic system, are exceedingly small, ordinary electromotive forces arising from electromagnetic actions could hardly be measured in this way. In practice such measurements are always made with long conductors, forming closed or nearly closed circuits."
+    },
+    {
+      "id": "p0014",
+      "text": "Electromagnetic Momentum (F, G, H)."
+    },
+    {
+      "id": "p0015",
+      "text": "(57) Let F, G, H represent the components of electromagnetic momentum at any point of the field, due to any system of magnets or currents."
+    },
+    {
+      "id": "p0016",
+      "text": "Then F is the total impulse of the electromotive force in the direction of x {\\displaystyle x} that would be generated by the removal of these magnets or currents from the field, that is, if P be the electromotive force at any instant during the removal of the system"
+    },
+    {
+      "id": "p0017",
+      "text": "F = ∫ P d t {\\displaystyle F=\\int Pdt\\,}"
+    },
+    {
+      "id": "p0018",
+      "text": "Hence the part of the electromotive force which depends on the motion of magnets or currents in the field, or their alteration of intensity, is"
+    },
+    {
+      "id": "p0019",
+      "text": "P = − d F d t ,   Q = − d G d t ,   R = − d H d t , {\\displaystyle P=-{\\frac {dF}{dt}},\\ Q=-{\\frac {dG}{dt}},\\ R=-{\\frac {dH}{dt}},}"
+    },
+    {
+      "id": "p0020",
+      "text": "(29)"
+    },
+    {
+      "id": "p0021",
+      "text": "Electromagnetic Momentum of a Circuit."
+    },
+    {
+      "id": "p0022",
+      "text": "(58) Let s {\\displaystyle s} be the length of the circuit, then if we integrate"
+    },
+    {
+      "id": "p0023",
+      "text": "∫ ( F d x d s + G d y d s + H d z d s ) d s {\\displaystyle \\int \\left(F{\\frac {dx}{ds}}+G{\\frac {dy}{ds}}+H{\\frac {dz}{ds}}\\right)ds}"
+    },
+    {
+      "id": "p0024",
+      "text": "(30)"
+    },
+    {
+      "id": "p0025",
+      "text": "round the circuit, we shall get the total electromagnetic momentum of the circuit, or the number of lines of magnetic force which pass through it, the variations of which measure the total electromotive force in the circuit. This electromagnetic momentum is the same thing to which Professor Faraday has applied the name of the Electrotonic State."
+    },
+    {
+      "id": "p0026",
+      "text": "If the circuit be the boundary of the elementary area d y d z {\\displaystyle dydz} , then its electromagnetic momentum is"
+    },
+    {
+      "id": "p0027",
+      "text": "( d H d y − d G d z ) d y   d z {\\displaystyle \\left({\\frac {dH}{dy}}-{\\frac {dG}{dz}}\\right)dy\\ dz}"
+    },
+    {
+      "id": "p0028",
+      "text": "and this is the number of lines of magnetic force which pass through the area d y d z {\\displaystyle dydz} ."
+    },
+    {
+      "id": "p0029",
+      "text": "Magnetic Force ( α , β , γ {\\displaystyle \\alpha ,\\beta ,\\gamma } )."
+    },
+    {
+      "id": "p0030",
+      "text": "(59) Let α , β , γ {\\displaystyle \\alpha ,\\beta ,\\gamma } represent the force acting on a unit magnetic pole placed at the given point resolved in the directions of x , y {\\displaystyle x,y} , and z {\\displaystyle z} ."
+    },
+    {
+      "id": "p0031",
+      "text": "(60) Let μ {\\displaystyle \\mu } be the ratio of the magnetic induction in a given medium to that in air under an equal magnetizing force, then the number of lines of force in unit of area perpendicular to x {\\displaystyle x} will be μ α {\\displaystyle \\mu \\alpha } ( μ {\\displaystyle \\mu } is a quantity depending on the nature of the medium, its temperature, the amount of magnetization already produced, and in crystalline bodies varying with the direction)."
+    },
+    {
+      "id": "p0032",
+      "text": "(61) Expressing the electric momentum of small circuits perpendicular to the three axes in this notation, we obtain the following"
+    },
+    {
+      "id": "p0033",
+      "text": "Equations of Magnetic Force."
+    },
+    {
+      "id": "p0034",
+      "text": "μ α = d H d y − d G d z , μ β = d F d z − d H d x , μ γ = d G d x − d F d y . } {\\displaystyle \\left.{\\begin{array}{l}\\mu \\alpha ={\\frac {dH}{dy}}-{\\frac {dG}{dz}},\\\\\\\\\\mu \\beta ={\\frac {dF}{dz}}-{\\frac {dH}{dx}},\\\\\\\\\\mu \\gamma ={\\frac {dG}{dx}}-{\\frac {dF}{dy}}.\\end{array}}\\right\\}}"
+    },
+    {
+      "id": "p0035",
+      "text": "(B)"
+    },
+    {
+      "id": "p0036",
+      "text": "Equations of Currents."
+    },
+    {
+      "id": "p0037",
+      "text": "(62) It is known from experiment that the motion of a magnetic pole in the electromagnetic field in a closed circuit cannot generate work unless the circuit which the pole describes passes round an electric current. Hence, except in the space occupied by the electric currents,"
+    },
+    {
+      "id": "p0038",
+      "text": "α d x + β d y + γ d z = d φ {\\displaystyle \\alpha dx+\\beta dy+\\gamma dz=d\\varphi }"
+    },
+    {
+      "id": "p0039",
+      "text": "(31)"
+    },
+    {
+      "id": "p0040",
+      "text": "a complete differential of φ {\\displaystyle \\varphi } , the magnetic potential."
+    },
+    {
+      "id": "p0041",
+      "text": "The quantity φ {\\displaystyle \\varphi } may be susceptible of an indefinite number of distinct values, according to the number of times that the exploring point passes round electric currents in its course, the difference between successive values of φ {\\displaystyle \\varphi } corresponding to a passage completely round a current of strength c {\\displaystyle c} being 4 π c {\\displaystyle 4\\pi c} ."
+    },
+    {
+      "id": "p0042",
+      "text": "Hence if there is no electric current,"
+    },
+    {
+      "id": "p0043",
+      "text": "d y − d β d z = 0 {\\displaystyle {\\ \\atop dy}-{\\frac {d\\beta }{dz}}=0}"
+    },
+    {
+      "id": "p0044",
+      "text": "but if there is a current p ′ {\\displaystyle p'} ,"
+    },
+    {
+      "id": "p0045",
+      "text": "d γ d y − d β d z = 4 π p ′ . S i m i l a r l y , d α d z − d γ d x = 4 π q ′ , d β d x − d α d y = 4 π r ′ . } {\\displaystyle \\left.{\\begin{array}{lc}&{\\frac {d\\gamma }{dy}}-{\\frac {d\\beta }{dz}}=4\\pi p'.\\\\\\mathrm {Similarly} ,\\\\&{\\frac {d\\alpha }{dz}}-{\\frac {d\\gamma }{dx}}=4\\pi q',\\\\\\\\&{\\frac {d\\beta }{dx}}-{\\frac {d\\alpha }{dy}}=4\\pi r'.\\end{array}}\\right\\}}"
+    },
+    {
+      "id": "p0046",
+      "text": "(C)"
+    },
+    {
+      "id": "p0047",
+      "text": "We may call these the Equations of Currents."
+    },
+    {
+      "id": "p0048",
+      "text": "Electromotive Force in a Circuit."
+    },
+    {
+      "id": "p0049",
+      "text": "(63) Let ξ {\\displaystyle \\xi } be the electromotive force acting round the circuit A, then"
+    },
+    {
+      "id": "p0050",
+      "text": "ξ = ∫ ( P d x d s + Q d y d s + R d z d s ) d s {\\displaystyle \\xi =\\int \\left(P{\\frac {dx}{ds}}+Q{\\frac {dy}{ds}}+R{\\frac {dz}{ds}}\\right)ds}"
+    },
+    {
+      "id": "p0051",
+      "text": "(32)"
+    },
+    {
+      "id": "p0052",
+      "text": "where d s {\\displaystyle ds} is the element of length, and the integration is performed round the circuit."
+    },
+    {
+      "id": "p0053",
+      "text": "Let the forces in the field be those due to the circuits A and B, then the electromagnetic momentum of A is"
+    },
+    {
+      "id": "p0054",
+      "text": "∫ ( F d x d s + G d y d s + H d z d s ) d s = L u + M v {\\displaystyle \\int \\left(F{\\frac {dx}{ds}}+G{\\frac {dy}{ds}}+H{\\frac {dz}{ds}}\\right)ds=Lu+Mv}"
+    },
+    {
+      "id": "p0055",
+      "text": "(33)"
+    },
+    {
+      "id": "p0056",
+      "text": "where u {\\displaystyle u} and v {\\displaystyle v} are the currents in A and B, and"
+    },
+    {
+      "id": "p0057",
+      "text": "ξ = − d d t ( L u + M v ) {\\displaystyle \\xi =-{\\frac {d}{dt}}(Lu+Mv)}"
+    },
+    {
+      "id": "p0058",
+      "text": "(34)"
+    },
+    {
+      "id": "p0059",
+      "text": "Hence, if there is no motion of the circuit A,"
+    },
+    {
+      "id": "p0060",
+      "text": "P = − d F d t − d Ψ d x , Q = − d G d t − d Ψ d y , R = − d H d t − d Ψ d z . } {\\displaystyle \\left.{\\begin{array}{l}P=-{\\frac {dF}{dt}}-{\\frac {d\\Psi }{dx}},\\\\\\\\Q=-{\\frac {dG}{dt}}-{\\frac {d\\Psi }{dy}},\\\\\\\\R=-{\\frac {dH}{dt}}-{\\frac {d\\Psi }{dz}}.\\end{array}}\\right\\}}"
+    },
+    {
+      "id": "p0061",
+      "text": "(35)"
+    },
+    {
+      "id": "p0062",
+      "text": "where Ψ {\\displaystyle \\Psi } is a function of x , y , z {\\displaystyle x,y,z} , and t {\\displaystyle t} , which is indeterminate as far as regards the solution of the above equations, because the terms depending on it will disappear on integrating round the circuit. The quantity Ψ {\\displaystyle \\Psi } can always, however, be determined in any particular case when we know the actual conditions of the question. The physical interpretation of Ψ {\\displaystyle \\Psi } is, that it represents the electric potential at each point of space."
+    },
+    {
+      "id": "p0063",
+      "text": "Electromotive Force on a Moving Conductor."
+    },
+    {
+      "id": "p0064",
+      "text": "(64) Let a short straight conductor of length a, parallel to the axis of x {\\displaystyle x} , move with a velocity whose components are d x d t , d y d t , d z d t {\\displaystyle {\\tfrac {dx}{dt}},{\\tfrac {dy}{dt}},{\\tfrac {dz}{dt}}} , and let its extremities slide along two parallel conductors with a velocity d s d t {\\displaystyle {\\tfrac {ds}{dt}}} . Let us find the alteration of the electromagnetic momentum of the circuit of which this arrangement forms a part."
+    },
+    {
+      "id": "p0065",
+      "text": "In unit of time the moving conductor has travelled distances d x d t , d y d t , d z d t {\\displaystyle {\\tfrac {dx}{dt}},{\\tfrac {dy}{dt}},{\\tfrac {dz}{dt}}} along the directions of the three axes, and at the same time the lengths of the parallel conductors included in the circuit have each been increased by d s d t {\\displaystyle {\\tfrac {ds}{dt}}} ."
+    },
+    {
+      "id": "p0066",
+      "text": "Hence the quantity"
+    },
+    {
+      "id": "p0067",
+      "text": "∫ ( F d x d s + G d y d s + H d z d s ) d s {\\displaystyle \\int \\left(F{\\frac {dx}{ds}}+G{\\frac {dy}{ds}}+H{\\frac {dz}{ds}}\\right)ds}"
+    },
+    {
+      "id": "p0068",
+      "text": "will be increased by the following increments,"
+    },
+    {
+      "id": "p0069",
+      "text": "a ( d F d x d x d t + d F d y d y d t + d F d z d z d t ) {\\displaystyle a\\left({\\frac {dF}{dx}}{\\frac {dx}{dt}}+{\\frac {dF}{dy}}{\\frac {dy}{dt}}+{\\frac {dF}{dz}}{\\frac {dz}{dt}}\\right)} , due to motion of conductor"
+    },
+    {
+      "id": "p0070",
+      "text": "− a d s d t ( d F d x d x d s + d G d x d y d s + d H d x d z d s ) {\\displaystyle -a{\\frac {ds}{dt}}\\left({\\frac {dF}{dx}}{\\frac {dx}{ds}}+{\\frac {dG}{dx}}{\\frac {dy}{ds}}+{\\frac {dH}{dx}}{\\frac {dz}{ds}}\\right)} , due to lenghtening of circuit."
+    },
+    {
+      "id": "p0071",
+      "text": "The total increment will therefore be"
+    },
+    {
+      "id": "p0072",
+      "text": "a ( d F d y − d G d x ) d y d t − a ( d H d x − d F d z ) d z d t ; {\\displaystyle a\\left({\\frac {dF}{dy}}-{\\frac {dG}{dx}}\\right){\\frac {dy}{dt}}-a\\left({\\frac {dH}{dx}}-{\\frac {dF}{dz}}\\right){\\frac {dz}{dt}};}"
+    },
+    {
+      "id": "p0073",
+      "text": "or, by the equations of Magnetic Force (B),"
+    },
+    {
+      "id": "p0074",
+      "text": "− a ( μ γ d y d t − μ β d z d t ) {\\displaystyle -a\\left(\\mu \\gamma {\\frac {dy}{dt}}-\\mu \\beta {\\frac {dz}{dt}}\\right)}"
+    },
+    {
+      "id": "p0075",
+      "text": "If P is the electromotive force in the moving conductor parallel to x {\\displaystyle x} referred to unit of length, then the actual electromotive force is P a {\\displaystyle a} ; and since this is measured by the decrement of the electromagnetic momentum of the circuit, the electromotive force due to motion will be"
+    },
+    {
+      "id": "p0076",
+      "text": "P = μ γ d y d t − μ β d z d t {\\displaystyle P=\\mu \\gamma {\\frac {dy}{dt}}-\\mu \\beta {\\frac {dz}{dt}}}"
+    },
+    {
+      "id": "p0077",
+      "text": "(36)"
+    },
+    {
+      "id": "p0078",
+      "text": "(65) The complete equations of electromotive force on a moving conductor may now be written as follows:—"
+    },
+    {
+      "id": "p0079",
+      "text": "Equations of Electromotive Force."
+    },
+    {
+      "id": "p0080",
+      "text": "P = μ ( γ d y d t − β d z d t ) − d F d t − d Ψ d x , Q = μ ( α d z d t − γ d x d t ) − d G d t − d Ψ d y , R = μ ( β d x d t − α d y d t ) − d H d t − d Ψ d z . } {\\displaystyle \\left.{\\begin{array}{l}P=\\mu \\left(\\gamma {\\frac {dy}{dt}}-\\beta {\\frac {dz}{dt}}\\right)-{\\frac {dF}{dt}}-{\\frac {d\\Psi }{dx}},\\\\\\\\Q=\\mu \\left(\\alpha {\\frac {dz}{dt}}-\\gamma {\\frac {dx}{dt}}\\right)-{\\frac {dG}{dt}}-{\\frac {d\\Psi }{dy}},\\\\\\\\R=\\mu \\left(\\beta {\\frac {dx}{dt}}-\\alpha {\\frac {dy}{dt}}\\right)-{\\frac {dH}{dt}}-{\\frac {d\\Psi }{dz}}.\\end{array}}\\right\\}}"
+    },
+    {
+      "id": "p0081",
+      "text": "(D)"
+    },
+    {
+      "id": "p0082",
+      "text": "The first term on the right-hand side of each equation represents the electromotive force arising from the motion of the conductor itself. This electromotive force is perpendicular to the direction of motion and to the lines of magnetic force; and if a parallelogram be drawn whose sides represent in direction and magnitude the velocity of the conductor and the magnetic induction at that point of the field, then the area of the parallelogram will represent the electromotive force due to the motion of the conductor, and the direction of the force is perpendicular to the plane of the parallelogram."
+    },
+    {
+      "id": "p0083",
+      "text": "The second term in each equation indicates the effect of changes in the position or strength of magnets or currents in the field."
+    },
+    {
+      "id": "p0084",
+      "text": "The third term shows the effect of the electric potential It has no effect in causing a circulating current in a closed circuit. It indicates the existence of a force urging the electricity to or from certain definite points in the field."
+    },
+    {
+      "id": "p0085",
+      "text": "Electric Elasticity."
+    },
+    {
+      "id": "p0086",
+      "text": "(66) When an electromotive force acts on a dielectric, it puts every part of the dielectric into a polarized condition, in which its opposite sides are oppositely electrified. The amount of this electrification depends on the electromotive force and on the nature of the substance, and, in solids having a structure defined by axes, on the direction of the electromotive force with respect to these axes. In isotropic substances, if k {\\displaystyle k} is the ratio of the electromotive force to the electric displacement, we may write the"
+    },
+    {
+      "id": "p0087",
+      "text": "Equations of Electric Elasticity,"
+    },
+    {
+      "id": "p0088",
+      "text": "P = k f , Q = k g , R = k h . } {\\displaystyle \\left.{\\begin{array}{l}P=kf,\\\\Q=kg,\\\\R=kh.\\end{array}}\\right\\}}"
+    },
+    {
+      "id": "p0089",
+      "text": "(E)"
+    },
+    {
+      "id": "p0090",
+      "text": "Electric Resistance."
+    },
+    {
+      "id": "p0091",
+      "text": "(67) When an electromotive force acts on a conductor it produces a current of electricity through it. This effect is additional to the electric displacement already considered. In solids of complex structure, the relation between the electromotive force and the current depends on their direction through the solid. In isotropic substances, which alone we shall here consider, if ρ {\\displaystyle \\rho } is the specific resistance referred to unit of volume, we may write the"
+    },
+    {
+      "id": "p0092",
+      "text": "Equations of Electric Resistance,"
+    },
+    {
+      "id": "p0093",
+      "text": "P = − ρ p , Q = − ρ q , R = − ρ r . } {\\displaystyle \\left.{\\begin{array}{l}P=-\\rho p,\\\\Q=-\\rho q,\\\\R=-\\rho r.\\end{array}}\\right\\}}"
+    },
+    {
+      "id": "p0094",
+      "text": "(F)"
+    },
+    {
+      "id": "p0095",
+      "text": "Electric Quantity ."
+    },
+    {
+      "id": "p0096",
+      "text": "(68) Let e {\\displaystyle e} represent the quantity of free positive electricity contained in unit of volume at any part of the field, then, since this arises from the electrification of the different parts of the field not neutralizing each other, we may write the"
+    },
+    {
+      "id": "p0097",
+      "text": "Equation of Free Electricity,"
+    },
+    {
+      "id": "p0098",
+      "text": "e + d f d x + d g d y + d h d z = 0 {\\displaystyle e+{\\frac {df}{dx}}+{\\frac {dg}{dy}}+{\\frac {dh}{dz}}=0}"
+    },
+    {
+      "id": "p0099",
+      "text": "(G)"
+    },
+    {
+      "id": "p0100",
+      "text": "(69) If the medium conducts electricity, then we shall have another condition, which may be called, as in hydrodynamics, the"
+    },
+    {
+      "id": "p0101",
+      "text": "Equation of Continuity,"
+    },
+    {
+      "id": "p0102",
+      "text": "d e d t + d p d x + d q d y + d r d z = 0 {\\displaystyle {\\frac {de}{dt}}+{\\frac {dp}{dx}}+{\\frac {dq}{dy}}+{\\frac {dr}{dz}}=0}"
+    },
+    {
+      "id": "p0103",
+      "text": "(H)"
+    },
+    {
+      "id": "p0104",
+      "text": "(70) In these equations of the electromagnetic field we have assumed twenty variable quantities, namely,"
+    },
+    {
+      "id": "p0105",
+      "text": "For Electromagnetic Momentum F G H"
+    },
+    {
+      "id": "p0106",
+      "text": "„ Magnetic Intensity α {\\displaystyle \\alpha } β {\\displaystyle \\beta } γ {\\displaystyle \\gamma }"
+    },
+    {
+      "id": "p0107",
+      "text": "„ Electromotive Force P Q R"
+    },
+    {
+      "id": "p0108",
+      "text": "„ Current due to true conduction p q r"
+    },
+    {
+      "id": "p0109",
+      "text": "„ Electric Displacement f g h"
+    },
+    {
+      "id": "p0110",
+      "text": "„ Total Current (including variation of displacement) p' q' r'"
+    },
+    {
+      "id": "p0111",
+      "text": "„ Quantity of free Electricity e"
+    },
+    {
+      "id": "p0112",
+      "text": "„ Electric Potential Ψ {\\displaystyle \\Psi }"
+    },
+    {
+      "id": "p0113",
+      "text": "Between these twenty quantities we have found twenty equations, viz."
+    },
+    {
+      "id": "p0114",
+      "text": "Three equations of Magnetic Force (B)"
+    },
+    {
+      "id": "p0115",
+      "text": "„ Electric Currents (C)"
+    },
+    {
+      "id": "p0116",
+      "text": "„ Electromotive Force (D)"
+    },
+    {
+      "id": "p0117",
+      "text": "„ Electric Elasticity (E)"
+    },
+    {
+      "id": "p0118",
+      "text": "„ Electric Resistance (F)"
+    },
+    {
+      "id": "p0119",
+      "text": "„ Total Currents (A)"
+    },
+    {
+      "id": "p0120",
+      "text": "One equation of Free Electricity (G)"
+    },
+    {
+      "id": "p0121",
+      "text": "„ Continuity (H)"
+    },
+    {
+      "id": "p0122",
+      "text": "These equations are therefore sufficient to determine all the quantities which occur in them, provided we know the conditions of the problem. In many questions, however, only a few of the equations are required."
+    },
+    {
+      "id": "p0123",
+      "text": "Intrinsic Energy of the Electromagnetic Field."
+    },
+    {
+      "id": "p0124",
+      "text": "(71) We have seen (33) that the intrinsic energy of any system of currents is found by multiplying half the current in each circuit into its electromagnetic momentum. This is equivalent to finding the integral"
+    },
+    {
+      "id": "p0125",
+      "text": "E = 1 2 ∑ ( F p ′ + G q ′ + H r ′ ) d V {\\displaystyle E={\\frac {1}{2}}\\sum (Fp'+Gq'+Hr')dV}"
+    },
+    {
+      "id": "p0126",
+      "text": "(37)"
+    },
+    {
+      "id": "p0127",
+      "text": "over all the space occupied by currents, where p , q , r {\\displaystyle p,q,r} are the components of currents, and F, G, H the components of electromagnetic momentum."
+    },
+    {
+      "id": "p0128",
+      "text": "Substituting the values of p ′ , q ′ , r ′ {\\displaystyle p',q',r'} from the equations of Currents (C), this becomes"
+    },
+    {
+      "id": "p0129",
+      "text": "1 8 π ∑ { F ( d γ d y − d β d z ) + G ( d α d z − d γ d x ) + H ( d β d x − d α d y ) } d V {\\displaystyle {\\frac {1}{8\\pi }}\\sum \\left\\{F\\left({\\frac {d\\gamma }{dy}}-{\\frac {d\\beta }{dz}}\\right)+G\\left({\\frac {d\\alpha }{dz}}-{\\frac {d\\gamma }{dx}}\\right)+H\\left({\\frac {d\\beta }{dx}}-{\\frac {d\\alpha }{dy}}\\right)\\right\\}dV}"
+    },
+    {
+      "id": "p0130",
+      "text": "Integrating by parts, and remembering that α , β , γ {\\displaystyle \\alpha ,\\beta ,\\gamma } vanish at an infinite distance, the expression becomes"
+    },
+    {
+      "id": "p0131",
+      "text": "1 8 π ∑ { α ( d H d y − d G d z ) + β ( d F d z − d H d x ) + γ ( d G d x − d F d y ) } d V {\\displaystyle {\\frac {1}{8\\pi }}\\sum \\left\\{\\alpha \\left({\\frac {dH}{dy}}-{\\frac {dG}{dz}}\\right)+\\beta \\left({\\frac {dF}{dz}}-{\\frac {dH}{dx}}\\right)+\\gamma \\left({\\frac {dG}{dx}}-{\\frac {dF}{dy}}\\right)\\right\\}dV}"
+    },
+    {
+      "id": "p0132",
+      "text": "where the integration is to be extended over all space. Referring to the equations of Magnetic Force (B), p. 482, this becomes"
+    },
+    {
+      "id": "p0133",
+      "text": "E = 1 8 π ∑ { α ⋅ μ α + β ⋅ μ β + γ ⋅ μ γ } d V {\\displaystyle E={\\frac {1}{8\\pi }}\\sum \\{\\alpha \\cdot \\mu \\alpha +\\beta \\cdot \\mu \\beta +\\gamma \\cdot \\mu \\gamma \\}dV}"
+    },
+    {
+      "id": "p0134",
+      "text": "(38)"
+    },
+    {
+      "id": "p0135",
+      "text": "where α , β , γ {\\displaystyle \\alpha ,\\beta ,\\gamma } are the components of magnetic intensity or the force on a unit magnetic pole, and μ α , μ β , μ γ {\\displaystyle \\mu \\alpha ,\\mu \\beta ,\\mu \\gamma } are the components of the quantity of magnetic induction, or the number of lines of force in unit of area."
+    },
+    {
+      "id": "p0136",
+      "text": "In isotropic media the value of μ {\\displaystyle \\mu } is the same in all directions, and we may express the result more simply by saying that the intrinsic energy of any part of the magnetic field arising from its magnetization is"
+    },
+    {
+      "id": "p0137",
+      "text": "μ 8 π I 2 {\\displaystyle {\\frac {\\mu }{8\\pi }}I^{2}}"
+    },
+    {
+      "id": "p0138",
+      "text": "per unit of volume, where I is the magnetic intensity."
+    },
+    {
+      "id": "p0139",
+      "text": "(72) Energy may be stored up in the field in a different way, namely, by the action of electromotive force in producing electric displacement. The work done by a variable electromotive force, P, in producing a variable displacement, f {\\displaystyle f} , is got by integrating"
+    },
+    {
+      "id": "p0140",
+      "text": "∫ P d f {\\displaystyle \\int Pdf}"
+    },
+    {
+      "id": "p0141",
+      "text": "from P=0 to the given value of P."
+    },
+    {
+      "id": "p0142",
+      "text": "Since P = k f {\\displaystyle P=kf} , equation (E), this quantity becomes"
+    },
+    {
+      "id": "p0143",
+      "text": "∫ k f d f = 1 2 k f 2 = 1 2 P f {\\displaystyle \\int kfdf={\\frac {1}{2}}kf^{2}={\\frac {1}{2}}Pf}"
+    },
+    {
+      "id": "p0144",
+      "text": "Hence the intrinsic energy of any part of the field, as existing in the form of electric displacement, is"
+    },
+    {
+      "id": "p0145",
+      "text": "1 2 ∑ ( P f + Q g + R h ) d V {\\displaystyle {\\frac {1}{2}}\\sum (Pf+Qg+Rh)dV}"
+    },
+    {
+      "id": "p0146",
+      "text": "The total energy existing in the field is therefore"
+    },
+    {
+      "id": "p0147",
+      "text": "E = ∑ { 1 8 π ( α μ α + β μ β + γ μ γ ) + 1 2 ( P f + Q g + R h ) } d V {\\displaystyle E=\\sum \\left\\{{\\frac {1}{8\\pi }}(\\alpha \\mu \\alpha +\\beta \\mu \\beta +\\gamma \\mu \\gamma )+{\\frac {1}{2}}(Pf+Qg+Rh)\\right\\}dV}"
+    },
+    {
+      "id": "p0148",
+      "text": "(I)"
+    },
+    {
+      "id": "p0149",
+      "text": "The first term of this expression depends on the magnetization of the field, and is explained on our theory by actual motion of some kind. The second term depends on the electric polarization of the field, and is explained on our theory by strain of some kind in an elastic medium."
+    },
+    {
+      "id": "p0150",
+      "text": "(73) I have on a former occasion [ 1 ] attempted to describe a particular kind of motion and a particular kind of strain, so arranged as to account for the phenomena. In the present paper I avoid any hypothesis of this kind; and in using such words as electric momentum and electric elasticity in reference to the known phenomena of the induction of currents and the polarization of dielectrics, I wish merely to direct the mind of the reader to mechanical phenomena which will assist him in understanding the electrical ones. All such phrases in the present paper are to be considered as illustrative, not as explanatory."
+    },
+    {
+      "id": "p0151",
+      "text": "(74) In speaking of the Energy of the field, however, I wish to be understood literally. All energy is the same as mechanical energy, whether it exists in the form of motion or in that of elasticity, or in any other form. The energy in electromagnetic phenomena is mechanical energy. The only question is, Where does it reside? On the old theories it resides in the electrified bodies, conducting circuits, and magnets, in the form of an unknown quality called potential energy, or the power of producing certain effects at a distance. On our theory it resides in the electromagnetic field, in the space surrounding the electrified and magnetic bodies, as well as in those bodies themselves, and is in two different forms, which may be described without hypothesis as magnetic polarization and electric polarization, or, according to a very probable hypothesis, as the motion and the strain of one and the same medium."
+    },
+    {
+      "id": "p0152",
+      "text": "(75) The conclusions arrived at in the present paper are independent of this hypothesis, being deduced from experimental facts of three kinds:—"
+    },
+    {
+      "id": "p0153",
+      "text": "1. The induction of electric currents by the increase or diminution of neighbouring currents according to the changes in the lines of force passing through the circuit."
+    },
+    {
+      "id": "p0154",
+      "text": "2. The distribution of magnetic intensity according to the variations of a magnetic potential."
+    },
+    {
+      "id": "p0155",
+      "text": "3. The induction (or influence) of statical electricity through dielectrics."
+    },
+    {
+      "id": "p0156",
+      "text": "We may now proceed to demonstrate from these principles the existence and laws of the mechanical forces which act upon electric currents, magnets, and electrified bodies placed in the electromagnetic field."
+    },
+    {
+      "id": "p0157",
+      "text": "↑ \" On Physical Lines of Force ,\" Philosophical Magazine, 1861-62."
+    }
+  ],
+  "anchors": {
+    "science-maxwell-field-energy": {
+      "paragraphId": "p0151",
+      "start": 536,
+      "end": 918,
+      "quote": "On our theory it resides in the electromagnetic field, in the space surrounding the electrified and magnetic bodies, as well as in those bodies themselves, and is in two different forms, which may be described without hypothesis as magnetic polarization and electric polarization, or, according to a very probable hypothesis, as the motion and the strain of one and the same medium.",
+      "match": "normalized-exact"
+    }
+  }
+}

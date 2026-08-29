@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b",
+  "title": "章 I",
+  "englishTitle": "Chapter I",
+  "work": "《道德与立法原理导论》",
+  "englishWork": "An Introduction to the Principles of Morals and Legislation",
+  "locator": "章 I",
+  "englishLocator": "Chapter I",
+  "version": "Econlib 公版英文文本，边沁《道德与立法原理导论》第一章第 1 节",
+  "englishVersion": "Econlib public-domain English text, Bentham, An Introduction to the Principles of Morals and Legislation, Chapter I, §1",
+  "sourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+  "preparedSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2",
+  "source": {
+    "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2",
+    "contentType": "text/html",
+    "sha256": "43b13c67f30ee6eb650f4a2c5a3c10dea2a17a07b137a4cd9b9c0935e15ba948"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "f9d9edc4d6613667aa0eaa7952cbb9be0ca12ecf21d87c40f6967813a9084463",
+  "inputHash": "bd04d8c26ecd999030c6612da63c68880f26239fcda36bc0d3707491f436e9a7",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter I"
+    },
+    {
+      "id": "p0002",
+      "text": "I. Nature has placed mankind under the governance of two sovereign masters,"
+    },
+    {
+      "id": "p0003",
+      "text": "pain and"
+    },
+    {
+      "id": "p0004",
+      "text": "pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do. On the one hand the standard of right and wrong, on the other the chain of causes and effects, are fastened to their throne. They govern us in all we do, in all we say, in all we think: every effort we can make to throw off our subjection, will serve but to demonstrate and confirm it. In words a man may pretend to abjure their empire: but in reality he will remain subject to it all the while. The"
+    },
+    {
+      "id": "p0005",
+      "text": "principle of utility *6 recognizes this subjection, and assumes it for the foundation of that system, the object of which is to rear the fabric of felicity by the hands of reason and of law. Systems which attempt to question it, deal in sounds instead of sense, in caprice instead of reason, in darkness instead of light."
+    },
+    {
+      "id": "p0006",
+      "text": "But enough of metaphor and declamation: it is not by such means that moral science is to be improved."
+    },
+    {
+      "id": "p0007",
+      "text": "II. The principle of utility is the foundation of the present work: it will be proper therefore at the outset to give an explicit and determinate account of what is meant by it. By the principle"
+    },
+    {
+      "id": "p0008",
+      "text": "*7 of utility is meant that principle which approves or disapproves of every action whatsoever, according to the tendency it appears to have to augment or diminish the happiness of the party whose interest is in question: or, what is the same thing in other words, to promote or to oppose that happiness. I say of every action whatsoever, and therefore not only of every action of a private individual, but of every measure of government."
+    },
+    {
+      "id": "p0009",
+      "text": "III. By utility is meant that property in any object, whereby it tends to produce benefit, advantage, pleasure, good, or happiness, (all this in the present case comes to the same thing) or (what comes again to the same thing) to prevent the happening of mischief, pain, evil, or unhappiness to the party whose interest is considered: if that party be the community in general, then the happiness of the community: if a particular individual, then the happiness of that individual."
+    },
+    {
+      "id": "p0010",
+      "text": "IV. The interest of the community is one of the most general expressions that can occur in the phraseology of morals: no wonder that the meaning of it is often lost. When it has a meaning, it is this. The community is a fictitious"
+    },
+    {
+      "id": "p0011",
+      "text": "body, composed of the individual persons who are considered as constituting as it were its"
+    },
+    {
+      "id": "p0012",
+      "text": "members. The interest of the community then is, what?—the sum of the interests of the several members who compose it."
+    },
+    {
+      "id": "p0013",
+      "text": "V. It is in vain to talk of the interest of the community, without understanding what is the interest of the individual."
+    },
+    {
+      "id": "p0014",
+      "text": "*8 A thing is said to promote the interest, or to be"
+    },
+    {
+      "id": "p0015",
+      "text": "for the interest, of an individual, when it tends to add to the sum total of his pleasures: or, what comes to the same thing, to diminish the sum total of his pains."
+    },
+    {
+      "id": "p0016",
+      "text": "VI. An action then may be said to be conformable to the principle of utility, or, for shortness sake, to utility, (meaning with respect to the community at large) when the tendency it has to augment the happiness of the community is greater than any it has to diminish it."
+    },
+    {
+      "id": "p0017",
+      "text": "VII. A measure of government (which is but a particular kind of action, performed by a particular person or persons) may be said to be conformable to or dictated by the principle of utility, when in like manner the tendency which it has to augment the happiness of the community is greater than any which it has to diminish it."
+    },
+    {
+      "id": "p0018",
+      "text": "VIII. When an action, or in particular a measure of government, is supposed by a man to be conformable to the principle of utility, it may be convenient, for the purposes of discourse, to imagine a kind of law or dictate, called a law or dictate of utility: and to speak of the action in question, as being conformable to such law or dictate."
+    },
+    {
+      "id": "p0019",
+      "text": "IX. A man may be said to be a partizan of the principle of utility, when the approbation or disapprobation he annexes to any action, or to any measure, is determined by and proportioned to the tendency which he conceives it to have to augment or to diminish the happiness of the community: or in other words, to its conformity or unconformity to the laws or dictates of utility."
+    },
+    {
+      "id": "p0020",
+      "text": "X. Of an action that is conformable to the principle of utility one may always say either that it is one that ought to be done, or at least that it is not one that ought not to be done. One may say also, that it is right it should be done; at least that it is not wrong it should be done: that it is a right action; at least that it is not a wrong action. When thus interpreted, the words"
+    },
+    {
+      "id": "p0021",
+      "text": "ought, and"
+    },
+    {
+      "id": "p0022",
+      "text": "right and"
+    },
+    {
+      "id": "p0023",
+      "text": "wrong and others of that stamp, have a meaning: when otherwise, they have none."
+    },
+    {
+      "id": "p0024",
+      "text": "XI. Has the rectitude of this principle been ever formally contested? It should seem that it had, by those who have not known what they have been meaning. Is it susceptible of any direct proof? it should seem not: for that which is used to prove every thing else, cannot itself be proved: a chain of proofs must have their commencement somewhere. To give such proof is as impossible as it is needless."
+    },
+    {
+      "id": "p0025",
+      "text": "XII. Not that there is or ever has been that human creature at breathing, however stupid or perverse, who has not on many, perhaps on most occasions of his life, deferred to it. By the natural constitution of the human frame, on most occasions of their lives men in general embrace this principle, without thinking of it: if not for the ordering of their own actions, yet for the trying of their own actions, as well as of those of other men. There have been, at the same time, not many perhaps, even of the most intelligent, who have been disposed to embrace it purely and without reserve. There are even few who have not taken some occasion or other to quarrel with it, either on account of their not understanding always how to apply it, or on account of some prejudice or other which they were afraid to examine into, or could not bear to part with. For such is the stuff that man is made of: in principle and in practice, in a right track and in a wrong one, the rarest of all human qualities is consistency."
+    },
+    {
+      "id": "p0026",
+      "text": "XIII. When a man attempts to combat the principle of utility, it is with reasons drawn, without his being aware of it, from that very principle itself."
+    },
+    {
+      "id": "p0027",
+      "text": "*9 His arguments, if they prove any thing, prove not that the principle is"
+    },
+    {
+      "id": "p0028",
+      "text": "wrong, but that, according to the applications he supposes to be made of it, it is"
+    },
+    {
+      "id": "p0029",
+      "text": "misapplied. Is it possible for a man to move the earth? Yes; but he must first find out another earth to stand upon."
+    },
+    {
+      "id": "p0030",
+      "text": "XIV. To disprove the propriety of it by arguments is impossible; but, from the causes that have been mentioned, or from some confused or partial view of it, a man may happen to be disposed not to relish it. Where this is the case, if he thinks the settling of his opinions on such a subject worth the trouble, let him take the following steps, and at length, perhaps, he may come to reconcile himself to it."
+    },
+    {
+      "id": "p0031",
+      "text": "1. Let him settle with himself, whether he would wish to discard this principle altogether; if so, let him consider what it is that all his reasonings (in matters of politics especially) can amount to?"
+    },
+    {
+      "id": "p0032",
+      "text": "2. If he would, let him settle with himself, whether he would judge and act without any principle, or whether there is any other he would judge an act by?"
+    },
+    {
+      "id": "p0033",
+      "text": "3. If there be, let him examine and satisfy himself whether the principle he thinks he has found is really any separate intelligible principle; or whether it be not a mere principle in words, a kind of phrase, which at bottom expresses neither more nor less than the mere averment of his own unfounded sentiments; that is, what in another person he might be apt to call caprice?"
+    },
+    {
+      "id": "p0034",
+      "text": "4. If he is inclined to think that his own approbation or disapprobation, annexed to the idea of an act, without any regard to its consequences, is a sufficient foundation for him to judge and act upon, let him ask himself whether his sentiment is to be a standard of right and wrong, with respect to every other man, or whether every man’s sentiment has the same privilege of being a standard to itself?"
+    },
+    {
+      "id": "p0035",
+      "text": "5. In the first case, let him ask himself whether his principle is not despotical, and hostile to all the rest of human race?"
+    },
+    {
+      "id": "p0036",
+      "text": "6. In the second case, whether it is not anarchial, and whether at this rate there are not as many different standards of right and wrong as there are men? and whether even to the same man, the same thing, which is right to-day, may not (without the least change in its nature) be wrong to-morrow? and whether the same thing is not right and wrong in the same place at the same time? and in either case, whether all argument is not at an end? and whether, when two men have said, ‘I like this’, and ‘I don’t like it’, they can (upon such a principle) have any thing more to say?"
+    },
+    {
+      "id": "p0037",
+      "text": "7. If he should have said to himself, No: for that the sentiment which he proposes as a standard must be grounded on reflection, let him say on what particulars the reflection is to turn? if on particulars having relation to the utility of the act, then let him say whether this is not deserting his own principle, and borrowing assistance from that very one in opposition to which he sets it up: or if not on those particulars, on what other particulars?"
+    },
+    {
+      "id": "p0038",
+      "text": "8. If he should be for compounding the matter, and adopting his own principle in part, and the principle of utility in part, let him say how far he will adopt it?"
+    },
+    {
+      "id": "p0039",
+      "text": "9. When he has settled with himself where he will stop, then let him ask himself how he justifies to himself the adopting it so far? and why he will not adopt it any farther?"
+    },
+    {
+      "id": "p0040",
+      "text": "10. Admitting any other principle than the principle of utility to be a right principle, a principle that it is right for a man to pursue; admitting (what is not true) that the word"
+    },
+    {
+      "id": "p0041",
+      "text": "right can have a meaning without reference to utility, let him say whether there is any such thing as a"
+    },
+    {
+      "id": "p0042",
+      "text": "motive that a man can have to pursue the dictates of it: if there is, let him say what that motive is, and how it is to be distinguished from those which enforce the dictates of utility: if not, then lastly let him say what it is this other principle can be good for?"
+    },
+    {
+      "id": "p0043",
+      "text": "6."
+    },
+    {
+      "id": "p0044",
+      "text": "Note by the Author, July 1822."
+    },
+    {
+      "id": "p0045",
+      "text": "To this denomination has of late been added, or substituted, the"
+    },
+    {
+      "id": "p0046",
+      "text": "greatest happiness or"
+    },
+    {
+      "id": "p0047",
+      "text": "greatest felicity principle: this for shortness, instead of saying at length that principle which states the greatest happiness of all those whose interest is in question, as being the right and proper, and only right and proper and universally desirable, end of human action: of human action in every situation, and in particular in that of a functionary or set of functionaries exercising the powers of Government. The word"
+    },
+    {
+      "id": "p0048",
+      "text": "utility does not so clearly point to the ideas of"
+    },
+    {
+      "id": "p0049",
+      "text": "pleasure and"
+    },
+    {
+      "id": "p0050",
+      "text": "pain as the words"
+    },
+    {
+      "id": "p0051",
+      "text": "happiness and"
+    },
+    {
+      "id": "p0052",
+      "text": "felicity do: nor does it lead us to the consideration of the"
+    },
+    {
+      "id": "p0053",
+      "text": "number, of the interests affected; to the"
+    },
+    {
+      "id": "p0054",
+      "text": "number, as being the circumstance, which contributes, in the largest proportion, to the formation of the standard here in question; the"
+    },
+    {
+      "id": "p0055",
+      "text": "standard of right and wrong, by which alone the propriety of human conduct, in every situation, can with propriety be tried. This want of a sufficiently manifest connexion between the ideas of"
+    },
+    {
+      "id": "p0056",
+      "text": "happiness and"
+    },
+    {
+      "id": "p0057",
+      "text": "pleasure on the one hand, and the idea of"
+    },
+    {
+      "id": "p0058",
+      "text": "utility on the other, I have every now and then found operating, and with but too much efficiency, as a bar to the acceptance, that might otherwise have been given, to this principle."
+    },
+    {
+      "id": "p0059",
+      "text": "7."
+    },
+    {
+      "id": "p0060",
+      "text": "The word principle is derived from the Latin principium: which seems to be compounded of the two words"
+    },
+    {
+      "id": "p0061",
+      "text": "primus, first, or chief, and"
+    },
+    {
+      "id": "p0062",
+      "text": "cipium a termination which seems to be derived from"
+    },
+    {
+      "id": "p0063",
+      "text": "capio, to take, as in"
+    },
+    {
+      "id": "p0064",
+      "text": "mancipium, municipium; to which are analogous,"
+    },
+    {
+      "id": "p0065",
+      "text": "auceps, forceps, and others. It is a term of very vague and very extensive signification: it is applied to any thing which is conceived to serve as a foundation or beginning to any series of operations: in some cases, of physical operations; but of mental operations in the present case."
+    },
+    {
+      "id": "p0066",
+      "text": "The principle here in question may be taken for an act of the mind; a sentiment; a sentiment of approbation; a sentiment which, when applied to an action, approves of its utility, as that quality of it by which the measure of approbation or disapprobation bestowed upon it ought to be governed."
+    },
+    {
+      "id": "p0067",
+      "text": "8."
+    },
+    {
+      "id": "p0068",
+      "text": "Interest is one of those words, which not having any superior"
+    },
+    {
+      "id": "p0069",
+      "text": "genus, cannot in the ordinary way be defined."
+    },
+    {
+      "id": "p0070",
+      "text": "9."
+    },
+    {
+      "id": "p0071",
+      "text": "‘The principle of utility, (I have heard it said) is a dangerous principle: it is dangerous on certain occasions to consult it.’ This is as much as to say, what? that it is not consonant to utility, to consult utility: in short, that it is"
+    },
+    {
+      "id": "p0072",
+      "text": "not consulting it, to consult it."
+    },
+    {
+      "id": "p0073",
+      "text": "Addition by the Author, July 1822."
+    },
+    {
+      "id": "p0074",
+      "text": "Not long after the publication of the Fragment on Government, anno 1776, in which, in the character of all-comprehensive and all-commanding principle, the principle of"
+    },
+    {
+      "id": "p0075",
+      "text": "utility was brought to view, one person by whom observation to the above effect was made was"
+    },
+    {
+      "id": "p0076",
+      "text": "Alexander Wedderburn, at that time Attorney or Solicitor General, afterwards successively Chief Justice of the Common Pleas, and Chancellor of England, under the successive titles of Lord Loughborough and Earl of Rosslyn. It was made—not indeed in my hearing, but in the hearing of a person by whom it was almost immediately communicated to me. So far from being self-contradictory, it was a shrewd and perfectly true one. By that distinguished functionary, the state of the Government was thoroughly understood: by the obscure individual, at that time not so much as supposed to be so: his disquisitions had not been as yet applied, with any thing like a comprehensive view, to the field of Constitutional Law, nor therefore to those features of the English Government, by which the greatest happiness of the ruling"
+    },
+    {
+      "id": "p0077",
+      "text": "one with or without that of a favoured few, are now so plainly seen to be the only ends to which the course of it has at any time been directed. The"
+    },
+    {
+      "id": "p0078",
+      "text": "principle of utility was an appellative, at that time employed by me, as it had been by others, to designate that which, in a more perspicuous and instructive manner, may, as above, be designated by the name of the"
+    },
+    {
+      "id": "p0079",
+      "text": "greatest happiness principle. ‘This principle (said Wedderburn) is a dangerous one.’ Saying so, he said that which, to a certain extent, is strictly true: a principle, which lays down, as the only"
+    },
+    {
+      "id": "p0080",
+      "text": "right and justifiable end of Government, the greatest happiness of the greatest number—how can it be denied to be a dangerous one? dangerous it unquestionably is, to every government which has for its actual end or object, the greatest happiness of a certain"
+    },
+    {
+      "id": "p0081",
+      "text": "one, with or without the addition of some comparatively small number of others, whom it is matter of pleasure or accommodation to him to admit, each of them, to a share in the concern, on the footing of so many junior partners."
+    },
+    {
+      "id": "p0082",
+      "text": "Dangerous it therefore really was, to the interest—the sinister interest—of all those functionaries, himself included, whose interest it was, to maximize delay, vexation, and expense, in judicial and other modes of procedure, for the sake of the profit, extractible out of the expense. In a Government which had for its end in view the greatest happiness of the greatest number, Alexander Wedderburn might have been Attorney General and then Chancellor: but he would not have been Attorney General with £15,000 a year, nor Chancellor, with a peerage with a veto upon all justice, with £25,000 a year, and with 500 sinecures at his disposal, under the name of Ecclesiastical Benefices, besides"
+    },
+    {
+      "id": "p0083",
+      "text": "et cæteras. ."
+    }
+  ],
+  "anchors": {
+    "bentham": {
+      "paragraphId": "p0002",
+      "start": 3,
+      "end": 75,
+      "match": "normalized-adjacent-paragraphs",
+      "segments": [
+        {
+          "paragraphId": "p0002",
+          "start": 3,
+          "end": 75,
+          "text": "Nature has placed mankind under the governance of two sovereign masters,"
+        },
+        {
+          "paragraphId": "p0003",
+          "start": 0,
+          "end": 8,
+          "text": "pain and"
+        },
+        {
+          "paragraphId": "p0004",
+          "start": 0,
+          "end": 106,
+          "text": "pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do."
+        }
+      ],
+      "quote": "Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do."
+    },
+    "bentham-community-interests": {
+      "paragraphId": "p0010",
+      "start": 201,
+      "end": 230,
+      "match": "normalized-adjacent-paragraphs",
+      "segments": [
+        {
+          "paragraphId": "p0010",
+          "start": 201,
+          "end": 230,
+          "text": "The community is a fictitious"
+        },
+        {
+          "paragraphId": "p0011",
+          "start": 0,
+          "end": 90,
+          "text": "body, composed of the individual persons who are considered as constituting as it were its"
+        },
+        {
+          "paragraphId": "p0012",
+          "start": 0,
+          "end": 117,
+          "text": "members. The interest of the community then is, what?—the sum of the interests of the several members who compose it."
+        }
+      ],
+      "quote": "The community is a fictitious body, composed of the individual persons who are considered as constituting as it were its members. The interest of the community then is, what?—the sum of the interests of the several members who compose it."
+    }
+  }
+}

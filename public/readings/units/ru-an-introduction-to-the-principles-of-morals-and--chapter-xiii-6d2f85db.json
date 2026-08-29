@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db",
+  "title": "章 XIII",
+  "englishTitle": "Chapter XIII",
+  "work": "《道德与立法原理导论》",
+  "englishWork": "An Introduction to the Principles of Morals and Legislation",
+  "locator": "章 XIII",
+  "englishLocator": "Chapter XIII",
+  "version": "Econlib 公版英文文本，边沁《道德与立法原理导论》第十三章第 2 节",
+  "englishVersion": "Econlib public-domain English text, Bentham, An Introduction to the Principles of Morals and Legislation, Chapter XIII, §2",
+  "sourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+  "preparedSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+  "source": {
+    "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+    "contentType": "text/html",
+    "sha256": "ca3a1c9fcba99eaa6a3f895ff1fb90b687c1067efbb690feee415febd4faa7db"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "8b61bdb2a65a9ebbb33015ee6097864befc129b2969c363ca9cff8f44e94cd3d",
+  "inputHash": "e1f119d261a3748b6fbceaa87ca73dc979f6384355d7d726cfc6aa965747acda",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "§ 1."
+    },
+    {
+      "id": "p0002",
+      "text": "General view of cases unmeet for punishment."
+    },
+    {
+      "id": "p0003",
+      "text": "I. The general object which all laws have, or ought to have, in common, is to augment the total happiness of the community; and therefore, in the first place, to exclude, as far as may be, every thing that tends to subtract from that happiness: in other words, to exclude mischief."
+    },
+    {
+      "id": "p0004",
+      "text": "II. But all punishment is mischief: all punishment in itself is evil. Upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil."
+    },
+    {
+      "id": "p0005",
+      "text": "*69"
+    },
+    {
+      "id": "p0006",
+      "text": "III. It is plain, therefore, that in the following cases punishment ought not to be inflicted."
+    },
+    {
+      "id": "p0007",
+      "text": "1. Where it is"
+    },
+    {
+      "id": "p0008",
+      "text": "groundless: where there is no mischief for it to prevent; the act not being mischievous upon the whole."
+    },
+    {
+      "id": "p0009",
+      "text": "2. Where it must be"
+    },
+    {
+      "id": "p0010",
+      "text": "inefficacious: where it cannot act so as to prevent the mischief."
+    },
+    {
+      "id": "p0011",
+      "text": "3. Where it is"
+    },
+    {
+      "id": "p0012",
+      "text": "unprofitable, or too"
+    },
+    {
+      "id": "p0013",
+      "text": "expensive: where the mischief it would produce would be greater than what it prevented."
+    },
+    {
+      "id": "p0014",
+      "text": "4. Where it is"
+    },
+    {
+      "id": "p0015",
+      "text": "needless: where the mischief may be prevented, or cease of itself, without it: that is, at a cheaper rate."
+    }
+  ],
+  "anchors": {
+    "bentham-limits-of-punishment": {
+      "paragraphId": "p0004",
+      "start": 8,
+      "end": 219,
+      "quote": "All punishment is mischief: all punishment in itself is evil. Upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil.",
+      "match": "normalized-exact"
+    }
+  }
+}

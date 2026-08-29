@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-social-contract-book-i-chapter-8-4513d471",
+  "title": "卷 I · 章 8",
+  "englishTitle": "Book I · Chapter 8",
+  "work": "《社会契约论》",
+  "englishWork": "The Social Contract",
+  "locator": "卷 I · 章 8",
+  "englishLocator": "Book I · Chapter 8",
+  "version": "古登堡计划 G. D. H. Cole 1920 年公版英译，卢梭《社会契约论》第一卷第 8 章，连续分句",
+  "englishVersion": "Project Gutenberg, G. D. H. Cole public-domain translation (1920), Rousseau, The Social Contract, Book I, Chapter 8, continuous clause",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/4/6/3/3/46333/46333-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/4/6/3/3/46333/46333-0.txt",
+    "contentType": "text/plain",
+    "sha256": "fa8468800d708b8330efc0a6c4383320e209bd0dec7a7f1fb4bd9028e9532bbf"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "d2d2eebce48e06408a9bd343bf0f027d76793098c6663d7813a40d250d239410",
+  "inputHash": "cca1cdc7fd418ff3c5cd7f4c349c774b97e1d7332265f8dcfdb192df074196e3",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER VIII"
+    },
+    {
+      "id": "p0002",
+      "text": "THE CIVIL STATE"
+    },
+    {
+      "id": "p0003",
+      "text": "The passage from the state of nature to the civil state produces a very remarkable change in man, by substituting justice, for instinct in his conduct, and giving his actions the morality they had formerly lacked. Then only, when the voice of duty takes the place of physical impulses and right of appetite, does _man_, who so far had considered only himself, find that he is forced to act on different principles, and to consult his reason before listening to his inclinations. Although, in this state, he deprives himself of some advantages which he got from nature, he gains in return others so great, his faculties are so stimulated and developed, his ideas so extended, his feelings so ennobled, and his whole soul so uplifted, that, did not the abuses of this new condition often degrade him below that which he left, he would be bound to bless continually the happy moment which took him from it for ever, and, instead of a stupid and unimaginative animal, made him an intelligent being and a man."
+    },
+    {
+      "id": "p0004",
+      "text": "Let us draw up the whole account in terms easily commensurable. What man loses by the social contract in his natural liberty and an unlimited right to everything he tries to get and succeeds in getting; what he gains is civil liberty and the proprietorship of all he possesses. If we are to avoid mistake in weighing one against the other, we must clearly distinguish natural liberty, which is bounded only by the strength of the individual, from civil liberty, which is limited by the general will; and possession, which is merely the effect of force or the right of the first occupier, from property, which can be founded only on a positive title."
+    },
+    {
+      "id": "p0005",
+      "text": "We might, over and above all this, add, to what man acquires in the civil state, moral liberty, which alone makes him truly master of himself; for the mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty. But I have already said too much on this head, and the philosophical meaning of the word liberty does not now concern us."
+    }
+  ],
+  "anchors": {
+    "rousseau": {
+      "paragraphId": "p0005",
+      "start": 143,
+      "end": 256,
+      "quote": "for the mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty.",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-28T11:26:53.925Z",
+  "inventoryPath": "research/reading-units/inventory.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 663,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-a-letter-concerning-toleration-whole-work-15c3b51a"
+  ],
+  "dryRun": false,
+  "allowNetwork": true,
+  "concurrency": 3,
+  "summary": {
+    "considered": 1,
+    "written": 1,
+    "wouldWrite": 0,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 1,
+    "anchorsMatched": 1,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-a-letter-concerning-toleration-whole-work-15c3b51a",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-a-letter-concerning-toleration-whole-work-15c3b51a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 39,
+      "characterCount": 20077,
+      "publicByteCount": 23785,
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://press-pubs.uchicago.edu/founders/documents/amendI_religions10.html",
+          "status": "selected",
+          "actualUrl": "https://press-pubs.uchicago.edu/founders/documents/amendI_religions10.html"
+        }
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://press-pubs.uchicago.edu/founders/documents/amendI_religions10.html",
+      "actualSourceUrl": "https://press-pubs.uchicago.edu/founders/documents/amendI_religions10.html",
+      "contentHash": "72f1df1a0c9e7e701c77564a01a4469b2c37cb046247bd3914c0bb2d9943d8dc"
+    }
+  ],
+  "failures": []
+}

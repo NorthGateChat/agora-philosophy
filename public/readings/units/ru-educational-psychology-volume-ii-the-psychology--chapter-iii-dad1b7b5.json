@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-educational-psychology-volume-ii-the-psychology--chapter-iii-dad1b7b5",
+  "title": "章 III",
+  "englishTitle": "Chapter III",
+  "work": "《教育心理学》第二卷《学习心理学》",
+  "englishWork": "Educational Psychology, Volume II: The Psychology of Learning",
+  "locator": "章 III",
+  "englishLocator": "Chapter III",
+  "version": "Internet Archive 公版扫描，桑代克《教育心理学》第二卷《学习心理学》，1913年版权页、1921年印次，第三章“人的联结学习”之“习惯律”，印刷页22，完整连续句",
+  "englishVersion": "Internet Archive public-domain scan, Thorndike, Educational Psychology, Vol. II, The Psychology of Learning, copyright 1913 / 1921 printing, Chapter III, ‘Associative Learning in Man,’ ‘The Laws of Habit,’ print p. 22, complete continuous sentence",
+  "sourceUrl": "https://archive.org/details/educationalpsych02thor",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "508e3ca182e0c636d44156466d9a0ff28774a4982b164adfb52a62ab30e72a81"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "ee725c62d1fd072e26f9e1f1cadab49c2812d4ddd031fffc38e5bcf8756c4f76",
+  "inputHash": "75ca1c61939694788b8c37f9946d0e598bcfa17c707c7b4d71383009bab8e224",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "chapter iii"
+    },
+    {
+      "id": "p0002",
+      "text": "Associative Learning in Man"
+    },
+    {
+      "id": "p0003",
+      "text": "varieties of learning"
+    },
+    {
+      "id": "p0004",
+      "text": "We may roughly distinguish in human learning (l) con- nection-forming of the common animal type, as when a ten- months-old baby learns to beat a drum, (2) connection- forming involving ideas, as when a two-year-old learns to think of his mother upon hearing the word, or to say candy when he thinks of the thing, (3) analysis or abstraction, as when the student of music learns to respond to an overtone in a given sound, and (4) selective thinking or reasoning, as when the school pupil learns the meaning of a Latin sentence by using his knowledge of the rules of syntax and meanings of the word-roots."
+    },
+    {
+      "id": "p0005",
+      "text": "Connection-forming of the common animal type occurs frequently in the acquisitions of early infancy, in 'picking up' swimming or skating undirected, in increasing the distance and precision of one's hits in golf or baseball by the mere try, try again method, and in similar unthinking improvement of penmanship, acting, literary style, tact in intercourse, and indeed almost every sort of ability. Such direct selection of responses to fit a situation, irrespective of ideas of either, appears in experimental studies of human learning."
+    },
+    {
+      "id": "p0006",
+      "text": "Thus, a person absorbed in reading the copy, holding it in mind and getting it typewritten as fast as he can, will modify his responses to various elements in the situations met so as to write more efficiently, without thinking of the element in question, or of how he has responded to it, or of the change he is actually making in the response. Book indeed says : \"The special introspective notes of our learners . . . revealed . . . that all new adaptations or short cuts in method were un- 2 17"
+    },
+    {
+      "id": "p0007",
+      "text": "l8 THE PSYCHOLOGY OF LEARNING"
+    },
+    {
+      "id": "p0008",
+      "text": "consciously made, i.e., fallen into by the learners quite unin- tentionally . . . The learners suddenly noticed that they were doing certain parts of the works in a new and better way, then purposely adopted it in the future.\" ['08, pp. 92 and 95]. Similarly a person whose general aim is to solve a mechanical puzzle may hit upon the solution, or some part of it, in the course of random fumbling, may hit upon it sooner in the next trial, and so progress in the learning — all with little help from ideas about the puzzle or his own move- ments. Ruger, who studied the process of learning in the case of such puzzles, quotes ['10, p. 21 ff.] samples of such approach to learning of the animal type, such as; \"I have no idea in the world how I did it. I remember moving the loop of the heart around the end of the bar, and the two pieces suddenly came apart.\" He says, in a general account of this matter :"
+    },
+    {
+      "id": "p0009",
+      "text": "\"The behavior of human subjects in the puzzle tests . . . showed many of the features usually accredited to the behavior of animals in contrast with that of human beings. The times for repeated successes in a number of cases remained high and fluctuating, the time for later trials in a given series being often greater than that for the first success. Acts which made no change in the situation whatever were at times re- peated indefinitely and without modification. In successive trials of a series, after an essential step toward a solution had been performed correctly, it was reversed and done over several times with irrelevant movements interspersed before the subject passed on to the next step ... In practically all of the cases random manipulation played some part and, in many cases, a very considerable part in the gaining of success.\" [ibid., p. 9.]"
+    },
+    {
+      "id": "p0010",
+      "text": "If the reader will trace, fairly rapidly, the outline of, say, a six-pointed star, looking only at the reflection of it and his hand given by a mirror, he will get a useful illustration of the animal-like learning by the gradual elimination of wrong re- sponses. As Starch has shown ['10], one may make, again and again, responses which thought could have told us were wrong. As he says ['10, p. 21], \"Apparently the only way"
+    },
+    {
+      "id": "p0011",
+      "text": "/"
+    },
+    {
+      "id": "p0012",
+      "text": "ASSOCIATIVE LEARNING IN MAN IQ"
+    },
+    {
+      "id": "p0013",
+      "text": "to reach the Hne is to keep on trying till one succeeds.\""
+    },
+    {
+      "id": "p0014",
+      "text": "Learning is indeed theoretically, and perhaps in fact, pos- sible without any other factors than a situation, an animal whose inner conditions it can change, the retention of certain of these conditions in the animal because they favor, and the abandonment of certain others of them because they disturb, the life-processes of the neurones concerned at the time. The bare fact of selective association of response to situation is all that is needed for certain cases of learning."
+    },
+    {
+      "id": "p0015",
+      "text": "Other cases follow the same simple associative plan, save that ideas are terms in the associated series. The familiar mental arithmetic drills of childhood, wherein we were made to \"Take 6. add 5, subtract 2, divide by 3, multiply by 5, add 9, divide by 6, and give the answer,\" differ from the long maze through which the chicks were put, essentially in that the situations, after the first 'Take 6,' and the responses, until final announcement of the answer, include ideas as components."
+    },
+    {
+      "id": "p0016",
+      "text": "The formation of connections involving ideas accounts for a major fraction of 'knowledge' in the popular sense of the term. Words heard and seen, with their meanings, events with their dates, things with their properties and values, numerical problems, such as 9 + 3 or 36 -^ 4, with their answers, persons with their characteristics, places with their adjuncts, and the like, make up the long list of situation- response bcMids where one term, at least, is the inner condition in a man which we call an idea or judgment or the like."
+    },
+    {
+      "id": "p0017",
+      "text": "Man learns also to isolate and respond to elements which for the lower animals remain inextricably imbedded in gross total situations. The furniture, conversation or behavior which to a dog are an undefined impression (such as the reader would have from looking at an unfamiliar landscape upside down or hearing a babel of Chinese speeches, or being submerged ten feet under water for the first time, or being half awakened in an unfamiliar room by an earthquake), become to man intelligible aggregates of separate 'things,' 'words,' or 'acts,' further defined and constituted by color, number, size, shape,"
+    },
+    {
+      "id": "p0018",
+      "text": "20 THE PSYCHOLOGY OF LEARNING"
+    },
+    {
+      "id": "p0019",
+      "text": "loudness, and the many elements which man analyzes out of the gross total situations of life for individual response."
+    },
+    {
+      "id": "p0020",
+      "text": "Of this analytic learning and also of the longer or shorter inferential and selective series, fuller account will be given later. The simpler connection- forming, without or with ideas as features of the situation or the response, is obviously the primary fact and will be considered first."
+    },
+    {
+      "id": "p0021",
+      "text": "THE LAWS OF HABIT"
+    },
+    {
+      "id": "p0022",
+      "text": "This sort of learning, more or less well named connection- forming, habit-formation, associative memory and association, is an obvious consequence of the laws of readiness, exercise, and effect described in Chapters IX and XII of the previous volume. By it things are put together and kept together in behavior which have gone together, often enough or with enough resulting satisfaction, and are put apart and kept apart which have been separated long enough, or whose connection has produced enough annoyance. The laws of connection forming or association or habit furnish education with two obvious general rules: — (i) Put together what should go to- gether and keep apart what should not go together. (2) Reward desirable connections and make undesirable connec- tions produce discomfort. Or, in combined form : Exercise and reward desirable connections; prevent or punish undesir- able connections. These psychological laws and educational rules for the learning process are among the elementary prin- ciples taught to beginners. They may seem so obvious as not to need statement even to beginners, much less here. But an examination of the literature of educational theory and practice and of the text-books, courses of study, and class- room exercises of schools will prove that they are neglected or misunderstood and that a thoroughgoing practical use of them is almost never made."
+    },
+    {
+      "id": "p0023",
+      "text": "Educational theorists neglect them when they explain learn- ing in terms of general faculties, such as attention, interest,"
+    },
+    {
+      "id": "p0024",
+      "text": "ASSOCIATIVE LEARNING IN MAN 21"
+    },
+    {
+      "id": "p0025",
+      "text": "memory, or juclgnient, instead of multitudes of connections; or appeal to vague forces such as learning, development, adap- tation, or adjustment instead of the defined action of the laws of exercise and effect ; or assume that the mere presence of ideas of good acts will produce those acts."
+    },
+    {
+      "id": "p0026",
+      "text": "School practice neglects them when it fancies that know- ledge of the addition combinations in higher decades (that is, 174-9. 23 + 5, 38 + 4, etc.) will come by magic after 7 + 9' 3 + 5' 8 + 4, etc., are once known : or that the dif- ficulty which pupils find in learning 'division by a fraction' will be prevented or cured by explanation of why one should 'invert and multiply' or 'multiply by the reciprocal ;' or when it gives elaborate drills in declining honus-a-nm, boni-ae-i, bono- ae-o, etc., or in conjugating amo, amas, amat, amamus, amatis, amant, amabam, amabas, amabat, etc. ; or when it uses additional lessons and retention in school as stock punishments, or grants favors to those who make the most trouble until they are granted."
+    },
+    {
+      "id": "p0027",
+      "text": "One form of misunderstanding these laws consists in sup- posing the necessity of additional factors. Thus, in the case of connections where the response is an intentional act, it used to be supposed that some special consciousness of the appropriate innervation must be present; or that some 'con- sciousness of 'willing' itself — of consent to the occurrence of the connection — must be present; or, at least, that a mental conception made up of images of the sensations aroused by the movements composing the act must be present. It was supposed, that is, that when to the situation, His mother saying, 'Take off your hat' a boy responded by taking it off. he felt himself send such motor discharges to the muscles as would serve to produce that result, or felt — 'All right, let it be so, let my hand take off my hat ;' or at least felt an anticipatory image of how his arm and hand would feel in taking it off, or in holding it, or of how his head would feel without it. As practical consequences of these two latter imaginary inter- mediaries in the process of connecting the response with the"
+    },
+    {
+      "id": "p0028",
+      "text": "22 THE PSYCHOLOGY OF LEARNING"
+    },
+    {
+      "id": "p0029",
+      "text": "situation, it was supposed that the education of the boy's 'will' in obedience would consist in teaching him either to be con- scious of the proper volitional fiats in different situations or to be conscious of the proper kinesthetic images in different situations. It was not understood that the connections not only might be, but commonly are, from the request to the act direct."
+    },
+    {
+      "id": "p0030",
+      "text": "Another form of misunderstanding consists in arbitrarily simplifying the laws by omitting the law of effect. The law of habit is supposed to be that \"practice makes perfect,\" or that the nervous system \"grows to the modes in which it is exercised,\" But practice without zeal — with equal comfort at success and failure — does not make perfect, and the nervous system grows away from the modes in which it is exercised with resulting discomfort. When the law of effect is omitted — when habit-formation is reduced to the supposed effect of mere repetition — two results are almost certain. By the re- sulting theory, little in human behavior can be explained by the law of habit; and by the resulting practice, unproductive or extremely wasteful forms of drill are encouraged."
+    },
+    {
+      "id": "p0031",
+      "text": "A third misunderstanding concerns the influence of in- terest upon the learning process. This is often supposed to act merely by favoring response to certain situations rather than to others, and to certain parts or elements of a situation rather than to other parts. But interests act upon not only the situations, but also the connecting bonds themselves. They help to decide whether any given result shall satisfy or annoy. They decide not only what sitmtions one shall attend to, but also eventually what responses one shall make. An interest in accuracy means not only that accurate work will attract at- tention, but also that one will be comfortable when he works accurately and discontented when he does not."
+    },
+    {
+      "id": "p0032",
+      "text": "There are other noteworthy cases of neglect and misunder- standing; but probably the reader is already convinced that the laws of exercise and effect are not such obvious platitudes as they perhaps at first seemed."
+    },
+    {
+      "id": "p0033",
+      "text": "ASSOCIATIVE LEARNING IN MAN 23"
+    },
+    {
+      "id": "p0034",
+      "text": "Obvious or not, they are certainly of prime importance. Both theory and practice need emphatic and frequent re- minders that man's learning is fundamentally the action of the laws of readiness, exercise, and effect. He is first of all an associative mechanism working to avoid what disturbs the life-processes of certain neurones. If we begin by fabricating imaginary powers and faculties, or if we avoid thought by loose and empty terms, or if we stay lost in wonder at the extraordinary versatility and inventiveness of the higher forms of learning, we shall never understand man's progress or con- trol his education."
+    },
+    {
+      "id": "p0035",
+      "text": "THE OPERATION OF THE LAWS OF HABIT IN MAN"
+    },
+    {
+      "id": "p0036",
+      "text": "The laws of readiness, exercise, and effect, operating in human associative learning, show the same subsidiary laws — multiple response, guidance by a total attitude or set of the organism, prepotency of elements, response to new situations in accord with already existing bonds, and the shifting of bonds by progressive changes in a situation — which animal learning reveals. But under the conditions provided by the different original nature which man learns with, and the dif- ferent environment that he learns in, these laws work in special ways and produce special effects. Since, moreover, their general importance justifies treatment beyond the bare descriptions of them given in the previous chapter, each of them will be reviewed here."
+    },
+    {
+      "id": "p0037",
+      "text": "Multiple-Response or Varied Reaction. — In the course of family and community and school life, and under the influence of self-directed education, the 'right' response is often provided from the beginning and throughout. Thus, one may not have to learn the way to the breakfast table as one path chosen from many taken, but may be led from the beginning in the way he shall go ; one may be so predisposed beforehand that 9x7 always leads to 63. There are nevertheless very many cases where rtiultiple response is the first step in learning. Try as"
+    },
+    {
+      "id": "p0038",
+      "text": "24 THE PSYCHOLOGY OF LEARNING"
+    },
+    {
+      "id": "p0039",
+      "text": "we will to secure the right response at the start and throug-h- oiit, it cannot always be done. In the pronunciation of a foreign language, in force and coherence in English com- position, or in skill at billiards or tennis, the right responses cannot be guaranteed beforehand. Further, where circum- stances can with enough care be so arranged that the selection is simply between the right response and doing nothing at all, the labor often outweighs the gain; so that the learner is wisely left to make responses of varying degrees of merit, from which the better are selected by their intrinsic satisfying- ness or the social rewards that they bring. Further, we are often careless, or ignorant of means of predisposing the learner beforehand to the right act or thought as a sole response, so that, for example, many a pupil learns that % -^ y^ = 2 only by finding that 2 rather than ^, 3^2 or 32 is approved by his teacher."
+    },
+    {
+      "id": "p0040",
+      "text": "Attitudes, Dispositions, Pre-adjustments or 'Sets.' — It is a general law of behavior that the response to any external situation is dependent upon the condition of the man, as well as upon the nature of the situation; and that, if certain conditions in the man are rated as part of the situation, the response to it depends upon the remaining conditions in the man. Consequently it is a general law of learning that the change made in a man by the action of any agent depends upon the condition of the man when the agent is acting. The condition of the man may be considered under the two heads of the more permanent or fixed and the more temporary or shifting, attitudes or 'sets.'"
+    },
+    {
+      "id": "p0041",
+      "text": "The facts are obvious, though they have been somewhat neglected by psychologists in the interest of the supposed control of behavior by too simple mechanisms of elementary association on the one hand, and too mystical powers of consciousness on the other. The situation 'a certain printed word' has different effects upon learning, according as the child in question is bent upon reading or upon spelling; the figures 126 obviously determine learning differently according"
+    },
+    {
+      "id": "p0042",
+      "text": "ASSOCIATIVE LEARNING IN MAN 2$"
+    },
+    {
+      "id": "p0043",
+      "text": "as the pupil is predisposed to copy, to add, to subtract, or to multiply; the same hand provokes one response at cribbage and another at whistp^."
+    },
+    {
+      "id": "p0044",
+      "text": "Carefully observed evidence of the so patent fact of the determination of response by the 'set' of the individual has been reported in connection with the experimental study of the thought-processes by Marbe, Watt, Ach, Messer, Biihler, and others. Naturally enough such experimental study finds that the course of thought is much more closely determined by the attitude established by the instructions given or problem set, perhaps an hour previous, than by the particular sensations and images that form the bulk of the consciousness of the moment. Anybod}- may easily secure similar evidence for himself by observing the differences in the responses which a man makes to some one situation after different previous instructions, or in the course of different total tasks."
+    },
+    {
+      "id": "p0045",
+      "text": "Still more obvious are the effects upon response of those more permanent attitudes or sets of in a man which distinguish him as Englishman or Frenchman, poet or painter, father of a family or celibate, lover or neglecter of music, eager for praise or self-sustained, and the like. The response to any situation is guided by these enduring adjustments of the man as well as by the particular bonds which the situation itself has acquired in his life."
+    },
+    {
+      "id": "p0046",
+      "text": "Only a little less obvious should be the fact that the attitude or set of the person decides not only what he will do and think, but also what he will be satisfied and annoyed by. Hunger not only puts certain actual connections in operation : it also makes certain conduction units more ready to conduct. This conditioning of the action of the law of readiness by the man's dispositions appears throughout behavior, though not so directly as its conditioning of gross external responses. The child 'set' on subtracting is less satisfied by thinking of '13' on seeing the g than he would have been had he been 'adjusted' to adding. The same state of affairs may te welcomed or rejected, and so have opposite effects on learning,"
+    },
+    {
+      "id": "p0047",
+      "text": "26 THE PSYCHOLOGY OF LEARNING"
+    },
+    {
+      "id": "p0048",
+      "text": "according as one is 'set' toward learning to shoot to kill or to shoot to maim only; or according as one is competing to throw a ball to the utmost distance or is competing to 'throw a player out at the plate.' The player of high ambitions at golf is annoyed by and gradually eliminates shots that the more modestly adjusted man would cherish. A slight alteration of the rules of a game may dispose players to feel wretchedly at a response which their attitude of the year before would have made them welcome. The radical actor who first decided to play Shylock as a tragic rather than a comic character, thereby predisposed himself not only to new facial expressions and gestures, but also to new satisfactions at tears, hushed anxiety and awe in his audience. When, in experiments in association with words, the task being to give a synonym for each, one thinks of a word's opposite, there is often an even impressive distaste and chagrin."
+    },
+    {
+      "id": "p0049",
+      "text": "The practical importance of attitudes or sets in both func- tions— of helping to determine what a man will think or do, and what he will be satisfied or annoyed by — should be obvious also. The child or man must be put in condition to use the situation, and a large part of the theory of education considers precisely this problem of getting him permanently disposed to respond to the subject-matter of instruction by zeal, open- mindedness, scientific method and the like, and temporarily disposed to extract the most value from the particular situ- ations of a given lesson. The Herbartian 'step' of preparation,. McMurry's insistence on a definite aim for the pupil, Dewey's doctrines that pupils should feel appropriate needs and take the problem-solving attitude, and Bagley's demand that ideals of general method and procedure should be present as con- trolling forces in school drills, are notable illustrations."
+    },
+    {
+      "id": "p0050",
+      "text": "The Partial or Piecemeal Activity of a Situation. — One of the commonest ways in which conditions within the man determine variations in his responses to one same external situation is by letting one or another element of the situation be prepotent in efifect. Such partial or piecemeal activity on the"
+    },
+    {
+      "id": "p0051",
+      "text": "ASSOCIATIVE LEARNING IN MAN 27"
+    },
+    {
+      "id": "p0052",
+      "text": "part of a situation is, in human learning, the rule. Only rarely does man form connections, as the lower animals so often do, with a situation as a gross total — unanalyzed, un- defined, and, as it were, without relief. He does so occasionally, as when a baby, to show off his little trick, requires the same room, the same persons present, the same tone of voice and the like. Save in early infancy and amongst the feeble-minded. however, any situation will most probably act unevenly. Some of its elements will produce only the response of neglect ; others will be bound to only a mild awareness of them ; others will connect with some energetic response of thought, feeling or action, and become positive determiners of the man's future."
+    },
+    {
+      "id": "p0053",
+      "text": "The elements which can thus shake off the rest of a situation and push themselves to the front may be in man far subtler and less conspicuously separate to sense than is the case in animals. Perhaps a majority of man's intellectual habits are bonds leading from objects which a dog or cat would never isolate from the total fields of vision or hearing in which they appear. Very many of his intellectual habits lead from words and word-series, from qualities of shape, number, color, intent, use and the like, and from relations of space, time, likeness, causation, subordination and the like — elements and relations which would move the lower animals only as the component sounds and relations of a symphony might move a six-year-old destitute of musical capacity and training."
+    },
+    {
+      "id": "p0054",
+      "text": "Such prepotent determination of the response by some element or as^ject or feature of a gross total situation is both an aid to, and a result of, analytic thinking ; it is a main factor in man's success with novel situations ; the progress of knowl- edge is far less a matter of acquaintance with more and more gross situations in the world than it is a matter of insight into the constitution and relations of long familiar ones."
+    },
+    {
+      "id": "p0055",
+      "text": "Man's habits of response to the subtler hidden elements, especially the relations which are imbedded or held in solu-"
+    },
+    {
+      "id": "p0056",
+      "text": "28 THE PSYCHOLOGY OF LEARNING"
+    },
+    {
+      "id": "p0057",
+      "text": "tion in gross situations, lead to consequences so different from habits of response to gross total situations or easily abstracted elements of them, that the essential continuity from the latter to the former has been neglected or even denied. Selective thinking, the management of abstractions and re- sponsiveness to relations are thus contrasted too sharply with memory, habit, and association by contiguity. As has been suggested, and as I shall try to prove later, the former also are matters of habit, due to the laws of readiness, exercise and effect, acting under the conditions of human capacity and training, the bonds being in the main with elements or aspects of facts and with symbols therefor."
+    },
+    {
+      "id": "p0058",
+      "text": "Assimilation or Response by Analogy. — The laws of in- stinct, exercise, and effect account for man's responses to new as well as to previously experienced situations. To any new situation man responds as he would to some situation like it, or like some element of it. In default of any bonds with it itself, bonds that he has acquired with situations resembling it, act."
+    },
+    {
+      "id": "p0059",
+      "text": "To one accustomed to the older restricted view of habits, as a set of hard and fast bonds each between one of a number of events happening to a man and some response peculiar to that event, it may seem especially perverse to treat the con- nections formed with new experiences under the same principle as is used to explain those very often repeated, very sure, and very invariable bonds, which alone he prefers to call habits. The same matter-of-fact point of view, however, which finds the laws of exercise and effect acting always, though with this or that conditioning set or attitude in the man, and with this or that element only of the total external situation influential, finds them acting also whether the situation has been experienced often, rarely, or never."
+    },
+    {
+      "id": "p0060",
+      "text": "If any learned response is made to the situation — if any- thing is done over and above what man's original nature provides — it is due to the action of use, disuse, satisfaction and discomfort. There is no arbitrary hocus pocus whereby"
+    },
+    {
+      "id": "p0061",
+      "text": "ASSOCIATIVE LEARNING IN MAN 29"
+    },
+    {
+      "id": "p0062",
+      "text": "man's nature acts in an unpredictable spasm when he is con- fronted with a new situation. His habits do not then retire to some convenient distance while some new and mysterious entities direct his behavior. On the contrary, nowhere are the bonds acquired with old situations more surely revealed ; in action than when a new situation appears. The child in the presence of a new object, the savage with a new implement, manufacturers making steam coaches or motor cars, the school boy beginning algebra, the foreigner pronouncing English — in all such cases old acquisitions are, together with original tendencies, the obvious determiners of response, exemplifying the law stated above."
+    },
+    {
+      "id": "p0063",
+      "text": "Were the situation so utterly new as to be in no respect like anything responded to before, and also so foreign to man's equipment as neither to arouse an original tendency to re- sponse nor to be like anything else that could do so, response by analogy would fail. For all response would fail. Man's nature would simply be forever blind and deaf to the situation in question. With such novel experiences as concern human learning, however, man's responses follow the law that a new situation, ahcdefghij, is responded to as ahcdelmnop (or abcdeqrstii, or fghiabyd, or the like) which has an original or learned response fitted to it. would be."
+    },
+    {
+      "id": "p0064",
+      "text": "The law of response by analogy is left somewhat vague by the vagueness of the word 'like.' 'For situation A to be like situation B' must be taken to mean, in this case, 'for A to arouse in part the same action in the man's neurones as B would.' This may or may not be such a likeness as would lead the man to affirm likeness in the course of a logical or scientific consideration of A and B. For example, diamonds and coal-dust are much alike to the scientific consideration of a chemist, but it is unlikely that a person who had never seen a diamond w'ould call it coal-dust as a result of the law of analogy. Science, as we know, is often a struggle to educate the neurones which compose man's brain to act similarly toward objects to which, by instinct and the or-"
+    },
+    {
+      "id": "p0065",
+      "text": "30 THE PSYCHOLOGY OF LEARNING"
+    },
+    {
+      "id": "p0066",
+      "text": "dinary training of life, they would respond quite differently, and to act diversely to objects which original nature and everyday experience assimilate."
+    },
+    {
+      "id": "p0067",
+      "text": "One obvious set of habits remains to be noted, which often substitute for or alternate with, or combine with, re- sponse by analogy. Children acquire early, and we all to some extent maintain, the habits of response to certain novelties in situations by staring in a futile way, saying 'I don't know,' feeling perplexed and lost, and the like. That is, man responds to the difference as well as to the likeness in a situation. By original nature differences of certain sorts provoke staring, curious examination, consternation, and the like ; by training differences provoke 'I don't know,' 'What's that?' and the like. The action of any situation, as was noted in the previous volume, is the combined action of its elements. Whatever in it has been bound to certain responses acts, by the laws of habit, to produce the phenomena of assimilation or response by analogy. Its quality or feature of foreignness, bafifling- ness, true novelty, acts by instinct or habit to produce wonder, confessions of inability, and such questionings as have in the past brought satisfying results in similar cases. We might indeed say that these apparent exceptions to response by an- alogy really illustrate it, the new novelty being treated as was the old novelty like it."
+    },
+    {
+      "id": "p0068",
+      "text": "x\\ssociative Shifting. — The same fact — that the response attached by instinct or habit to ahcde may be made to ahc, or to ahcfg — accounts for both assimilation and association shifting. Starting with response X made to ahcde, we may successively drop certain elements and add others, until the response is bound to fghij, to which perhaps it could never otherwise have become connected. Theoretically the formula of progress, from abcde to abcdef to abcfg to abfgh to afghi to fghij, might result in attaching any response whatever to any situ- ation whatever, provided only that we arrange affairs so that at every step the response X was more satisfying in its con- sequences than balking or doing anything else that the person"
+    },
+    {
+      "id": "p0069",
+      "text": "ASSOCIATP E LEARNING IN MAN 3I"
+    },
+    {
+      "id": "p0070",
+      "text": "could do. And the actu; I extent of associative shifting verifies this theoretical expecta on. It is indeed easy to shift desire from intrinsic desideri,' i to dull pieces of printed paper, to shift hatred from truly odious behavior to perfectly smooth and genial words like Progressive, Jew, or Labor Union!"
+    },
+    {
+      "id": "p0071",
+      "text": "Most important of all cases of this process is the shifting of satisfyingness and annoyingness. The physiological mech- anisms by which these potent determiners of behavior can win attachments utterly beyond, and even opposite to, those which original nature prescribes are obscure; but the fact itself is sure. Satisfyingness and annoyingness may, under the limit- ing condition noted above, be attached to any situation what- ever. So. unhappily, man may come to be made wretched by simple out-door sports, children's merriment, spectacles of cheerful courage, or the daily panorama of sensory experience. So, to his very great gain, man may come to welcome pro- ductive labor, excellence for its own sake, consistency and verification in thought, or the symbols of welfare in men wh9se faces he can never see."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-thorndike-practice-limits": {
+      "paragraphId": "p0030",
+      "start": 249,
+      "end": 343,
+      "quote": "But practice without zeal—with equal comfort at success and failure—does not make perfect.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

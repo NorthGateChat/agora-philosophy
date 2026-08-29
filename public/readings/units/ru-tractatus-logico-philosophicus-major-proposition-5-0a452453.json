@@ -1,0 +1,1185 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-tractatus-logico-philosophicus-major-proposition-5-0a452453",
+  "title": "主命题 5",
+  "englishTitle": "Major proposition 5",
+  "work": "《逻辑哲学论》",
+  "englishWork": "Tractatus Logico-Philosophicus",
+  "locator": "主命题 5",
+  "englishLocator": "Major proposition 5",
+  "version": "Wikisource 公版英文文本，《逻辑哲学论》5.6，Ogden/Ramsey 1922 年英译",
+  "englishVersion": "Wikisource public-domain English text, Tractatus 5.6, Ogden/Ramsey translation (1922)",
+  "sourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/5",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/5",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Tractatus+Logico-Philosophicus%2F5&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "f3674ff669f927dbd28e8b4e0c5e339e2fbf7d21541877d4194ebde8a4d06c8e"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "769afa7575fe6bd13b663ea1e70b66892071777f6181636adeb38f3ef82ed87d",
+  "inputHash": "ebf89e9b699667fa71cc9385316b857df5eddffc1e21405575e94c0a526f3b88",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "5 Propositions are truth-functions of elementary propositions."
+    },
+    {
+      "id": "p0002",
+      "text": "(An elementary proposition is a truth-function of itself.)"
+    },
+    {
+      "id": "p0003",
+      "text": "5.01 The elementary propositions are the truth-arguments of propositions."
+    },
+    {
+      "id": "p0004",
+      "text": "5.02 It is natural to confuse the arguments of functions with the indices of names. For I recognize the meaning of the sign containing it from the argument just as much as from the index."
+    },
+    {
+      "id": "p0005",
+      "text": "In Russell's \"+ c \", for example, \"c\" is an index which indicates that the whole sign is the addition sign for cardinal numbers. But this way of symbolizing depends on arbitrary agreement, and one could choose a simple sign instead of \"+ c \": but in \"~ p \" \" p \" is not an index but an argument; the sense of \"~ p \" cannot be understood, unless the sense of \" p \" has previously been understood. (In the name Julius Caesar, Julius is an index. The index is always part of a description of the object to whose name we attach it, e.g. The Caesar of the Julian gens.)"
+    },
+    {
+      "id": "p0006",
+      "text": "The confusion of argument and index is, if I am not mistaken, at the root of Frege's theory of the meaning of propositions and functions. For Frege the propositions of logic were names and their arguments the indices of these names."
+    },
+    {
+      "id": "p0007",
+      "text": "5.1 The truth-functions can be ordered in series. That is the foundation of the theory of probability."
+    },
+    {
+      "id": "p0008",
+      "text": "5.101 The truth-functions of every number of elementary propositions can be written in a schema of the following kind:"
+    },
+    {
+      "id": "p0009",
+      "text": "(T T T T) ( p, q ) Tautology (if p then p , and if q then q ) [ p ⊃ {\\displaystyle \\supset } p q ⊃ {\\displaystyle \\supset } q ]"
+    },
+    {
+      "id": "p0010",
+      "text": "(F T T T) ( p, q ) in words: Not both p and q . [ ∼ {\\displaystyle \\sim } ( p . q )]"
+    },
+    {
+      "id": "p0011",
+      "text": "(T F T T) ( p, q ) „ „ If q then p . [ q ⊃ {\\displaystyle \\supset } p ]"
+    },
+    {
+      "id": "p0012",
+      "text": "(T T F T) ( p, q ) „ „ If p then q . [ p ⊃ {\\displaystyle \\supset } q ]"
+    },
+    {
+      "id": "p0013",
+      "text": "(T T T F) ( p, q ) „ „ p or q . [ p ∨ {\\displaystyle \\lor } q ]"
+    },
+    {
+      "id": "p0014",
+      "text": "(F F T T) ( p, q ) „ „ Not q . [ p ∨ {\\displaystyle \\lor } q ]"
+    },
+    {
+      "id": "p0015",
+      "text": "(F T F T) ( p, q ) „ „ Not p [ p ∨ {\\displaystyle \\lor } p ]"
+    },
+    {
+      "id": "p0016",
+      "text": "(F T T F) ( p, q ) „ „ p or q , but not both. [ p . ∨ {\\displaystyle \\lor } q  : v : q . ∨ {\\displaystyle \\lor } p ]"
+    },
+    {
+      "id": "p0017",
+      "text": "(T F F T) ( p, q ) „ „ If p then q  ; and if q , then p [ p ≡ {\\displaystyle \\equiv } q ]"
+    },
+    {
+      "id": "p0018",
+      "text": "{T F T F) ( p, q ) „ „ p"
+    },
+    {
+      "id": "p0019",
+      "text": "(T T F F) ( p, q ) „ „ q"
+    },
+    {
+      "id": "p0020",
+      "text": "(F F F T) ( p, q ) „ „ Neither p nor q . [ ∨ {\\displaystyle \\lor } p . ∨ {\\displaystyle \\lor } q or p | q ]"
+    },
+    {
+      "id": "p0021",
+      "text": "(F F T F) ( p, q ) „ „ p and not q . [ p . ∨ {\\displaystyle \\lor } q ]"
+    },
+    {
+      "id": "p0022",
+      "text": "(F T F F) ( p, q ) „ „ q and not p [ q . ∨ {\\displaystyle \\lor } p ]"
+    },
+    {
+      "id": "p0023",
+      "text": "(T F F F) ( p, q ) „ „ p and q . [ p . q ]"
+    },
+    {
+      "id": "p0024",
+      "text": "(F F F F) ( p, q ) Contradiction ( p and not p and q and not q .)[ p . ∨ {\\displaystyle \\lor } p . q . ∨ {\\displaystyle \\lor } q ]"
+    },
+    {
+      "id": "p0025",
+      "text": "Those truth-possibilities of its truth-arguments, which verify the proposition, I shall call its truth-grounds."
+    },
+    {
+      "id": "p0026",
+      "text": "5.11 If the truth-grounds which are common to a number of propositions are all also truth-grounds of some one proposition, we say that the truth of this proposition follows from the truth of those propositions."
+    },
+    {
+      "id": "p0027",
+      "text": "5.12 In particular the truth of a proposition p follows from that of a proposition q , if all the truth-grounds of the second are truth-grounds of the first."
+    },
+    {
+      "id": "p0028",
+      "text": "5.121 The truth-grounds of q are contained in those of p ; p follows from q ."
+    },
+    {
+      "id": "p0029",
+      "text": "5.122 If p follows from q , the sense of \" p \" is contained in that of \" q \"."
+    },
+    {
+      "id": "p0030",
+      "text": "5.123 If a god creates a world in which certain propositions are true, he creates thereby also a world in which all propositions consequent on them are true. And similarly he could not create a world in which the proposition \" p \" is true without creating all its objects."
+    },
+    {
+      "id": "p0031",
+      "text": "5.124 A proposition asserts every proposition which follows from it."
+    },
+    {
+      "id": "p0032",
+      "text": "5.1241 \" p.q \" is one of the propositions which assert \" p \" and at the same time one of the propositions which assert \" q \"."
+    },
+    {
+      "id": "p0033",
+      "text": "Two propositions are opposed to one another if there is no significant proposition which asserts them both."
+    },
+    {
+      "id": "p0034",
+      "text": "Every proposition which contradicts another, denies it."
+    },
+    {
+      "id": "p0035",
+      "text": "5.13 That the truth of one proposition follows from the truth of other propositions, we perceive from the structure of the propositions."
+    },
+    {
+      "id": "p0036",
+      "text": "5.131 If the truth of one proposition follows from the truth of others, this expresses itself in relations in which the forms of these propositions stand to one another, and we do not need to put them in these relations first by connecting them with one another in a proposition; for these relations are internal, and exist as soon as, and by the very fact that, the propositions exist."
+    },
+    {
+      "id": "p0037",
+      "text": "5.1311 When we conclude from p v q and ~ p to q the relation between the forms of the propositions \" p v q \" and \"~ p \" is here concealed by the method of symbolizing. But if we write, e.g. instead of \" p v q \" \" p | q .|. p | q \" and instead of \"~ p \" \" p | p \" ( p | q = neither p nor q ), then the inner connexion becomes obvious."
+    },
+    {
+      "id": "p0038",
+      "text": "(The fact that we can infer fa from (x) fx shows that generality is present also in the symbol \"( x ). fx \"."
+    },
+    {
+      "id": "p0039",
+      "text": "5.132 If p follows from q , I can conclude from qp to p ; infer p from q ."
+    },
+    {
+      "id": "p0040",
+      "text": "The method of inference is to be understood from the two propositions alone."
+    },
+    {
+      "id": "p0041",
+      "text": "Only they themselves can justify the inference."
+    },
+    {
+      "id": "p0042",
+      "text": "Laws of inference, which—as in Frege and Russell—are to justify the conclusions, are senseless and would be superfluous."
+    },
+    {
+      "id": "p0043",
+      "text": "5.133 All inference takes place a priori."
+    },
+    {
+      "id": "p0044",
+      "text": "5.134 From an elementary proposition no other can be inferred."
+    },
+    {
+      "id": "p0045",
+      "text": "5.135 In no way can an inference be made from the existence of one state of affairs to the existence of another entirely different from it."
+    },
+    {
+      "id": "p0046",
+      "text": "5.136 There is no causal nexus which justifies such an inference."
+    },
+    {
+      "id": "p0047",
+      "text": "5.1361 The events of the future cannot be inferred from those of the present."
+    },
+    {
+      "id": "p0048",
+      "text": "Superstition is the belief in the causal nexus."
+    },
+    {
+      "id": "p0049",
+      "text": "5.1362 The freedom of the will consists in the fact that future actions cannot be known now. We could only know them if causality were an inner necessity, like that of logical deduction.—The connexion of knowledge and what is known is that of logical necessity."
+    },
+    {
+      "id": "p0050",
+      "text": "(\"A knows that p is the case*' is senseless if p is a tautology.)"
+    },
+    {
+      "id": "p0051",
+      "text": "5.1363 If from the fact that a proposition is obvious to us it does not follow that it is true, then obviousness is no justification for our belief in its truth."
+    },
+    {
+      "id": "p0052",
+      "text": "5.14 If a proposition follows from another, then the latter says more than the former, the former less than the latter."
+    },
+    {
+      "id": "p0053",
+      "text": "5.141 If p follows from q and q from p then they are one and the same proposition."
+    },
+    {
+      "id": "p0054",
+      "text": "5.142 A tautology follows from all propositions: it says nothing."
+    },
+    {
+      "id": "p0055",
+      "text": "5.143 Contradiction is something shared by propositions, which no proposition has in common with another. Tautology is that which is shared by all propositions, which have nothing in common with one another."
+    },
+    {
+      "id": "p0056",
+      "text": "Contradiction vanishes so to speak outside, tautology inside all propositions."
+    },
+    {
+      "id": "p0057",
+      "text": "Contradiction is the external limit of the propositions, tautology their substanceless centre."
+    },
+    {
+      "id": "p0058",
+      "text": "5.15 If T r is the number of the truth-grounds of the proposition \" r \", T rs the number of those truth-grounds of the proposition \" s \" which are at the same time truth-grounds of \" r \", then we call the ratio T rs :T r the measure of the probability which the proposition \" r \" gives to the proposition \" s \"."
+    },
+    {
+      "id": "p0059",
+      "text": "5.151 Suppose in a schema like that above in No. 5.101 T r is the number of the \"T\"'s in the proposition r , T rs the number of those \"T\"'s in the proposition s , which stand in the same columns as \"T\"'s of the proposition r ; then the proposition r gives to the proposition s the probability T rs : T r ."
+    },
+    {
+      "id": "p0060",
+      "text": "5.1511 There is no special object peculiar to probability propositions."
+    },
+    {
+      "id": "p0061",
+      "text": "5.152 Propositions which have no truth-arguments in common with one another we call independent."
+    },
+    {
+      "id": "p0062",
+      "text": "Two elementary propositions give to one another the probability ½."
+    },
+    {
+      "id": "p0063",
+      "text": "If p follows from q , the proposition q gives to the proposition p the probability 1. The certainty of logical conclusion is a limiting case of probability."
+    },
+    {
+      "id": "p0064",
+      "text": "(Application to tautology and contradiction.)"
+    },
+    {
+      "id": "p0065",
+      "text": "5.153 A proposition is in itself neither probable nor improbable. An event occurs or does not occur, there is no middle course."
+    },
+    {
+      "id": "p0066",
+      "text": "5.154 In an urn there are equal numbers of white and black balls (and no others). I draw one ball after another and put them back in the urn. Then I can determine by the experiment that the numbers of the black and white balls which are drawn approximate as the drawing continues."
+    },
+    {
+      "id": "p0067",
+      "text": "So this is not a mathematical fact."
+    },
+    {
+      "id": "p0068",
+      "text": "If then, I say, It is equally probable that I should draw a white and a black ball, this means, All the circumstances known to me (including the natural laws hypothetically assumed) give to the occurrence of the one event no more probability than to the occurrence of the other. That is they give—as can easily be understood from the above explanations—to each the probability ½."
+    },
+    {
+      "id": "p0069",
+      "text": "What I can verify by the experiment is that the occurrence of the two events is independent of the circumstances with which I have no closer acquaintance."
+    },
+    {
+      "id": "p0070",
+      "text": "5.155 The unit of the probability proposition is: The circumstances—with which I am not further acquainted—give to the occurrence of a definite event such and such a degree of probability."
+    },
+    {
+      "id": "p0071",
+      "text": "5.156 Probability is a generalization. It involves a general description of a propositional form. Only in default of certainty do we need probability."
+    },
+    {
+      "id": "p0072",
+      "text": "If we are not completely acquainted with a fact, but know something about its form."
+    },
+    {
+      "id": "p0073",
+      "text": "(A proposition can, indeed, be an incomplete picture of a certain state of affairs, but it is always a complete picture.)"
+    },
+    {
+      "id": "p0074",
+      "text": "The probability proposition is, as it were, an extract from other propositions."
+    },
+    {
+      "id": "p0075",
+      "text": "5.2 The structures of propositions stand to one another in internal relations."
+    },
+    {
+      "id": "p0076",
+      "text": "5.21 We can bring out these internal relations in our manner of expression, by presenting a proposition as the result of an operation which produces it from other propositions (the bases of the operation)."
+    },
+    {
+      "id": "p0077",
+      "text": "5.22 The operation is the expression of a relation between the structures of its result and its bases."
+    },
+    {
+      "id": "p0078",
+      "text": "5.23 The operation is that which must happen to a proposition in order to make another out of it."
+    },
+    {
+      "id": "p0079",
+      "text": "5.231 And that will naturally depend on their formal properties, on the internal similarity of their forms."
+    },
+    {
+      "id": "p0080",
+      "text": "5.232 The internal relation which orders a series is equivalent to the operation by which one term arises from another."
+    },
+    {
+      "id": "p0081",
+      "text": "5.233 The first place in which an operation can occur is where a proposition arises from another in a logically significant way; i.e. where the logical construction of the proposition begins."
+    },
+    {
+      "id": "p0082",
+      "text": "5.234 The truth-functions of elementary proposition, are results of operations which have the elementary propositions as bases. (I call these operations, truth-operations.)"
+    },
+    {
+      "id": "p0083",
+      "text": "5.2341 The sense of a truth-function of p is a function of the sense of p ."
+    },
+    {
+      "id": "p0084",
+      "text": "Denial, logical addition, logical multiplication, etc. etc., are operations."
+    },
+    {
+      "id": "p0085",
+      "text": "(Denial reverses the sense of a proposition.)"
+    },
+    {
+      "id": "p0086",
+      "text": "5.24 An operation shows itself in a variable; it shows how we can proceed from one form of proposition to another."
+    },
+    {
+      "id": "p0087",
+      "text": "It gives expression to the difference between the forms."
+    },
+    {
+      "id": "p0088",
+      "text": "(And that which is common to the bases, and the result of an operation, is the bases themselves.)"
+    },
+    {
+      "id": "p0089",
+      "text": "5.241 The operation does not characterize a form but only the difference between forms."
+    },
+    {
+      "id": "p0090",
+      "text": "5.242 The same operation which makes \" q \" from \" p \", makes \" r \" from \" q \", and so on. This can only be expressed by the fact that \" p \", \" q \", \" r \", etc., are variables which give general expression to certain formal relations."
+    },
+    {
+      "id": "p0091",
+      "text": "5.25 The occurrence of an operation does not characterize the sense of a proposition."
+    },
+    {
+      "id": "p0092",
+      "text": "For an operation does not assert anything; only its result does, and this depends on the bases of the operation."
+    },
+    {
+      "id": "p0093",
+      "text": "(Operation and function must not be confused with one another.)"
+    },
+    {
+      "id": "p0094",
+      "text": "5.251 A function cannot be its own argument, but the result of an operation can be its own basis."
+    },
+    {
+      "id": "p0095",
+      "text": "5.252 Only in this way is the progress from term to term in a formal series possible (from type to type in the hierarchy of Russell and Whitehead). (Russell and Whitehead have not admitted the possibility of this progress but have made use of it all the same.)"
+    },
+    {
+      "id": "p0096",
+      "text": "5.2521 The repeated application of an operation to its own result I call its successive application (\" O' O' O' a \" is the result of the threefold successive application of \" O' ξ \" to \" a \")."
+    },
+    {
+      "id": "p0097",
+      "text": "In a similar sense I speak of the successive application of several operations to a number of propositions."
+    },
+    {
+      "id": "p0098",
+      "text": "5.2522 The general term of the formal series a, O', a, O' O' a, ... I write thus: \"[ a, x, O' x ]\". This expression in brackets is a variable. The first term of the expression is the beginning of the formal series, the second the form of an arbitrary term x of the series, and the third the form of that term of the series which immediately follows x ."
+    },
+    {
+      "id": "p0099",
+      "text": "5.2523 The concept of the successive application of an operation is equivalent to the concept \"and so on\"."
+    },
+    {
+      "id": "p0100",
+      "text": "5.253 One operation can reverse the effect of another. Operations can cancel one another."
+    },
+    {
+      "id": "p0101",
+      "text": "5.254 Operations can vanish ( e.g. denial in \"~ ~ p \". ~ ~ p = p )."
+    },
+    {
+      "id": "p0102",
+      "text": "5.3 All propositions are results of truth-operations on the elementary propositions."
+    },
+    {
+      "id": "p0103",
+      "text": "The truth - operation is the way in which a truth - function arises from elementary propositions."
+    },
+    {
+      "id": "p0104",
+      "text": "According to the nature of truth-operations, in the same way as out of elementary propositions arise their truth-functions, from truth-functions arises a new one. Every truth-operation creates from truth-functions of elementary propositions another truth-function of elementary propositions, i.e. , a proposition. The result of every truth-operation on the results of truth-operations on elementary propositions is also the result of one truth-operation on elementary propositions."
+    },
+    {
+      "id": "p0105",
+      "text": "Every proposition is the result of truth-operations on elementary propositions."
+    },
+    {
+      "id": "p0106",
+      "text": "5.31 The Schemata No. 4.31 are also significant, if \" p \", \" q \", \" r \", etc. are not elementary propositions."
+    },
+    {
+      "id": "p0107",
+      "text": "And it is easy to see that the propositional sign in No. 4.42 expresses one truth-function of elementary propositions even when \" p \" and \" q \" are truth-functions of elementary propositions."
+    },
+    {
+      "id": "p0108",
+      "text": "5.32 All truth-functions are results of the successive application of a finite number of truth-operations to elementary propositions."
+    },
+    {
+      "id": "p0109",
+      "text": "5.4 Here it becomes clear that there are no such things as \"logical objects\" or \"logical constants\" (in the sense of Frege and Russell)."
+    },
+    {
+      "id": "p0110",
+      "text": "5.41 For all those results of truth-operations on truth-functions are identical, which are one and the same truth-function of elementary propositions."
+    },
+    {
+      "id": "p0111",
+      "text": "5.42 That ∨, ⊃ etc., are not relations in the sense of right and left, etc., is obvious."
+    },
+    {
+      "id": "p0112",
+      "text": "The possibility of crosswise definition of the logical \"primitive signs\" of Frege and Russell shows by itself that these are not primitive signs and that they signify no relations."
+    },
+    {
+      "id": "p0113",
+      "text": "And it is obvious that the \"⊃\" which we define by means of \"~\" and \"∨\" is identical with that by which we define \"∨\" with the help of \"~\", and that this \"∨\" is the same as the first, and so on."
+    },
+    {
+      "id": "p0114",
+      "text": "5.43 That from a fact p an infinite number of others should follow, namely ~ ~ p , ~ ~ ~ ~ p etc., is indeed hardly to be believed, and it is no less wonderful that the infinite number of propositions of logic (of mathematics) should follow from half a dozen \"primitive propositions\"."
+    },
+    {
+      "id": "p0115",
+      "text": "But all propositions of logic say the same thing. That is, nothing."
+    },
+    {
+      "id": "p0116",
+      "text": "5.44 Truth-functions are not material functions."
+    },
+    {
+      "id": "p0117",
+      "text": "If e.g. an affirmation can be produced by repeated denial, is the denial—in any sense—contained in the affirmation?"
+    },
+    {
+      "id": "p0118",
+      "text": "Does \" ~ ~p \" deny ~ p , or does it affirm p ; or both?"
+    },
+    {
+      "id": "p0119",
+      "text": "The proposition \" ~ ~p \" does not treat of denial as an object, but the possibility of denial is already prejudged in affirmation."
+    },
+    {
+      "id": "p0120",
+      "text": "And if there was an object called \"~\", then \"~ ~ p \" would have to say something other than \" p \". For the one proposition would then treat of ~ , the other would not."
+    },
+    {
+      "id": "p0121",
+      "text": "5.441 This disappearance of the apparent logical constants also occurs if \"   ( ∃ x )   f x {\\displaystyle ~(\\exists x)~fx} \" says the same as \"   ( x )   f x {\\displaystyle ~(x)~fx} \", or \"   ( ∃ x ) . f x . x = a {\\displaystyle ~(\\exists x).fx.x=a} \" the same as fa ."
+    },
+    {
+      "id": "p0122",
+      "text": "5.442 If a proposition is given to us then the results of all truth-operations which have it as their basis are given with it."
+    },
+    {
+      "id": "p0123",
+      "text": "5.45 If there are logical primitive signs a correct logic must make clear their position relative to one another and justify their existence. The construction of logic out of its primitive signs must become clear."
+    },
+    {
+      "id": "p0124",
+      "text": "5.451 If logic has primitive ideas these must be independent of one another. If a primitive idea is introduced it must be introduced in all contexts in which it occurs at all. One cannot therefore introduce it for one context and then again for another. For example, if denial is introduced, we must understand it in propositions of the form \"~ p \" just as in propositions like \"~( p v q )\", \"   ( ∃ x ) .   f x {\\displaystyle ~(\\exists x).~fx} \" and others. We may not first introduce it for one class of cases and then for another, for it would then remain doubtful whether its meaning in the two cases was the same, and there would be no reason to use the same way of symbolizing in the two cases."
+    },
+    {
+      "id": "p0125",
+      "text": "(In short, what Frege (\"Grundgesetze der Arithmetik\") has said about the introduction of signs by definitions holds, mutatis mutandis, for the introduction of primitive signs also.)"
+    },
+    {
+      "id": "p0126",
+      "text": "5.452 The introduction of a new expedient in the symbolism of logic must always be an event full of consequences. No new symbol may be introduced in logic in brackets or in the margin—with, so to speak, an entirely innocent face. (Thus in the \"Principia Mathematica\" of Russell and Whitehead there occur definitions and primitive propositions in words. Why suddenly words here? This would need a justification. There was none, and can be none for the process is actually not allowed.)"
+    },
+    {
+      "id": "p0127",
+      "text": "But if the introduction of a new expedient has proved necessary in one place, we must immediately ask: Where is this expedient always to be used? Its position in logic must be made clear."
+    },
+    {
+      "id": "p0128",
+      "text": "5.453 All numbers in logic must be capable of justification."
+    },
+    {
+      "id": "p0129",
+      "text": "Or rather it must become plain that there are no numbers in logic."
+    },
+    {
+      "id": "p0130",
+      "text": "There are no pre-eminent numbers."
+    },
+    {
+      "id": "p0131",
+      "text": "5.454 In logic there is no side by side, there can be no classification."
+    },
+    {
+      "id": "p0132",
+      "text": "In logic there cannot be a more general and a more special."
+    },
+    {
+      "id": "p0133",
+      "text": "5.4541 The solution of logical problems must be neat for they set the standard of neatness."
+    },
+    {
+      "id": "p0134",
+      "text": "Men have always thought that there must be a sphere of questions whose answers—a priori—are symmetrical and united into a closed regular structure."
+    },
+    {
+      "id": "p0135",
+      "text": "A sphere in which the proposition, simplex sigillum veri, is valid."
+    },
+    {
+      "id": "p0136",
+      "text": "5.46 When we have rightly introduced the logical signs, the sense of all their combinations has been already introduced with them: therefore not only \" p v q \" butalso \"~( p v~ q )\", etc. etc. We should then already have introduced the effect of all possible combinations of brackets ; and it would then have become clear that the proper general primitive signs are not \" p v q \", \"   ( ∃ x ) . f x {\\displaystyle ~(\\exists x).fx} \", etc., but the most general form of their combinations."
+    },
+    {
+      "id": "p0137",
+      "text": "5.461 The apparently unimportant fact that the apparent relations like ∨ {\\displaystyle \\lor } and ⊃ {\\displaystyle \\supset } need brackets—unlike real relations—is of great importance."
+    },
+    {
+      "id": "p0138",
+      "text": "The use of brackets with these apparent primitive signs shows that these are not the real primitive signs; and nobody of course would believe that the brackets have meaning by themselves."
+    },
+    {
+      "id": "p0139",
+      "text": "5.4611 Logical operation signs are punctuations."
+    },
+    {
+      "id": "p0140",
+      "text": "5.47 It is clear that everything which can be said beforehand about the form of all propositions at all can be said on one occasion ."
+    },
+    {
+      "id": "p0141",
+      "text": "For all logical operations are already contained in the elementary proposition. For \" f a {\\displaystyle fa} \" says the same as \"   ( ∃ x ) . f x . x = a {\\displaystyle ~(\\exists x).fx.x=a} \"."
+    },
+    {
+      "id": "p0142",
+      "text": "Where there is composition, there is argument and function, and where these are, all logical constants already are."
+    },
+    {
+      "id": "p0143",
+      "text": "One could say: the one logical constant is that which all propositions, according to their nature, have in common with one another."
+    },
+    {
+      "id": "p0144",
+      "text": "That however is the general form of proposition."
+    },
+    {
+      "id": "p0145",
+      "text": "5.471 The general form of proposition is the essence of proposition."
+    },
+    {
+      "id": "p0146",
+      "text": "5.4711 To give the essence of proposition means to give the essence of all description, therefore the essence of the world."
+    },
+    {
+      "id": "p0147",
+      "text": "5.472 The description of the most general propositional form is the description of the one and only general primitive sign in logic."
+    },
+    {
+      "id": "p0148",
+      "text": "5.473 Logic must take care of itself."
+    },
+    {
+      "id": "p0149",
+      "text": "A possible sign must also be able to signify. Everything which is possible in logic is also permitted. (\"Socrates is identical \" means nothing because there is no property which is called \"identical\". The proposition is senseless because we have not made some arbitrary determination, not because the symbol is in itself unpermissible.)"
+    },
+    {
+      "id": "p0150",
+      "text": "In a certain sense we cannot make mistakes in logic."
+    },
+    {
+      "id": "p0151",
+      "text": "5.4731 Self-evidence, of which Russell has said so much, can only be discarded in logic by language itself preventing every logical mistake. That logic is a priori consists in the fact that we cannot think illogically."
+    },
+    {
+      "id": "p0152",
+      "text": "5.4732 We cannot give a sign the wrong sense."
+    },
+    {
+      "id": "p0153",
+      "text": "5.47321 Occam's razor is, of course, not an arbitrary rule nor one justified by its practical success. It simply says that unnecessary elements in a symbolism mean nothing."
+    },
+    {
+      "id": "p0154",
+      "text": "Signs which serve one purpose are logically equivalent, signs which serve no purpose are logically meaningless."
+    },
+    {
+      "id": "p0155",
+      "text": "5.4733 Frege says: Every legitimately constructed proposition must have a sense; and I say: Every possible proposition is legitimately constructed, and if it has no sense this can only be because we have given no meaning to some of its constituent parts."
+    },
+    {
+      "id": "p0156",
+      "text": "(Even if we believe that we have done so.)"
+    },
+    {
+      "id": "p0157",
+      "text": "Thus \"Socrates is identical\" says nothing, because we have given no meaning to the word \"identical\" as adjective . For when it occurs as the sign of equality it symbolizes in an entirely different way—the symbolizing relation is another—therefore the symbol is in the two cases entirely different; the two symbols have the sign in common with one another only by accident."
+    },
+    {
+      "id": "p0158",
+      "text": "5.474 The number of necessary fundamental operations depends only on our notation."
+    },
+    {
+      "id": "p0159",
+      "text": "5.475 It is only a question of constructing a system of signs of a definite number of dimensions—of a definite mathematical multiplicity."
+    },
+    {
+      "id": "p0160",
+      "text": "5.476 It is clear that we are not concerned here with a number of primitive ideas which must be signified but with the expression of a rule."
+    },
+    {
+      "id": "p0161",
+      "text": "5.5 Every truth-function is a result of the successive application of the operation (- - - - T)( ξ {\\displaystyle \\xi } , . . . .) to elementary propositions."
+    },
+    {
+      "id": "p0162",
+      "text": "This operation denies all the propositions in the right-hand bracket and I call it the negation of these propositions."
+    },
+    {
+      "id": "p0163",
+      "text": "5.501 An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form \" ( ξ ¯ ) {\\displaystyle ({\\bar {\\xi }})} \". \" ξ {\\displaystyle \\xi } \" is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket."
+    },
+    {
+      "id": "p0164",
+      "text": "(Thus if ξ {\\displaystyle \\xi } has the 3 values P, Q, R, then ( ξ ¯ ) {\\displaystyle ({\\bar {\\xi }})} =(P,Q, R).)"
+    },
+    {
+      "id": "p0165",
+      "text": "The values of the variables must be determined."
+    },
+    {
+      "id": "p0166",
+      "text": "The determination is the description of the propositions which the variable stands for."
+    },
+    {
+      "id": "p0167",
+      "text": "How the description of the terms of the expression in brackets takes place is unessential."
+    },
+    {
+      "id": "p0168",
+      "text": "We may distinguish 3 kinds of description:"
+    },
+    {
+      "id": "p0169",
+      "text": "Direct enumeration. In this case we can place simply its constant values instead of the variable."
+    },
+    {
+      "id": "p0170",
+      "text": "Giving a function \" f x {\\displaystyle fx} \" whose values for all values of \" x {\\displaystyle x} \" are the propositions to be described."
+    },
+    {
+      "id": "p0171",
+      "text": "Giving a formal law, according to which those propositions are constructed. In this case the terms of the expression in brackets are all the"
+    },
+    {
+      "id": "p0172",
+      "text": "terms of a formal series."
+    },
+    {
+      "id": "p0173",
+      "text": "5.502 Therefore I write instead of \"(- - - - T)( ξ {\\displaystyle \\xi } , . . . .)\", \" N ( ξ ¯ ) {\\displaystyle N({\\bar {\\xi }})} \"."
+    },
+    {
+      "id": "p0174",
+      "text": "N ( ξ ¯ ) {\\displaystyle N({\\bar {\\xi }})} is the negation of all the values of the propositional variable ξ {\\displaystyle \\xi } ."
+    },
+    {
+      "id": "p0175",
+      "text": "5.503 As it is obviously easy to express how propositions can be constructed by means of this operation and how propositions are not to be constructed by means of it, this must be capable of exact expression."
+    },
+    {
+      "id": "p0176",
+      "text": "5.51 If ξ {\\displaystyle \\xi } has only one value, then N ( ξ ¯ ) {\\displaystyle N({\\bar {\\xi }})} = ∼ p {\\displaystyle \\sim p} (not p {\\displaystyle p} ), if it has two values then N ( ξ ¯ ) {\\displaystyle N({\\bar {\\xi }})} = ∼ p . ∼ q {\\displaystyle \\sim p.\\sim q} (neither p {\\displaystyle p} nor q {\\displaystyle q} )."
+    },
+    {
+      "id": "p0177",
+      "text": "5.511 How can the all-embracing logic which mirrors the world use such special catches and manipulations? Only because all these are connected into an infinitely fine network, to the great mirror."
+    },
+    {
+      "id": "p0178",
+      "text": "5.512 \" ∼ p {\\displaystyle \\sim p} \" is true if \" p {\\displaystyle p} \" is false. Therefore in the true proposition \" ∼ p {\\displaystyle \\sim p} \" \" p {\\displaystyle p} \" is a false proposition. How then can the stroke \" ∼ {\\displaystyle \\sim } \" bring it into agreement with reality?"
+    },
+    {
+      "id": "p0179",
+      "text": "That which denies in \" ∼ p {\\displaystyle \\sim p} \" is however not \" ∼ {\\displaystyle \\sim } \" but that which all signs of this notation, which deny p {\\displaystyle p} , have in common."
+    },
+    {
+      "id": "p0180",
+      "text": "Hence the common rule according to which \" ∼ p {\\displaystyle \\sim p} \", \" ∼ ∼ ∼ p {\\displaystyle \\sim \\sim \\sim p} \", \" ∼ p ∨ ∼ p {\\displaystyle \\sim p\\lor \\sim p} \", \" ∼ p . ∼ p {\\displaystyle \\sim p.\\sim p} \", etc. etc. (to infinity) are constructed. And this which is common to them all mirrors denial."
+    },
+    {
+      "id": "p0181",
+      "text": "5.513 We could say: What is common to all symbols, which assert both p {\\displaystyle p} and q {\\displaystyle q} , is the proposition \" p . q {\\displaystyle p.q} \". What is common to all symbols, which assert either p {\\displaystyle p} or q {\\displaystyle q} , is the proposition \" p ∨ q {\\displaystyle p\\lor q} \"."
+    },
+    {
+      "id": "p0182",
+      "text": "And similarly we can say: Two propositions are opposed to one another when they have nothing in common with one another; and every proposition has only one negative, because there is only one proposition which lies altogether outside it."
+    },
+    {
+      "id": "p0183",
+      "text": "Thus in Russell's notation also it appears evident that \" q : p ∨ ∼ p {\\displaystyle q:p\\lor \\sim p} \" says the same as \" q {\\displaystyle q} \"; that \" p ∨ ∼ p {\\displaystyle p\\lor \\sim p} \" says nothing."
+    },
+    {
+      "id": "p0184",
+      "text": "5.514 If a notation is fixed, there is in it a rule according to which all the propositions denying p {\\displaystyle p} are constructed, a rule according to which all the propositions asserting p {\\displaystyle p} are constructed, a rule according to which all the propositions asserting p {\\displaystyle p} or q {\\displaystyle q} are constructed, and so on. These rules are equivalent to the symbols and in them their sense is mirrored."
+    },
+    {
+      "id": "p0185",
+      "text": "5.515 It must be recognized in our symbols that what is connected by \" ∨ {\\displaystyle \\lor } \", \" . {\\displaystyle .} \", etc., must be propositions."
+    },
+    {
+      "id": "p0186",
+      "text": "And this is the case, for the symbols \" p {\\displaystyle p} \" and \" q {\\displaystyle q} \" presuppose \" ∨ {\\displaystyle \\lor } \", \"   {\\displaystyle ~} \", etc. If the sign \" p {\\displaystyle p} \" in \" p ∨ q {\\displaystyle p\\lor q} \" does not stand for a complex sign, then by itself it cannot have sense; but then also the signs \" p ∨ p {\\displaystyle p\\lor p} \", \" p . p {\\displaystyle p.p} \" etc. which have the same sense as \" p {\\displaystyle p} \" have no sense. If, however, \" p ∨ p {\\displaystyle p\\lor p} \" has no sense, then also \" p ∨ q {\\displaystyle p\\lor q} \" can have no sense."
+    },
+    {
+      "id": "p0187",
+      "text": "5.5151 Must the sign of the negative proposition be constructed by means of the sign of the positive? Why should one not be able to express the negative proposition by means of a negative fact? (Like: if \" a {\\displaystyle a} \" does not stand in a certain relation to \" b {\\displaystyle b} \", it could express that \" a R b {\\displaystyle aRb} \" is not the case.)"
+    },
+    {
+      "id": "p0188",
+      "text": "But here also the negative proposition is indirectly constructed with the positive."
+    },
+    {
+      "id": "p0189",
+      "text": "The positive proposition must presuppose the existence of the negative proposition and conversely."
+    },
+    {
+      "id": "p0190",
+      "text": "5.52 If the values of ξ {\\displaystyle \\xi } are the total values of a function f x {\\displaystyle fx} for all values of x {\\displaystyle x} , then N ξ ¯ =∼ ( ∃ x ) . f x {\\displaystyle N{\\bar {\\xi }}=\\sim (\\exists x).fx} ."
+    },
+    {
+      "id": "p0191",
+      "text": "5.521 I separate the concept all from the truth-function."
+    },
+    {
+      "id": "p0192",
+      "text": "Frege and Russell have introduced generality in connexion with the logical product or the logical sum. Then it would be difficult to understand the propositions \"   ( ∃ x ) . f x {\\displaystyle ~(\\exists x).fx} \" and \"   ( x ) . f x {\\displaystyle ~(x).fx} \" in which both ideas lie concealed."
+    },
+    {
+      "id": "p0193",
+      "text": "5.522 That which is peculiar to the \"symbolism of generality\" is firstly, that it refers to a logical prototype, and secondly, that it makes constants prominent."
+    },
+    {
+      "id": "p0194",
+      "text": "5.523 The generality symbol occurs as an argument."
+    },
+    {
+      "id": "p0195",
+      "text": "5.524 If the objects are given, therewith are all objects also given."
+    },
+    {
+      "id": "p0196",
+      "text": "If the elementary propositions are given, then therewith all elementary propositions are also given."
+    },
+    {
+      "id": "p0197",
+      "text": "5.525 It is not correct to render the proposition \"   ( ∃ x ) . f x {\\displaystyle ~(\\exists x).fx} \"—as Russell does—in words \" fx is possible \"."
+    },
+    {
+      "id": "p0198",
+      "text": "Certainty, possibility or impossibility of a state of affairs are not expressed by a proposition but by the fact that an expression is a tautology, a significant proposition or a contradiction."
+    },
+    {
+      "id": "p0199",
+      "text": "That precedent to which one would always appeal, must be present in the symbol itself."
+    },
+    {
+      "id": "p0200",
+      "text": "5.526 One can describe the world completely by completely generalized propositions, i.e. , without from the outset co-ordinating any name with a definite object."
+    },
+    {
+      "id": "p0201",
+      "text": "In order then to arrive at the customary way of expression we need simply say after an expression \"there is one and only one x , which. . . .\": and this x is a ,"
+    },
+    {
+      "id": "p0202",
+      "text": "5.5261 A completely generalized proposition is like every other proposition composite. (This is shown by the fact that in \"   ( ∃ x , ϕ ) . ϕ x {\\displaystyle ~(\\exists x,\\phi ).\\phi x} \" we must mention \" ϕ {\\displaystyle \\phi } \" and \" x {\\displaystyle x} \" separately. Both stand independently in signifying relations to the world as in the ungeneralized proposition.)"
+    },
+    {
+      "id": "p0203",
+      "text": "A characteristic of a composite symbol: it has something: in common with other symbols."
+    },
+    {
+      "id": "p0204",
+      "text": "5.5262 The truth or falsehood of every proposition alters something in the general structure of the world. And the range which is allowed to its structure by the totality of elementary propositions is exactly that which the completely general propositions delimit."
+    },
+    {
+      "id": "p0205",
+      "text": "(If an elementary proposition is true, then, at any rate, there is one more elementary proposition true.)"
+    },
+    {
+      "id": "p0206",
+      "text": "5.53 Identity of the object I express by identity of the sign and not by means of a sign of identity. Difference of the objects by difference of the signs."
+    },
+    {
+      "id": "p0207",
+      "text": "5.5301 That identity is not a relation between objects is obvious. This becomes very clear if, for example, one considers the proposition \" ( x ) : f x ⊃ . x = a {\\displaystyle (x):fx\\supset .x=a} \" What this proposition says is simply that only a {\\displaystyle a} satisfies the function f {\\displaystyle f} , and not that only such things satisfy the function f {\\displaystyle f} which have a certain relation to a {\\displaystyle a} ."
+    },
+    {
+      "id": "p0208",
+      "text": "One could of course say that in fact only a {\\displaystyle a} has this relation to a {\\displaystyle a} but in order to express this we should need the sign of identity itself."
+    },
+    {
+      "id": "p0209",
+      "text": ".5302 Russell's definition of \" = {\\displaystyle =} \" won't do; because according to it one cannot say that two objects have all their properties in common. (Even if this proposition is never true, it is nevertheless significant .)"
+    },
+    {
+      "id": "p0210",
+      "text": "5.5303 Roughly speaking: to say of two things that they are identical is nonsense, and to say of one thing that it is identical with itself is to say nothing."
+    },
+    {
+      "id": "p0211",
+      "text": "5.531 I write therefore not \" f ( a , b ) . a = b {\\displaystyle f(a,b).a=b} \" but \" f ( a , a ) {\\displaystyle f(a,a)} \" (or \" f ( b , b ) {\\displaystyle f(b,b)} \"). And not \" f ( a , b ) . ∼ a = b {\\displaystyle f(a,b).\\sim a=b} \" but \" f ( a , b ) {\\displaystyle f(a,b)} \""
+    },
+    {
+      "id": "p0212",
+      "text": "5.532 And analogously: not \" ( ∃ x , y ) . f ( x , y ) . x = y {\\displaystyle (\\exists x,y).f(x,y).x=y} \", but \" ( ∃ x ) . f ( x , x ) {\\displaystyle (\\exists x).f(x,x)} \"; and not \" ( ∃ x , y ) . f ( x , y ) . ∼ x = y {\\displaystyle (\\exists x,y).f(x,y).\\sim x=y} \" but \" ( ∃ x , y ) . f ( x , y ) {\\displaystyle (\\exists x,y).f(x,y)} \"."
+    },
+    {
+      "id": "p0213",
+      "text": "(Therefore instead of Russell's \" ( ∃ x , y ) . f ( x , y ) {\\displaystyle (\\exists x,y).f(x,y)} \": \" ( ∃ x , y ) . f ( x , y ) ∨ ( ∃ x ) . f ( x , x ) {\\displaystyle (\\exists x,y).f(x,y)\\lor (\\exists x).f(x,x)} \".)"
+    },
+    {
+      "id": "p0214",
+      "text": "5.5321 Instead of \" ( x ) . f x ⊃ x = a {\\displaystyle (x).fx\\supset x=a} \" we therefore write e.g. \" ( ∃ x ) . f x . ⊃ . f a :∼ ( ∃ x , y ) . f x . f y {\\displaystyle (\\exists x).fx.\\supset .fa:\\sim (\\exists x,y).fx.fy} \""
+    },
+    {
+      "id": "p0215",
+      "text": "And the proposition \" only one x {\\displaystyle x} satisfies f ( ) {\\displaystyle f()} \" reads: \" ( ∃ x ) . f x :∼ ( ∃ x , y ) . f x . f y {\\displaystyle (\\exists x).fx:\\sim (\\exists x,y).fx.fy} \"."
+    },
+    {
+      "id": "p0216",
+      "text": "5.533 The identity sign is therefore not an essential constituent of logical notation."
+    },
+    {
+      "id": "p0217",
+      "text": "5.534 And we see that apparent propositions like: \" a = a {\\displaystyle a=a} \", \" a = b . b = c . ⊃ a = c {\\displaystyle a=b.b=c.\\supset a=c} \", \" ( x ) . x = x {\\displaystyle (x).x=x} \", \" ( ∃ x ) . x = a {\\displaystyle (\\exists x).x=a} \", etc. cannot be written in a correct logical notation at all."
+    },
+    {
+      "id": "p0218",
+      "text": "5.535 So all problems disappear which are connected with such pseudo-propositions."
+    },
+    {
+      "id": "p0219",
+      "text": "This is the place to solve all the problems which arise through Russell's \"Axiom of Infinity\"."
+    },
+    {
+      "id": "p0220",
+      "text": "What the axiom of infinity is meant to say would be expressed in language by the fact that there is an infinite number of names with different meanings."
+    },
+    {
+      "id": "p0221",
+      "text": "5.5351 There are certain cases in which one is tempted to use expressions of the form *\" a = a {\\displaystyle a=a} \" or \" p ⊃ p {\\displaystyle p\\supset p} \". As, for instance, when one would speak of the archetype Proposition, Thing, etc. So Russell in the Principles of Mathematics has rendered the nonsense \" p is a proposition\" in symbols by \" p ⊃ p {\\displaystyle p\\supset p} \" and has put it as hypothesis before certain propositions to show that their places for arguments could only be occupied by propositions."
+    },
+    {
+      "id": "p0222",
+      "text": "(It is nonsense to place the hypothesis p ⊃ p {\\displaystyle p\\supset p} before a proposition in order to ensure that its arguments have the right form, because the hypothesis for a non-proposition as argument becomes not false but meaningless, and because the proposition itself becomes senseless for arguments of the wrong kind, and therefore it survives the wrong arguments no better and no worse than the senseless hypothesis attached for this purpose.)"
+    },
+    {
+      "id": "p0223",
+      "text": "5.5352 Similarly it was proposed to express \"There are no things\" by \" ∼ ( ∃ x ) . x = x {\\displaystyle \\sim (\\exists x).x=x} \" But even if this were a proposition—would it not be true if indeed \"There were things\", but these were not identical with themselves?"
+    },
+    {
+      "id": "p0224",
+      "text": "5.54 In the general propositional form, propositions occur in a proposition only as bases of the truth-operations."
+    },
+    {
+      "id": "p0225",
+      "text": "5.541 At first sight it appears as if there were also a different way in which one proposition could occur in another."
+    },
+    {
+      "id": "p0226",
+      "text": "Especially in certain propositional forms of psychology, like \"A thinks, that p {\\displaystyle p} is the case\", or \"A thinks p {\\displaystyle p} \", etc."
+    },
+    {
+      "id": "p0227",
+      "text": "Here it appears superficially as if the proposition p {\\displaystyle p} stood to the object A in a kind of relation."
+    },
+    {
+      "id": "p0228",
+      "text": "(And in modern epistemology (Russell, Moore, etc.) those propositions have been conceived in this way.)"
+    },
+    {
+      "id": "p0229",
+      "text": "5.542 But it is clear that \"A believes that p {\\displaystyle p} \", \"A thinks p {\\displaystyle p} \", \"A says p {\\displaystyle p} \", are of the form \"' p {\\displaystyle p} ' says p {\\displaystyle p} \": and here we have no co-ordination of a fact and an object, but a co-ordination of facts by means of a co-ordination of their objects."
+    },
+    {
+      "id": "p0230",
+      "text": "5.5421 This shows that there is no such thing as the soul—the subject, etc.—as it is conceived in contemporary superficial psychology."
+    },
+    {
+      "id": "p0231",
+      "text": "A composite soul would not be a soul any longer."
+    },
+    {
+      "id": "p0232",
+      "text": "5.5422 The correct explanation of the form of the proposition \" p {\\displaystyle p} A judges p {\\displaystyle p} \" must show that it is impossible to judge a nonsense. (Russell's theory does not satisfy this condition.)"
+    },
+    {
+      "id": "p0233",
+      "text": "5.5423 To perceive a complex means to perceive that its constituents are combined in such and such a way."
+    },
+    {
+      "id": "p0234",
+      "text": "This perhaps explains that the figure"
+    },
+    {
+      "id": "p0235",
+      "text": "can be seen in two ways as a cube; and all similar phenomena. For we really see two different facts."
+    },
+    {
+      "id": "p0236",
+      "text": "(If I fix my eyes first on the corners a and only glance at b , a appears in front and b behind, and vice versa.)"
+    },
+    {
+      "id": "p0237",
+      "text": "5.55 We must now answer a priori the question as to all possible forms of the elementary propositions."
+    },
+    {
+      "id": "p0238",
+      "text": "The elementary proposition consists of names. Since we cannot give the number of names with different meanings, we cannot give the composition of the elementary proposition."
+    },
+    {
+      "id": "p0239",
+      "text": "5.551 Our fundamental principle is that every question which can be decided at all by logic can be decided off-hand."
+    },
+    {
+      "id": "p0240",
+      "text": "(And if we get into a situation where we need to answer such a problem by looking at the world, this shows that we are on a fundamentally wrong track.)"
+    },
+    {
+      "id": "p0241",
+      "text": "5.552 The \"experience\" which we need to understand logic is not that such and such is the case, but that something is ; but that is no experience."
+    },
+    {
+      "id": "p0242",
+      "text": "Logic precedes every experience—that something is so ."
+    },
+    {
+      "id": "p0243",
+      "text": "It is before the How, not before the What."
+    },
+    {
+      "id": "p0244",
+      "text": "5.5521 And if this were not the case, how could we apply logic? We could say: if there were a logic, even if there were no world, how then could there be a logic, since there is a world?"
+    },
+    {
+      "id": "p0245",
+      "text": "5.553 Russell said that there were simple relations between different numbers of things (individuals). But between what numbers? And how should this be decided—by experience?"
+    },
+    {
+      "id": "p0246",
+      "text": "(There is no pre-eminent number.)"
+    },
+    {
+      "id": "p0247",
+      "text": "5.554 The enumeration of any special forms would be entirely arbitrary."
+    },
+    {
+      "id": "p0248",
+      "text": "5.5541 How could we decide a priori whether, for example, I can get into a situation in which I need to symbolize with a sign of a 27-termed relation?"
+    },
+    {
+      "id": "p0249",
+      "text": "5.5542 May we then ask this at all? Can we set out a sign form and not know whether anything can correspond to it?"
+    },
+    {
+      "id": "p0250",
+      "text": "Has the question sense: what must there be in order that anything can be the case?"
+    },
+    {
+      "id": "p0251",
+      "text": "5.555 It is clear that we have a concept of the elementary proposition apart from its special logical form."
+    },
+    {
+      "id": "p0252",
+      "text": "Where, however, we can build symbols according to a system, there this system is the logically important thing and not the single symbols."
+    },
+    {
+      "id": "p0253",
+      "text": "And how would it be possible that I should have to deal with forms in logic which I can invent: but I must have to deal with that which makes it possible for me to invent them."
+    },
+    {
+      "id": "p0254",
+      "text": "5.556 There cannot be a hierarchy of the forms of the elementary propositions. Only that which we ourselves construct can we foresee."
+    },
+    {
+      "id": "p0255",
+      "text": "5.5561 Empirical reality is limited by the totality of objects. The boundary appears again in the totality of elementary propositions. The hierarchies are and must be independent of reality."
+    },
+    {
+      "id": "p0256",
+      "text": "5.5562 If we know on purely logical grounds, that there must be elementary propositions, then this must be known by everyone who understands propositions in their unanalysed form."
+    },
+    {
+      "id": "p0257",
+      "text": "5.5563 All propositions of our colloquial language are actually, just as they are, logically completely in order. That simple thing which we ought to give here is not a model of the truth but the complete truth itself."
+    },
+    {
+      "id": "p0258",
+      "text": "(Our problems are not abstract but perhaps the most concrete that there are.)"
+    },
+    {
+      "id": "p0259",
+      "text": "5.557 The application of logic decides what elementary propositions there are."
+    },
+    {
+      "id": "p0260",
+      "text": "What lies in its application logic cannot anticipate."
+    },
+    {
+      "id": "p0261",
+      "text": "It is clear that logic may not conflict with its application."
+    },
+    {
+      "id": "p0262",
+      "text": "But logic must have contact with its application."
+    },
+    {
+      "id": "p0263",
+      "text": "Therefore logic and its application may not overlap one another."
+    },
+    {
+      "id": "p0264",
+      "text": "5.5571 If I cannot give elementary propositions a priori then it must lead to obvious nonsense to try to give them."
+    },
+    {
+      "id": "p0265",
+      "text": "5.6 The limits of my language mean the limits of my world."
+    },
+    {
+      "id": "p0266",
+      "text": "5.61 Logic fills the world: the limits of the world are also its limits."
+    },
+    {
+      "id": "p0267",
+      "text": "We cannot therefore say in logic: This and this there is in the world, that there is not."
+    },
+    {
+      "id": "p0268",
+      "text": "For that would apparently presuppose that we exclude certain possibilities, and this cannot be the case since otherwise logic must get outside the limits of the world: that is, if it could consider these limits from the other side also. What we cannot think, that we cannot think: we cannot therefore say what we cannot think."
+    },
+    {
+      "id": "p0269",
+      "text": "5.62 This remark provides a key to the question, to what extent solipsism is a truth."
+    },
+    {
+      "id": "p0270",
+      "text": "In fact what solipsism means , is quite correct, only it cannot be said , but it shows itself."
+    },
+    {
+      "id": "p0271",
+      "text": "That the world is my world, shows itself in the fact that the limits of the language ( the language which I understand) mean the limits of my world."
+    },
+    {
+      "id": "p0272",
+      "text": "5.621 The world and life are one."
+    },
+    {
+      "id": "p0273",
+      "text": "5.63 I am my world. (The microcosm.)"
+    },
+    {
+      "id": "p0274",
+      "text": "5.631 The thinking, presenting subject; there is no such thing."
+    },
+    {
+      "id": "p0275",
+      "text": "If I wrote a book \"The world as I found it\", I should also have therein to report on my body and say which members obey my will and which do not, etc. This then would be a method of isolating the subject or rather of showing that in an important sense there is no subject: that is to say, of it alone in this book mention could not be made."
+    },
+    {
+      "id": "p0276",
+      "text": "5.632 The subject does not belong to the world but it is a limit of the world."
+    },
+    {
+      "id": "p0277",
+      "text": "5.633 Where in the world is a metaphysical subject to be noted?"
+    },
+    {
+      "id": "p0278",
+      "text": "You say that this case is altogether like that of the eye and the field of sight. But you do not really see the eye."
+    },
+    {
+      "id": "p0279",
+      "text": "And from nothing in the field of sight can it be concluded that it is seen from an eye."
+    },
+    {
+      "id": "p0280",
+      "text": "5.6331 For the field of sight has not a form like this:"
+    },
+    {
+      "id": "p0281",
+      "text": "5.634 This is connected with the fact that no part of our experience is also a priori."
+    },
+    {
+      "id": "p0282",
+      "text": "Everything we see could also be otherwise."
+    },
+    {
+      "id": "p0283",
+      "text": "Everything we can describe at all could also be otherwise."
+    },
+    {
+      "id": "p0284",
+      "text": "There is no order of things a priori."
+    },
+    {
+      "id": "p0285",
+      "text": "5.64 Here we see that solipsism strictly carried out coincides with pure realism. The I in solipsism shrinks to an extensionless point and there remains the reality co-ordinated with it."
+    },
+    {
+      "id": "p0286",
+      "text": "5.641 There is therefore really a sense in which in philosophy we can talk of a non-psychological I."
+    },
+    {
+      "id": "p0287",
+      "text": "The I occurs in philosophy through the fact that the \"world is my world\"."
+    },
+    {
+      "id": "p0288",
+      "text": "The philosophical I is not the man, not the human body or the human soul of which psychology treats, but the metaphysical subject, the limit—not a part of the world."
+    }
+  ],
+  "anchors": {
+    "wittgenstein-language-world": {
+      "paragraphId": "p0265",
+      "start": 4,
+      "end": 58,
+      "quote": "The limits of my language mean the limits of my world.",
+      "match": "normalized-exact"
+    }
+  }
+}

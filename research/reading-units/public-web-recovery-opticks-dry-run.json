@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:20:20.932Z",
+  "inventoryPath": "research/source-cache/public-web-recovery/inventory.temp.json",
+  "overridesPath": "research/source-cache/public-web-recovery/overrides.temp.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-opticks-book-iii-2a775caf"
+  ],
+  "dryRun": true,
+  "allowNetwork": false,
+  "concurrency": 1,
+  "summary": {
+    "considered": 1,
+    "written": 0,
+    "wouldWrite": 1,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 1,
+    "anchorsMatched": 1,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-opticks-book-iii-2a775caf",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-opticks-book-iii-2a775caf.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 114,
+      "characterCount": 134884,
+      "publicByteCount": 143146,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/newton-opticks-1718-book-iii.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+      "contentHash": "5fcdb3471fe0f2b8c0650b7c7c5f381bb5fe7429450c46cef8d5149332eca7b6",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

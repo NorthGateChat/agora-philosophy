@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+  "title": "卷 III · 章 4",
+  "englishTitle": "Book III · Chapter 4",
+  "work": "《经济学原理》",
+  "englishWork": "Principles of Economics",
+  "locator": "卷 III · 章 4",
+  "englishLocator": "Book III · Chapter 4",
+  "version": "Liberty Fund OLL 英文文本，马歇尔《经济学原理》第八版，第三篇第 4 章第 1 节",
+  "englishVersion": "Liberty Fund OLL English text, Marshall, Principles of Economics, 8th edition, Book III, Chapter 4, §1",
+  "sourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "16c622977515acbbcc2232dad7cca72132686adbead8071d13b779f92dc18427"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "e4640b4520589ccbe75a96a6daf106e4b9181d1191bdc0d92c69c8683e87501c",
+  "inputHash": "7128a8a78deca16cca3518af63f47e22733703e49c4c35f85a73795a0e14bdf6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "THE ELASTICITY OF WANTS."
+    },
+    {
+      "id": "p0002",
+      "text": "BOOK III, CHAPTER IV"
+    },
+    {
+      "id": "p0003",
+      "text": "§ 1."
+    },
+    {
+      "id": "p0004",
+      "text": "We have seen that the only universal law as to a person’s desire for a commodity is that it diminishes, other things being equal, with every increase in his supply of that commodity. But this diminution may be slow or rapid. If it is slow the price that he will give for the commodity will not fall much in consequence of a considerable increase in his supply of it; and a small fall in price will cause a comparatively large increase in his purchases. But if it is rapid, a small fall in price will cause only a very small increase in his purchases. In the former case his willingness to purchase the thing stretches itself out a great deal under the action of a small inducement: the elasticity of his wants, we may say, is great. In the latter case the extra inducement given by the fall in price causes hardly any extension of his desire to purchase: the elasticity of his demand is small. If a fall in price from say 16 d. to 15 d. per lb. of tea would much increase his purchases, then a rise in price from 15 d. to 16 d. would much diminish them. That is, when the demand is elastic for a fall in price, it is elastic also for a rise."
+    },
+    {
+      "id": "p0005",
+      "text": "And as with the demand of one person so with that of a whole market. And we may say generally:—The elasticity (or responsiveness ) of demand in a market is great or small according as the amount demanded increases much or little for a given fall in price, and diminishes much or little for a given rise in price ."
+    },
+    {
+      "id": "p0006",
+      "text": "§ 2."
+    },
+    {
+      "id": "p0007",
+      "text": "The price which is so high relatively to the poor man as to be almost prohibitive, may be scarcely felt by the rich; the poor man, for instance, never tastes wine, but the very rich man may drink as much of it as he has a fancy for, without giving himself a thought of its cost. We shall therefore get the clearest notion of the law of the elasticity of demand by considering one class of society at a time. Of course there are many degrees of richness among the rich, and of poverty among the poor; but for the present we may neglect these minor subdivisions."
+    },
+    {
+      "id": "p0008",
+      "text": "When the price of a thing is very high relatively to any class, they will buy but little of it; and in some cases custom and habit may prevent them from using it freely even after its price has fallen a good deal. It may still remain set apart for a limited number of special occasions, or for use in extreme illness, etc. But such cases, though not infrequent, do not form the general rule; and anyhow as soon as it has been taken into common use, any considerable fall in its price causes a great increase in the demand for it. The elasticity of demand is great for high prices, and great, or at least considerable, for medium prices; but it declines as the price falls; and gradually fades away if the fall goes so far that satiety level is reached."
+    },
+    {
+      "id": "p0009",
+      "text": "This rule appears to hold with regard to nearly all commodities and with regard to the demand of every class; save only that the level at which high prices end and low prices begin, is different for different classes; and so again is the level at which low prices end and very low prices begin. There are however many varieties in detail; arising chiefly from the fact that there are some commodities with which people are easily satiated, and others—chiefly things used for display—for which their desire is almost unlimited. For the latter the elasticity of demand remains considerable, however low the price may fall, while for the former the demand loses nearly all its elasticity as soon as a low price has once been reached ."
+    },
+    {
+      "id": "p0010",
+      "text": "§ 3."
+    },
+    {
+      "id": "p0011",
+      "text": "There are some things the current prices of which in this country are very low relatively even to the poorer classes; such are for instance salt, and many kinds of savours and flavours, and also cheap medicines. It is doubtful whether any fall in price would induce a considerable increase in the consumption of these."
+    },
+    {
+      "id": "p0012",
+      "text": "The current prices of meat, milk and butter, wool, tobacco, imported fruits, and of ordinary medical attendance, are such that every variation in price makes a great change in the consumption of them by the working classes, and the lower half of the middle classes; but the rich would not much increase their own personal consumption of them however cheaply they were to be had. In other words, the direct demand for these commodities is very elastic on the part of the working and lower middle classes, though not on the part of the rich. But the working class is so numerous that their consumption of such things as are well within their reach is much greater than that of the rich; and therefore the aggregate demand for all things of the kind is very elastic. A little while ago sugar belonged to this group of commodities: but its price in England has now fallen so far as to be low relatively even to the working classes, and the demand for it is therefore not elastic ."
+    },
+    {
+      "id": "p0013",
+      "text": "The current prices of wall-fruit, of the better kinds of fish, and other moderately expensive luxuries are such as to make the consumption of them by the middle class increase much with every fall in price; in other words, the middle class demand for them is very elastic: while the demand on the part of the rich and on the part of the working class is much less elastic, the former because it is already nearly satiated, the latter because the price is still too high."
+    },
+    {
+      "id": "p0014",
+      "text": "The current prices of such things as rare wines, fruit out of season, highly skilled medical and legal assistance, are so high that there is but little demand for them except from the rich: but what demand there is, often has considerable elasticity. Part of the demand for the more expensive kinds of food is really a demand for the means of obtaining social distinction, and is almost insatiable ."
+    },
+    {
+      "id": "p0015",
+      "text": "§ 4."
+    },
+    {
+      "id": "p0016",
+      "text": "The case of necessaries is exceptional. When the price of wheat is very high, and again when it is very low, the demand has very little elasticity: at all events if we assume that wheat, even when scarce, is the cheapest food for man; and that, even when most plentiful, it is not consumed in any other way. We know that a fall in the price of the quartern loaf from 6 d. to 4 d. has scarcely any effect in increasing the consumption of bread. With regard to the other end of the scale it is more difficult to speak with certainty, because there has been no approach to a scarcity in England since the repeal of the corn laws. But, availing ourselves of the experience of a less happy time, we may suppose that deficits in the supply of 1, 2, 3, 4, or 5 tenths would cause a rise in price of 3, 8, 16, 28, or 45 tenths respectively . Much greater variations in prices indeed than this have not been uncommon. Thus wheat sold in London for ten shillings a bushel in 1335, but in the following year it sold for ten pence ."
+    },
+    {
+      "id": "p0017",
+      "text": "There may be even more violent changes than this in the price of a thing which is not necessary, if it is perishable and the demand for it is inelastic: thus fish may be very dear one day, and sold for manure two or three days later."
+    },
+    {
+      "id": "p0018",
+      "text": "Water is one of the few things the consumption of which we are able to observe at all prices, from the very highest down to nothing at all. At moderate prices the demand for it is very elastic. But the uses to which it can be put are capable of being completely filled: and as its price sinks towards zero the demand for it loses its elasticity. Nearly the same may be said of salt. Its price in England is so low that the demand for it as an article of food is very inelastic: but in India the price is comparatively high and the demand is comparatively elastic."
+    },
+    {
+      "id": "p0019",
+      "text": "The price of house-room, on the other hand, has never fallen very low except when a locality is being deserted by its inhabitants. Where the condition of society is healthy, and there is no check to general prosperity, there seems always to be an elastic demand for house-room, on account both of the real conveniences and the social distinction which it affords. The desire for those kinds of clothing which are not used for the purpose of display, is satiable: when their price is low the demand for them has scarcely any elasticity."
+    },
+    {
+      "id": "p0020",
+      "text": "The demand for things of a higher quality depends much on sensibility: some people care little for a refined flavour in their wine provided they can get plenty of it: others crave a high quality, but are easily satiated. In the ordinary working class districts the inferior and the better joints are sold at nearly the same price: but some well-paid artisans in the north of England have developed a liking for the best meat, and will pay for it nearly as high a price as can be got in the west end of London, where the price is kept artificially high by the necessity of sending the inferior joints away for sale elsewhere. Use also gives rise to acquired distastes as well as to acquired tastes. Illustrations which make a book attractive to many readers, will repel those whose familiarity with better work has rendered them fastidious. A person of high musical sensibility in a large town will avoid bad concerts: though he might go to them gladly if he lived in a small town, where no good concerts are to be heard, because there are not enough persons willing to pay the high price required to cover their expenses. The effective demand for first-rate music is elastic only in large towns; for second-rate music it is elastic both in large and small towns."
+    },
+    {
+      "id": "p0021",
+      "text": "Generally speaking those things have the most elastic demand, which are capable of being applied to many different uses. Water for instance is needed first as food, then for cooking, then for washing of various kinds and so on. When there is no special drought, but water is sold by the pailful, the price may be low enough to enable even the poorer classes to drink as much of it as they are inclined, while for cooking they sometimes use the same water twice over, and they apply it very scantily in washing. The middle classes will perhaps not use any of it twice for cooking; but they will make a pail of water go a good deal further for washing purposes than if they had an unlimited supply at command. When water is supplied by pipes, and charged at a very low rate by meter, many people use as much of it even for washing as they feel at all inclined to do; and when the water is supplied not by meter but at a fixed annual charge, and is laid on in every place where it is wanted, the use of it for every purpose is carried to the full satiety limit ."
+    },
+    {
+      "id": "p0022",
+      "text": "On the other hand, demand is, generally speaking, very inelastic, firstly, for absolute necessaries (as distinguished from conventional necessaries and necessaries for efficiency); and secondly, for some of those luxuries of the rich which do not absorb much of their income."
+    },
+    {
+      "id": "p0023",
+      "text": "§ 5."
+    },
+    {
+      "id": "p0024",
+      "text": "So far we have taken no account of the difficulties of getting exact lists of demand prices, and interpreting them correctly. The first which we have to consider arises from the element of time, the source of many of the greatest difficulties in economics."
+    },
+    {
+      "id": "p0025",
+      "text": "Thus while a list of demand prices represents the changes in the price at which a commodity can be sold consequent on changes in the amount offered for sale, other things being equal; yet other things seldom are equal in fact over periods of time sufficiently long for the collection of full and trustworthy statistics. There are always occurring disturbing causes whose effects are commingled with, and cannot easily be separated from, the effects of that particular cause which we desire to isolate. This difficulty is aggravated by the fact that in economics the full effects of a cause seldom come at once, but often spread themselves out after it has ceased to exist."
+    },
+    {
+      "id": "p0026",
+      "text": "To begin with, the purchasing power of money is continually changing, and rendering necessary a correction of the results obtained on our assumption that money retains a uniform value. This difficulty can however be overcome fairly well, since we can ascertain with tolerable accuracy the broader changes in the purchasing power of money."
+    },
+    {
+      "id": "p0027",
+      "text": "Next come the changes in the general prosperity and in the total purchasing power at the disposal of the community at large. The influence of these changes is important, but perhaps less so than is generally supposed. For when the wave of prosperity is descending, prices fall, and this increases the resources of those with fixed incomes at the expense of those whose incomes depend on the profits of business. The downward fluctuation of prosperity is popularly measured almost entirely by the conspicuous losses of this last class; but the statistics of the total consumption of such commodities as tea, sugar, butter, wool, etc. prove that the total purchasing power of the people does not meanwhile fall very fast. Still there is a fall, and the allowance to be made for it must be ascertained by comparing the prices and the consumption of as many things as possible."
+    },
+    {
+      "id": "p0028",
+      "text": "Next come the changes due to the gradual growth of population and wealth. For these an easy numerical correction can be made when the facts are known ."
+    },
+    {
+      "id": "p0029",
+      "text": "§ 6."
+    },
+    {
+      "id": "p0030",
+      "text": "Next, allowance must be made for changes in fashion, and taste and habit , for the opening out of new uses of a commodity, for the discovery or improvement or cheapening of other things that can be applied to the same uses with it. In all these cases there is great difficulty in allowing for the time that elapses between the economic cause and its effect. For time is required to enable a rise in the price of a commodity to exert its full influence on consumption. Time is required for consumers to become familiar with substitutes that can be used instead of it, and perhaps for producers to get into the habit of producing them in sufficient quantities. Time may be also wanted for the growth of habits of familiarity with the new commodities and the discovery of methods of economizing them."
+    },
+    {
+      "id": "p0031",
+      "text": "For instance when wood and charcoal became dear in England, familiarity with coal as a fuel grew slowly, fireplaces were but slowly adapted to its use, and an organized traffic in it did not spring up quickly even to places to which it could be easily carried by water: the invention of processes by which it could be used as a substitute for charcoal in manufacture went even more slowly, and is indeed hardly yet complete. Again, when in recent years the price of coal became very high, a great stimulus was given to the invention of economies in its use, especially in the production of iron and steam; but few of these inventions bore much practical fruit till after the high price had passed away. Again, when a new tramway or suburban railway is opened, even those who live near the line do not get into the habit of making the most of its assistance at once; and a good deal more time elapses before many of those whose places of business are near one end of the line change their homes so as to live near the other end. Again, when petroleum first became plentiful few people were ready to use it freely; gradually petroleum and petroleum lamps have become familiar to all classes of society: too much influence would therefore be attributed to the fall in price which has occurred since then, if it were credited with all the increase of consumption."
+    },
+    {
+      "id": "p0032",
+      "text": "Another difficulty of the same kind arises from the fact that there are many purchases which can easily be put off for a short time, but not for a long time. This is often the case with regard to clothes and other things which are worn out gradually, and which can be made to serve a little longer than usual under the pressure of high prices. For instance, at the beginning of the cotton famine the recorded consumption of cotton in England was very small. This was partly because retail dealers reduced their stock, but chiefly because people generally made shift to do as long as they could without buying new cotton goods. In 1864 however many found themselves unable to wait longer; and a good deal more cotton was entered for home consumption in that year, though the price was then much higher, than in either of the preceding years. For commodities of this kind then a sudden scarcity does not immediately raise the price fully up to the level, which properly corresponds to the reduced supply. Similarly after the great commercial depression in the United States in 1873 it was noticed that the boot trade revived before the general clothing trade; because there is a great deal of reserve wear in the coats and hats that are thrown aside in prosperous times as worn out, but not so much in the boots."
+    },
+    {
+      "id": "p0033",
+      "text": "§ 7."
+    },
+    {
+      "id": "p0034",
+      "text": "The above difficulties are fundamental: but there are others which do not lie deeper than the more or less inevitable faults of our statistical returns."
+    },
+    {
+      "id": "p0035",
+      "text": "We desire to obtain, if possible, a series of prices at which different amounts of a commodity can find purchasers during a given time in a market. A perfect market is a district, small or large, in which there are many buyers and many sellers all so keenly on the alert and so well acquainted with one another’s affairs that the price of a commodity is always practically the same for the whole of the district. But independently of the fact that those who buy for their own consumption, and not for the purposes of trade, are not always on the look out for every change in the market, there is no means of ascertaining exactly what prices are paid in many transactions. Again, the geographical limits of a market are seldom clearly drawn, except when they are marked out by the sea or by custom-house barriers; and no country has accurate statistics of commodities produced in it for home consumption."
+    },
+    {
+      "id": "p0036",
+      "text": "Again, there is generally some ambiguity even in such statistics as are to be had. They commonly show goods as entered for consumption as soon as they pass into the hands of dealers; and consequently an increase of dealers’ stocks cannot easily be distinguished from an increase of consumption. But the two are governed by different causes. A rise of prices tends to check consumption; but if the rise is expected to continue, it will probably, as has already been noticed, lead dealers to increase their stocks ."
+    },
+    {
+      "id": "p0037",
+      "text": "Next it is difficult to insure that the commodities referred to are always of the same quality. After a dry summer what wheat there is, is exceptionally good; and the prices for the next harvest year appear to be higher than they really are. It is possible to make allowance for this, particularly now that dry Californian wheat affords a standard. But it is almost impossible to allow properly for the changes in quality of many kinds of manufactured goods. This difficulty occurs even in the case of such a thing as tea: the substitution in recent years of the stronger Indian tea for the weaker Chinese tea has made the real increase of consumption greater than that which is shown by the statistics."
+    },
+    {
+      "id": "p0038",
+      "text": "Note on Statistics of Consumption."
+    },
+    {
+      "id": "p0039",
+      "text": "§ 8."
+    },
+    {
+      "id": "p0040",
+      "text": "General Statistics of consumption are published by many Governments with regard to certain classes of commodities. But partly for the reasons just indicated they are of very little service in helping us to trace either a causal connection between variations in prices and variations in the amounts which people will buy, or in the distribution of different kinds of consumption among the different classes of the community."
+    },
+    {
+      "id": "p0041",
+      "text": "As regards the first of these objects, viz. the discovery of the laws connecting variations in consumption consequent on variations in price, there seems much to be gained by working out a hint given by Jevons ( Theory, pp. 11, 12) with regard to shopkeepers’ books. A shopkeeper, or the manager of a co-operative store, in the working man’s quarter of a manufacturing town has often the means of ascertaining with tolerable accuracy the financial position of the great body of his customers. He can find out how many factories are at work, and for how many hours in the week, and he can hear about all the important changes in the rate of wages: in fact he makes it his business to do so. And as a rule his customers are quick in finding out changes in the price of things which they commonly use. He will therefore often find cases in which an increased consumption of a commodity is brought about by a fall in its price, the cause acting quickly, and acting alone without any admixture of disturbing causes. Even where disturbing causes are present, he will often be able to allow for their influence. For instance, he will know that as the winter comes on, the prices of butter and vegetables rise; but the cold weather makes people desire butter more and vegetables less than before: and therefore when the prices of both vegetables and butter rise towards the winter, he will expect a greater falling off of consumption in the case of vegetables than should properly be attributed to the rise in price taken alone, but a less falling off in the case of butter. If however in two neighbouring winters his customers have been about equally numerous, and in receipt of about the same rate of wages; and if in the one the price of butter was a good deal higher than in the other, then a comparison of his books for the two winters will afford a very accurate indication of the influence of changes in price on consumption. Shopkeepers who supply other classes of society must occasionally be in a position to furnish similar facts relating to the consumption of their customers."
+    },
+    {
+      "id": "p0042",
+      "text": "If a sufficient number of tables of demand by different sections of society could be obtained, they would afford the means of estimating indirectly the variations in total demand that would result from extreme variations in price, and thus attaining an end which is inaccessible by any other route. For, as a general rule, the price of a commodity fluctuates within but narrow limits; and therefore statistics afford us no direct means of guessing what the consumption of it would be, if its price were either fivefold or a fifth part of what it actually is. But we know that its consumption would be confined almost entirely to the rich if its price were very high; and that, if its price were very low, the great body of its consumption would in most cases be among the working classes. If then the present price is very high relatively to the middle or to the working classes, we may be able to infer from the laws of their demand at the present prices what would be the demand of the rich if the price were so raised so as to be very high relatively even to their means. On the other hand, if the present price is moderate relatively to the means of the rich, we may be able to infer from their demand what would be the demand of the working classes if the price were to fall to a level which is moderate relatively to their means. It is only by thus piecing together fragmentary laws of demand that we can hope to get any approach to an accurate law relating to widely different prices. (That is to say, the general demand curve for a commodity cannot be drawn with confidence except in the immediate neighbourhood of the current price, until we are able to piece it together out of the fragmentary demand curves of different classes of society. Compare the Second Section of this Chapter.)"
+    },
+    {
+      "id": "p0043",
+      "text": "When some progress has been made in reducing to definite law the demand for commodities that are destined for immediate consumption, then, but not till then, will there be use in attempting a similar task with regard to those secondary demands which are dependent on these—the demands namely for the labour of artisans and others who take part in the production of things for sale; and again the demand for machines, factories, railway material and other instruments of production. The demand for the work of medical men, of domestic servants and of all those whose services are rendered direct to the consumer is similar in character to the demand for commodities for immediate consumption, and its laws may be investigated in the same manner."
+    },
+    {
+      "id": "p0044",
+      "text": "It is a very important, but also difficult task to ascertain the proportions in which the different classes of society distribute their expenditure between necessaries, comforts and luxuries; between things that provide only present pleasure, and those that build up stores of physical and moral strength; and lastly between those which gratify the lower wants and those which stimulate and educate the higher wants. Several endeavours have been made in this direction on the Continent during the last fifty years; and latterly the subject has been investigated with increasing vigour not only there but also in America and in England ."
+    },
+    {
+      "id": "p0045",
+      "text": "69."
+    },
+    {
+      "id": "p0046",
+      "text": "We may say that the elasticity of demand is one, if a small fall in price will cause an equal proportionate increase in the amount demanded: or as we may say roughly, if a fall of one per cent. in price will increase the sales by one per cent.; that it is two or a half, if a fall of one per cent. in price makes an increase of two or one half per cent. respectively in the amount demanded; and so on. (This statement is rough; because 98 does not bear exactly the same proportion to 100 that 100 does to 102.) The elasticity of demand can be best traced in the demand curve with the aid of the following rule. Let a straight line touching the curve at any point P meet Ox in T and Oy in t, then the measure of the elasticity at the point P is the ratio of PT to Pt."
+    },
+    {
+      "id": "p0047",
+      "text": "If PT were twice Pt, a fall of 1 per cent. in price would cause an increase of 2 per cent., in the amount demanded; the elasticity of demand would be two. If PT were one-third of Pt, a fall of 1 per cent. in price would cause an increase of 1/3 per cent. in the amount demanded; the elasticity of demand would be one-third; and so on. Another way of looking at the same result is this:—the elasticity at the point P is measured by the ratio of PT to Pt, that is of MT to MO ( PM being drawn perpendicular to Om ); and therefore the elasticity is equal to one when the angle TPM is equal to the angle OPM; and it always increases when the angle TPM increases relatively to the angle OPM, and vice versâ. See Note III. in the Mathematical Appendix."
+    },
+    {
+      "id": "p0048",
+      "text": "70."
+    },
+    {
+      "id": "p0049",
+      "text": "Let us illustrate by the case of the demand for, say, green peas in a town in which all vegetables are bought and sold in one market. Early in the season perhaps 100 lb. a day will be brought to market and sold at 1 s. per lb., later on 500 lb. will be brought and sold at 6 d., later on 1,000 lb. at 4 d., later still 5,000 at 2 d., and later still 10,000 at 1½ d. Thus demand is represented in fig. (4), an inch along Ox representing 5,000 lbs. and an inch along Oy representing 10 d. Then a curve through p 1 p 2 … p 5 , found as shown above, will be the total demand curve. But this total demand will be made up of the demands of the rich, the middle class and the poor. The amounts that they will severally demand may perhaps be represented by the following schedules:—"
+    },
+    {
+      "id": "p0050",
+      "text": "At price in Number of lbs. bought by"
+    },
+    {
+      "id": "p0051",
+      "text": "pence per lb. rich middle class poor Total"
+    },
+    {
+      "id": "p0052",
+      "text": "12 100 0 0 100"
+    },
+    {
+      "id": "p0053",
+      "text": "6 300 200 0 500"
+    },
+    {
+      "id": "p0054",
+      "text": "4 500 400 100 1,000"
+    },
+    {
+      "id": "p0055",
+      "text": "2 800 2,500 1,700 5,000"
+    },
+    {
+      "id": "p0056",
+      "text": "1½ 1,000 4,000 5,000 10,000"
+    },
+    {
+      "id": "p0057",
+      "text": "These schedules are translated into curves figs. (5), (6), (7), showing the demands of the rich, the middle class and the poor represented on the same scale as fig. (4). Thus for instance AH, BK and CL each represents a price of 2 d. and is .2 inches in length; OH = .16 in. representing 800 lb., OK = .5 in. representing 2,500 lb. and OL = .34 in. representing 1,700 lb., while OH + OK + OL = 1 inch, i.e. = Om 4 in fig. (4) as they should do. This may serve as an example of the way in which several partial demand curves, drawn to the same scale, can be superimposed horizontally on one another to make the total demand curve representing the aggregate of the partial demand."
+    },
+    {
+      "id": "p0058",
+      "text": "71."
+    },
+    {
+      "id": "p0059",
+      "text": "We must however remember that the character of the demand schedule for any commodity depends in a great measure on whether the prices of its rivals are taken to be fixed or to alter with it. If we separated the demand for beef from that for mutton, and supposed the price of mutton to be held fixed while that for beef was raised, then the demand for beef would become extremely elastic. For any slight fall in the price of beef would cause it to be used largely in the place of mutton and thus lead to a very great increase of its consumption: while on the other hand even a small rise in price would cause many people to eat mutton to the almost entire exclusion of beef. But the demand schedule for all kinds of fresh meat taken together, their prices being supposed to retain always about the same relation to one another, and to be not very different from those now prevailing in England, shows only a moderate elasticity. And similar remarks apply to beet-root and cane-sugar. Compare the note on p. 100."
+    },
+    {
+      "id": "p0060",
+      "text": "72."
+    },
+    {
+      "id": "p0061",
+      "text": "See above ch. II. § 1. In April 1894, for instance, six plovers’ eggs, the first of the season, were sold in London at 10 s. 6 d. each. The following day there were more, and the price fell to 5 s.; the next day to 3 s. each; and a week later to 4 d."
+    },
+    {
+      "id": "p0062",
+      "text": "73."
+    },
+    {
+      "id": "p0063",
+      "text": "This estimate is commonly attributed to Gregory King. Its bearing on the law of demand is admirably discussed by Lord Lauderdale ( Inquiry, pp. 51-3). It is represented in fig. (8) by the curve DD ‘, the point A corresponding to the ordinary price. If we take account of the fact that where the price of wheat is very low, it may be used, as it was for instance in 1834, for feeding cattle and sheep and pigs and for brewing and distilling, the lower part of the curve would take a shape somewhat like that of the dotted line in the figure. And if we assume that when the price is very high, cheaper substitutes can be got for it, the upper part of the curve would take a shape similar to that of the upper dotted line."
+    },
+    {
+      "id": "p0064",
+      "text": "74."
+    },
+    {
+      "id": "p0065",
+      "text": "Chronicon Preciosum (A.D. 1745) says that the price of wheat in London was as low as 2 s. a quarter in 1336: and that at Leicester it sold at 40 s. on a Saturday, and at 14 s. on the following Friday."
+    },
+    {
+      "id": "p0066",
+      "text": "75."
+    },
+    {
+      "id": "p0067",
+      "text": "Thus the general demand of any one person for such a thing as water is the aggregate (or compound, see V. VI. 3) of his demand for it for each use; in the same way as the demand of a group of people of different orders of wealth for a commodity, which is serviceable in only one use, is the aggregate of the demands of each member of the group. Again, just as the demand of the rich for peas is considerable even at a very high price, but loses all elasticity at a price that is still high relatively to the consumption of the poor; so the demand of the individual for water to drink is considerable even at a very high price, but loses all elasticity at a price that is still high relatively to his demand for it for the purpose of cleaning up the house. And as the aggregate of a number of demands on the part of different classes of people for peas retains elasticity over a larger range of price than will that of any one individual, so the demand of an individual for water for many uses retains elasticity over a larger range of prices than his demand for it for any one use. Compare an article by J. B. Clark on A Universal Law of Economic Variation in the Harvard Journal of Economics, Vol. VIII."
+    },
+    {
+      "id": "p0068",
+      "text": "76."
+    },
+    {
+      "id": "p0069",
+      "text": "When a statistical table shows the gradual growth of the consumption of a commodity over a long series of years, we may want to compare the percentage by which it increases in different years. This can be done pretty easily with a little practice. But when the figures are expressed in the form of a statistical diagram, it cannot easily be done, without translating the diagram back into figures; and this is a cause of the disfavour in which many statisticians hold the graphic method. But by the knowledge of one simple rule the balance can be turned, so far as this point goes, in favour of the graphic method. The rule is as follows:—Let the quantity of a commodity consumed (or of trade carried, or of tax levied etc.) be measured by horizontal lines parallel to Ox, fig. (9), while the corresponding years are in the usual manner ticked off in descending order at equal distances along Oy. To measure the rate of growth at any point P, put a ruler to touch the curve at P. Let it meet Oy in t, and let N be the point on Oy at the same vertical height as P: then the number of years marked off along Oy by the distance Nt is the inverse of the fraction by which the amount is increasing annually. That is, if Nt is 20 years, the amount is increasing at the rate of 1/20, i.e. of 5 per cent. annually; if Nt is 25 years, the increase is 1/25 or 4 per cent. annually; and so on. See a paper by the present writer in the Jubilee number of the Journal of the London Statistical Society, June 1885; also Note IV, in the Mathematical Appendix."
+    },
+    {
+      "id": "p0070",
+      "text": "77."
+    },
+    {
+      "id": "p0071",
+      "text": "For illustrations of the influence of fashion see articles by Miss Foley in the Economic Journal, Vol. III., and Miss Heather Bigg in the Nineteenth Century, Vol. XXIII."
+    },
+    {
+      "id": "p0072",
+      "text": "78."
+    },
+    {
+      "id": "p0073",
+      "text": "In examining the effects of taxation, it is customary to compare the amounts entered for consumption just before and just after the imposition of the tax. But this is untrustworthy. For dealers anticipating the tax lay in large stocks just before it is imposed, and need to buy very little for some time afterwards. And vice versâ when a tax is lowered. Again, high taxes lead to false returns. For instance, the nominal importation of molasses into Boston increased fiftyfold in consequence of the tax being lowered by the Rockingham Ministry in 1766, from 6 d. to 1 d. per gallon. But this was chiefly due to the fact that with the tax at 1 d., it was cheaper to pay the duty than to smuggle."
+    },
+    {
+      "id": "p0074",
+      "text": "79."
+    },
+    {
+      "id": "p0075",
+      "text": "A single table made out by the great statistician Engel for the consumption of the lower, middle and working classes in Saxony in 1857, may be quoted here; because it has acted as a guide and a standard of comparison to later inquiries. It is as follows:—"
+    },
+    {
+      "id": "p0076",
+      "text": "Proportions of the Expenditure of the Family of—"
+    },
+    {
+      "id": "p0077",
+      "text": "Items of Expenditure. 1. Workman with an Income of 45 l. to 60 l. a Year. 2. Workman with an Income of 90 l. to 120 l. 3. Middle-Class person with an Income of 150 l. to 200 l."
+    },
+    {
+      "id": "p0078",
+      "text": "1. Food only 62.0 per cent. 55.0 per cent. 50.0 per cent."
+    },
+    {
+      "id": "p0079",
+      "text": "2. Clothing 16.0   “ 18.0   “ 18.0   “"
+    },
+    {
+      "id": "p0080",
+      "text": "3. Lodging 12.0   “ 12.0   “ 12.0   “"
+    },
+    {
+      "id": "p0081",
+      "text": "4. Light and fuel 5.0   “ 5.0   “ 5.0   “"
+    },
+    {
+      "id": "p0082",
+      "text": "5. Education 2.0   “ 3.5   “ 5.5   “"
+    },
+    {
+      "id": "p0083",
+      "text": "6. Legal protection 1.0   “ 2.0   “ 3.0   “"
+    },
+    {
+      "id": "p0084",
+      "text": "7. Care of health 1.0   “ 2.0   “ 3.0   “"
+    },
+    {
+      "id": "p0085",
+      "text": "8. Comfort and recreation 1.0   “ 2.5   “ 3.5   “"
+    },
+    {
+      "id": "p0086",
+      "text": "Totals 100.0 per cent. 100.0 per cent. 100.0 per cent."
+    },
+    {
+      "id": "p0087",
+      "text": "Working-men’s budgets have often been collected and compared. But like all other figures of the kind they suffer from the facts that those who will take the trouble to make such returns voluntarily are not average men, that those who keep careful accounts are not average men; and that when accounts have to be supplemented by the memory, the memory is apt to be biassed by notions as to how the money ought to have been spent, especially when the accounts are put together specially for another’s eye. This border-ground between the provinces of domestic and public economy is one in which excellent work may be done by many who are disinclined for more general and abstract speculations."
+    },
+    {
+      "id": "p0088",
+      "text": "Information bearing on the subject was collected long ago by Harrison, Petty, Cantillon (whose lost Supplement seems to have contained some workmen’s budgets), Arthur Young, Malthus and others. Working-men’s budgets were collected by Eden at the end of the last century; and there is much miscellaneous information on the expenditure of the working classes in subsequent Reports of Commissions on Poor-relief, Factories, etc. Indeed almost every year sees some important addition from public or private sources to our information on these subjects."
+    },
+    {
+      "id": "p0089",
+      "text": "It may be noted that the method of le Play’s monumental Les Ouvriers Européens is the intensive study of all the details of the domestic life of a few carefully chosen families. To work it well requires a rare combination of judgment in selecting cases, and of insight and sympathy in interpreting them. At its best, it is the best of all: but in ordinary hands it is likely to suggest more untrustworthy general conclusions, than those obtained by the extensive method of collecting more rapidly very numerous observations, reducing them as far as possible to statistical form, and obtaining broad averages in which inaccuracies and idiosyncrasies may be trusted to counteract one another to some extent."
+    }
+  ],
+  "anchors": {
+    "economics-marshall-elasticity": {
+      "paragraphId": "p0005",
+      "start": 95,
+      "end": 313,
+      "quote": "The elasticity (or responsiveness) of demand in a market is great or small according as the amount demanded increases much or little for a given fall in price, and diminishes much or little for a given rise in price.",
+      "match": "normalized-exact"
+    }
+  }
+}

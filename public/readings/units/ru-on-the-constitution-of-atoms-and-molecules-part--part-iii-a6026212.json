@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-the-constitution-of-atoms-and-molecules-part--part-iii-a6026212",
+  "title": "部分 III",
+  "englishTitle": "Part III",
+  "work": "《论原子和分子的构造》第一部分",
+  "englishWork": "On the Constitution of Atoms and Molecules, Part I",
+  "locator": "部分 III",
+  "englishLocator": "Part III",
+  "version": "古登堡计划原刊扫描与文本，玻尔《论原子和分子的构造》第一部分，《哲学杂志》26 卷（1913）第 70—71 页，结尾假设第 1—2 项；项目间删节以省略号标示",
+  "englishVersion": "Project Gutenberg original journal scan and text, Bohr, On the Constitution of Atoms and Molecules, Part I, Philosophical Magazine 26 (1913), pp. 70–71, closing assumptions 1–2; omission between items marked with an ellipsis",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/72787/pg72787-images.html",
+  "source": {
+    "contentType": "text/html",
+    "sha256": "3dfb297e9bd749a105fd9f7e7ef33736933714fc5f954d15d367dabb907733c6"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "996b75bd00130a4b27ceae3bf578f7aa730256895c5b92c0e334cdf3f126b4f6",
+  "inputHash": "fdb26e9f6cee76c68989d169b9b16893ef3c46c3dcee1501ff2f4411232baddc",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Part III.—SYSTEMS CONTAINING SEVERAL NUCLEI\n\n."
+    },
+    {
+      "id": "p0002",
+      "text": "§1. Preliminary."
+    },
+    {
+      "id": "p0003",
+      "text": "ACCORDING to Rutherford's theory of the structure of atoms, the difference between an atom of an element and a molecule of a chemical combination is that the first consists of a cluster of electrons surrounding a single positive nucleus of exceedingly small dimensions and of a mass great in comparison with that of the electrons, while the latter contains at least two nuclei at distances from each other comparable with the distances apart of the electrons in the surrounding cluster."
+    },
+    {
+      "id": "p0004",
+      "text": "The leading idea used in the former papers was that the atoms were formed through the successive binding by the nucleus of a number of electrons initially nearly at rest."
+    },
+    {
+      "id": "p0005",
+      "text": "[Pg 54]"
+    },
+    {
+      "id": "p0006",
+      "text": "Such a conception, however, cannot be utilized in considering the formation of a system containing more than a single nucleus; for in the latter case there will be nothing to keep the nuclei together during the binding of the electrons. In this connexion it may be noticed that while a single nucleus carrying a large positive charge is able to bind a small number of electrons, on the contrary, two nuclei highly charged obviously cannot be kept together by the help of a few electrons. We must therefore assume that configurations containing several nuclei are formed by the interaction of systems—each containing a single nucleus—which already have bound a number of electrons."
+    },
+    {
+      "id": "p0007",
+      "text": "§2 deals with the configuration and stability of a system already formed. We shall consider only the simple case of a system consisting of two nuclei and of a ring of electrons rotating round the line connecting them; the result of the calculation, however, gives indication of what configurations are to be expected in more complicated cases. As in the former papers, we shall assume that the conditions of equilibrium can be deduced by help of the ordinary mechanics. In determining the absolute dimensions and the stability of the systems, however, we shall use the main hypothesis of Part I. According to this, the angular momentum of every electron round the centre of its orbit is equal to a universal value where is Planck’s constant; further, the stability is determined by the condition that the total energy of the system is less than in any neighbouring configuration satisfying the same condition of the angular momentum of the electrons."
+    },
+    {
+      "id": "p0008",
+      "text": "In §3 the configuration to be expected for a hydrogen molecule is discussed in some detail."
+    },
+    {
+      "id": "p0009",
+      "text": "§4 deals with the mode of formation of the systems. A simple method of procedure is indicated, by which it is possible to follow, step by step, the combination of two atoms to form a molecule. The configuration obtained will be shown to satisfy the conditions used in §2 . The part played in the considerations by the angular momentum of the electrons strongly supports the validity of the main hypothesis."
+    },
+    {
+      "id": "p0010",
+      "text": "§5 contains a few indications of the configurations to be expected for systems containing a greater number of electrons."
+    },
+    {
+      "id": "p0011",
+      "text": "[Pg 55]"
+    },
+    {
+      "id": "p0012",
+      "text": "§2. Configurations and Stability of the Systems."
+    },
+    {
+      "id": "p0013",
+      "text": "Let us consider a system consisting of two positive nuclei of equal charges and a ring of electrons rotating round the line connecting them. Let the number of electrons in the ring be , the charge of an electron , and the charge on each nucleus . As can be simply shown, the system will be in equilibrium if the nuclei are the same distance apart from the plane of the ring and if the ratio between the diameter of the ring and the distance apart of the nuclei is given by provided that the frequency of revolution is of a magnitude such that for each of the electrons the centrifugal force balances the radial force due to the attraction of the nuclei and the repulsion of the other electrons. Denoting this force by , we get from the condition of the universal constancy of the angular momentum of the electrons, as shown in Part II. p. 28 , The total energy necessary to remove all the charged particles to infinite distances from each other is equal to the total kinetic energy of the electrons and is given by For the system in question we have where a table of is given in Part II. p. 32"
+    },
+    {
+      "id": "p0014",
+      "text": "To test the stability of the system we have to consider displacements of the orbits of the electrons relative to the nuclei, and also displacements of the latter relative to each other."
+    },
+    {
+      "id": "p0015",
+      "text": "A calculation based on the ordinary mechanics gives that the systems [Pg 56] are unstable for displacements of the electrons in the plane of the ring. As for the systems considered in Part II. , we shall, however, assume that the ordinary principles of mechanics cannot be used in discussing the problem in question, and that the stability of the systems for the displacements considered is secured through the introduction of the hypothesis of the universal constancy of the angular momentum of the electrons. This assumption is included in the condition of stability stated in §1 . It should be noticed that in Part II. the quantity was taken as a constant, while for the systems considered here, , for fixed positions of the nuclei, varies with the radius of the ring. A simple calculation, however, similar to that given in Part II. on p. 30 , shows that the increase in the total energy of the system for a variation of the radius of the ring from a to , neglecting powers of a greater than the second, is given by where is the total kinetic energy and the potential energy of the system. Since for fixed positions of the nuclei increases for increasing , the term dependent on the variation of will be positive, and the system will consequently be stable for the displacement in question."
+    },
+    {
+      "id": "p0016",
+      "text": "From considerations exactly corresponding to those given in Part II. on p. 31 , we get for the conditional stability for displacements of the electrons perpendicular to the plane of the ring where has the same signification as in Part II. , and denotes the component, perpendicular to the plane of the ring, of the force due to the nuclei, which acts upon one of the electrons in the ring when it has suffered a small displacement perpendicular to the plane of the ring. As for the systems considered in Part II. , the displacements can be imagined to be produced by the effect of extraneous forces acting upon the electrons in direction parallel to the axis of the system."
+    },
+    {
+      "id": "p0017",
+      "text": "For a system of two nuclei each of charge and with a ring of electrons, we find [Pg 57] By help of this expression and using the table for given on p. 32 in Part II., it can be simply shown that the system in question will not be stable unless and equal to or ."
+    },
+    {
+      "id": "p0018",
+      "text": "In considering the stability of the systems for a displacement of the nuclei relative to each other, we shall assume that the motions of the nuclei are so slow that the state of motion of the electrons at any moment will not differ sensibly from that calculated on the assumption that the nuclei are at rest. This assumption is permissible on account of the great mass of the nuclei compared with that of the electrons, which involves that the vibrations resulting from a displacement of the nuclei are very slow compared with those due to a displacement of the electrons. For a system consisting of a ring of electrons and two nuclei of equal charge, we shall thus assume that the electrons at any moment daring the displacement of the nuclei move in circular orbits in the plane of symmetry of the latter."
+    },
+    {
+      "id": "p0019",
+      "text": "Let us now imagine that, by help of extraneous forces acting on the nuclei, we slowly vary the distance between them. During the displacement the radius of the ring of electrons will vary in consequence of the alteration of the radial force due to the attraction of the nuclei. During this variation the angular momentum of each of the electrons round the line connecting the nuclei will remain constant. If the distance apart of the nuclei increases, the radius of the ring will obviously also increase; the radius, however, will increase at a slower rate than the distance between the nuclei. For example, imagine a displacement in which the distance as well as the radius are both increased to a times their original value. In the new configuration the radial force acting on an electron from the nuclei and the other electrons is times that in the original configuration. From the constancy of the angular momentum of the electrons during the displacement, it further follows that the velocity of the electrons in the new configuration is times, and the centrifugal force times that in the original. Consequently, the radial force is greater than the centrifugal force."
+    },
+    {
+      "id": "p0020",
+      "text": "On account of the distance between the nuclei increasing faster than the radius of the ring, the attraction on one of the nuclei due to the ring will be greater than the repulsion from the other nucleus. The work done during the displacement by the extraneous forces acting on the nuclei will therefore be positive, and the system will be stable [Pg 58] for the displacement. Obviously the same result will hold in the case of the distance between the nuclei diminishing. It may be noticed that in the above considerations we have not made use of any new assumption on the dynamics of the electrons, but have only used the principle of the invariance of the angular momentum, which is common both for the ordinary mechanics and for the main hypothesis of §1 ."
+    },
+    {
+      "id": "p0021",
+      "text": "For a system consisting of a ring of electrons and two nuclei of unequal charge, the investigation of the stability is more complicated. As before, we find that the systems are always stable for displacements of the electrons in the plane of the ring; also an expression corresponding to (4) will hold for the condition of stability for displacements perpendicular to the plane of the ring. This condition, however, will not be sufficient to secure the stability of the system. For a displacement of the electrons perpendicular to the plane of the ring, the variation of the radial force due to the nuclei will be of the same order of magnitude as the displacement; therefore, in the new configuration the radial force will not be in equilibrium with the centrifugal force, and, if the radius of the orbits is varied until the radial equilibrium is restored, the energy of the system will decrease. This circumstance must be taken into account in applying the condition of stability of §1 . Similar complications arise in the calculation of stability for displacements of the nuclei. For a variation of the distance apart of the nuclei not only will the radius of the ring vary but also the ratio in which the plane of the ring divides the line connecting the nuclei. As a consequence, the full discussion of the general case is rather lengthy; an approximate numerical calculation, however, shows that the systems, as in the former case, will be unstable unless the charges on the nuclei are small and the ring contains very few electrons."
+    },
+    {
+      "id": "p0022",
+      "text": "The above considerations suggest configurations of systems, consisting of two positive nuclei and a number of electrons, which are consistent with the arrangement of the electrons to be expected in molecules of chemical combinations. If we thus consider a neutral system containing two nuclei with great charges, it follows that in a stable configuration the greater part of the electrons must be arranged around each nucleus approximately as if the other nucleus were absent; and that only a few of the outer electrons will be arranged differently rotating in a ring round the line connecting the nuclei, The latter ring, which keeps the system together, represents the chemical “bond.”"
+    },
+    {
+      "id": "p0023",
+      "text": "[Pg 59]"
+    },
+    {
+      "id": "p0024",
+      "text": "A first rough approximation of the possible configuration of such a ring can be obtained by considering simple systems consisting of a single ring rotating round the line connecting two nuclei of minute dimensions. A detailed discussion, however, of the configuration of systems containing a greater number of electrons, taking the effect of inner rings into account, involves elaborate numerical calculations. Apart from a few indications given in §5 , we shall in this paper confine ourselves to systems containing very few electrons."
+    },
+    {
+      "id": "p0025",
+      "text": "§3. Systems containing few Electrons. The Hydrogen Molecule."
+    },
+    {
+      "id": "p0026",
+      "text": "Among the systems considered in §2 and found to be stable the system formed of a ring of two electrons and of two nuclei of charge is of special interest, as it, according to the theory, may be expected to represent a neutral hydrogen molecule."
+    },
+    {
+      "id": "p0027",
+      "text": "Denoting the radius of the ring by and the distances apart of the nuclei from the plane of the ring by , we get from (1), putting and , from (4) we further get From (2) and (3) we get, denoting as in Part II. the values of , and for a system consisting of a single electron rotating round a nucleus of charge (a hydrogen atom) by , , and , Since , it follows that two hydrogen atoms combine into a molecule with emission of energy. Putting (comp. Part II. p. 38 ) and , where is the number of molecules in a gram-molecule, we get for the energy emitted during the formation of a gram-molecule of hydrogen from hydrogen atoms , which corresponds to . This value is of the right order of magnitude; it is, however, considerably less than the value found by Langmuir by measuring the heat conduction through the gas from an incandescent wire in hydrogen. On account of the indirect method employed it seems [Pg 60] difficult to estimate the accuracy to be ascribed to the latter value. In order to bring the theoretical value in agreement with Langmuir’s value, the magnitude of the angular momentum of the electrons should be only ⅔ of that adopted; this seems, however, difficult to reconcile with the agreement obtained on other points."
+    },
+    {
+      "id": "p0028",
+      "text": "From (6) we get . For the frequency of vibration of the whole ring in the direction parallel to the axis of the system we get"
+    },
+    {
+      "id": "p0029",
+      "text": "We have assumed in Part I. and Part II. that the frequency of radiation absorbed by the system and corresponding to vibrations of the electrons in the plane of the ring cannot be calculated from the ordinary mechanics, but is determined by the relation , where is Planck’s constant, and the difference in energy between two different stationary states of the system. Since we have seen in §2 that a configuration consisting of two nuclei and a single electron rotating round the line between them is unstable, we may assume that the removing of one of the electrons will lead to the breaking up of the molecule into a single nucleus and a hydrogen atom. If we consider the latter state as one of the stationary states in question we get"
+    },
+    {
+      "id": "p0030",
+      "text": "The value for the frequency of the ultra-violet absorption line in hydrogen calculated from experiments on dispersion is . Further, a calculation from such experiments based on Drude’s theory gives a value near two for the number of electrons in a hydrogen molecule. The latter result might have connexion with the fact that the frequencies calculated above for the radiation absorbed corresponding to vibrations parallel and perpendicular to the plane of the ring are nearly equal. As mentioned in Part II. , the number of electrons in a helium atom calculated from experiments on dispersion is only about ⅔ of the number of electrons to be expected in the atom, viz. two. For a helium atom, as for a hydrogen molecule, the frequency determined by the relation agrees closely with the frequency observed from dispersion; in the helium system, however, the frequency corresponding to vibrations [Pg 61] perpendicular to the plane of the ring is more than three times as great as the frequency in question, and consequently of negligible influence on the dispersion."
+    },
+    {
+      "id": "p0031",
+      "text": "In order to determine the frequency of vibration of the system corresponding to displacement of the nuclei relative to each other, let us consider a configuration in which the radius of the ring is equal to , and the distance apart of the nuclei . The radial force acting on one of the electrons and due to the attraction from the nuclei and the repulsion from the other electron is Let us now consider a slow displacement of the system during which the radial force balances the centrifugal force due to the rotation of the electrons, and the angular momentum of the latter remains constant. Putting , we have seen on p. 55 that the radius of the ring is inversely proportional to . Therefore, during the displacement considered, remains constant. This gives by differentiation Introducing and , we get The force acting on one of the nuclei due to the attraction from the ring and the repulsion from the other nucleus is For , this force is equal to ."
+    },
+    {
+      "id": "p0032",
+      "text": "Corresponding to a small displacement of the system for which we get, using the above value for and putting , For the frequency of vibration corresponding to the displacement in question we get, denoting the mass of one of the nuclei by , [Pg 62] Putting and , we get"
+    },
+    {
+      "id": "p0033",
+      "text": "This frequency is of the same order of magnitude as that calculated by Einstein’s theory from the variation of the specific heat of hydrogen gas with temperature . On the other hand, no absorption of radiation in hydrogen gas corresponding to this frequency is observed. This is, however, just what we should expect on account of the symmetrical structure of the system and the great ratio between the frequencies corresponding to displacements of the electrons and of the nuclei. The complete absence of infra-red absorption in hydrogen gas might be considered as a strong argument in support of a constitution of a hydrogen molecule like that adopted here, compared with model-molecules in which the chemical bond is assumed to have its origin in an opposite charge of the entering atoms."
+    },
+    {
+      "id": "p0034",
+      "text": "As will be shown in §5 , the frequency calculated above can be used to estimate the frequency of vibration of more complicated systems for which an infra-red absorption is observed."
+    },
+    {
+      "id": "p0035",
+      "text": "The configuration of two nuclei of charge and a ring of three electrons rotating between them will, as mentioned in §2 , also be stable for displacements of the electrons perpendicular to the plane of the ring. A calculation gives and further,"
+    },
+    {
+      "id": "p0036",
+      "text": "Since is greater than for the system consisting of two nuclei and two electrons, the system in question may be considered as representing a negatively charged hydrogen molecule. Proof of the existence of such a system has been obtained by Sir J. J. Thomson in his experiments on positive rays ."
+    },
+    {
+      "id": "p0037",
+      "text": "A system consisting of two nuclei of charge and a single [Pg 63] electron rotating in a circular orbit round the line connecting the nuclei, is unstable for a displacement of the electron perpendicular to its orbit, since in the configuration of equilibrium . The explanation of the appearance of positively charged hydrogen molecules in experiments on positive rays may therefore at first sight be considered as a serious difficulty for the present theory. A possible explanation, however, might be sought in the special conditions under which the systems are observed. We are probably dealing in such a case not with the formation of a stationary system by a regular interaction of systems containing single nuclei (see the next section), but rather with a delay in the breaking up of a configuration brought about by the sudden removal of one of the electrons by impact of a single particle."
+    },
+    {
+      "id": "p0038",
+      "text": "Another stable configuration containing a few electrons is one consisting of a ring of three electrons and two nuclei of charges and . A numerical calculation gives where is the radius of the ring and and the distances apart of the nuclei from the plane of the ring. By help of (2) and (3) we further get where is the frequency of revolution and the total energy necessary to remove the particles to infinite distances from each other. In spite of the fact that is greater than the sum of the values of for a hydrogen and a helium atom ; comp. Part II. p. 39 ), the configuration in question cannot, as will be shown in the next section, be considered to represent a possible molecule of hydrogen and helium."
+    },
+    {
+      "id": "p0039",
+      "text": "The vibration of the system corresponding to a displacement of the nuclei relative to each other shows features different from the system considered above of two nuclei of charge and two electrons. If, for example, the distance between the nuclei is increased, the ring of electrons will approach the nucleus of charge . Consequently, the vibration must be expected to be connected with an absorption of radiation."
+    },
+    {
+      "id": "p0040",
+      "text": "§4. Formation of the Systems."
+    },
+    {
+      "id": "p0041",
+      "text": "As mentioned in §1 , we cannot assume that systems containing more than one nucleus are formed by successive binding of electrons, such as we have assumed for the systems considered in Part II . We must assume [Pg 64] that the systems are formed by the interaction of others, containing single nuclei, which already have bound electrons. We shall now consider this problem more closely, starting with the simplest possible case, viz., the combination of two hydrogen atoms to form a molecule."
+    },
+    {
+      "id": "p0042",
+      "text": "Consider two hydrogen atoms at a distance apart great in comparison with the linear dimensions of the orbits of the electrons, and imagine that by help of extraneous forces acting on the nuclei, we make these approach each other; the displacements, however, being so slow that the dynamical equilibrium of the electrons for every position of the nuclei is the same as if the latter were at rest."
+    },
+    {
+      "id": "p0043",
+      "text": "Suppose that the electrons originally rotate in parallel planes perpendicular to the straight line connecting the nuclei, and that the direction of rotation is the same and the difference in phase equal to half a revolution. During the approach of the nuclei, the direction of the planes of the orbits of the electrons and the difference in phase will be unaltered. The planes of the orbits, however, will at the beginning of the process approach each other at a higher rate than do the nuclei. By the continued displacement of the latter the planes of the orbits of the electrons will approach each other more and more, until finally for a certain distance apart of the nuclei the planes will coincide, the electrons being arranged in a single ring rotating in the plane of symmetry of the nuclei. During the further approach of the nuclei the ratio between the diameter of the ring of electrons and the distance apart of the nuclei will increase, and the system will pass through a configuration in which it will be in equilibrium without the application of extraneous forces on the nuclei."
+    },
+    {
+      "id": "p0044",
+      "text": "By help of a calculation similar to that indicated in §2 , it can be simply shown that at any moment during this process the configuration of the electrons is stable for a displacement perpendicular to the plane of the orbits. In addition, during the whole operation the angular momentum of each of the electrons round the line connecting the nuclei will remain constant, and the configuration of equilibrium obtained will therefore be identical with the one adopted in §3 for a hydrogen molecule. As there shown, the configuration will correspond to a smaller value for the total energy than the one corresponding to two isolated atoms. During the process, the forces between the particles of the system will therefore have done work against the extraneous forces acting on the nuclei; this fact may be expressed by saying that the [Pg 65] atoms have “attracted” each other during the combination. A closer calculation shows that for any distance apart of the nuclei greater than that corresponding to the configuration of equilibrium, the forces acting on the nuclei, due to the particles of the system, will be in such a direction as to diminish the distance between the nuclei; while for any smaller distance the forces will have the opposite direction."
+    },
+    {
+      "id": "p0045",
+      "text": "By means of these considerations, a possible process is indicated for the combination of two hydrogen atoms to form a molecule. This operation can be followed step by step without introducing any new assumption on the dynamics of the electrons, and leads to the same configuration adopted in §3 for a hydrogen molecule. It may be recalled that the latter configuration was deduced directly by help of the principal hypothesis of the universal constancy of the angular momentum of the electrons. These considerations also offer an explanation of the “affinity” of two atoms. It may be remarked that the assumption in regard to the slowness of the motion of the nuclei relative to those of the electrons is satisfied to a high degree of approximation in a collision between two atoms of a gas at ordinary temperatures. In assuming a special arrangement of the electrons at the beginning of the process, very little information, however, is obtained by this method on the chance of combination due to an arbitrary collision between two atoms."
+    },
+    {
+      "id": "p0046",
+      "text": "Another way in which a neutral hydrogen molecule may be formed is by the combination of a positively and a negatively charged atom. According to the theory a positively charged hydrogen atom is simply a nucleus of vanishing dimensions and of charge , while a negatively charged atom is a system consisting of a nucleus surrounded by a ring of two electrons. As shown in Part II. , the latter system may be considered as possible, since the energy emitted by the formation of it is greater than the corresponding energy for a neutral hydrogen atom. Let us now imagine that, by a slow displacement of the nuclei, as before, a negatively and a positively charged atom combine. We must assume that, when the nuclei have approached a distance equal to that in the configuration adopted for a hydrogen molecule, the electrons will be arranged in the same way, since this is the only stable configuration for this distance in which the angular momentum of the electrons has the value prescribed by the theory. The state of motion of the electrons will, however, not vary in a continuous way with the displacement of the nuclei as in the combination of two neutral atoms. [Pg 66] For a certain distance apart of the nuclei the configuration of the electrons will be unstable and suddenly change by a finite amount; this is immediately deduced from the fact that the motion of the electrons by the combination of two neutral hydrogen atoms considered above, passes through an uninterrupted series of stable configurations. The work done by the system against the extraneous forces acting on the nuclei will therefore, in the case of the combination of a negatively and a positively charged atom, not be equal to the difference in energy between the original and the final configuration; but in passing through the unstable configurations a radiation of energy must be emitted, corresponding to that emitted during the binding of electrons by a single nucleus and considered in Parts I. and II."
+    },
+    {
+      "id": "p0047",
+      "text": "On the above view, it follows that in the breaking up of a hydrogen molecule by slowly increasing the distance apart of the nuclei, we obtain two neutral hydrogen atoms and not a positively and a negatively charged one. This is in agreement with deductions drawn from experiments on positive rays ."
+    },
+    {
+      "id": "p0048",
+      "text": "Next imagine that instead of two hydrogen atoms we consider two helium atoms, i. e . systems consisting of a nucleus of charge surrounded by a ring of two electrons, and go through a similar process to that considered on p. 64 . Assume that the helium atoms at the beginning of the operation are orientated relatively to each other like the hydrogen atoms, but with the exception that the phases of the electrons in the helium atoms differ by one quarter of a revolution instead of one half revolution as in the case of hydrogen. By the displacement of the nuclei, the planes of the rings of electrons will, as in the former case, approach each other at a higher rate than the nuclei, and for a certain position of the latter the planes will coincide. During the further approach of the nuclei, the electrons will be arranged at equal angular intervals in a single ring. As in the former case, it can be shown that at any moment during this operation the system will be stable for a displacement of the electrons perpendicular to the plane of the rings. Contrary, however, to what took place in the case of hydrogen, the extraneous forces to be applied to the nuclei in order to keep the system in equilibrium will always be in a direction to diminish the distance apart of the nuclei, and the system will never pass through a configuration of equilibrium; the helium atoms will, during the process, “repel” each other. The [Pg 67] consideration offers an explanation of the refusal of helium atoms to combine into molecules by a close approach of the atoms."
+    },
+    {
+      "id": "p0049",
+      "text": "Instead of two hydrogen or two helium atoms, next consider a hydrogen and a helium atom, and let us slowly approach the nuclei to each other in a similar way. In this case, contrary to the former cases, the electrons will have no tendency to flow together in a single ring. On account of the great difference in the radii of the orbits of the electrons in hydrogen and helium, the electron of the hydrogen atom must be expected to rotate always outside the helium ring, and if the nuclei are brought very close together, the configuration of the electrons will coincide with that adopted in Part II. for a lithium atom. Further, the extraneous forces to be applied to the nuclei during the process will be in such a direction as to diminish the distance apart. In this way, therefore, we cannot obtain a combination of the atoms."
+    },
+    {
+      "id": "p0050",
+      "text": "The stable configuration considered in §3 , consisting of a ring of three electrons and two nuclei of charge and , cannot be expected to be formed by such a process, unless the ring of electrons were bound originally by one of the nuclei. Neither a hydrogen nor a helium nucleus will, however, be able to bind a ring of three electrons, since such a configuration would correspond to a greater total energy than the one in which the nucleus has bound two electrons (comp. Part II. p p. 38 and 40 ). As mentioned in §3 , such a configuration cannot therefore be considered as representing a possible combination of hydrogen and helium, in spite of the fact that the value of is greater than the sum of the values of for a hydrogen and a helium atom. As we shall see in the next section, the configuration may, however, give indications of the possible structure of the molecules of a certain class of chemical combinations."
+    },
+    {
+      "id": "p0051",
+      "text": "§5. Systems containing a greater number of Electrons."
+    },
+    {
+      "id": "p0052",
+      "text": "From the considerations of the former section we are led to indications of the configuration of the electrons in systems containing a greater number of electrons, consistent with those obtained in §2 ."
+    },
+    {
+      "id": "p0053",
+      "text": "Let us imagine that, in a similar way to that considered on p. 64 for two hydrogen atoms, we make two atoms containing a large number of electrons approach each other. During the beginning of the process the effect on the configuration of the inner rings will be very small compared with the effect on the electrons in the outer rings, and the final result will mainly depend on the number of electrons in [Pg 68] these rings. If, for example, the outer ring in both atoms contains only one electron, we may expect that during the approach these two electrons will form a single ring as in the case of hydrogen. By a further approach of the nuclei, the system will arrive at a state of equilibrium before the distance apart of the nuclei is comparable with the radii of the inner rings of electrons. If the distance be decreased still further, the repulsion of the nuclei will predominate and tend to prevent an approach of the systems."
+    },
+    {
+      "id": "p0054",
+      "text": "In this way we are led to a possible configuration of a molecule of a combination of two monovalent substances—such as HCl—in which the ring of electrons representing the chemical bond is arranged in a similar way to that assumed for a hydrogen molecule. Since, however, as in the case of hydrogen, the energy emitted by a combination of the atoms is only a small part of the kinetic energy of the outer electrons, we may expect that small differences in the configuration of the ring, due to the presence of inner rings of electrons in the atoms, will be of great influence on the heat of combination and consequently on the affinity of the substances. As mentioned in §2 , a detailed discussion of these questions involves elaborate numerical calculations. We may, however, make an approximate comparison of the theory with experiment, by considering the frequency of vibration of the two atoms in the molecule relative to each other. In §3, p. 62 , we have calculated this frequency for a hydrogen molecule. Since now the binding of the atoms is assumed to be similar to that in hydrogen, the frequency of another molecule can be simply calculated if we know the ratio of the mass of the nuclei to be that of a hydrogen nucleus. Denoting the frequency of a hydrogen molecule by and the atomic weights of the substances entering in the combination in question by and respectively, we get for the frequency"
+    },
+    {
+      "id": "p0055",
+      "text": "If the two atoms are identical the molecule will be exactly symmetrical, and we cannot expect an absorption of radiation corresponding to the frequency in question (comp. p. 62 ). For HCl gas an infra-red absorption band corresponding to a frequency of about is observed . Putting in the above formula and and using the value for on p. 62 , [Pg 69] we get . On account of the approximation introduced the agreement may be considered as satisfactory."
+    },
+    {
+      "id": "p0056",
+      "text": "The molecules in question may also be formed by the combination of a positively and a negatively charged atom. As in the case of hydrogen, however, we shall expect to obtain two neutral atoms by the breaking up of the molecule. There may be another type of molecule, for which this does not hold, viz., molecules which are formed in a manner analogous to the system consisting of a ring of three electrons and two nuclei of charges and , mentioned in the former section. As we have seen, the necessary condition for the formation of a configuration of this kind is that one of the atoms in the molecule is able to bind three electrons in the outer ring. According to the theory, this condition is not satisfied for a hydrogen or a helium atom, but is for an oxygen atom. With the symbols used in Part II. the configuration suggested for the oxygen atom was given by . From a calculation, as that indicated in Part II. , we get for this configuration , while for the configuration we get . Since the latter value for is greater than the first, the configuration may be considered as possible and as representing an oxygen atom with a single negative charge. If now a hydrogen, nucleus approaches the system we may expect a stable configuration to be formed in which the outer electrons will be arranged approximately as in the system mentioned above. In a breaking up of this configuration the ring of three electrons will remain with the oxygen atom."
+    },
+    {
+      "id": "p0057",
+      "text": "Such considerations suggest a possible configuration for a water molecule, consisting of an oxygen nucleus surrounded by a small ring of electrons and hydrogen nuclei situated on the axis of the ring at equal distances apart from the first nucleus and kept in equilibrium by help of two rings of greater radius each containing three electrons; the latter rotate in parallel planes round the axis of the system, and are situated relatively to each other so that the electrons in the one ring are placed just opposite the interval between the electrons in the other. If we imagine that such a system is broken up by slowly removing the hydrogen nuclei we should obtain two positively charged hydrogen atoms and an oxygen atom with a double negative charge, in which the outermost electrons will be arranged in two rings of three electrons each, rotating in parallel planes. The assumption of such a configuration for a water molecule offers a possible explanation of the great absorption of water for rays in the [Pg 70] infra-red and for the high value of its specific inductive capacity."
+    },
+    {
+      "id": "p0058",
+      "text": "In the preceding we have only considered systems which possess an axis of symmetry around which the electrons are assumed to rotate in circular orbits. In systems such as the molecule CH 4 we cannot, however, assume the existence of an axis of symmetry, and consequently we must in such cases omit the assumption of exactly circular orbits. The configuration suggested by the theory for a molecule of CH 4 is of the ordinary tetrahedron type; the carbon nucleus surrounded by a very small ring of two electrons being situated in the centre, and a hydrogen nucleus in every corner. The chemical bonds are represented by rings of electrons each rotating round the lines connecting the centre and the corners. The closer discussion of such questions, however, is far out of the range of the present theory."
+    },
+    {
+      "id": "p0059",
+      "text": "Concluding remarks."
+    },
+    {
+      "id": "p0060",
+      "text": "In the present paper an attempt has been made to develop a theory of the constitution of atoms and molecules on the basis of the ideas introduced by Planck in order to account for the radiation from a black body, and the theory of the structure of atoms proposed by Rutherford in order to explain the scattering of -particles by matter."
+    },
+    {
+      "id": "p0061",
+      "text": "Planck’s theory deals with the emission and absorption of radiation from an atomic vibrator of a constant frequency, independent of the amount of energy possessed by the system in the moment considered. The assumption of such vibrators, however, involves the assumption of quasi-elastic forces and is inconsistent with Rutherford’s theory, according to which all the forces between the particles of an atomic system vary inversely as the square of the distance apart. In order to apply the main results obtained by Planck it is therefore necessary to introduce new assumptions as to the emission and absorption of radiation by an atomic system."
+    },
+    {
+      "id": "p0062",
+      "text": "The main assumptions used in the present paper are:—"
+    },
+    {
+      "id": "p0063",
+      "text": "1. That energy radiation is not emitted (or absorbed) in the continuous way assumed in the ordinary electrodynamics, but only during the passing of the systems between different “stationary” states."
+    },
+    {
+      "id": "p0064",
+      "text": "2. That the dynamical equilibrium of the systems in the stationary stages is governed by the ordinary laws of mechanics, while these laws do not hold for the passing of the systems between the different stationary states."
+    },
+    {
+      "id": "p0065",
+      "text": "[Pg 71]"
+    },
+    {
+      "id": "p0066",
+      "text": "3. That the radiation emitted during the transition of a system between two stationary states is homogeneous, and that the relation between the frequency and the total amount of energy emitted is given by , where is Planck’s constant."
+    },
+    {
+      "id": "p0067",
+      "text": "4. That the different stationary states of a simple system consisting of an electron rotating round a positive nucleus are determined by the condition that the ratio between the total energy, emitted during the formation of the configuration, and the frequency of revolution of the electron is an entire multiple of . Assuming that the orbit of the electron is circular, this assumption is equivalent with the assumption that the angular momentum of the electron round the nucleus is equal to an entire multiple of ."
+    },
+    {
+      "id": "p0068",
+      "text": "5. That the “permanent” state of any atomic system— i. e ., the state in which the energy emitted is maximum—is determined by the condition that the angular momentum of every electron round the centre of its orbit is equal to ."
+    },
+    {
+      "id": "p0069",
+      "text": "It is shown that, applying these assumptions to Rutherford’s atom model, it is possible to account for the laws of Balmer and Rydberg connecting the frequency of the different lines in the line-spectrum of an element. Further, outlines are given of a theory of the constitution of the atoms of the elements and of the formation of molecules of chemical combinations, which on several points is shown to be in approximate agreement with experiments."
+    },
+    {
+      "id": "p0070",
+      "text": "The intimate connexion between the present theory and modern theories of the radiation from a black body and of specific heat is evident; again, since on the ordinary electrodynamics the magnetic moment due to an electron rotating in a circular orbit is proportional to the angular momentum, we shall expect a close relation to the theory of magnetons proposed by Weiss. The development of a detailed theory of heat radiation and of magnetism on the basis of the present theory claims, however, the introduction of additional assumptions about the behaviour of bound electrons in an electromagnetic field. The writer hopes to return to these questions later."
+    },
+    {
+      "id": "p0071",
+      "text": "[41] Communicated by Prof. E. Rutherford, F.R.S."
+    },
+    {
+      "id": "p0072",
+      "text": "[42] Part I. and Part II. were published in Phil. Mag. xxvi. p. 1 & p. 476 (1913)."
+    },
+    {
+      "id": "p0073",
+      "text": "[43] I. Langmuir, Journ. Amer. Chem. Soc. xxxiv. p. 860 (1912)."
+    },
+    {
+      "id": "p0074",
+      "text": "[44] C. and M. Cuthbertson, Proc. Roy. Soc. lxxxiii. p. 151 (1910)."
+    },
+    {
+      "id": "p0075",
+      "text": "[45] See N. Bjerrum, Zeitschr. f. Elektrochem . xvii. p. 731 (1911); xviii. p. 101 (1912)."
+    },
+    {
+      "id": "p0076",
+      "text": "[46] J. J. Thomson, Phil. Mag. xxiv. p. 253 (1912)."
+    },
+    {
+      "id": "p0077",
+      "text": "[47] Comp. J. J. Thomson, Phil. Mag. xxiv. p. 248 (1912)."
+    },
+    {
+      "id": "p0078",
+      "text": "[48] See H. Kayser, Handb. d. Spectr . iii. p. 366 (1905)."
+    }
+  ],
+  "anchors": {
+    "science-bohr-stationary-states": {
+      "paragraphId": "p0063",
+      "start": 8,
+      "end": 198,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0063",
+          "start": 8,
+          "end": 198,
+          "text": "energy radiation is not emitted (or absorbed) in the continuous way assumed in the ordinary electrodynamics, but only during the passing of the systems between different “stationary” states."
+        },
+        {
+          "paragraphId": "p0064",
+          "start": 8,
+          "end": 221,
+          "text": "the dynamical equilibrium of the systems in the stationary stages is governed by the ordinary laws of mechanics, while these laws do not hold for the passing of the systems between the different stationary states."
+        }
+      ],
+      "quote": "Energy radiation is not emitted (or absorbed) in the continuous way assumed in the ordinary electrodynamics, but only during the passing of the systems between different ‘stationary’ states. … The dynamical equilibrium of the systems in the stationary stages is governed by the ordinary laws of mechanics, while these laws do not hold for the passing of the systems between the different stationary states."
+    }
+  }
+}

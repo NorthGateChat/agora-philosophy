@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-record-of-knowledge-gained-day-by-day-writing-mu-named-chapter-writing-must-benefit-the-world-74b8f0dd",
+  "title": "篇 Writing Must Benefit the World",
+  "englishTitle": "Chapter Writing Must Benefit the World",
+  "work": "《日知录·文须有益于天下》",
+  "englishWork": "Record of Knowledge Gained Day by Day, Writing Must Benefit the World",
+  "locator": "篇 Writing Must Benefit the World",
+  "englishLocator": "Chapter Writing Must Benefit the World",
+  "version": "维基文库《日知录集释·卷十九·文须有益于天下》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Collected Explanations of the Record of Knowledge Gained Day by Day, vol. 19, Writing Must Benefit the World; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E6%97%A5%E7%9F%A5%E9%8C%84%E9%9B%86%E9%87%8B/19",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E6%97%A5%E7%9F%A5%E9%8C%84%E9%9B%86%E9%87%8B/19",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E6%97%A5%E7%9F%A5%E9%8C%84%E9%9B%86%E9%87%8B%2F19&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "6387cdee4f5ce865e8528ef7b33705751cfb58aaf2aad023a8474a687c1d4d0b"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "948c1d80aa37d1b0cc3f5247b8b3bd694e39a1a3846922a527c5c3eda4c52682",
+  "inputHash": "0d0f1620223f223e0e301986e9d21be8e35f70f4d4ef0019d2ad55133a2bd1a1",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "文須有益於天下"
+    },
+    {
+      "id": "p0002",
+      "text": "文之不可絕於天地間者，曰明道也，紀政事也，察民隱也，樂道人之善也。若此者有益於天下，有益於將來，多一篇，多一篇之益矣。若夫怪力亂神之事，無稽之言，剿襲之說，諛佞之文，若此者，有損於己，無益於人，多一篇，多一篇之損矣。【錢氏曰】處患難者匆為怨天尤人之言，處貴顯者勿為矜己傲物之言，論學術勿為非聖悖道之言，評人物勿為黨同醜正之言。"
+    },
+    {
+      "id": "p0003",
+      "text": "先生與友人書曰，孔子之刪述六經，即伊尹太公救民於水火之心。而今之注蟲魚、命草木者，皆不足以語此也。故曰，載之空言，不如見之行事。夫春秋之作，言焉而已，而謂之行事者，天下後世用以治人之書，將欲謂之空言而不可也。愚不揣有見於此，故凡文之不關於六經之指、當世之務者，一切不為。而既以明道救人，則於當今之所通患而未嘗專指其人者，亦遂不敢以避也。"
+    }
+  ],
+  "anchors": {
+    "chinese-gu-yanwu-writing-for-public-use": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 33,
+      "quote": "文之不可绝于天地间者，曰明道也，纪政事也，察民隐也，乐道人之善也。",
+      "match": "normalized-exact"
+    }
+  }
+}

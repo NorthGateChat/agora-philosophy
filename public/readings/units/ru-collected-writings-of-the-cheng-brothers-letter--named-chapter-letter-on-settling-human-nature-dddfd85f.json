@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-collected-writings-of-the-cheng-brothers-letter--named-chapter-letter-on-settling-human-nature-dddfd85f",
+  "title": "篇 Letter on Settling Human Nature",
+  "englishTitle": "Chapter Letter on Settling Human Nature",
+  "work": "《二程文集·定性书》",
+  "englishWork": "Collected Writings of the Cheng Brothers, Letter on Settling Human Nature",
+  "locator": "篇 Letter on Settling Human Nature",
+  "englishLocator": "Chapter Letter on Settling Human Nature",
+  "version": "维基文库《定性书》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Letter on Settling Human Nature; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E5%AE%9A%E6%80%A7%E6%9B%B8",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E5%AE%9A%E6%80%A7%E6%9B%B8",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%AE%9A%E6%80%A7%E6%9B%B8&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "6481ada2bc0d60c60a64680ab6c60ef9210dfac0d78e2a338fd39ad8f486166c"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "697740623f60eebb02d9cf509bb820a3edb227fd7ad995c8725d5ea0179d3fb0",
+  "inputHash": "e607ba94791f951040a3eb016112bea93cdcbd966e51580b4efc1a608a1e1feb",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "定性書 作者： 程顥"
+    },
+    {
+      "id": "p0002",
+      "text": "百家謹案：橫渠張子問于先生曰：「定性未能不動，猶累于外物，何如﹖」先生因作是篇。"
+    },
+    {
+      "id": "p0003",
+      "text": "所謂定者，動亦定，靜亦定，無將迎，無內外。苟以外物為外，牽己而從之，是以己性為有內外也。且以己性為隨物于外，則當其在外時，何者為在內﹖是有意于絕外誘，而不知性之無內外也。既以內外為二本，則又烏可遽語定哉！"
+    },
+    {
+      "id": "p0004",
+      "text": "夫天地之常，以其心普萬物而無心；聖人之常，以其情順萬物而無情。故君子之學，莫若廓然而大公，物來而順應。《易》曰：「貞吉，悔亡。憧憧往來，朋從爾思。」苟規規于外誘之除，將見滅于東而生于西也，非惟日之不足，顧其端無窮，不可得而除也。"
+    },
+    {
+      "id": "p0005",
+      "text": "人之情各有所蔽，故不能適道，大率患在于自私而用智。自私，則不能以有為為應迹；用智，則不能以明覺為自然。今以惡外物之心，而求照無物之地，是反鑑而索照也。《易》曰：「艮其背，不獲其身。行其庭，不見其人。」孟氏亦曰：「所惡于智者，為其鑿也。」與其非外而是內，不若內外之兩忘也。兩忘，則澄然無事矣。無事則定，定則明，明則尚何應物之為累哉！聖人之喜，以物之當喜；聖人之怒，以物之當怒。是聖人之喜怒，不繫于心而繫于物也。是則聖人豈不應于物哉﹖ 烏得以從外者為非，而更求在內者為是也﹖今以自私用智之喜怒，而視聖人喜怒之正，為何如哉﹖夫人之情易發而難制者，唯怒為甚。第能于怒時遽忘其怒，而觀理之是非，亦可見外誘之不足惡，而于道亦思過半矣。"
+    },
+    {
+      "id": "p0006",
+      "text": "劉蕺山曰：此伯子發明主靜立極之說，最為詳盡而無遺也。稍分六段看，而意皆融貫，不事更端，亦不煩詮解。今姑為之次第：首言動靜合一之理，而歸之常定，乃所以為靜也。是內非外，非性也；離動言靜，非靜也。「天地之常」以下，即天地之道以明聖人之道不離物以求靜也。「人之情」以下，言常人之情自私用智，所以異于聖人而終失其照物之體也。「《易》曰」以下，又引《大易》、孟子之言以明自私用智之必不然也。「聖人之喜」以下，又即聖人應物之情以明外物之不足惡。而「夫人之情」以下，又借怒之一端，于極難下手處得定性之法如此，又以見外物之不足惡也。合而觀之，主靜之學，性學也。「人生而靜，天之性也。感于物而動，性之欲也。」聖人常寂而常感，故有欲而實歸于無欲，所以能盡其性也。常人離寂而事感，離感而求寂，故去欲而還以從欲，所以自汩其天也。主靜之說，本千古祕密藏，即橫渠得之，不能無疑。向微程伯子發明至此，幾令千古長夜矣。"
+    },
+    {
+      "id": "p0007",
+      "text": "百家又案：嘉靖中，胡柏泉松為太宰，疏解《定性書》，會講于京師，分作四層：「一者，天地之常，心普物而無心，此是天地之定。二者，聖人之常，情順物而無情，此是聖人之定。三者，君子之學，廓然大公，物來順應，此是君子之定。四者，吾人第于怒時遽忘其怒，觀理是非，此是吾人之定。吾人希君子，君子希聖人，聖人希天地。」是日，天下計吏俱在京，咸會于象房所，約五千餘人。羅近溪、耿天臺、周都峰，徐龍灣並參講席，莫不飽飫斯義。"
+    },
+    {
+      "id": "p0008",
+      "text": "《宋元學案》卷十三"
+    }
+  ],
+  "anchors": {
+    "chinese-cheng-hao-settled-in-motion": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 21,
+      "quote": "所谓定者，动亦定，静亦定；无将迎，无内外。",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

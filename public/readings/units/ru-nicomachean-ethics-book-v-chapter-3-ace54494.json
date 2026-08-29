@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-nicomachean-ethics-book-v-chapter-3-ace54494",
+  "title": "卷 V · 章 3",
+  "englishTitle": "Book V · Chapter 3",
+  "work": "《尼各马可伦理学》",
+  "englishWork": "Nicomachean Ethics",
+  "locator": "卷 V · 章 3",
+  "englishLocator": "Book V · Chapter 3",
+  "version": "MIT 经典文库 W. D. Ross 公版英译，亚里士多德《尼各马可伦理学》V.3，1131b16—17",
+  "englishVersion": "MIT Internet Classics Archive, W. D. Ross public-domain translation, Aristotle, Nicomachean Ethics V.3, 1131b16–17",
+  "sourceUrl": "https://classics.mit.edu/Aristotle/nicomachaen.5.v.html",
+  "source": {
+    "url": "https://classics.mit.edu/Aristotle/nicomachaen.5.v.html",
+    "contentType": "text/html",
+    "sha256": "85e194fe153bd976f1814c5c876884fa831274dc86ec91c09f55b4f0a6564741"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "ab7916269971176c4ff623b7aa4f76a67d0511a7ad511da5d401fd5cb79ee373",
+  "inputHash": "d5e9d16a20b3f3a9a3bfe907b2d1d075f72ba51bff763744bae3b7f710db4cb3",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "3"
+    },
+    {
+      "id": "p0002",
+      "text": "(A) We have shown that both the unjust man and the unjust act are unfair or unequal; now it is clear that there is also an intermediate between the two unequals involved in either case. And this is the equal; for in any kind of action in which there's a more and a less there is also what is equal. If, then, the unjust is unequal, just is equal, as all men suppose it to be, even apart from argument. And since the equal is intermediate, the just will be an intermediate. Now equality implies at least two things. The just, then, must be both intermediate and equal and relative (i.e. for certain persons). And since the equall intermediate it must be between certain things (which are respectively greater and less); equal, it involves two things; qua just, it is for certain people. The just, therefore, involves at least four terms; for the persons for whom it is in fact just are two, and the things in which it is manifested, the objects distributed, are two. And the same equality will exist between the persons and between the things concerned; for as the latter the things concerned-are related, so are the former; if they are not equal, they will not have what is equal, but this is the origin of quarrels and complaints-when either equals have and are awarded unequal shares, or unequals equal shares. Further, this is plain from the fact that awards should be 'according to merit'; for all men agree that what is just in distribution must be according to merit in some sense, though they do not all specify the same sort of merit, but democrats identify it with the status of freeman, supporters of oligarchy with wealth (or with noble birth), and supporters of aristocracy with excellence."
+    },
+    {
+      "id": "p0003",
+      "text": "The just, then, is a species of the proportionate (proportion being not a property only of the kind of number which consists of abstract units, but of number in general). For proportion is equality of ratios, and involves four terms at least (that discrete proportion involves four terms is plain, but so does continuous proportion, for it uses one term as two and mentions it twice; e.g. 'as the line A is to the line B, so is the line B to the line C'; the line B, then, has been mentioned twice, so that if the line B be assumed twice, the proportional terms will be four); and the just, too, involves at least four terms, and the ratio between one pair is the same as that between the other pair; for there is a similar distinction between the persons and between the things. As the term A, then, is to B, so will C be to D, and therefore, alternando, as A is to C, B will be to D. Therefore also the whole is in the same ratio to the whole; and this coupling the distribution effects, and, if the terms are so combined, effects justly. The conjunction, then, of the term A with C and of B with D is what is just in distribution, and this species of the just is intermediate, and the unjust is what violates the proportion; for the proportional is intermediate, and the just is proportional. (Mathematicians call this kind of proportion geometrical; for it is in geometrical proportion that it follows that the whole is to the whole as either part is to the corresponding part.) This proportion is not continuous; for we cannot get a single term standing for a person and a thing."
+    },
+    {
+      "id": "p0004",
+      "text": "This, then, is what the just is-the proportional; the unjust is what violates the proportion. Hence one term becomes too great, the other too small, as indeed happens in practice; for the man who acts unjustly has too much, and the man who is unjustly treated too little, of what is good. In the case of evil the reverse is true; for the lesser evil is reckoned a good in comparison with the greater evil, since the lesser evil is rather to be chosen than the greater, and what is worthy of choice is good, and what is worthier of choice a greater good."
+    },
+    {
+      "id": "p0005",
+      "text": "This, then, is one species of the just. 4"
+    },
+    {
+      "id": "p0006",
+      "text": "(B) The remaining one is the rectificatory, which arises in connexion with transactions both voluntary and involuntary. This form of the just has a different specific character from the former. For the justice which distributes common possessions is always in accordance with the kind of proportion mentioned above (for in the case also in which the distribution is made from the common funds of a partnership it will be according to the same ratio which the funds put into the business by the partners bear to one another); and the injustice opposed to this kind of justice is that which violates the proportion. But the justice in transactions between man and man is a sort of equality indeed, and the injustice a sort of inequality; not according to that kind of proportion, however, but according to arithmetical proportion. For it makes no difference whether a good man has defrauded a bad man or a bad man a good one, nor whether it is a good or a bad man that has committed adultery; the law looks only to the distinctive character of the injury, and treats the parties as equal, if one is in the wrong and the other is being wronged, and if one inflicted injury and the other has received it. Therefore, this kind of injustice being an inequality, the judge tries to equalize it; for in the case also in which one has received and the other has inflicted a wound, or one has slain and the other been slain, the suffering and the action have been unequally distributed; but the judge tries to equalize by means of the penalty, taking away from the gain of the assailant. For the term 'gain' is applied generally to such cases, even if it be not a term appropriate to certain cases, e.g. to the person who inflicts a woundand 'loss' to the sufferer; at all events when the suffering has been estimated, the one is called loss and the other gain. Therefore the equal is intermediate between the greater and the less, but the gain and the loss are respectively greater and less in contrary ways; more of the good and less of the evil are gain, and the contrary is loss; intermediate between them is, as we saw, equal, which we say is just; therefore corrective justice will be the intermediate between loss and gain. This is why, when people dispute, they take refuge in the judge; and to go to the judge is to go to justice; for the nature of the judge is to be a sort of animate justice; and they seek the judge as an intermediate, and in some states they call judges mediators, on the assumption that if they get what is intermediate they will get what is just. The just, then, is an intermediate, since the judge is so. Now the judge restores equality; it is as though there were a line divided into unequal parts, and he took away that by which the greater segment exceeds the half, and added it to the smaller segment. And when the whole has been equally divided, then they say they have 'their own'-i.e. when they have got what is equal. The equal is intermediate between the greater and the lesser line according to arithmetical proportion. It is for this reason also that it is called just (sikaion), because it is a division into two equal parts (sicha), just as if one were to call it sichaion; and the judge (sikastes) is one who bisects (sichastes). For when something is subtracted from one of two equals and added to the other, the other is in excess by these two; since if what was taken from the one had not been added to the other, the latter would have been in excess by one only. It therefore exceeds the intermediate by one, and the intermediate exceeds by one that from which something was taken. By this, then, we shall recognize both what we must subtract from that which has more, and what we must add to that which has less; we must add to the latter that by which the intermediate exceeds it, and subtract from the greatest that by which it exceeds the intermediate. Let the lines AA', BB', CC' be equal to one another; from the line AA' let the segment AE have been subtracted, and to the line CC' let the segment Cd have been added, so that the whole line DCC' exceeds the line EA' by the segment CD and the segment CF; therefore it exceeds the line Bb' by the segment CD. (See diagram.)"
+    },
+    {
+      "id": "p0007",
+      "text": "These names, both loss and gain, have come from voluntary exchange; for to have more than one's own is called gaining, and to have less than one's original share is called losing, e.g. in buying and selling and in all other matters in which the law has left people free to make their own terms; but when they get neither more nor less but just what belongs to themselves, they say that they have their own and that they neither lose nor gain."
+    },
+    {
+      "id": "p0008",
+      "text": "Therefore the just is intermediate between a sort of gain and a sort of loss, viz. those which are involuntary; it consists in having an equal amount before and after the transaction."
+    }
+  ],
+  "anchors": {
+    "aristotle-justice-and-proportion": {
+      "paragraphId": "p0004",
+      "start": 20,
+      "end": 93,
+      "quote": "The just is the proportional; the unjust is what violates the proportion.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

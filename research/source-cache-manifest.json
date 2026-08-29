@@ -1,0 +1,3965 @@
+{
+  "schemaVersion": 2,
+  "purpose": "Local research cache; never included in the public product bundle.",
+  "referenceMetadata": "content/verifiedSourcePassages.ts",
+  "artifactCount": 742,
+  "pathCount": 835,
+  "duplicateAliasCount": 93,
+  "artifacts": [
+    {
+      "path": "research/source-cache/ajr-colonial-origins.pdf",
+      "bytes": 899806,
+      "sha256": "bce991ebdb67555d7ee6d8b0f478cc69d54e78addb7037ccc4e99e0780e324bd"
+    },
+    {
+      "path": "research/source-cache/autor-dorn-hanson-china-syndrome.pdf",
+      "bytes": 1023692,
+      "sha256": "a7add127e4a65acf7227090e15593422a3fc839e82e9ceb46b0f345a8123c9c5"
+    },
+    {
+      "path": "research/source-cache/autor-skill-content-2003.pdf",
+      "bytes": 475336,
+      "sha256": "9a20e0d5272b3cb20492ded0625296e64eedb5ae3b586b9c84a81332ca462eb9"
+    },
+    {
+      "path": "research/source-cache/averroes-1921.pdf",
+      "bytes": 14499592,
+      "sha256": "feeb152611622c7f4a67c9b5f4d68be128a3b418ae3b015c0d0161cf124daa72"
+    },
+    {
+      "path": "research/source-cache/card-krueger-minimum-wage.pdf",
+      "bytes": 422470,
+      "sha256": "d11747c2b20cdd8bcc917c1af1499406edf9b2d55b8f9e0fdf6bb39e7dfdcb9e"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/cheng-hao-shiren-full-entry.txt",
+      "bytes": 1455,
+      "sha256": "7c626708460186fced40c7ff5b45b0874e41a3b64b351aca76965446bb463cee"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/cheng-yishu-volume-2a-shiren-siku-pages-75-76.pdf",
+      "bytes": 62065,
+      "sha256": "e134fbecb2103fe24fb6ecd6ae562f5dc20f6a68fe0b6996015d4cc8e171c3d4"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/laozi-chapter-22.txt",
+      "bytes": 876,
+      "sha256": "3cdd03fb6772c7fa21946d3002d8467bf8f2851747002f52dfd062c89079e57c"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/laozi-wangbi-chapter-22-siku-pages-54-56.pdf",
+      "bytes": 63945,
+      "sha256": "5a920a2025d0c22a18cf187277e4f0eeed81c0a791ece22b4b7ea95c081c2ad3"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/README.md",
+      "bytes": 5531,
+      "sha256": "826096f1fb2b26c9a9d428d8e80bfc02dd5c34670647f8124488a93c6e709d29"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/resolution.json",
+      "bytes": 3172,
+      "sha256": "3747a26e40f906378ad3928c4d1f2d27df4b5654b516224b37d69bd056bc91c1"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/wang-fuzhi-siwenlu-inner-entry-pages-2-3.pdf",
+      "bytes": 59331,
+      "sha256": "dbd59b6134300a51fff071f72b5a69b33e0798c018164c080a5e744550ba2fe6"
+    },
+    {
+      "path": "research/source-cache/chinese-variant-resolution/wang-fuzhi-siwenlu-inner-full-entry.txt",
+      "bytes": 1194,
+      "sha256": "1ce304347f316c8342af392c185f16549d34583b41e568e1043a7619b21b09d1"
+    },
+    {
+      "path": "research/source-cache/chinese-web-recovery/cbeta-t45n1881.xml",
+      "bytes": 156389,
+      "sha256": "8d3e408cfcf2ace874cb36a0687105f3abe4dac90d17fcc5a32114f1f90122f9"
+    },
+    {
+      "path": "research/source-cache/chinese-web-recovery/mozi-feiming-shang.mediawiki.json",
+      "bytes": 14662,
+      "sha256": "8574b3ac71cf51409489c53fd51160de9c7fc8be0e94597049e735f4bc3e6648"
+    },
+    {
+      "path": "research/source-cache/chinese-web-recovery/wang-fuzhi-siwenlu-inner-chapters.txt",
+      "bytes": 42806,
+      "sha256": "3eb2d3d89dbb42edeb727358beb776414e887b859391ef8d09a06cd0902d3790"
+    },
+    {
+      "path": "research/source-cache/completion-economics/berkshire-1987-letter.html",
+      "bytes": 82757,
+      "sha256": "88ea72481dcae5940e908f91646afb8f775cae542250d500fad2c3e28e5a58c0"
+    },
+    {
+      "path": "research/source-cache/completion-economics/berkshire-1992-letter.html",
+      "bytes": 76201,
+      "sha256": "281218259801b95b4fad83f3e92a3e7bfbc15389b8f308b4f5992730f19cdde8"
+    },
+    {
+      "path": "research/source-cache/completion-economics/berkshire-1996-letter.html",
+      "bytes": 78056,
+      "sha256": "8518b0b6a2c2586cb46fe2507cf2bbf22ce3b557e9989e0ffe93d43e05980ced"
+    },
+    {
+      "path": "research/source-cache/completion-economics/berkshire-2007-letter.pdf",
+      "bytes": 476332,
+      "sha256": "8288aa8a17b677ca1215c31ef0afb887d3f95dbb0e2241f77b54b51f0c3f7cfa"
+    },
+    {
+      "path": "research/source-cache/completion-economics/berkshire-2013-letter.pdf",
+      "bytes": 257211,
+      "sha256": "ad24565997a09a1f7ef752da875161a24e025329510f3489afd912ff1e2673f5"
+    },
+    {
+      "path": "research/source-cache/completion-economics/berkshire-owners-manual.html",
+      "bytes": 37346,
+      "sha256": "3370e1060f46402be25e5ea5c6001b4066a12faffce81b1c48e47ed583400469"
+    },
+    {
+      "path": "research/source-cache/completion-economics/source-review-notes.md",
+      "bytes": 7165,
+      "sha256": "8f8e8cc1425d61b1e3339b4d62c4d26271f33757843faef273d4ec260fcf66e3"
+    },
+    {
+      "path": "research/source-cache/completion-indian/NOTES.md",
+      "bytes": 1706,
+      "sha256": "f5ecddb35e8c7140ba779a932696119e5908d22843556b3e6a135c1f92d9385f"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/bacon-novum-organum-devey-1902.txt",
+      "bytes": 567537,
+      "sha256": "f5d4654eeb65f6d27914d39f5936ea7c00289784ea29a64ed813b2a03c7aced3"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/bernard-experimental-medicine-greene-1927-ocr.txt",
+      "bytes": 697271,
+      "sha256": "3073114c21c36dc5125ea91fd5867a7b2f386cea057c255243eb8c6fdadc2a5a"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/bernard-experimental-medicine-greene-1927.pdf",
+      "bytes": 19920944,
+      "sha256": "5e29ab50115859ccdab203c970b27770be23f813025f82ae437560d3211e735e"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/bohr-constitution-atoms-1913.html",
+      "bytes": 290793,
+      "sha256": "3dfb297e9bd749a105fd9f7e7ef33736933714fc5f954d15d367dabb907733c6"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/bohr-quantum-postulate-1928.html",
+      "bytes": 80517,
+      "sha256": "2d72975ecf4d3f085e59c6f08853cd270e14e097a63a4147ef0030f93c257cf1"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/curie-nobel-lecture-1911.html",
+      "bytes": 186772,
+      "sha256": "a0d58d15c6c7331de1c1705aa860620cb8fa11ba9c17fd9ea4a8fb5c5a179592"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/darwin-origin-1859.html",
+      "bytes": 1137356,
+      "sha256": "8a0cb41343c5422eb0f0347ba7322f441125a466205c0aae980e75a248f68fa2"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/einstein-method-theoretical-physics-1933.pdf",
+      "bytes": 268044,
+      "sha256": "0a984e446213585293856456330fed978427cda93c6f16cebcfdc4ad01b14bf0"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/einstein-relativity-lawson-1920.pdf",
+      "bytes": 409413,
+      "sha256": "5a3056cfa1039625406de0196a64e6a8779e22c249beb69d7bba40b7424567aa"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/faraday-experimental-researches-v1.txt",
+      "bytes": 1427973,
+      "sha256": "33f26c49edfe148f1386e15b9e593a0d24c0ec4aa3c7fe19dfdcaaf01e9843f3"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/faraday-experimental-researches-v3.pdf",
+      "bytes": 36398625,
+      "sha256": "c04da9ced4c55c0bcecc75246eec1f02a00eefe622a2a07cc51449d8a504e538"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/feynman-cargo-cult-science-1974.pdf",
+      "bytes": 1273780,
+      "sha256": "e4301b607313b8af2cd50eefcc2ab8a40f36070faec6c0abc3b0989fa65670c8"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+      "bytes": 194782,
+      "sha256": "74fc9b817b64bc33415c6a44100c30f48952bc531d380682e5f4f1a26cc56fb5"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/galileo-two-new-sciences-crew-desalvio.html",
+      "bytes": 167217,
+      "sha256": "337f529246e7376d91aec9d0a2264432bd5eb6e0918df46f1d2b22584cf483cc"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/heisenberg-nobel-lecture-1933.pdf",
+      "bytes": 104088,
+      "sha256": "076e6062919105861a56a0a85f8bffd0f1c5524a6694c9d1e89651de7b20394b"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt",
+      "bytes": 1132697,
+      "sha256": "dddfc2fbc36480fa44d3971ff4df22e0f4586dd1e83539e3f4edf428ea320a52"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/kepler-ptolemy-copernicus-great-books.pdf",
+      "bytes": 24550538,
+      "sha256": "e2bc44488c090da0f825f0a40fc3bccc662b479e23a3dd630bb7a5be064c94d0"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/mendel-principles-heredity-bateson-1902.txt",
+      "bytes": 422243,
+      "sha256": "0d59dbfaf5206f5cbdd350b2313ee05b9a53d7913bca8637b1f3c5411269db1a"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/newton-opticks-1718.txt",
+      "bytes": 596188,
+      "sha256": "55abea83610866a22ef5d56045c388a6f1b3b2621e46cb274badcd600224d964"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/NOTES.md",
+      "bytes": 4202,
+      "sha256": "133fe1334d64227fabd9ae088d1646e51f6ec28ff6344002a8953d78619172e6"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/pasteur-life-devonshire-1920.txt",
+      "bytes": 1226056,
+      "sha256": "1d628602c0123a7290f4ea1305afa85e3f87fd22825fb9d92301f65337e2edd1"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/schrodinger-wave-mechanics-1928.pdf",
+      "bytes": 14786887,
+      "sha256": "b4e31d7112dfb9fc33f934ee5d4fe8dc221c7b13a4de4db229997423a1ab2074"
+    },
+    {
+      "path": "research/source-cache/completion-mao-science/turing-computable-numbers-1936.pdf",
+      "bytes": 2198146,
+      "sha256": "a126650c315e998ba96ea8248a60bde0afe60fec3e810acfc2b6c70d3b0e9f36"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter3.html",
+      "bytes": 28423,
+      "sha256": "39aa3b53ef2869fd71f854029d248b6e6379d8542bfec3cf7539013c18b38a6b"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter5.html",
+      "bytes": 14897,
+      "sha256": "d2be832c9bfc6d33eb83eef2612bdb8caca77c38f43804ef0c04d90762120730"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter6.html",
+      "bytes": 22163,
+      "sha256": "ab1f40ab70c03db03aa6656db02f8e1ca1dd828fd2b3bdc8c021d4f495187c25"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/ebbinghaus-memory-chapter7.html",
+      "bytes": 26978,
+      "sha256": "f01dd3a3870786d9e2e1550275bc9deaebad6b3f64e31504b48135c0f8139721"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/kohler-mentality-apes-ocr.txt",
+      "bytes": 651535,
+      "sha256": "e9c07af26069581722e70c53eec4a65c232283b70fad8f150b3757eb2a8df98f"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/NOTES.md",
+      "bytes": 3378,
+      "sha256": "fe63141f31a3258d9ef74ba44542bb48e0d4f7d00dbd0ab4d3fbe24617614874"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/pavlov-conditioned-reflexes-lecture17.html",
+      "bytes": 40535,
+      "sha256": "e3cec18dfa5aa069758a861aa97786c190c623fc1b94b6eb20d42aeefb5edbc6"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/pavlov-conditioned-reflexes-lecture2.html",
+      "bytes": 42668,
+      "sha256": "d43bccd4b95e23a2965e08cd271362acce569309a1e4b0ebb043861b130615ba"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/pavlov-conditioned-reflexes-lecture4.html",
+      "bytes": 40592,
+      "sha256": "461a5b2ec47a88011157026ef3afe1f807017d7a58941abd8ae0036bdaa45c42"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/pavlov-conditioned-reflexes-lecture7.html",
+      "bytes": 41416,
+      "sha256": "dc2bf2d3d8eef64a5bfef4cd25b918924c9b846409f3f833b32d4f5b38e9bd7b"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/thorndike-animal-intelligence-1911.txt",
+      "bytes": 583398,
+      "sha256": "d62bb2be6346f8fbae4c8f6b2b6d1df0a560873f214bd80ebd82109022ecd8b6"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/thorndike-educational-psychology-v2-ocr.txt",
+      "bytes": 994109,
+      "sha256": "508e3ca182e0c636d44156466d9a0ff28774a4982b164adfb52a62ab30e72a81"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/thorndike-educational-psychology-v3-ocr.txt",
+      "bytes": 893113,
+      "sha256": "7f13c8d3651c1cc7e7e240f81b2e0eb562edde9d7d82906783ebd09c713b8bd8",
+      "aliases": [
+        "research/source-cache/non-public-24-recovery/origins/educationalpsych03thor_djvu.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/completion-psychology/watson-behaviorist-views-1913.html",
+      "bytes": 50582,
+      "sha256": "1006ed20b2b06b740f2aabe89a1972349ab92d62587f94a072008d91030dbef5"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/wundt-elements-folk-psychology-1916.txt",
+      "bytes": 1223015,
+      "sha256": "11e22984e2372b98c8adcd05d01c7d4b78211e19adcfaf64c5d0c0f9ee2added"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/wundt-outlines-section15.html",
+      "bytes": 53293,
+      "sha256": "308cd4841a2f3a6f486c56979ec2f2f5731ec22e72910a873617c665cb493361"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/wundt-outlines-section3.html",
+      "bytes": 12488,
+      "sha256": "17db2747aee1e6293ad28b1cf8ec83b5566af4f9ffcdca8cb18c5680040884c8"
+    },
+    {
+      "path": "research/source-cache/completion-psychology/wundt-outlines-section7.html",
+      "bytes": 43804,
+      "sha256": "5be72e71dd3cb2c5a82ade40cffd411a325b6276e513356a826cc12782f2e090"
+    },
+    {
+      "path": "research/source-cache/completion-western-chinese/butler-beauvoir-quotation-study.pdf",
+      "bytes": 1225089,
+      "sha256": "6027a775f920048736d514a23dbe3cce03169eceebf4d259c669905d24d26c74"
+    },
+    {
+      "path": "research/source-cache/completion-western-chinese/camus-myth-sisyphus-obrien.pdf",
+      "bytes": 253173,
+      "sha256": "bdaf1ad15d2f4a8b1254e3e1833afa9f164b9afb642f3e32e4fb952cf60af5e1"
+    },
+    {
+      "path": "research/source-cache/completion-western-chinese/heidegger-letter-humanism.pdf",
+      "bytes": 94560,
+      "sha256": "7d79b97a1e553de243a0c0ea2c265c7163bb3657caefa22dd2b8cc978e7c8dd0"
+    },
+    {
+      "path": "research/source-cache/completion-western-chinese/sartre-existentialism-mairet-excerpt.pdf",
+      "bytes": 279614,
+      "sha256": "f05ce25c56fc940d4c2c853c3c6d84c9049a9a2b7ee8a05f996f677e1c0d6c37"
+    },
+    {
+      "path": "research/source-cache/completion-western-chinese/source-review-notes.md",
+      "bytes": 6410,
+      "sha256": "87153c8f7d2555955d1f44f6ad04c9c7cbc0ec672e5833d263b9698c1f8c31fc"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch11/ricardo-principles-gitenberg-33310.html",
+      "bytes": 830481,
+      "sha256": "6f64af8ac488c3fe046a0b4b4a008222a254dcde27fd75da774e9c36fb9e6fdc"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch11/ricardo-principles-gitenberg-33310.txt",
+      "bytes": 714377,
+      "sha256": "a8cdc1fce93ad9d35d89225c5bef64f10e6aa031e5b1cd44b9fa95863dfdb9eb"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch11/smith-theory-moral-sentiments-gitenberg-67363.html",
+      "bytes": 789026,
+      "sha256": "96c4a28389312d8a69c8c7df5a3dd500f825e9b2ba5957a3d933bef69700f387"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch11/smith-theory-moral-sentiments-gitenberg-67363.txt",
+      "bytes": 723038,
+      "sha256": "c08da2f454509d21538f7941dfab6e2a3186012ac9b0bd0271d7e9bf4d153051"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch11/smith-wealth-of-nations-gitenberg-3300.txt",
+      "bytes": 2276571,
+      "sha256": "a4c14c88e2ecbc107907712a42502b3815d3f6d93b3ff0dcf0eb2fc7a59e304a"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch11/source-review-notes.md",
+      "bytes": 4818,
+      "sha256": "3e737ed04c6b087958c4cf01f905822289ecd09e71ccb99ac14f4b6e0e3d55bd"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch7/arrow-medical-care-uncertainty-1963.pdf",
+      "bytes": 3630673,
+      "sha256": "6a5c54a652f84884c30c846b2ffb73e3332632ef75a3bc56129f8bda518062b8"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch7/fisher-debt-deflation-1933.pdf",
+      "bytes": 2459258,
+      "sha256": "b82426305fe5dade9a7eb43b9a79aa7024fc3e743e8ec94016d08ceb389b301a"
+    },
+    {
+      "path": "research/source-cache/economics-context-batch7/hayek-use-knowledge-society-1945.pdf",
+      "bytes": 1129691,
+      "sha256": "358e62925da4f5a56839f4e039ad8fc03e61ee387968ce1ca933e6ad4a0b410c"
+    },
+    {
+      "path": "research/source-cache/economics-source-audit/abadie-diamond-hainmueller-2010.pdf",
+      "bytes": 441983,
+      "sha256": "899dd55ab6e5d093e1cf0efbbd6493f824e36935880006a55fa4d10d27393169"
+    },
+    {
+      "path": "research/source-cache/economics-source-audit/akerlof-1970.pdf",
+      "bytes": 493635,
+      "sha256": "cbfe9d7cff268ce38deca888ae55514fa471ce41a9a383380a4d9834299b1a01"
+    },
+    {
+      "path": "research/source-cache/economics-source-audit/aumann-author-reprint.pdf",
+      "bytes": 210404,
+      "sha256": "e3d64416e0273c81ed83cf1d7a143c70d40f22e41a11a3143621bdff168916d5"
+    },
+    {
+      "path": "research/source-cache/imbens-angrist-late-nber.pdf",
+      "bytes": 1433633,
+      "sha256": "a1b35f31b63f0563de6fd0be2092ef62b5cede31d7b1fc2d8d859adc18a006e4"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/gandhi-hind-swaraj-1921-reprint-ocr.txt",
+      "bytes": 213974,
+      "sha256": "25453deb76a2ce18d7be3e2c737a92310454c40a8b9dbb63c797435fdd7f142c"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/gandhi-hind-swaraj-1921-reprint-scan.pdf",
+      "bytes": 8395863,
+      "sha256": "78724b7a84800b45ddc48ac2ba4dc216200d3d0bf70fb28363b3b381aee9428f"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/gandhi-hind-swaraj-gutenberg-40461.txt",
+      "bytes": 189877,
+      "sha256": "fa2a144d2bad65991b2a9feb773ff9ad1d9d4c130a7b94c7a30eb8042d19a2d0"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/hume-thirteen-principal-upanishads-1921-ocr.txt",
+      "bytes": 1291813,
+      "sha256": "ec0e1158460a6d8b547970f72308aa625009f5a08929fcf22bda742bfb96802b"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/hume-thirteen-principal-upanishads-1921.pdf",
+      "bytes": 22158091,
+      "sha256": "61f646831e997177acc0b984e6ce42a9f0354748efd38409e510684a23b761cb"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/vivekananda-raja-yoga-1899-ocr.txt",
+      "bytes": 559576,
+      "sha256": "a3381c2d653201046ab21c025d4dc212cdda014820693619089e7e6ec8a9e2b1"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/vivekananda-raja-yoga-1899.pdf",
+      "bytes": 9403398,
+      "sha256": "07bf3da2c499cf73fc9d67a59201d1ea32e9771577e08926d847cab5e73938be"
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/woods-yoga-system-patanjali-1914-ocr.txt",
+      "bytes": 1327687,
+      "sha256": "2ecb9efe32e90d407dd78e700c5ff1330888228cbfa832c889ef7fc7814ef70e",
+      "aliases": [
+        "research/source-cache/non-public-24-recovery/origins/yogasystemofpata00pata_djvu.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/indian-context-batch4/woods-yoga-system-patanjali-1914.pdf",
+      "bytes": 23376207,
+      "sha256": "94a6a9e63e6a451441cce4fd7f883ae3be5daa63db93e631c3a15db77207ea6c"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jacobi-jaina-sutras-part1-1884-djvu.txt",
+      "bytes": 811599,
+      "sha256": "a31f5e0dedbd8026acd60498a2d604e96a9426fdf3d3a702a630c450a0cf05ad"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jacobi-jaina-sutras-part1-1884-metadata.json",
+      "bytes": 83478,
+      "sha256": "c9500bf4cd55875876603629e2851ccf34942820f0ea1fd64ffa9166e2a0b2c2"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jacobi-jaina-sutras-part1-1884-page-numbers.json",
+      "bytes": 73065,
+      "sha256": "cf8800193849c7b2c8579063ab4790a8d55b38cccd19ea280c64dc18229e7bca"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jacobi-jaina-sutras-part1-1884.pdf",
+      "bytes": 20110794,
+      "sha256": "fe0d8113763397fa1a296e635e2c47a2a49b2cbc89bffc2bc8cd119163f2778b"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jaini-tattvarthadhigama-sutra-1920-djvu.txt",
+      "bytes": 684583,
+      "sha256": "ae3c3dc1193df798b1372716b1e3102e4fd405881fb2ba9b604cc29f30266e5f"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jaini-tattvarthadhigama-sutra-1920-metadata.json",
+      "bytes": 9175,
+      "sha256": "ce0eb49a0c850c09ee2b52f4572342c80c5adc2097effe6a5347b1dd9da125c5"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jaini-tattvarthadhigama-sutra-1920-page-numbers.json",
+      "bytes": 40698,
+      "sha256": "2fff91df02eef6b411d90b7405c6eff87c4a4a26f5a5aec52531587e88baa771"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/jaini-tattvarthadhigama-sutra-1920.pdf",
+      "bytes": 8080785,
+      "sha256": "01228c94f17f97b11860e1a389b55eee26c95862f5b33893883da2e1aff071b9"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch10/source-review-notes.md",
+      "bytes": 7097,
+      "sha256": "53e9bed28090db1bd71a5365aeb8758d1d203f163bae363350728f028f25030f"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch2/telang-bhagavadgita-sbe8-1882.pdf",
+      "bytes": 25914055,
+      "sha256": "3b01689fed533ea146b4ecade14be877b4a78f768f3b221f62fe91530635bc12"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch2/telang-bhagavadgita-sbe8-1882.txt",
+      "bytes": 1184791,
+      "sha256": "45c02fa58fd6c39cf2f95e742b376f14db74bf0a1aca268199f56f92301e5284"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch3/ambedkar-annihilation-scan.pdf",
+      "bytes": 5265553,
+      "sha256": "40071a900449094441d507fb5b00bb620a5f866a8a698576a38dd1441a05f593"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch3/ambedkar-baws-vol1.pdf",
+      "bytes": 1912217,
+      "sha256": "7455cbc69c584fe3ee69dfa83649fd77dd4b7278ba113263b803bed0f905a4fe"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch3/ambedkar-columbia-2004.pdf",
+      "bytes": 644600,
+      "sha256": "fb4d97b928f52ad2fffb9a29945ac319defabe577ca71eb81065b31e9aad38bc"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch5/tagore-sadhana-gutenberg-6842.txt",
+      "bytes": 230944,
+      "sha256": "b054c0bda24fa9825d895e3e23c11b783c9aaa1bfd897693d4a24da2eb3211bc"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch5/tagore-sadhana-macmillan-1913.pdf",
+      "bytes": 8389518,
+      "sha256": "e86df1e5ba845fc1767baf744213b1aa6f996d40e87867269441f11daa9ec72b"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/an3.65-html.json",
+      "bytes": 3041,
+      "sha256": "0424a17d614116179c034ef20c1cdd8bdefa89cd3820d9eb9f09101b80fd5caa"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/an3.65-root-pli-ms.json",
+      "bytes": 12310,
+      "sha256": "72394e0d7c6e739d607585d1aed747fd095c91a9e5526ce792f35d6c680e6b9d"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/an3.65-translation-en-sujato.json",
+      "bytes": 11572,
+      "sha256": "bd6d82e806eaf07f3d6e65a0a6a900002e620ade400b8fc81ff3d300b312f5b2"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/bilara-data-LICENSE.md",
+      "bytes": 322,
+      "sha256": "fb244eaafc121b9f5b14dbecb20ac407b3acf6eec8c5028fc1e3bd0afb1a6f3f"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/bilara-data-publication.json",
+      "bytes": 313522,
+      "sha256": "23706791ac5fd02f23634d75283447cff4e454c8c03c457f74d1cbd3971dc874"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/sn22.59-html.json",
+      "bytes": 1739,
+      "sha256": "a994f42dd4c868d94eaae8b29ae5ae746342377786ae3c9bfcd7b6eebf0ac4c6"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/sn22.59-root-pli-ms.json",
+      "bytes": 5682,
+      "sha256": "bee5f0d60667161a14d78e4710b96710fca3bfc44025f4bffb0b0f61789ffbae"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/sn22.59-translation-en-sujato.json",
+      "bytes": 4346,
+      "sha256": "732e7e2b83a62fdecd802fa01be8f149f5d1db28e411b71e7b7eb844a885788b"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/sn56.11-html.json",
+      "bytes": 1702,
+      "sha256": "2fa81e2a40b8353d86db55ca66b7147f051a42dc923d215ac97c86a55c95b5cf"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/sn56.11-root-pli-ms.json",
+      "bytes": 7858,
+      "sha256": "c733b9ad6007f88b95bedd8904599f76d9b7fa999be2d56b9cd87c5acb4550d7"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/sn56.11-translation-en-sujato.json",
+      "bytes": 7265,
+      "sha256": "8900aeaeb3b922bdb428ee9ef80e05cc395ddcd3dda01ab8d3eef47dd181a3f7"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/snp1.8-html.json",
+      "bytes": 2478,
+      "sha256": "cb38f811a3cb1656e8f3e07c1883cb1c70b60f92e476ed0b520ebbea8ca9fa0d"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/snp1.8-root-pli-ms.json",
+      "bytes": 2155,
+      "sha256": "0c7dc7cd588a66bfe800a52bc10636ceecb96f62d7106a59c29601c86d29d272"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/snp1.8-translation-en-sujato.json",
+      "bytes": 2254,
+      "sha256": "7f3c59ed40f7e7b9af78dd401c22e05179f6c449812b618fcf7c9036cc1adf3d"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/source-review-notes.txt",
+      "bytes": 8473,
+      "sha256": "5edc743f90d5f399bcec1dcd5dc8e953e0e37b8dfcb3733285f28ea5dda68322"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/ud1.3-html.json",
+      "bytes": 1171,
+      "sha256": "d489d8799d36faa55577737c06f6ada02cdc12fb80dc0753390f60eefc9d143d"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/ud1.3-root-pli-ms.json",
+      "bytes": 2524,
+      "sha256": "4afdc73926b3de902344dde9e4e75f1b477615dcb0d4906cb86a1d4ef09efe9d"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch6/ud1.3-translation-en-sujato.json",
+      "bytes": 2908,
+      "sha256": "a99441da3c8b495c627b4f7d170e0555718081ffbbc943dc93267b9faa0fe307"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/ambedkar-baws-vol1-official.txt",
+      "bytes": 1342555,
+      "sha256": "67ea585f6dec2fe097a962b95b9b0310b2780819c8c9d73a3e27bbe74c07a294"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/ambedkar-baws-volume17-part3-baws-mirror.pdf",
+      "bytes": 3998722,
+      "sha256": "34bc87a5a9725410615c30850c37e3cadc9fe8fcaba2b8642fd3681320b1e571"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/ambedkar-baws-volume17-part3-baws-mirror.txt",
+      "bytes": 1168641,
+      "sha256": "e5e9860b0bd4ca769617e59b0db107eb209bc555032209afe440aace2b64f49c"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/gandhi-experiments-with-truth-vol1-1927.pdf",
+      "bytes": 36245922,
+      "sha256": "e7b5ff3daf398e9cdb5be87e13c9fc2363fa30d219f207534ab74b60d8f48a64"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/gandhi-experiments-with-truth-vol1-1927.txt",
+      "bytes": 665731,
+      "sha256": "032ef3f304ee559a057f741ae6061ae742ec37305254a1147388badd189a24a9"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/gandhi-experiments-with-truth-vol1-commons-metadata.json",
+      "bytes": 2939,
+      "sha256": "9727a9d5cf9816211fef1c590d2321feec3b843d90f1d924b0878005303868b2"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923-djvu.xml",
+      "bytes": 28120653,
+      "sha256": "c440fc3a3288174012223da1cb7757fcb88dccfa4c0c943392f92a1b64a99229"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923-metadata.json",
+      "bytes": 197493,
+      "sha256": "e02e472020276a3289d4b0f370a48e70bcdf9b44bd3906ef25232dfb6f4ac607"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923-ocr.txt",
+      "bytes": 2298415,
+      "sha256": "5d2bb8286e9a9c57b0314ce6f44e8e5ca50258696188f5833036791cb9ca5785"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923-page-numbers.json",
+      "bytes": 187204,
+      "sha256": "8e145b25d704e9d9bf94a9c32883f216ed6df6579bf64f3a4430af9a000e77e9"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923-pdftotext.txt",
+      "bytes": 2280667,
+      "sha256": "85143805dc6bd991e1bda0bb9365635dae461d55796cce79c31e60ba49d5b191"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923.pdf",
+      "bytes": 99977846,
+      "sha256": "2fcb81fbf24bc381a3c2b161ba2d8aec2d34feb1bf540194c872a00b199d877a"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch7/source-review-notes.md",
+      "bytes": 5064,
+      "sha256": "1249637ab37378de9a02423fe8bf36b5e724e6d2fe6bea7161c0d92f5477e98e"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch8/source-review-notes.md",
+      "bytes": 5668,
+      "sha256": "85340aef78c8f85fee980b94a3cb055adf60e90613ec23eb6c7602eed83cfa85"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch8/stcherbatsky-buddhist-logic-vol2-1930-djvu.txt",
+      "bytes": 1216785,
+      "sha256": "fd69774822ab7c2f54fcdb95a270673f2c47693af1742ae19f30ce7bb0d2c827"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch8/stcherbatsky-buddhist-logic-vol2-1930-djvu.xml",
+      "bytes": 10913944,
+      "sha256": "23749dfecaa8d97de79c06c712797329292fdfde2d9720d1dfa6de0c64b6c5da"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch8/stcherbatsky-buddhist-logic-vol2-1930-metadata.json",
+      "bytes": 5289,
+      "sha256": "8830e630a3ac9d366914167b4d0c365d846109c913246934ad9ade9fdad0fe78"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch8/stcherbatsky-buddhist-logic-vol2-1930-scandata.xml",
+      "bytes": 143827,
+      "sha256": "52bc6d909e03fd3e398920bfb0d453e4d5105871bcc1fb723801a4bf733e8826"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch8/stcherbatsky-buddhist-logic-vol2-1930.pdf",
+      "bytes": 38224828,
+      "sha256": "a5f6808e21823fc7ffcc81601a24e4570028285e16cf3a79729457e10887a61e"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch9/sinha-vaisheshika-sutras-1923-djvu.txt",
+      "bytes": 1098667,
+      "sha256": "859a757b1f1fb61134d66efc71afd5b51ae41bdab488aa8c274c6e3bd953e7d9",
+      "aliases": [
+        "research/source-cache/non-public-24-recovery/origins/thevaiasesikasut00kanauoft_djvu.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch9/sinha-vaisheshika-sutras-1923-metadata.json",
+      "bytes": 75426,
+      "sha256": "068ff79e7545f2590c5d307d4e0353629ff7f66a29ecc2a050d0cebabd134326"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch9/sinha-vaisheshika-sutras-1923-page-numbers.json",
+      "bytes": 64796,
+      "sha256": "ff7f36d079f86b3a424d06e57218fda0b4c66610c0507fee7c23abcc243fb469"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch9/sinha-vaisheshika-sutras-1923.pdf",
+      "bytes": 28839732,
+      "sha256": "15ec786c867e65f948ed148d9f5e6ed0faf05b30e226aaa0818a68a2fa34d9fe"
+    },
+    {
+      "path": "research/source-cache/indian-source-audit-batch9/source-review-notes.md",
+      "bytes": 5529,
+      "sha256": "ff8be3a020f638f0270a476118248b87e95c55dd0a053bdea156050356d44639"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1965-v1.pdf",
+      "bytes": 1504702,
+      "sha256": "3cd54393058e5026092346088a8fdb54248857f10fb484ee429fbdda09c0265c"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1965-v1.txt",
+      "bytes": 888353,
+      "sha256": "e8c18390bb2b3335b3ae7ae05a939d35dcbd6567b62ff32126272ec03e00144b"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1965-v2.pdf",
+      "bytes": 1984401,
+      "sha256": "0bff1cca1dfd4c4d67213df1d08bfbb33788e3630c0acfac73689fe80df4bd97"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1965-v2.txt",
+      "bytes": 1124842,
+      "sha256": "9ca9140a05f332b6f04b1d403cb4745da553095904f0aa1e1a1aa9669523923d"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1965-v4.pdf",
+      "bytes": 1914926,
+      "sha256": "9c6f20424d4ebe11d9d0a008eef2bcf4d005ce11bb37b6c30c124568d856447d"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1965-v4.txt",
+      "bytes": 1043857,
+      "sha256": "150d268746c2265430b71565e622dc9e82c863f4429bc5c04944e4919285e93a"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1971-v5.pdf",
+      "bytes": 1969274,
+      "sha256": "67718203f06d3f45dc9e79f2a9b0b173789725fc0f91635cc6b646c6faf06a7a"
+    },
+    {
+      "path": "research/source-cache/mao-selected-works-flp/agora-mao-sw-flp-1971-v5.txt",
+      "bytes": 1231322,
+      "sha256": "73d61a3a213344418f0785df2d6fbebd8f64fa33917a7022eb4aa7baa6abf30d"
+    },
+    {
+      "path": "research/source-cache/mao-source-audit-batch11/source-review-notes.md",
+      "bytes": 10577,
+      "sha256": "f78eef86884b1789b32b1a70ddf0b87bd8533cd54f05e3a43c308311c54afdc7"
+    },
+    {
+      "path": "research/source-cache/menger-origin-money.pdf",
+      "bytes": 1341232,
+      "sha256": "ae0073e11ffab901c55082541ca40a1ef557eac2868087e06302ab74dc928489"
+    },
+    {
+      "path": "research/source-cache/menger-origin-money.txt",
+      "bytes": 50009,
+      "sha256": "c31e1e7f78a9d74b6e6e0f63697e016ed3b8af0e18189d65d73cd79562786c45"
+    },
+    {
+      "path": "research/source-cache/menger-principles/principles.pdf",
+      "bytes": 1949733,
+      "sha256": "b8f63e6058c2ace37effd4a24f4eebf0ffc131459add2afcb8e2e748d5c16e28"
+    },
+    {
+      "path": "research/source-cache/nasa-heisenberg.pdf",
+      "bytes": 1876899,
+      "sha256": "2d6a19e8f6df69757860e9646e3b04fa94ecd0682a1bca8b437667deca1f977c"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/derived-batch-1.json",
+      "bytes": 3909,
+      "sha256": "3c229228074dd1247a3c6bd32bf0a34993c2182efc9220eebc35bad647e8e096"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/derived-batch-2a.json",
+      "bytes": 10912,
+      "sha256": "7ea45f454476108832c4bd92484f2494a038a5cab22efada2aa7a0585a70482b"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/derived-batch-2b2a.json",
+      "bytes": 6194,
+      "sha256": "688350e113dda1c21e1cf22c5f8c9d67898267344fe0b7d9e8463bd8521bb5eb"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/derived-batch-2b2b.json",
+      "bytes": 16598,
+      "sha256": "eeee6843597fa4d1a91e2c15a8a8f2b06451945638eb27be3f2ab0c4c248fd3a"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/anenglishtransla00vaacuoft.json",
+      "bytes": 54673,
+      "sha256": "fa39421de9ade0db73be694e62c332ec714d1cfba647ef7b93715f0d317eb5cc"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/archive-capital-search.json",
+      "bytes": 1876,
+      "sha256": "51c23ed75583ad9fa8b6a250beb4d9c75e32d8d294c519a01102d260c95cba0a"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/archive-rousseau-search.json",
+      "bytes": 1989,
+      "sha256": "2be7d1f95d8cd35dc10e4ea1b134a70b745f73206e096fc17ba44ae1b92c2358"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/capital00marxuoft.json",
+      "bytes": 8644,
+      "sha256": "367d687e2c9aa82d5a6902f8c421ecf3fbe648dd2f85417dcb53d9330deaf92a"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/capitalcriticala00marxrich.json",
+      "bytes": 79521,
+      "sha256": "dbe1d3efac708b00ae99c47675684354d0f4c278c99e011a1c2b3a525a24ca81"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/capitalcriticala01marxrich.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/capitalcriticala02marxrich.json",
+      "bytes": 89436,
+      "sha256": "df3a17c3983809e7497222a1f8c829fcf6784dd5916df583a1c803317261fdee"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/cu31924032296422.json",
+      "bytes": 161681,
+      "sha256": "d43c6e7e1ee74b5db9b998a5486a32256d7c6b49d5142ffa012dbbe8f23c69b5"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/cu31924073868113.json",
+      "bytes": 184109,
+      "sha256": "0a4480dcf97afc2a4f74e18a659af3983654a73d02f4d75c65c790d04df76b42"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/educationalpsych02thor.json",
+      "bytes": 90956,
+      "sha256": "3090a74d901c15c0444e50c25b0153584a22033a4a2c5af17a10b006d011958a"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/educationalpsych03thor.json",
+      "bytes": 82927,
+      "sha256": "1652841155cd0d5944cd2cb34f81c2db97f4e63722e16288d354a6a18f4a85a2"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/einstein-wikisource-fileinfo.json",
+      "bytes": 949,
+      "sha256": "b0df51885128d566f50d30170e10f4e4ca87d15891a29d80f17ab84ead8db1cf"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/einstein-wikisource-pages.json",
+      "bytes": 1807,
+      "sha256": "b95acb05b3b1da0734312b7205751e888c0725563458d576f7c711d9fa9e57d4"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/essaysandtreati01kantgoog.json",
+      "bytes": 7629,
+      "sha256": "18a78d584a77a4c117497ed5c4fb207404c8e2855d4806f3dbc39826b3ffcce6"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/github-gitenberg-69434.json",
+      "bytes": 73,
+      "sha256": "08c082fdf7ca87ba911a2aabb0f0cf2d3e482a6feeaac9713e4578c20b2600b2"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/in.ernet.dli.2015.73095.json",
+      "bytes": 5768,
+      "sha256": "e7edc358a56da6f4d588d2765fe4f4da657d892188ed2b23b645b0bb0992b394"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/mathematicalpsyc00edge.json",
+      "bytes": 38370,
+      "sha256": "b7fa337548bf1ec1af6c93d93e70eb876de536880eb9464cf6ac67087b5c867d"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/philosophyofhist00hege.json",
+      "bytes": 96392,
+      "sha256": "2481e9072088e69d889eecaf0a8b01782b141952aa14d57375bd6329035d3054"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/philosophyofteac00augu.json",
+      "bytes": 28669,
+      "sha256": "de03a4063175e29c4b2fa6cd72f15dab3f5ac70fc0f215f6cc84708e6166fe3a"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/religionwithinbo00kantrich.json",
+      "bytes": 61737,
+      "sha256": "c0aa376fe3aeaf65a5b6f6182f7114745926686a2f70ed391d4d2d1f563e83d9"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/scientificpapers01maxw.json",
+      "bytes": 123032,
+      "sha256": "a06c7cbf2fbc54928c00042db9cdaa337a5d00a32422b0b3030ab7950217ea79"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/selectionsfromwr00kieruoft.json",
+      "bytes": 51067,
+      "sha256": "40eee394e2c456842f82444bc58ced8bea8efdfff462524f9ba63a174f9f4fe8"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/sim_journal-of-political-economy_1931-04_39_2.json",
+      "bytes": 45638,
+      "sha256": "28168a02a8b8e42d42ea0941886a6010e7bba073d41f62c1cbe4e6bcb7e87edb"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/sim_monist_1917-01_27_1.json",
+      "bytes": 44131,
+      "sha256": "f8e06dad819c77fb9f8545892edd2a032a04d065a4feb9477c9fe79c9f151339"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/sim_psychological-review_1956-03_63_2.json",
+      "bytes": 27080,
+      "sha256": "f19648ec3b6063e780113ea9352f79b2e992a7418fe227e73ef1e2f4f51e8e2d"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/thevaiasesikasut00kanauoft.json",
+      "bytes": 75426,
+      "sha256": "272a6d22a910ccafe580a307d63c1f527dab6050476d03cfba1541e4dfcc5dec"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/wikimedia-fileinfo.json",
+      "bytes": 4383,
+      "sha256": "200d379a244d6e537b8902394f932607aaf39a04a129c8a43224345e0d85060c"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/metadata/yogasystemofpata00pata.json",
+      "bytes": 84148,
+      "sha256": "ffd117f5990841c2587ef35300a24ff3fdbe4615b6dc9c54ee442b4cc8bd823b"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/2015.73095.The-Encyclopaedia-Britannica-Vol-Xvii_djvu.txt",
+      "bytes": 8912177,
+      "sha256": "373481a8e3bd1f800645dfa5233b0a70b47a3583b7cdb84d89d5cba83787841d"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/anenglishtransla00vaacuoft_djvu.txt",
+      "bytes": 328023,
+      "sha256": "32673ea55ee42cb1c980a5227148c503106d39e93e359fc520c603d303a01081",
+      "aliases": [
+        "research/source-cache/reading-unit-origins/samkhya-karika-jha-1896-archive-ocr.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/averroes-1921-layout.txt",
+      "bytes": 318985,
+      "sha256": "5497111e52011f804b8aa7406bad59bace153efcb36a132f15f8cf36416c2713"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/capital-marx-1887-volume-1.pdf",
+      "bytes": 31960061,
+      "sha256": "e262372b3ae63259782d30b44963a1ea03b47e22a2b8a3a0776a5056de18b95e"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/capitalcriticala00marxrich_djvu.txt",
+      "bytes": 1136642,
+      "sha256": "31989387b68c8669dfd2026a457f328370240d80e26e07248e82bb32a168dac5"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/capitalcriticala02marxrich_djvu.txt",
+      "bytes": 1293811,
+      "sha256": "ec5e206a1193b0ec5aa7f6c59a295b7b47528cd1a867027da8941aa552728d05"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/capitalcriticala02marxrich.pdf",
+      "bytes": 34489691,
+      "sha256": "e024ebd282cfc24570eb7ebf60c51b316dc14b933c463eec7c9e00b6a9fd11b7"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/cu31924032296422_djvu.txt",
+      "bytes": 2733045,
+      "sha256": "7c23197c4f229b7a68ec935d5ac6f6cda6a1a3d00845c2ebe5b9d1bf4e936b03"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/cu31924032296422.pdf",
+      "bytes": 39621153,
+      "sha256": "4c3e9d7c3027af1ede5a50cc53d388f38f385b978000246f05c6f7b8a078211d"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/cu31924073868113_djvu.txt",
+      "bytes": 2685413,
+      "sha256": "c2f7d16f370d66f07f4d39d986592df465f499fdd0b8247cd53b7457f0816bd7"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/cu31924073868113.pdf",
+      "bytes": 41523122,
+      "sha256": "ca0f16a3e151e983b38736d8aa58cea58190d1fd91385d851b77ee7ae7b2038d"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/educationalpsych02thor.pdf",
+      "bytes": 24441463,
+      "sha256": "cfce1bab8288836a5cbc0bd7488e9973fdeba49c16258f154fdf7d2a62543804"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/educationalpsych03thor.pdf",
+      "bytes": 22245354,
+      "sha256": "c7d33488db2e3579be9d0c5ecfc19cbe134ef51be12d66ac972f6d1dfa9482eb"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/einstein-brownian-investigations-1926.pdf",
+      "bytes": 42079188,
+      "sha256": "d111770a879336dfc16622ad5993814ad8297012d68b08c9eca5fb1a07240bda"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/einstein-brownian-paper-pdf-pages-15-32-tesseract.txt",
+      "bytes": 18582,
+      "sha256": "d4f9e4a8bd2367a146e6e909a550b8cf8cb3a86d1d15217a5ab2882219b67583"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/essaysandtreati01kantgoog_djvu.txt",
+      "bytes": 653036,
+      "sha256": "3ea1ef81904d0ab0455f94eaaaae628a672606170fcf15a9455dd62b7ad4801c"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/essaysandtreati01kantgoog.pdf",
+      "bytes": 18863768,
+      "sha256": "8e89d73f1c7e3b82b01add11009254bb3c6dec984089198f22bf22f7498f6faf"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/mathematicalpsyc00edge_djvu.txt",
+      "bytes": 342599,
+      "sha256": "2f61f0e560e57f9746c3348dccb98f7b5362aa4f93b9f687d2e49911c3df16d6"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/mathematicalpsyc00edge.pdf",
+      "bytes": 9078877,
+      "sha256": "d9cf136c96f46d8996a766a02a2b0461866e828de36bc181fd664ab69d7f871c"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/philosophyofhist00hege_djvu.txt",
+      "bytes": 1362580,
+      "sha256": "d6b815f3c6fcbca319aa48a87fdd325c2ea38e0950f49b19c8af4ba666830890"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/philosophyofhist00hege.pdf",
+      "bytes": 28336184,
+      "sha256": "3b08a346a33d818b825e64bea42c168096d54752bd53f79f5e2d0247faac1ca5"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/philosophyofteac00augu_djvu.txt",
+      "bytes": 117641,
+      "sha256": "a3f898e6cd56e7b058bef08cbed10169416f31567eebc954ec8706c299f87885"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/philosophyofteac00augu.pdf",
+      "bytes": 5303960,
+      "sha256": "1df1452567c9777627cd8c775ae379cc6ba17822148f8227d9727c31d18c2ecc"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/religionwithinbo00kantrich_djvu.txt",
+      "bytes": 607888,
+      "sha256": "7cfc98cc32a2969b972fb4ca5c65ecbe6f631ef63770985e8209de689e4ee635"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/religionwithinbo00kantrich.pdf",
+      "bytes": 13600012,
+      "sha256": "a3df1c22194fa94a96423dddd3b490a112fc55200bec60225ad3abf5789a98f8"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/rousseau-essay-origin-languages-simpson-1921-gutenberg-69434.txt",
+      "bytes": 141577,
+      "sha256": "e10dbe91635be2a950797f113d11e550b0c344766e1f0e92474b37d4825d5e5f"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/rousseau-wikisource-1782-api.json",
+      "bytes": 500,
+      "sha256": "fad5fb1e2b2c3df7c9d40fb66f46c01d9b6fdc92304ee7b43264708634ba0664"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/rousseau-wikisource-pages-418-420-api.json",
+      "bytes": 6064,
+      "sha256": "7fa6223b6524288b3f099f27ec5e722b186eef2af0a96c2522e5f2d5e00a797c"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/scientificpapers01maxw_djvu.txt",
+      "bytes": 1460465,
+      "sha256": "2db1992d150a34e8c6f828e03eb58aecfe88c43d3f30f8807b284112bc4d86f6"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/scientificpapers01maxw.pdf",
+      "bytes": 44720147,
+      "sha256": "f85ab1bfec2843a8f24156a1a09c96234917e49f011fe513eae2ef25d66e6104"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/selectionsfromwr00kieruoft_djvu.txt",
+      "bytes": 581740,
+      "sha256": "6f267dc3c353595fc624d082fe3ad30d25f3fe068ba1766ed3d475245bc0e9b1"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/selectionsfromwr00kieruoft.pdf",
+      "bytes": 17496506,
+      "sha256": "9b18920d07f6be79a67ef20877ebf12e1d178aba5d3609f41833765f2f968cf0"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/sim_journal-of-political-economy_1931-04_39_2_djvu.txt",
+      "bytes": 331653,
+      "sha256": "e97d220c4cf05a345579f9f1ee2be984c60971b87033a8aec0f5afdc53ebcb6c"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/sim_journal-of-political-economy_1931-04_39_2.pdf",
+      "bytes": 28706687,
+      "sha256": "5bce12f194e8af174958f912bc41bb3faf8f7c1158a57f365445d675f8bfa84b"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/sim_monist_1917-01_27_1_djvu.txt",
+      "bytes": 328426,
+      "sha256": "8063a59d53141068b063fb7d532c05fd5dc84677e0e08b49f912fe2063bafefc"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/sim_monist_1917-01_27_1.pdf",
+      "bytes": 24772068,
+      "sha256": "37a93a52c47b84f9535c350cf710676d834dad52bd594c1ee0ecd28502c0b5cd"
+    },
+    {
+      "path": "research/source-cache/non-public-24-recovery/origins/sim_psychological-review_1956-03_63_2_djvu.txt",
+      "bytes": 254707,
+      "sha256": "89cd4a5e27c8c0f34d7fad9ccc11d19fbfb1bf859eaa2c6766d21758d6e51c91"
+    },
+    {
+      "path": "research/source-cache/nyaya-vidyabhusana-1913.pdf",
+      "bytes": 18379384,
+      "sha256": "52de2b2e879a3219de6015d4de3cba255d63f78a7e2c5daa001414cbd2dac7d7"
+    },
+    {
+      "path": "research/source-cache/pasteur-fermentation.pdf",
+      "bytes": 521665,
+      "sha256": "e048deab3f771bcd772d037c45d3b15669ad483aa464da02a3b4caf15fcad9c1"
+    },
+    {
+      "path": "research/source-cache/psychology-context-batch8/james-principles-1890-v1.djvu",
+      "bytes": 16488876,
+      "sha256": "e3846160196e01573e5b3c29f056a260a38f09636426b90243fc5c06af5545bc"
+    },
+    {
+      "path": "research/source-cache/psychology-context-batch8/james-principles-1890-v2.djvu",
+      "bytes": 19361109,
+      "sha256": "112512060ae6e2a82e491b8177a7dffba516bc9b8df0522154b81da663120929"
+    },
+    {
+      "path": "research/source-cache/psychology-context-batch8/source-review-notes.md",
+      "bytes": 3904,
+      "sha256": "de3e23c34fff685b6fb2e5a7f2aac63b1839690c255f9183defdce0785f447d6"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch11/bandura-moral-disengagement-1999.pdf",
+      "bytes": 3010457,
+      "sha256": "89999fd230de4a28ed68b35c01d9505e8b98a183279bf90b6df5025d43280e4c"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch11/deci-koestner-ryan-meta-1999.pdf",
+      "bytes": 7388022,
+      "sha256": "2906b74dfb0b4e5692c36d827c877e3702c0d5b695cac773df2694b9c7d1e679"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch11/miller-cognitive-revolution-2003-elsevier.xml",
+      "bytes": 1806,
+      "sha256": "b59bb904ee79f21694e81b9bfd0ddc6bd7971247f4962b14093e1b6652ebec87"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch11/miller-cognitive-revolution-2003.pdf",
+      "bytes": 78295,
+      "sha256": "9fd8bd4e96ab810f0c3da00b0eaa9d1a457dc2bf0081705f84d9db4131174411"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch11/miller-galanter-pribram-plans-1960-djvu.txt",
+      "bytes": 579413,
+      "sha256": "8f20cb771d5fe51196676052e983af2115e260dbaa1d0fe5137093514c852dee"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch11/miller-galanter-pribram-plans-1960.pdf",
+      "bytes": 11089478,
+      "sha256": "5942f9c0e45e41f8cfd0941d942aa0c0389ecab2341c30ddcea9a93eb0625a3a"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch11/NOTES.md",
+      "bytes": 7911,
+      "sha256": "b0ff840a2c6b9cf753b8c5d26a858a7c8caa3f204f12865323e45524a2a81387"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/bandura-1977.pdf",
+      "bytes": 2145094,
+      "sha256": "ff21a8ed19cb76165bc3c9be6ec1db968748405077a05822bbe7d7189cf69425"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/bandura-1977.txt",
+      "bytes": 131345,
+      "sha256": "eff1755c15bb376d533cbb08a80fef25038c599f408b734823c5393c6225846c"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/deci-1971.pdf",
+      "bytes": 809734,
+      "sha256": "ffd139671e75b0fd36f8934ee47ca66aa89fb947e52615822a738ad0c4bc6d8f"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/deci-1971.txt",
+      "bytes": 276,
+      "sha256": "de50ba099f9a2883152590040a4767923b34d15948235cdfaab4207ff46f15a6"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/miller-1956.pdf",
+      "bytes": 14602993,
+      "sha256": "1196aed2a061e97a4a554d1c4afcfc07c01ef9fc79539e538a6bb1ea8a3f431c"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/miller-1956.txt",
+      "bytes": 341894,
+      "sha256": "94459f1901130f7da4a06484853a95d9822e7623d6394b789ba5dcb30c5c64dc"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/ryan-deci-2000.pdf",
+      "bytes": 2336577,
+      "sha256": "e14779081a999b49dfdde8fe7078fcef65a282d4e6374a037269083d063a1ec3"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/skinner-1938.pdf",
+      "bytes": 6275589,
+      "sha256": "da640f912e7df3261e179cce4b90759b5dd70763b3e86ac30948581c78b08a8f"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/skinner-1938.txt",
+      "bytes": 1530314,
+      "sha256": "5628f2c1a76d76e306ccc1d0c122f20ad7409b24af636055bf0c9eefb50918d8"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/tversky-kahneman-1974.pdf",
+      "bytes": 2230462,
+      "sha256": "4a9ad1820b41d0644b082e68ba429c824ac197620fb619caf54849a911f93dff"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch2/tversky-kahneman-1974.txt",
+      "bytes": 10486,
+      "sha256": "750249a1f811e0330791d834049f44e31a002faf4f045e08378b4d5dc578afc2"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch3/science-and-human-behavior-foundation.pdf",
+      "bytes": 2975101,
+      "sha256": "b62a69e940dcb29436414aa40cb50126f8e47ccffbfb920efb0d95a52f574335"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit-batch3/science-and-human-behavior-foundation.txt",
+      "bytes": 998329,
+      "sha256": "25eaefa5c9f81b29f65b411764af9a7874f281c8e1d52f0a63cc48dc2db10067"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/asch-1951.pdf",
+      "bytes": 1031789,
+      "sha256": "f8d31c3c1a36330ac29b471e681d4925af3f3fc158cf8da113d0af899355047a"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/asch-1951.txt",
+      "bytes": 47546,
+      "sha256": "633ff6fd3b2521359c248a259f9f6af4c201f77c0d848df8afc24c3de0fac298"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/bandura-1965.pdf",
+      "bytes": 592391,
+      "sha256": "fa57a6440f895ebeffbcb73cbd4936bd68be6cca4dbdc0fc934d05f8f040ec81"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/bandura-1965.txt",
+      "bytes": 12,
+      "sha256": "fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/festinger-1954.pdf",
+      "bytes": 3065461,
+      "sha256": "d0b830982dacd3a8bdaf85583297c8f2adf3e9c25cff0e14169461be53fb1bf3"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/festinger-1954.txt",
+      "bytes": 76077,
+      "sha256": "5efe7208c524a1f8f8d8f1070fb679834bc7e4f5a37d53c992e28285092ac2bf"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/lewin-lippitt-white-1939.pdf",
+      "bytes": 1572967,
+      "sha256": "92e8b1d6e3a9b9434b4065aa91537d6270eb6b66a792ac15e7b591e9b2afbb5b"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/lewin-lippitt-white-1939.txt",
+      "bytes": 153808,
+      "sha256": "08409ea48c66ecbded6b774111536249b0f5179b176c206dd98954fea85b71ba"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/loftus-palmer-1974.pdf",
+      "bytes": 183045,
+      "sha256": "fba11e41dc9e95c3d38a6b1437ba70bc7373364c34e6228d164c11fed0eb367e"
+    },
+    {
+      "path": "research/source-cache/psychology-source-audit/loftus-palmer-1974.txt",
+      "bytes": 22220,
+      "sha256": "2b917308125cdab08a69080312cfeca3b1f3bc83293e3c829e222fc4de3fc508"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/alternate-editions/bentham-ipml-1789-ia-ocr.raw.txt",
+      "bytes": 626735,
+      "sha256": "885363d85c197b2fadbac70436eef9edb24e1dfd8a1f35e3564e88e2367a1a5c"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/alternate-editions/bentham-ipml-1789.pdf",
+      "bytes": 22119957,
+      "sha256": "8e9a22a8e8646bf40bfb8f63736dfc797d99f099092e06e47e62b3386dd2df80"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/alternate-editions/bentham-ipml-1823-oll.pdf",
+      "bytes": 997105,
+      "sha256": "1a86626e6f6c4e46054bf19daadf8e3924c229413d381e3bbd04b66c2a744c53"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/alternate-editions/bentham-works-vol1-1843-oll.pdf",
+      "bytes": 4623992,
+      "sha256": "7c6fe2e819284fbe21628faae4a7570515da7d2a7aa4a04421d0e3573fb68d82"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/alternate-harvest-manifest.json",
+      "bytes": 2016,
+      "sha256": "d7deb4a1977b5c65e870a37598212eaef165a1d45ef6f2144d8c939f783704c4"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/bentham-principles-chapter-3-econlib.clean.txt",
+      "bytes": 10935,
+      "sha256": "4eab72ec96ef5e679c8b4b09857b633947db38fffa76cea4e1be1fae6e521ae0"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/bentham-principles-chapter-3-econlib.raw.txt",
+      "bytes": 192669,
+      "sha256": "73deb7faee22e194bb0ceb67c9fff5ef653689052693d555316775c6c69acf81",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/687f8421ae6edf2b7efda19c1f45ccaa788acb898af146959aa606e3ee5bae41.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/bentham-principles-chapter-4-econlib.clean.txt",
+      "bytes": 8677,
+      "sha256": "17ff2369d900aa4cb35b2d8fe588fae95f77405143ec147aa4bdfc392a352f21"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/bentham-principles-chapter-4-econlib.raw.txt",
+      "bytes": 190862,
+      "sha256": "64a3db65cef90d07bf97c674067dd0dcd6114d69d26eca2a409d66545a1bdd29",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/dee38a6b721d804adc1a899fef75080d4a314482e6c0f1069e817c6400ec5bfd.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/candidate-alignments.json",
+      "bytes": 346450,
+      "sha256": "df081ddd3938cad69bf03402d40ecc7f1fa6c703ed6165fd970ce5ede2ac3c36"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/current-pipeline-dry-run.json",
+      "bytes": 110824,
+      "sha256": "f4b30aabfe535843bff8f57128463ecb5eaa1be375cb3b3cce64becca4497240"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/descartes-meditations-70091.clean.txt",
+      "bytes": 213252,
+      "sha256": "a495b176eb6b77bd9b80e8d536dcbc538f8d8c954209b2bb439a53a31ad2e8d9"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/descartes-meditations-70091.raw.txt",
+      "bytes": 218349,
+      "sha256": "8d8835e0abc13e992d8167b3a18005cefbc73bf63ba54597c3a8eb2407f62beb",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/fb1e9c4da753d428d74d55c2efae324111f02c7ddf49c4927015af6d20b22374.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/fb1e9c4da753d428d74d55c2efae324111f02c7ddf49c4927015af6d20b22374.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/ebbinghaus-memory-chapter-5-wikisource.clean.txt",
+      "bytes": 10911,
+      "sha256": "f8481238ca6ffe690c59b1533062c658cd9efed00c6e0de77ff03b9139dbd3ed"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/ebbinghaus-memory-chapter-5-wikisource.raw.txt",
+      "bytes": 28485,
+      "sha256": "78fa5fe5ad9232588a8139274718c674de5b036f32239673dd6c9c6bf3e51271"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/epictetus-discourses-enchiridion-10661.clean.txt",
+      "bytes": 326415,
+      "sha256": "eadfc565e69a3b140f67e5bb774e5ddd8288e181391631d2f92b0a8322fedd56"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/epictetus-discourses-enchiridion-10661.raw.txt",
+      "bytes": 331955,
+      "sha256": "38c813f7623104e29bbc8cca52703043d45cc06be4557ca4b5d09fd4b6ebd635",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/be88176643be6c319ddb2340a0ab9a61c21bfbad03c578cb635d8f6e9502489b.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/be88176643be6c319ddb2340a0ab9a61c21bfbad03c578cb635d8f6e9502489b.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/galileo-sidereus-46036.clean.txt",
+      "bytes": 164802,
+      "sha256": "3515f50b361d7fada163d67bcd345250168f5ae30f1327512bc4aae4bd56c1f1"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/galileo-sidereus-46036.raw.txt",
+      "bytes": 194779,
+      "sha256": "17918ed8db6583590eb430b459d422d8bbacb1c6eb76d2c7791fe9bfaf325aa4",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/76396bc7943b2da567aba8803b03494ebf38c3fd710db42cb01ca47f5e68cc34.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/76396bc7943b2da567aba8803b03494ebf38c3fd710db42cb01ca47f5e68cc34.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/harvest-manifest.json",
+      "bytes": 17420,
+      "sha256": "2e0fe665ff827c8f3e5af81ea898cd330c672e0fd53493d887e0888e2292fb14"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/heraclitus-wikisource.clean.txt",
+      "bytes": 29015,
+      "sha256": "d34d8adb756ceb9bf3e838d5d12d34297bfc2f07da01edad517a50a82dcb5c10"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/heraclitus-wikisource.raw.txt",
+      "bytes": 171771,
+      "sha256": "919e0ebe01090018aefc1e299b684c00fc91c2153bd97866ccebb55277813e4a"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/hobbes-leviathan-chapter-29-wikisource.clean.txt",
+      "bytes": 24504,
+      "sha256": "bed12185d80a15becd7ee11b129b0312c83ec74ecf3f260830ba21fdbb4f2418"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/hobbes-leviathan-chapter-29-wikisource.raw.txt",
+      "bytes": 48156,
+      "sha256": "341c695341e56483c6491173472176e02b6ade79b2ec394f5c39acf6801e8b83"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/james-varieties-621.clean.txt",
+      "bytes": 1094748,
+      "sha256": "00d02dcf40907603c2cdb0109f952ad61c8e3c304e588df50f52a2ace909c31f"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/james-varieties-621.raw.txt",
+      "bytes": 1172845,
+      "sha256": "8b2dd118fc6f52a95a2b0d4f8fbfe2c0f902c80626907370db373f43c5ce1171",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/12e985498c5c2ef04cd49ac8214b490ef60d8d26efff07d416c3d85c6d790be6.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/12e985498c5c2ef04cd49ac8214b490ef60d8d26efff07d416c3d85c6d790be6.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kant-critique-pure-reason-4280.clean.txt",
+      "bytes": 1271157,
+      "sha256": "b8e14395e1b351813740231bd5f63f2fd040ba1eab46db170a6ba88e9a1be0dc"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kant-critique-pure-reason-4280.raw.txt",
+      "bytes": 1295532,
+      "sha256": "a90107de6d33c7355bcc4bb6ea4d9469401b8e76795896491f95a0c5e9d47144",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/f6027f4f5690678da424d2ad6f3daf01d4a576d8ceb290e48bba9261c86f48ed.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/f6027f4f5690678da424d2ad6f3daf01d4a576d8ceb290e48bba9261c86f48ed.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kant-groundwork-5682.clean.txt",
+      "bytes": 176261,
+      "sha256": "fd88d4dec53da9f027c5627bae7a6e16e7338784b18b4bcdb5b87280218988e1"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kant-groundwork-5682.raw.txt",
+      "bytes": 176813,
+      "sha256": "24b4409cea0950539dc244ad0971f074d03387dec94a9b3e1713f4446f2ec712",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/8da4eeec91904fe302108fa1e19eae233d9ead852b7424b1e38605280f0e98b6.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/8da4eeec91904fe302108fa1e19eae233d9ead852b7424b1e38605280f0e98b6.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kepler-whewell-51555.clean.txt",
+      "bytes": 1139028,
+      "sha256": "a552918a0f1b97fa271854612110723d8fdc3cdb881061718212f3f6502f9ee6"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kepler-whewell-51555.raw.txt",
+      "bytes": 1167248,
+      "sha256": "805d8f5eb10c67ba76c68d52f802c43c48f4b939679d56cfca5d005043abdabd",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/182837710e3ec250fdb80f58ec3ec86441d7707bd0bd801e4b19bda6c9ccb187.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/182837710e3ec250fdb80f58ec3ec86441d7707bd0bd801e4b19bda6c9ccb187.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kohler-gestalt-79014.clean.txt",
+      "bytes": 598814,
+      "sha256": "7b8837157d3f4a1a16db577095f845b0e02a5104801cbeb9f121a322a8f14069"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/kohler-gestalt-79014.raw.txt",
+      "bytes": 603476,
+      "sha256": "c01dc75654dc361dc23564780fa2c49ede191931c6c76d7e6b6c513176dea198",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/efe37cef5d5f8aa635a5c661d9779af918b2fa7c3f40b315a31668b2cdeb1f3c.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/efe37cef5d5f8aa635a5c661d9779af918b2fa7c3f40b315a31668b2cdeb1f3c.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/leibniz-monadology-duncan-wikisource.clean.txt",
+      "bytes": 35335,
+      "sha256": "1b7d1a2456c13ea5b72415d228a77fea02b58e6b4fb162e968d6d6d9dc7e3971"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/leibniz-monadology-duncan-wikisource.raw.txt",
+      "bytes": 61320,
+      "sha256": "e413aab19b7982241cd7a5cb28e632c4603cc4d4d96bd82bd3150dbf7a9daad1"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/locke-essay-10616.clean.txt",
+      "bytes": 705059,
+      "sha256": "31ae4be9d67f06ed9c9660e4c5026131bac85e909bb608c5143bbc355f80d47e"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/locke-essay-10616.raw.txt",
+      "bytes": 718255,
+      "sha256": "b43466cb6cd621f9b6cd0116e05c4c826a7a916061ded463090dd97afa0dae3f",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/d5f5edcdca14daf473a1d290ec319b2844c4ccf55818546ae623df92b09790c6.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/d5f5edcdca14daf473a1d290ec319b2844c4ccf55818546ae623df92b09790c6.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/locke-humane-understanding-1690-book-4-chapter-1-wikisource.clean.txt",
+      "bytes": 9202,
+      "sha256": "8a388d8ba70f61db2b3677871c48ab5788ac2af60b0cf6d7d08f9e81de448536"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/locke-humane-understanding-1690-book-4-chapter-1-wikisource.raw.txt",
+      "bytes": 18644,
+      "sha256": "ff80124fff9ea9243f79d07eb3bcf66891973d87a76067227d0992c99fb1ceb5"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/locke-second-treatise-7370.clean.txt",
+      "bytes": 313549,
+      "sha256": "f312b25d629da54c70bbb57937cad036c4e7aad0fd69fdf28fb50291aa77c91c"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/locke-second-treatise-7370.raw.txt",
+      "bytes": 338811,
+      "sha256": "0e861e198bf4c5406a413d72d54d3a0efe26e780afa5bcadacf1ec85290587a1",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/fb505ad34c235b6502ba839de5f43d05fff1f2511c0cf1f92feb989bc44b4097.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/fb505ad34c235b6502ba839de5f43d05fff1f2511c0cf1f92feb989bc44b4097.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/machiavelli-discourses-livy-10827.clean.txt",
+      "bytes": 800121,
+      "sha256": "321ea9416ae1e50020da7ffebf66b61e90bca013bce6259e979e52de22a7c613"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/machiavelli-discourses-livy-10827.raw.txt",
+      "bytes": 814545,
+      "sha256": "7b823645c43fdaccefc777b2b74f4641308eeadb9cd7f3a082be82f222f57ad1",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/32cea2aad4654198abfedb0a94e3deea7e6ce1117d77d2d746bd32e3505d4e6c.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/32cea2aad4654198abfedb0a94e3deea7e6ce1117d77d2d746bd32e3505d4e6c.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/marx-communist-manifesto-61.clean.txt",
+      "bytes": 73042,
+      "sha256": "3542550d16e2c8bc7d5705ef7ae966a9d4d00e0957b1025eba0f63c60dd385f3"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/marx-communist-manifesto-61.raw.txt",
+      "bytes": 94134,
+      "sha256": "0dcdb4944422cfb9a061c891140e298e3f76bc0c04e31cb3d916d2577264b21a",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/8482b5cb14219fb0ddb0d68f3bf0ddfac4b0403d2726aabb936cf9bfa8304cce.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/8482b5cb14219fb0ddb0d68f3bf0ddfac4b0403d2726aabb936cf9bfa8304cce.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/marx-manifesto-chapter-1-1910-wikisource.clean.txt",
+      "bytes": 29860,
+      "sha256": "b866687dc3bfc00b94ad9ed424a52fc8d754a9aaf2938e24c22ec8ae43ea8219"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/marx-manifesto-chapter-1-1910-wikisource.raw.txt",
+      "bytes": 45651,
+      "sha256": "d0c019d6b0336e307fa1824e705f17ace8a294b39f100189d2e9bf5cd7ecd3de"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/mill-political-economy-chapter-17-econlib.clean.txt",
+      "bytes": 54713,
+      "sha256": "493418e42a08d2d7faffc4015642fa92cd2a4e291b5f5f8977161aed97e03581"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/mill-political-economy-chapter-17-econlib.raw.txt",
+      "bytes": 256497,
+      "sha256": "355430e2cdb7ba28a6307655898d926764f0de939186d2487a80f73b3c388a82",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/37e841826a92e6c3ceaffc3c1046288bf108569ffd973ebaad88bf67ef2a4690.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/mill-subjection-women-27083.clean.txt",
+      "bytes": 254574,
+      "sha256": "69bdf1533c0a8491d1d0dd042b29055e34652de94d04708c530507115a6634e0"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/mill-subjection-women-27083.raw.txt",
+      "bytes": 278540,
+      "sha256": "717bea34ed5bb682e51e7a730d2698726723176ba645e15c6b3409daebbf5d29",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/d952616fae5bb6572539755225725a777ed88a38b16abcb9251dfbc98e628f7b.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/d952616fae5bb6572539755225725a777ed88a38b16abcb9251dfbc98e628f7b.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/mill-utilitarianism-11224.clean.txt",
+      "bytes": 161012,
+      "sha256": "bf8f806833d318c825555e5e9824ce5867ad043db22ea218f89ccfd85b53eefa"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/mill-utilitarianism-11224.raw.txt",
+      "bytes": 163862,
+      "sha256": "0b4c7191e7759753c064c13a90a694bc230486e5b5dc39c01ade22fee6a5e5e5",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/ad22d06898cb33ff7a3094df5e1ef40f77de9c1845421d6b82b98a88f4bca8ac.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/ad22d06898cb33ff7a3094df5e1ef40f77de9c1845421d6b82b98a88f4bca8ac.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/parmenides-fragments-wikisource.clean.txt",
+      "bytes": 66500,
+      "sha256": "bfefb9ee9dfaa4a85cf805f00c79a268cc99b5f46bcecaafac2ea3cf3c847bd5"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/parmenides-fragments-wikisource.raw.txt",
+      "bytes": 121696,
+      "sha256": "c21e47e276d2b42bb212af1800a6f5f45f4a9993d127cd6817121a6bbed93b89"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/pasteur-life-60956.clean.txt",
+      "bytes": 1180501,
+      "sha256": "6ca6c045902b0ce798ccb919e97b53ae552340c5a97c476c0e9adfe08025a93b"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/pasteur-life-60956.raw.txt",
+      "bytes": 1206053,
+      "sha256": "9ff6ffd737dfb5aef5a8b73bd7cd5581e2bb89509ea9a549928f1cd28a86850f",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/0f3f7fd5f9b35d4c49e6b98558ac6ac6dd8a633f87182d31013009b71e174627.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/0f3f7fd5f9b35d4c49e6b98558ac6ac6dd8a633f87182d31013009b71e174627.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/public-unhandled-resolution-proposal.json",
+      "bytes": 440804,
+      "sha256": "2f0b52ed132e9a38e31381328097622159f25922b2fc36ec63e4acabf278e71d"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/0f3f7fd5f9b35d4c49e6b98558ac6ac6dd8a633f87182d31013009b71e174627.json",
+      "bytes": 223,
+      "sha256": "de6eaf6a0c2f6058fb939c38296bf50af1587f08fcbb927ed235e7cbcd9696f9"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/12e985498c5c2ef04cd49ac8214b490ef60d8d26efff07d416c3d85c6d790be6.json",
+      "bytes": 215,
+      "sha256": "cf3e38b3414a494936ffeeb408bf6e21a74becbb2cc451602399139ac7c40492"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/182837710e3ec250fdb80f58ec3ec86441d7707bd0bd801e4b19bda6c9ccb187.json",
+      "bytes": 223,
+      "sha256": "494d88eb668b108858801c4398ca2a255c96b7813bad0b2ed3c54e050ad25812"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/2f270e8707426f073ddd0dc9fe422d48707f8c71546013c81775d6a18e8d000d.body.txt",
+      "bytes": 208181,
+      "sha256": "be01f111f3239fd40764e174d733acb4346cdb891f8098d7ac87c03f73f2a9c5"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/2f270e8707426f073ddd0dc9fe422d48707f8c71546013c81775d6a18e8d000d.json",
+      "bytes": 221,
+      "sha256": "76eb0220dd2891b4dc862d7d16a1a15af53a2d43fcaa03dd173153b32a50650a"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/32cea2aad4654198abfedb0a94e3deea7e6ce1117d77d2d746bd32e3505d4e6c.json",
+      "bytes": 223,
+      "sha256": "2ce96d4d6d014fe99ad3a2ca4836b0b049cfa1158543422b73137f9503c95b5c"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/37e841826a92e6c3ceaffc3c1046288bf108569ffd973ebaad88bf67ef2a4690.json",
+      "bytes": 229,
+      "sha256": "72231c8745601de73445dabb98f6b874a7679c2252b38797a095e00e3ca707d5"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/3db0abe7fee08408b73d76a696b8e35da078088eb47ec6887fe1cca60d023efc.json",
+      "bytes": 215,
+      "sha256": "0a9ccc0d12a418d453aeae16d3bbe1610123c2c70852dd367ca7a310829f60ff"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/4e21d5244bccc92a5817ddd2305598f6a415190811405ff36d3d8ebfa4c4c987.json",
+      "bytes": 223,
+      "sha256": "9c832d54ff2079fef62b1d231e0bbfd63b26b1d963b753eea6b2d066e094b8b8"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/591c8b09c6111af6a0a1fba30f3cd4cd8c4a0ed79b3ba1b64e509a22e3d81ccd.body.txt",
+      "bytes": 125354,
+      "sha256": "3eb8ff3253150fe0d97d3b168e424c220af2dcb9bfee5755931bf0e137a4df25",
+      "aliases": [
+        "research/source-cache/public-web-recovery/fetch-cache/591c8b09c6111af6a0a1fba30f3cd4cd8c4a0ed79b3ba1b64e509a22e3d81ccd.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/591c8b09c6111af6a0a1fba30f3cd4cd8c4a0ed79b3ba1b64e509a22e3d81ccd.json",
+      "bytes": 318,
+      "sha256": "2f08aa07038575d78907b8c57d19963a18862b05ba6fef9ae7488c8246514ddc"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/687f8421ae6edf2b7efda19c1f45ccaa788acb898af146959aa606e3ee5bae41.json",
+      "bytes": 235,
+      "sha256": "a29dad827d1b43be6b73fada6f40fa3506de98b54b97badb3b9918b09e18210d"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/76396bc7943b2da567aba8803b03494ebf38c3fd710db42cb01ca47f5e68cc34.json",
+      "bytes": 223,
+      "sha256": "800e8c6d2f1d4831db886b0d31e6870e7a7fe083d3a43b8a703c80028cfc7708"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/7fafb6a28ae968cfe456f04b73bbf067c17648ca2f436cd87f63202d0fe7b221.body.txt",
+      "bytes": 29570,
+      "sha256": "50ddcc169af3e0c84bc11b59bcfbde24cf92a7f2034d5fc4db3f855871a9ce70",
+      "aliases": [
+        "research/source-cache/public-web-recovery/fetch-cache/7fafb6a28ae968cfe456f04b73bbf067c17648ca2f436cd87f63202d0fe7b221.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/7fafb6a28ae968cfe456f04b73bbf067c17648ca2f436cd87f63202d0fe7b221.json",
+      "bytes": 358,
+      "sha256": "c2d7c2dcc8456eec6b01eb1f5e85766192585cc25b4d369bf8d226ca3680f029"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/8482b5cb14219fb0ddb0d68f3bf0ddfac4b0403d2726aabb936cf9bfa8304cce.json",
+      "bytes": 211,
+      "sha256": "1d3624b50b73ea81a13dc36cbeff8b244a506c50bd1e20a92da06a809265e799"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/8ad3f803431caa333d606df0c39e378355d5159e247ba6cac5830556355ca8cf.body.txt",
+      "bytes": 41074,
+      "sha256": "569bf44d4511febac27cbead2ee569dd4c68a6efa80417979146376a6ee5774f",
+      "aliases": [
+        "research/source-cache/public-web-recovery/fetch-cache/8ad3f803431caa333d606df0c39e378355d5159e247ba6cac5830556355ca8cf.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/8ad3f803431caa333d606df0c39e378355d5159e247ba6cac5830556355ca8cf.json",
+      "bytes": 213,
+      "sha256": "309238a5be684114c596879fe051a750c319d74f835a5a204975aa4b6607d934"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/8b64e628416d570860ecf68f8fae758a38f5b61419d9f59842a4185c7b5bd3e8.body.txt",
+      "bytes": 19178,
+      "sha256": "0109b7b3769f1b783bc6322ee6d85eccfbe1a2d5194ea7e312b1ee19dc787405"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/8b64e628416d570860ecf68f8fae758a38f5b61419d9f59842a4185c7b5bd3e8.json",
+      "bytes": 357,
+      "sha256": "81e1a73cd254ef9791a360c1108db512b36c937ea3e897d88b358efdc511d63a"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/8da4eeec91904fe302108fa1e19eae233d9ead852b7424b1e38605280f0e98b6.json",
+      "bytes": 219,
+      "sha256": "dc1cd4e557bfb27067d90115b6b212b8b2e93770b37ad16f1ca73b58f097ffc1"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/a579f2cb4c530b87cefe9f2e27e6564a02be0db50007b4b0d8f081a84e8f5918.body.txt",
+      "bytes": 277532,
+      "sha256": "56e36121c472a572452003dbcfcb8d7f1160fd0a65c71c58b407f0d3de4502e6"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/a579f2cb4c530b87cefe9f2e27e6564a02be0db50007b4b0d8f081a84e8f5918.json",
+      "bytes": 214,
+      "sha256": "b52b285a4e83e648ce651e453f5c2854678c4858f33e838b9914954c5c9b95ef"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/ad22d06898cb33ff7a3094df5e1ef40f77de9c1845421d6b82b98a88f4bca8ac.json",
+      "bytes": 223,
+      "sha256": "3cafbca093516337771f462e74967a7c80a81e2fa6a6fd976ac8c1b65e023374"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/ae442f3c91e3c371334504cb918dae21a2a1f36be97ba61aa8c6906c4a2110f2.body.txt",
+      "bytes": 46662,
+      "sha256": "d6d74b833310bede9a301f63dc5d33acf7af818d896b54b99197dfae0bc3d857"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/ae442f3c91e3c371334504cb918dae21a2a1f36be97ba61aa8c6906c4a2110f2.json",
+      "bytes": 331,
+      "sha256": "ee216d57064d2a453373e76ca20452a9e3a6526541f721badb6d9f53df6b742f"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/b0cdf774c53b163069b083d5d8416c250caa39eabd3e3d816a545e8c70d360fc.body.txt",
+      "bytes": 179420,
+      "sha256": "441f1858c4fae569cb09f13b20cfefeb606104a4034781f81e8ed0df4a3c8fc6",
+      "aliases": [
+        "research/source-cache/public-web-recovery/fetch-cache/b0cdf774c53b163069b083d5d8416c250caa39eabd3e3d816a545e8c70d360fc.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/b0cdf774c53b163069b083d5d8416c250caa39eabd3e3d816a545e8c70d360fc.json",
+      "bytes": 318,
+      "sha256": "a5e2b08822d33df2b3b7bddaf1d580519a54e4d5c6384cded898992dc0229058"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/be88176643be6c319ddb2340a0ab9a61c21bfbad03c578cb635d8f6e9502489b.json",
+      "bytes": 223,
+      "sha256": "3b686276c09be7f84f64ad37f19df060c5156ca7ba7bdc6e2d95a6f5e100b6db"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/d5f5edcdca14daf473a1d290ec319b2844c4ccf55818546ae623df92b09790c6.json",
+      "bytes": 223,
+      "sha256": "d2f5a1474f7c77b6d7cc67ca8e814f5ef66076e01a2bb586f4590787e1304701"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/d952616fae5bb6572539755225725a777ed88a38b16abcb9251dfbc98e628f7b.json",
+      "bytes": 223,
+      "sha256": "a21650648ac299c42510cf0f0152c6aa3a6f8eb95535bd5ce55437415b0e72ab"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/dee38a6b721d804adc1a899fef75080d4a314482e6c0f1069e817c6400ec5bfd.json",
+      "bytes": 235,
+      "sha256": "ed306df1b131b0e093d360172a8d27f99478955131d67b3eb32f0a9a456b85a0"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/efe37cef5d5f8aa635a5c661d9779af918b2fa7c3f40b315a31668b2cdeb1f3c.json",
+      "bytes": 223,
+      "sha256": "975939ac2612641f157308c05a3b7902af733ebc7804cd66d71605a43167385c"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/f6027f4f5690678da424d2ad6f3daf01d4a576d8ceb290e48bba9261c86f48ed.json",
+      "bytes": 219,
+      "sha256": "9b54a813e1b4055d3e9fefc9bfc03d9ffb49ea80a7469a8b25c4500ef4da7292"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/f97365197e85715bbb10dc894cb6e7b62d1abced9d4159a4cafda646e2791b24.body.txt",
+      "bytes": 49231,
+      "sha256": "110583da2ec82c32c38e396076d353034a15a2b5f2aec74a63572a63c75ec625",
+      "aliases": [
+        "research/source-cache/public-web-recovery/fetch-cache/f97365197e85715bbb10dc894cb6e7b62d1abced9d4159a4cafda646e2791b24.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/f97365197e85715bbb10dc894cb6e7b62d1abced9d4159a4cafda646e2791b24.json",
+      "bytes": 328,
+      "sha256": "1b7f8caa24f72df1bbd3812c68b82bf8fb0d98785c87401a3a911b6340ad0d74"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/fb1e9c4da753d428d74d55c2efae324111f02c7ddf49c4927015af6d20b22374.json",
+      "bytes": 223,
+      "sha256": "8c516d53a8c62a05630b13e5f1d9990dc96cf68203243eaeebf9689c59b1585b"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/fb505ad34c235b6502ba839de5f43d05fff1f2511c0cf1f92feb989bc44b4097.json",
+      "bytes": 219,
+      "sha256": "0f60a41371091a30e287afcda4e965951fb9f91d6774c2a257ef6edcdb4746e3"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/ff1c169eefda06ee88dab74659f27bb6126b246db7a38149756b97fcbcd7834f.body.txt",
+      "bytes": 62481,
+      "sha256": "b20fc44dbf2d426203a0e7db32cdd15e4c393ac5cdd37e72f6dc0a0e00a6bf57",
+      "aliases": [
+        "research/source-cache/public-web-recovery/fetch-cache/ff1c169eefda06ee88dab74659f27bb6126b246db7a38149756b97fcbcd7834f.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/remote-cache/ff1c169eefda06ee88dab74659f27bb6126b246db7a38149756b97fcbcd7834f.json",
+      "bytes": 333,
+      "sha256": "24d674f9a8e5e0e47c9b4110e1375ad45705dadf4302af44cba5b259fae7ab32"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/rousseau-discourses-46333.clean.txt",
+      "bytes": 708658,
+      "sha256": "c1ba7b658c5fb3ad18a2a26b9137fc8e3f333bc313e6dd9434a7bdaaffda4dd9"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/rousseau-discourses-46333.raw.txt",
+      "bytes": 709846,
+      "sha256": "fa8468800d708b8330efc0a6c4383320e209bd0dec7a7f1fb4bd9028e9532bbf",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/4e21d5244bccc92a5817ddd2305598f6a415190811405ff36d3d8ebfa4c4c987.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/4e21d5244bccc92a5817ddd2305598f6a415190811405ff36d3d8ebfa4c4c987.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/spinoza-theological-political-992.clean.txt",
+      "bytes": 160399,
+      "sha256": "8c102b09c4a01260a4e5660c795d3058fbdfa21f20f8bd97618e9da4ee06e5a7"
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/spinoza-theological-political-992.raw.txt",
+      "bytes": 183439,
+      "sha256": "73ce411c9ae5f8e1f65cddb1fbec305328548e0a6428ba477a91c5a8fb79ebe5",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/remote-cache/3db0abe7fee08408b73d76a696b8e35da078088eb47ec6887fe1cca60d023efc.body.txt",
+        "research/source-cache/public-web-recovery/fetch-cache/3db0abe7fee08408b73d76a696b8e35da078088eb47ec6887fe1cca60d023efc.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/public-unhandled-resolution/target-units.json",
+      "bytes": 127181,
+      "sha256": "f4c71de6834edf8e6b27fea3937fc945a0d0b4f436d1a7d0aeb8fd4340ebdcb2"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/00f23da869d631643e52760150e00f5fff07e190cbc86bf2081fd658d95c7634.body.txt",
+      "bytes": 428726,
+      "sha256": "37a4c0d3947c0c5d45d943c5a22abb7754f7aac726c630e6d4a0d1a62cd607bd"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/00f23da869d631643e52760150e00f5fff07e190cbc86bf2081fd658d95c7634.json",
+      "bytes": 215,
+      "sha256": "4fa3134faffa4e51e0e1f21ac42ee02835b431ee6c62808e8532b6838962532a"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/07eed669d25e8a12f125ba440be5bc444d72ac4def9b575e34401bc8ddc5b158.body.txt",
+      "bytes": 30811,
+      "sha256": "d9b9744feb6893a7d602a81cb56d45e64bd08a0e433d94271714f7798a5b7305"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/07eed669d25e8a12f125ba440be5bc444d72ac4def9b575e34401bc8ddc5b158.json",
+      "bytes": 314,
+      "sha256": "4348a5bcfedaa85384c30ca469d6d6d7935fdfb7433ba42238af7798492dde84"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/0f3f7fd5f9b35d4c49e6b98558ac6ac6dd8a633f87182d31013009b71e174627.json",
+      "bytes": 223,
+      "sha256": "f90c9ed249192bdb565096fb0e16739827769353a7a23b0b6992fbdd336fa0b9"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/12e985498c5c2ef04cd49ac8214b490ef60d8d26efff07d416c3d85c6d790be6.json",
+      "bytes": 215,
+      "sha256": "dea027822d69430fa99d05a9516d6d2ae98ba8436349db401a375138a3b65fb4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/182837710e3ec250fdb80f58ec3ec86441d7707bd0bd801e4b19bda6c9ccb187.json",
+      "bytes": 223,
+      "sha256": "b4277e0e8456c7e3206094d2f20ca779b5dc00fa92db540352fb10940826ade7"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/24c2ed743ac682e5a6b5b68af4c7e44bf88f453673469a85d450dd19b1df5304.body.txt",
+      "bytes": 329931,
+      "sha256": "44b6b22160c7c44cd9695db7286884a5fb716783193c8cef370be1e8621d6a8b"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/24c2ed743ac682e5a6b5b68af4c7e44bf88f453673469a85d450dd19b1df5304.json",
+      "bytes": 223,
+      "sha256": "e079867d71bf22f136702540b8c9817cc16f849c33eadc8eb0572b1d40b23466"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/2f270e8707426f073ddd0dc9fe422d48707f8c71546013c81775d6a18e8d000d.body.txt",
+      "bytes": 208181,
+      "sha256": "738a037979ea084bfe83d693091b9347aa7c57c88137871efae4e7e0ee2d4b78"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/2f270e8707426f073ddd0dc9fe422d48707f8c71546013c81775d6a18e8d000d.json",
+      "bytes": 221,
+      "sha256": "2c17524c69614f994bf0c586d825888c2a4c1323da4b8e580b83265ab0348703"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/32cea2aad4654198abfedb0a94e3deea7e6ce1117d77d2d746bd32e3505d4e6c.json",
+      "bytes": 223,
+      "sha256": "8420a5bf13b42d4cb7f74380bea3a5df5f2672617e8af6b3005a85645ea4a21b"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/37e841826a92e6c3ceaffc3c1046288bf108569ffd973ebaad88bf67ef2a4690.body.txt",
+      "bytes": 256497,
+      "sha256": "8c6c299e5447769053272b5f7538ffcfd789c2acfa516910bfc013d182b381fb"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/37e841826a92e6c3ceaffc3c1046288bf108569ffd973ebaad88bf67ef2a4690.json",
+      "bytes": 229,
+      "sha256": "9a42b0e760b494274675e9a2ed6ba4ad70f8277389795f76d5240c43cb755033"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/3db0abe7fee08408b73d76a696b8e35da078088eb47ec6887fe1cca60d023efc.json",
+      "bytes": 215,
+      "sha256": "111be952f926f3f90db28d7d3bb9ad35d78a909cf33090a58431ae9955bfbf71"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/448c59c184569fb772a14ecf4a54e90fbdee9802a1f623a1b444398323496376.body.txt",
+      "bytes": 62598,
+      "sha256": "47637229abbcfc219373a657bda0249e66237f07bb391c6b90daaa5b36cde6f9"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/448c59c184569fb772a14ecf4a54e90fbdee9802a1f623a1b444398323496376.json",
+      "bytes": 339,
+      "sha256": "240be1e2e868f20026cb32a36ca0b1ed8e64ebdb0e36d71fb7debb4f288f9c18"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/454a80446e1bc643e2923ff73348527d651333713d99bdd83dc75cf1068a73f1.body.txt",
+      "bytes": 101516,
+      "sha256": "db34b5c0950954b6672465e81447879e891c23508aea31a00d72690c7492caca"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/454a80446e1bc643e2923ff73348527d651333713d99bdd83dc75cf1068a73f1.json",
+      "bytes": 219,
+      "sha256": "c6019f69ab929a90e17d7030831244de35e104cee1a335d464b059ba6a256cb6"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/4dfef0ffeecbbf3406869c8e1e3e6191528df7e3d223acdab76829597e57c980.body.txt",
+      "bytes": 283526,
+      "sha256": "fa1d336fe2a4f76c256088085c3e8fab7caae7110632f0f6e084bfba24c074ec"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/4dfef0ffeecbbf3406869c8e1e3e6191528df7e3d223acdab76829597e57c980.json",
+      "bytes": 219,
+      "sha256": "f4845eca1b52983db9df94b94ad705cc864e27746632ab06d21f8b08ff7bf53f"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/4e21d5244bccc92a5817ddd2305598f6a415190811405ff36d3d8ebfa4c4c987.json",
+      "bytes": 223,
+      "sha256": "7fc866d9f7450fa1d6b6137120e861e55678c4c5bb95773782f815423844c446"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/53dc55066eb83367c5da0d32d30b8447f6cb306faa4530c38f6305a2714a94d4.body.txt",
+      "bytes": 521332,
+      "sha256": "91f7bd22454d84396b16f61c91d80052152a13ca42d95b8c1c2eeb0c12d4250c"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/53dc55066eb83367c5da0d32d30b8447f6cb306faa4530c38f6305a2714a94d4.json",
+      "bytes": 223,
+      "sha256": "5a4b30a64789706f3509cfa88ea1351fe569393e38e7ae1e1e3f5ccde99ed5b4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/58ceec3584f498795ac9bc5d9e21f18a7a24be6ba46ac085e3ab456cc5c519ef.body.txt",
+      "bytes": 275855,
+      "sha256": "99a5134ca465254676a4934c7b77f75c3a963240efb6487243a047a789c92c3d"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/58ceec3584f498795ac9bc5d9e21f18a7a24be6ba46ac085e3ab456cc5c519ef.json",
+      "bytes": 225,
+      "sha256": "cb192554a585c528dcd4c1d5dc8f40efd7d99283ab7208250945d12a6478c93e"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/59015ae8b9cff898f10a90356736e18ce26e4ea0657993fa634e7364599e5b12.body.txt",
+      "bytes": 42781,
+      "sha256": "cebc60054a0981578954f74dd86407652cc66f967aa67a83b5c48b7ce55a3a86"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/59015ae8b9cff898f10a90356736e18ce26e4ea0657993fa634e7364599e5b12.json",
+      "bytes": 329,
+      "sha256": "446dcbc69bdcbec86b02ab9e19d7bc9a0cf1cc75c588cd41db835424b7a5680a"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/591c8b09c6111af6a0a1fba30f3cd4cd8c4a0ed79b3ba1b64e509a22e3d81ccd.json",
+      "bytes": 318,
+      "sha256": "df8feb82b5ae3d2bd4b17c26b8c3b9aa533afe43b55f81293fb654ecc8746458"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/5af1cdc0d05586a6ce6f00cd8d84c746ae781930a4ed734a0ff16da4c9a337b7.body.txt",
+      "bytes": 12215,
+      "sha256": "fed6b7ab41784403f3fae0403da7a737070b4eb41e5abf86356bc8f468713485"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/5af1cdc0d05586a6ce6f00cd8d84c746ae781930a4ed734a0ff16da4c9a337b7.json",
+      "bytes": 390,
+      "sha256": "926fe447196b9134b019344a2ce407e914bb2e75a89ad68e82a46260b1f434c3"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/687f8421ae6edf2b7efda19c1f45ccaa788acb898af146959aa606e3ee5bae41.body.txt",
+      "bytes": 192669,
+      "sha256": "c38a031b460ec961e9a53eabaaef283e92e0db090f3bf3216980c6c102866c7f"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/687f8421ae6edf2b7efda19c1f45ccaa788acb898af146959aa606e3ee5bae41.json",
+      "bytes": 235,
+      "sha256": "c490e281c05b7c13c24b85bca29cf31d416a99126796433862d47870fd120eed"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/74b5ab7bf7e819a89f3d65e41111e8dd8d349bc54de10cd4b7dbe5e157b1c1e5.body.txt",
+      "bytes": 596267,
+      "sha256": "f10edc441b26448cae18105c9ba13d732faa7ad5fd9d1dd1805d57b7aca34635"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/74b5ab7bf7e819a89f3d65e41111e8dd8d349bc54de10cd4b7dbe5e157b1c1e5.json",
+      "bytes": 221,
+      "sha256": "4ae64b41ea3154d08a516f18acc98ed01385664cfd9340f450a24fc4e4e3536a"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/754a9779506c8bd0296420a4766d9bb69d92e66eb219949b9fe7f5ff3dab4f7f.body.txt",
+      "bytes": 101526,
+      "sha256": "1415acb4b7ed7a43450ce10a83de2ae66bd622cb3099548964f4a8f002291645"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/754a9779506c8bd0296420a4766d9bb69d92e66eb219949b9fe7f5ff3dab4f7f.json",
+      "bytes": 211,
+      "sha256": "7155a8c0de198fb1b10d14801cd22fe74d5ce3f052a3eaa181e23a991432c827"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/76396bc7943b2da567aba8803b03494ebf38c3fd710db42cb01ca47f5e68cc34.json",
+      "bytes": 223,
+      "sha256": "048cd433f4efad211419886e170bfb66f7ac17c3630c1b6b70cba25e6aa90397"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/7fafb6a28ae968cfe456f04b73bbf067c17648ca2f436cd87f63202d0fe7b221.json",
+      "bytes": 358,
+      "sha256": "d7319081a14c3f13a468fbeb258dd29afa913f5e46e6fb2957ade05cc834fd81"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/8482b5cb14219fb0ddb0d68f3bf0ddfac4b0403d2726aabb936cf9bfa8304cce.json",
+      "bytes": 211,
+      "sha256": "358918abf7c488a858b03242d1330642f35d6287ce64fa14f57f86f09d43d116"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/85840c5546595fb7c5e1429f12ced657e65bdc8eaa29006aaa685c0b2a7f7c2f.body.txt",
+      "bytes": 87333,
+      "sha256": "122b6dac6333ac5f0486a30531ea6e26a87a29a7817a0686dc65ab5e03d535df"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/85840c5546595fb7c5e1429f12ced657e65bdc8eaa29006aaa685c0b2a7f7c2f.json",
+      "bytes": 338,
+      "sha256": "fccd2d0d1ce1a6f057367cd8876f1a21f77b5e283bac01bbd28077ac962025a8"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/87985031edee09e473cbd5a52486a059258eb8ff3c3b793048c510b753059831.body.txt",
+      "bytes": 71168,
+      "sha256": "3d8b33ed8fb9668ebe7b3b82e23334b0744cafa2fb003a0fac41b08d5070704f"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/87985031edee09e473cbd5a52486a059258eb8ff3c3b793048c510b753059831.json",
+      "bytes": 223,
+      "sha256": "cfc4e04e8766328deeb78461613de09d09cf58c3ad020095719487371fd6fb7d"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/8ad3f803431caa333d606df0c39e378355d5159e247ba6cac5830556355ca8cf.json",
+      "bytes": 213,
+      "sha256": "9b384440d1a39047983b718f9eb0978abcecf18edb7f2eb4f5cba7a0ccd3c73b"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/8da4eeec91904fe302108fa1e19eae233d9ead852b7424b1e38605280f0e98b6.json",
+      "bytes": 219,
+      "sha256": "6373fa40daadac7a1bc6946b1dddd63b92270527bc68939f1ddd482c63cab307"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/934fe3df90999968aaa1a9057e03cd60a027e78bb7fa25c3dcb8542c1b728d31.body.txt",
+      "bytes": 434296,
+      "sha256": "2c2321e8d90d9dc2a9ed18ff572942bd13f94136b522ba2a14907f40f6457f6c"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/934fe3df90999968aaa1a9057e03cd60a027e78bb7fa25c3dcb8542c1b728d31.json",
+      "bytes": 223,
+      "sha256": "b3bb4262a0d659b7095a3e4abdd5b7b1cd90663b4738c94e6e4e5cb9a8f38669"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/94125768ea7fec92592758ccb4bd4c6204159b05d10ce752efb2a6e6a7f47cf2.body.txt",
+      "bytes": 101521,
+      "sha256": "f59401c214a9c8833bab04ccde90e9ec1adb68116344683c20898d29fbf573f4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/94125768ea7fec92592758ccb4bd4c6204159b05d10ce752efb2a6e6a7f47cf2.json",
+      "bytes": 212,
+      "sha256": "240c9f050fbbe7e51290407779af7b1c8b6e2d3b2edd48c38822b7b8fa6532ca"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/981552d971fbbdfd7a17627a72844c9b1d50883c7303a7be63fccfea0c2b5450.body.txt",
+      "bytes": 19169,
+      "sha256": "3efb3c7b31d44e60191ddbed3b426beace9222aefc00cb3a210b538f89801a35"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/981552d971fbbdfd7a17627a72844c9b1d50883c7303a7be63fccfea0c2b5450.json",
+      "bytes": 374,
+      "sha256": "c2130a30c60a83d17c02496409618838db9a35dc5ab26de69f3e75d5bc37a381"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/981886803086ba09dc7a8a4ded6e1fbbea103b2b1c48024f1d9c287ae6f87849.body.txt",
+      "bytes": 714388,
+      "sha256": "4d54b323d85abbb6efcf7f1144268c51bdb46780c9b5bbe771f2a0a93300f4e6"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/981886803086ba09dc7a8a4ded6e1fbbea103b2b1c48024f1d9c287ae6f87849.json",
+      "bytes": 221,
+      "sha256": "7dfecf5580abd8b4c5a54371ffaa911bb885acf6a560cb9b1aa9a9584c8dc6b1"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/9940c5fe3b7bced97f2d5a74794d3677d2f6f8f7ba5039a98bd29115c3e5ff16.body.txt",
+      "bytes": 1112923,
+      "sha256": "ce45e21a9ef14c90baef330055a9dd3492686f6341f27d5248096a849a998e91"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/9940c5fe3b7bced97f2d5a74794d3677d2f6f8f7ba5039a98bd29115c3e5ff16.json",
+      "bytes": 223,
+      "sha256": "c7de54e7a45c4fc5542569c3c95e14aca361994a99cd6567e517c047356c1f39"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a32cd534a6b946078b9dd3885b870cc1abff09b8c656eb8edd74c7be621248b1.body.txt",
+      "bytes": 52682,
+      "sha256": "952f0436ee884b3f10739bf509558eaab8a9cfa193457371e3ec2cc87d56b862"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a32cd534a6b946078b9dd3885b870cc1abff09b8c656eb8edd74c7be621248b1.json",
+      "bytes": 328,
+      "sha256": "7e0709d22163370ecfa1866a4b5b7788c99c502735eb823dab3d43a27663dc93"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a36f2d198648992ec658a39c929652eb0b83005c79a78e06cd29f71491699152.body.txt",
+      "bytes": 205753,
+      "sha256": "bac7891d5c8b4f097ee53d9520ae906eb92ef0316e653ddb895d14da404a364a"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a36f2d198648992ec658a39c929652eb0b83005c79a78e06cd29f71491699152.json",
+      "bytes": 236,
+      "sha256": "7d82aa997d10e5e0097ae41388d572332f9dc8e0c9269894c71abf06e6e87a16"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a3b2574f654022ad13c056ec58d6945074b138ae939fa563ab36a8f312ced65b.body.txt",
+      "bytes": 39959,
+      "sha256": "c5289c57163b25c5efe73cbc3827da9d3566aa0d2826dd8221d9a917c6d5bcb4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a3b2574f654022ad13c056ec58d6945074b138ae939fa563ab36a8f312ced65b.json",
+      "bytes": 351,
+      "sha256": "a735d6e7dfe00a29601751653fe66a9d39e2d59e3dd0a9c945695f334b01302c"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a579f2cb4c530b87cefe9f2e27e6564a02be0db50007b4b0d8f081a84e8f5918.body.txt",
+      "bytes": 277532,
+      "sha256": "f3d87b000584ec7473138fb484c8e9f18b87b19a35c782c56f9966d4cd480dc1"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/a579f2cb4c530b87cefe9f2e27e6564a02be0db50007b4b0d8f081a84e8f5918.json",
+      "bytes": 214,
+      "sha256": "7e7261f2b1904af26f8ab92addd866dcc74d87038010f17e37e0c38c599b54fe"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/ad22d06898cb33ff7a3094df5e1ef40f77de9c1845421d6b82b98a88f4bca8ac.json",
+      "bytes": 223,
+      "sha256": "28d809f0b2510bf8bc7618b37b05cb049d35bc8ea1fc7622f133850f9608c964"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/b0cdf774c53b163069b083d5d8416c250caa39eabd3e3d816a545e8c70d360fc.json",
+      "bytes": 318,
+      "sha256": "55323bdc8f9f34f31fcfe1084163b00d5237f6c3bb5e0960229670c3ef93ec10"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/b38ad80edbcdd4e92c06ddd937e37f7e541e046a05a567ad58e4fa05fd00ae0e.body.txt",
+      "bytes": 243011,
+      "sha256": "830c7efe4073832dc0d3c7c0dc521d702303ac4dbeb0a38faa050810dc98d9ac"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/b38ad80edbcdd4e92c06ddd937e37f7e541e046a05a567ad58e4fa05fd00ae0e.json",
+      "bytes": 234,
+      "sha256": "8123e779dc588c2ce31ce7b5ca4c2182cc76c41d38792401de651f185982551b"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/be88176643be6c319ddb2340a0ab9a61c21bfbad03c578cb635d8f6e9502489b.json",
+      "bytes": 223,
+      "sha256": "93ee07c4eb1ea1048f2d05e181e0efc7237936adc19b1bbbb634e16c9eefcda1"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/bec522ff53fda676007432a5a2634ec7ca5d22a1e90ffdc1909c6c1bacc6a313.body.txt",
+      "bytes": 243040,
+      "sha256": "6df628e82235303150bb6d44f9ce7d221e1bb0f7b013be80a52a0382e0c3b0aa"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/bec522ff53fda676007432a5a2634ec7ca5d22a1e90ffdc1909c6c1bacc6a313.json",
+      "bytes": 242,
+      "sha256": "80cbf6b6339bc13278ce4ee7805ead84d895a26ad53ab9fbcfdeb02c099a0763"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/c0437d00074d6c42fd6317db11dfa09257bd980bc16f3a9d1ca29333104db165.body.txt",
+      "bytes": 1203527,
+      "sha256": "b55004b6d9af4555c68b5dcb73ae46546a9320c2aa6a9299345ebb7913d5f97a"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/c0437d00074d6c42fd6317db11dfa09257bd980bc16f3a9d1ca29333104db165.json",
+      "bytes": 223,
+      "sha256": "2b8dad4ea81e06cc7e13ea88e762f85802c878d46d09e0ec4c7b57d6fe680a39"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/c4a6c72f0277ed25e811a881cdab2c1f0aa96bb8dc525543c29ce719549a7c02.body.txt",
+      "bytes": 563669,
+      "sha256": "37e4c09d1f6f153b653bb92bc4e018e7aca3ea0a097f0298e479806a3b742d9b"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/c4a6c72f0277ed25e811a881cdab2c1f0aa96bb8dc525543c29ce719549a7c02.json",
+      "bytes": 223,
+      "sha256": "14bb661aa656d3ceebde3f62aa47694ac6602de36f8b93e4e2357cd70ee37d21"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/c6df8746c6290a5f9c49ebd8ae2bfeb7158555fd2b39ca8632abde0bd52e64b5.body.txt",
+      "bytes": 487907,
+      "sha256": "f9c50fcaeef5a7f7b01dcd6ce1c5e7299eb79c3f25cd3399f2e5decc05231308"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/c6df8746c6290a5f9c49ebd8ae2bfeb7158555fd2b39ca8632abde0bd52e64b5.json",
+      "bytes": 223,
+      "sha256": "3d9222493c1813bcd3ac86308bfb28d80d1791d5f86b9663e16cc488fb8c27f4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/c7d55c227e0f7d1e035b0e9bb1de723165a3b16719daa5d996b10218fc3943e9.json",
+      "bytes": 217,
+      "sha256": "12c3ca043ce621fa8e7b106b6675c366f3ea1857140d5892ecd503860237dcd1"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/d21ac69f2bf49704a8cb18f7f0f507f3efe79b03dfd798e054d2be9ab72b5ef5.body.txt",
+      "bytes": 199213,
+      "sha256": "58ec5398513a81a479532c20acaf299d19cf18887777c12294157fe118e48435"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/d21ac69f2bf49704a8cb18f7f0f507f3efe79b03dfd798e054d2be9ab72b5ef5.json",
+      "bytes": 235,
+      "sha256": "e51a7598e095c21015303f1d88b308b4ab6a164780958845a9572758959c6b0f"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/d5f5edcdca14daf473a1d290ec319b2844c4ccf55818546ae623df92b09790c6.json",
+      "bytes": 223,
+      "sha256": "62796b220d504f689d4d26be191e74be10a26a191ad10cb9a9fe2021af2e2560"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/d64f574f2f6e75baa5c9d9422e6bf2baec2e05c2d21fb398d11afe2b3ea1a8f9.body.txt",
+      "bytes": 215844,
+      "sha256": "f2403b40c52b884c76d81a4d1db64f8ca7e0d681ad151af0d720888575c37c7a"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/d64f574f2f6e75baa5c9d9422e6bf2baec2e05c2d21fb398d11afe2b3ea1a8f9.json",
+      "bytes": 229,
+      "sha256": "0427c63788bf8479a26d263059562cc9d47913cb5577f920c875d80605624b3e"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/d952616fae5bb6572539755225725a777ed88a38b16abcb9251dfbc98e628f7b.json",
+      "bytes": 223,
+      "sha256": "67b08968e2adfd8e90d21de7a629abd739bfeaa70f0529028ee42571f14599c8"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/ddbe3fa47701da3db52e3346ca23c2c888423dba9739bd465b52d098c5b63178.body.txt",
+      "bytes": 290079,
+      "sha256": "03da12b54f35718f6b59ffb06739504cf8e6cf298969e1781e09b279cf542978"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/ddbe3fa47701da3db52e3346ca23c2c888423dba9739bd465b52d098c5b63178.json",
+      "bytes": 223,
+      "sha256": "9c5f863f7051ffa8bc26eae27ab2712ec25d88a6d3ad9ab742ebeafa68408fce"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/deb98458c55545ed11d3f62bb14d9e34e90f9acb6af5aa2caefdd09670769698.body.txt",
+      "bytes": 65716,
+      "sha256": "215dfbbccf4158b5399082e6ef30a6497b3a0443862fc17c7743275bdc5614a7"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/deb98458c55545ed11d3f62bb14d9e34e90f9acb6af5aa2caefdd09670769698.json",
+      "bytes": 221,
+      "sha256": "8b90641ac40f8d09d318f81332bf763361521786908315255ada0b622764fee6"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/dee38a6b721d804adc1a899fef75080d4a314482e6c0f1069e817c6400ec5bfd.body.txt",
+      "bytes": 190862,
+      "sha256": "0df73b193af34d49cb30c082a4448a6295a3800f6470a53145e7257be35b12c7"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/dee38a6b721d804adc1a899fef75080d4a314482e6c0f1069e817c6400ec5bfd.json",
+      "bytes": 235,
+      "sha256": "01c0b23d5a9d3f05a2313fd923a850fb2f3d753517efb51e22d15785483f7026"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/e6354f9860baf3b3f48ba8a61966e01bfd07920eec3c2aa614d5767222be878d.body.txt",
+      "bytes": 232467,
+      "sha256": "2f72b682ed68e085e840e9569d7d060d74c648e53f02141189f9bc022480a6f9"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/e6354f9860baf3b3f48ba8a61966e01bfd07920eec3c2aa614d5767222be878d.json",
+      "bytes": 234,
+      "sha256": "b763138c1c4e413d0be956d58cd6a382d6a76f13fac12413c66ab21a960d0360"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/efe37cef5d5f8aa635a5c661d9779af918b2fa7c3f40b315a31668b2cdeb1f3c.json",
+      "bytes": 223,
+      "sha256": "14b379010b90b20002e7954f4370d521508de226ab3016e9d860cf76e4d1ab9b"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/f5879bf1eabc265e8b28830d37accf70ca9d19917376214e68b6711bd56a4059.body.txt",
+      "bytes": 544545,
+      "sha256": "d11b161dd849924357668a90f5c51bd5844b8814f90f9ae9f6a912c18aa16290"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/f5879bf1eabc265e8b28830d37accf70ca9d19917376214e68b6711bd56a4059.json",
+      "bytes": 326,
+      "sha256": "c4eac5f7acc6b6fa1473ea22118bd6971b1a552735afcbe49501414621b665e4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/f6027f4f5690678da424d2ad6f3daf01d4a576d8ceb290e48bba9261c86f48ed.json",
+      "bytes": 219,
+      "sha256": "b6acf3c6cbefc7a81fcd810645786c13ce7759e487885879ce22bd81ea6e8bb4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/f97365197e85715bbb10dc894cb6e7b62d1abced9d4159a4cafda646e2791b24.json",
+      "bytes": 328,
+      "sha256": "06d23dcf8c45e7b23c25b4f0b8f50158e79665665c7b9880885c954a6cd13438"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/fa15b486cbd98f414aa264639e65a0d3b9dca426579eff37dbc61645cd0c6995.body.txt",
+      "bytes": 18164,
+      "sha256": "393529115b77136decce076a8113613dae80c9460b92a90d06a2f98a12dddb90"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/fa15b486cbd98f414aa264639e65a0d3b9dca426579eff37dbc61645cd0c6995.json",
+      "bytes": 385,
+      "sha256": "dff1312c5202a5fd412d4aa24beb4b9aae5aea2adbde81b4ca0fd477e44bf19f"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/fae040d1eb73dd487dc211cf54cebd7babbe0839440382136e295bc7f749dfdd.body.txt",
+      "bytes": 86885,
+      "sha256": "d9a09087713f9d35786c01fa178a05c97f5f70eed532a5439b747c9c76515ec6"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/fae040d1eb73dd487dc211cf54cebd7babbe0839440382136e295bc7f749dfdd.json",
+      "bytes": 329,
+      "sha256": "35074720c95683d7ba9ec231465169c6080f128110098908e580f1098b7816b6"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/fb1e9c4da753d428d74d55c2efae324111f02c7ddf49c4927015af6d20b22374.json",
+      "bytes": 223,
+      "sha256": "fc44ec2a99eb1eb0987290694a89ecad1b5a1e366a824c5f0423b2f19992a5f4"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/fb505ad34c235b6502ba839de5f43d05fff1f2511c0cf1f92feb989bc44b4097.json",
+      "bytes": 219,
+      "sha256": "8f69ef552fd9de2c8f7b0d2fc92492346fbc78e4879687bd3ecb36dcc5fc8dbc"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/fetch-cache/ff1c169eefda06ee88dab74659f27bb6126b246db7a38149756b97fcbcd7834f.json",
+      "bytes": 333,
+      "sha256": "d781eca651d9cfb7b88064ad818559898d20ef00f4051a5b65bde64f139aa955"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/inventory.temp.json",
+      "bytes": 1829286,
+      "sha256": "0e5295425191804555534bb8b737d38a01ca3f4cc5df9bb8348573a353ac5bcf"
+    },
+    {
+      "path": "research/source-cache/public-web-recovery/overrides.temp.json",
+      "bytes": 35219,
+      "sha256": "61db8f946fad91b74eef8901573f8821494a219ab3d99ecc8510168fadd24033"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/ambedkar-castes-in-india-1917.txt",
+      "bytes": 54703,
+      "sha256": "6af4b4466e129be3ddc00d0efea7b01254e62db3ae3ca63b237a72c329f598c3"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/aristotle-metaphysics-vii-17-ross.txt",
+      "bytes": 4809,
+      "sha256": "c1c21442a587994f7433931399c11e8ffb461cefc08fa118207909714dd7f1d5"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/arrow-debreu-equilibrium-1954-introduction.txt",
+      "bytes": 4105,
+      "sha256": "f7a026bf76b1b08fab8371db932734e6d3aa07501e8d38a8a13f623de24daa18"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/arrow-medical-care-1963-introduction.txt",
+      "bytes": 21779,
+      "sha256": "7af996027540bcee3641563d8d51601836e1167fec80173d051aca5728eabbac"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/asch-forming-impressions-1946.txt",
+      "bytes": 103129,
+      "sha256": "5c30b1d03b732d64942a3a936cf865dacbfcab58b3c9042fad86ab82fcf642d9"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/augustine-the-teacher-chapter-xi-tourscher-1924.txt",
+      "bytes": 4574,
+      "sha256": "e6aa53ff706374fc25d318f763f5157e42737f6ef1d0993bd5ea76725a8920b8"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/averroes-decisive-treatise-part-i-1921.txt",
+      "bytes": 57038,
+      "sha256": "e71d77774686331ccaa3f7a32b7bfc27ba33f9eed60b287054934a5caa1dc410"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/bandura-aggression-1961.txt",
+      "bytes": 37647,
+      "sha256": "5ad7f2b30f4bb7f29f4d21203511813e9e28109d798c59b9480369912d4a5873"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iii-bowring-1843.txt",
+      "bytes": 7261,
+      "sha256": "aff9a0ee68879bfafb78a2514fe523cb66a3cf301203877a51a15405e088024f",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-iii-c12a7ff5.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/bentham-ipml-chapter-iv-bowring-1843.txt",
+      "bytes": 6436,
+      "sha256": "87eb28a0e99b47446562f48cd943876f6ad21d67b6e862c04453e24e086aded3",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-iv-f3ce544a.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/cbeta-t1881-golden-lion-indras-net.txt",
+      "bytes": 358,
+      "sha256": "248a1ade9c64c40b864639b9b77769459dcc25feea316333bbebf834d7ad995d",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/cbeta-t1881-golden-lion-indras-net.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/cheng-brothers-yishu-volume-2a.txt",
+      "bytes": 50691,
+      "sha256": "b295328491d22a8f8f0479583d954f0ccb1f14ea86283a1e45bfe8ea817fb8f6",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/cheng-brothers-yishu-volume-2a.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/ctext-daodejing-chapter-22.txt",
+      "bytes": 1086,
+      "sha256": "366d2f13b2dfc4903f4621f91223bdc35f683257a854114ff67b32db2b17eee2",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/ctext-daodejing-chapter-22.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/dasgupta-biodiversity-2021-preface-clean.txt",
+      "bytes": 25835,
+      "sha256": "2ef4a470d2c27d3faae5475a290d0f7c1a6f38034006f981441bac560c36162c"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/dasgupta-biodiversity-2021-preface.txt",
+      "bytes": 42113,
+      "sha256": "84bb914c46618c23e22e30d387f253e66df046ba602d9b5d3cd6592d173c0680"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/deaton-analysis-household-surveys-chapter-1.txt",
+      "bytes": 175620,
+      "sha256": "bb00e4379c3817616867fffbd7f9a9a029dc5e7eb2ea14fe968931d2f693fa41"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/descartes-meditation-ii-molyneux-1680.txt",
+      "bytes": 17404,
+      "sha256": "4cf2d8f0e93e00142e0321af161e6bf8c4eb05c1d53af469aa45d472c93a1ca7",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-meditations-on-first-philosophy-meditation-ii-1865582b.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/descartes-meditation-iii-molyneux-1680.txt",
+      "bytes": 31344,
+      "sha256": "230facc6ed60a1b0ca503f2f187af502d522b69e95ba6d3b3772eb7f0f635701",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-meditations-on-first-philosophy-meditation-iii-98ef2f62.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/descartes-meditation-iv-molyneux-1680.txt",
+      "bytes": 16494,
+      "sha256": "494a8e6603cbfb2399bb6fcf8e6c34180a946352d53aeb1220a9455075f0a7e3",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-meditations-on-first-philosophy-meditation-iv-94021970.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/descartes-meditation-v-molyneux-1680.txt",
+      "bytes": 13615,
+      "sha256": "3180b992a6b52c7bb98584743442d7d3176b8f4178b8afbb3dde1004a330b20a",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-meditations-on-first-philosophy-meditation-v-34e6b8eb.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/du-bois-souls-chapter-iii.txt",
+      "bytes": 28648,
+      "sha256": "462f6418da2b8a411a26495b14e167d2cbf54be8fc542e5106fbca5c59b7507d"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/ebbinghaus-memory-chapter-v-ruger-bussenius-1913.txt",
+      "bytes": 10667,
+      "sha256": "dbfb82a36d255731be8f6a70f5d341931a608e1cf1443764dbb5bc7e906cb204",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-memory-a-contribution-to-experimental-psychology-chapter-v-aae759ab.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/edgeworth-mathematical-psychics-part-ii-1881.txt",
+      "bytes": 115678,
+      "sha256": "a153dbb1225ec4e118c700eeb1ee2d6b9f046a5cf1e21d261d6e119c357f6ccb"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/einstein-brownian-movement-cowper-1926-complete-paper.txt",
+      "bytes": 17653,
+      "sha256": "2f36e85ae179ecd446925d0ef22ad84ac9fe0f9c5147d4198d8e14a0f46d5b28"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/einstein-electrodynamics-moving-bodies-introduction-1905.txt",
+      "bytes": 2977,
+      "sha256": "dae1a84adc537065c06fb3638cb064fc98e3afe8376ff6405b214fd20f3112e4"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/epictetus-discourses-book-i-chapter-ii-long.txt",
+      "bytes": 1450,
+      "sha256": "e7e681c4ffac454809d001572fd46ae16d1d878aa062c469daa33a1d05050402",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-discourses-book-i-chapter-2-730b2536.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/epictetus-encheiridion-long.txt",
+      "bytes": 43419,
+      "sha256": "b284ee544e0c41cf2748bb657fe8677c2d492897fff355206b4da6c720bd1cdd",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-enchiridion-whole-work-f7640499.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/faraday-experimental-researches-v3-series-xix-xxviii.txt",
+      "bytes": 170779,
+      "sha256": "8ba7c57fb7c99ff35420c18f4c49188fc4144e35c5e0563a9d6d54b12e66d509"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/fazang-golden-lion-clarifying-dependent-arising.txt",
+      "bytes": 460,
+      "sha256": "c3357fd3db088cf22cb9e16df97c18826e62967060aeec12e691c0a721976a2e",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/fazang-golden-lion-clarifying-dependent-arising.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/festinger-carlsmith-forced-compliance-1959.txt",
+      "bytes": 32919,
+      "sha256": "3c3295f8fbe6018bf1dc335f9fa360be625efd8aac5f80c6727621103230056c"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/frege-class-function-concept-relation-1917-complete.txt",
+      "bytes": 27329,
+      "sha256": "296046e3d2a3529ebdbcbbe183aa80da6a0774519167f7e206f68b8f709ec015"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/gale-shapley-college-admissions-1962.txt",
+      "bytes": 16698,
+      "sha256": "9d3fe2a6c0058d3c01bacc693faff3cbdda5983d4a99e24889ed795cadaa99cb"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/galileo-sidereus-moon-observations-carlos-1880.txt",
+      "bytes": 32201,
+      "sha256": "71ef0487682c6d6dfbb868c14afece6c85e211639058748344b3ccdd912793bc",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-sidereus-nuncius-named-section-observations-of-the-moon-6df63e16.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/galileo-two-new-sciences-day-third-1914.txt",
+      "bytes": 161566,
+      "sha256": "ee92002c369e1380fdd31e5fd16586b172a910ecf095c617fb5150181449f191"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/harberger-monopoly-and-resource-allocation-1954.txt",
+      "bytes": 33580,
+      "sha256": "050082b1f67a772e35529d692a98401034cb4f85e66fb3f116916654394c481f"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/hayek-use-knowledge-1945.txt",
+      "bytes": 35762,
+      "sha256": "4689782b55a38c3006f0c571a448bec657327c95ea094d64711ebe3b6c100a9c"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/hegel-philosophy-history-sibree-1899-introduction.txt",
+      "bytes": 256866,
+      "sha256": "79b2d011fc706c63d2cb0e1f952abae6d993c7b0f17b42c5de2ef0870303a432"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/hegel-philosophy-of-right-dyde-1896-selected-units.txt",
+      "bytes": 437487,
+      "sha256": "6926c7d5af332f2a0ac841ff2c595bb46301516feb93ae8348c9c3a98dfb75d0"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/heisenberg-nasa-tm-77379.txt",
+      "bytes": 126553,
+      "sha256": "4e9230c331fde4ac833502ece6012a083284eb248f39b323f05e229501de7e3e"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/heraclitus-fragments-burnet-1920.txt",
+      "bytes": 15435,
+      "sha256": "95d2089d67db57e92a248e8bff0d3f6de5db63f210414fd780f6470ec0a160ec",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-fragments-of-heraclitus-whole-work-bc02bed8.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/hobbes-leviathan-chapter-xxix-1651.txt",
+      "bytes": 23545,
+      "sha256": "0a9fee27ddb2e1012074839cb6ca48416f20d67aef39bce805d45bd895c65c15",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-leviathan-part-ii-chapter-xxix-612ebd74.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/hotelling-exhaustible-resources-1931-complete-paper.txt",
+      "bytes": 65862,
+      "sha256": "9950a76681f6b034f768a39998a2d2317706d4a0a5e37076e2996beb33a825cb"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/hotelling-stability-in-competition-1929.txt",
+      "bytes": 41104,
+      "sha256": "77037c7303c8eda5dc4028b5243b657947edb5627555253102a0d01a82ba362b"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt",
+      "bytes": 26341,
+      "sha256": "c10d008b5a9f54d50a090ce54dc12656a3c0c1bafc57512cc09ef74429d77752"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/husserl-phenomenology-britannica-1929-part-i.txt",
+      "bytes": 11448,
+      "sha256": "b2bac80d83ccdec1cc5fd86c0cc5df43f94930d8bd52e857e226bd1ea38b7af6"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/jacobi-acaranga-sutra-1884-book-i-lecture-2-lesson-3.txt",
+      "bytes": 4190,
+      "sha256": "34eb43532bd7f46e83115c8ba94e2e9267871da6caa9ee7995b0c52d77411339"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/jaini-tattvarthadhigama-sutra-1920-chapters-1-5-7-8.txt",
+      "bytes": 153016,
+      "sha256": "5082efb647d064603b802677af25e901dba50577143096ffdf3709e175c2b845"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/james-varieties-lecture-i.txt",
+      "bytes": 42849,
+      "sha256": "62e37529cffd71c1087d179699865fb80b5e24836e8e05c243b1b5a49badb5a8",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-the-varieties-of-religious-experience-lecture-i-66a0fb7f.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/jevons-theory-political-economy-chapter-iii-1888.txt",
+      "bytes": 54082,
+      "sha256": "5dc3dd036332d41864e618fede3f00fb2841fc56af085ab7572024ca7e73876f"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-introduction-meiklejohn.txt",
+      "bytes": 41366,
+      "sha256": "3683025f119a24d07944095a374cd753ddb5168fc4c007bd2aeb292c99a72a94",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-critique-of-pure-reason-introduction-introduction-1ecd26ec.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kant-critique-pure-reason-preface-b-meiklejohn.txt",
+      "bytes": 48255,
+      "sha256": "5907bed3b70e279dcaa5535a0fb0a265b35e8f9d413aa83943c45a196aed699a",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-critique-of-pure-reason-preface-b-d5be9bd1.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kant-groundwork-section-ii-abbott.txt",
+      "bytes": 91312,
+      "sha256": "a2d92069d51a20f4ffcca9d58d4d3e7b8ba7f2edcad443b57e69f13caaeeb38b",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-groundwork-of-the-metaphysics-of-morals-section-ii-fb5d7ac5.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kant-religion-semple-1838-part-i.txt",
+      "bytes": 90780,
+      "sha256": "016750d952cebaf1163001a41aaeac043c021fdff1bce16dcbaeabc050354751"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kant-what-is-enlightening-richardson-1798-complete.txt",
+      "bytes": 17567,
+      "sha256": "40e9753c50bcb3bb9972b14a6205eef704ed5fb3b9673861555c35cfbf028227"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kierkegaard-crowd-untruth-appendix.txt",
+      "bytes": 18251,
+      "sha256": "d43884e9a34e00fe591b7627ec8fb00a248e3d6385bd2390aaad2cf0b74b8727"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kierkegaard-stages-in-vino-veritas-hollander-1923.txt",
+      "bytes": 157396,
+      "sha256": "7fc517b94729d88d12bd3f1e76f74d85d4ee958b7eaebb9efd23c027c1f07575"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/kohler-gestalt-psychology-chapter-vi-1929.txt",
+      "bytes": 47542,
+      "sha256": "e3a418c1306880037032b91c03e3aa933dd777871c6da232b7cfb0d8aca29ba8",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-gestalt-psychology-chapter-vi-8cdc59c7.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/laozi-wangbi-siku-chapter-22.txt",
+      "bytes": 348,
+      "sha256": "af2c021f47eb4d93d3ba84c31a2f86e6fe4c8de780c94613a0787fa25f566a3b"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/leibniz-monadology-duncan-1890.txt",
+      "bytes": 32947,
+      "sha256": "5144e0ed102e917f6c3024ec51c5031926f33c51d4887108c836331bf5405619",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-monadology-whole-work-bf71c0f6.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/leibniz-new-essays-langley-1896-preface.txt",
+      "bytes": 55964,
+      "sha256": "d7de7d7efdf1e8f8dcbc25da8dadb22c165f2cea6a34ccb5a62aebc62ebbcd26"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/lewin-action-research-minority-problems-1946.txt",
+      "bytes": 33801,
+      "sha256": "4663f84e73421260403caf63abcef2e3ff1b17fce4e24882e35b2cbcab0d4701"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/locke-humane-understanding-1690-book-iv-chapter-i.txt",
+      "bytes": 8830,
+      "sha256": "b336eac10d494145d2954c9175339898e1bd3d328c96dbc38aec09513b12d648",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-an-essay-concerning-human-understanding-book-iv-chapter-i-faf749d4.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/locke-second-treatise-chapter-v.txt",
+      "bytes": 31931,
+      "sha256": "dd3bd8e169a8d64f7b9f7725101ab41e0e2eccdf3715b11ac256e539268703dd",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-second-treatise-of-government-chapter-v-b11ade32.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/machiavelli-discourses-livy-book-i-chapter-iv-thomson.txt",
+      "bytes": 4275,
+      "sha256": "82b4d1db96ae339d9c9704179826a7eaa2eaf6cf4e39c1b4e8dd37d4bddd0819",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-discourses-on-livy-book-i-chapter-4-f36c1d2d.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/manifest.json",
+      "bytes": 65019,
+      "sha256": "8a359a9c87d87929bd137b2df7cf24c013d8cc4732bf504c3aea6e034b407b96"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/marshall-principles-book-iii-chapter-iv.txt",
+      "bytes": 36534,
+      "sha256": "16c622977515acbbcc2232dad7cca72132686adbead8071d13b779f92dc18427"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-i.txt",
+      "bytes": 130105,
+      "sha256": "c0b05e21a5366ec35c2bbdc2386a2f34707db8a636e6c94fd41439ab6ec20602"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/marx-capital-1887-volume-1-chapter-xxv.txt",
+      "bytes": 254948,
+      "sha256": "d96c9084f97dfab8b5b84a5fd309eb28877d41123ad70aa4a538035ce02d778f"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/marx-manifesto-chapter-i-moore-engels-1910.txt",
+      "bytes": 29444,
+      "sha256": "ea9da815d5b6858538ea0d12a1f3a32ba1df68a83aaec19d079c6ccb597f39af",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-manifesto-of-the-communist-party-chapter-i-b39ac0bf.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/maxwell-dynamical-theory-gases-part-i-1860.txt",
+      "bytes": 25625,
+      "sha256": "2e61fbf3408623bc5569686a0bb4ecdd5275ffd1cb1992ab31c0c4d70a98b0aa"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/mencius-gongsun-chou-i.txt",
+      "bytes": 10278,
+      "sha256": "b8e3ce42985f1c1a0735c1f75bede8445bb7765bebf9cc3e8636740e5c66a46e",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/mencius-gongsun-chou-i.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/mencius-jin-xin-ii.txt",
+      "bytes": 9085,
+      "sha256": "dd13afc3bac17b7969fd3c7c49905362a10c46dfc98799c83a5a8808bcb8ba00",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/mencius-jin-xin-ii.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/menger-origin-money-2009.txt",
+      "bytes": 50577,
+      "sha256": "0ffe91beca01a0e3eee90bbd9acc30dd9682c4961e0a93ff450b128b1018914b"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/mill-political-economy-book-ii-chapter-i.txt",
+      "bytes": 51324,
+      "sha256": "131868da66d03cb1b4c8882d0a20fb74bcc5df88e7e7bd6ee2388880e55e09a1",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/mill-subjection-women-chapter-i.txt",
+      "bytes": 70119,
+      "sha256": "bb28f62122ff84da77320a64f3b5b70165b8bfc427c1a202617d4456dbceff25",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-the-subjection-of-women-chapter-i-de45861e.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/mill-utilitarianism-chapter-ii.txt",
+      "bytes": 52997,
+      "sha256": "ed5d3e5db2e038e96131eaecad1c74b7b846e34fe618ad80f9007cdddf72ed71",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-utilitarianism-chapter-ii-6f8a19dc.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/miller-magical-number-seven-1956-complete-paper.txt",
+      "bytes": 54957,
+      "sha256": "5ff2a56b2bc37ef9837e64c18a24ce8812645ddd641ccaab4f17188d2bb2ebc5"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/mozi-feiming-shang.txt",
+      "bytes": 5343,
+      "sha256": "7b059dfbcd5abe7aa149d3a16009b2e0792016aa6b60af62849456deafc81cb1",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/mozi-feiming-shang.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/nash-bargaining-problem-1950.txt",
+      "bytes": 16421,
+      "sha256": "375bb3ffed46df9314f6ce06b70d33fe38ea71777d066974160944441c2504c0"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/newton-opticks-1718-book-iii.txt",
+      "bytes": 135980,
+      "sha256": "58b4134c8d1ae14f4de14fad3f7f0f85ed89e8a1a503db26dfa983b8729565a8"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/nyaya-sutra-vidyabhusana-1913-book-i.txt",
+      "bytes": 36555,
+      "sha256": "a1debb4f4332414392abbdcc6490ded38d1b0c17423a2aa84221aaad47e120aa"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/parmenides-fragments-burnet-1920.txt",
+      "bytes": 10163,
+      "sha256": "dcd43d9e55f06485dc537c385d8d104975c32a182b5c5505869513e5dd1dd9f4",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-on-nature-whole-work-aaa8e8ca.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/pasteur-life-chapter-v-devonshire-1920.txt",
+      "bytes": 66571,
+      "sha256": "708a6f6babbf13a035ffc5f6a53dd36071e548905dc867a44c8aa417b1ce6554",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-on-spontaneous-generation-whole-work-80e9bc01.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/pavlov-conditioned-reflexes-lecture-ii-1927.txt",
+      "bytes": 40559,
+      "sha256": "abeb0dc34dded88678449a61cae1346db80280d259c13d0f325468a9e278fa66"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/pavlov-conditioned-reflexes-lectures-ii-iv-1927.txt",
+      "bytes": 78527,
+      "sha256": "631ab183baa9fa2f3f6c166a3dcccd9d26905e19debcf2fcdc1ca2c9d9a3f269"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/pigou-economics-welfare-1920-part-ii-chapter-xiv.txt",
+      "bytes": 35346,
+      "sha256": "1c268e2776e4ae7cf6100486033daba304c2a7ab2e7c21c86daa2cd0bfaec032"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/plotinus-ennead-vi-tractate-9-mackenna.txt",
+      "bytes": 35135,
+      "sha256": "40daf420a52846320b9b710a79a93733f2320092a7faf3c07df5c4a7abb7967e"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/ramsey-taxation-1927.txt",
+      "bytes": 25027,
+      "sha256": "ce8ea9fad62f7d2147c99468e53b1393ff4d146ef220b3d4b686c8120be8f145"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/rousseau-inequality-note-xv.txt",
+      "bytes": 1669,
+      "sha256": "96887f9f9f5da0ba45ce03abef691192486d5ef55570a8271b8db72a301e55f8",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-discourse-on-the-origin-and-foundations-of-inequ-note-xv-6cb74c46.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/rousseau-inequality-part-i.txt",
+      "bytes": 69644,
+      "sha256": "b62c28b42df064f16f50162987321de8d23dc4d6de60cb9c284c7178c19ece3e",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-discourse-on-the-origin-and-foundations-of-inequ-part-i-cfe42222.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/rousseau-inequality-part-ii.txt",
+      "bytes": 73169,
+      "sha256": "31d2965f3e9d26f7e23b865a27a98eea936e94270036306390fec75051f1aa8a",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-discourse-on-the-origin-and-foundations-of-inequ-part-ii-bbd0d0cb.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/rousseau-origin-languages-chapter-ii-1782-with-simpson-1921.txt",
+      "bytes": 3396,
+      "sha256": "711305ea5836967a757f1d118336980864e49b451c5bb0a6b9d353108862c89f"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/rousseau-sciences-arts-part-ii.txt",
+      "bytes": 33028,
+      "sha256": "26380d2e06df501c89228306a253865328b5922caf66d78c2df8480e450de2f7",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-discourse-on-the-sciences-and-arts-part-ii-612100dd.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/russell-on-denoting-1905.txt",
+      "bytes": 37294,
+      "sha256": "5e59552c83e404055346a15ac6fbc31720ea78095162d3887b48fc6445f40270"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/samkhya-karika-jha-1896-complete-text.txt",
+      "bytes": 296643,
+      "sha256": "4bddbe055fb29a51d63e0d5dd77379b1a27d5989982a700ad6b45a6a4aeb4110"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/sandal-mimamsa-sutra-1923-chapter-i.txt",
+      "bytes": 68260,
+      "sha256": "9f7841d291b9152d611e777226e32f910a704df60c9906aa1b25a31eb4de81de"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/schrodinger-quantisation-proper-values-part-i-1928.txt",
+      "bytes": 28357,
+      "sha256": "ae4d2357b8f13318ca7c5d625ed07a1a7dde6d9a2f8a8601cd59da692c2f75f1"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/schultz-investment-in-human-capital-1961.txt",
+      "bytes": 49155,
+      "sha256": "44da663389703636a9c1fc7689b17f827074b4505c85eac2ba659569159031b7"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/sengzhao-buzhenkonglun.txt",
+      "bytes": 5596,
+      "sha256": "2b846c15be60ef7faab23a3f7b815b35e304a430b152ade10d5c3d14c80ab565",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/sengzhao-buzhenkonglun.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+      "bytes": 531666,
+      "sha256": "785166353a0d9ea5003576ab0e0073a91694c618c0ee8b7df18060a7408bd255",
+      "aliases": [
+        "research/source-cache/public-web-recovery/fetch-cache/c7d55c227e0f7d1e035b0e9bb1de723165a3b16719daa5d996b10218fc3943e9.body.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/spinoza-theological-political-treatise-chapter-xx-elwes.txt",
+      "bytes": 20586,
+      "sha256": "6a4d88d6d3d401ea11ed7861e4a56d3c8bcba576ba0a7e936984135b69372fc2",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-theological-political-treatise-chapter-20-80467ac4.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/sweezy-demand-under-oligopoly-1939.txt",
+      "bytes": 11620,
+      "sha256": "4d56611d3ab4fd06ac06976562342b8f0d008a1505daa1ba18571eae1a4f2f17"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/telang-bhagavad-gita-1882-chapters-ii-vi.txt",
+      "bytes": 25880,
+      "sha256": "f7a24050f5014a32738635e56f088a86285c2a7022ee32f363a8b5ae5817af1f"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/thorndike-educational-psychology-v2-chapter-xii.txt",
+      "bytes": 170670,
+      "sha256": "58b2e9d7f9a9d62a0d68cb2f085f88f1cb76acbce3cf38b24d018bcd936cce2f"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/thorndike-educational-psychology-v3-chapter-viii.txt",
+      "bytes": 26284,
+      "sha256": "5af3f62c1dc937dff5be838d3b9f1d99282991e9b421d76716dde30be9c18c59"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/tractatus-major-propositions-2-and-4.txt",
+      "bytes": 40684,
+      "sha256": "65312dfee2a40e3dc3d9780d7205d6d39526b8285f4851674ee587b06636bd60"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/vaisheshika-sutra-sinha-1923-selected-chapters.txt",
+      "bytes": 312845,
+      "sha256": "e416f829dcae000833e74dfbd1e76211f57a93663273ac55f41829f7b6f1493c"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/veblen-theory-business-enterprise-chapter-3-1904.txt",
+      "bytes": 71023,
+      "sha256": "d342b563e2f6baf25f2c2e036a4c05ae90f71728c18dc0407be7e302a21721e0"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/wang-bi-laozi-chapter-1.txt",
+      "bytes": 1327,
+      "sha256": "6ba888c0b9334ce11a36e8e5c4eba0649e2df8a2d781818af8b37fcc397d3569",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/wang-bi-laozi-chapter-1.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/wang-fuzhi-siwenlu-inner-chapters.txt",
+      "bytes": 42806,
+      "sha256": "09b20afb61fa77d0f16dae334bc4a2d3c22bbde63c48982380515a61ff5aa6bb"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/wang-yangming-chuanxilu-volume-1.txt",
+      "bytes": 78527,
+      "sha256": "0db4bb124f806050ea1f8a8c1f9cac3eea9391513b414934afbc2947a719daab",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/wang-yangming-chuanxilu-volume-1.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/watson-behaviorism-1925-chapter-v.txt",
+      "bytes": 42081,
+      "sha256": "d52231d97959474e38abe8bb49f2ea5f1ed319b9955f3dff14662d1730d10858"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/watson-psychology-behaviorist-chapter-ix-1919.txt",
+      "bytes": 87949,
+      "sha256": "44e7f5e11fa2616c1fe64ba5eca856667d8fc323724058f232317cc3212bc33d"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/watson-rayner-conditioned-emotional-reactions-1920.txt",
+      "bytes": 27480,
+      "sha256": "78a4483b0f9f4b478c0b9e959dbf7e180cf2ddd10d9cbdcf11e52394057bb7da"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/whewell-philosophy-discovery-chapter-xiv.txt",
+      "bytes": 43078,
+      "sha256": "b79fe33fa9052ea4d9fbdd472b293609488a3d62eeb27afafaccc4c0e5dd0531",
+      "aliases": [
+        "research/source-cache/public-unhandled-resolution/units/ru-astronomia-nova-chapter-19-89268069.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/woods-yoga-system-1914-book-i-collected-translation.txt",
+      "bytes": 7906,
+      "sha256": "6420e11581029b5749df6a5381e8d849614b22b9d4e37a4c6b9c300accba47ab"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/woods-yoga-system-1914-books-ii-iii-collected-translation.txt",
+      "bytes": 17614,
+      "sha256": "ef3ceca8bdbefdb7e69bf92b4262a4b359527f04725c26f104c357434a478793"
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/zhang-zai-zhengmeng-great-harmony.txt",
+      "bytes": 5092,
+      "sha256": "6ebd603c279a68ed5e93c36831aa4b051d874e9a9e8235d59b7891363049cb13",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/zhang-zai-zhengmeng-great-harmony.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-derived/zhou-dunyi-tongshu-chapter-14.txt",
+      "bytes": 216,
+      "sha256": "4372c5026ed7d939c99515f48edbf9b6ee88e242c999ca6f56939525b9c4f3d1",
+      "aliases": [
+        "research/source-cache/chinese-web-recovery/zhou-dunyi-tongshu-chapter-14.txt"
+      ]
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/hegel-philosophy-of-right-dyde-1896-archive-ocr.txt",
+      "bytes": 797551,
+      "sha256": "3ca35f7977fd0f6555085693dcc4efe0172711c982f28de623add98563e4817a"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/nyaya-sutra-vidyabhusana-1913-archive-ocr.txt",
+      "bytes": 501983,
+      "sha256": "da934d676bd1b31bf38fc337ea86985059b3f66939314806368c6591b078dc5d"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/arrow-debreu-1954.pdf",
+      "bytes": 1341856,
+      "sha256": "0e2f3401a13662507900cef3c7430dd694fe6b0f9150fa4974e225b18cb12385"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/arrow-debreu-1954.txt",
+      "bytes": 72804,
+      "sha256": "4aadd333842f24b726baad1c3a4ce6935999b71a02a9cd2778c9af23de49a322"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/asch-forming-impressions-1946.pdf",
+      "bytes": 1337229,
+      "sha256": "1fc8008b9b17b34659d520c588f44b8271a210f2d86d5c514101a810b5ae8275"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/bandura-aggression-1961.pdf",
+      "bytes": 799034,
+      "sha256": "f9d9b3357af1961f635973b240dbd794c4a1faf01850c4b3eb75d63c9da0830e"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/dasgupta-biodiversity-2021.pdf",
+      "bytes": 28086843,
+      "sha256": "5bddb6883e3bca0067410f2910322751da6c562909832751b14b3b276db1dcf0"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/dasgupta-biodiversity-2021.txt",
+      "bytes": 148284,
+      "sha256": "acaf6908dfb47ccad4140d2aee5aac1aba1c3df2ea32cab77a027747aded5601"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/festinger-carlsmith-1959.pdf",
+      "bytes": 680077,
+      "sha256": "4b24a13a22b5ba1b29f04f7b6e90d5b01c17bb55dd9f347d5e49bd6935f8645a"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/gale-shapley-1962.pdf",
+      "bytes": 206606,
+      "sha256": "3971ec3e3b048b6ace92248fcc8fa8f021808ca76cbc09d439275b8c0a07bb41"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/harberger-monopoly-1954.pdf",
+      "bytes": 1305379,
+      "sha256": "95f5ee69298c904d928e963e4a5b9ad3fc95a3f08b53d945f0cb319e507793eb"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/hotelling-stability-1929.pdf",
+      "bytes": 810600,
+      "sha256": "a8e25573a2a1cd1c5ee29700863db72dd4013fc4b2ce721e0a1bd36a113295b0"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/hotelling-stability-1929.txt",
+      "bytes": 44166,
+      "sha256": "b749085f5c89d5b02dce6b066982f4f4ba3f240314f72251fdd9413c5929dec7"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/nash-bargaining-1950.pdf",
+      "bytes": 388370,
+      "sha256": "6f6f054a717c025a1dd80a3612f1c24f7f2d251d214decfc2fcc9f689a261383"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/nash-bargaining-1950.txt",
+      "bytes": 18308,
+      "sha256": "af6ba7f56ea4194800bdab69ae05c19b4853604e5db58e9df5299188566c15e4"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/ramsey-taxation-1927.pdf",
+      "bytes": 1172898,
+      "sha256": "064cb1ddf5697ff72d3919f64120a0554dbd6ed516ae4dea348c9d02fe13669d"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/schultz-human-capital-1961.pdf",
+      "bytes": 2313750,
+      "sha256": "9595eb9522281facfac506adf7441d9cdd88552cc191fcd04df30a38a305efaf"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/papers/sweezy-oligopoly-1939.pdf",
+      "bytes": 468889,
+      "sha256": "49067dd0f0b02948f258c34298d8fa22458a694e7118623a3cc0a1f98551b352"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/aristotle-metaphysics-book-vii-ross-logicmuseum.html",
+      "bytes": 298042,
+      "sha256": "4d6f172491de93b2dabd478cce0d68a1a61847e76d49ba3aa218974251a8d7bf"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/galileo-dialogue-1661-eebo-tcp-a61244.xml",
+      "bytes": 2461675,
+      "sha256": "663aa48bbf2570b86a42b9a69532cc6cf7b7938e03994f70fab45f5d796d1a26"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/maxwell-on-faradays-lines-of-force-wikisource-api.json",
+      "bytes": 644760,
+      "sha256": "2e2e457a628e686b7e300540e1c7b31461f6ac8652b13d8af850b67f94c00a40"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/maxwell-on-faradays-lines-of-force-wikisource.html",
+      "bytes": 621705,
+      "sha256": "6e7cad96362774385f22f28cdc720e30f5dad4ef1100782ff18ff5957ee958c5"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/mill-on-liberty-chapter-2-wikisource-api.json",
+      "bytes": 134088,
+      "sha256": "52115bd6784583c110760854f4e3ced4c3d88423c93edec53f2d81c6219fe8c7"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/mill-on-liberty-chapter-2-wikisource.html",
+      "bytes": 132233,
+      "sha256": "f4f72000c042c07a69163642d42d85b4ee6158ccfcdfd963d80ac9102e9eff97"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/plato-republic-book-3-jowett-wikisource-api.json",
+      "bytes": 123266,
+      "sha256": "0daa6de5dfaf0f399cc691ca69ea1333f174f8ef819a3780cb7f3c4dab7e2b52"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/plato-republic-book-3-jowett-wikisource.html",
+      "bytes": 120365,
+      "sha256": "f1da175b079b8059f237117e5a58a8c0eb0efde786ea3a89ff18fdc23a2ec020"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/plato-republic-book-5-jowett-wikisource-api.json",
+      "bytes": 110840,
+      "sha256": "dc8334774f579d85ad917cbe6cdfdc84f2c25c47c0f6c83f602a051032691628"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/plato-republic-book-5-jowett-wikisource.html",
+      "bytes": 108808,
+      "sha256": "a8d1604a86df5779d3ddec271a917724bdc412bb2f128414539006070749cd01"
+    },
+    {
+      "path": "research/source-cache/reading-unit-origins/web/plotinus-enneads-mackenna-ccel.txt",
+      "bytes": 1825494,
+      "sha256": "a02a1387d3a47703301ea3e0aa7b9043b1e9f19e5f3ec898923fdb3a99d1180f"
+    },
+    {
+      "path": "research/source-cache/README.md",
+      "bytes": 1639,
+      "sha256": "493046486ccb5716bb2af413654a744c748257e1ca9ed3f44e233be991687c97"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/deaton-household-surveys-2018.pdf",
+      "bytes": 36972430,
+      "sha256": "fbabab86714a41454c7edf46eabda0f41774704bd3ab8b7b344fa2f3ab50e539"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/einstein-electrodynamics-moving-bodies.html",
+      "bytes": 87143,
+      "sha256": "45f0acc22e762f83334279baf3ad2e96432964d09fc173964eb7591c471a9df7"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/galileo-two-new-sciences-day-third-opening.html",
+      "bytes": 14985,
+      "sha256": "28653f0c7d3f2aa8f85306bcf8fb15ac038c65f7f60f2e1e2e0d1f1b063037c8"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/jevons-theory-political-economy-1888.pdf",
+      "bytes": 24220245,
+      "sha256": "54370a289c65af8b13e071383623565cdd2909b86709f1c9764acb041772b1fa"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/jevons-theory-political-economy-chapter-iii-econlib.html",
+      "bytes": 257880,
+      "sha256": "9f5bf1608c06f522d0e2d2242688ca6267e402c5b149ff77abdbdba0bb65b639"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/lewin-action-research-minority-problems-1946.pdf",
+      "bytes": 678482,
+      "sha256": "fa342aa6f22bf445b19916ede5ed1ebbe1feaf6b447e969bb1567880be0812d7"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/veblen-business-enterprise-chapter-3-brocku-snapshot.html",
+      "bytes": 84396,
+      "sha256": "a7211db15e293ca28b303dd83b0a919fcaca8da56fc9e93c9661652f5f82bec2"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/watson-behaviorism-1925-chapter-v-tesseract.txt",
+      "bytes": 43147,
+      "sha256": "61076bb715ab3283e2f7b2c28ed04d3f250b30596047abf466f8894bde0c68ca"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/watson-behaviorism-1925-cmu.pdf",
+      "bytes": 1390603,
+      "sha256": "62d7e5f44bedc8452e9430123a19bba29bcf5230364b0f71f5f7829a211d86cf"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/watson-behaviorism-1925-djvu.txt",
+      "bytes": 630524,
+      "sha256": "9c2416c833bebfb22da56a124d6aebecbded3507eb5c3a14661ecaacb73dc996"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/watson-behaviorism-1925-djvu.xml",
+      "bytes": 8253735,
+      "sha256": "d3bf9119d302e4924b7e1df5d55b469da8fd4a2462715e4332ae6ab6350c6f94"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/watson-behaviorism-1925.pdf",
+      "bytes": 16197915,
+      "sha256": "822e5969df47c014120f3ad12ef2162f93a02614b4d242128c601bf9b50a6d5b"
+    },
+    {
+      "path": "research/source-cache/remaining-paper-recovery/watson-psychology-behaviorist-1919.pdf",
+      "bytes": 46849985,
+      "sha256": "df7dc117a1d85e0a7c25d3e3cc43c97a477e63c2cd61b8e4f79a154a94ad7d01"
+    },
+    {
+      "path": "research/source-cache/samkhya-jha-1896.pdf",
+      "bytes": 17954999,
+      "sha256": "d2e7182fa914f51a42ddf2c9351daeca31052a3ba1436ad338df86ffca762698"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch5/feynman-value-of-science-caltech-ocr.txt",
+      "bytes": 2399,
+      "sha256": "954b4b0f4346871a71467fd49cdf0cc562cc06f967e33965b71b36dce25d8751"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch5/feynman-value-of-science-engineering-science-1955.pdf",
+      "bytes": 472870,
+      "sha256": "4561595b60e00f2f0c684a3a61b51f0b7d6f15794c11f1ec3c8dde453b49975d"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch5/popper-logic-scientific-discovery-routledge-2002-full.pdf",
+      "bytes": 3587062,
+      "sha256": "ff4a47d99b6c523cc6ab3cba7232feef9162036c679ccfc11b32fd158aa33827"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch5/popper-logic-scientific-discovery-routledge-2002-full.txt",
+      "bytes": 1206569,
+      "sha256": "8654cbe76d46b5bfdb43c329f562f398403328610c9b9810effc14ab5d996867"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch5/popper-logic-scientific-discovery-routledge-2002.pdf",
+      "bytes": 13498129,
+      "sha256": "4a6328d9ee0898b21d77519db9fe5b5c01d899a14241f5fade41574913039480"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/franklin-gosling-molecular-configuration-nature-1953.pdf",
+      "bytes": 479108,
+      "sha256": "542fa917f08648a2a978e02ccac426ca247b0a8f277b1c96dab87c2aab51e460"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/franklin-gosling-molecular-configuration-nature-1953.txt",
+      "bytes": 66,
+      "sha256": "f2d3276356b2ea61d381f2c7f9abc990cd95bddd339298a48f5550a8b1b3d133"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/franklin-gosling-water-content-acta-1953.pdf",
+      "bytes": 2685746,
+      "sha256": "b6c0fa1a136c6f0b22a902ce72367d8f587e3f366e0efe9e893e3b734633f739"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/franklin-gosling-water-content-acta-1953.txt",
+      "bytes": 34913,
+      "sha256": "b35d780c9e759a7a71c4d9f181c78831b24dc7254655bf6a1b5fc1116f861ef9"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/kuhn-structure-scientific-revolutions-1970.pdf",
+      "bytes": 825544,
+      "sha256": "a80d2659b084e2c0e5adea1dc8b32e91e1ef29dce5db8213de155df04116b2bd"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/kuhn-structure-scientific-revolutions-1970.txt",
+      "bytes": 501952,
+      "sha256": "5cea4d243fcbcad25fc32519f5f6367f31e55179aef219d945fa5a8b40ac9486"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/turing-chemical-basis-morphogenesis-1952.pdf",
+      "bytes": 1242899,
+      "sha256": "f1683df83d12c7079b7d60c046a59cddba951aa297abb29c2358afa374b10f56"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/turing-chemical-basis-morphogenesis-1952.txt",
+      "bytes": 116450,
+      "sha256": "8f9afc67d819d1d66b33da3a973af103110fa1253bd6f89f72619583bbdd6fef"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/wiener-automation-science-1960.pdf",
+      "bytes": 1044153,
+      "sha256": "a851a4fb68b213a124b11157e0d9437eaa6bfa7246d3169c75f2f6c8023bbba0"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch6/wiener-automation-science-1960.txt",
+      "bytes": 36783,
+      "sha256": "05d2272e5d6ea614337c2a983d3d1cefc798a901aa25b643c7d296f731111060"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/carson-silent-spring-1962-third-printing.pdf",
+      "bytes": 518506,
+      "sha256": "af0c9bfcce1766d9ce65ed58dbb8568e3c42e5800dda6fc64cfac232604c67be"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/carson-silent-spring-1962-third-printing.txt",
+      "bytes": 28,
+      "sha256": "98c3689f37aa605365100f6c2597bfd2e83f4bd296667130b844228fd68bcfba"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/carson-silent-spring-2002.pdf",
+      "bytes": 2645884,
+      "sha256": "cfc644136310e5e6605752c77022b94393f4244eb49aaedd1178893239c547bc"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/carson-silent-spring-2002.txt",
+      "bytes": 56761,
+      "sha256": "4b58a0fa00d7427fdc5293beacc9d12c33363e116761a76714d0014332538714"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/carson-silent-spring-crest.pdf",
+      "bytes": 991170,
+      "sha256": "5b81b7867ea6c472434be2148234212c69b08424da4ace7d122c9b6a3816ef71"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/carson-silent-spring-crest.txt",
+      "bytes": 544188,
+      "sha256": "42522c5d2ab7cc0182a74eda5245955968ca501d492a4beb780a0c808aee7230"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/feynman-character-physical-law-1965.pdf",
+      "bytes": 1130374,
+      "sha256": "00c3188db0b39496f64df74c8a9536dcb8340a475efae9a5e40583574474c815"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/feynman-character-physical-law-1965.txt",
+      "bytes": 12,
+      "sha256": "ee3e9571f483c678ab4ec83579e8bef9c1399e8d319a66a073e1d60491f85468"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/feynman-character-physical-law-ocr.pdf",
+      "bytes": 16631068,
+      "sha256": "ccbbe89b94a4e9709e2f516c1bf1de1a5eb9c2264c26431ddf1a1f8655518036"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/feynman-character-physical-law-ocr.txt",
+      "bytes": 350100,
+      "sha256": "245d268cc13cb8e243e828db04ff3a53d2214789454b32e6faaba714f54fcda6"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/source-review-notes.md",
+      "bytes": 4471,
+      "sha256": "d5fb4a78128c302fb8102bc0dfcbf5a25db36c1fb209c8306dce57cdc4294cce"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/wiener-cybernetics.pdf",
+      "bytes": 4953611,
+      "sha256": "a64d8bd7c7548ed1cfd086ac9e7a42d8e91eaf4d0d4476952563fe6c26b4fff3"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch7/wiener-cybernetics.txt",
+      "bytes": 623989,
+      "sha256": "a5b1425318450b88442566c47f41bdd6b7a6550febc087890b98650377fac7b9"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/bohr-schilpp-1970-third-edition-frontmatter.pdf",
+      "bytes": 1644149,
+      "sha256": "445262de5bb758264fca64f89ab151dea8d5ad660dac2fc4b388442ad94c4646"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/bohr-schilpp-1970-third-edition-frontmatter.txt",
+      "bytes": 48,
+      "sha256": "3c338150a9d876a1232ebcdbdae8686729cc62691d7a358a54d01555498e958f"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/bohr-schilpp-1970-third-edition-full_djvu.txt",
+      "bytes": 1862465,
+      "sha256": "902245b4c9e36855d0cb2ea41cb775ce41f75418830c28e03e88f1e964dbd390"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/bohr-schilpp-1970-third-edition-print-p222.pdf",
+      "bytes": 1616091,
+      "sha256": "4dbd1ccf02b82dc8818bbb98fe3dd90c0b4f89883df8196437ba15df65b4d015"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/bohr-schilpp-1970-third-edition-scandata.xml",
+      "bytes": 267335,
+      "sha256": "d738cfb91bd03400d945dc4e07bae0e4b1f81c4a71db086f82188217b7214063"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/einstein-light-quanta-arons-peppard-1965.pdf",
+      "bytes": 5939873,
+      "sha256": "d940e92c801ac29034c892fee439f16d5e345fd6dc06e5f0b11c4c4e662e0a5e"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/einstein-light-quanta-arons-peppard-1965.txt",
+      "bytes": 32638,
+      "sha256": "a2b42397234708b3ccbf970e3aa44941fbeb82f917a4b00e8914eeabd122a8f1"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/heisenberg-1925-delphenich-translation.pdf",
+      "bytes": 98093,
+      "sha256": "342491f149d23c68c445875a1d9cd1404feabbc2cdd5760b7135a327f66066ef"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/heisenberg-1925-delphenich-translation.txt",
+      "bytes": 32752,
+      "sha256": "9076073ad08afe15a73c097b00d0c18d3b1343b4a95e51fc9c4128d8b52899f2"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/schrodinger-present-situation-trimmer.pdf",
+      "bytes": 240615,
+      "sha256": "f25e6becbb0f0c4006989d19b7e79377412bd284636ab53aa10ac914bb4013ea"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/schrodinger-present-situation-trimmer.txt",
+      "bytes": 89589,
+      "sha256": "1d090a06ebfdb4f78214de9acc15a66c6a156adefae250094a6e3dde2efbb884"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/schrodinger-quantum-theory-measurement-1983-preview.pdf",
+      "bytes": 5097422,
+      "sha256": "0da18ee378a8f3afffcb990f2e20aef68005e825789266ee687f577d977582c2"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/schrodinger-quantum-theory-measurement-1983-preview.txt",
+      "bytes": 167127,
+      "sha256": "c8a79895bbbdac2e6b7466048e3f5611eb5d0ee197876ecd198b13f68fc3a4c6"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/schrodinger-trimmer-1980-journal.pdf",
+      "bytes": 2692048,
+      "sha256": "4ac8d253e93e96de312f73f4a858bba521e872f78477675482b692521c2d7c5b"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/schrodinger-trimmer-1980-journal.txt",
+      "bytes": 94383,
+      "sha256": "2b08c0618a460b176cfded13b7636ae46b84ed3341ca3d5afbff478d9eed4602"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/source-review-notes.md",
+      "bytes": 6004,
+      "sha256": "6504847c94394713085f116cc21ba858495456a298ac0e333479485b09a5fce0"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch8/wiener-cybernetics-mit-2019.txt",
+      "bytes": 571703,
+      "sha256": "5f7dd1002cced26f7f0bd33a81e3dec527114ed320e7c98175613bd686ad25f9"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curie-1898-uranium-thorium-academie.pdf",
+      "bytes": 356578,
+      "sha256": "b67467819937f17cb517d25bad2eb978806930f10f97cb32f8699b5598317d06"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curie-1898-uranium-thorium-academie.txt",
+      "bytes": 124,
+      "sha256": "1bad269c9c47996c1a792b49584323c9e1267b8736bccf0e902854bbb917c85a"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curie-1898-uranium-thorium-carmen-giunta.html",
+      "bytes": 28166,
+      "sha256": "a9c8354323b96d038efcce94cb0cf2bf7fc513bb5c20f34c82ed2614bd6198de"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curie-1898-uranium-thorium-carmen-giunta.txt",
+      "bytes": 23236,
+      "sha256": "be3841f69b9852f8e5eef7a041a9655d5fc12d22532203cdef7776095236adb7"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curie-1898-uranium-thorium-wikisource-fr.html",
+      "bytes": 81963,
+      "sha256": "bc2332c8228101e0230c4951270e6961c5ecd171bcbb8dd9827f357586f8caeb"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curie-1898-uranium-thorium-wikisource-fr.txt",
+      "bytes": 9294,
+      "sha256": "bc36718eeea148e5aa2f00e4293a9d9f2495b5854e733b7a7b7511cd3b7529b8"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-academie.pdf",
+      "bytes": 523043,
+      "sha256": "b6fcd4df6e9613d6a56216e1f10d0f838c05bc14bba2cc28c733c1292d1a1277"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-academie.txt",
+      "bytes": 124,
+      "sha256": "4b39735b5210a29663fcf401f6101196bab7a3eccd718704241a145d1703e622"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-boorse-motz.html",
+      "bytes": 6849,
+      "sha256": "46a740fbb0cf61c1f7161e2c2f0771c800ad0bd3c2c8e683cc7084ab48dbd261"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-boorse-motz.txt",
+      "bytes": 6243,
+      "sha256": "235174773e2be31a65ab57687fba75aa1f2b373b0fbc474fd4bff546e7469907"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-wikisource-p175.html",
+      "bytes": 58295,
+      "sha256": "85f513be8ebf014c1452e82f63a7770a0e5a92be4ef879f9b7e6de09a9504a4a"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-wikisource-p175.txt",
+      "bytes": 3988,
+      "sha256": "83deafeb483b58b33226b60d5abb8184f1cdcb1f5762cd1f2ba06fea5f5c5103"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-wikisource-p176.html",
+      "bytes": 52819,
+      "sha256": "753929b8a32ac31b244d5383acf086ee6a2f0988f854b698bdabbcb255655329"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/curies-1898-polonium-wikisource-p176.txt",
+      "bytes": 4599,
+      "sha256": "88e7d17e6f386b9102976c6c5a5127f40079316e8244cb86b86b2576eaa68ff4"
+    },
+    {
+      "path": "research/source-cache/science-source-audit-batch9/source-review-notes.md",
+      "bytes": 4355,
+      "sha256": "3aa40d35d654d0770a7a30249e06fbb65c542b20e5ccbc34f00871d3d52b9e07"
+    },
+    {
+      "path": "research/source-cache/shannon-1948.pdf",
+      "bytes": 181092,
+      "sha256": "7598fd4028d88b325c8f80e4507cab4bfa402faabe2c036fa1bdb7b76328a6fb"
+    },
+    {
+      "path": "research/source-cache/shannon-1948.txt",
+      "bytes": 1430,
+      "sha256": "32bb6778ab10f83a1dbcade1fac9bd3ddd36d6160ecb6c10a5e39a7fd53cfb8e"
+    },
+    {
+      "path": "research/source-cache/shannon-harvard.pdf",
+      "bytes": 366296,
+      "sha256": "6e4e3411984f3edf99dbfe8b941cb5e8a321379ff0cae6ae5c1f592ad8882ca8"
+    },
+    {
+      "path": "research/source-cache/shannon-harvard.txt",
+      "bytes": 167423,
+      "sha256": "faec87773471548dd080c04dd323a1e794d6216a93bb541357a79439c18904bf"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/hume-enquiry-e2.7-9.txt",
+      "bytes": 2910,
+      "sha256": "0a32a035632ebee5d3ff345186b1de70380d6417b8c72a2779ba8ab6e20f853e"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/locke-edition-comparison.txt",
+      "bytes": 1598,
+      "sha256": "64859b3f6ec36ba3fa0275930aad816448fcac7bf0dc575957707db625bfe2cd"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/locke-ehu-2.1.24-25.txt",
+      "bytes": 2733,
+      "sha256": "e744a0c84d013a9fff845e5c3e93b5853a23b3f20bc81b952c2a64fbb87e4bba"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/locke-ehu-2.12.1-3.txt",
+      "bytes": 1967,
+      "sha256": "f0bf5f3289ece4ddb763e6a21195d305767df13c8c1c18cbfdc0d7647f83826d"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/locke-ehu-2.8.8-15.txt",
+      "bytes": 2389,
+      "sha256": "95e166c2a3f5706f5eb8873d12a1dc1387895e594d9e6123eb887d3ce4bf91b6"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/locke-ehu-3.3.14-16.txt",
+      "bytes": 1953,
+      "sha256": "bba0f170cdda3dd6071139d1593b85691cc2627d9286965b27370801f3761ec7"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/locke-second-treatise-25-31-50.txt",
+      "bytes": 3033,
+      "sha256": "67396badb735765d8b68e829b3eb34e12746e3d13292ad80893520bc3d065f62"
+    },
+    {
+      "path": "research/source-cache/western-context-batch7/source-review-notes.md",
+      "bytes": 3900,
+      "sha256": "bfe252a41e48001060dbc2f7423f7981074a9de68cd8e6191095f60f473d16e2"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch1/anscombe-intention.pdf",
+      "bytes": 4560072,
+      "sha256": "636992d1e2045c431e7b7e23de4461b37a527f99ea33d4e31de877c74263fd64"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch1/anscombe-intention.txt",
+      "bytes": 1453,
+      "sha256": "bcfeeab7078b35c1e0e22acbcd3fca6d41355b6a1f8a2b7979f13c20c62391c5"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch1/arendt-on-violence.pdf",
+      "bytes": 1042538,
+      "sha256": "3fa9b1508e89dd3a6f826001f026375fdd4a7cba2518e4b637dbfbb99125fe40"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch1/arendt-on-violence.txt",
+      "bytes": 1356,
+      "sha256": "d9a6499359d4f871fd15975dd9ebfab9fc1faf4f07d72f64e851ba5486b8fcc0"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch11/source-review-notes.md",
+      "bytes": 9018,
+      "sha256": "618e71504715853c87cf18c23a94e6b4e3f95608e9799446b113a959532b9db7"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/anscombe-modern-moral-philosophy-audit.txt",
+      "bytes": 1458,
+      "sha256": "5644499300f603c6e63073d32dc107f48946c7ba98dc52b608e0285e3cd37603"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/anscombe-modern-moral-philosophy-original.pdf",
+      "bytes": 614995,
+      "sha256": "d59927274e461d90e119cb35e65b9f99d2fdc9ffecba30ebf750bb9c4557347a"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/anscombe-modern-moral-philosophy.pdf",
+      "bytes": 190716,
+      "sha256": "7872906c3e225ab15a16bf2d4cd64d85b5b2767113d2c451af8cd7fd21b2c36a"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/arendt-eichmann-in-jerusalem.pdf",
+      "bytes": 886861,
+      "sha256": "884864343f3f78d21fea8ad9a1495b0a58f6a64d89b39ec4579db03d3056eef3"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/arendt-eichmann-thoughtlessness-audit.txt",
+      "bytes": 1358,
+      "sha256": "c0ae676d22f1679b343589a5554f29c180abf8dc98fb8e3cc600336c5c6a0a6b"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/arendt-human-condition-disclosure-audit.txt",
+      "bytes": 1332,
+      "sha256": "41346859917738e836bd9df49272bd26db2da00232af8392eca08e711374e5eb"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/arendt-the-human-condition.pdf",
+      "bytes": 1823424,
+      "sha256": "9b3a85bff5f87aadf4106c1feffdfb33cbd4e0735592424c9936fc9c28f58fe2"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/arendt-truth-and-politics-audit.txt",
+      "bytes": 1096,
+      "sha256": "dacbf10b69a669c50019e6402649f901bbd4f5d0707078b5e2d37c01a3654ee4"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch2/arendt-truth-and-politics.pdf",
+      "bytes": 6566973,
+      "sha256": "5c147a2c40353604570a4e6fbda88ced6986b111d6acf085783123a1e9d6766a"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch8/arendt-batch8-selected-passages.txt",
+      "bytes": 2157,
+      "sha256": "c6f9595fedd0d7655b649ce1353c67fdc63548fdc45042146f5bbcb9ee89fcf8"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch8/arendt-origins-totalitarianism-ia-metadata.json",
+      "bytes": 9161,
+      "sha256": "b454cb796a01686cc20d04cd4700cd1cc747bbb3900d89593f4422b9fc3b4663"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch8/arendt-origins-totalitarianism-ia-ocr.txt",
+      "bytes": 1788214,
+      "sha256": "73b11ea043781b27f50466b7207d3b15f5b2fda462ee5f494b2da327b4b0d271"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch8/arendt-origins-totalitarianism-scandata.xml",
+      "bytes": 166330,
+      "sha256": "969dad501d8e0b39dfdb5ae59b44254df78aee90ae44a715f6d6f71dd014b7bf"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch8/arendt-origins-totalitarianism-world-1958.pdf",
+      "bytes": 29770950,
+      "sha256": "d0aa85124dc6d9c46e206dd9b01b0a11dff9973ba2bc0326a9e182684edfb58c"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch8/source-review-notes.md",
+      "bytes": 6212,
+      "sha256": "2820ff1999f2282b11c392f5e15fde1cad50d6b97cd1fcd68a015a85aaaf015c"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/frege-sense-and-reference-black-1952.pdf",
+      "bytes": 148419,
+      "sha256": "392964ac89f32ff0d9477e5c841cf8422d05745398ac8ff5db855e56a2c4a659"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/frege-sense-and-reference-black-1952.txt",
+      "bytes": 66590,
+      "sha256": "e62ded0642656cdd0ba0e483ca8807231832f44e843b1e00c47b92698095f720"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/quine-two-dogmas-philosophical-review-1951.pdf",
+      "bytes": 468864,
+      "sha256": "400bc243a33fbeb975a228d0e9eb3ce7ad661b8a170baf405d0381a8dc763690"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/quine-two-dogmas-philosophical-review-1951.txt",
+      "bytes": 63186,
+      "sha256": "1ff71d627c30c66155a36e3b6549446f765f2bcbd410dff4d2074cd393d9b59a"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/source-review-notes.md",
+      "bytes": 6958,
+      "sha256": "f72ea35b8df85a9b4306e5d4aee263fd6ef5ab5907aeac5e3625500c75f013de"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/wittgenstein-on-certainty-blackwell-1969-ocr.txt",
+      "bytes": 181827,
+      "sha256": "e13ae71f65c8d23d127ca3f6e468f69f691d7b6db0d836cd7f72f15f501a7d33"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/wittgenstein-on-certainty-blackwell-1969.pdf",
+      "bytes": 5326414,
+      "sha256": "0127fc35db62613cbf87edc445073044e9f7794c02714d42d13b93490e9d0ea7"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/wittgenstein-on-certainty-ia-metadata.json",
+      "bytes": 24689,
+      "sha256": "b1dceb86b5ab62f7add51a3458cb43db9c8a5af2c605ae688e6b746d469b3b4a"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/wittgenstein-philosophical-investigations-english-third-edition.pdf",
+      "bytes": 2570985,
+      "sha256": "a8e25eb8aa17ad7e9019b66ba440e749550ee232b8e5fdd8346c288a530f42c2"
+    },
+    {
+      "path": "research/source-cache/western-source-audit-batch9/wittgenstein-philosophical-investigations-english-third-edition.txt",
+      "bytes": 759841,
+      "sha256": "45bcd0d13cd9cc9269caaf83403485e4090b6744f7756cafaaf2dd0b5a097cb7"
+    }
+  ]
+}

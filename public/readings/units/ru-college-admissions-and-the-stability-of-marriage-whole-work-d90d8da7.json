@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-college-admissions-and-the-stability-of-marriage-whole-work-d90d8da7",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《大学录取与婚姻稳定性》",
+  "englishWork": "College Admissions and the Stability of Marriage",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Gale与Shapley〈大学录取与婚姻稳定性〉，《美国数学月刊》69卷1期（1962年1月），第4节，印刷页13，完整连续句；该卷期及本文未见美国续展记录，仅确认美国公版",
+  "englishVersion": "Gale and Shapley, ‘College Admissions and the Stability of Marriage,’ American Mathematical Monthly 69(1) (January 1962), §4, print p. 13, complete continuous sentence; renewal research found no renewal for the issue or contribution; U.S. public-domain status only",
+  "sourceUrl": "https://iqua.ece.toronto.edu/baochun/ece1771f/papers/Gale-Shapley-1962.pdf",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "9d3fe2a6c0058d3c01bacc693faff3cbdda5983d4a99e24889ed795cadaa99cb"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "792def11086589e20edc3f324ce671ed2bb0c9d0a8bc28da31695bdcdbc1a4e1",
+  "inputHash": "e0f417365f812098acb061cf1d476c5b1604ef7fe70cd5ba62d41592cd4559d0",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "COLLEGE ADMISSIONS AND THE STABILITY OF MARRIAGE"
+    },
+    {
+      "id": "p0002",
+      "text": "D. GALE* AND L. S. SHAPLEY, Brown University and the RAND Corporation"
+    },
+    {
+      "id": "p0003",
+      "text": "* The work of the first author was supported in part by the Office of Naval Research under Task NR047-018."
+    },
+    {
+      "id": "p0004",
+      "text": "1. Introduction. The problem with which we shall be concerned relates to the following typical situation: A college is considering a set of applicants of which it can admit a quota of only q. Having evaluated their qualifications, the admissions office must decide which ones to admit. The procedure of offering admission only to the q best-qualified applicants will not generally be satisfactory, for it cannot be assumed that all who are offered admission will accept. Accordingly, in order for a college to receive q acceptances, it will generally have to offer to admit more than q applicants. The problem of determining how many and which ones to admit requires some rather involved guesswork. It may not be known (a) whether a given applicant has also applied elsewhere; if this is known it may not be known (b) how he ranks the colleges to which he has applied; even if this is known it will not be known (c) which of the other colleges will offer to admit him. A result of all this uncertainty is that colleges can expect only that the entering class will come reasonably close in numbers to the desired quota, and be reasonably close to the attainable optimum in quality."
+    },
+    {
+      "id": "p0005",
+      "text": "The usual admissions procedure presents problems for the applicants as well as the colleges. An applicant who is asked to list in his application all other colleges applied for in order of preference may feel, perhaps not without reason, that by telling a college it is, say, his third choice he will be hurting his chances of being admitted."
+    },
+    {
+      "id": "p0006",
+      "text": "One elaboration is the introduction of the “waiting list,” whereby an applicant can be informed that he is not admitted but may be admitted later if a vacancy occurs. This introduces new problems. Suppose an applicant is accepted by one college and placed on the waiting list of another that he prefers. Should he play safe by accepting the first or take a chance that the second will admit him later? Is it ethical to accept the first without informing the second and then withdraw his acceptance if the second later admits him?"
+    },
+    {
+      "id": "p0007",
+      "text": "We contend that the difficulties here described can be avoided. We shall describe a procedure for assigning applicants to colleges which should be satisfactory to both groups, which removes all uncertainties and which, assuming there are enough applicants, assigns to each college precisely its quota."
+    },
+    {
+      "id": "p0008",
+      "text": "2. The assignment criteria. A set of n applicants is to be assigned among m colleges, where qᵢ is the quota of the ith college. Each applicant ranks the colleges in the order of his preference, omitting only those colleges which he would never accept under any circumstances. For convenience we assume there are no ties; thus, if an applicant is indifferent between two or more colleges he is nevertheless required to list them in some order. Each college similarly ranks the students who have applied to it in order of preference, having first eliminated those applicants whom it would not admit under any circumstances even if it meant not filling its quota. From these data, consisting of the quotas of the colleges and the two sets of orderings, we wish to determine an assignment of applicants to colleges in accordance with some agreed-upon criterion of fairness."
+    },
+    {
+      "id": "p0009",
+      "text": "Stated in this way and looked at superficially, the solution may at first appear obvious. One merely makes the assignments “in accordance with” the given preferences. A little reflection shows that complications may arise. An example is the simple case of two colleges, A and B, and two applicants, α and β, in which α prefers A and β prefers B, but A prefers β and B prefers α. Here, no assignment can satisfy all preferences. One must decide what to do about this sort of situation. On the philosophy that the colleges exist for the students rather than the other way around, it would be fitting to assign α to A and β to B. This suggests the following admittedly vague principle: other things being equal, students should receive consideration over colleges. This remark is of little help in itself, but we will return to it later after taking up another more explicit matter."
+    },
+    {
+      "id": "p0010",
+      "text": "The key idea in what follows is the assertion that—whatever assignment is finally decided on—it is clearly desirable that the situation described in the following definition should not occur:"
+    },
+    {
+      "id": "p0011",
+      "text": "DEFINITION. An assignment of applicants to colleges will be called unstable if there are two applicants α and β who are assigned to colleges A and B, respectively, although β prefers A to B and A prefers β to α."
+    },
+    {
+      "id": "p0012",
+      "text": "Suppose the situation described above did occur. Applicant β could indicate to college A that he would like to transfer to it, and A could respond by admitting β, letting α go to remain within its quota. Both A and β would consider the change an improvement. The original assignment is therefore “unstable” in the sense that it can be upset by a college and applicant acting together in a manner which benefits both."
+    },
+    {
+      "id": "p0013",
+      "text": "Our first requirement on an assignment is that it not exhibit instability. This immediately raises the mathematical question: will it always be possible to find such an assignment? An affirmative answer to this question will be given in the next section, and while the proof is not difficult, the result seems not entirely obvious, as some examples will indicate."
+    },
+    {
+      "id": "p0014",
+      "text": "Assuming for the moment that stable assignments do exist, we must still decide which among possibly many stable solutions is to be preferred. We now return to the philosophical principle mentioned earlier and give it a precise formulation."
+    },
+    {
+      "id": "p0015",
+      "text": "DEFINITION. A stable assignment is called optimal if every applicant is at least as well off under it as under any other stable assignment."
+    },
+    {
+      "id": "p0016",
+      "text": "Even granting the existence of stable assignments it is far from clear that there are optimal assignments. However, one thing that is clear is that the optimal assignment, if it exists, is unique. Indeed, if there were two such assignments, then, at least one applicant (by our “no tie” rule) would be better off under one than under the other; hence one of the assignments would not be optimal after all. Thus the principles of stability and optimality will, when the existence questions are settled, lead us to a unique “best” method of assignment."
+    },
+    {
+      "id": "p0017",
+      "text": "3. Stable assignments and a marriage problem. In trying to settle the question of the existence of stable assignments we were led to look first at a special case, in which there are the same number of applicants as colleges and all quotas are unity. This situation is, of course, highly unnatural in the context of college admissions, but there is another “story” into which it fits quite readily."
+    },
+    {
+      "id": "p0018",
+      "text": "A certain community consists of n men and n women. Each person ranks those of the opposite sex in accordance with his or her preferences for a marriage partner. We seek a satisfactory way of marrying off all members of the community. Imitating our earlier definition, we call a set of marriages unstable (and here the suitability of the term is quite clear) if under it there are a man and a woman who are not married to each other but prefer each other to their actual mates."
+    },
+    {
+      "id": "p0019",
+      "text": "QUESTION: For any pattern of preferences is it possible to find a stable set of marriages?"
+    },
+    {
+      "id": "p0020",
+      "text": "Before giving the answer let us look at some examples."
+    },
+    {
+      "id": "p0021",
+      "text": "Example 1. The following is the “ranking matrix” of three men, α, β, and γ, and three women, A, B, and C."
+    },
+    {
+      "id": "p0022",
+      "text": "A B C α 1,3 2,2 3,1 β 3,1 1,3 2,2 γ 2,2 3,1 1,3"
+    },
+    {
+      "id": "p0023",
+      "text": "The first number of each pair in the matrix gives the ranking of women by the men; the second number is the ranking of the men by the women. Thus, α ranks A first, B second, C third, while A ranks β first, γ second, and α third, etc."
+    },
+    {
+      "id": "p0024",
+      "text": "There are six possible sets of marriages; of these, three are stable. One of these is realized by giving each man his first choice: thus α marries A, β marries B, and γ marries C. Note that although each woman gets her last choice, the arrangement is nevertheless stable. Alternatively one may let the women have their first choices and marry α to C, β to A, and γ to B. The third stable arrangement is to give everyone his or her second choice and have α marry B, β marry C, and γ marry A. The reader will easily verify that all other arrangements are unstable."
+    },
+    {
+      "id": "p0025",
+      "text": "Example 2. The ranking matrix is the following."
+    },
+    {
+      "id": "p0026",
+      "text": "A B C D α 1,3 2,3 3,2 4,3 β 1,4 4,1 3,3 2,2 γ 2,2 1,4 3,4 4,1 δ 4,1 2,2 3,1 1,4"
+    },
+    {
+      "id": "p0027",
+      "text": "There is only the one stable set of marriages indicated by the circled entries in the printed matrix. Note that in this situation no one can get his or her first choice if stability is to be achieved."
+    },
+    {
+      "id": "p0028",
+      "text": "Example 3. A problem similar to the marriage problem is the “problem of the roommates.” An even number of boys wish to divide up into pairs of roommates. A set of pairings is called stable if under it there are no two boys who are not roommates and who prefer each other to their actual roommates. An easy example shows that there can be situations in which there exists no stable pairing. Namely, consider boys α, β, γ, and δ, where α ranks β first, β ranks γ first, γ ranks α first, and α, β, and γ all rank δ last. Then regardless of δ’s preferences there can be no stable pairing, for whoever has to room with δ will want to move out, and one of the other two will be willing to take him in."
+    },
+    {
+      "id": "p0029",
+      "text": "The above examples would indicate that the solution to the stability problem is not immediately evident. Nevertheless,"
+    },
+    {
+      "id": "p0030",
+      "text": "THEOREM 1. There always exists a stable set of marriages."
+    },
+    {
+      "id": "p0031",
+      "text": "Proof. We shall prove existence by giving an iterative procedure for actually finding a stable set of marriages."
+    },
+    {
+      "id": "p0032",
+      "text": "To start, let each boy propose to his favorite girl. Each girl who receives more than one proposal rejects all but her favorite from among those who have proposed to her. However, she does not accept him yet, but keeps him on a string to allow for the possibility that someone better may come along later."
+    },
+    {
+      "id": "p0033",
+      "text": "We are now ready for the second stage. Those boys who were rejected now propose to their second choices. Each girl receiving proposals chooses her favorite from the group consisting of the new proposers and the boy on her string, if any. She rejects all the rest and again keeps the favorite in suspense."
+    },
+    {
+      "id": "p0034",
+      "text": "We proceed in the same manner. Those who are rejected at the second stage propose to their next choices, and the girls again reject all but the best proposal they have had so far."
+    },
+    {
+      "id": "p0035",
+      "text": "Eventually (in fact, in at most n² − 2n + 2 stages) every girl will have received a proposal, for as long as any girl has not been proposed to there will be rejections and new proposals, but since no boy can propose to the same girl more than once, every girl is sure to get a proposal in due time. As soon as the last girl gets her proposal the “courtship” is declared over, and each girl is now required to accept the boy on her string."
+    },
+    {
+      "id": "p0036",
+      "text": "We assert that this set of marriages is stable. Namely, suppose John and Mary are not married to each other but John prefers Mary to his own wife. Then John must have proposed to Mary at some stage and subsequently been rejected in favor of someone that Mary liked better. It is now clear that Mary must prefer her husband to John and there is no instability."
+    },
+    {
+      "id": "p0037",
+      "text": "The reader may amuse himself by applying the procedure of the proof to solve the problems of Examples 1 and 2, or the following example which requires ten iterations:"
+    },
+    {
+      "id": "p0038",
+      "text": "A B C D α 1,3 2,2 3,1 4,3 β 1,4 2,3 3,2 4,4 γ 3,1 1,4 2,3 4,2 δ 2,2 3,1 1,4 4,1 o 2 @ 2"
+    },
+    {
+      "id": "p0039",
+      "text": "The condition that there be the same number of boys and girls is not essential. If there are b boys and g girls with b < g, then the procedure terminates as soon as b girls have been proposed to. If b > g the procedure ends when every boy is either on some girl’s string or has been rejected by all of the girls. In either case the set of marriages that results is stable."
+    },
+    {
+      "id": "p0040",
+      "text": "It is clear that there is an entirely symmetrical procedure, with girls proposing to boys, which must also lead to a stable set of marriages. The two solutions are not generally the same as shown by Example 1; indeed, we shall see in a moment that when the boys propose, the result is optimal for the boys, and when the girls propose it is optimal for the girls. The solutions by the two procedures will be the same only when there is a unique stable set of marriages."
+    },
+    {
+      "id": "p0041",
+      "text": "4. Stable assignments and the admissions problem. The extension of our “deferred-acceptance” procedure to the problem of college admissions is straightforward. For convenience we will assume that if a college is not willing to accept a student under any circumstances, as described in Section 2, then that student will not even be permitted to apply to the college. With this understanding the procedure follows: First, all students apply to the college of their first choice. A college with a quota of q then places on its waiting list the q applicants who rank highest, or all applicants if there are fewer than q, and rejects the rest. Rejected applicants then apply to their second choice and again each college selects the top q from among the new applicants and those on its waiting list, puts these on its new waiting list, and rejects the rest. The procedure terminates when every applicant is either on a waiting list or has been rejected by every college to which he is willing and permitted to apply. At this point each college admits everyone on its waiting list and the stable assignment has been achieved. The proof that the assignment is stable is entirely analogous to the proof given for the marriage problem and is left to the reader."
+    },
+    {
+      "id": "p0042",
+      "text": "5. Optimality. We now show that the “deferred acceptance” procedure just described yields not only a stable but an optimal assignment of applicants. That is,"
+    },
+    {
+      "id": "p0043",
+      "text": "THEOREM 2. Every applicant is at least as well off under the assignment given by the deferred acceptance procedure as he would be under any other stable assignment."
+    },
+    {
+      "id": "p0044",
+      "text": "Proof. Let us call a college “possible” for a particular applicant if there is a stable assignment that sends him there. The proof is by induction. Assume that up to a given point in the procedure no applicant has yet been turned away from a college that is possible for him. At this point suppose that college A, having received applications from a full quota of better-qualified applicants β₁, …, β_q, rejects applicant a. We must show that A is impossible for a. We know that each βᵢ prefers college A to all the others, except for those that have previously rejected him, and hence (by assumption) are impossible for him. Consider a hypothetical assignment that sends a to A and everyone else to colleges that are possible for them. At least one of the βᵢ will have to go to a less desirable place than A. But this arrangement is unstable, since βᵢ and A could upset it to the benefit of both. Hence the hypothetical assignment is unstable and A is impossible for a. The conclusion is that our procedure only rejects applicants from colleges which they could not possibly be admitted to in any stable assignment. The resulting assignment is therefore optimal."
+    },
+    {
+      "id": "p0045",
+      "text": "Parenthetically we may remark that even though we no longer have the symmetry of the marriage problem, we can still invert our admissions procedure to obtain the unique “college optimal” assignment. The inverted method bears some resemblance to a fraternity “rush week”; it starts with each college making bids to those applicants it considers most desirable, up to its quota limit, and then the bid-for students reject all but the most attractive offer, and so on."
+    },
+    {
+      "id": "p0046",
+      "text": "6. Concluding remarks. The reader who has followed us this far has doubtless noticed a certain trend in our discussion. In making the special assumptions needed in order to analyze our problem mathematically, we necessarily moved further away from the original college admission question, and eventually in discussing the marriage problem, we abandoned reality altogether and entered the world of mathematical make-believe. The practical-minded reader may rightfully ask whether any contribution has been made toward an actual solution of the original problem. Even a rough answer to this question would require going into matters which are nonmathematical, and such discussion would be out of place in a journal of mathematics. It is our opinion, however, that some of the ideas introduced here might usefully be applied to certain phases of the admissions problem."
+    }
+  ],
+  "anchors": {
+    "economics-modern-gale-shapley-deferred-acceptance": {
+      "paragraphId": "p0041",
+      "start": 50,
+      "end": 159,
+      "quote": "The extension of our “deferred-acceptance” procedure to the problem of college admissions is straightforward.",
+      "match": "normalized-exact"
+    }
+  }
+}

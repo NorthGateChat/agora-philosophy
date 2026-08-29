@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-penetrating-the-book-of-changes-chapter-14-atten-named-chapter-chapter-14-attending-to-reality-5c9469d4",
+  "title": "篇 Chapter 14: Attending to Reality",
+  "englishTitle": "Chapter Chapter 14: Attending to Reality",
+  "work": "《通书·务实第十四》",
+  "englishWork": "Penetrating the Book of Changes, Chapter 14: Attending to Reality",
+  "locator": "篇 Chapter 14: Attending to Reality",
+  "englishLocator": "Chapter Chapter 14: Attending to Reality",
+  "version": "维基文库《通书·务实第十四》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of Tongshu, Chapter 14: Attending to Reality; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E9%80%9A%E6%9B%B8",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "4372c5026ed7d939c99515f48edbf9b6ee88e242c999ca6f56939525b9c4f3d1"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "fe8fd62f0548f39fa8c675c2281948d23ccc86b46a4fc5c5cce9a52a1c69c436",
+  "inputHash": "a9bb0dc37d95ebcd6f9b7737777681590ae96ddd6813544bf6b639e7b3617e25",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "務實第十四"
+    },
+    {
+      "id": "p0002",
+      "text": "實勝，善也；名勝，恥也。故君子進德修業，孳孳不息，務實勝也。德業有未著，則恐恐然畏人知，遠恥也。小人則偽而已！故君子日休，小人日憂。"
+    }
+  ],
+  "anchors": {
+    "chinese-zhou-dunyi-reality-over-name": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 30,
+      "quote": "实胜，善也；名胜，耻也。故君子进德修业，孳孳不息，务实胜也。",
+      "match": "normalized-exact"
+    }
+  }
+}

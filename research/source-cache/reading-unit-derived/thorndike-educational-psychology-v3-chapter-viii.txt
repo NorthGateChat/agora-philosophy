@@ -1,0 +1,715 @@
+# CHAPTER VIII
+
+The Measurement of Individual Differences
+
+SIMPLE and compound DIFFERENCES
+
+A difference in human nature may be (i) in the amount or degree of the same thing* (as 'good — better,' 'quick — slow,' 'imaginative — less imaginative — unimaginative") ; or (2) in the presence or absence of different things (as 'John knows Latin; James knows German,' or, 'A is imaginative; B is rational,' or, *C has an artistic temperament; D has a scientific temperament' ) .
+
+The second case commonly reduces to an aggregate of differences of the first sort if the statement of difiference is made adecjuate. Thus, 'John knows x Latin; James knows 0 Latin ; James knows 3; German ; John knows o German' should properly replace the former statement. Similarly we have, 'A is imaginative to ^ extent, B is imaginative to :j-iv extent. B is rational to v extent; A is rational to z'-w extent,' and, 'C has /', y and z amounts, respectively, of certain qualities, certain degrees of which in combination we call the artistic temperament; D has small or possibly zero amounts of these qualities.' A difference in human nature then commonly is a difference in the amount of one thing or an aggregate of differences each in the amount of one thing.
+
+But conceivably there may be things which do not vary in amount except from zero by a sudvlen jump to one positive condition. The thing would then either be in one constant degree or not at all. The literature of psychology and of edu-
+
+* Or what is a&sumed to be tho same thing.
+
+15^
+
+THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 1 53
+
+cation abounds in cases of difference stated as if the difference were that between o and k, without k-Yio, or k-yio, or o-{-%k, etc. But such statements are usually due to ignorance or vagueness. 'John is color blind ; James is not' cannot really mean that there is some one constant degree of color blindness Avhich a man either has just in that degree or does not have at all ; for there are varying amounts of color blindness. In fact, it is doubtful if tliere are any individual differences in human intellect or character of this 'j:ero to k' sort.
+
+When, therefore, it is stated that John and James differ in kind, the statement always, or almost always, means nothing more than that one of the two individuals possesses a certain amount or degree of something of which the other possesses o. V\'hen it is stated that the difference between John and James in one thing, say, knowledge, is qualitative whereas their difference in another, say, motor skill, is quantitative, the statement always, or almost always, means nothing more than that certain sorts of knowledge, present in certain amounts in John, are absent in James, and vice versa ; whereas, in motor skill, both have perceptible amounts of an identical set of things.
+
+It is then not only permissible, but more scientific and more useful, to think of human individuals as all measured upon the same series of scales, each scale being for the amount of some one thing, there being scales for every thing in human nature, and each person being recorded as zero in the case of things not appearing in his nature. And the only problem of method which need concern us in this chapter is the problem of the nature and use of a scale for measuring different amounts or degrees of the same trait in different human beings.
+
+UNITS AND SCALES FOR MEASURING MENTAL DIFFERENCES
+
+The facts of importance about scales for mental and moral traits can be best stated in connection with some concrete illustrations.
+
+154 INDIVIDUAL DIFFERENCES
+
+Consider the facts given in Table 25 concerning individuals A, B and C, with reference to these questions : —
+
+1. What are the differences between A and B, A and C,
+
+and B and C in each of the traits?
+
+2. How many times as great is the difference between A
+
+and B in trait I as that between B and C in trait I? How many times as great is the difference between B and C in trait II as that between A and C in trait II, etc., etc.
+
+What the difference is between A and B can be definitely determined in the case of stature (I), reaction-time (II), error in drawing a line (III), and age (XII) ; but all that one learns about the differences in the case of ability in history (VII) and interest in music (XI) is that one difference is that between excellent and good on the arbitrary scale of some school and that the other is that between little and moderate in the mind of some observer. The measures of I, II, III and XII are by objective or impersonal scales, that is, scales the identification and similar use of which are possible for any competent observer. The measures of VII and XI are by subjective or personal scales, which another observer could not identify* or use in the way in which the person giving the marks used them. Moreover, whatever the scales in VII and XI really are, they are certainly very coarse; a wide range of difference is expressed in them by a few steps or marks or values. In short, any competent thinker knows exactly what is meant by 160 cm. and by 160 cm. — 140 cm., whereas he cannot be sure what is meant by excellent, or by the difference between excellent and good.
+
+Concerning the other measurements the following statements are roughly true : —
+
+A, B and C are measured objectively in the quality of handwriting. We know what is meant by the difference between
+
+* If, for example, the reader had heard the oral work and seen the written work which in combination mean good in the school whence A and B came, he would not know that they did mean good.
+
+THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 155
+
+Table 25. Measurements of Three Individuals, A, B, and C.
+
+ABC I. Stature 160 cm. 140 cm. 130 cm.
+
+II. Simple reaction-time to somid 175 sec. .125 sec. .isosec.
+
+III. Average error in drawing a line to
+
+equal a 100 mm. line 3.2 mm. 2.8 mm. 2.2 mm.
+
+[V. Number of w^ords (of a list of 12, heard at a rate of i per second) remembered long enough to write them immediately after the last
+
+word was read 6 words 9 words 7 words
+
+V. Number of examples in addition (each of 10 numbers, repeating no number in any one example, taken at random from the numbers 10
+
+to 99) done correctly in 8 minutes 14 12 18
+
+VI. Quality, or merit, or goodness of
+
+handwriting See Fig. 22 See Fig. 23 See Fig. 24
+
+VII. School marks in history Ex. Good Poor
+
+VIII. School marks in spelling 82 62 93
+
+IX. Efficiency in perception ; the number of A's marked in 60 seconds on a sheet containing 100 A's mixed
+
+with 400 other capital letters... 48 A's 60 A's 82 A's X. Criminality : number of times convicted of a penal offense o i o
+
+XI. Degree of interest in music little moderate a great deal
+
+XII. Age in daj's 50S0 d. 6150 d. 5615 d.
+
+A and B. It is just the difference between the quahties of the two samples presented. But they are not measured conveniently ; the differences are not referred to any commonly known scale.
+
+The measurement in addition is nearly objective. If the conditions of the test are defined by a statement of how the examples were presented (what type they were printed in, how they were arranged, etc.), how the answers were given, at what time, under what distractions, with what incentives, etc., they were done, and the like, they become still more fully objective.
+
+In the case of memory, not only the conditions of the test, as in addition, but also the exact words used need to be specified.
+
+1=^6
+
+INDIVIDUAL DIFFERENCES
+
+THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 15/
+
+A differed from B by writing down three less words of a certain list. The list needs to be known if all competent observers are to think of the same thing by three words.
+
+The measure of criminality is inferior to the measurement of stature or age by using an ambiguous unit {convicted of a penal offense)and also by measuring only very coarse differences. A and C are not differentiated by the measures, though A might just fall short of crime and C be a very healthyminded and kind-hearted boy.
+
+The measurement of ability in spelling might turn out to be, were the conditions of the test and the system of scoring results in it known, as objective as that in addition, or, on the other hand, may be only a record of the opinion of some teacher that A was a good deal better than B and that C was somewhat above A. As the record stands the A — B = 20 may mean no more than 'A is good; B is unsatisfactory,' or 'A is somewhat better than B in my opinion/
+
+A — B B — C A — B
+
+The values- —,— ^ and -^5 ^r are determinable in
+
+:\ — C A — L B — C
+
+the case of I, II, III and XII of Table I. In stature A — B =
+
+A — B 20 cm., A — C = 30 cm. and— pr = .667. When one
+
+says that A differs from C in stature one and a half times as much as from B, any competent person knows exactly
+
+A — B
+
+what is meant. For V II on the contrary we have —=
+
+A — U
+
+Excellent — Good
+
+— ^r which mav be a true, but remains a mvstical,
+
+iLxcellent — Poor,
+
+answer, until excellent, good and poor are defined on some scale.
+
+In the case of the memory of words ( A = 6, 6 = 9, C — 7)
+
+B — A B — C
+
+. 2 and V :-= 2, if to remember any one word
+
+C — A"^ L — A
+
+= to remember any other one zuord. Suppose, however, that
+
+the series of words was: 'career, dilatory, opium, never, soap,
+
+numbers, add, subtract, one, two, three, four,' and that A
+
+158 INDIVIDUAL DIFFERENCES
+
+remembered the last 6, C the last 7, and B these and the first two. It would be very risky to assume that the difference between A and B (remembering career, dilatory and numbers) was only three times the difference between A and C (remembering nurnhcrs). And it would be almost certain that a difference of 10 — 4 in the test would be really more than twice as great as a difference of 7 — 4. Under the circumstances numbers, add and subtract are probably much easier to remember than career, dilatory and opium.
+
+In the case of centimeters or seconds every competent person knows not only what fact is meant by any given number of the units, but also that any one unit is equal to any other one, any two to any other two, and so on. In the case of words remembered, units called by the same name may not be really equal.
+
+In the case of the addition, one example differed from another in difficulty only by chance and only slightly ; for when 10 two-place numbers are picked by chance and arranged in a chance order, the chances are enormously against getting any very easy examples like (a) or any very hard examples like (b). (a) (b)
+
+35 95
+
+30 58
+
+40 67
+
+60 79
+
+The chances are still more against getting two or three
+
+examples in succession that are on the average more than a
+
+trifle harder than any other succession of two or three. Re-
+
+A — B 2
+
+liance upon the truth of -:^ =; =-7-would, however, be safer
+
+^ C — Bo
+
+if 10, 20, 30, etc., and 11, 21, 31, etc., had been excluded from
+
+the numbers used in the tests.
+
+In the case of merit of handwriting, the differences between
+
+A and B, B and C, and A and C do not even pretend to be put
+
+THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 159
+
+in terms so as to allow comparison. As the records stand, anyone must get the differences transposed into terms of some unit
+
+A — B
+
+before he can calculate- — at all. Since the measures of
+
+A — L
+
+A, B and C are objective, this can be done. If, for example,
+
+the measurer could show that the dift'erence between A and C
+
+was approximately five-twelfths of the difference between two
+
+standard samples accessible to all competent persons, and that
+
+the difference between A and B was approximately two-twelfths
+
+of the difference between the same two standard samples, he
+
+A — B — -/l2^ 2
+
+could then regard — as, of course, -y^ — - or — , k being
+
+A — C — ■/ 1 -2 k 5
+
+the difference between the two standard samples. As a matter of fact the difference between the sample of Fig. 22 and that of Fig. 24 is in the combined opinion of some hundred judges just about tv\'o and one-half times as great as the difference between the sample of Fig. 22 and that of Fig. 23.
+
+The sum and substance of the last four pages is that a measurement of human nature to be useful for our purpose must identify the amount in question for any competent thinker, just as a useful description must identify the object in question. To do this it must be objective, that is, free from individual caprice, so that any competent person making the same measurement would get the same result.*
+
+* Not, of course, exactly the same. There is a personal equation in
+
+even the most objective measures, such as the length of this line .
+
+If they measured it to thousandths of a millimeter, competent observers would not get the same result, except by chance. Nor would the same observer in several independent measurements. The ultimate distinction between objective and subjective is simply that in the former sort of measurements competent observers use very nearly the same criteria and, tho independent, agree very closely, whereas in the latter they use very different criteria and, if independent, agree only roughly. The reader may safely postpone any subtle or thoroughgoing treatment of the distinction until he can study the theory of mental measurements in detail. For the purposes of this book, objective measures may be defined as measures which competent observers could repeat and verify or reject, and subjective measures as measures which they could not so repeat and verify.
+
+l60 INDIVIDUAL DIFFERENCES
+
+It should also,, if possible, so state the amount In question that other amounts of the same thing may be compared with it as so much greater or less, permitting differences between the amounts to be expressed in ratios. In still briefer terms, the measurements should be at defined points on an objective scale, the distances of these points one from another being also defined.
+
+The reason for the elaborate introduction to and illustrations of this obvious principle is that in its application to particular problems in the study of educational psychology it has not been obvious to even the writers of treatises and investigators of original data, much less to the rank and file of students of psychology or of education. On the contrary this entire chapter would not suffice to list and barely describe the quantitative conclusions that have been drawn from subjective opinions or from the unjustifiable acceptance as equal of units which happened to be called by the same name.
+
+The reason for contrasting physical and mental measurements, to the apparent disrepute of the latter, is not that I wish to discourage the reader from trusting, or from making, measurements of any feature whatever of intellect or character. It is to be hoped, however, that he will be effectually discouraged from trusting measurements which do not deserve trust. The lesson to be drawn from the contrast is that a measurement can rightly be trusted or rejected or criticized or, indeed, understood, only if the concrete reality which it describes is known. Any numerical statement has meaning only in reference to a concrete scale and its units.
+
+THE VARIABILITY OF A MENTAL MEASUREMENT
+
+One cause of improper distrust of measurements of intellecJ and character is so common that it demands special treatment. This is the variability of the same measurement of apparently the same fact. For instance, individual A was tested by hearing a series of 12 letters read at a rate of 2 per second, he being required to write down as many as he could remember in their
+
+TPIE MEASUREMENT OF INDIVIDUAL DIFFERENCES l6l
+
+proper order as soon as the reading was finished. His score was 4 correct in one trial and lo correct in another, the two letter-series being, for people in general, of equal difficulty. What assurance, it may be said, can be felt in a measurement of now 4 and now lo for the same fact? The defense is that it is not the same fact. To measure A's memory for series of letters is not to measure one constant thing, but a very variable thing. A, as regards taking in and holding a series of letters, is not the same from moment to moment. What is measured in one trial is a sample of A's varying status in respect to this ability. His first score in the measurement iri question was 4. This measurement is, so far. so good ; it is better to believe that A's ability in that test is 4 than to guess at it. In a second test the score was 10.
+
+To say that A's ability is 4 or 10 or averages 7 is better than to have taken the 4 as a measure. But further trials give (including these two)
+
+I record of 4 letters correct
+
+4
+
+records
+
+5
+
+4
+
+6
+
+7
+
+7
+
+3
+
+8
+
+3
+
+9
+
+4
+
+10
+
+From all these scores we get. as an average, 7.44 letters correctly written; as the most common record (the so-called Mode), 8 letters correctly written. Since a record of 4 letters correctly written means, perhaps, 4^ letters remembered, one of 5 letters correctly written, 5^/2 letters remembered and so on, we should perhaps call A's average memory for letters 7.94- and his mode or most frequent performance 8.5.*
+
+*If an individual writes 7 letters correctly, but does not write an eighth, it means that he remembered at least 7 and not 8. The measurement is comparable to one of length in which the observer notes that a stick is over 62 inches, and is rot 63 inches, long. And just as. in the long run, sticks 62 inches or over but not 63 inches or over will average 62y> inches,
+
+1 62
+
+INDIVIDUAL DIFFERENCES
+
+Now the trustworthiness of. any one of these is 6 times as great as that of the first single score 4.* But we can not be sure that the average of the 36 measurements is identical with A's true average ability. In fact we can be almost sure that it is not. Seventy-two measurements might give, and almost certainly would give, a slightly different average. True average ability in the case of variable measurements means the measure we would get as an average from an infinite number of measurements. Only by chance will the result from any finite number of measurements be identical with it. All our measures represent approximations, but the greater the number of measures the closer the approximation will be.
+
+4 5 6 7 8 9 10
+
+Fig. 23. The Ability of Individual A in Memory of Letters.
+
+G 7 8 9
+
+Fig. 26. The Ability of Individual B in Memory of Letters.
+
+The variability of mental measurements thus gives no reason to distrust them, but, on the contrary, gives a means of knowing just how trustworthy they are.
+
+so the person remembering on many occasions at least 7 but not 8 letters will average 7^ letters. Some of his records of 7 mean 7 letters remembered and one more letter almost, but not quite, remembered.
+
+* It is found in variable measurements of the ordinary sort that the reliability of an average increases as the square root of the number of measurements taken.
+
+THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 163
+
+The series of measures above is our knowledge of A's ability. We can see the fact more clearly by expressing it in space rather than m figures. If we let each quarter inch along a horizontal line stand for one letter correctly written, and each eighth of an inch of height above it stand for one manifestation by A of the ability designated by that place, we have Fig. 25, by which one can see at a glance A's ability, its variability and his general tendency to keep nearer 8 than any other one ability.
+
+If we must for any reason abbreviate our description of A's ability we may best take two measures, one of the ability about which his various scores center most closely and the other of the closeness of his grouping. We may term these the central tendency and the variability. For the former the average or rnedian* or mode may be used; for the latter, the average of the differences between the individual records and their central tendency (Average Deviation or A.D.), or any one of a number of measures of the closeness of clustering of the individual records about their central tendency.
+
+Let us suppose that, with the same test, individual B showed the following ability :
+
+2 records of 5 correct. .
+
+3 " 6 " II " 7 " 17 " 8 "
+
+3 " 9 "
+
+This is shown graphically in Fig. 26. The average, median and mode would be closely the same as for A, but the variability of the measures would be less.
+
+*The Median has two meanings: the point on the scale above and below which equal per cents of the individual scores lie, and the mid measure. These two definitions lead to substantially the same results, and for present purposes the reader may adopt either one. Indeed it will do no harm if he can see no difference between the two. The limits for A were 4 — 10. For B they are 5 — 9. The avenage difference of the individual measure from the mode for A was 1.17. For B it is 0.7. B's ability has the same central tendency as A's, but B is a more constant performer.
+
+TABLES OF FREQUENCY OR DISTRIBUTION
+
+Suppose now that the average ability in rememl^ering letters in such a test as that described had been determined for every human being six years old or older. From such records the difference of any individual from any other could be computed, but only by hunting out the records of the two individuals. The frecjuency of any given degree of difference could be found from a very simple summary of such records, such as appears in Table 26.
+
+Table 26.
+
+Supposed Distkibution of A\t;rage Ability to Remember Letters in
+
+THE Case of Human Individuals Six Years Old or Older.
+
+An average of o letters was remembered by
+
+'■ " I letter " "
+
+" " 2 letters " "
+
+" " 3 " 4
+
+" 5 "
+
+" 6 "
+
+" " 7 "
+
+9 10 II 12 13 14 IS 16
+
+17 18
+
+19 20
+
+0 individuals
+
+2,000,000 "
+
+30,000,000 "
+
+60,000,000 "
+
+190,000,000 "
+
+280,000,000 "
+
+360,000,000 "
+
+310,000,000 "
+
+190,000,000 "
+
+40,000,000 "
+
+6,000,000 "
+
+400,000 "
+
+100.000 "
+
+40.000 "
+
+20,000 "
+
+4,000 "
+
+500
+
+100
+
+S
+
+0
+
+0
+
+THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 165
+
+A difference of 17 occurs only 10,000,000 times, between each of the 5 individuals of abihty 18 and each of the 2,000,000 of abihty i. A difference of 16 occurs 350,000.000 times (5 times 30,000,000+100 times 2,000,000). A difference of 15 occurs 4.300,000,000 times (5 times 60,000,000+100 times 30,000,000+500 times 2,000,000).
+
+A distribution or table of the frequencies of the abilities of individuals is then a convenient means of presenting the facts from which the frequencies of the different differences amongst
+
+3;-
+
+JD-
+
+af-
+
+2fl-
+
+1 — ,
+
+z^-
+
+ri)-
+
+5- H
+
+1
+
+0 1 2 8 4 5 6 7 8 9 10 11 Ig IS
+
+XS
+
+Fig. 27. Supposed Relative Frequencies of the Different Abilities in Remembering Letters of Human Individuals Six Years Old or Older. The horizontal scale is for the average number of words remembered. The vertical scale is for the number of individuals, 10,000,000 being the unit.
+
+them may be calculated. It serves manv other purposes as well, and so is commonly used in reporting the results of the measurement of any one trait in a number of individuals. The main features of such a table can be seen at once in their relations one to another if it is presented in graphic form. Thus Table 26 becomes Fig. 27, by letting the amounts of the trait be represented along a horizontal line and the number of persons possessing each amount be represented by the heights of a column erected at the place on the scale denoting that amount. Such a graphic representation is called a surface of frequency or a surface of distribution; the line which, with the base — or scale — line, encloses this surface is called a frequency curve or distribution curve.
+
+Real distribution tables and the corresponding surfaces of
+
+i66
+
+INDIVIDUAL DIFFERENCES
+
+frequency for certain specified groups of individuals are shown in Table 27 and Figs. 28, 29 and 30 for the cases of Grade reached by Connecticut children at the age of 10, Speed of sixth-grade children in copying figures, and Efficiency of highschool children in adding pairs of one-place numbers.
+
+Table 27. Sample of Distribution Tables.
+
+Distribution of Progress in School among Connecticut
+
+children in 1903
+
+Quantity : Frequency
+
+Grade Number
+
+reached at of
+
+age of 10 Children
+
+Distribution of Ability
+
+in Copying Figures in
+
+6th grade children.
+
+After Courtis,
+
+'11-'12, p. 54
+
+Distribution of Ability
+
+in Adding Pairs of
+
+One-Place Numbers in
+
+High-School Pupils.
+
+After Courtis,
+
+'11-12, p. 52
+
+: Quantity : Frequency Quantity : Frequency
+
+Number of in Number of in
+
+digits copied 6th Grade pairs added High School
+
+in 60 seconds Children in 60 seconds Pupils
+
+0 to
+
+9
+
+9
+
+Kinder-
+
+10 "
+
+19
+
+12
+
+garten
+
+9
+
+20 "
+
+29
+
+22
+
+20 to
+
+29
+
+2
+
+1st grade
+
+442
+
+30 "
+
+39
+
+18
+
+30 "
+
+39
+
+4
+
+2nd "
+
+1389
+
+40 "
+
+49
+
+57
+
+40 "
+
+49
+
+41
+
+3rd "
+
+3293
+
+50 "
+
+59
+
+107
+
+50 "
+
+59
+
+113
+
+4th "
+
+4433
+
+60 "
+
+69
+
+291
+
+60 "
+
+69
+
+272
+
+Sth "
+
+3200
+
+70 "
+
+79
+
+536
+
+70 "
+
+79
+
+235
+
+6th "
+
+1227
+
+80 "
+
+89
+
+1274
+
+80 "
+
+89
+
+196
+
+7th "
+
+237
+
+90 "
+
+99
+
+1256
+
+90 "
+
+99
+
+86
+
+Sth "
+
+48
+
+100 "
+
+109
+
+1066
+
+JOO "
+
+109
+
+43
+
+9th "
+
+4
+
+no "
+
+119
+
+494
+
+no "
+
+119
+
+2
+
+:oth "
+
+I
+
+120 "
+
+130 "
+
+140 "
+
+150 "
+
+160 "
+
+170 "
+
+180 "
+
+129
+
+139 149
+
+159 169 179
+
+189
+
+359 64 36 19 47 2 I
+
+120 "
+
+129
+
+2
+
+Such tables of distribution or surfaces of frequency are the terms in which the student of individual psychology must do very much of his thinking, both when he tries to describe, and when he tries to account for, the variation of human beings around the type of the species. In the next chapter, for example, in comparing the sexes, in respect to one or another
+
+THE MEASUREMENT OF INDIVIDUAL DIFFERENCES 167
+
+<- HOOO -3000
+
+-2000
+
+_ 1000
+
+""childrea
+
+- 1000
+
+I
+
+K9. I 1 I IV V VI vs m ix X
+
+Fig. 28. The Number of lo-year-old Children in Connecticut (1903), in Each School Grade.
+
+1000
+
+— 500
+
+. 2S0
+
+cliildrea
+
+0 10 20 30 40 50
+
+Fig. 29. The Number of Sixth-Grade Children in New York City Copying 0-0 Digits, 10 to 19 Digits, etc, in 60 Seconds.
+
+i68
+
+INDIVIDUAL DIFFERENCES
+
+— 200
+
+- 100
+
+50
+
+20 30 W SO W 10 SO etc.
+
+Fig. 30. The Number of Hish-School Pupils Adding 20-29 Pairs of Numbers, 30-39 Pairs, etc., in 60 Seconds.
+
+mental trait, we shall have to think of the surface of frequency for men in each trait and the surface of frequenc}^ for women in the same trait and to compare these two total surfaces of frequency.

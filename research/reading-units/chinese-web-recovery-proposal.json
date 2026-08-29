@@ -1,0 +1,919 @@
+{
+  "schemaVersion": 1,
+  "generatedOn": "2026-08-29",
+  "scope": {
+    "description": "Missing Chinese online-text reading units only; Archive.org scan units are out of scope.",
+    "sourceResponsesPreserved": true,
+    "prohibitedSharedFilesUntouched": [
+      "research/reading-units/source-overrides.json",
+      "scripts/fetch-reading-units.mjs",
+      "public/readings/units/*.json"
+    ]
+  },
+  "summary": {
+    "recoveredNaturalUnits": 13,
+    "auditedCards": 21,
+    "directAnchors": 14,
+    "exactLemmaSegmentAnchors": 1,
+    "documentedSourceDifferences": 4,
+    "cardsRequiringExplicitEllipsis": 2,
+    "unrecoveredUnits": 0
+  },
+  "mergeGuidance": {
+    "sourceOverrides": [
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC)",
+        "localPath": "research/source-cache/chinese-web-recovery/wang-bi-laozi-chapter-1.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/道德經_(王弼本)"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E6%AD%A3%E8%92%99/01",
+        "localPath": "research/source-cache/chinese-web-recovery/zhang-zai-zhengmeng-great-harmony.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/正蒙/01"
+      },
+      {
+        "originalSourceUrl": "https://ctext.org/dao-de-jing",
+        "localPath": "research/source-cache/chinese-web-recovery/ctext-daodejing-chapter-22.txt",
+        "provenanceUrl": "https://ctext.org/dao-de-jing"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E8%8F%AF%E5%9A%B4%E9%87%91%E5%B8%AB%E5%AD%90%E7%AB%A0",
+        "localPath": "research/source-cache/chinese-web-recovery/fazang-golden-lion-clarifying-dependent-arising.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/華嚴金師子章"
+      },
+      {
+        "originalSourceUrl": "https://tripitaka.cbeta.org/T45n1881_001",
+        "localPath": "research/source-cache/chinese-web-recovery/cbeta-t1881-golden-lion-indras-net.txt",
+        "provenanceUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1881.xml"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A",
+        "localPath": "research/source-cache/chinese-web-recovery/wang-yangming-chuanxilu-volume-1.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/傳習錄/卷上"
+      },
+      {
+        "originalSourceUrl": "https://ctext.org/mengzi/gong-sun-chou-i",
+        "localPath": "research/source-cache/chinese-web-recovery/mencius-gongsun-chou-i.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/孟子/公孫丑上"
+      },
+      {
+        "originalSourceUrl": "https://ctext.org/mengzi/jin-xin-ii",
+        "localPath": "research/source-cache/chinese-web-recovery/mencius-jin-xin-ii.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/孟子/盡心下"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90%E9%96%92%E8%A9%81/%E5%8D%B7%E4%B9%9D",
+        "localPath": "research/source-cache/chinese-web-recovery/mozi-feiming-shang.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/墨子/非命上"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E9%80%9A%E6%9B%B8",
+        "localPath": "research/source-cache/chinese-web-recovery/zhou-dunyi-tongshu-chapter-14.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/通書"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E4%BA%8C%E7%A8%8B%E9%81%BA%E6%9B%B8_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B702%E4%B8%8A",
+        "localPath": "research/source-cache/chinese-web-recovery/cheng-brothers-yishu-volume-2a.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/二程遺書_(四庫全書本)/卷02上"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E8%88%B9%E5%B1%B1%E9%81%BA%E6%9B%B8/%E8%88%B9%E5%B1%B1%E6%80%9D%E5%95%8F%E9%8C%84",
+        "localPath": "research/source-cache/chinese-web-recovery/wang-fuzhi-siwenlu-inner-chapters.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/船山遺書/船山思問錄"
+      },
+      {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E8%82%87%E8%AB%96/2",
+        "localPath": "research/source-cache/chinese-web-recovery/sengzhao-buzhenkonglun.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/肇論/2"
+      }
+    ],
+    "notes": [
+      "Each localPath contains one complete natural chapter/volume/essay, not an entire book.",
+      "Do not copy card wording into source caches; cache text remains faithful to the retrieved edition.",
+      "Resolve documented card/source differences explicitly instead of widening the global matcher with unsafe character substitutions.",
+      "The two existing Mencius URL overrides already point to the correct Wikisource subpages; the localPath candidates make those recovered chapters durable and reproducible."
+    ]
+  },
+  "units": {
+    "ru-commentary-on-the-laozi-chapter-1-37b4420e": {
+      "unitId": "ru-commentary-on-the-laozi-chapter-1-37b4420e",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC)",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+      "localPath": "research/source-cache/chinese-web-recovery/wang-bi-laozi-chapter-1.txt",
+      "sha256": "6ba888c0b9334ce11a36e8e5c4eba0649e2df8a2d781818af8b37fcc397d3569",
+      "paragraphCount": 11,
+      "characterCount": 463,
+      "byteCount": 1327,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/f02915a77273c92231e7443a3ef3d9493ba013d9767eff37090ff618b292d7a1.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/f02915a77273c92231e7443a3ef3d9493ba013d9767eff37090ff618b292d7a1.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E9%81%93%E5%BE%B7%E7%B6%93+%28%E7%8E%8B%E5%BC%BC%E6%9C%AC%29&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "5fd60783e990822cfc17da051192185c27fe64f97884a90aa4c505dc201f6d65"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "heading-range",
+        "start": "一章",
+        "endExclusive": "二章",
+        "description": "Wang Bi chapter heading 一章 through the paragraph before 二章"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC)",
+        "localPath": "research/source-cache/chinese-web-recovery/wang-bi-laozi-chapter-1.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/道德經_(王弼本)"
+      },
+      "anchors": {
+        "chinese-wang-bi-nonbeing-beginning": {
+          "cardQuote": "凡有皆始于无，故未形无名之时，则为万物之始。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0005",
+            "start": 2,
+            "end": 28,
+            "quote": "凡有皆始于无，故未形无名之时，则为万物之始。",
+            "match": "punctuation-insensitive"
+          }
+        }
+      }
+    },
+    "ru-correcting-the-unenlightened-great-harmony-named-chapter-great-harmony-b67fbf4f": {
+      "unitId": "ru-correcting-the-unenlightened-great-harmony-named-chapter-great-harmony-b67fbf4f",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E6%AD%A3%E8%92%99/01",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/正蒙/01",
+      "localPath": "research/source-cache/chinese-web-recovery/zhang-zai-zhengmeng-great-harmony.txt",
+      "sha256": "6ebd603c279a68ed5e93c36831aa4b051d874e9a9e8235d59b7891363049cb13",
+      "paragraphCount": 22,
+      "characterCount": 1726,
+      "byteCount": 5092,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/3c3b67c2a3bddd3c619557e846daec4a499d8df18e786bc733bcf0291da726ae.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/3c3b67c2a3bddd3c619557e846daec4a499d8df18e786bc733bcf0291da726ae.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E6%AD%A3%E8%92%99%2F01&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "da94056ae745b422835d89a896c3b91d3ee63c071f06a2bd112ebbafcb1e814f"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "whole-subpage",
+        "start": "first textual paragraph",
+        "endExclusive": "Wikisource navigation beginning 全書始",
+        "description": "all 22 textual paragraphs of 正蒙·太和篇第一"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E6%AD%A3%E8%92%99/01",
+        "localPath": "research/source-cache/chinese-web-recovery/zhang-zai-zhengmeng-great-harmony.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/正蒙/01"
+      },
+      "anchors": {
+        "chinese-zhang-zai-great-harmony": {
+          "cardQuote": "太和所谓道，中涵浮沉、升降、动静、相感之性，是生絪缊、相荡、胜负、屈伸之始。",
+          "status": "documented-source-difference",
+          "differenceKind": "orthographic-variant",
+          "sourceQuote": "太和所謂道，中涵浮沈、升降、動靜、相感之性，是生絪縕、相盪、勝負、屈伸之始。",
+          "sourceAnchor": {
+            "paragraphId": "p0001",
+            "start": 0,
+            "end": 38,
+            "quote": "太和所謂道，中涵浮沈、升降、動靜、相感之性，是生絪縕、相盪、勝負、屈伸之始。",
+            "match": "normalized-exact"
+          },
+          "detail": "The received page has 浮沈; the card modernizes this to 浮沉. OpenCC does not safely collapse this historical name/verb ambiguity."
+        },
+        "chinese-zhang-zai-qi-gathering-dispersing": {
+          "cardQuote": "太虚无形，气之本体；其聚其散，变化之客形尔。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0002",
+            "start": 0,
+            "end": 22,
+            "quote": "太虚无形，气之本体；其聚其散，变化之客形尔。",
+            "match": "punctuation-insensitive"
+          }
+        }
+      }
+    },
+    "ru-daodejing-chapter-22-bb92adb5": {
+      "unitId": "ru-daodejing-chapter-22-bb92adb5",
+      "registeredSourceUrl": "https://ctext.org/dao-de-jing",
+      "retrievalSourceUrl": "https://ctext.org/dao-de-jing",
+      "localPath": "research/source-cache/chinese-web-recovery/ctext-daodejing-chapter-22.txt",
+      "sha256": "366d2f13b2dfc4903f4621f91223bdc35f683257a854114ff67b32db2b17eee2",
+      "paragraphCount": 3,
+      "characterCount": 890,
+      "byteCount": 1086,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/346f14ebcf500294ed1266a1c781ce893a84e541fc5b01893800f2088f829ec1.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/346f14ebcf500294ed1266a1c781ce893a84e541fc5b01893800f2088f829ec1.json",
+          "retrievalUrl": "https://ctext.org/dao-de-jing",
+          "contentType": "text/html",
+          "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "numbered-range",
+        "start": "[22]",
+        "endExclusive": "[23]",
+        "description": "CText chapter marker [22] through the paragraph before [23]"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://ctext.org/dao-de-jing",
+        "localPath": "research/source-cache/chinese-web-recovery/ctext-daodejing-chapter-22.txt",
+        "provenanceUrl": "https://ctext.org/dao-de-jing"
+      },
+      "anchors": {
+        "chinese-laozi-bending-whole": {
+          "cardQuote": "曲则全，枉则直，洼则盈，敝则新，少则得，多则惑。",
+          "status": "documented-source-difference",
+          "differenceKind": "edition-and-orthography-variant",
+          "sourceQuote": "曲則全，枉則直，窪則盈，弊則新，少則得，多則惑。",
+          "sourceAnchor": {
+            "paragraphId": "p0002",
+            "start": 0,
+            "end": 24,
+            "quote": "曲則全，枉則直，窪則盈，弊則新，少則得，多則惑。",
+            "match": "normalized-exact"
+          },
+          "detail": "CText has 窪/弊; the card has simplified 洼 and the alternate received reading 敝."
+        }
+      }
+    },
+    "ru-essay-on-the-golden-lion-i-clarifying-dependent--named-chapter-i-clarifying-dependent-arising-36c69243": {
+      "unitId": "ru-essay-on-the-golden-lion-i-clarifying-dependent--named-chapter-i-clarifying-dependent-arising-36c69243",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E8%8F%AF%E5%9A%B4%E9%87%91%E5%B8%AB%E5%AD%90%E7%AB%A0",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/華嚴金師子章",
+      "localPath": "research/source-cache/chinese-web-recovery/fazang-golden-lion-clarifying-dependent-arising.txt",
+      "sha256": "c3357fd3db088cf22cb9e16df97c18826e62967060aeec12e691c0a721976a2e",
+      "paragraphCount": 4,
+      "characterCount": 158,
+      "byteCount": 460,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/1fe2d64e13f4b9ccdc4cb0f50fc9f720606d9710069aaeaee03e0cb413f21c3f.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/1fe2d64e13f4b9ccdc4cb0f50fc9f720606d9710069aaeaee03e0cb413f21c3f.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E8%8F%AF%E5%9A%B4%E9%87%91%E5%B8%AB%E5%AD%90%E7%AB%A0&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "07cbf8ce0888496f5526ac65f3bd0bcd211befbe5b95cacafd03cb99ced749a4"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "preformatted-heading-range",
+        "start": "明缘起第一",
+        "endExclusive": "辨色空第二",
+        "description": "the complete first lemma-and-commentary section"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E8%8F%AF%E5%9A%B4%E9%87%91%E5%B8%AB%E5%AD%90%E7%AB%A0",
+        "localPath": "research/source-cache/chinese-web-recovery/fazang-golden-lion-clarifying-dependent-arising.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/華嚴金師子章"
+      },
+      "anchors": {
+        "chinese-fazang-golden-lion-dependent-arising": {
+          "cardQuote": "谓金无自性，随工巧匠缘，遂有师子相起。起但是缘，故名缘起。",
+          "status": "exact-source-lemma-segments",
+          "differenceKind": "source-lemma-segments",
+          "sourceSegments": [
+            "谓金无自性随工巧匠缘",
+            "遂有师子相起",
+            "起但是缘故名缘起"
+          ],
+          "segmentAnchors": [
+            {
+              "paragraphId": "p0002",
+              "start": 0,
+              "end": 10,
+              "quote": "谓金无自性随工巧匠缘",
+              "match": "normalized-exact"
+            },
+            {
+              "paragraphId": "p0003",
+              "start": 0,
+              "end": 6,
+              "quote": "遂有师子相起",
+              "match": "normalized-exact"
+            },
+            {
+              "paragraphId": "p0004",
+              "start": 0,
+              "end": 8,
+              "quote": "起但是缘故名缘起",
+              "match": "normalized-exact"
+            }
+          ],
+          "detail": "The Wikisource transcription alternates the base-text lemma with commentary on each source line; the three lemma segments are exact and ordered."
+        }
+      }
+    },
+    "ru-essay-on-the-golden-lion-the-realm-of-indras-net-named-chapter-the-realm-of-indras-net-3d3ef644": {
+      "unitId": "ru-essay-on-the-golden-lion-the-realm-of-indras-net-named-chapter-the-realm-of-indras-net-3d3ef644",
+      "registeredSourceUrl": "https://tripitaka.cbeta.org/T45n1881_001",
+      "retrievalSourceUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1881.xml",
+      "localPath": "research/source-cache/chinese-web-recovery/cbeta-t1881-golden-lion-indras-net.txt",
+      "sha256": "248a1ade9c64c40b864639b9b77769459dcc25feea316333bbebf834d7ad995d",
+      "paragraphCount": 4,
+      "characterCount": 126,
+      "byteCount": 358,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/source-cache/chinese-web-recovery/cbeta-t45n1881.xml",
+          "retrievalUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1881.xml",
+          "contentType": "application/xml",
+          "sha256": "8d3e408cfcf2ace874cb36a0687105f3abe4dac90d17fcc5a32114f1f90122f9"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "tei-paragraph-range",
+        "start": "第四因陀羅網境界門",
+        "endExclusive": "第五諸藏純雜具德門",
+        "description": "CBETA T1881 paragraphs T45p0669c0601–T45p0669c1201"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://tripitaka.cbeta.org/T45n1881_001",
+        "localPath": "research/source-cache/chinese-web-recovery/cbeta-t1881-golden-lion-indras-net.txt",
+        "provenanceUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1881.xml"
+      },
+      "anchors": {
+        "chinese-fazang-golden-lion-nonarising": {
+          "cardQuote": "一一毛处，师子同时顿入，一茎毛中各各显露，皆有无边师子。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0002",
+            "start": 0,
+            "end": 25,
+            "quote": "一一毛处，师子同时顿入，一茎毛中各各显露，皆有无边师子。",
+            "match": "punctuation-insensitive"
+          }
+        }
+      }
+    },
+    "ru-instructions-for-practical-living-part-i-named-chapter-part-i-5823de0e": {
+      "unitId": "ru-instructions-for-practical-living-part-i-named-chapter-part-i-5823de0e",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/傳習錄/卷上",
+      "localPath": "research/source-cache/chinese-web-recovery/wang-yangming-chuanxilu-volume-1.txt",
+      "sha256": "0db4bb124f806050ea1f8a8c1f9cac3eea9391513b414934afbc2947a719daab",
+      "paragraphCount": 517,
+      "characterCount": 27801,
+      "byteCount": 78527,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/362272a54e4a980ea4d9e379f91a49030d6fc2493fa5f24c6c9b32e2822dd6d6.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/362272a54e4a980ea4d9e379f91a49030d6fc2493fa5f24c6c9b32e2822dd6d6.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%82%B3%E7%BF%92%E9%8C%84%2F%E5%8D%B7%E4%B8%8A&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "f494cb4ca3b5083a57e2e3f6aa1fbb8d2859a4cf6f9a5e28077ded1366d5491d"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "whole-subpage-without-editorial-notes",
+        "start": "徐愛引言",
+        "endExclusive": "註釋",
+        "description": "the complete transmitted upper volume; Wikisource notes are excluded"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A",
+        "localPath": "research/source-cache/chinese-web-recovery/wang-yangming-chuanxilu-volume-1.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/傳習錄/卷上"
+      },
+      "anchors": {
+        "chinese-wang-yangming-knowledge-action": {
+          "cardQuote": "知是行的主意，行是知的功夫；知是行之始，行是知之成。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0030",
+            "start": 19,
+            "end": 45,
+            "quote": "知是行的主意，行是知的功夫；知是行之始，行是知之成。",
+            "match": "normalized-exact"
+          }
+        },
+        "chinese-wang-yangming-no-principle-outside-mind": {
+          "cardQuote": "心即理也。天下又有心外之事、心外之理乎？",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0014",
+            "start": 5,
+            "end": 26,
+            "quote": "心即理也。天下又有心外之事、心外之理乎？",
+            "match": "normalized-exact"
+          }
+        }
+      }
+    },
+    "ru-mencius-gongsun-chou-i-named-chapter-gongsun-chou-i-274326ad": {
+      "unitId": "ru-mencius-gongsun-chou-i-named-chapter-gongsun-chou-i-274326ad",
+      "registeredSourceUrl": "https://ctext.org/mengzi/gong-sun-chou-i",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+      "localPath": "research/source-cache/chinese-web-recovery/mencius-gongsun-chou-i.txt",
+      "sha256": "b8e3ce42985f1c1a0735c1f75bede8445bb7765bebf9cc3e8636740e5c66a46e",
+      "paragraphCount": 50,
+      "characterCount": 3498,
+      "byteCount": 10278,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/f2b66d9e823b25a5ff452d3e51e094956e64e3cfd3cbbc76fa810a0175edb2e9.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/f2b66d9e823b25a5ff452d3e51e094956e64e3cfd3cbbc76fa810a0175edb2e9.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%AD%9F%E5%AD%90%2F%E5%85%AC%E5%AD%AB%E4%B8%91%E4%B8%8A&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "4841929798aafe842b1d64c67efd6530039638bd8230120cbe9328565ff9fe10"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "whole-subpage",
+        "start": "section 1",
+        "endExclusive": "end of section 9",
+        "description": "all nine numbered sections of 公孫丑上"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://ctext.org/mengzi/gong-sun-chou-i",
+        "localPath": "research/source-cache/chinese-web-recovery/mencius-gongsun-chou-i.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/孟子/公孫丑上"
+      },
+      "anchors": {
+        "chinese-mencius-compassion-sprout": {
+          "cardQuote": "今人乍见孺子将入于井，皆有怵惕恻隐之心。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0044",
+            "start": 68,
+            "end": 88,
+            "quote": "今人乍见孺子将入于井，皆有怵惕恻隐之心。",
+            "match": "punctuation-insensitive"
+          }
+        },
+        "chinese-mencius-pulling-sprouts": {
+          "cardQuote": "助之长者，揠苗者也；非徒无益，而又害之。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0022",
+            "start": 186,
+            "end": 207,
+            "quote": "助之长者，揠苗者也；非徒无益，而又害之。",
+            "match": "punctuation-insensitive"
+          }
+        }
+      }
+    },
+    "ru-mencius-jinxin-ii-named-chapter-jinxin-ii-85e66e44": {
+      "unitId": "ru-mencius-jinxin-ii-named-chapter-jinxin-ii-85e66e44",
+      "registeredSourceUrl": "https://ctext.org/mengzi/jin-xin-ii",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/孟子/盡心下",
+      "localPath": "research/source-cache/chinese-web-recovery/mencius-jin-xin-ii.txt",
+      "sha256": "dd13afc3bac17b7969fd3c7c49905362a10c46dfc98799c83a5a8808bcb8ba00",
+      "paragraphCount": 104,
+      "characterCount": 3211,
+      "byteCount": 9085,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/1b7780101fc35474319f9a1917c4d77bd084cae97bb9992e95d519feaf9ca55e.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/1b7780101fc35474319f9a1917c4d77bd084cae97bb9992e95d519feaf9ca55e.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%AD%9F%E5%AD%90%2F%E7%9B%A1%E5%BF%83%E4%B8%8B&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "64393382965ba0d6b3b6a28c36fc2fbfa41aedc50edcf04e0a2e468cfa7cd24d"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "whole-subpage",
+        "start": "section 1",
+        "endExclusive": "end of section 38",
+        "description": "all thirty-eight numbered sections of 盡心下"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://ctext.org/mengzi/jin-xin-ii",
+        "localPath": "research/source-cache/chinese-web-recovery/mencius-jin-xin-ii.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/孟子/盡心下"
+      },
+      "anchors": {
+        "chinese-mencius-critical-reading": {
+          "cardQuote": "尽信《书》，则不如无《书》。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0008",
+            "start": 5,
+            "end": 19,
+            "quote": "尽信《书》，则不如无《书》。",
+            "match": "normalized-exact"
+          }
+        },
+        "chinese-mencius-people-first": {
+          "cardQuote": "民为贵，社稷次之，君为轻。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0030",
+            "start": 5,
+            "end": 18,
+            "quote": "民为贵，社稷次之，君为轻。",
+            "match": "normalized-exact"
+          }
+        }
+      }
+    },
+    "ru-mozi-against-fatalism-i-named-chapter-against-fatalism-i-de9e8615": {
+      "unitId": "ru-mozi-against-fatalism-i-named-chapter-against-fatalism-i-de9e8615",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90%E9%96%92%E8%A9%81/%E5%8D%B7%E4%B9%9D",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/墨子/非命上",
+      "localPath": "research/source-cache/chinese-web-recovery/mozi-feiming-shang.txt",
+      "sha256": "7b059dfbcd5abe7aa149d3a16009b2e0792016aa6b60af62849456deafc81cb1",
+      "paragraphCount": 8,
+      "characterCount": 1791,
+      "byteCount": 5343,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/source-cache/chinese-web-recovery/mozi-feiming-shang.mediawiki.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E5%A2%A8%E5%AD%90%2F%E9%9D%9E%E5%91%BD%E4%B8%8A&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "8574b3ac71cf51409489c53fd51160de9c7fc8be0e94597049e735f4bc3e6648"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "whole-subpage",
+        "start": "first paragraph of 非命上",
+        "endExclusive": "end of 非命上",
+        "description": "direct base-text subpage, replacing the interleaved 墨子閒詁 volume"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90%E9%96%92%E8%A9%81/%E5%8D%B7%E4%B9%9D",
+        "localPath": "research/source-cache/chinese-web-recovery/mozi-feiming-shang.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/墨子/非命上"
+      },
+      "anchors": {
+        "chinese-mozi-against-fatalism": {
+          "cardQuote": "命虽强劲，何益哉？上以说王公大人，下以驵百姓之从事。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0001",
+            "start": 143,
+            "end": 171,
+            "quote": "命虽强劲，何益哉？上以说王公大人，下以驵百姓之从事。",
+            "match": "punctuation-insensitive"
+          }
+        }
+      }
+    },
+    "ru-penetrating-the-book-of-changes-chapter-14-atten-named-chapter-chapter-14-attending-to-reality-5c9469d4": {
+      "unitId": "ru-penetrating-the-book-of-changes-chapter-14-atten-named-chapter-chapter-14-attending-to-reality-5c9469d4",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E9%80%9A%E6%9B%B8",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/通書",
+      "localPath": "research/source-cache/chinese-web-recovery/zhou-dunyi-tongshu-chapter-14.txt",
+      "sha256": "4372c5026ed7d939c99515f48edbf9b6ee88e242c999ca6f56939525b9c4f3d1",
+      "paragraphCount": 2,
+      "characterCount": 74,
+      "byteCount": 216,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/28ea4cfa076091b0f7984104a65788970f2a2ec246e300d008355fb2f5fdbd17.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/28ea4cfa076091b0f7984104a65788970f2a2ec246e300d008355fb2f5fdbd17.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E9%80%9A%E6%9B%B8&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "1ef932316aca65499e0363bfcc391c145a3b41d82a1a286850bba8ea75d5a85a"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "heading-range",
+        "start": "務實第十四",
+        "endExclusive": "愛敬第十五",
+        "description": "chapter heading and its complete paragraph"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E9%80%9A%E6%9B%B8",
+        "localPath": "research/source-cache/chinese-web-recovery/zhou-dunyi-tongshu-chapter-14.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/通書"
+      },
+      "anchors": {
+        "chinese-zhou-dunyi-reality-over-name": {
+          "cardQuote": "实胜，善也；名胜，耻也。故君子进德修业，孳孳不息，务实胜也。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0002",
+            "start": 0,
+            "end": 30,
+            "quote": "实胜，善也；名胜，耻也。故君子进德修业，孳孳不息，务实胜也。",
+            "match": "normalized-exact"
+          }
+        }
+      }
+    },
+    "ru-surviving-works-of-the-cheng-brothers-volume-2a-named-chapter-volume-2a-f384af19": {
+      "unitId": "ru-surviving-works-of-the-cheng-brothers-volume-2a-named-chapter-volume-2a-f384af19",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E4%BA%8C%E7%A8%8B%E9%81%BA%E6%9B%B8_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B702%E4%B8%8A",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/二程遺書_(四庫全書本)/卷02上",
+      "localPath": "research/source-cache/chinese-web-recovery/cheng-brothers-yishu-volume-2a.txt",
+      "sha256": "b295328491d22a8f8f0479583d954f0ccb1f14ea86283a1e45bfe8ea817fb8f6",
+      "paragraphCount": 221,
+      "characterCount": 17383,
+      "byteCount": 50691,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/1f954710a94c764089e22e21df913ba952b59efc1b735f49ef9105b523b04aa2.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/1f954710a94c764089e22e21df913ba952b59efc1b735f49ef9105b523b04aa2.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E4%BA%8C%E7%A8%8B%E9%81%BA%E6%9B%B8+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B702%E4%B8%8A&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "28bbb04d1bf674d71f1942844f457d1d85c82d80236e208e0977b0b722e59cf8"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "whole-subpage",
+        "start": "欽定四庫全書",
+        "endExclusive": "end title 二程遺書卷二上",
+        "description": "the complete Siku volume 2A transcription"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E4%BA%8C%E7%A8%8B%E9%81%BA%E6%9B%B8_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B702%E4%B8%8A",
+        "localPath": "research/source-cache/chinese-web-recovery/cheng-brothers-yishu-volume-2a.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/二程遺書_(四庫全書本)/卷02上"
+      },
+      "anchors": {
+        "chinese-cheng-hao-one-body-with-things": {
+          "cardQuote": "仁者以天地万物为一体，莫非己也。认得为己，何所不至？若不有诸己，自不与己相干。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0020",
+            "start": 16,
+            "end": 49,
+            "quote": "仁者以天地万物为一体，莫非己也。认得为己，何所不至？若不有诸己，自不与己相干。",
+            "match": "punctuation-insensitive"
+          }
+        },
+        "chinese-cheng-hao-recognizing-humaneness": {
+          "cardQuote": "学者须先识仁，仁者浑然与物同体，义礼智信皆仁也。识得此理，以诚敬存之而已。",
+          "status": "documented-source-difference",
+          "differenceKind": "received-text-variant",
+          "sourceQuote": "學者須先識仁仁者渾然與物同體義禮知信皆仁也識得此理以誠敬存之而已",
+          "sourceAnchor": {
+            "paragraphId": "p0030",
+            "start": 0,
+            "end": 32,
+            "quote": "學者須先識仁仁者渾然與物同體義禮知信皆仁也識得此理以誠敬存之而已",
+            "match": "normalized-exact"
+          },
+          "detail": "The cited Siku transcription reads 知信; the card reads 智信."
+        }
+      }
+    },
+    "ru-wang-fuzhis-record-of-questions-and-reflections--named-chapter-inner-chapters-eedb777d": {
+      "unitId": "ru-wang-fuzhis-record-of-questions-and-reflections--named-chapter-inner-chapters-eedb777d",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E8%88%B9%E5%B1%B1%E9%81%BA%E6%9B%B8/%E8%88%B9%E5%B1%B1%E6%80%9D%E5%95%8F%E9%8C%84",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/船山遺書/船山思問錄",
+      "localPath": "research/source-cache/chinese-web-recovery/wang-fuzhi-siwenlu-inner-chapters.txt",
+      "sha256": "3eb2d3d89dbb42edeb727358beb776414e887b859391ef8d09a06cd0902d3790",
+      "paragraphCount": 155,
+      "characterCount": 14476,
+      "byteCount": 42806,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/481e2592f669b8dcf2e8eefde33527d7bde7ff69666f991765edb9aec41ef83d.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/481e2592f669b8dcf2e8eefde33527d7bde7ff69666f991765edb9aec41ef83d.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E8%88%B9%E5%B1%B1%E9%81%BA%E6%9B%B8%2F%E8%88%B9%E5%B1%B1%E6%80%9D%E5%95%8F%E9%8C%84&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "f55101db1e6f9987a7d3789d84dc7ab4ad04d0612ff5f704187dddd600e5d141"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "heading-range",
+        "start": "船山思問錄內篇",
+        "endExclusive": "船山思問錄外篇",
+        "description": "the complete inner chapters, excluding the outer chapters"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E8%88%B9%E5%B1%B1%E9%81%BA%E6%9B%B8/%E8%88%B9%E5%B1%B1%E6%80%9D%E5%95%8F%E9%8C%84",
+        "localPath": "research/source-cache/chinese-web-recovery/wang-fuzhi-siwenlu-inner-chapters.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/船山遺書/船山思問錄"
+      },
+      "anchors": {
+        "chinese-wang-fuzhi-action-before-knowledge": {
+          "cardQuote": "行而后知有道；道犹路也。得而后见有德；德犹得也。",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0007",
+            "start": 54,
+            "end": 78,
+            "quote": "行而后知有道；道犹路也。得而后见有德；德犹得也。",
+            "match": "normalized-exact"
+          }
+        },
+        "chinese-wang-fuzhi-knowing-unknown": {
+          "cardQuote": "目所不见，非无五色也；耳所不闻，非无声也；言所不通，非无义也。故曰：知之为知之，不知为不知。",
+          "status": "documented-source-difference",
+          "differenceKind": "possible-card-transcription-error",
+          "sourceQuote": "目所不見，非五色也；耳所不聞，非無聲也；言所不通，非無義也。故曰「知之為知之，不知為不知」。",
+          "sourceAnchor": {
+            "paragraphId": "p0003",
+            "start": 0,
+            "end": 46,
+            "quote": "目所不見，非五色也；耳所不聞，非無聲也；言所不通，非無義也。故曰「知之為知之，不知為不知」。",
+            "match": "normalized-exact"
+          },
+          "detail": "The registered Wikisource text has 非五色也; the card adds 無 (非無五色也). This should be checked against a critical or facsimile edition before silently normalizing either side."
+        },
+        "chinese-wang-fuzhi-private-and-public-knowing": {
+          "cardQuote": "恃一端之意知，以天下尝试之，强通其所不通，则私；即天下而尽其意知，以确然于一，则公。",
+          "status": "requires-card-ellipsis",
+          "differenceKind": "unmarked-internal-omission",
+          "sourceSegments": [
+            "恃一端之意知，以天下嘗試之，強通其所不通，則私",
+            "即天下而盡其意知，以確然於一，則公"
+          ],
+          "segmentAnchors": [
+            {
+              "paragraphId": "p0062",
+              "start": 0,
+              "end": 23,
+              "quote": "恃一端之意知，以天下嘗試之，強通其所不通，則私",
+              "match": "normalized-exact"
+            },
+            {
+              "paragraphId": "p0062",
+              "start": 30,
+              "end": 47,
+              "quote": "即天下而盡其意知，以確然於一，則公",
+              "match": "normalized-exact"
+            }
+          ],
+          "sourceInterveningText": "故聖人毋意。",
+          "recommendedCardText": "恃一端之意知，以天下尝试之，强通其所不通，则私；……即天下而尽其意知，以确然于一，则公。",
+          "detail": "The two card clauses are ordered source segments, but the card currently omits a complete intervening sentence without an ellipsis."
+        },
+        "chinese-wang-fuzhi-scrutinizing-faults": {
+          "cardQuote": "攻人之恶，则乐察恶。乐察人之恶，则恶之条理熟，厉薰心矣。慎之哉！",
+          "status": "direct",
+          "anchor": {
+            "paragraphId": "p0043",
+            "start": 0,
+            "end": 32,
+            "quote": "攻人之恶，则乐察恶。乐察人之恶，则恶之条理熟，厉薰心矣。慎之哉！",
+            "match": "normalized-exact"
+          }
+        }
+      }
+    },
+    "ru-zhaolun-the-emptiness-of-the-unreal-named-chapter-the-emptiness-of-the-unreal-243d23a9": {
+      "unitId": "ru-zhaolun-the-emptiness-of-the-unreal-named-chapter-the-emptiness-of-the-unreal-243d23a9",
+      "registeredSourceUrl": "https://zh.wikisource.org/wiki/%E8%82%87%E8%AB%96/2",
+      "retrievalSourceUrl": "https://zh.wikisource.org/wiki/肇論/2",
+      "localPath": "research/source-cache/chinese-web-recovery/sengzhao-buzhenkonglun.txt",
+      "sha256": "2b846c15be60ef7faab23a3f7b815b35e304a430b152ade10d5c3d14c80ab565",
+      "paragraphCount": 1,
+      "characterCount": 1866,
+      "byteCount": 5596,
+      "rawEvidence": [
+        {
+          "kind": "preserved-fetch-response",
+          "bodyPath": "research/reading-units/fetch-cache/ff116fbea8a84c850aaccc687771afae39ccd459f995c0d98e5312ca7b8543df.body.txt",
+          "metadataPath": "research/reading-units/fetch-cache/ff116fbea8a84c850aaccc687771afae39ccd459f995c0d98e5312ca7b8543df.json",
+          "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E8%82%87%E8%AB%96%2F2&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+          "contentType": "application/json",
+          "sha256": "fdde3c0f9716381f54ec589cc893342a4b2136881030463292bdb40e2b88fbb7"
+        }
+      ],
+      "naturalBoundary": {
+        "kind": "whole-subpage",
+        "start": "opening of 不真空論",
+        "endExclusive": "end of essay",
+        "description": "the complete Wikisource essay"
+      },
+      "sourceOverrideCandidate": {
+        "originalSourceUrl": "https://zh.wikisource.org/wiki/%E8%82%87%E8%AB%96/2",
+        "localPath": "research/source-cache/chinese-web-recovery/sengzhao-buzhenkonglun.txt",
+        "provenanceUrl": "https://zh.wikisource.org/wiki/肇論/2"
+      },
+      "anchors": {
+        "chinese-sengzhao-dependent-and-empty": {
+          "cardQuote": "夫有若真有，有自常有，岂待缘而后有哉？若有不能自有，待缘而后有者，故知有非真有。",
+          "status": "requires-card-ellipsis",
+          "differenceKind": "unmarked-internal-omission-and-received-text-variant",
+          "sourceSegments": [
+            "夫有若真有，有自常有，豈待緣而後有哉",
+            "若有不自有，待緣而後有者，故知有非真有"
+          ],
+          "segmentAnchors": [
+            {
+              "paragraphId": "p0001",
+              "start": 1189,
+              "end": 1207,
+              "quote": "夫有若真有，有自常有，豈待緣而後有哉",
+              "match": "normalized-exact"
+            },
+            {
+              "paragraphId": "p0001",
+              "start": 1226,
+              "end": 1245,
+              "quote": "若有不自有，待緣而後有者，故知有非真有",
+              "match": "normalized-exact"
+            }
+          ],
+          "sourceInterveningText": "譬彼真無，無自常無，豈待緣而後無也！",
+          "recommendedCardText": "夫有若真有，有自常有，岂待缘而后有哉？……若有不自有，待缘而后有者，故知有非真有。",
+          "corroboratingSourceUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1858.xml",
+          "detail": "The registered Wikisource edition contains a complete intervening sentence and reads 若有不自有; CBETA T45n1858, lines 0152c02–04, independently corroborates both facts. The card omits that sentence without an ellipsis and expands 不 to 不能."
+        }
+      }
+    }
+  },
+  "sourceTextDifferences": [
+    {
+      "thoughtId": "chinese-zhang-zai-great-harmony",
+      "kind": "orthographic-variant",
+      "cardQuote": "太和所谓道，中涵浮沉、升降、动静、相感之性，是生絪缊、相荡、胜负、屈伸之始。",
+      "sourceQuote": "太和所謂道，中涵浮沈、升降、動靜、相感之性，是生絪縕、相盪、勝負、屈伸之始。",
+      "detail": "The received page has 浮沈; the card modernizes this to 浮沉. OpenCC does not safely collapse this historical name/verb ambiguity."
+    },
+    {
+      "thoughtId": "chinese-laozi-bending-whole",
+      "kind": "edition-and-orthography-variant",
+      "cardQuote": "曲则全，枉则直，洼则盈，敝则新，少则得，多则惑。",
+      "sourceQuote": "曲則全，枉則直，窪則盈，弊則新，少則得，多則惑。",
+      "detail": "CText has 窪/弊; the card has simplified 洼 and the alternate received reading 敝."
+    },
+    {
+      "thoughtId": "chinese-cheng-hao-recognizing-humaneness",
+      "kind": "received-text-variant",
+      "cardQuote": "学者须先识仁，仁者浑然与物同体，义礼智信皆仁也。识得此理，以诚敬存之而已。",
+      "sourceQuote": "學者須先識仁仁者渾然與物同體義禮知信皆仁也識得此理以誠敬存之而已",
+      "detail": "The cited Siku transcription reads 知信; the card reads 智信."
+    },
+    {
+      "thoughtId": "chinese-wang-fuzhi-knowing-unknown",
+      "kind": "possible-card-transcription-error",
+      "cardQuote": "目所不见，非无五色也；耳所不闻，非无声也；言所不通，非无义也。故曰：知之为知之，不知为不知。",
+      "sourceQuote": "目所不見，非五色也；耳所不聞，非無聲也；言所不通，非無義也。故曰「知之為知之，不知為不知」。",
+      "detail": "The registered Wikisource text has 非五色也; the card adds 無 (非無五色也). This should be checked against a critical or facsimile edition before silently normalizing either side."
+    },
+    {
+      "thoughtId": "chinese-wang-fuzhi-private-and-public-knowing",
+      "kind": "unmarked-internal-omission",
+      "cardQuote": "恃一端之意知，以天下尝试之，强通其所不通，则私；即天下而尽其意知，以确然于一，则公。",
+      "sourceInterveningText": "故聖人毋意。",
+      "recommendedCardText": "恃一端之意知，以天下尝试之，强通其所不通，则私；……即天下而尽其意知，以确然于一，则公。",
+      "detail": "The two card clauses are ordered source segments, but the card currently omits a complete intervening sentence without an ellipsis."
+    },
+    {
+      "thoughtId": "chinese-sengzhao-dependent-and-empty",
+      "kind": "unmarked-internal-omission-and-received-text-variant",
+      "cardQuote": "夫有若真有，有自常有，岂待缘而后有哉？若有不能自有，待缘而后有者，故知有非真有。",
+      "sourceInterveningText": "譬彼真無，無自常無，豈待緣而後無也！",
+      "recommendedCardText": "夫有若真有，有自常有，岂待缘而后有哉？……若有不自有，待缘而后有者，故知有非真有。",
+      "corroboratingSourceUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1858.xml",
+      "detail": "The registered Wikisource edition contains a complete intervening sentence and reads 若有不自有; CBETA T45n1858, lines 0152c02–04, independently corroborates both facts. The card omits that sentence without an ellipsis and expands 不 to 不能."
+    },
+    {
+      "unitId": "ru-mozi-against-fatalism-i-named-chapter-against-fatalism-i-de9e8615",
+      "kind": "registered-commentary-edition-does-not-preserve-card-contiguity",
+      "registeredSourceReading": "命，……雖強勁何益哉？」以上說王公大人……",
+      "replacementSourceReading": "命，雖強勁，何益哉？」上以說王公大人……",
+      "detail": "Use the direct 墨子/非命上 base-text subpage for an exact continuous anchor; retain the registered 墨子閒詁 volume as an additional scholarly link if desired."
+    },
+    {
+      "unitId": "ru-essay-on-the-golden-lion-the-realm-of-indras-net-named-chapter-the-realm-of-indras-net-3d3ef644",
+      "kind": "dead-endpoint-and-license-metadata",
+      "registeredSourceUrl": "https://tripitaka.cbeta.org/T45n1881_001",
+      "replacementSourceUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1881.xml",
+      "detail": "The old CBETA endpoint is unavailable. The replacement is CBETA's official TEI P5 repository; the encoded file is distributed under CC BY-NC-SA 4.0 even though the underlying historical text is public domain."
+    }
+  ],
+  "recommendedCardEdits": [
+    {
+      "thoughtId": "chinese-wang-fuzhi-private-and-public-knowing",
+      "action": "mark the internal omission",
+      "recommendedCardText": "恃一端之意知，以天下尝试之，强通其所不通，则私；……即天下而尽其意知，以确然于一，则公。"
+    },
+    {
+      "thoughtId": "chinese-sengzhao-dependent-and-empty",
+      "action": "mark the internal omission and follow the corroborated 不自有 reading",
+      "recommendedCardText": "夫有若真有，有自常有，岂待缘而后有哉？……若有不自有，待缘而后有者，故知有非真有。",
+      "corroboratingSourceUrl": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1858.xml"
+    }
+  ],
+  "manualReview": [
+    {
+      "thoughtId": "chinese-laozi-bending-whole",
+      "issue": "CText 弊 / alternate received reading 敝",
+      "recommendation": "If CText remains the cited edition, change the card to 弊则新; otherwise cite an exact named edition that reads 敝."
+    },
+    {
+      "thoughtId": "chinese-wang-fuzhi-knowing-unknown",
+      "issue": "非五色 / 非無色 / 非無五色 textual reading",
+      "recommendation": "The registered page has 非五色也 and scholarly quotations commonly have 非無色也; neither supports the card's 非無五色也. Verify a facsimile/critical edition, then remove the unsupported extra graph rather than widening the matcher."
+    },
+    {
+      "thoughtId": "chinese-cheng-hao-recognizing-humaneness",
+      "issue": "知信 / 智信 received-text variant",
+      "recommendation": "Either change the card to the cited Siku reading 知信 or cite a named edition that actually reads 智信."
+    }
+  ],
+  "unrecovered": []
+}

@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-class-function-concept-relation-whole-work-d92333b7",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "〈类、函数、概念、关系〉",
+  "englishWork": "Class, Function, Concept, Relation",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "《一元论者》27卷1期（1917）原刊扫描，弗雷格〈类、函数、概念、关系〉，原刊印刷页119，Johann Stachelroth与Philip E. B. Jourdain英译，完整连续句；仅确认美国公版",
+  "englishVersion": "Original scan of The Monist 27(1) (1917), Frege, ‘Class, Function, Concept, Relation,’ original print p. 119, trans. Johann Stachelroth and Philip E. B. Jourdain, complete continuous sentence; U.S. public-domain status only",
+  "sourceUrl": "https://archive.org/details/sim_monist_1917-01_27_1/page/n120/mode/1up",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "296046e3d2a3529ebdbcbbe183aa80da6a0774519167f7e206f68b8f709ec015"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "48082157f63fc5586f02e7c465b8e5b714eb9e446026f88e07b93f31d93295ab",
+  "inputHash": "39a394d1abd92ebd03dfa662c275acc8156aa031dc677922ad578a16e241ebe6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION"
+    },
+    {
+      "id": "p0002",
+      "text": "In my Grundlagen der Arithmetik of 1884 I have tried to make it seem probable that arithmetic is a branch of logic and need not borrow any ground of proof whatever from experience or intuition. The actual demonstration of my thesis is carried out in my Grundgesetze of 1893 and 1903 by the deduction of the simplest laws of numbers by logical means alone. But to make this proof convincing, considerably higher claims must be made for deduction than is habitually done in arithmetic.* A set of a few methods of deduction has to be fixed beforehand, and no step may be taken which is not in accordance with them. Consequently, when passing over to a new judgment we must not be satisfied, as mathematicians seem nearly always to have been hitherto, with saying that the new judgment is evidently correct, but we must analyze each step of ours into the simple logical steps of which it is composed, —and often there are not a few of these new steps. No hypothesis can thus remain unnoticed. Every axiom which is needed must be discovered, and it is just the hypotheses which are made tacitly and without clear consciousness that hinder our insight into the epistemological nature of a law. In order that such an undertaking be crowned with success, the concepts which we need must naturally be con-"
+    },
+    {
+      "id": "p0003",
+      "text": "1[Translated from the Grundgesetze der Arithmetik by Johann Stachelroth and Philip E. B. Jourdain.] 2 Grundlagen, pp. 102-104."
+    },
+    {
+      "id": "p0004",
+      "text": "UMI"
+    },
+    {
+      "id": "p0005",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION. 115"
+    },
+    {
+      "id": "p0006",
+      "text": "ceived distinctly. This is true especially in what concerns the thing that mathematicians denote by the word “aggregate” (Menge). It seems that Dedekind, in his book Was sind und was sollen die Zahlen?* of 1888, uses the word “system” to denote the same thing. But in spite of the exposition which appeared four years earlier in my Grundlagen, a clear insight into the essence of the matter is not to be found in Dedekind’s work, though he often gets somewhat near it. This is the case in the sentence :* “Such a system S is completely determined if of everything it is determined whether it is an element of S or not. Hence the system S is the same as the system T (in symbols S=T) if every element of S is also element of T and every element of T is also element of S.”’ In other passages, on the other hand, Dedekind strays from the point. For instance:* “It very frequently happens that for some reason different things a, b, c,... can be considered from a common point of view, can be put together in the mind, and we then say that they form a system S.” Here a presentiment of the correct idea is contained in the words “common point of view’; but the “putting together in the mind”’ is not an objective characteristic. In whose mind, may I ask? If they are put together in one mind and not in another do they then form a system? What is to be put together in my mind must doubtless be in my mind. Then do not things outside myself form systems? Is a system a subjective formation in each single soul? Is then the constellation Orion not a system? And what are its elements? The stars, the molecules, or the atoms? The following sentence® is remarkable: “For uniformity of expression it is advantageous to admit the special case that a system S is composed of a single (one and one only) element a: the thing a is an element of S, but every thing"
+    },
+    {
+      "id": "p0007",
+      "text": "8 [English translation under the title Essays on the Theory of Numbers, Chicago and London, 1901. See especially p. 45.] 4 [Ibid., p. 45.] 5 [Ibid.] 8 [Ibid.]}"
+    },
+    {
+      "id": "p0008",
+      "text": "116 THE MONIST."
+    },
+    {
+      "id": "p0009",
+      "text": "different from a is not an element of S.” This is afterward’ understood in such a way that every element s of a system S can be itself regarded as a system. Since in this case element and system coincide, it is here quite clear that, according to Dedekind, the elements are the proper constituents of a system. Ernst Schroder in his lectures on the algebra of logic® goes a step in advance of Dedekind in drawing attention to the connection of his systems with concepts, which Dedekind seems to have overlooked. Indeed, what Dedekind really means when he calls a system a “part” of a system’ is that a concept is subordinated to a concept or an object falls under a concept. Neither Dedekind nor Schroder distinguish between these cases because of a mistake in point of view which is common to them both. In fact, Schroder also, at bottom, considers the elements to be what really make up his class. An empty class should not occur with Schroder any more than an empty system with Dedekind. But the need arising from the nature of the matter makes itself felt in a different way with each writer. Dedekind says: “On the other hand, we intend here for certain reasons wholly to exclude the empty system, which contains no element at all, although for other investigations it may be convenient to invent (erdichten) such a system.” Thus such an invention is permitted; it is only desisted from for certain reasons. Schroder dares to invent an empty class. Apparently then both agree with many mathematicians in holding that we may invent anything we please that does not exist,—even what is unthinkable; for if the elements form a system, then the system is annulled at the same time as the ele-"
+    },
+    {
+      "id": "p0010",
+      "text": "7 [Ibid., p. 46.]"
+    },
+    {
+      "id": "p0011",
+      "text": "8 Vorlesungen iiber die Algebra der Logik (exakte Logik), Vol. I, Leipsic, 1890, p. 253. [This reference of Frege seems wrong and it should perhaps rather be to such a page as p. 100. Cf. also Frege’s later critical study: “Kritische Beleuchtung einiger Punkte in E. Schroders Vorlesungen tiber die Aleon der Logik,” Archiv fiir systematische Philosophie, Vol. I, 1895, pp. 433-"
+    },
+    {
+      "id": "p0012",
+      "text": "9 [Op. cit. p. 46:] 10 [Ibid., pp. 45-46.]"
+    },
+    {
+      "id": "p0013",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION. 117"
+    },
+    {
+      "id": "p0014",
+      "text": "ments. As to where the limits of this license lie and whether indeed there are any such limits, without any doubt we will not find much clearness and agreement ;— and yet the correctness of a proof may depend on such questions. I believe I have settled them in a way that is final for all intelligent persons, in my Grundlagen” and in my lecture “Ueber formale Theorien der Arithmetik.”” Schroder invents his zero-class and thus gets into diffculties.** We do not find, then, a clear insight into the matter with either Schroder or Dedekind; but still the true position of affairs is seen whenever a system is to be determined. Dedekind then brings forward properties which a thing must have in order to belong to a system, 1. e., he defines a concept by its characteristics.“* If now a concept is made up of characteristics and not of the objects falling under the concept, there are no difficulties to be urged against an empty concept. Of course in this case an object (Gegenstand) can never also be a concept, and a concept under which only one object falls must not be confused with this object. Thus we are finally left with the result that the number datum contains an assertion about a concept.* I have traced back number to the relation of similarity’ (Gleichzahligkeit) and similarity to univocal correspondence (eindeutige Zuordnung). Of “correspondence” much the same holds as of “aggregate” (Menge). Nowadays both words are often used in mathematics, and"
+    },
+    {
+      "id": "p0015",
+      "text": "11 Pp. 104-108."
+    },
+    {
+      "id": "p0016",
+      "text": "12Sitzungsberichte der Jenaischen Gesellschaft fiir Medicin und Naturwissenschaft, July 17, 1885."
+    },
+    {
+      "id": "p0017",
+      "text": "18Cf. E. G. Husserl, Géttinger gelehrte Anzeigen, 1891, No. 7, p. 272,— where, however, the difficulties are not solved."
+    },
+    {
+      "id": "p0018",
+      "text": "14On concept, object, property, and characteristics, cf. my Grundlagen, pp. 48-50, 60-61, 64-65, and my essay “Ueber Begriff und Gegenstand,” Vierteljahrsschrift fiir wissenschaftliche Philosophie, Vol. XVI, 1892, pp. 192-205."
+    },
+    {
+      "id": "p0019",
+      "text": "15 See Grundlagen, pp. 59-60."
+    },
+    {
+      "id": "p0020",
+      "text": "16 [The same idea and word were used by Dedekind (op. cit., p. 53); and the same idea but with the name “equivalence” was used by Georg Cantor (cf. Contributions to the Founding of the Theory of Transfinite Numbers, Chicago and London, 1915, pp. 40, 86).]"
+    },
+    {
+      "id": "p0021",
+      "text": "UMI"
+    },
+    {
+      "id": "p0022",
+      "text": "118 THE MONIST."
+    },
+    {
+      "id": "p0023",
+      "text": "very often there is lacking an insight into what is intended to be denoted by them. If my opinion is correct that arithmetic is a branch of pure logic, then a purely logical expression has to be chosen for “correspondence.” I choose the word “relation.” Concept and relation are the foundation stones upon which I erect my structure."
+    },
+    {
+      "id": "p0024",
+      "text": "But even when concepts have been grasped quite precisely, it would be difficult—nearly impossible in fact—to satisfy the demands we have had to make of a process of proof without some special means of help. Now such a means is my ideography (Begriffsschrift), the explanation of which will be my first problem. The following remarks may be noticed before we proceed farther. It is not possible to define everything, hence it must be our endeavor to go back to the logically simple which as such cannot properly be defined. I must then be satisfied with referring by hints to what I mean. Before all I have to strive to be understood, and therefore I will try to develop the subject gradually and will not attempt at first a full generality and a final expression. The frequent use made of quotation marks may cause surprise. I use them to distinguish the cases where I speak about the sign itself from those where I speak about its denotation. Pedantic as this may appear, I think it necessary. It is remarkable how an inexact mode of speaking or writing which perhaps was originally employed only for greater convenience or brevity and with full consciousness of its inaccuracy, may, when that consciousness has disappeared, end by confusing thought. Has it not happened that number signs have been mistaken for numbers, names for the things named, the mere auxiliary means for the real end of arithmetic? Such experiences teach us how necessary it is to make the highest demands of exactitude in manner of speech and writing. And I have taken pains at least to do justice to such demands wherever it seemed to be of importance."
+    },
+    {
+      "id": "p0025",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION. 119"
+    },
+    {
+      "id": "p0026",
+      "text": "If’ we are asked to give the original meaning of the word “function” as used in mathematics, we easily fall into saying that a function of x is an expression formed by means of the notations for sum, product, power, difference, and so on, of “x” and definite numbers. This attempt at a definition is not successful because a function is here said to be an expression, a combination of signs, and not what the combination stands for. Then probably another attempt would be made with “denotation (Bedeutung) of an expression” instead of “expression.” But there appears the letter “x”? which indicates a number, not as the sign “2” does, but indefinitely. For different number-signs which we put in the place of “x”, we get, in general, different denotations. Suppose for example, that in the expression “(2+ 3.27)”, instead of “x” we put the number-signs “o”’, “1”, “2”, “3”, one after the other; we then get as corresponding denotations the numbers 0, 5, 28, 87. Not one of these denotations can claim to be our function. The essence of the function is in the correspondence that it establishes between the numbers whose signs we put for “x” and the numbers which then appear as denotations of our expression,—a correspondence which is represented to intuition by the course of the curve whose equation is, in rectangular coordinates, “y= (2+ 3.2#*)x”. In general, then, the essence of the function lies in the part of the expression which is outside the “x”. The expression of a function needs completion (ist ergänzungsbedürftig) and is not satisfied (ungesättigt). The letter “x” only serves to keep places open for a numerical sign which is to complete the expression, and thus makes known the special kind of need for completion that constitutes the peculiar nature of the function indicated above. In what follows,"
+    },
+    {
+      "id": "p0027",
+      "text": "17Cf. my lecture Funktion und Begriff, Jena, 1891, and my essay “Ueber Begriff und Gegenstand” cited above. My Begriffsschrift of 1879 now no"
+    },
+    {
+      "id": "p0028",
+      "text": "longer represents my standpoint, and thus should only be used with caution to illustrate what I said here."
+    },
+    {
+      "id": "p0029",
+      "text": "120 THE MONIST."
+    },
+    {
+      "id": "p0030",
+      "text": "the Greek letter “E” will be used** instead of the letter “x. This keeping open is to be understood in this way: All places in which “€” stand must always be filled by the same sign and never by different ones. I call these places argument-places and that whose sign or name takes these places in a given case I call argument of the function for this case. The function is completed by the argument; I call what it becomes on completion the value of the function for the argument. We thus get a name of the value of a function for an argument when we fill the argumentplaces in the name of the function with the name of the argument. Thus, for example, “(2+ 3.17)1” is a name of the number 5, composed of the function-name “(2+ 3.&?)&” and “1”. The argument is not to be reckoned in with the function, but serves to complete the function which is unsatisfied by itself. If in the following an expression like “the ®(&)” is used, it is always to be observed that the only service rendered by “§” in the notation of the function is that it makes the argument-places recognizable; it does not imply that the essence of the function becomes changed when any other sign is substituted for “€”."
+    },
+    {
+      "id": "p0031",
+      "text": "To the fundamental operations of calculation mathematicians added, as function-forming, the process of proceeding to the limit as exemplified by infinite series, differential quotients and integrals; and finally the word “function” was understood in such a general way that the connection between value of function and argument was in certain circumstances no longer expressed by signs of mathematical analysis, but could only be denoted by words. Another extension consisted in admitting complex numbers as arguments and consequently also as function-values. In both directions I have gone still farther. While, indeed, the"
+    },
+    {
+      "id": "p0032",
+      "text": "18 Nothing, however, is fixed by this for our ideography. The “€” never appears in the developments of the ideography itself, and I only use it in my exposition of it and ‘in illustrations."
+    },
+    {
+      "id": "p0033",
+      "text": "UMI"
+    },
+    {
+      "id": "p0034",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION. I2I"
+    },
+    {
+      "id": "p0035",
+      "text": "signs of analysis were hitherto on the one hand not always sufficient, they were on the other hand not all employed in the formation of function-names. For instance, “&? = 4” and “& > 2” were not allowed to count as names of functions; but I do so allow them. But that indicates at the same time that the domain of function-values cannot remain limited to numbers; for if I take as arguments of the function 4 the numbers 0, I, 2, 3, in succession, I do not get numbers. I get: “o?=4”, “1?=4”, “2?=4”, “3? == 4”, which are expressions of one true and some false thoughts. I express this by saying that the value of the function §°=4 is either the “truth-value (Wahrheitswerth) of the true or of the false.’”\"® From this it can be seen that I do not intend to assert anything by merely writing down an equation, but that I only designate (bezeichne) a truth-value, just as I do not intend to assert anything by simply writing down “2?” but only designate a number. I say: “The names “2? = 4” and “3 > 2” denote the same truth-value” which I call for short the true. In the same manner “3?=4” and “I >2” denote the same truth-value, which I call for short the false just as the name “2?” denotes the number 4. Accordingly I say that the number 4 is the “denotation” of “4” and of “2””’, and that the true is the “denotation” of “3>>2”. But I distinguish the “meaning” (Sinn) of a name from its “denotation” (Bedeutung). The names “2?” and “2+ 2” have not the same meaning, nor have “2?= 4” and “2+ 2 = 4”. The meaning of the name of a truth-value I call a “thought” (Gedanken). I say further that a name “expresses” (ausdriickt) its meaning and “denotes” its denotation. I “designate” (bezeichne) by a name what it means."
+    },
+    {
+      "id": "p0036",
+      "text": "The function €?= 4 can thus have only two values, the"
+    },
+    {
+      "id": "p0037",
+      "text": "19 T have shown this more exhaustively in my essay “Ueber Sinn und Bedeutung” in the Zeitschrift fiir Philos. und phil. Krittk, Vol. C, 1892, pp. 25-50)."
+    },
+    {
+      "id": "p0038",
+      "text": "122 THE MONIST."
+    },
+    {
+      "id": "p0039",
+      "text": "true for the arguments + 2 and —2 and the false for all other arguments."
+    },
+    {
+      "id": "p0040",
+      "text": "Also the domain of what is admitted as argument must be extended,—indeed, to objects quite generally. Objects (Gegenstinde) stand opposed to functions, I therefore count as an object everything that is not a function; thus, examples of objects are numbers, truth-values, and the ranges (Werthverlaéufe) to be introduced further on. The names of objects—or proper names—are not therefore accompanied by argument-places, but are satisfied like the objects themselves."
+    },
+    {
+      "id": "p0041",
+      "text": "I use the words, “the function ®(§) has the same range as the function ¥(§)”, as denoting the same as the words, “the functions ®(€) and ¥(€) have the same value for the same argument.” This is the case with the functions —E?—4 and 3.6?=—12, at least if numbers are taken as arguments. But we can also imagine the signs of evolution and multiplication defined in such a manner that the function (€? =4) = (3. = 12) has the value of the true for any argument whatever. Here an expression of logic may be used: “The concept square-root of 4 has the same extension as the concept something of which three times tts square is 12.” With those functions whose value is always a truth-value we can therefore say “extension of the concept” instead of “range of the function,” and it seems suitable to say that a concept (Begriff) is a function of which the value is always a truth-value."
+    },
+    {
+      "id": "p0042",
+      "text": "Hitherto I have only dealt with functions of a single argument, but we can easily pass over to functions with two arguments. Such functions are doubly in need of completion. A function with one argument is obtained when a completion by means of one argument has been effected. Only by means of a repeated completion do we arrive at an object, and this object is then called the “value” of the function for the pair of arguments. Just as the"
+    },
+    {
+      "id": "p0043",
+      "text": "UMI"
+    },
+    {
+      "id": "p0044",
+      "text": "UMI"
+    },
+    {
+      "id": "p0045",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION. 123"
+    },
+    {
+      "id": "p0046",
+      "text": "letter “&” served with functions of one argument, I use here the letters “E” and “C” in order to indicate the twofold non-satisfaction of a function of two arguments, as, for example, in “(E+€)?+€”. By replacing “C” by “1”, for example, we satisfy the function in such a way that we have in (§ + 1)?+1 a function with only one argument. This manner in which we use the letters “§” and “C’’ must always be kept in mind when an expression like “the function YE, €)” occurs.” I call the places in which “§” stands “€-argument-places”, and those in which “€” stands ‘€-argument-places”. I say that the §-argument-places are “related” (verwandt) to one another, and also the C-argument-places to one another, and I say that a E-argument-place is not related to a C-argument-place."
+    },
+    {
+      "id": "p0047",
+      "text": "The functions with two arguments §=€ and E>€ have as value always a truth-value—at least if the signs “—” and “>” are defined in a suitable manner. I shall call such functions “relations”. In the first relation, for example, 1 stands to 1, and in general every object to itself; in the second, for example, 2 stands to 1. I say that the object I’ “stands in the relation ¥(, €) to” the object A, if ®(T, A) is the true. I say that the object A “falls under’ the concept ®(§), if ®(A) is the true. It is presumed, of course, that both the functions ®(§) and V(E,¢) have always truth-values as values.”"
+    },
+    {
+      "id": "p0048",
+      "text": "e * * I have already said above that no assertion is to lie as"
+    },
+    {
+      "id": "p0049",
+      "text": "20 Cf. note 18."
+    },
+    {
+      "id": "p0050",
+      "text": "21 Here there is a difficulty which may easily obscure the true position of things and thus rouse distrust of the correctness of my view. If we compare the expression “the truth-value of the circumstance that A falls under the concept ®(£)” with “P(A)”, we see that to the “®(A)” properly corresponds “the truth-value of the circumstance that (4) falls under the concept ®(é)” and not"
+    },
+    {
+      "id": "p0051",
+      "text": "“the concept ®(€)”. The last words do not therefore really designate a concept (in my sense of the word), though they have the appearance of doing so in our linguistic form. With regard to the constrained position in which language here finds itself, cf. my essay “Ueber Begriff und Gegenstand” mentioned in"
+    },
+    {
+      "id": "p0052",
+      "text": "note 14"
+    },
+    {
+      "id": "p0053",
+      "text": "124 THE MONIST."
+    },
+    {
+      "id": "p0054",
+      "text": "yet in a mere equation; by “2+ 3=5” only a truth-value is designated and it is not stated which of the two it is. Again, if I write “(2+3=—5)—=(2=2)” and presuppose that we know that 2=—2 is the true, yet I would not have asserted by that the sum of 2 and 3 is 5, but I would only have designated the truth-value of the circumstance that “2-+3=5” denotes the same as “2==2”. Thus we need a special sign to assert that something or other is true. For this purpose I write what I call a “sign of assertion” just before the name of the truth-value, so that if this sign is written just before “2? 4”,” it is asserted that the square of 2 is 4. I make a distinction between “judgment” (Urtheil) and “thought” (Gedanken), and understand by “judgment” the recognition of the truth of a “thought.” I shall call the ideographic representation of a judgment by means of the sign of assertion an “ideographic theorem” or more shortly a “theorem.” I regard this sign of assertion as composed of a vertical line, which I call “line of judgment” (Urtheilsstrich), and a short straight horizontal line proceeding from the middle of the vertical line and going toward the right, which I will simply call the “horizontal line” (Wagerechte). In my Begriffsschrift I called this last line the “line of content” (Inhaltsstrich) and at that time I expressed by the words “judicable content” (beurtheilbarer Inhalt) what I have now arrived at distinguishing into truth-value and thought.” The horizontal line most often occurs in combination with other signs, as it does here with the line of judgment, and is thus guarded against confusion with the minus sign. Wherever it occurs by itself it must be made somewhat longer than the minus sign for purposes of dis-"
+    },
+    {
+      "id": "p0055",
+      "text": "22T often use here the notations of sum, product, and power in order conveniently to form examples and to facilitate understanding by means of hints, eet these signs are not yet defined in this place. But we must keep in view the fact that nothing is founded on the denotations of these signs."
+    },
+    {
+      "id": "p0056",
+      "text": "28 Cf. my essay “Ueber Sinn und, Bedeutung” cited above."
+    },
+    {
+      "id": "p0057",
+      "text": "UMI"
+    },
+    {
+      "id": "p0058",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION. 125"
+    },
+    {
+      "id": "p0059",
+      "text": "tinction. I regard it as a name of a function in the way that “A” preceded by this sign denotes the true if A is the true, and the false if A is not the true. Of course the sign “A” must denote an object; names without denotation may not occur in our ideography. The above arrangement is made so that “A” preceded by a horizontal line denotes something under all circumstances if only “A” denotes something. If not, “§” preceded by a horizontal line would not denote a concept with sharp boundaries,—and thus would not denote a concept in my sense. I here use capital Greek letters as names denoting something without my saying what their denotations are. In the actual developments of my ideography they will not occur any more than “€” and “C”. The above “§” preceded by a horizontal line denotes a function whose value is always a truthvalue or, by what I have said, a concept. Under this concept falls the true and this only. Thus “2*= 4” preceded by a horizontal line denotes the same thing as “274”, namely the true. In order to do away with brackets, I lay down that all which stands to the right of the horizontal line is to be regarded as a whole which stands at the argument-place of the function denoted by “&” preceded by a horizontal line, unless brackets forbid this. The sign “2*= 5” preceded by a horizontal line denotes the false and thus the same as “2?== 5”, whereas “2” preceded by a horizontal line denotes the false, and thus something different from the number 2. If “A” is a truthvalue, A preceded by a horizontal line is the same truthvalue, and thus the equation of “A” to “A” preceded by a horizontal line denotes the true. But this equation denotes the false is A is not a truth-value; so that we can say that it denotes the truth-value of the circumstances that A is a truth-value."
+    },
+    {
+      "id": "p0060",
+      "text": "Thus the function “®(§)” preceded by a horizontal line, denotes a concept and the function “W(E,C)” pre-"
+    },
+    {
+      "id": "p0061",
+      "text": "126 THE MONIST."
+    },
+    {
+      "id": "p0062",
+      "text": "ceded by a horizontal line, denotes a relation, whether or not ®(£&) is a concept and W(E,C) is a relation."
+    },
+    {
+      "id": "p0063",
+      "text": "Of the two signs out of which the sign of assertion is composed the line of judgment alone contains the assertion."
+    },
+    {
+      "id": "p0064",
+      "text": "We need no sign to declare that a truth-value is the false, if only we have a sign by which either truth-value is changed into the other. This sign is also indispensable on other grounds. I now lay down that the value of the function denoted by “§” preceded by a horizontal line from the middle of which hangs a small vertical line directed downward and called the “line of denial” (Verneinungsstrich), so that the whole is like a sign of assertion turned round on its face, is to denote the false for every argument for which the value of the function denoted by “§” preceded by a horizontal line is the true. For all other arguments the function under definition is to be the true. The function thus defined may be called “the negation of —”, and thus its value is always a truth-value; it is a concept under which all objects fall with the single exception of the true. From this it follows that horizontal lines, whether or not they form part of a sign of negation, can be combined with immediately preceding or following simple horizontal lines in such a way that the latter, so to speak, lose their separate existence and melt into the former (Verschmelzung der Wagerechten)."
+    },
+    {
+      "id": "p0065",
+      "text": "Thus “the negation of 2?=5” denotes the true; and thus we may put the sign of assertion so as to join on to the left of the sign of negation. We may assert, too, the negation of 2."
+    },
+    {
+      "id": "p0066",
+      "text": "I have already used the sign of equality to form examples, but it is necessary to lay down something more accurate about it. The sign “I‘'=A” is to denote the true if I’ is the same as A, and the false in all other cases."
+    },
+    {
+      "id": "p0067",
+      "text": "In order to dispense with brackets as far as possible, I lay down that all which stands on the left of the sign"
+    },
+    {
+      "id": "p0068",
+      "text": "CLASS, FUNCTION, CONCEPT, RELATION. 127"
+    },
+    {
+      "id": "p0069",
+      "text": "of equality as far as the nearest horizontal line is to denote the €-argument of the function =C, in so far as brackets do not forbid this; and that all which stands on the right of the sign of equality as far as the next sign of equality is to denote the C-argument of that function in so far as brackets do not forbid this."
+    },
+    {
+      "id": "p0070",
+      "text": "GOTTLOB FREGE."
+    },
+    {
+      "id": "p0071",
+      "text": "Jena, GERMANY."
+    }
+  ],
+  "anchors": {
+    "frege-function-argument": {
+      "paragraphId": "p0026",
+      "start": 1459,
+      "end": 1566,
+      "quote": "The expression of a function needs completion (ist ergänzungsbedürftig) and is not satisfied (ungesättigt).",
+      "match": "normalized-exact"
+    }
+  }
+}

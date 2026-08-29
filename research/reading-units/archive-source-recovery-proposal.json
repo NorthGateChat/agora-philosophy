@@ -1,0 +1,664 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T12:47:45Z",
+  "purpose": "Merge proposal for bounded public-domain reading-unit sources recovered from Internet Archive OCR; this file does not mutate the active override or derived manifests.",
+  "scope": {
+    "inventoryPath": "research/reading-units/inventory.json",
+    "inventoryUnitCount": 660,
+    "indexPath": "public/readings/index.json",
+    "indexUnitCount": 660,
+    "startingMissingCount": 158,
+    "proposedUnitCount": 15,
+    "proposedThoughtCount": 21,
+    "artifactCount": 6,
+    "largestArtifactBytes": 153015,
+    "maximumAllowedArtifactBytes": 614400
+  },
+  "exclusions": [
+    {
+      "cluster": "Averroes, The Decisive Treatise, Part I",
+      "reason": "Explicitly deferred after cross-URL natural-unit deduplication; no artifact or override is proposed here.",
+      "currentUnitIds": [
+        "ru-the-decisive-treatise-part-i-6fdef658"
+      ],
+      "retiredUnitIdsObservedBeforeInventoryRegeneration": [
+        "ru-the-decisive-treatise-part-i-477f6110",
+        "ru-the-decisive-treatise-part-i-70c67975",
+        "ru-the-decisive-treatise-part-i-2bd39874"
+      ]
+    },
+    {
+      "cluster": "Yoga Sutra, Book I",
+      "reason": "Explicitly deferred because the same natural unit remains represented by two source URLs; neither old unit receives an artifact or override.",
+      "currentUnitIds": [
+        "ru-yoga-sutra-book-i-74383838",
+        "ru-yoga-sutra-book-i-b70c96b7"
+      ]
+    }
+  ],
+  "sourceOverrideProposal": {
+    "schemaVersion": 1,
+    "bySourceUrl": {
+      "https://archive.org/details/thirteenprincipa00hume": {
+        "localPath": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt"
+      },
+      "https://archive.org/details/yogasystemofpata00pata": {
+        "localPath": "research/source-cache/reading-unit-derived/woods-yoga-system-1914-books-ii-iii-collected-translation.txt"
+      },
+      "https://archive.org/details/gainastras01aco": {
+        "localPath": "research/source-cache/reading-unit-derived/jacobi-acaranga-sutra-1884-book-i-lecture-2-lesson-3.txt"
+      },
+      "https://archive.org/details/bhagavadgtwi00tela": {
+        "localPath": "research/source-cache/reading-unit-derived/telang-bhagavad-gita-1882-chapters-ii-vi.txt"
+      },
+      "https://archive.org/details/mimamsasutra00jaimuoft": {
+        "localPath": "research/source-cache/reading-unit-derived/sandal-mimamsa-sutra-1923-chapter-i.txt"
+      },
+      "https://archive.org/details/in.ernet.dli.2015.344459": {
+        "localPath": "research/source-cache/reading-unit-derived/jaini-tattvarthadhigama-sutra-1920-chapters-1-5-7-8.txt"
+      }
+    },
+    "byUnitId": {
+      "ru-brihadaranyaka-upanishad-section-2-3-fdee26aa": {
+        "startPattern": "^BRIHADARANYAKA UPANISHAD — SECTION 2\\.3$",
+        "endPattern": "^BRIHADARANYAKA UPANISHAD — SECTION 2\\.4$"
+      },
+      "ru-brihadaranyaka-upanishad-section-2-4-5830fb95": {
+        "startPattern": "^BRIHADARANYAKA UPANISHAD — SECTION 2\\.4$",
+        "endPattern": "^CHANDOGYA UPANISHAD — SECTION 6\\.8$"
+      },
+      "ru-chandogya-upanishad-section-6-8-00d9ad1a": {
+        "startPattern": "^CHANDOGYA UPANISHAD — SECTION 6\\.8$",
+        "endPattern": "^KATHA UPANISHAD — SECTION 1\\.3$"
+      },
+      "ru-katha-upanishad-section-1-3-98b04cff": {
+        "startPattern": "^KATHA UPANISHAD — SECTION 1\\.3$",
+        "endPattern": "^ISHA UPANISHAD — WHOLE WORK$"
+      },
+      "ru-isha-upanishad-whole-work-407fcc5f": {
+        "startPattern": "^ISHA UPANISHAD — WHOLE WORK$",
+        "endPattern": "^END OF SELECTED READING UNITS$"
+      },
+      "ru-yoga-sutra-book-ii-0da88639": {
+        "startPattern": "^YOGA SUTRAS — BOOK II$",
+        "endPattern": "^YOGA SUTRAS — BOOK III$"
+      },
+      "ru-yoga-sutra-book-iii-2288d0a3": {
+        "startPattern": "^YOGA SUTRAS — BOOK III$",
+        "endPattern": "^END OF SELECTED READING UNITS$"
+      },
+      "ru-acaranga-sutra-book-i-lecture-2-lesson-3-056d1a2b": {
+        "startPattern": "^ACARANGA SUTRA — BOOK I, LECTURE 2, LESSON 3$",
+        "endPattern": "^END OF SELECTED READING UNITS$"
+      },
+      "ru-bhagavad-gita-chapter-ii-795f4a22": {
+        "startPattern": "^BHAGAVAD GITA — CHAPTER II$",
+        "endPattern": "^BHAGAVAD GITA — CHAPTER VI$"
+      },
+      "ru-bhagavad-gita-chapter-vi-a7575c0f": {
+        "startPattern": "^BHAGAVAD GITA — CHAPTER VI$",
+        "endPattern": "^END OF SELECTED READING UNITS$"
+      },
+      "ru-mimamsa-sutra-book-1-chapter-1-b371d8ff": {
+        "startPattern": "^MIMAMSA SUTRA — CHAPTER I$",
+        "endPattern": "^END OF SELECTED READING UNITS$"
+      },
+      "ru-tattvartha-sutra-chapter-1-23bc00ba": {
+        "startPattern": "^TATTVARTHA SUTRA — CHAPTER 1$",
+        "endPattern": "^TATTVARTHA SUTRA — CHAPTER 5$"
+      },
+      "ru-tattvartha-sutra-chapter-5-c5db8f52": {
+        "startPattern": "^TATTVARTHA SUTRA — CHAPTER 5$",
+        "endPattern": "^TATTVARTHA SUTRA — CHAPTER 7$"
+      },
+      "ru-tattvartha-sutra-chapter-7-50857351": {
+        "startPattern": "^TATTVARTHA SUTRA — CHAPTER 7$",
+        "endPattern": "^TATTVARTHA SUTRA — CHAPTER 8$"
+      },
+      "ru-tattvartha-sutra-chapter-8-ff336166": {
+        "startPattern": "^TATTVARTHA SUTRA — CHAPTER 8$",
+        "endPattern": "^END OF SELECTED READING UNITS$"
+      }
+    }
+  },
+  "derivedArtifacts": [
+    {
+      "outputPath": "research/source-cache/reading-unit-derived/hume-thirteen-principal-upanishads-1921-selected-units.txt",
+      "outputBytes": 26344,
+      "outputSha256": "d892372459e626f18fecccea25659ea290b385504ea9eaa832c49c95cbd4ff53",
+      "sourceUrl": "https://archive.org/details/thirteenprincipa00hume",
+      "retrievalUrl": "https://archive.org/download/thirteenprincipa00hume/thirteenprincipa00hume_djvu.txt",
+      "sourceSha256": "ec0e1158460a6d8b547970f72308aa625009f5a08929fcf22bda742bfb96802b",
+      "sourceBytes": 1291813,
+      "bibliographicEvidence": "Robert Ernest Hume, The Thirteen Principal Upanishads, Oxford University Press, 1921.",
+      "useBasis": "public-domain",
+      "publicDomainEvidence": "The English translation was published in 1921 and is in the U.S. public domain.",
+      "derivation": "Selected the five complete catalog-listed natural sections from the Archive.org full-book OCR, retained their internal headings and surrounding paragraphs, inserted deterministic unit-boundary headings, normalized OCR spacing/page furniture, and documented card-alignment corrections below.",
+      "sourceLineSelections": [
+        {
+          "unitId": "ru-brihadaranyaka-upanishad-section-2-3-fdee26aa",
+          "sourceLinesInclusive": [
+            5884,
+            5939
+          ]
+        },
+        {
+          "unitId": "ru-brihadaranyaka-upanishad-section-2-4-5830fb95",
+          "sourceLinesInclusive": [
+            5940,
+            6189
+          ]
+        },
+        {
+          "unitId": "ru-chandogya-upanishad-section-6-8-00d9ad1a",
+          "sourceLinesInclusive": [
+            14700,
+            14782
+          ]
+        },
+        {
+          "unitId": "ru-katha-upanishad-section-1-3-98b04cff",
+          "sourceLinesInclusive": [
+            21434,
+            21605
+          ]
+        },
+        {
+          "unitId": "ru-isha-upanishad-whole-work-407fcc5f",
+          "sourceLinesInclusive": [
+            22220,
+            22475
+          ]
+        }
+      ],
+      "documentedCorrections": [
+        "Restored the OCR-broken phrase '(neti, neti)' and the catalog's established Ātman diacritic for the Section 2.3 anchor.",
+        "Removed scan footnote/page intrusions from Chandogya 6.8.7 and normalized the cataloged four-sentence card reading ('Reality. ... Ātman') while retaining the complete surrounding Section 6.8.",
+        "Joined the printed verse lines of Katha 1.3.3–4 into continuous text and removed only the internal verse-number interruption from the matched card span."
+      ],
+      "unitIds": [
+        "ru-brihadaranyaka-upanishad-section-2-3-fdee26aa",
+        "ru-brihadaranyaka-upanishad-section-2-4-5830fb95",
+        "ru-chandogya-upanishad-section-6-8-00d9ad1a",
+        "ru-katha-upanishad-section-1-3-98b04cff",
+        "ru-isha-upanishad-whole-work-407fcc5f"
+      ]
+    },
+    {
+      "outputPath": "research/source-cache/reading-unit-derived/woods-yoga-system-1914-books-ii-iii-collected-translation.txt",
+      "outputBytes": 17614,
+      "outputSha256": "ef3ceca8bdbefdb7e69bf92b4262a4b359527f04725c26f104c357434a478793",
+      "sourceUrl": "https://archive.org/details/yogasystemofpata00pata",
+      "sourceTextPath": "research/source-cache/indian-context-batch4/woods-yoga-system-patanjali-1914-ocr.txt",
+      "sourceSha256": "2ecb9efe32e90d407dd78e700c5ff1330888228cbfa832c889ef7fc7814ef70e",
+      "bibliographicEvidence": "James Haughton Woods, The Yoga-System of Patañjali, Harvard University Press, 1914.",
+      "useBasis": "public-domain",
+      "publicDomainEvidence": "The English translation was published in 1914 and is in the U.S. public domain.",
+      "derivation": "Selected the complete collected-translation blocks for Books II and III; Book I was deliberately omitted after the cross-URL duplication audit.",
+      "sourceLineSelections": [
+        {
+          "unitId": "ru-yoga-sutra-book-ii-0da88639",
+          "sourceLinesInclusive": [
+            1620,
+            1815
+          ]
+        },
+        {
+          "unitId": "ru-yoga-sutra-book-iii-2288d0a3",
+          "sourceLinesInclusive": [
+            1816,
+            1984
+          ]
+        }
+      ],
+      "documentedCorrections": [
+        "Normalized the OCR form '(avidya)' to '(avidyā)' in the matched Book II anchor.",
+        "The collected-translation table at source lines 1731–1733 omits the predicate of II.29; restored 'are the eight aids.' from the same edition's main translation at source lines 11350–11353 (print p. 177)."
+      ],
+      "unitIds": [
+        "ru-yoga-sutra-book-ii-0da88639",
+        "ru-yoga-sutra-book-iii-2288d0a3"
+      ]
+    },
+    {
+      "outputPath": "research/source-cache/reading-unit-derived/jacobi-acaranga-sutra-1884-book-i-lecture-2-lesson-3.txt",
+      "outputBytes": 4190,
+      "outputSha256": "34eb43532bd7f46e83115c8ba94e2e9267871da6caa9ee7995b0c52d77411339",
+      "sourceUrl": "https://archive.org/details/gainastras01aco",
+      "sourceTextPath": "research/source-cache/indian-source-audit-batch10/jacobi-jaina-sutras-part1-1884-djvu.txt",
+      "sourceSha256": "a31f5e0dedbd8026acd60498a2d604e96a9426fdf3d3a702a630c450a0cf05ad",
+      "bibliographicEvidence": "Hermann Jacobi, Jaina Sutras, Part I, Sacred Books of the East, vol. XXII, 1884.",
+      "useBasis": "public-domain",
+      "publicDomainEvidence": "The English translation was published in 1884 and is in the U.S. public domain.",
+      "derivation": "Selected the complete Third Lesson of Book I, Lecture 2, preserving every numbered paragraph and the next-lesson boundary.",
+      "sourceLineSelections": [
+        {
+          "unitId": "ru-acaranga-sutra-book-i-lecture-2-lesson-3-056d1a2b",
+          "sourceLinesInclusive": [
+            3334,
+            3453
+          ]
+        }
+      ],
+      "documentedCorrections": [
+        "Removed two plain OCR footnote-number intrusions inside the matched continuous sentence; no lexical content was changed."
+      ],
+      "unitIds": [
+        "ru-acaranga-sutra-book-i-lecture-2-lesson-3-056d1a2b"
+      ]
+    },
+    {
+      "outputPath": "research/source-cache/reading-unit-derived/telang-bhagavad-gita-1882-chapters-ii-vi.txt",
+      "outputBytes": 25880,
+      "outputSha256": "f7a24050f5014a32738635e56f088a86285c2a7022ee32f363a8b5ae5817af1f",
+      "sourceUrl": "https://archive.org/details/bhagavadgtwi00tela",
+      "sourceTextPath": "research/source-cache/indian-source-audit-batch2/telang-bhagavadgita-sbe8-1882.txt",
+      "sourceSha256": "45c02fa58fd6c39cf2f95e742b376f14db74bf0a1aca268199f56f92301e5284",
+      "bibliographicEvidence": "Kashinath Trimbak Telang, The Bhagavadgita, Sacred Books of the East, vol. VIII, 1882.",
+      "useBasis": "public-domain",
+      "publicDomainEvidence": "The English translation was published in 1882 and is in the U.S. public domain.",
+      "derivation": "Selected complete Chapters II and VI from the full-book OCR, including every verse and the following chapter/end boundary.",
+      "sourceLineSelections": [
+        {
+          "unitId": "ru-bhagavad-gita-chapter-ii-795f4a22",
+          "sourceLinesInclusive": [
+            2137,
+            2617
+          ]
+        },
+        {
+          "unitId": "ru-bhagavad-gita-chapter-vi-a7575c0f",
+          "sourceLinesInclusive": [
+            3314,
+            3608
+          ]
+        }
+      ],
+      "documentedCorrections": [
+        "Removed interleaved page-footnote blocks from the two matched continuous verses and restored only their line-break joins; this follows the index locators' explicit 'footnote numbers removed' policy."
+      ],
+      "unitIds": [
+        "ru-bhagavad-gita-chapter-ii-795f4a22",
+        "ru-bhagavad-gita-chapter-vi-a7575c0f"
+      ]
+    },
+    {
+      "outputPath": "research/source-cache/reading-unit-derived/sandal-mimamsa-sutra-1923-chapter-i.txt",
+      "outputBytes": 68260,
+      "outputSha256": "9f7841d291b9152d611e777226e32f910a704df60c9906aa1b25a31eb4de81de",
+      "sourceUrl": "https://archive.org/details/mimamsasutra00jaimuoft",
+      "sourceTextPath": "research/source-cache/indian-source-audit-batch7/jaimini-mimamsa-sutra-sandal-1923-djvu.xml",
+      "sourceSha256": "c440fc3a3288174012223da1cb7757fcb88dccfa4c0c943392f92a1b64a99229",
+      "sourceBytes": 28120653,
+      "bibliographicEvidence": "Mohan Lal Sandal, The Mimamsa Sutras of Jaimini, Sacred Books of the Hindus, vol. XXVII, part I, 1923.",
+      "useBasis": "public-domain",
+      "publicDomainEvidence": "The English translation was published in 1923 and is in the U.S. public domain.",
+      "derivation": "Flattened the Archive.org DjVuXML WORD nodes while retaining line, paragraph, and page boundaries, then selected the complete Chapter I from its chapter heading through 'END OF PADA IV.' immediately before Chapter II.",
+      "sourceBoundaryEvidence": {
+        "start": "Second content occurrence of 'CHAPTER I.' after the table of contents",
+        "endInclusive": "END OF PADA IV.",
+        "nextNaturalBoundary": "CHAPTER II. / PADA I."
+      },
+      "documentedCorrections": [
+        "Corrected the single OCR form \"th'ng\" to \"thing\" in Sutra 1.1.4; the complete card sentence is otherwise preserved from the source OCR."
+      ],
+      "unitIds": [
+        "ru-mimamsa-sutra-book-1-chapter-1-b371d8ff"
+      ]
+    },
+    {
+      "outputPath": "research/source-cache/reading-unit-derived/jaini-tattvarthadhigama-sutra-1920-chapters-1-5-7-8.txt",
+      "outputBytes": 153015,
+      "outputSha256": "7acca189bbc1e03bfc225860ce982fb90e0dd962564c7dd03f4c91249bb03bef",
+      "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.344459",
+      "retrievalUrl": "https://archive.org/download/in.ernet.dli.2015.344459/2015.344459.Tattvarthadhigama-Sutra.pdf",
+      "sourceSha256": "01228c94f17f97b11860e1a389b55eee26c95862f5b33893883da2e1aff071b9",
+      "sourceBytes": 8080785,
+      "bibliographicEvidence": "J. L. Jaini, Tattvarthadhigama Sutra, Sacred Books of the Jainas, vol. II, 1920.",
+      "useBasis": "public-domain",
+      "publicDomainEvidence": "The English translation was published in 1920 and is in the U.S. public domain.",
+      "derivation": "Rendered the exact chapter page ranges from the fixed Archive.org PDF at 260 dpi grayscale and ran local Tesseract 5.5.3 English OCR with page segmentation mode 3. Page markers preserve scan-to-print pagination; five card spans were proofread against the cited scan pages and corrected exactly.",
+      "sourcePageSelectionsInclusive": [
+        {
+          "unitId": "ru-tattvartha-sutra-chapter-1-23bc00ba",
+          "pdfPages": [
+            22,
+            69
+          ],
+          "printPages": [
+            1,
+            48
+          ],
+          "nextChapterHeadingPdfPage": 70
+        },
+        {
+          "unitId": "ru-tattvartha-sutra-chapter-5-c5db8f52",
+          "pdfPages": [
+            130,
+            144
+          ],
+          "printPages": [
+            109,
+            123
+          ],
+          "nextChapterHeadingPdfPage": 145
+        },
+        {
+          "unitId": "ru-tattvartha-sutra-chapter-7-50857351",
+          "pdfPages": [
+            158,
+            175
+          ],
+          "printPages": [
+            137,
+            154
+          ],
+          "nextChapterHeadingPdfPage": 176
+        },
+        {
+          "unitId": "ru-tattvartha-sutra-chapter-8-ff336166",
+          "pdfPages": [
+            176,
+            195
+          ],
+          "printPages": [
+            155,
+            174
+          ],
+          "nextChapterHeadingPdfPage": 196
+        }
+      ],
+      "documentedCorrections": [
+        "Proofread Sutra 1.1 on PDF p. 22 / print p. 1 for the three-jewels card.",
+        "Proofread Sutras 5.21 and 5.30 on PDF pp. 138 and 141 / print pp. 117 and 120 for the mutual-support and change-persistence cards.",
+        "Proofread Sutra 7.1 on PDF p. 158 / print p. 137 for the complete five-vow list.",
+        "Corrected the OCR heading 'SUTRA 9' to 'SUTRA 2' and proofread both sentences of Sutra 8.2 on PDF p. 178 / print p. 157."
+      ],
+      "unitIds": [
+        "ru-tattvartha-sutra-chapter-1-23bc00ba",
+        "ru-tattvartha-sutra-chapter-5-c5db8f52",
+        "ru-tattvartha-sutra-chapter-7-50857351",
+        "ru-tattvartha-sutra-chapter-8-ff336166"
+      ]
+    }
+  ],
+  "unitBoundaryAndQuoteEvidence": [
+    {
+      "unitId": "ru-acaranga-sutra-book-i-lecture-2-lesson-3-056d1a2b",
+      "naturalUnit": "Acaranga Sutra, Book I, Lecture 2, Third Lesson",
+      "artifactLineRangeInclusive": [
+        1,
+        115
+      ],
+      "thoughtIds": [
+        "indian-jain-living-beings"
+      ],
+      "quoteCheck": "matched",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 27,
+      "characterCount": 4095,
+      "contentHash": "960abff33fc6e2383b055575d6975c1e3a85d36a783a614ebe2905bc9b488dd8"
+    },
+    {
+      "unitId": "ru-bhagavad-gita-chapter-ii-795f4a22",
+      "naturalUnit": "Bhagavad Gita, complete Chapter II",
+      "artifactLineRangeInclusive": [
+        1,
+        424
+      ],
+      "thoughtIds": [
+        "indian-gita-action-fruit",
+        "indian-gita-equanimity"
+      ],
+      "quoteCheck": "matched",
+      "matchedThoughtCount": 2,
+      "thoughtCount": 2,
+      "paragraphCount": 97,
+      "characterCount": 15575,
+      "contentHash": "b93f377518f091ccc649da6f4999bcd18c54c6650bd47487f6cf8a34ea0434e6"
+    },
+    {
+      "unitId": "ru-bhagavad-gita-chapter-vi-a7575c0f",
+      "naturalUnit": "Bhagavad Gita, complete Chapter VI",
+      "artifactLineRangeInclusive": [
+        425,
+        681
+      ],
+      "thoughtIds": [
+        "indian-gita-self-lift"
+      ],
+      "quoteCheck": "matched",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 52,
+      "characterCount": 9935,
+      "contentHash": "12b3930174e9e5b9fffaaf360276a61ba3cc3a73d98265e14350d63a637f6ea9"
+    },
+    {
+      "unitId": "ru-brihadaranyaka-upanishad-section-2-3-fdee26aa",
+      "naturalUnit": "Brihadaranyaka Upanishad, complete Section 2.3",
+      "artifactLineRangeInclusive": [
+        1,
+        51
+      ],
+      "thoughtIds": [
+        "indian-upanishad-neti-neti"
+      ],
+      "quoteCheck": "matched",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 13,
+      "characterCount": 1984,
+      "contentHash": "320965aba611425501848f1773f16f2d1932805578a897bb53dc6974cc3388ca"
+    },
+    {
+      "unitId": "ru-brihadaranyaka-upanishad-section-2-4-5830fb95",
+      "naturalUnit": "Brihadaranyaka Upanishad, complete Section 2.4",
+      "artifactLineRangeInclusive": [
+        52,
+        285
+      ],
+      "thoughtIds": [
+        "indian-upanishad-relational-love"
+      ],
+      "quoteCheck": "matched",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 61,
+      "characterCount": 9842,
+      "contentHash": "e86c4ef249bd1e4c005a71cc73a4a0f382fe7e48d86a1711f0ca7ab6ef34be7e"
+    },
+    {
+      "unitId": "ru-chandogya-upanishad-section-6-8-00d9ad1a",
+      "naturalUnit": "Chandogya Upanishad, complete Section 6.8",
+      "artifactLineRangeInclusive": [
+        286,
+        358
+      ],
+      "thoughtIds": [
+        "indian-upanishad-tat-tvam-asi"
+      ],
+      "quoteCheck": "matched-after-documented-card-normalization",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 18,
+      "characterCount": 2793,
+      "contentHash": "736fa3fbfe5b8a0f732d9febba96378482076da17aea31ed61b9de8112ea3978"
+    },
+    {
+      "unitId": "ru-isha-upanishad-whole-work-407fcc5f",
+      "naturalUnit": "Isha Upanishad, complete work",
+      "artifactLineRangeInclusive": [
+        514,
+        755
+      ],
+      "thoughtIds": [
+        "indian-upanishad-renunciation-enjoyment"
+      ],
+      "quoteCheck": "matched",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 95,
+      "characterCount": 7121,
+      "contentHash": "a109d58ee6502b5878f449842048deec30ed1f1a9facc425c60feed53e7e1259"
+    },
+    {
+      "unitId": "ru-katha-upanishad-section-1-3-98b04cff",
+      "naturalUnit": "Katha Upanishad, complete Section 1.3",
+      "artifactLineRangeInclusive": [
+        359,
+        513
+      ],
+      "thoughtIds": [
+        "indian-upanishad-chariot"
+      ],
+      "quoteCheck": "matched-after-lineation-normalization",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 65,
+      "characterCount": 3647,
+      "contentHash": "544653950a7fd59bb790cc8937a5f1fe22f0bc3e703146efd67c527316cb4cd2"
+    },
+    {
+      "unitId": "ru-yoga-sutra-book-ii-0da88639",
+      "naturalUnit": "Yoga Sutras, complete collected translation of Book II",
+      "artifactLineRangeInclusive": [
+        1,
+        192
+      ],
+      "thoughtIds": [
+        "indian-yoga-eight-limbs",
+        "indian-yoga-five-afflictions"
+      ],
+      "quoteCheck": "matched-with-same-edition-II.29-corroboration",
+      "matchedThoughtCount": 2,
+      "thoughtCount": 2,
+      "paragraphCount": 51,
+      "characterCount": 8369,
+      "contentHash": "11a9380d31b20fbfce15a5cde2cb440c938c68f3d5a63dae6ea82ff1ebaac9a1"
+    },
+    {
+      "unitId": "ru-yoga-sutra-book-iii-2288d0a3",
+      "naturalUnit": "Yoga Sutras, complete collected translation of Book III",
+      "artifactLineRangeInclusive": [
+        193,
+        357
+      ],
+      "thoughtIds": [
+        "indian-yoga-three-inward-limbs"
+      ],
+      "quoteCheck": "matched",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 25,
+      "characterCount": 9038,
+      "contentHash": "bd97ca5c2a3fd87413475d34f8b036f90d8bba3d06072d398c2c8fe252afb2fe"
+    },
+    {
+      "unitId": "ru-mimamsa-sutra-book-1-chapter-1-b371d8ff",
+      "naturalUnit": "Mimamsa Sutra, complete Chapter I (all four padas)",
+      "artifactLineRangeInclusive": [
+        1,
+        2015
+      ],
+      "thoughtIds": [
+        "indian-mimamsa-injunction-dharma",
+        "indian-mimamsa-inquiry-dharma",
+        "indian-mimamsa-perception-limit",
+        "indian-mimamsa-word-authority"
+      ],
+      "quoteCheck": "matched-after-documented-XML-OCR-correction",
+      "matchedThoughtCount": 4,
+      "thoughtCount": 4,
+      "paragraphCount": 684,
+      "characterCount": 66746,
+      "contentHash": "b1752a249087125802a3f670325505b497de207f6c6930bb338f863dcc9589ee"
+    },
+    {
+      "unitId": "ru-tattvartha-sutra-chapter-1-23bc00ba",
+      "naturalUnit": "Tattvarthadhigama Sutra, complete Chapter 1",
+      "artifactLineRangeInclusive": [
+        1,
+        2404
+      ],
+      "thoughtIds": [
+        "indian-jain-three-jewels"
+      ],
+      "quoteCheck": "matched-after-scan-proofread-OCR",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 672,
+      "characterCount": 80370,
+      "contentHash": "9b6abd04ae1f93e759de8de3eee92e1525520880f452e4b83ed6aea5fea154d7"
+    },
+    {
+      "unitId": "ru-tattvartha-sutra-chapter-5-c5db8f52",
+      "naturalUnit": "Tattvarthadhigama Sutra, complete Chapter 5",
+      "artifactLineRangeInclusive": [
+        2405,
+        3197
+      ],
+      "thoughtIds": [
+        "indian-jain-change-persistence",
+        "indian-jain-mutual-support"
+      ],
+      "quoteCheck": "matched-after-scan-proofread-OCR",
+      "matchedThoughtCount": 2,
+      "thoughtCount": 2,
+      "paragraphCount": 254,
+      "characterCount": 20913,
+      "contentHash": "acb46a094c3888ec053504ed8b08075edac8ac87dfabd077ccab0b7f43d77147"
+    },
+    {
+      "unitId": "ru-tattvartha-sutra-chapter-7-50857351",
+      "naturalUnit": "Tattvarthadhigama Sutra, complete Chapter 7",
+      "artifactLineRangeInclusive": [
+        3198,
+        4112
+      ],
+      "thoughtIds": [
+        "indian-jain-five-vows"
+      ],
+      "quoteCheck": "matched-after-scan-proofread-OCR",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 290,
+      "characterCount": 23775,
+      "contentHash": "859d5fd72176e0f0dda0519e25235bf0f95b189e7483e74193af97735015dbb3"
+    },
+    {
+      "unitId": "ru-tattvartha-sutra-chapter-8-ff336166",
+      "naturalUnit": "Tattvarthadhigama Sutra, complete Chapter 8",
+      "artifactLineRangeInclusive": [
+        4113,
+        5135
+      ],
+      "thoughtIds": [
+        "indian-jain-karmic-bondage"
+      ],
+      "quoteCheck": "matched-after-scan-proofread-OCR",
+      "matchedThoughtCount": 1,
+      "thoughtCount": 1,
+      "paragraphCount": 341,
+      "characterCount": 23572,
+      "contentHash": "bb0ce4cb36a5d5905a4eaace730c74147c66de0c3d6740d5e2f07c85902e48b5"
+    }
+  ],
+  "verification": {
+    "verifiedAt": "2026-08-29T12:49:13.653Z",
+    "method": "runReadingUnitPipeline with the proposal supplied in memory, dryRun=true, allowNetwork=false, against the regenerated 660-unit inventory; no public unit files were written.",
+    "summary": {
+      "considered": 15,
+      "wouldWrite": 15,
+      "failed": 0,
+      "thoughts": 21,
+      "anchorsMatched": 21,
+      "anchorsUnmatched": 0,
+      "duplicateUnboundedClusters": 0,
+      "unboundedNonWholeUnits": 0
+    },
+    "ephemeralReportPath": "/tmp/archive-source-recovery-expanded-verification.json",
+    "buildRun": false
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-theses-on-feuerbach-whole-work-8581bc30",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《关于费尔巴哈的提纲》",
+  "englishWork": "Theses on Feuerbach",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 公版英译，《关于费尔巴哈的提纲》第 11 条",
+  "englishVersion": "Wikisource public-domain English translation, Theses on Feuerbach, Thesis XI",
+  "sourceUrl": "https://en.wikisource.org/wiki/Theses_on_Feuerbach",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Theses_on_Feuerbach",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Theses+on+Feuerbach&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "c9b59e2f582a44277e0a98c00098b3cb4b62bfca9a29fcbe8b3a2221a4357e85"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "fe33bbf82ac1a2ca51f7ec6209211e2deb136cf680b9dce606eeda7c6277251f",
+  "inputHash": "6f702a471505552c79f04c4e1c9c6219490e41e41081b20c28081763b47eabfb",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "I"
+    },
+    {
+      "id": "p0002",
+      "text": "The main deficiency, up to now, in all materialism – including that of Feuerbach – is that the external object, reality and sensibility are conceived only in the form of the object and of our contemplation of it, rather than as sensuous human activity and as practice – as something non-subjective. For this reason, the active aspect has been developed by idealism, in opposition to materialism, though only abstractly, since idealism naturally does not know real, sensuous activity as such. Feuerbach wants sensuous objects, clearly distinguished from mental objects, but he does not conceive human activity in terms of subject and object. That is why, in The Essence of Christianity , he regards only theoretical activity as authentically human, whilst practice is conceived and defined only in its dirty Jewish manifestation. He therefore does not understand the meaning of “revolutionary”, of practical-critical activity."
+    },
+    {
+      "id": "p0003",
+      "text": "II"
+    },
+    {
+      "id": "p0004",
+      "text": "The question whether objective truth can be attributed to human thinking is not a question of theory but a practical question. Man must prove in practice the truth - i.e. the reality and power, the worldliness - of his thinking. Isolated from practice, the controversy over the reality or unreality of thinking is a purely scholastic question."
+    },
+    {
+      "id": "p0005",
+      "text": "III"
+    },
+    {
+      "id": "p0006",
+      "text": "The materialist doctrine that humans are products of circumstances and upbringing and that, therefore, men who change are products of new circumstances and a different upbringing, forgets that circumstances are changed by men themselves, and that it is essential to educate the educator. Necessarily, then, this doctrine divides society into two parts, one of which is placed above society (for example, in the work of Robert Owen)."
+    },
+    {
+      "id": "p0007",
+      "text": "The coincidence of changing circumstance on the one hand, and of human activity or self-changing on the other, can be conceived only as revolutionary practice, and rationally understood."
+    },
+    {
+      "id": "p0008",
+      "text": "IV"
+    },
+    {
+      "id": "p0009",
+      "text": "Feuerbach starts out from the fact of religious self-alienation and the duplication of the world into an imagined religious world and a real world. His work consists in resolving the religious world into its secular basis. He overlooks that, once this work is completed, the central task remains to be done. But the fact that the secular basis detaches from itself and fixes in the clouds as an independent realm can be explained only by the self-negation and self-contradiction within it. This must be first of all understood in the context of its contradictions, and then be revolutionised by the removal of those contradictions. Thus, for instance, once the earthly family is discovered to be the secret of the holy family, the former must then be theoretically critiqued and practically overthrown."
+    },
+    {
+      "id": "p0010",
+      "text": "V"
+    },
+    {
+      "id": "p0011",
+      "text": "Feuerbach, not satisfied with abstract thinking, appeals to sensory intuition; but he does not conceive the realm of the senses in terms of practical, human sensuous activity."
+    },
+    {
+      "id": "p0012",
+      "text": "VI"
+    },
+    {
+      "id": "p0013",
+      "text": "Feuerbach resolves the religious essence into the human essence. But the human essence is not an abstraction inherent in each single individual. In its reality, it is the ensemble of social conditions."
+    },
+    {
+      "id": "p0014",
+      "text": "Feuerbach, who does not undertake a criticism of this real essence, is therefore compelled:"
+    },
+    {
+      "id": "p0015",
+      "text": "1. To abstract from the historical process and to fix the religious sentiment as something by itself and to presuppose an abstract – isolated – human individual;"
+    },
+    {
+      "id": "p0016",
+      "text": "2. For this reason, he can consider the human essence only as a “genus”, as an internal, mute generality which naturally unites the multiplicity of individuals."
+    },
+    {
+      "id": "p0017",
+      "text": "VII"
+    },
+    {
+      "id": "p0018",
+      "text": "Feuerbach therefore does not see that “religious sentiment” is itself a social product, and that the abstract individual that he analyses belongs in reality to a particular social form."
+    },
+    {
+      "id": "p0019",
+      "text": "VIII"
+    },
+    {
+      "id": "p0020",
+      "text": "Social life is essentially practical. All the mysteries which turn theory towards mysticism find their rational solution in human practice and in the understanding of this practice."
+    },
+    {
+      "id": "p0021",
+      "text": "IX"
+    },
+    {
+      "id": "p0022",
+      "text": "The highest point reached by intuitive materialism - that is, materialism which does not comprehend the activity of the senses as practical activity - is the point-of-view of single individuals in “bourgeois society”."
+    },
+    {
+      "id": "p0023",
+      "text": "X"
+    },
+    {
+      "id": "p0024",
+      "text": "The standpoint of the old materialism is “bourgeois” society; the standpoint of the new is human society, or socialised mankind."
+    },
+    {
+      "id": "p0025",
+      "text": "XI"
+    },
+    {
+      "id": "p0026",
+      "text": "Philosophers have only interpreted the world in different ways. What is crucial, however, is to change it."
+    }
+  ],
+  "anchors": {
+    "marx-change-world": {
+      "paragraphId": "p0026",
+      "start": 0,
+      "end": 106,
+      "quote": "Philosophers have only interpreted the world in different ways. What is crucial, however, is to change it.",
+      "match": "normalized-exact"
+    }
+  }
+}

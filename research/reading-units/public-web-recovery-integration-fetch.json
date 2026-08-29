@@ -1,0 +1,1444 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:39:26.724Z",
+  "inventoryPath": "research/reading-units/inventory.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9",
+    "ru-capital-volume-i-chapter-13-f639cec0",
+    "ru-leviathan-part-i-chapter-xiv-8915f0c9",
+    "ru-novum-organum-book-i-d91738cb",
+    "ru-phaedo-whole-work-bcd1301a",
+    "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-general-scholium-416eef44",
+    "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65",
+    "ru-physics-book-ii-chapter-3-45a54ec3",
+    "ru-platos-gorgias-whole-work-6f2011a3",
+    "ru-politics-book-i-chapter-2-6df8fc87",
+    "ru-principal-doctrines-whole-work-dff45861",
+    "ru-the-prince-chapter-xxv-b4879fb8",
+    "ru-the-republic-book-iii-baa7aaf9",
+    "ru-tractatus-logico-philosophicus-major-proposition-4-e3b98d31",
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b",
+    "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db",
+    "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a",
+    "ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a",
+    "ru-capital-volume-i-chapter-vii-f8f21de9",
+    "ru-cosmos-volume-i-introduction-introduction-7f623ec4",
+    "ru-cosmos-volume-i-preface-preface-0978794c",
+    "ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5",
+    "ru-discourses-book-ii-chapter-17-af126ead",
+    "ru-discourses-book-ii-chapter-18-e26bc395",
+    "ru-elements-of-folk-psychology-introduction-introduction-4b0133a0",
+    "ru-ethics-part-ii-3f8d8997",
+    "ru-ethics-part-iv-67d79bde",
+    "ru-ethics-part-v-bf548558",
+    "ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1",
+    "ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc",
+    "ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab",
+    "ru-opticks-book-iii-2a775caf",
+    "ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f",
+    "ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3",
+    "ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1",
+    "ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8",
+    "ru-the-souls-of-black-folk-chapter-i-5be293cf",
+    "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+    "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+    "ru-toward-perpetual-peace-article-second-12cc512d",
+    "ru-toward-perpetual-peace-article-third-870b0243",
+    "ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5",
+    "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+    "ru-principles-of-economics-book-v-chapter-3-33bfefbb",
+    "ru-the-purchasing-power-of-money-chapter-2-63622053"
+  ],
+  "dryRun": false,
+  "allowNetwork": true,
+  "concurrency": 4,
+  "summary": {
+    "considered": 45,
+    "written": 3,
+    "wouldWrite": 0,
+    "resumed": 42,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 71,
+    "anchorsMatched": 71,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 4
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [
+    {
+      "id": "ru-the-republic-book-iii-baa7aaf9",
+      "registeredSourceUrl": "https://classics.mit.edu/Plato/republic.4.iii.html",
+      "characterCount": 69038,
+      "contentHash": "944ddc19d7c66ab04eb99ed1c930624ecf90d285b3b140933d3ff1665b9d77a3"
+    },
+    {
+      "id": "ru-tractatus-logico-philosophicus-major-proposition-4-e3b98d31",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4",
+      "characterCount": 30826,
+      "contentHash": "af3dc870609b22d59b6ff6de17349bc5faaac4f8978ecdd7c01379dcf73efbc8"
+    },
+    {
+      "id": "ru-leviathan-part-i-chapter-xiv-8915f0c9",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_14",
+      "characterCount": 24314,
+      "contentHash": "71272b4da8564b2bef3c1eb181ee5e80f531edc9f1fffc06715ef2116e6d72cf"
+    },
+    {
+      "id": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/Rules_of_Reasoning_in_Philosophy",
+      "characterCount": 5149,
+      "contentHash": "e629d673f3a33c03608deaf5a77bb1316f680a8aef5f69ddf832767f73909b6f"
+    }
+  ],
+  "units": [
+    {
+      "id": "ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-a-dynamical-theory-of-the-electromagnetic-field-part-i-d0f987e9.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 72,
+      "characterCount": 23587,
+      "publicByteCount": 29320,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I"
+        }
+      ],
+      "locatorStructureKey": "part-i",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field/Part_I",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=A+Dynamical+Theory+of+the+Electromagnetic+Field%2FPart+I&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "d739c0017dc8c346b0204c6885f046bd36bb123933bdcbe538141ce7b746e263"
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-i-5d99367b.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 84,
+      "characterCount": 15532,
+      "publicByteCount": 23023,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2"
+        }
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "actualSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=2",
+      "contentHash": "a166501517cc4567473b635f030bb07547e77d5f810a9db580eb7d982f805dfb",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-an-introduction-to-the-principles-of-morals-and--chapter-xiii-6d2f85db.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 15,
+      "characterCount": 1087,
+      "publicByteCount": 3464,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14"
+        }
+      ],
+      "locatorStructureKey": "chapter-xiii",
+      "registeredSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html",
+      "actualSourceUrl": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=14",
+      "contentHash": "8b61bdb2a65a9ebbb33015ee6097864befc129b2969c363ca9cff8f44e94cd3d",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 119,
+      "characterCount": 55594,
+      "publicByteCount": 63839,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-psychology/thorndike-animal-intelligence-1911.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-chapter-laws-of-behavior-in-general",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm",
+      "contentHash": "446ac5fce2b26e4e35ebaf9b8413b80ce9347459f6a395ef94f52e4c5cb21bae",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-animal-intelligence-named-chapter-reasoning-or-inference-ef53757a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 18,
+      "characterCount": 16514,
+      "publicByteCount": 19892,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-psychology/thorndike-animal-intelligence-1911.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-chapter-reasoning-or-inference",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm",
+      "contentHash": "51e05691c04967060982c8cf17065125328b6c12afed7216be4d4c0c0561c3b9",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-capital-volume-i-chapter-13-f639cec0",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-capital-volume-i-chapter-13-f639cec0.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 50,
+      "characterCount": 38583,
+      "publicByteCount": 43023,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_13",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_13"
+        }
+      ],
+      "locatorStructureKey": "chapter-13",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_13",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_13",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Das+Kapital+%28Moore%2C+1906%29%2FChapter+13&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "412a4f8ab6f38b1ce82171d40d6ec55c8d41037dfb0d2dda0e8bacc1eda5d701"
+    },
+    {
+      "id": "ru-capital-volume-i-chapter-vii-f8f21de9",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-capital-volume-i-chapter-vii-f8f21de9.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 81,
+      "characterCount": 59693,
+      "publicByteCount": 65682,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7"
+        }
+      ],
+      "locatorStructureKey": "chapter-vii",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/Das_Kapital_(Moore,_1906)/Chapter_7",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Das+Kapital+%28Moore%2C+1906%29%2FChapter+7&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "fbd0b7d9ab916170051efb5ee4d4de2f8f3ca1e485907707c5b28cb8e04921ee",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-cosmos-volume-i-introduction-introduction-7f623ec4",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-cosmos-volume-i-introduction-introduction-7f623ec4.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 157,
+      "characterCount": 153739,
+      "publicByteCount": 163759,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "introduction-introduction",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html",
+      "contentHash": "6af99a2a30259d899d4aa2933fbcc980a40f2f0e71bc8cb24328f263a4c0379a",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-cosmos-volume-i-preface-preface-0978794c",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-cosmos-volume-i-preface-preface-0978794c.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 8,
+      "characterCount": 11622,
+      "publicByteCount": 14294,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html",
+      "contentHash": "d00321a5aa994fa08ad3954dc8435cb7c49c067e95c78476864b240e01c81522",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-critique-of-pure-reason-transcendental-aesthetic-transcendental-aestheti-9bd214a5.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 61,
+      "characterCount": 55394,
+      "publicByteCount": 60719,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/2/8/4280/4280-0.txt"
+        }
+      ],
+      "locatorStructureKey": "transcendental-aesthetic-transcendental-aesthetic",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/4280/pg4280-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/2/8/4280/4280-0.txt",
+      "contentHash": "2e2947a228603d4278120f0e469e95bbc9de49951533cf80abb362a24dbb99e0",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-discourses-book-ii-chapter-17-af126ead",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-discourses-book-ii-chapter-17-af126ead.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 1,
+      "characterCount": 2152,
+      "publicByteCount": 4096,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt"
+        }
+      ],
+      "locatorStructureKey": "book-ii-chapter-17",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+      "contentHash": "88598e811219933251a0b6de0aab65a4cc7e56ad81452b2a325ad981bf297f12",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-discourses-book-ii-chapter-18-e26bc395",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-discourses-book-ii-chapter-18-e26bc395.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 7,
+      "characterCount": 4710,
+      "publicByteCount": 6547,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt"
+        }
+      ],
+      "locatorStructureKey": "book-ii-chapter-18",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+      "contentHash": "e26d1497b7e8d0b6156dcf43ac8507c05da1cfdcf4c9a6c83d18f819ff4a403d",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-elements-of-folk-psychology-introduction-introduction-4b0133a0",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-elements-of-folk-psychology-introduction-introduction-4b0133a0.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 10,
+      "characterCount": 21533,
+      "publicByteCount": 23598,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-psychology/wundt-elements-folk-psychology-1916.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "introduction-introduction",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/44138/44138-h/44138-h.htm",
+      "contentHash": "a6dd4e5c389f02e57201537590aee9a63056ce8ad093b4b46b0e2fc54e91cdf3",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-ii-3f8d8997",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-ethics-part-ii-3f8d8997.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 226,
+      "characterCount": 100848,
+      "publicByteCount": 113856,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "part-ii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "contentHash": "8183830bb342d0288132f156013721b16616b1124e761499dff9d608f94273c4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-iv-67d79bde",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-ethics-part-iv-67d79bde.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 286,
+      "characterCount": 125317,
+      "publicByteCount": 141760,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 3,
+      "matchedThoughtCount": 3,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "part-iv",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "contentHash": "253db1220fa42761108c1f6ddd982d851568bae1fca35a9b5499db042900051c",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-ethics-part-v-bf548558",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-ethics-part-v-bf548558.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 157,
+      "characterCount": 61338,
+      "publicByteCount": 70551,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/spinoza-ethics-elwes-gutenberg.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "part-v",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+      "contentHash": "b8d468a8385b1b8ea4ca33d156bc0b350314062d503ce4ada5cab8c866fd3feb",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-fear-and-trembling-named-section-preliminary-expectoration-e17c71c1.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 52,
+      "characterCount": 36407,
+      "publicByteCount": 41266,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/60333/pg60333-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/6/0/3/3/60333/60333-0.txt"
+        }
+      ],
+      "locatorStructureKey": "named-section-preliminary-expectoration",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/60333/pg60333-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/6/0/3/3/60333/60333-0.txt",
+      "contentHash": "40a308e8764500cdab2ee47de2d34eba36cdb1f451b354067bfc7c10f0100a69",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-leviathan-part-i-chapter-xiv-8915f0c9",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-leviathan-part-i-chapter-xiv-8915f0c9.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 41,
+      "characterCount": 24314,
+      "publicByteCount": 29012,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_14",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_14"
+        }
+      ],
+      "locatorStructureKey": "part-i-chapter-xiv",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_14",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_14",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Leviathan+%281651%29%2FChapter+14&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "71272b4da8564b2bef3c1eb181ee5e80f531edc9f1fffc06715ef2116e6d72cf"
+    },
+    {
+      "id": "ru-novum-organum-book-i-d91738cb",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-novum-organum-book-i-d91738cb.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "quote-guided-boundary",
+      "paragraphCount": 280,
+      "characterCount": 185035,
+      "publicByteCount": 205266,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science",
+        "western"
+      ],
+      "thoughtCount": 9,
+      "matchedThoughtCount": 9,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/bacon-novum-organum-devey-1902.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm",
+      "contentHash": "571b5273734fd83f27dc8e432dee873d955a4d4cc879b7e9f49ea831bd9b38d9",
+      "sourceOverrideApplied": [
+        "source-url"
+      ]
+    },
+    {
+      "id": "ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 41,
+      "characterCount": 4952,
+      "publicByteCount": 8351,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/economics-context-batch11/ricardo-principles-gitenberg-33310.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm",
+      "contentHash": "b6fe0d0407b20f88e74a3d286b3590675831187c63563653edfac4c28ddaa9d2",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-on-truth-and-lies-in-a-nonmoral-sense-part-i-8fa7baab.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 17,
+      "characterCount": 23882,
+      "publicByteCount": 26680,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/51548/pg51548-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/1/5/4/51548/51548-0.txt"
+        }
+      ],
+      "locatorStructureKey": "part-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/51548/pg51548-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/1/5/4/51548/51548-0.txt",
+      "contentHash": "01aa00a2e36ff65a42d4f33beb58a71c5d5bfc1331073c90ae6bcb3c156a0317",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-opticks-book-iii-2a775caf",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-opticks-book-iii-2a775caf.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 114,
+      "characterCount": 134884,
+      "publicByteCount": 143146,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/newton-opticks-1718-book-iii.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm",
+      "contentHash": "5fcdb3471fe0f2b8c0650b7c7c5f381bb5fe7429450c46cef8d5149332eca7b6",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-phaedo-whole-work-bcd1301a",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-phaedo-whole-work-bcd1301a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 220,
+      "characterCount": 70515,
+      "publicByteCount": 83979,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://classics.mit.edu/Plato/phaedo.html",
+          "status": "selected",
+          "actualUrl": "https://classics.mit.edu/Plato/phaedo.html"
+        }
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://classics.mit.edu/Plato/phaedo.html",
+      "actualSourceUrl": "https://classics.mit.edu/Plato/phaedo.html",
+      "contentHash": "3ec6349eb8d94c415ea3d8d059ba2dce5deb94ed67f060face203c3ebf658c37"
+    },
+    {
+      "id": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-general-scholium-416eef44",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-general-scholium-416eef44.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 9,
+      "characterCount": 12413,
+      "publicByteCount": 14933,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/General_Scholium",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/General_Scholium"
+        }
+      ],
+      "locatorStructureKey": "book-iii-named-section-general-scholium",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/General_Scholium",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/General_Scholium",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=The+Mathematical+Principles+of+Natural+Philosophy+%281729%29%2FGeneral+Scholium&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "676391e8bc3799b44477576a9697f4070afafcf8a7f0843a1cc40db6cb348ea8"
+    },
+    {
+      "id": "ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-philosophi-naturalis-principia-mathematica-book-iii-named-section-rules-of-reasoning-in-phi-8e27ae65.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 19,
+      "characterCount": 5149,
+      "publicByteCount": 9512,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 3,
+      "matchedThoughtCount": 3,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/Rules_of_Reasoning_in_Philosophy",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/Rules_of_Reasoning_in_Philosophy"
+        }
+      ],
+      "locatorStructureKey": "book-iii-named-section-rules-of-reasoning-in-philosophy",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/Rules_of_Reasoning_in_Philosophy",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1729)/Rules_of_Reasoning_in_Philosophy",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=The+Mathematical+Principles+of+Natural+Philosophy+%281729%29%2FRules+of+Reasoning+in+Philosophy&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "e629d673f3a33c03608deaf5a77bb1316f680a8aef5f69ddf832767f73909b6f"
+    },
+    {
+      "id": "ru-physics-book-ii-chapter-3-45a54ec3",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-physics-book-ii-chapter-3-45a54ec3.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 16,
+      "characterCount": 6248,
+      "publicByteCount": 9466,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://classics.mit.edu/Aristotle/physics.2.ii.html",
+          "status": "selected",
+          "actualUrl": "https://classics.mit.edu/Aristotle/physics.2.ii.html"
+        }
+      ],
+      "locatorStructureKey": "book-ii-chapter-3",
+      "registeredSourceUrl": "https://classics.mit.edu/Aristotle/physics.2.ii.html",
+      "actualSourceUrl": "https://classics.mit.edu/Aristotle/physics.2.ii.html",
+      "contentHash": "04e4ee3c00cbf4969eb4c26322c751bcb2ef3b8f75be0cb988fdc175e2792ffa"
+    },
+    {
+      "id": "ru-platos-gorgias-whole-work-6f2011a3",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-platos-gorgias-whole-work-6f2011a3.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 471,
+      "characterCount": 64975,
+      "publicByteCount": 91391,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 2,
+      "matchedThoughtCount": 2,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://classics.mit.edu/Plato/gorgias.html",
+          "status": "selected",
+          "actualUrl": "https://classics.mit.edu/Plato/gorgias.html"
+        }
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://classics.mit.edu/Plato/gorgias.html",
+      "actualSourceUrl": "https://classics.mit.edu/Plato/gorgias.html",
+      "contentHash": "0a9ca5474b7786caf3896c8b3ef9ec4eb246435052b20cb40bacf20812d77d37"
+    },
+    {
+      "id": "ru-politics-book-i-chapter-2-6df8fc87",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-politics-book-i-chapter-2-6df8fc87.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 15,
+      "characterCount": 6208,
+      "publicByteCount": 9135,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://classics.mit.edu/Aristotle/politics.1.one.html",
+          "status": "selected",
+          "actualUrl": "https://classics.mit.edu/Aristotle/politics.1.one.html"
+        }
+      ],
+      "locatorStructureKey": "book-i-chapter-2",
+      "registeredSourceUrl": "https://classics.mit.edu/Aristotle/politics.1.one.html",
+      "actualSourceUrl": "https://classics.mit.edu/Aristotle/politics.1.one.html",
+      "contentHash": "cc94ebf0eae884db2a712c2f699cadf8759f9e6bfc547854c4cc44240098ca47"
+    },
+    {
+      "id": "ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-preface-to-a-contribution-to-the-critique-of-pol-preface-preface-f8308a5f.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 11,
+      "characterCount": 10542,
+      "publicByteCount": 12760,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/46423/pg46423-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/6/4/2/46423/46423-0.txt"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46423/pg46423-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/6/4/2/46423/46423-0.txt",
+      "contentHash": "7deb189e979beba8e9ee90845fda42eb1f46a069938c508f08b12fdc96f200ca",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principal-doctrines-whole-work-dff45861",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-principal-doctrines-whole-work-dff45861.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 45,
+      "characterCount": 10956,
+      "publicByteCount": 19111,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 10,
+      "matchedThoughtCount": 10,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/Principal_Doctrines",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/Principal_Doctrines"
+        }
+      ],
+      "locatorStructureKey": "whole-work",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Principal_Doctrines",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/Principal_Doctrines",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Principal+Doctrines&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "6baf92500944850230d67b203a6e03584da6c989415bbb877740077e21a34338"
+    },
+    {
+      "id": "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-principles-of-economics-book-iii-chapter-4-f9738743.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 89,
+      "characterCount": 36201,
+      "publicByteCount": 42288,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/marshall-principles-book-iii-chapter-iv.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-iii-chapter-4",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "contentHash": "e4640b4520589ccbe75a96a6daf106e4b9181d1191bdc0d92c69c8683e87501c",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principles-of-economics-book-v-chapter-3-33bfefbb",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-principles-of-economics-book-v-chapter-3-33bfefbb.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 80,
+      "characterCount": 11018,
+      "publicByteCount": 16698,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31"
+        }
+      ],
+      "locatorStructureKey": "book-v-chapter-3",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "actualSourceUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+      "contentHash": "3903ce88ca31d1048511383c28d945cbb663ea1acee6340e2c4173bfe08de2f4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-principles-of-political-economy-book-iv-chapter-vi-05e10bb3.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 22,
+      "characterCount": 14424,
+      "publicByteCount": 17057,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64"
+        }
+      ],
+      "locatorStructureKey": "book-iv-chapter-vi",
+      "registeredSourceUrl": "https://www.econlib.org/library/Mill/mlP.html",
+      "actualSourceUrl": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=64",
+      "contentHash": "c743266c69cd369f12fc9799360442e552ba0951cd5592862fcbd91959290cea",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-sidereus-nuncius-named-section-fixed-stars-milky-way-nebulae-c82677d1.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 20,
+      "characterCount": 8389,
+      "publicByteCount": 11146,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-section-fixed-stars-milky-way-nebulae",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+      "contentHash": "adea2dded0bf1641fdbde13a0d1d8f6d3b65de134859572a392383c1924bda1c",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-sidereus-nuncius-named-section-medicean-stars-d78c39e8.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 71,
+      "characterCount": 43536,
+      "publicByteCount": 56294,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/galileo-sidereal-messenger-carlos-1880.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-section-medicean-stars",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/46036/pg46036-images.html",
+      "contentHash": "b43ebd260179c01aa13e322e171239c3220b0baa80b2265b4ea6ed5f1f8bb1cc",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-prince-chapter-xxv-b4879fb8",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-the-prince-chapter-xxv-b4879fb8.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 11,
+      "characterCount": 6682,
+      "publicByteCount": 8656,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/1232/pg1232-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/1/2/3/1232/1232-0.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-xxv",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/1232/pg1232-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/1/2/3/1232/1232-0.txt",
+      "contentHash": "06aad402570554579aa6c1c2b692e3857ee4182c319af47b802b4d2650aa6259"
+    },
+    {
+      "id": "ru-the-purchasing-power-of-money-chapter-2-63622053",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-the-purchasing-power-of-money-chapter-2-63622053.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 62,
+      "characterCount": 11277,
+      "publicByteCount": 16004,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6"
+        }
+      ],
+      "locatorStructureKey": "chapter-2",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/fisher-the-purchasing-power-of-money",
+      "actualSourceUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+      "contentHash": "253a2b49f25d7096579e19cef680121837aed8bf4074c59450609fd32835fbf4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-republic-book-iii-baa7aaf9",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-the-republic-book-iii-baa7aaf9.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 252,
+      "characterCount": 69038,
+      "publicByteCount": 84191,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://classics.mit.edu/Plato/republic.4.iii.html",
+          "status": "selected",
+          "actualUrl": "https://classics.mit.edu/Plato/republic.4.iii.html"
+        }
+      ],
+      "locatorStructureKey": "book-iii",
+      "registeredSourceUrl": "https://classics.mit.edu/Plato/republic.4.iii.html",
+      "actualSourceUrl": "https://classics.mit.edu/Plato/republic.4.iii.html",
+      "contentHash": "944ddc19d7c66ab04eb99ed1c930624ecf90d285b3b140933d3ff1665b9d77a3"
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-i-5be293cf",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-the-souls-of-black-folk-chapter-i-5be293cf.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 22,
+      "characterCount": 17825,
+      "publicByteCount": 20637,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/0/408/408-0.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/0/408/408-0.txt",
+      "contentHash": "074ab24dd5dce0df353411da0576a276f300a044e1b908c8aad1c24d64880d3e",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-the-souls-of-black-folk-chapter-iii-941e14ab.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 40,
+      "characterCount": 28380,
+      "publicByteCount": 32194,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/du-bois-souls-chapter-iii.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "chapter-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "contentHash": "1b6831cfd9b72b66b723249128daa7723753d73113f318d88ac55cce8053becc",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-toward-perpetual-peace-article-second-12cc512d",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-toward-perpetual-peace-article-second-12cc512d.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 20,
+      "characterCount": 14658,
+      "publicByteCount": 17331,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt"
+        }
+      ],
+      "locatorStructureKey": "article-second",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt",
+      "contentHash": "5d01d78269bf2ff086803ab73975c7eafbaa8357ff10b19baa8075a72f5e83ed",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-toward-perpetual-peace-article-third-870b0243",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-toward-perpetual-peace-article-third-870b0243.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 9,
+      "characterCount": 8816,
+      "publicByteCount": 11079,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt"
+        }
+      ],
+      "locatorStructureKey": "article-third",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/50922/pg50922-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/0/9/2/50922/50922-0.txt",
+      "contentHash": "8c69f69edcc647a0a8418c0cf9cef06b45ff3b89999aa68f4e05faf6a5a09926",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 337,
+      "characterCount": 39527,
+      "publicByteCount": 58941,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/reading-unit-derived/tractatus-major-propositions-2-and-4.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "major-propositions-2-and-4",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/2",
+      "contentHash": "3b8c9a844ede2c342621ed048d8713985436a2a339a326e0bdc88f1cac4ba4e8",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-tractatus-logico-philosophicus-major-proposition-4-e3b98d31",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-tractatus-logico-philosophicus-major-proposition-4-e3b98d31.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "whole-document",
+      "paragraphCount": 252,
+      "characterCount": 30826,
+      "publicByteCount": 46215,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4",
+          "status": "selected",
+          "actualUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4"
+        }
+      ],
+      "locatorStructureKey": "major-proposition-4",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4",
+      "actualSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4",
+      "retrievalSourceUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Tractatus+Logico-Philosophicus%2F4&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+      "contentHash": "af3dc870609b22d59b6ff6de17349bc5faaac4f8978ecdd7c01379dcf73efbc8"
+    },
+    {
+      "id": "ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5",
+      "status": "resumed",
+      "outputPath": "public/readings/units/ru-twilight-of-the-idols-named-chapter-the-four-great-errors-e0918ec5.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 28,
+      "characterCount": 25537,
+      "publicByteCount": 29046,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/cache/epub/52263/pg52263-images.html",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/5/2/2/6/52263/52263-0.txt"
+        }
+      ],
+      "locatorStructureKey": "named-chapter-the-four-great-errors",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/52263/pg52263-images.html",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/5/2/2/6/52263/52263-0.txt",
+      "contentHash": "18cc9a7500111b5f8fddc338253a3e14f599538af05de2a125b1ca271af79179",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:21:26.478Z",
+  "inventoryPath": "research/source-cache/public-web-recovery/inventory.temp.json",
+  "overridesPath": "research/source-cache/public-web-recovery/overrides.temp.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b"
+  ],
+  "dryRun": true,
+  "allowNetwork": false,
+  "concurrency": 1,
+  "summary": {
+    "considered": 1,
+    "written": 0,
+    "wouldWrite": 1,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 1,
+    "anchorsMatched": 1,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-tractatus-logico-philosophicus-major-propositions-2-and-4-cd43b50b.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 337,
+      "characterCount": 39527,
+      "publicByteCount": 58941,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/tractatus-major-propositions-2-and-4.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "major-propositions-2-and-4",
+      "registeredSourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/2",
+      "contentHash": "3b8c9a844ede2c342621ed048d8713985436a2a339a326e0bdc88f1cac4ba4e8",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

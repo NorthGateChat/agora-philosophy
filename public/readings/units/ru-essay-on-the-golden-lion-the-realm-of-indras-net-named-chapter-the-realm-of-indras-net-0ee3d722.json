@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-essay-on-the-golden-lion-the-realm-of-indras-net-named-chapter-the-realm-of-indras-net-0ee3d722",
+  "title": "篇 The Realm of Indra's Net",
+  "englishTitle": "Chapter The Realm of Indra's Net",
+  "work": "《华严金师子章·因陀罗网境界门》",
+  "englishWork": "Essay on the Golden Lion, The Realm of Indra's Net",
+  "locator": "篇 The Realm of Indra's Net",
+  "englishLocator": "Chapter The Realm of Indra's Net",
+  "version": "CBETA 官方 TEI《华严经金师子章注·因陀罗网境界门》数字文本；按大正藏行码与卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Official CBETA TEI text of Commentary on the Essay on the Golden Lion, The Realm of Indra's Net; wording checked against the Taishō line numbers and the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://github.com/cbeta-org/xml-p5/blob/master/T/T45/T45n1881.xml",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "248a1ade9c64c40b864639b9b77769459dcc25feea316333bbebf834d7ad995d"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "9ae90bc5de563c4f426e1fb5051680564604f70d41c09f4a914cab36990247cf",
+  "inputHash": "bc7d4e194e216b96d3b64adfec020ebb6204a67070c0aa0dfcc929b38287b710",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "第四因陀羅網境界門者謂師子眼耳支節 一一毛處各有金師子　小法中含大法。"
+    },
+    {
+      "id": "p0002",
+      "text": "一一毛處師子同時頓入一莖毛中各各顯露 皆有無邊師子　一事中含多事。一多頓現。"
+    },
+    {
+      "id": "p0003",
+      "text": "一一毛頭帶此無邊師子還入一莖毛中如是 重重無盡　多入一無礙。"
+    },
+    {
+      "id": "p0004",
+      "text": "若帝網之天珠故名因陀羅網境界門。"
+    }
+  ],
+  "anchors": {
+    "chinese-fazang-golden-lion-nonarising": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 25,
+      "quote": "一一毛处，师子同时顿入，一茎毛中各各显露，皆有无边师子。",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

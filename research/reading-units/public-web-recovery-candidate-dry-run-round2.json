@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:17:49.480Z",
+  "inventoryPath": "research/source-cache/public-web-recovery/inventory.temp.json",
+  "overridesPath": "research/source-cache/public-web-recovery/overrides.temp.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a",
+    "ru-cosmos-volume-i-preface-preface-0978794c",
+    "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+    "ru-the-souls-of-black-folk-chapter-i-5be293cf",
+    "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+    "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+    "ru-principles-of-economics-book-v-chapter-3-33bfefbb",
+    "ru-the-purchasing-power-of-money-chapter-2-63622053"
+  ],
+  "dryRun": true,
+  "allowNetwork": true,
+  "concurrency": 4,
+  "summary": {
+    "considered": 8,
+    "written": 0,
+    "wouldWrite": 5,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 3,
+    "thoughts": 8,
+    "anchorsMatched": 5,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 119,
+      "characterCount": 55594,
+      "publicByteCount": 63839,
+      "serialization": "pretty",
+      "libraryIds": [
+        "psychology"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-psychology/thorndike-animal-intelligence-1911.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "named-chapter-laws-of-behavior-in-general",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm",
+      "contentHash": "446ac5fce2b26e4e35ebaf9b8413b80ce9347459f6a395ef94f52e4c5cb21bae",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-cosmos-volume-i-preface-preface-0978794c",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-cosmos-volume-i-preface-preface-0978794c.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 8,
+      "characterCount": 11622,
+      "publicByteCount": 14294,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html",
+      "contentHash": "d00321a5aa994fa08ad3954dc8435cb7c49c067e95c78476864b240e01c81522",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=13",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-principles-of-economics-book-iii-chapter-4-f9738743 has only 34 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "economics-marshall-elasticity"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "economics-marshall-elasticity"
+        ]
+      },
+      "libraryIds": [
+        "economics"
+      ],
+      "locatorStructureKey": "book-iii-chapter-4",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-principles-of-economics-book-v-chapter-3-33bfefbb",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-principles-of-economics-book-v-chapter-3-33bfefbb.json",
+      "sourceCacheHit": false,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 80,
+      "characterCount": 11018,
+      "publicByteCount": 16698,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31"
+        }
+      ],
+      "locatorStructureKey": "book-v-chapter-3",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "actualSourceUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+      "contentHash": "3903ce88ca31d1048511383c28d945cbb663ea1acee6340e2c4173bfe08de2f4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "economics-mill-production-distribution"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "economics-mill-production-distribution"
+        ]
+      },
+      "libraryIds": [
+        "economics"
+      ],
+      "locatorStructureKey": "book-ii-chapter-i",
+      "registeredSourceUrl": "https://www.econlib.org/library/Mill/mlP.html",
+      "thoughtCount": 1
+    },
+    {
+      "id": "ru-the-purchasing-power-of-money-chapter-2-63622053",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-the-purchasing-power-of-money-chapter-2-63622053.json",
+      "sourceCacheHit": false,
+      "selectionMethod": "matched-heading",
+      "paragraphCount": 62,
+      "characterCount": 11277,
+      "publicByteCount": 16004,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+          "status": "selected",
+          "actualUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6"
+        }
+      ],
+      "locatorStructureKey": "chapter-2",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/fisher-the-purchasing-power-of-money",
+      "actualSourceUrl": "https://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html?chapter_num=6",
+      "contentHash": "253a2b49f25d7096579e19cef680121837aed8bf4074c59450609fd32835fbf4",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-i-5be293cf",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-the-souls-of-black-folk-chapter-i-5be293cf.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 22,
+      "characterCount": 17825,
+      "publicByteCount": 20637,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+          "status": "selected",
+          "actualUrl": "https://gutenberg.pglaf.org/4/0/408/408-0.txt"
+        }
+      ],
+      "locatorStructureKey": "chapter-i",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "actualSourceUrl": "https://gutenberg.pglaf.org/4/0/408/408-0.txt",
+      "contentHash": "074ab24dd5dce0df353411da0576a276f300a044e1b908c8aad1c24d64880d3e",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "status": "failed",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/408/408-h/408-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "du-bois-washington-critique"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-the-souls-of-black-folk-chapter-iii-941e14ab"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "du-bois-washington-critique"
+        ]
+      },
+      "libraryIds": [
+        "western"
+      ],
+      "locatorStructureKey": "chapter-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "thoughtCount": 1
+    }
+  ],
+  "failures": [
+    {
+      "id": "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "libraryIds": [
+        "economics"
+      ],
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=13",
+            "status": "failed",
+            "reason": "source-too-short",
+            "message": "Extracted text for ru-principles-of-economics-book-iii-chapter-4-f9738743 has only 34 characters"
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.copyright.gov/what-is-copyright",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "economics-marshall-elasticity"
+              ]
+            }
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "economics-marshall-elasticity"
+        ]
+      }
+    },
+    {
+      "id": "ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a",
+      "libraryIds": [
+        "economics"
+      ],
+      "registeredSourceUrl": "https://www.econlib.org/library/Mill/mlP.html",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.econlib.org/library/Mill/mlP.html?chapter_num=17",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "economics-mill-production-distribution"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-principles-of-political-economy-book-ii-chapter-i-ab668e9a"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "economics-mill-production-distribution"
+        ]
+      }
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "reason": "all-sources-failed",
+      "message": "No safe readable source produced a matched passage for ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "libraryIds": [
+        "western"
+      ],
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "details": {
+        "attempts": [
+          {
+            "source": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+            "status": "failed",
+            "reason": "quote-not-found",
+            "message": "No registered card quote matched https://www.gutenberg.org/files/408/408-h/408-h.htm",
+            "details": {
+              "matchedThoughtIds": [],
+              "unmatchedThoughtIds": [
+                "du-bois-washington-critique"
+              ]
+            }
+          },
+          {
+            "source": "https://www.copyright.gov/what-is-copyright",
+            "status": "failed",
+            "reason": "section-not-found",
+            "message": "Configured start pattern did not match ru-the-souls-of-black-folk-chapter-iii-941e14ab"
+          }
+        ],
+        "unmatchedThoughtIds": [
+          "du-bois-washington-critique"
+        ]
+      }
+    }
+  ]
+}

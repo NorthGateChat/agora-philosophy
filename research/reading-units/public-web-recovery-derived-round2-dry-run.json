@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T13:23:30.871Z",
+  "inventoryPath": "research/source-cache/public-web-recovery/inventory.temp.json",
+  "overridesPath": "research/source-cache/public-web-recovery/overrides.temp.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+    "ru-the-souls-of-black-folk-chapter-iii-941e14ab"
+  ],
+  "dryRun": true,
+  "allowNetwork": false,
+  "concurrency": 2,
+  "summary": {
+    "considered": 2,
+    "written": 0,
+    "wouldWrite": 2,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 2,
+    "anchorsMatched": 2,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-principles-of-economics-book-iii-chapter-4-f9738743",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-principles-of-economics-book-iii-chapter-4-f9738743.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 89,
+      "characterCount": 36201,
+      "publicByteCount": 42287,
+      "serialization": "pretty",
+      "libraryIds": [
+        "economics"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/marshall-principles-book-iii-chapter-iv.html",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "book-iii-chapter-4",
+      "registeredSourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+      "contentHash": "e4640b4520589ccbe75a96a6daf106e4b9181d1191bdc0d92c69c8683e87501c",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    },
+    {
+      "id": "ru-the-souls-of-black-folk-chapter-iii-941e14ab",
+      "status": "would-write",
+      "outputPath": "research/source-cache/public-web-recovery/dry-run-units/ru-the-souls-of-black-folk-chapter-iii-941e14ab.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 40,
+      "characterCount": 28380,
+      "publicByteCount": 32194,
+      "serialization": "pretty",
+      "libraryIds": [
+        "western"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/public-web-recovery/derived/du-bois-souls-chapter-iii.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "chapter-iii",
+      "registeredSourceUrl": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "contentHash": "1b6831cfd9b72b66b723249128daa7723753d73113f318d88ac55cce8053becc",
+      "sourceOverrideApplied": [
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

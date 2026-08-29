@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T15:00:19.596Z",
+  "inventoryPath": "research/reading-units/inventory.json",
+  "overridesPath": "research/reading-units/source-overrides.json",
+  "inventoryUnitCount": 660,
+  "limited": true,
+  "requestedUnitIds": [
+    "ru-cosmos-volume-i-preface-preface-0978794c"
+  ],
+  "dryRun": false,
+  "allowNetwork": false,
+  "concurrency": 3,
+  "summary": {
+    "considered": 1,
+    "written": 1,
+    "wouldWrite": 0,
+    "resumed": 0,
+    "skipped": 0,
+    "failed": 0,
+    "thoughts": 1,
+    "anchorsMatched": 1,
+    "anchorsUnmatched": 0,
+    "duplicateUnboundedClusters": 0,
+    "duplicateUnboundedUnits": 0,
+    "unboundedNonWholeUnits": 0
+  },
+  "duplicateUnboundedClusters": [],
+  "unboundedNonWholeUnits": [],
+  "units": [
+    {
+      "id": "ru-cosmos-volume-i-preface-preface-0978794c",
+      "status": "written",
+      "outputPath": "public/readings/units/ru-cosmos-volume-i-preface-preface-0978794c.json",
+      "sourceCacheHit": true,
+      "selectionMethod": "configured-pattern",
+      "paragraphCount": 7,
+      "characterCount": 11581,
+      "publicByteCount": 14202,
+      "serialization": "pretty",
+      "libraryIds": [
+        "science"
+      ],
+      "thoughtCount": 1,
+      "matchedThoughtCount": 1,
+      "unmatchedThoughtIds": [],
+      "attempts": [
+        {
+          "source": "research/source-cache/completion-mao-science/humboldt-cosmos-v1-otte-1858.txt",
+          "status": "selected"
+        }
+      ],
+      "locatorStructureKey": "preface-preface",
+      "registeredSourceUrl": "https://www.gutenberg.org/cache/epub/14565/pg14565-images.html",
+      "contentHash": "7da3111e14121866d1870bc180f954566ef8d56df256f8136ce7f1f878ea4b09",
+      "sourceOverrideApplied": [
+        "source-url",
+        "unit-id"
+      ]
+    }
+  ],
+  "failures": []
+}

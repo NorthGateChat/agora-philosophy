@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-the-electrodynamics-of-moving-bodies-introduction-introduction-96163ae0",
+  "title": "导言",
+  "englishTitle": "Introduction",
+  "work": "《论动体的电动力学》",
+  "englishWork": "On the Electrodynamics of Moving Bodies",
+  "locator": "导言",
+  "englishLocator": "Introduction",
+  "version": "Fourmilab 公版电子版，W. Perrett 与 G. B. Jeffery 1923 年英译，《论动体的电动力学》导言第 1 页，脚注 1 之前的连续原句",
+  "englishVersion": "Fourmilab public-domain electronic edition, W. Perrett and G. B. Jeffery translation (1923), On the Electrodynamics of Moving Bodies, Introduction, p. 1, continuous sentence immediately before note 1",
+  "sourceUrl": "https://www.fourmilab.ch/etexts/einstein/specrel/www_2011-04-17",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "dae1a84adc537065c06fb3638cb064fc98e3afe8376ff6405b214fd20f3112e4"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "3999d897ba72843822db117abeb559fde16bd74f9f1757cd3ad0e108d18c95b1",
+  "inputHash": "3d6adcf683dac9bb76afce54669bd6498a589070323e245843e57114dd083136",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Introduction"
+    },
+    {
+      "id": "p0002",
+      "text": "It is known that Maxwell's electrodynamics--as usually understood at the present time--when applied to moving bodies, leads to asymmetries which do not appear to be inherent in the phenomena. Take, for example, the reciprocal electrodynamic action of a magnet and a conductor. The observable phenomenon here depends only on the relative motion of the conductor and the magnet, whereas the customary view draws a sharp distinction between the two cases in which either the one or the other of these bodies is in motion. For if the magnet is in motion and the conductor at rest, there arises in the neighbourhood of the magnet an electric field with a certain definite energy, producing a current at the places where parts of the conductor are situated. But if the magnet is stationary and the conductor in motion, no electric field arises in the neighbourhood of the magnet. In the conductor, however, we find an electromotive force, to which in itself there is no corresponding energy, but which gives rise--assuming equality of relative motion in the two cases discussed--to electric currents of the same path and intensity as those produced by the electric forces in the former case."
+    },
+    {
+      "id": "p0003",
+      "text": "Examples of this sort, together with the unsuccessful attempts to discover any motion of the earth relatively to the ``light medium,'' suggest that the phenomena of electrodynamics as well as of mechanics possess no properties corresponding to the idea of absolute rest. They suggest rather that, as has already been shown to the first order of small quantities, the same laws of electrodynamics and optics will be valid for all frames of reference for which the equations of mechanics hold good. 1 We will raise this conjecture (the purport of which will hereafter be called the ``Principle of Relativity'') to the status of a postulate, and also introduce another postulate, which is only apparently irreconcilable with the former, namely, that light is always propagated in empty space with a definite velocity c which is independent of the state of motion of the emitting body. These two postulates suffice for the attainment of a simple and consistent theory of the electrodynamics of moving bodies based on Maxwell's theory for stationary bodies. The introduction of a ``luminiferous ether'' will prove to be superfluous inasmuch as the view here to be developed will not require an ``absolutely stationary space'' provided with special properties, nor assign a velocity-vector to a point of the empty space in which electromagnetic processes take place."
+    },
+    {
+      "id": "p0004",
+      "text": "The theory to be developed is based--like all electrodynamics--on the kinematics of the rigid body, since the assertions of any such theory have to do with the relationships between rigid bodies (systems of co-ordinates), clocks, and electromagnetic processes. Insufficient consideration of this circumstance lies at the root of the difficulties which the electrodynamics of moving bodies at present encounters."
+    }
+  ],
+  "anchors": {
+    "science-einstein-relativity-postulates": {
+      "paragraphId": "p0003",
+      "start": 499,
+      "end": 881,
+      "quote": "We will raise this conjecture (the purport of which will hereafter be called the ‘Principle of Relativity’) to the status of a postulate, and also introduce another postulate, which is only apparently irreconcilable with the former, namely, that light is always propagated in empty space with a definite velocity c which is independent of the state of motion of the emitting body.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

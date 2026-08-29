@@ -1,0 +1,507 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-animal-intelligence-named-chapter-laws-of-behavior-in-general-967ac42a",
+  "title": "Laws of Behavior in General,",
+  "englishTitle": "Laws of Behavior in General,",
+  "work": "《动物智慧》",
+  "englishWork": "Animal Intelligence",
+  "locator": "Laws of Behavior in General,",
+  "englishLocator": "Laws of Behavior in General,",
+  "version": "古登堡计划英文文本，桑代克《动物智慧》1911 年英文原著，“行为的一般规律”第 244 页，连续节录",
+  "englishVersion": "Project Gutenberg English text, Edward L. Thorndike, Animal Intelligence (1911), “Laws of Behavior in General,” p. 244, continuous excerpt",
+  "sourceUrl": "https://www.gutenberg.org/files/69904/69904-h/69904-h.htm",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "d62bb2be6346f8fbae4c8f6b2b6d1df0a560873f214bd80ebd82109022ecd8b6"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "446ac5fce2b26e4e35ebaf9b8413b80ce9347459f6a395ef94f52e4c5cb21bae",
+  "inputHash": "836f90d31ed8ce9ad721e640066bb503ca823631b3f904aa6afd376a01bf4bc3",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "LAWS OF BEHAVIOR IN GENERAL"
+    },
+    {
+      "id": "p0002",
+      "text": "_Behavior is predictable._ The first law of behavior, one fraction of the general law of the uniformity of nature, is that with life and mind, as with mass and motion, the same cause will produce the same effect,—that _the same situation will, in the same animal, produce the same response_,—and that _if the same situation produces on two occasions two different responses, the animal must have changed_."
+    },
+    {
+      "id": "p0003",
+      "text": "Scientific students of behavior will, with few exceptions, accept this law in theory, but in practice we have not fully used it. We have too often been content to say that a man may respond in any one of several ways to the same situation, or may attend to one rather than another feature of the same object, without insisting that the man must in each case be different, and without searching for the differences in him which cause the different reactions."
+    },
+    {
+      "id": "p0004",
+      "text": "The changes in an organism which make it respond differently on different occasions to the same situation range from temporary to permanent changes. Hunger, fatigue, sleep, and certain diseases on the one hand, and learning, immunity, growth and senility on the other, illustrate this range."
+    },
+    {
+      "id": "p0005",
+      "text": "Behavior is predictable _without recourse to magical agencies_. It is, of course, the case that any given difference between the responses of an animal to the same situation depends upon some _particular_ difference in the animal. Each immunity, for example, has its detailed representation in an altered condition of the blood or other bodily tissue. In general the changes in an animal which cause changes in its behavior to the same situation are fully enumerated in a list of the bodily changes concerned. That is, whatever changes may be supposed to have taken place in the animal’s vital force, spiritual essence, or other magical bases for life and thought, are useless for scientific explanation and control of behavior."
+    },
+    {
+      "id": "p0006",
+      "text": "No competent thinker probably doubts this in the case of such changes as are referred to by hunger, sleep, fatigue, so-called ‘functional’ diseases and immunity, and those who do doubt it in the case of mental growth and learning seem to represent an incomplete evolution from supernatural, or rather infrascientific, thinking. There may be in behavior a surplus beyond what would be predictable if the entire history of every atom in the body was known—a surplus necessarily attributable to changes in the animal’s incorporeal structure. But scientific thinkers properly refuse to deliberately count upon such a surplus."
+    },
+    {
+      "id": "p0007",
+      "text": "_Every response or change in response of an animal is then the result of the interaction of its original knowable nature and the environment._ This may seem too self-evident a corollary for mention. It should be so, but, unfortunately, it is not. Two popular psychological doctrines exist in defiance of it. One is the doctrine that the movements of early infancy are random, the original nature of the animal being entirely indifferent as to what movement shall be made upon a given stimulus. But no animal can have an original nature that does not absolutely prescribe just what the response shall be to every stimulus. If the movements are really random, they occur by virtue of some force that works at random. If the movements are really the result of the action of the environment on the animal’s nature, they are never random. A baby twiddles his thumbs or waves his legs for exactly the same sort of reason that a chick pecks at a worm or preens its wing."
+    },
+    {
+      "id": "p0008",
+      "text": "The other doctrine which witnesses to neglect of the axiom that behavior is the creation of the environment, acting on the animal’s nature, is the doctrine that the need for a certain behavior helps to create it, that being in a difficulty tends in and of itself to make an animal respond so as to end the difficulty."
+    },
+    {
+      "id": "p0009",
+      "text": "The truth is that to a difficulty the animal responds by whatever its inherited and acquired nature has connected with the special form of difficulty and that in many animals the one response of those thus provided which relieves the difficulty is selected and connected more firmly with that difficulty’s next appearance. The difficulty acts only as a stimulus to the animal’s nature and its relief acts only as a premium to the connection whereby it was relieved. The law of original behavior, or the law of instinct, is then that _to any situation an animal will, apart from learning, respond by virtue of the inherited nature of its reception-, connection- and action-systems_."
+    },
+    {
+      "id": "p0010",
+      "text": "The inquiry into the laws of learning to be made in this essay is limited to those aspects of behavior which the term has come historically to signify, that is, to intellect, skill, morals and the like."
+    },
+    {
+      "id": "p0011",
+      "text": "For the purposes of this essay it is not necessary to decide just what features of an animal’s behavior to include under intellect, skill, morals and the like. The statements to be made will fit any reasonable dividing line between behavior on the one side and mere circulation, digestion, excretion and the like on the other. There should in fact be no clear dividing line, since there is no clear gap between those activities which naturalists have come to call behavior and the others."
+    },
+    {
+      "id": "p0012",
+      "text": "The discussion will include: First, a description of two laws of learning; second, an argument to prove that no additional forces are needed—that these two laws explain all learning; and third, an investigation of whether these two laws are reducible to more fundamental laws. I shall also note briefly the consequences of the acceptance of these laws in one sample case, that of the study of mental evolution."
+    },
+    {
+      "id": "p0013",
+      "text": "PROVISIONAL LAWS OF ACQUIRED BEHAVIOR OR LEARNING"
+    },
+    {
+      "id": "p0014",
+      "text": "The Law of Effect is that: _Of several responses made to the same situation, those which are accompanied or closely followed by satisfaction to the animal will, other things being equal, be more firmly connected with the situation, so that, when it recurs, they will be more likely to recur; those which are accompanied or closely followed by discomfort to the animal will, other things being equal, have their connections with that situation weakened, so that, when it recurs, they will be less likely to occur. The greater the satisfaction or discomfort, the greater the strengthening or weakening of the bond._"
+    },
+    {
+      "id": "p0015",
+      "text": "The Law of Exercise is that: _Any response to a situation will, other things being equal, be more strongly connected with the situation in proportion to the number of times it has been connected with that situation and to the average vigor and duration of the connections._"
+    },
+    {
+      "id": "p0016",
+      "text": "These two laws stand out clearly in every series of experiments on animal learning and in the entire history of the management of human affairs. They give an account of learning that is satisfactory over a wide range of experience, so long as all that is demanded is a rough and general means of prophecy. We can, as a rule, get an animal to learn a given accomplishment by getting him to accomplish it, rewarding him when he does, and punishing him when he does not; or, if reward or punishment are kept indifferent, by getting him to accomplish it much oftener than he does any other response to the situation in question."
+    },
+    {
+      "id": "p0017",
+      "text": "For more detailed and perfect prophecy, the phrases ‘result in satisfaction’ and ‘result in discomfort’ need further definition, and the other things that are to be equal need comment."
+    },
+    {
+      "id": "p0018",
+      "text": "By a satisfying state of affairs is meant one which the animal does nothing to avoid, often doing such things as attain and preserve it. By a discomforting or annoying state of affairs is meant one which the animal commonly avoids and abandons."
+    },
+    {
+      "id": "p0019",
+      "text": "The satisfiers for any animal in any given condition cannot be determined with precision and surety save by observation. Food when hungry, society when lonesome, sleep when fatigued, relief from pain, are samples of the common occurrence that what favors the life of the species satisfies its individual members. But this does not furnish a completely valid rule."
+    },
+    {
+      "id": "p0020",
+      "text": "The satisfying and annoying are not synonymous with favorable and unfavorable to the life of either the individual or the species. Many animals are satisfied by deleterious conditions. Excitement, overeating, and alcoholic intoxication are, for instance, three very common and very potent satisfiers of man. Conditions useful to the life of the species in moderation are often satisfying far beyond their useful point: many conditions of great utility to the life of the species do not satisfy and may even annoy its members."
+    },
+    {
+      "id": "p0021",
+      "text": "The annoyers for any animal follow the rough rule that alterations of the animal’s ‘natural’ or ‘normal’ structure—as by cuts, bruises, blows, and the like,—and deprivations of or interference with its ‘natural’ or ‘normal’ activities,—as by capture, starvation, solitude, or indigestion,—are intolerable. But interference with the structure and functions by which the species is perpetuated is not a sufficient criterion for discomfort. Nature’s adaptations are too crude."
+    },
+    {
+      "id": "p0022",
+      "text": "Upon examination it appears that the pernicious states of affairs which an animal welcomes are not pernicious _at the time, to the neurones_. We learn many bad habits, such as morphinism, because there is incomplete adaptation of all the interests of the body-state to the temporary interest of its ruling class, the neurones. So also the unsatisfying goods are not goods to the neurones at the time. We neglect many benefits because the neurones choose their immediate advantage. The neurones must be tricked into permitting the animal to take exercise when freezing or quinine when in a fever, or to free the stomach from certain poisons."
+    },
+    {
+      "id": "p0023",
+      "text": "Satisfaction and discomfort, welcoming and avoiding, thus seem to be related to the maintenance and hindrance of the life processes of the neurones rather than of the animal as a whole, and to temporary rather than permanent maintenance and hindrance."
+    },
+    {
+      "id": "p0024",
+      "text": "The chief life processes of a neurone concerned in learning are absorption of food, excretion of waste, reception and conduction of the nerve impulse, and modifiability or change of connections. Of these only the latter demands comment."
+    },
+    {
+      "id": "p0025",
+      "text": "The connections formed between situation and response are represented by connections between neurones and neurones, whereby the disturbance or neural current arising in the former is conducted to the latter across their synapses. The strength or weakness of a connection means the greater or less likelihood that the same current will be conducted from the former to the latter rather than to some other place. The strength or weakness of the connection is a condition of the synapse. What condition of the synapse it is remains a matter for hypothesis. Close connection might mean protoplasmic union, or proximity of the neurones in space, or a greater permeability of a membrane, or a lowered electrical resistance, or a favorable chemical condition of some other sort. Let us call this undefined condition which parallels the strength of a connection between situation and response the intimacy of the synapse. Then the modifiability or connection changing of a neurone equals its power to alter the intimacy of its synapses."
+    },
+    {
+      "id": "p0026",
+      "text": "As a provisional hypothesis to account for what satisfies and what annoys an animal, I suggest the following:—"
+    },
+    {
+      "id": "p0027",
+      "text": "A neurone modifies the intimacy of its synapses so as to keep intimate those by whose intimacy its other life processes are favored and to weaken the intimacy of those whereby its other life processes are hindered. The animal’s action-system as a whole consequently does nothing to avoid that response whereby the life processes of the neurones other than connection-changing are maintained, but does cease those responses whereby such life processes of the neurones are hindered."
+    },
+    {
+      "id": "p0028",
+      "text": "This hypothesis has two important consequences. First: Learning by the law of effect is then more fully adaptive for the neurones in the changing intimacy of whose synapses learning consists, than for the animal as a whole. It is adaptive for the animal as a whole only in so far as his organization makes the neurones concerned in the learning welcome states of affairs that are favorable to his life and that of his species and reject those that are harmful."
+    },
+    {
+      "id": "p0029",
+      "text": "Second: A mechanism in the neurones gives results in the behavior of the animal as a whole that seem beyond mechanism. By their unmodifiable abandonment of certain specific conditions and retention of others, the animal as a whole can modify its behavior. Their one rule of conduct causes in him a countless complexity of habits. The learning of an animal is an instinct of its neurones."
+    },
+    {
+      "id": "p0030",
+      "text": "I have limited the discussion to animals in whom the connection-system is a differentiated organ, the neurones. In so far as the law of effect operates in an animal whose connection-system is not anatomically distinguishable and is favored and hindered in its life by the same conditions that favor and hinder the life of the animal as a whole, the satisfying and annoying will be those states of affairs which the connection-system, whatever it be, maintains and abandons."
+    },
+    {
+      "id": "p0031",
+      "text": "The other things that have to be equal in the case of the law of effect are: First, the frequency, energy and duration of the connection,—that is, the action of the law of exercise; second, the closeness with which the satisfaction is associated with the response; and, third, the readiness of the response to be connected with the situation."
+    },
+    {
+      "id": "p0032",
+      "text": "The first of these accessory conditions requires no comment. A slightly satisfying or indifferent response made often may win a closer connection than a more satisfying response made only rarely."
+    },
+    {
+      "id": "p0033",
+      "text": "The second is most clearly seen in the effect of increasing the interval between the response and the satisfaction or discomfort. Such an increase diminishes the rate of learning. If, for example, four boxes were arranged so that turning a button caused a door to open (and permit a cat to get freedom and food) in one, five, fifty and five hundred seconds, respectively, a cat would form the habit of prompt escape from the first box most rapidly and would almost certainly never form that habit in the case of the fourth. The electric shock administered just as an animal starts on the wrong path or touches the wrong mechanism, is potent, but the same punishment administered ten or twenty seconds after an act will have little or no effect upon that act."
+    },
+    {
+      "id": "p0034",
+      "text": "Close temporal sequence is not the only means of insuring the connection of the satisfaction with the response producing it. What is called attention to the response counts also. If a cat pushes a button around with its nose, while its main occupation, the act to which its general ‘set’ impels it, to which, we say, it is chiefly attentive, is that of clawing at an opening, it will be less aided in the formation of the habit than if it had been chiefly concerned in what its nose was doing. The successful response is as a rule only a part of all that the animal is doing at the time. In proportion as it is an eminent, emphatic part of it, learning is aided. Similarly discomfort eliminates most the eminent, emphatic features of the total response which it accompanies or shortly follows."
+    },
+    {
+      "id": "p0035",
+      "text": "The third factor, the susceptibility of the response and situation to connection, is harder to illustrate. But, apparently, of those responses which are equally strongly connected with a situation by nature and equally attended to, some are more susceptible than others to a more intimate connection."
+    },
+    {
+      "id": "p0036",
+      "text": "The things which have to be equal in the case of the law of exercise are the force of satisfyingness; that is, the action of the law of effect, and again the readiness of the response to be connected with the situation."
+    },
+    {
+      "id": "p0037",
+      "text": "The operation of the laws of instinct, exercise and effect is conditioned further by (1) what may be called the law of assimilation or analogy,—that a situation, especially one to which no particular response is connected by original nature or previous experience, may connect with whatever response is bound to some situation _much like it_,—and (2) by the law of partial activity—that more or less of the total situation may be specially active in determining the response."
+    },
+    {
+      "id": "p0038",
+      "text": "The first of these laws is a result of the facts that conduction in the neurones follows the line of least resistance or closest connection, that the action-system is so organized that certain responses tend to be made in their totality if at all, and that slightly different situations may, therefore, produce some one response, the effects of their differences being in the accessories of that response."
+    },
+    {
+      "id": "p0039",
+      "text": "The second law is a result of the facts that the situation, itself a compound, produces a compound action in the neurones, and that by reason of inner conditions, the relative intensities of different parts of the compound may vary. The commonest response will be that due to the modal condition of the neural compound, but every condition of the compound will have its response."
+    },
+    {
+      "id": "p0040",
+      "text": "THE ADEQUACY OF THE LAWS OF EXERCISE AND EFFECT"
+    },
+    {
+      "id": "p0041",
+      "text": "Behavior has been supposed to be modified in accordance with three other principles or laws besides the law of exercise and the law of effect. Imitation is often used as a name for the supposed law that the perception of a certain response to a situation by another animal tends in and of itself to connect that response to that situation. Common acceptance has been given to more or less of the law that the idea of an act, or of the result of an act, or of the immediate or remote sensations produced by the act, tends in and of itself to produce the act. Such a law of ‘suggestion’ or ‘ideo-motor’ action may be phrased differently, but in whatever form, it insists that the bond between a situation and some conscious representation of a response or of its consequences can do the work of the bond between the situation and the response itself. In acts of reasoning man has been supposed to connect with a given situation a response that could never have been predicted merely from knowledge of what responses were connected with that situation by his original nature or had been connected with it by the laws of exercise and effect. Inference has been supposed to create bonds in and of itself and to be above the mere laws of habit."
+    },
+    {
+      "id": "p0042",
+      "text": "Various forms of statement, most of them vague, have been and would be used in describing the potency of a perceived response, a thought-of response, or a train of inference, to produce a response and bind it to the given total situation. Any forms will do for the present argument, since all forms mean to assert that responses can be and often are bound to situations otherwise than by original bodily nature, satisfaction, discomfort, disuse and use. I shall try to show that they cannot; that, on the contrary, the laws of exercise and effect account for all learning."
+    },
+    {
+      "id": "p0043",
+      "text": "_The facts of imitation in human and animal behavior are explainable by the laws of instinct, exercise and effect._"
+    },
+    {
+      "id": "p0044",
+      "text": "Some cases of imitation are undoubtedly mere instincts in which the situation responded to is an act by another of the same species. If the baby smiles at a smile, it is because of a special, inborn connection between that sight and that act,—he smiles at a smile for just the same reason that he draws down his mouth and wails at harsh words. At that stage of his life he does not imitate other simple acts. A man runs _with_ a crowd for the same reason that he runs _from_ a tiger. Returning a blow is no more due to a general tendency to imitate than warding it off is."
+    },
+    {
+      "id": "p0045",
+      "text": "Other cases of imitation are mere adjuncts to the ordinary process of habit-formation. In the first place, the act of another, or its result, may serve as a model by which the satisfyingness of one’s own responses are determined. Just as the touch and taste of food tells a baby that he has got it safely into his mouth, so the sound of a word spoken by another or the sight of another performing some act of skill tells us whether our pronunciation or technique is right or wrong."
+    },
+    {
+      "id": "p0046",
+      "text": "In the second place, the perception of another’s act may serve as a stimulus to a response whereby the situation is altered into one to which the animal responds from habit by an act like the one perceived. For example, the perception of another making a certain response (_A_) to a situation (_B_) may lead in me by the laws of habit to a response (_C_) which puts me in a situation (_D_) such that the response (_A_) is made by me by the laws of habit. Suppose that by previous training the act of taking off my hat (_A_) has become connected as response to the situation (_D_), ‘thought of hat off,’ and suppose that with the sight of others uncovering their heads (_A_) in church (_B_) there has, again by previous habituation, been connected, as response (_C_), ‘thought of hat off.’ Then the sight of others uncovering their heads would by virtue of the laws of habit lead me to uncover. Imitation of this sort, where the perception of the act or condition in another gives rise to the idea of performing the act or attaining the condition, the idea in turn giving rise to the appropriate act, is certainly very common."
+    },
+    {
+      "id": "p0047",
+      "text": "There may be cases of imitation which cannot be thus accounted for as special instinctive responses to the perception of certain acts by the same acts, as habits formed under the condition that the satisfyingness of a response is its likeness to the perceived act of another, or as the connection of two habits, one of getting, from the perceived act of another, a certain inner condition, the other of getting, from this inner condition, the act in question. There may be, that is, cases where the perceived act of another in and of itself creates a connection."
+    },
+    {
+      "id": "p0048",
+      "text": "It is apparently taken for granted by a majority of writers on human behavior that cases of such direct mental infection, as it were, not only exist, but are the rule. I am unable to find proof of such cases, however. Those commonly quoted are far from clear. Learning to talk in the human infant, for example, the stock case of imitation as a direct means of learning, offers only very weak and dubious evidence. Since what is true of it holds substantially for the other favored cases for learning by imitation, I shall examine it at some length."
+    },
+    {
+      "id": "p0049",
+      "text": "Let us first be clear as to the alternative explanations of linguistic imitation. The first is that seeing the movements of another’s mouth-parts or hearing a series of word-sounds in and of itself produces the response of making that series of sounds or one like it."
+    },
+    {
+      "id": "p0050",
+      "text": "The other is that the laws of instinct and habit are adequate to explain the fact in the following manner: A child instinctively produces a great variety of sounds and sound-series. Some of these, accepted as equal to words by the child’s companions, are rewarded, so that the child learns by the law of effect to use them in certain situations to attain certain results. It is possible also that a child instinctively feels a special satisfaction at babbling when spoken to and a special satisfaction at finding the sound he makes like one that rings in the ears of memory and has meaning. The latter would be like the instinctive satisfaction apparently felt in constructing an object which is like some real object whose appearance and meaning he knows."
+    },
+    {
+      "id": "p0051",
+      "text": "A child also meets frequently the situations ‘say dada,’ ‘say mama,’ ‘say good night’ and the like, and is rewarded when his general babble produces something like the word spoken to him. He thus, by the law of effect, learns to respond to any ‘say’ situation by making _some_ sound and to each of many ‘say’ situations by making an appropriate sound, and to feel satisfaction at duplicating these words when heard. According to the amount of such training, the tendency to respond to words spoken to him by making some sound may become very strong, and the number of successful duplications very large. Satisfaction may be so connected with saying words that the child practices them by himself orally and even in inner speech. The second alternative relies upon the instinct of babbling, and the satisfaction of getting desirable effects from speech, either the effect which the word has by its meaning as a request (‘water,’ ‘milk,’ ‘take me outdoors’ and the like) or the effect which it has by its mere sound upon companions who notice, pet or otherwise reward a child for linguistic progress."
+    },
+    {
+      "id": "p0052",
+      "text": "There are many difficulties in the way of accepting the first alternative. First of all, no one can believe that _all_ of a child’s speech is acquired by direct imitation. On many occasions the process is undoubtedly one of the production of many sounds, irrespective of the model given, and the selection of the best one by parental reward. Any student who will try to get a child who is just beginning to speak, to say cat, dog and mouse and will record the sounds actually made by the child in the three cases, will find them very much alike. There will in fact be little that even _looks_ like direct imitation until the child has ‘learned’ at least forty or fifty words."
+    },
+    {
+      "id": "p0053",
+      "text": "The second difficulty lies in the fact that different children, in even the clearest cases of the imitation of one sound, vary from it in so many directions. A list of all the sounds made in response to one sound heard is more suggestive of random babble as modified by various habits of duplicating sounds, than of a direct potency of the model. Ten children of the same age may, in response to ‘Christmas,’ say, kiss, kissus, krismus, mus, kim, kimus, kiruss, i-us and even totally unlike vocables such as hi-yi or ya-ya."
+    },
+    {
+      "id": "p0054",
+      "text": "The third difficulty is that in those features of word-sounds which are hard to acquire, such as the ‘th’ sound, direct imitation is inadequate. The teacher has recourse to trial and chance success, the spoken word serving as a model to guide satisfaction and discomfort. In general no sound not included in the instinctive babble of children seems to be acquired by merely hearing and seeing it made."
+    },
+    {
+      "id": "p0055",
+      "text": "A fourth difficulty is that by the doctrine of direct imitation it should not be very much more than two or three times as hard to repeat a two- or three-syllable series as to repeat a single syllable. It is, in fact, enormously harder. This is, of course, just what is to be expected if learning a sound means the selection from random babbling plus previous habits. If, for instance, a child makes thirty monosyllabic sounds like pa, ga, ta, ma, pi, gi, li, mi, etc., there is, by chance, one chance in thirty that in response to a word or phrase he will make that one-syllable sound of his repertory which is most like it, but there is only one chance in nine hundred that he will make that _two-syllable_ combination of his repertory which is most like it."
+    },
+    {
+      "id": "p0056",
+      "text": "On the other hand, two objections will be made to the opposite view that the word spoken acts only as a model to select from responses otherwise caused, or as a stimulus to habits already existing. First it will be said that clear, indubitable repetitions of words never practiced by the child, either as totals or in their syllables separately, _do_ occur,—that children do respond by repeating a word in cases where full knowledge of all their previous habits would give no reason to expect them to make such a connection. To this the only retort is that such observations should be based on a very delicate and very elaborate record of a child’s linguistic history, and that until they are so made, it is wise to withhold acceptance."
+    },
+    {
+      "id": "p0057",
+      "text": "The second objection is that the rapid acquisition of a vocabulary such as occurs in the second and third year is too great a task to be accomplished by the laws of exercise and effect alone. This objection is based on an overestimation of the variety of sounds which children of the ages in question make. For example, a child who says 250 words, including say 400 syllables, comprising say 300 syllables which, when properly pronounced, are distinguishable, may actually use less than 50 distinguishable syllables. _Ba_, may stand for the first syllable of father, water, barn, park and the like. _Ki_ may stand for cry, climb, and even carry. For a child to say a word commonly means that he makes a sound which his intimate companions can recognize as his version of that word. A child who can produce something like each one of a thousand words upon hearing them, may do so from actual control over less than a hundred syllables. If we suppose him to have acquired the habits, first, of saying _something_ in such a case, second, of responding to a certain hundred sounds when perceived or remembered by making, in each case, a similar sound, and, third, of responding to any other sound when perceived or remembered, by making that sound of his own repertory which is most like it, we can account for a thousand ‘imitations,’ and still not have made a large demand upon childish powers of learning."
+    },
+    {
+      "id": "p0058",
+      "text": "No one should pretend to have disproved direct imitation in the case of learning to talk until he has subjected all these and other matters to crucial experiments. But the burden of proof does seem to belong upon those who deny the adequacy of the laws of exercise and effect. In so far as the choice is between accepting or rejecting a general law that, other things being equal, the perception of a response in another produces that response, we surely must reject it. Some of the cases of imitation may be unexplained by the laws of exercise and effect. But for others no law of imitation is required. And of what should happen by such a law not over a trivial fraction at most does happen."
+    },
+    {
+      "id": "p0059",
+      "text": "_The idea of a response is in and of itself unable to produce that response._"
+    },
+    {
+      "id": "p0060",
+      "text": "The early students of behavior, considering human behavior and emphasizing behavior that was thought about and purposive, agreed that the sure way to connect a response with a situation was to choose, or will, or consent to, that response. Later students still agreed that to think about the response in some way, to have an image of it or of the sensations caused in you by previous performances of it, was a strong provocative to it. To get a response, get some sort of conscious representative of it, has been an acceptable maxim. Medicine, education and even advertising have based their practice upon the theory that ideas tended to issue in the particular sort of acts that they were ideas of."
+    },
+    {
+      "id": "p0061",
+      "text": "The laws of exercise and effect, on the contrary, if they are the sole laws of modifiability, insist that the thought of an act will produce that act only if the act has been connected with that thought (and without resulting discomfort) in the animal’s past."
+    },
+    {
+      "id": "p0062",
+      "text": "It seems plausible that there should be a peculiar bond between the thought of a response and the response. The plausibility is due to two reasons, one of which is sound but inadequate, the other being, in my opinion, entirely unsound. The first reason is that, as a mere matter of fact, the thought of a response does so often produce it. The second is that an idea of a response seems a natural and sufficient cause for it to appear. The first reason is inadequate to justify any law of the production of a response by its image or other representative, since evidence can be found to show that when a response is produced by an idea of it, it has been already bound to that idea by repetition or satisfaction. The second reason is unsound because, even if responses are brought to pass occasionally by their images, that is surely an extremely rare and unnatural method."
+    },
+    {
+      "id": "p0063",
+      "text": "It is certain that in at least nine cases out of ten a response is produced, not by an image or other representation of it, but by a situation nowise like it or any of its accessories. Hunger and the perception of edible objects, far outweigh ideas of grasping, biting and swallowing, as causes of the eating done in the world. Objects sensed, not images of eye-movements, cause a similar overwhelming majority of the eye’s responses. We walk, reach and grasp on most occasions, not because of anticipatory images of how it will feel to do so or verbal descriptions to ourselves of what we are to do, but because we are stimulated by the perception of some object."
+    },
+    {
+      "id": "p0064",
+      "text": "It is also certain that the idea of a response may be impotent to produce it. I cannot produce a sneeze by thinking of sneezing. A child may have, in the case of some simple bodily act, which he has done in response to certain situations thousands of times, as adequate ideas of it as are possessed by others, and yet be utterly unable to make himself do it; many adults show this same phenomenon, for instance, in the case of swallowing a pill. And, of course, one can have ideas of running a mile in two minutes, jumping a fence eight feet high, or drawing a line exactly equal to a hundred millimeter line, just as easily as of running the mile in ten minutes, or jumping four feet."
+    },
+    {
+      "id": "p0065",
+      "text": "It is further certain that the thought of doing one thing very often results in the man’s doing something quite different. The thought of moving the eyes smoothly without stops along a line of print has occurred to many people, who nevertheless actually did as a result move the eyes in a series of jumps with long stops."
+    },
+    {
+      "id": "p0066",
+      "text": "It is further certain that in many cases where an animal does connect a given response with the image or thought of that response, the connection has been built up by the laws of exercise and effect. Such cases as appropriate responses to, ‘I will go to bed,’ ‘I will get up,’ ‘I will eat,’ ‘I will write a letter,’ ‘I will read,’ or to the corresponding commands, requests or suggestions, are observably built up by training. The appropriate response follows the idea only if it has, by repetition or reward, been connected with it or something like it. If the only requirement in moral education were to have the idea of the right act at the right time, the lives of teachers and parents would be greatly alleviated. But the decision to get up, or the idea of getting up or of being up, is futile until the child has connected therewith the actual act of getting up."
+    },
+    {
+      "id": "p0067",
+      "text": "The defender of the direct potency of conscious representatives of a response to produce it may be tempted to complain at this point that what the laws of exercise and effect do is to reduce the strength of competing ideas, and leave the idea, say of getting up, free to exercise its direct potency. The complaint shows a weak sense for fact. The ordinary child is not a Hamlet, nor is he beguiled by the imagined delights of staying in bed, nor repelled by the image of getting up out of it. On the contrary, he may be entirely willing to _think of_ getting up. It is the actual delights that hold him, the actual discomforts that check him, and the only way to be sure that he will get up is so to arrange matters that it is more satisfactory to him to get up than not to when the situation, whatever it be, that is to suggest that response, makes its appearance."
+    },
+    {
+      "id": "p0068",
+      "text": "The experience of every schoolroom shows that it is not enough to get the idea of an act. The act must have gone with that idea or be now put with it. The bond must be created. Responses to the suggestions of language, whether addressed to us by others or by ourselves in inner speech, in a very large majority of cases owe their bonds to the laws of exercise and effect. We learn to do what we are told, or what we tell ourselves, by doing _something_ and rejecting or retaining what we do by virtue of its effects. So also in the case of a majority of responses to the suggestions of other than verbal imagery."
+    },
+    {
+      "id": "p0069",
+      "text": "The idea of a response, like the perception of a response by another, acts often as a guide to response _ex post facto_ by deciding what shall be satisfying. Where superficial inspection leaves the impression that the idea creates the act, a little care often shows it to have only selected from the acts produced by instinct and habit. For example, let the reader think of some act never performed hitherto, such as putting his left middle finger upon the upper right hand corner of this page, and make the movement. It may seem at first sight that having the idea entirely unopposed was the sufficient cause of the act. But careful experiment, including, for instance, the closure of the eyes and anesthesia of the fingers will reveal that the original propulsion of the idea is not to just that act, but to many possibilities, and that its chief potency lies in the fact that not to get the finger to that point is annoying, and that consequently the organism is at peace only when the act is done."
+    },
+    {
+      "id": "p0070",
+      "text": "So far it has been shown that: The majority of responses are not produced by ideas of them. The idea of a response may be impotent to produce it. The idea of one act may produce a different, even an opposite act. When an idea seems to produce a response in and of itself, it may really act by determining the satisfyingness of responses otherwise made. These facts are sufficient to destroy the pretensions of any general law that the image of an act will, other things being equal, produce it. But the possibility that such an image may occasionally exercise this peculiar potency remains."
+    },
+    {
+      "id": "p0071",
+      "text": "I despair of convincing the reader that it does not. Man is the only animal possessing a large fund of ideas of acts, and man’s connection-system is so complex and his ideas of acts are so intricately bound to situations that have by use and effect produced those acts, that the proof of this negative is a practical impossibility. But it is possible to show that even the most favored cases for the production of a response by securing an ideal representation of it may be explainable by use and effect alone."
+    },
+    {
+      "id": "p0072",
+      "text": "The extreme apparent potency of ideas representing acts to produce them regardless of bonds of use or effect is, of course, witnessed in the phenomena of suggestion in hypnosis and allied states. To try to reduce these phenomena to consequences of the laws of habit may seem fanatical. Here, it will be said, are the crucial cases where the idea of an act, if freed from all effects of opposing ideas, does inevitably produce the act so far as it is a possibility for the animal’s action-system."
+    },
+    {
+      "id": "p0073",
+      "text": "That is precisely what I cannot find proof of."
+    },
+    {
+      "id": "p0074",
+      "text": "Efficient suggestions to hypnotized subjects, on the contrary, are often ambiguous in the sense that they seem as likely to arouse a situation _to which the act has been bound by the law of habit_ as to arouse an idea of the act. Often they are far better suited to the former purpose. Direct commands—Walk, Dance, Get up, Sit down—obviously will operate by the law of habit provided the situations connected with disobedience are excluded. This is also the case with such indirect suggestions as ‘This is a knife (stick).’ ‘This is your sword (broom).’ ‘Have a cigar (a pen).’"
+    },
+    {
+      "id": "p0075",
+      "text": "The release of a suggestion from inhibitions may as well be the release from _ideas connected as antecedents with_ not performing the act as the release from _ideas of_ not performing it. It is a question of fact whether, to get an act done by the subject, one must arouse in him an idea to which or to a part of which or to something like which the act has been bound by use or effect, or may arouse simply an idea of the act."
+    },
+    {
+      "id": "p0076",
+      "text": "Finally, if an idea has a tendency to connect with a certain response, over and above the bonds due to exercise and effect, it should _always_ manifest that tendency. If the connection is not made, it must be due to the action of some contrary force. It is less my duty to show that the laws of habit can account for hypnotic suggestibility, obsessions, and the like, than it is my opponents’ duty to explain why a man can spend a half day in hospitably welcoming a hundred ideas of acts and yet perform no one of them, save those in the case of which he has learned to do the thing when he thinks of doing it. Again, how can the mere addition of the idea of a future date to the idea of an act so utterly deprive it of present potency."
+    },
+    {
+      "id": "p0077",
+      "text": "In view of all these facts it seems probable that ideas of responses act in connection just as do any other situations, and that the phenomena of suggestion and ideo-motor action really mean that any idea will, except for competing ideas, produce the response, not that _is like it_, but that _has gone with it_, or with some idea like it."
+    },
+    {
+      "id": "p0078",
+      "text": "_Rational connections are, in their causation, like any others, the difference being in what is connected._"
+    },
+    {
+      "id": "p0079",
+      "text": "It remains to ask whether situation and response are bound together in the case of reasoning by any other forces than the forces of repetition, energy and satisfaction? Do the laws of inferential thinking transcend the laws of exercise and effect? Or does the mind, even in these novel and constructive responses, do only what it is forced to do by original nature or has done without discomfort?"
+    },
+    {
+      "id": "p0080",
+      "text": "To defend the second alternative involves the reduction of the processes of abstraction, association by similarity and selective thinking to mere secondary consequences of the laws of exercise and effect. This I shall try to do."
+    },
+    {
+      "id": "p0081",
+      "text": "The gist of the fact of abstraction is that response may be made to some elements or aspects of a situation which have never been experienced in isolation, and may be made to the element in question regardless of the gross total situation in which it inheres. A baby thus learns to respond to its mother’s face regardless of what total visual field it is a part of. A child thus learns to respond by picking out any red object, regardless of whether the redness be in an apple, a block, a pencil, a ribbon or a ball. A student thus learns to respond to any plane surface inclosed by three straight lines regardless of its size, shape, color or other than geometrical meaning."
+    },
+    {
+      "id": "p0082",
+      "text": "What happens in such cases is that the response, by being connected with many situations alike in the presence of the element in question and different in other respects, is bound firmly to that element and loosely to each of its concomitants. Conversely any element is bound firmly to any one response that is made to all situations containing it and very, very loosely to each of those responses that are made to only a few of the situations containing it. The element of triangularity, for example, is bound firmly to the response of saying or thinking ‘triangle’ but only very loosely to the response of saying or thinking white, red, blue, large, small, iron, steel, wood, paper and the like. A situation thus acquires bonds not only with some response to it as a gross total, but also with responses to each of its elements that has appeared in any other gross totals."
+    },
+    {
+      "id": "p0083",
+      "text": "Appropriate response to an element regardless of its concomitants is a necessary consequence of the laws of exercise and effect if an animal learns to make that response to the gross total situations that contain the element and not to make it to those that do not. Such prepotent determination of the response by one or another element of the situation is no transcendental mystery, but, given the circumstances, a general rule of all learning. The dog who responds appropriately to ‘beg’ no matter when, where, or by whom spoken, manifests the same laws of behavior. There is no difficulty in understanding how each element of a situation may come to tend to produce a response peculiar to it as well as to play its part in determining the response to the situation as a total. There may be some difficulty in understanding how each element of a situation comes to be _felt_ whereas before only the gross total was felt. The change in consciousness from the ‘big, blooming, buzzing confusion’ to an aggregate of well-defined percepts and images, which accompanies the change in behavior from response to totals to response to parts or elements, may be mysterious. With the change in consciousness, however, we are not now concerned. The _behavior_ of man and other animals toward the abstract elements of color, size, number, form, time or value is explained by the laws of instinct, exercise and effect."
+    },
+    {
+      "id": "p0084",
+      "text": "When the perception or thought of a fact arouses the thought of some other fact identical in part with the former fact, we have so-called association by similarity. An element of the neurone-action is prepotent in determining the succeeding neurone-action. The particular way in which it determines it is by itself continuing and making connection with other associates. These it possesses by virtue of the law of exercise and effect."
+    },
+    {
+      "id": "p0085",
+      "text": "* * * * *"
+    },
+    {
+      "id": "p0086",
+      "text": "The changes in behavior classified under intellect and morality seem then to be all explainable by the two laws of exercise and effect. The facts of imitation really refer to certain specific original connections or to the efficiency of a model in determining what shall satisfy or to the provision of certain instructive situations in the form of the behavior of other animals. The facts variously referred to as suggestion, ideo-motor action or the motor power of ideas, really refer to the fact, common in the human animal only, that to those ideas that represent acts in thought the acts are often bound as responses. The bonds are due to the primary laws of effect and exercise. The facts of reasoning really refer to the fact of prepotency of one or another element in a situation in determining the response."
+    },
+    {
+      "id": "p0087",
+      "text": "The reduction of all learning to making and rewarding or avoiding and punishing connections between situation and response allows changes in intellect and character to be explained by changes in the neurones that are known either to be or to be possible. I have elsewhere sketched one such possible neural mechanism for the law of effect."
+    },
+    {
+      "id": "p0088",
+      "text": "On the contrary, imitation, suggestion and reasoning, as commonly described, put an intolerable burden upon the neurones. To any one who has tried to imagine a possible action in the neurones to parallel the traditional power of the mere perception of an act in another or of the mere representation of an act as done by oneself to produce that act, this is a great merit. For the only adequate psychological parallel of traditional imitation and suggestion would be the original existence or the gratuitous formation of a connection between (1) each neurone-action corresponding to a percept of an act done by another or to the idea of an act done by oneself and (2) the neurone-action arousing that act. It is incredible that the neurone-action corresponding to the perception of a response in another, or to the idea of a response in oneself, or to the first term in an association by similarity, should have, in and of itself, a special power to determine that the next neurone-action should be that paralleling the response in question. And there is no possible physiological parallel of a power to jump from premise to conclusion for no other reason than the ideal fitness of the sequence."
+    },
+    {
+      "id": "p0089",
+      "text": "SIMPLIFICATIONS OF THE LAWS OF EXERCISE AND EFFECT"
+    },
+    {
+      "id": "p0090",
+      "text": "There has been one notable attempt to explain the facts of learning by an even simpler theory than that represented in the laws of exercise and effect. Jennings has formulated as an adequate account of learning the law that: “When a certain physiological state has been resolved, through the continued action of an external agent, or otherwise, into a second physiological state, this resolution becomes easier, so that in course of time it takes place quickly and spontaneously” (‘Behavior of the Lower Organisms,’ p. 289). “The law may be expressed briefly as follows:—_The resolution of one physiological state into another becomes easier and more rapid after it has taken place a number of times._ Hence the behavior primarily characteristic for the second state comes to follow immediately upon the first state. The operations of this law are, of course, seen on a vast scale in higher organisms in the phenomena which we commonly call memory, association, habit formation and learning” (_ibid._, p. 291). This law may be expressed conveniently as a tendency of a series of states"
+    },
+    {
+      "id": "p0091",
+      "text": "A -> B -> C -> D"
+    },
+    {
+      "id": "p0092",
+      "text": "to become"
+    },
+    {
+      "id": "p0093",
+      "text": "A -> D"
+    },
+    {
+      "id": "p0094",
+      "text": "or"
+    },
+    {
+      "id": "p0095",
+      "text": "A -> B¹ -> C¹ -> D"
+    },
+    {
+      "id": "p0096",
+      "text": "B¹ and C¹ being states B and C passed rapidly and in a modified way so that they do not result in a reaction but are resolved directly into D."
+    },
+    {
+      "id": "p0097",
+      "text": "If Professor Jennings had applied to this law the same rigorous analysis which he has so successfully employed elsewhere, he would have found that it could be potent to cause learning only if supplemented by the law of effect and then only for a fraction of learning."
+    },
+    {
+      "id": "p0098",
+      "text": "For, the situations being the same, the state A cannot produce, at one time, now B and, at another time, abbreviated, rudimentary B¹ instead of B. If A with S produces B once, it must always. If D or a rudimentary B¹ is produced, there must be something other than A; A must itself have changed. Something must have been added to or subtracted from it. In Professor Jennings’ own words, “Since the external conditions have not changed, the animal itself must have changed” (_ibid._, p. 286). And in adaptive learning something related to the results of the S A connection must have changed it."
+    },
+    {
+      "id": "p0099",
+      "text": "The series A—B—C—D does not become the series A—D or A—B¹—C¹—D by magic. If B and C are weakened and D is strengthened as sequents of A in response to S, it is because something other than repetition acts upon them. Repetition alone could not blow hot for D and cold for B."
+    },
+    {
+      "id": "p0100",
+      "text": "Moreover, as a mere matter of fact, “the resolution of one physiological state into another” through intermediate states does not with enough repetition “become easier so that in course of time it takes place quickly and spontaneously.”"
+    },
+    {
+      "id": "p0101",
+      "text": "Paramecium does not change its response to, say, an obstacle in the water, from swimming backward, turning to one side and swimming forward by abbreviating and eventually omitting the turn and the backward movement. The schoolboy does not tend to count 1, 2, 10 or to say a, b, z, or give ablative plurals after nominative singulars."
+    },
+    {
+      "id": "p0102",
+      "text": "Repetition of a series of physiological states in and of itself on the contrary makes an animal increasingly _more_ likely to _maintain_ the series _in toto_. It is hard to give the first and then the last word of an oft repeated passage like Hamlet’s soliloquy or the Lord’s Prayer, or to make readily the first and then the last movement of writing a name or address. Repetition never eliminates absolutely and eliminates relatively the _less_ often or _less_ emphatically connected."
+    },
+    {
+      "id": "p0103",
+      "text": "Even if supplemented by the law of effect, so that some force is at hand to change the effect of S upon the animal to A D instead of the original A B C D, the law of the resolution of physiological states would be relevant to only a fraction of learning. For example, let a cat or dog be given an ordinary discrimination experiment, but so modified that whether the animal responds by the ‘right’ or the ‘wrong’ act _he is removed immediately after the reward or punishment_. That is, the event is either S R1 or S R2, never S R1 R2. Let the experiment be repeated at intervals so long that the physiological state, St. R1, or St. R2, leading to the response R1 or R2 in the last trial, has ceased before the next. The animal will come to respond to S by R2 only, though R2 has never been reached by the ‘resolution’ of S R1 R2."
+    },
+    {
+      "id": "p0104",
+      "text": "Cats in jumping for birds or mice, men in playing billiards, tennis or golf, and many other animals in many other kinds of behavior, often learn as the dog must in this experiment. The situation on different occasions is followed by different responses, but by only one per occasion. Professor Jennings was misled by treating as general the special case where the situation itself includes a condition of discomfort terminable only by a ‘successful’ response or by the animal’s exhaustion or death."
+    },
+    {
+      "id": "p0105",
+      "text": "Assuming as typical this same limited case of response to an annoying situation, so that success consists simply in replacing the situation by another, Stevenson Smith reduces the learning-process to the law of exercise alone. He argues that,—"
+    },
+    {
+      "id": "p0106",
+      "text": "“For instance, let an organism at birth be capable of giving N reactions (a, b, c, ... N) to a definite stimulus S and let only one of these reactions be appropriate. If only one reaction can be given at a time and if the one given is determined by the state of the organism at the time S is received, there is one chance in N that it is the appropriate reaction. When the appropriate reaction is finally given, the other reactions are not called into play, S may cease to act, but until the appropriate reaction is given let the organism be such that it runs through the gamut of the others until the appropriate reaction is brought about. As there are N possible reactions, the chances are that the appropriate reaction will be given before all N are performed. At the next appearance of the stimulus, which we may call S₂, those reactions which were in the last case performed, are, through habit, more likely to be again brought about than those which were not performed. Let _u_ stand for the unperformed reactions. Then we have N - _u_ probable reactions to S₂. Habit rendering the previously most performed reactions the most probable throughout we should expect to find the appropriate reaction in response to"
+    },
+    {
+      "id": "p0107",
+      "text": "S₁ contained in N. S₂ contained in N - _u₁_. S₃ contained in N - _u₁_ - _u₂_. ... S_ₙ_ contained in N - _nu_, which approaches _one_ as a limit."
+    },
+    {
+      "id": "p0108",
+      "text": "Thus the appropriate reaction would be fixed through the laws of chance and habit. This law of habit is that when any action is performed a number of times under certain conditions, it becomes under those conditions more and more easily performed” (_Journal of Comparative Neurology and Psychology_, 1908, Vol. XVIII, pp. 503-504)."
+    },
+    {
+      "id": "p0109",
+      "text": "This hypothesis is, like Professor Jennings’, adequate to account for only the one special case, and is adequate to account for that only upon a further limitation of the number of times that the animal may repeat any one of his varied responses to the situation before he has gone through them all once, or reached the one that puts an end to the situation."
+    },
+    {
+      "id": "p0110",
+      "text": "The second limitation may be illustrated in the simple hypothetical case of three responses, 1, 2 and 3, of which No. 2 is successful. Suppose the animal always to go through his repertory with _no_ repetitions until he reaches 2 and so closes the series."
+    },
+    {
+      "id": "p0111",
+      "text": "Only the following can happen:—"
+    },
+    {
+      "id": "p0112",
+      "text": "1 2 1 3 2 2 2 3 1 2 3 2"
+    },
+    {
+      "id": "p0113",
+      "text": "and, in the long run, 2 will happen twice as often as 1 or 3 happens."
+    },
+    {
+      "id": "p0114",
+      "text": "Suppose the animal to repeat each response of his repertory six times before changing to another, the remaining conditions being as above. Then only the following can happen:—"
+    },
+    {
+      "id": "p0115",
+      "text": "1 1 1 1 1 1 2 1 1 1 1 1 1 3 3 3 3 3 3 2 2 2 3 3 3 3 3 3 1 1 1 1 1 1 2 3 3 3 3 3 3 2,"
+    },
+    {
+      "id": "p0116",
+      "text": "and in the long run 2 will happen one third as often as 1 or 3 and, though always successful, must, by Smith’s theory, appear later and later, so that if the animal meets the situation often enough, he will eventually fail utterly in it!"
+    },
+    {
+      "id": "p0117",
+      "text": "Animals do, as a matter of fact, commonly repeat responses many times before changing them, so that if only the law of exercise operated, learning would not be adaptive. It is the _effect_ of 2 that gives it the advantage over 1 and 3. Of two responses to the same annoying situation, one continuing and the other relieving it, an animal could never learn to adopt the latter as a result of the law of exercise alone, if the former was, originally, twice as likely to occur. 1 1 2 would occur as often as 2 and exercise would be equal for both. The convincing cases are, of course, those where learning equals the strengthening to supremacy of an originally very weak connection and the weakening of originally strong bonds. An animal’s original nature may lead it to behave as shown below:—"
+    },
+    {
+      "id": "p0118",
+      "text": "1 1 1 3 1 1 4 1 1 2 1 1 1 1 3 1 1 1 3 1 1 4 2 4 1 1 3 3 1 1 4 4 1 1 1 1 1 2, etc.,"
+    },
+    {
+      "id": "p0119",
+      "text": "and yet the animal’s eventual behavior may be to react to the situation always by 2. The law of effect is primary, irreducible to the law of exercise."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-thorndike-law-effect": {
+      "paragraphId": "p0014",
+      "start": 0,
+      "end": 512,
+      "quote": "The Law of Effect is that: Of several responses made to the same situation, those which are accompanied or closely followed by satisfaction to the animal will, other things being equal, be more firmly connected with the situation, so that, when it recurs, they will be more likely to recur; those which are accompanied or closely followed by discomfort to the animal will, other things being equal, have their connections with that situation weakened, so that, when it recurs, they will be less likely to occur.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-2-d9ba73cf",
+  "title": "章 2",
+  "englishTitle": "Chapter 2",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 2",
+  "englishLocator": "Chapter 2",
+  "version": "中国哲学书电子化计划《道德经》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Daodejing; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/dao-de-jing",
+  "source": {
+    "url": "https://ctext.org/dao-de-jing",
+    "contentType": "text/html",
+    "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "f5dd6b963ecdd5a804f80d95643a8932c79116677a2ed924f0e5eac79890b536",
+  "inputHash": "96a40e10ce1e6783a01ae7a9c1071dc72b073640676e4927134c0f478a4dfca7",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[2]"
+    },
+    {
+      "id": "p0002",
+      "text": "天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。是以聖人處無為之事，行不言之教；萬物作焉而不辭，生而不有。為而不恃，功成而弗居。夫唯弗居，是以不去。"
+    },
+    {
+      "id": "p0003",
+      "text": "(The nourishment of the person) All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is. So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other; that the musical notes and tones become harmonious through the relation of one with another; and that being before and behind give the idea of one following another. Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech. All things spring up, and there is not one which declines to show itself; they grow, and there is no claim made for their ownership; they go through their processes, and there is no expectation (of a reward for the results). The work is accomplished, and there is no resting in it (as an achievement). The work is done, but how no one can see; 'Tis this that makes the power not cease to be."
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-being-nonbeing": {
+      "paragraphId": "p0002",
+      "start": 26,
+      "end": 36,
+      "quote": "有无相生，难易相成。",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

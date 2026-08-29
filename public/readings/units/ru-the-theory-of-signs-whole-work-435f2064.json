@@ -1,0 +1,609 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-theory-of-signs-whole-work-435f2064",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《符号理论》",
+  "englishWork": "The Theory of Signs",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "皮尔士 CP 2.228 数字转录，《符号学的划分》（约 1897）中的三元定义",
+  "englishVersion": "Digital transcription of Peirce CP 2.228, triadic definition from The Division of Signs (c. 1897)",
+  "sourceUrl": "https://www.zbi.ee/~kalevi/Peirce2.htm",
+  "preparedSourceUrl": "https://web.archive.org/web/20251228045136id_/http://www.zbi.ee/~kalevi/Peirce2.htm",
+  "source": {
+    "url": "https://web.archive.org/web/20251228045136id_/http://www.zbi.ee/~kalevi/Peirce2.htm",
+    "contentType": "text/html",
+    "sha256": "f01e69fbdd1520388d9f5303b343a80bd3d0519e06823b2586522ddb961e123a"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "c632c72b3143a8dd64879dbfd8bde378b3d7e84ee461cc7473abb68fbaa02152",
+  "inputHash": "9b74e6d8111dfe5792b38938a323a34145fb3a8791a1d2aed6ca400a81ef4ca0",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "C. S. Peirce, Collected Writings [ CP ]"
+    },
+    {
+      "id": "p0002",
+      "text": "BOOK 2"
+    },
+    {
+      "id": "p0003",
+      "text": "CHAPTER 2"
+    },
+    {
+      "id": "p0004",
+      "text": "DIVISION OF SIGNS"
+    },
+    {
+      "id": "p0005",
+      "text": "�1. GROUND, OBJECT, AND INTERPRETANT �1"
+    },
+    {
+      "id": "p0006",
+      "text": "����������� 227. Logic, in its general sense, is, as I believe I have shown, only another name for semiotic ({s�mei�tik�}), the quasi-necessary, or formal, doctrine of signs. By describing the doctrine as \"quasi-necessary,\" or formal, I mean that we observe the characters of such signs as we know, and from such an observation, by a process which I will not object to naming Abstraction, we are led to statements, eminently fallible, and therefore in one sense by no means necessary, as to what must be the characters of all signs used by a \"scientific\" intelligence, that is to say, by an intelligence capable of learning by experience. As to that process of abstraction, it is itself a sort of observation. The faculty which I call abstractive observation is one which ordinary people perfectly recognize, but for which the theories of philosophers sometimes hardly leave room. It is a familiar experience to every human being to wish for something quite beyond his present means, and to follow that wish by the question, \"Should I wish for that thing just the same, if I had ample means to gratify it?\" To answer that question, he searches his heart, and in doing so makes what I term an abstractive observation. He makes in his imagination a sort of skeleton diagram, or outline sketch, of himself, considers what modifications the hypothetical state of things would require to be made in that picture, and then examines it, that is, observes what he has imagined, to see whether the same ardent desire is there to be discerned. By such a process, which is at bottom very much like mathematical reasoning, we can reach conclusions as to what would be true of signs in all cases, so long as the intelligence using them was scientific. The modes of thought of a God, who should possess an intuitive omniscience superseding reason, are put out of the question. Now the whole process of development among the community of students of those formulations by abstractive observation and reasoning of the truths which must hold good of all signs used by a scientific intelligence is an observational science, like any other positive science, notwithstanding its strong contrast to all the special sciences which arises from its aiming to find out what must be and not merely what is in the actual world."
+    },
+    {
+      "id": "p0007",
+      "text": "Peirce: CP 2.228 Cross-Ref:��"
+    },
+    {
+      "id": "p0008",
+      "text": "����������� 228. A sign, or representamen, is something which stands to somebody for something in some respect or capacity. It addresses somebody, that is, creates in the mind of that person an equivalent sign, or perhaps a more developed sign. That sign which it creates I call the interpretant of the first sign. The sign stands for something, its object. It stands for that object, not in all respects, but in reference to a sort of idea, which I have sometimes �1 called the ground of the representamen. \"Idea\" is here to be understood in a sort of Platonic sense, very familiar in everyday talk; I mean in that sense in which we say that one man catches another man's idea, in which we say that when a man recalls what he was thinking of at some previous time, he recalls the same idea, and in which when a man continues to think anything, say for a tenth of a second, in so far as the thought continues to agree with itself during that time, that is to have a like content, it is the same idea, and is not at each instant of the interval a new idea."
+    },
+    {
+      "id": "p0009",
+      "text": "Peirce: CP 2.229 Cross-Ref:��"
+    },
+    {
+      "id": "p0010",
+      "text": "����������� 229. In consequence of every representamen being thus connected with three things, the ground, the object, and the interpretant, the science of semiotic has three branches. The first is called by Duns Scotus grammatica speculativa. We may term it pure grammar. It has for its task to ascertain what must be true of the representamen used by every scientific intelligence in order that they may embody any meaning. The second is logic proper. It is the science of what is quasi-necessarily true of the representamina of any scientific intelligence in order that they may hold good of any object, that is, may be true. Or say, logic proper is the formal science of the conditions of the truth of representations. The third, in imitation of Kant's fashion of preserving old associations of words in finding nomenclature for new conceptions, I call pure rhetoric. Its task is to ascertain the laws by which in every scientific intelligence one sign gives birth to another, and especially one thought brings forth another."
+    },
+    {
+      "id": "p0011",
+      "text": "Peirce: CP 2.230 Cross-Ref:��"
+    },
+    {
+      "id": "p0012",
+      "text": "�2. SIGNS AND THEIR OBJECTS �1"
+    },
+    {
+      "id": "p0013",
+      "text": "����������� 230. The word Sign will be used to denote an Object perceptible, or only imaginable, or even unimaginable in one sense--for the word \"fast,\" which is a Sign, is not imaginable, since it is not this word itself that can be set down on paper or pronounced, but only an instance of it, and since it is the very same word when it is written as it is when it is pronounced, but is one word when it means \"rapidly\" and quite another when it means \"immovable,\" and a third when it refers to abstinence. But in order that anything should be a Sign, it must \"represent,\" as we say, something else, called its Object, although the condition that a Sign must be other than its Object is perhaps arbitrary, since, if we insist upon it we must at least make an exception in the case of a Sign that is a part of a Sign. Thus nothing prevents the actor who acts a character in an historical drama from carrying as a theatrical \"property\" the very relic that that article is supposed merely to represent, such as the crucifix that Bulwer's Richelieu holds up with such effect in his defiance. On a map of an island laid down upon the soil of that island there must, under all ordinary circumstances, be some position, some point, marked or not, that represents qua place on the map, the very same point qua place on the island. A sign may have more than one Object. Thus, the sentence \"Cain killed Abel,\" which is a Sign, refers at least as much to Abel as to Cain, even if it be not regarded as it should, as having \"a killing\" as a third Object. But the set of objects may be regarded as making up one complex Object. In what follows and often elsewhere Signs will be treated as having but one object each for the sake of dividing difficulties of the study. If a Sign is other than its Object, there must exist, either in thought or in expression, some explanation or argument or other context, showing how--upon what system or for what reason the Sign represents the Object or set of Objects that it does. Now the Sign and the Explanation together make up another Sign, and since the explanation will be a Sign, it will probably require an additional explanation, which taken together with the already enlarged Sign will make up a still larger Sign; and proceeding in the same way, we shall, or should, ultimately reach a Sign of itself, containing its own explanation and those of all its significant parts; and according to this explanation each such part has some other part as its Object. According to this every Sign has, actually or virtually, what we may call a Precept of explanation according to which it is to be understood as a sort of emanation, so to speak, of its Object. (If the Sign be an Icon, a scholastic might say that the \"species\" of the Object emanating from it found its matter in the Icon. If the Sign be an Index, we may think of it as a fragment torn away from the Object, the two in their Existence being one whole or a part of such whole. If the Sign is a Symbol, we may think of it as embodying the \"ratio,\" or reason, of the Object that has emanated from it. These, of course, are mere figures of speech; but that does not render them useless.)"
+    },
+    {
+      "id": "p0014",
+      "text": "Peirce: CP 2.231 Cross-Ref:��"
+    },
+    {
+      "id": "p0015",
+      "text": "����������� 231. The Sign can only represent the Object and tell about it. It cannot furnish acquaintance with or recognition of that Object; for that is what is meant in this volume by the Object of a Sign; namely, that with which it presupposes an acquaintance in order to convey some further information concerning it. No doubt there will be readers who will say they cannot comprehend this. They think a Sign need not relate to anything otherwise known, and can make neither head nor tail of the statement that every Sign must relate to such an Object. But if there be anything that conveys information and yet has absolutely no relation nor reference to anything with which the person to whom it conveys the information has, when he comprehends that information, the slightest acquaintance, direct or indirect--and a very strange sort of information that would be--the vehicle of that sort of information is not, in this volume, called a Sign."
+    },
+    {
+      "id": "p0016",
+      "text": "Peirce: CP 2.232 Cross-Ref:��"
+    },
+    {
+      "id": "p0017",
+      "text": "����������� 232. Two men are standing on the seashore looking out to sea. One of them says to the other, \"That vessel there carries no freight at all, but only passengers.\" Now, if the other, himself, sees no vessel, the first information he derives from the remark has for its Object the part of the sea that he does see, and informs him that a person with sharper eyes than his, or more trained in looking for such things, can see a vessel there; and then, that vessel having been thus introduced to his acquaintance, he is prepared to receive the information about it that it carries passengers exclusively. But the sentence as a whole has, for the person supposed, no other Object than that with which it finds him already acquainted. The Objects--for a Sign may have any number of them--may each be a single known existing thing or thing believed formerly to have existed or expected to exist, or a collection of such things, or a known quality or relation or fact, which single Object may be a collection, or whole of parts, or it may have some other mode of being, such as some act permitted whose being does not prevent its negation from being equally permitted, or something of a general nature desired, required, or invariably found under certain general circumstances."
+    },
+    {
+      "id": "p0018",
+      "text": "Peirce: CP 2.233 Cross-Ref:��"
+    },
+    {
+      "id": "p0019",
+      "text": "�3. DIVISION OF TRIADIC RELATIONS �1"
+    },
+    {
+      "id": "p0020",
+      "text": "����������� 233. The principles and analogies of Phenomenology enable us to describe, in a distant way, what the divisions of triadic relations must be. But until we have met with the different kinds a posteriori, and have in that way been led to recognize their importance, the a priori descriptions mean little; not nothing at all, but little. Even after we seem to identify the varieties called for a priori with varieties which the experience of reflexion leads us to think important, no slight labour is required to make sure that the divisions we have found a posteriori are precisely those that have been predicted a priori. In most cases, we find that they are not precisely identical, owing to the narrowness of our reflexional experience. It is only after much further arduous analysis that we are able finally to place in the system the conceptions to which experience has led us. In the case of triadic relations, no part of this work has, as yet, been satisfactorily performed, except in some measure for the most important class of triadic relations, those of signs, or representamens, to their objects and interpretants."
+    },
+    {
+      "id": "p0021",
+      "text": "Peirce: CP 2.234 Cross-Ref:��"
+    },
+    {
+      "id": "p0022",
+      "text": "����������� 234. Provisionally, we may make a rude division of triadic relations, which, we need not doubt, contains important truth, however imperfectly apprehended, into--"
+    },
+    {
+      "id": "p0023",
+      "text": "����������� Triadic relations of comparison,"
+    },
+    {
+      "id": "p0024",
+      "text": "����������� Triadic relations of performance, and"
+    },
+    {
+      "id": "p0025",
+      "text": "����������� Triadic relations of thought."
+    },
+    {
+      "id": "p0026",
+      "text": "����������� Triadic relations of Comparison are those which are of the nature of logical possibilities."
+    },
+    {
+      "id": "p0027",
+      "text": "����������� Triadic relations of Performance are those which are of the nature of actual facts."
+    },
+    {
+      "id": "p0028",
+      "text": "����������� Triadic relations of Thought are those which are of the nature of laws."
+    },
+    {
+      "id": "p0029",
+      "text": "Peirce: CP 2.235 Cross-Ref:��"
+    },
+    {
+      "id": "p0030",
+      "text": "����������� 235. We must distinguish between the First, Second, and Third Correlate of any triadic relation."
+    },
+    {
+      "id": "p0031",
+      "text": "Peirce: CP 2.235 Cross-Ref:��"
+    },
+    {
+      "id": "p0032",
+      "text": "����������� The First Correlate is that one of the three which is regarded as of the simplest nature, being a mere possibility if any one of the three is of that nature, and not being a law unless all three are of that nature.�1"
+    },
+    {
+      "id": "p0033",
+      "text": "Peirce: CP 2.236 Cross-Ref:��"
+    },
+    {
+      "id": "p0034",
+      "text": "����������� 236. The Third Correlate is that one of the three which is regarded as of the most complex nature, being a law if any one of the three is a law, and not being a mere possibility unless all three are of that nature.1"
+    },
+    {
+      "id": "p0035",
+      "text": "Peirce: CP 2.237 Cross-Ref:��"
+    },
+    {
+      "id": "p0036",
+      "text": "����������� 237. The Second Correlate is that one of the three which is regarded as of middling complexity, so that if any two are of the same nature, as to being either mere possibilities, actual existences, or laws, then the Second Correlate is of that same nature, while if the three are all of different natures, the Second Correlate is an actual existence.�1"
+    },
+    {
+      "id": "p0037",
+      "text": "Peirce: CP 2.238 Cross-Ref:��"
+    },
+    {
+      "id": "p0038",
+      "text": "����������� 238. Triadic relations are in three ways �2 divisible by trichotomy, according as the First, the Second, or the Third Correlate, respectively, is a mere possibility, an actual existent, or a law. These three trichotomies, taken together, divide all triadic relations into ten classes [see footnote to 235]. These ten classes will have certain subdivisions according as the existent correlates are individual subjects or individual facts, and according as the correlates that are laws are general subjects, general modes of fact, or general modes of law."
+    },
+    {
+      "id": "p0039",
+      "text": "Peirce: CP 2.239 Cross-Ref:��"
+    },
+    {
+      "id": "p0040",
+      "text": "����������� 239. There will be besides a second similar division of triadic relations into ten classes, according as the dyadic relations which they constitute between either the First and Second Correlates, or the First and Third, or the Second and Third are of the nature of possibilities, facts, or laws; and these ten classes will be subdivided in different ways.�3"
+    },
+    {
+      "id": "p0041",
+      "text": "Peirce: CP 2.240 Cross-Ref:��"
+    },
+    {
+      "id": "p0042",
+      "text": "����������� 240. It may be convenient to collect the ten classes of either set of ten into three groups according as all three of the correlates or dyadic relations, as the case may be, are of different natures, or all are of the same nature, or two are of one nature while the third is of a different nature.�1"
+    },
+    {
+      "id": "p0043",
+      "text": "Peirce: CP 2.241 Cross-Ref:��"
+    },
+    {
+      "id": "p0044",
+      "text": "����������� 241. In every genuine Triadic Relation, the First Correlate may be regarded as determining the Third Correlate in some respect; and triadic relations may be divided according as that determination of the Third Correlate is to having some quality, or to being in some existential relation to the Second Correlate, or to being in some relation of thought to the Second for something �2."
+    },
+    {
+      "id": "p0045",
+      "text": "Peirce: CP 2.242 Cross-Ref:��"
+    },
+    {
+      "id": "p0046",
+      "text": "����������� 242. A Representamen is the First Correlate of a triadic relation, the Second Correlate being termed its Object, and the possible Third Correlate being termed its Interpretant, by which triadic relation the possible Interpretant is determined to be the First Correlate of the same triadic relation to the same Object, and for some possible Interpretant. A Sign is a representamen of which some interpretant is a cognition of a mind. Signs are the only representamens that have been much studied."
+    },
+    {
+      "id": "p0047",
+      "text": "Peirce: CP 2.243 Cross-Ref:��"
+    },
+    {
+      "id": "p0048",
+      "text": "�4. ONE TRICHOTOMY OF SIGNS"
+    },
+    {
+      "id": "p0049",
+      "text": "����������� 243. Signs are divisible by three trichotomies;�1 first, according as the sign in itself is a mere quality, is an actual existent, or is a general law;�2 secondly, according as the relation of the sign to its object consists in the sign's having some character in itself, or in some existential relation to that object, or in its relation to an interpretant;�3 thirdly, according as its Interpretant represents it as a sign of possibility or as a sign of fact or a sign of reason.�4"
+    },
+    {
+      "id": "p0050",
+      "text": "Peirce: CP 2.244 Cross-Ref:��"
+    },
+    {
+      "id": "p0051",
+      "text": "����������� 244. According to the first division, a Sign may be termed a Qualisign, a Sinsign, or a Legisign."
+    },
+    {
+      "id": "p0052",
+      "text": "Peirce: CP 2.244 Cross-Ref:��"
+    },
+    {
+      "id": "p0053",
+      "text": "����������� A Qualisign is a quality which is a Sign. It cannot actually act as a sign until it is embodied; but the embodiment has nothing to do with its character as a sign."
+    },
+    {
+      "id": "p0054",
+      "text": "Peirce: CP 2.245 Cross-Ref:��"
+    },
+    {
+      "id": "p0055",
+      "text": "����������� 245. A Sinsign (where the syllable sin is taken as meaning \"being only once,\" as in single, simple, Latin semel, etc.) is an actual existent thing or event which is a sign. It can only be so through its qualities; so that it involves a qualisign, or rather, several qualisigns. But these qualisigns are of a peculiar kind and only form a sign through being actually embodied."
+    },
+    {
+      "id": "p0056",
+      "text": "Peirce: CP 2.246 Cross-Ref:��"
+    },
+    {
+      "id": "p0057",
+      "text": "����������� 246. A Legisign is a law that is a Sign. This law is usually established by men. Every conventional sign is a legisign [but not conversely]. It is not a single object, but a general type which, it has been agreed, shall be significant. Every legisign signifies through an instance of its application, which may be termed a Replica of it. Thus, the word \"the\" will usually occur from fifteen to twenty-five times on a page. It is in all these occurrences one and the same word, the same legisign. Each single instance of it is a Replica. The Replica is a Sinsign. Thus, every Legisign requires Sinsigns. But these are not ordinary Sinsigns, such as are peculiar occurrences that are regarded as significant. Nor would the Replica be significant if it were not for the law which renders it so."
+    },
+    {
+      "id": "p0058",
+      "text": "Peirce: CP 2.247 Cross-Ref:��"
+    },
+    {
+      "id": "p0059",
+      "text": "�5. A SECOND TRICHOTOMY OF SIGNS"
+    },
+    {
+      "id": "p0060",
+      "text": "����������� 247. According to the second trichotomy, a Sign may be termed an Icon, an Index, or a Symbol."
+    },
+    {
+      "id": "p0061",
+      "text": "Peirce: CP 2.247 Cross-Ref:��"
+    },
+    {
+      "id": "p0062",
+      "text": "����������� An Icon is a sign which refers to the Object that it denotes merely by virtue of characters of its own, and which it possesses, just the same, whether any such Object actually exists or not. It is true that unless there really is such an Object, the Icon does not act as a sign; but this has nothing to do with its character as a sign. Anything whatever, be it quality, existent individual, or law, is an Icon of anything, in so far as it is like that thing and used as a sign of it."
+    },
+    {
+      "id": "p0063",
+      "text": "Peirce: CP 2.248 Cross-Ref:��"
+    },
+    {
+      "id": "p0064",
+      "text": "����������� 248. An Index is a sign which refers to the Object that it denotes by virtue of being really affected by that Object. It cannot, therefore, be a Qualisign, because qualities are whatever they are independently of anything else. In so far as the Index is affected by the Object, it necessarily has some Quality in common with the Object, and it is in respect to these that it refers to the Object. It does, therefore, involve a sort of Icon, although an Icon of a peculiar kind; and it is not the mere resemblance of its Object, even in these respects which makes it a sign, but it is the actual modification of it by the Object."
+    },
+    {
+      "id": "p0065",
+      "text": "Peirce: CP 2.249 Cross-Ref:��"
+    },
+    {
+      "id": "p0066",
+      "text": "����������� 249. A Symbol is a sign which refers to the Object that it denotes by virtue of a law, usually an association of general ideas, which operates to cause the Symbol to be interpreted as referring to that Object. It is thus itself a general type or law, that is, is a Legisign. As such it acts through a Replica. Not only is it general itself, but the Object to which it refers is of a general nature. Now that which is general has its being in the instances which it will determine. There must, therefore, be existent instances of what the Symbol denotes, although we must here understand by \"existent,\" existent in the possibly imaginary universe to which the Symbol refers. The Symbol will indirectly, through the association or other law, be affected by those instances; and thus the Symbol will involve a sort of Index, although an Index of a peculiar kind. It will not, however, be by any means true that the slight effect upon the Symbol of those instances accounts for the significant character of the Symbol."
+    },
+    {
+      "id": "p0067",
+      "text": "Peirce: CP 2.250 Cross-Ref:��"
+    },
+    {
+      "id": "p0068",
+      "text": "�6. A THIRD TRICHOTOMY OF SIGNS"
+    },
+    {
+      "id": "p0069",
+      "text": "����������� 250. According to the third trichotomy, a Sign may be termed a Rheme, a Dicisign or Dicent Sign (that is, a proposition or quasi-proposition), or an Argument."
+    },
+    {
+      "id": "p0070",
+      "text": "Peirce: CP 2.250 Cross-Ref:��"
+    },
+    {
+      "id": "p0071",
+      "text": "����������� A Rheme�1 is a Sign which, for its Interpretant, is a Sign of qualitative Possibility, that is, is understood as representing such and such a kind of possible Object. Any Rheme, perhaps, will afford some information; but it is not interpreted as doing so."
+    },
+    {
+      "id": "p0072",
+      "text": "Peirce: CP 2.251 Cross-Ref:��"
+    },
+    {
+      "id": "p0073",
+      "text": "����������� 251. A Dicent Sign is a Sign, which, for its Interpretant, is a Sign of actual existence. It cannot, therefore, be an Icon, which affords no ground for an interpretation of it as referring to actual existence. A Dicisign necessarily involves, as a part of it, a Rheme, to describe the fact which it is interpreted as indicating. But this is a peculiar kind of Rheme; and while it is essential to the Dicisign, it by no means constitutes it."
+    },
+    {
+      "id": "p0074",
+      "text": "Peirce: CP 2.252 Cross-Ref:��"
+    },
+    {
+      "id": "p0075",
+      "text": "����������� 252. An Argument is a Sign which, for its Interpretant, is a Sign of law. Or we may say that a Rheme is a sign which is understood to represent its object in its characters merely; that a Dicisign is a sign which is understood to represent its object in respect to actual existence; and that an Argument is a Sign which is understood to represent its Object in its character as Sign. Since these definitions touch upon points at this time much in dispute, a word may be added in defence of them. A question often put is: What is the essence of a Judgment? A judgment is the mental act by which the judger seeks to impress upon himself the truth of a proposition. It is much the same as an act of asserting the proposition, or going before a notary and assuming formal responsibility for its truth, except that those acts are intended to affect others, while the judgment is only intended to affect oneself. However, the logician, as such, cares not what the psychological nature of the act of judging may be. The question for him is: What is the nature of the sort of sign of which a principal variety is called a proposition, which is the matter upon which the act of judging is exercised? The proposition need not be asserted or judged. It may be contemplated as a sign capable of being asserted or denied. This sign itself retains its full meaning whether it be actually asserted or not.�1 The peculiarity of it, therefore, lies in its mode of meaning; and to say this is to say that its peculiarity lies in its relation to its interpretant. The proposition professes to be really affected by the actual existent or real law to which it refers. The argument makes the same pretension, but that is not the principal pretension of the argument. The rheme makes no such pretension."
+    },
+    {
+      "id": "p0076",
+      "text": "Peirce: CP 2.253 Cross-Ref:��"
+    },
+    {
+      "id": "p0077",
+      "text": "����������� 253. The Interpretant of the Argument represents it as an instance of a general class of Arguments, which class on the whole will always tend to the truth. It is this law, in some shape, which the argument urges; and this \"urging\" is the mode of representation proper to Arguments. The Argument must, therefore, be a Symbol, or Sign whose Object is a General Law or Type. It must involve a Dicent Symbol, or Proposition, which is termed its Premiss; for the Argument can only urge the law by urging it in an instance. This Premiss is, however, quite different in force (i.e., in its relation to its interpretant) from a similar proposition merely asserted; and besides, this is far from being the whole Argument. As for another proposition, called the Conclusion, often stated and perhaps required to complete the Argument, it plainly represents the Interpretant, and likewise has a peculiar force, or relation to the Interpretant. There is a difference of opinion among logicians as to whether it forms a part of the Argument or not; and although such opinions have not resulted from an exact analysis of the essence of Argument, they are entitled to weight. The present writer, without being absolutely confident, is strongly inclined to think that the Conclusion, although it represents the Interpretant, is essential to the full expression of the Argument. It is usual with logicians to speak of the Premisses of an Argument, instead of the Premiss. But if there are more Premisses than one, the first step of the argumentation must be to colligate them into one Copulative Proposition: so that the only simple Argument of two Premisses is the Argument of Colligation. But even in this case, there are not properly two premisses. For whenever the mind is in a state ready to assert a proposition, P, it is already in a state of asserting a proposition, O, which the new proposition, P, only further determines; so that it is not P, merely, which comes to be asserted, but OP. In this view of the matter, there is no such thing as an Argument of Colligation. For to say that there is would make every judgment the conclusion of an argument. But if every judgment is to be regarded as the conclusion of an argument, which is, no doubt, an admissible conception, then it is the conclusion of a quite different kind of judgment from a mere Argument of Colligation. Thus, the Argument of Colligation is a form of Argument which is introduced into logic merely in order to avoid the necessity of considering the true nature of the Argument from which a Copulative Proposition has been derived. For that reason, it seems more proper in general to speak of the \"Premiss\" of an Argument than of its \"Premisses.\" As to the word Premiss--in Latin of the thirteenth century praemissa--owing to its being so often used in the plural, it has become widely confounded with a totally different word of legal provenance, the \"premisses,\" that is, the items of an inventory, etc., and hence buildings enumerated in a deed or lease. It is entirely contrary to good English usage to spell premiss, \"premise,\" and this spelling (whose prevalence is due perhaps to Lord Brougham, or at least chiefly supported by his insistence), simply betrays ignorance of the history of logic, and even of such standard authors as Whateley, Watts, etc.�1"
+    },
+    {
+      "id": "p0078",
+      "text": "Peirce: CP 2.254 Cross-Ref:��"
+    },
+    {
+      "id": "p0079",
+      "text": "�7. TEN CLASSES OF SIGNS"
+    },
+    {
+      "id": "p0080",
+      "text": "����������� 254. The three trichotomies of Signs result together in dividing Signs into TEN CLASSES OF SIGNS, of which numerous subdivisions have to be considered. The ten classes are as follows:"
+    },
+    {
+      "id": "p0081",
+      "text": "Peirce: CP 2.254 Cross-Ref:��"
+    },
+    {
+      "id": "p0082",
+      "text": "����������� First: A Qualisign [e.g., a feeling of \"red\"] is any quality in so far as it is a sign. Since a quality is whatever it is positively in itself, a quality can only denote an object by virtue of some common ingredient or similarity; so that a Qualisign is necessarily an Icon. Further, since a quality is a mere logical possibility, it can only be interpreted as a sign of essence, that is, as a Rheme."
+    },
+    {
+      "id": "p0083",
+      "text": "Peirce: CP 2.255 Cross-Ref:��"
+    },
+    {
+      "id": "p0084",
+      "text": "����������� 255. Second: An Iconic Sinsign [e.g., an individual diagram] is any object of experience in so far as some quality of it makes it determine the idea of an object. Being an Icon, and thus a sign by likeness purely, of whatever it may be like, it can only be interpreted as a sign of essence, or Rheme. It will embody a Qualisign."
+    },
+    {
+      "id": "p0085",
+      "text": "Peirce: CP 2.256 Cross-Ref:��"
+    },
+    {
+      "id": "p0086",
+      "text": "����������� 256. Third: A Rhematic Indexical Sinsign [e.g., a spontaneous cry] is any object of direct experience so far as it directs attention to an Object by which its presence is caused. It necessarily involves an Iconic Sinsign of a peculiar kind, yet is quite different since it brings the attention of the interpreter to the very Object denoted."
+    },
+    {
+      "id": "p0087",
+      "text": "Peirce: CP 2.257 Cross-Ref:��"
+    },
+    {
+      "id": "p0088",
+      "text": "����������� 257. Fourth: A Dicent Sinsign [e.g., a weathercock] is any object of direct experience, in so far as it is a sign, and, as such, affords information concerning its Object. This it can only do by being really affected by its Object; so that it is necessarily an Index. The only information it can afford is of actual fact. Such a Sign must involve an Iconic Sinsign to embody the information and a Rhematic Indexical Sinsign to indicate the Object to which the information refers. But the mode of combination, or Syntax, of these two must also be significant."
+    },
+    {
+      "id": "p0089",
+      "text": "Peirce: CP 2.258 Cross-Ref:��"
+    },
+    {
+      "id": "p0090",
+      "text": "����������� 258. Fifth: An Iconic Legisign [e.g., a diagram, apart from its factual individuality] is any general law or type, in so far as it requires each instance of it to embody a definite quality which renders it fit to call up in the mind the idea of a like object. Being an Icon, it must be a Rheme. Being a Legisign, its mode of being is that of governing single Replicas, each of which will be an Iconic Sinsign of a peculiar kind."
+    },
+    {
+      "id": "p0091",
+      "text": "Peirce: CP 2.259 Cross-Ref:��"
+    },
+    {
+      "id": "p0092",
+      "text": "����������� 259. Sixth: A Rhematic Indexical Legisign [e.g., a demonstrative pronoun] is any general type or law, however established, which requires each instance of it to be really affected by its Object in such a manner as merely to draw attention to that Object. Each Replica of it will be a Rhematic Indexical Sinsign of a peculiar kind. The Interpretant of a Rhematic Indexical Legisign represents it as an Iconic Legisign; and so it is, in a measure--but in a very small measure."
+    },
+    {
+      "id": "p0093",
+      "text": "Peirce: CP 2.260 Cross-Ref:��"
+    },
+    {
+      "id": "p0094",
+      "text": "����������� 260. Seventh: A Dicent Indexical Legisign [e.g., a street cry] is any general type or law, however established, which requires each instance of it to be really affected by its Object in such a manner as to furnish definite information concerning that Object. It must involve an Iconic Legisign to signify the information and a Rhematic Indexical Legisign to denote the subject of that information. Each Replica of it will be a Dicent Sinsign of a peculiar kind."
+    },
+    {
+      "id": "p0095",
+      "text": "Peirce: CP 2.261 Cross-Ref:��"
+    },
+    {
+      "id": "p0096",
+      "text": "����������� 261. Eighth: A Rhematic Symbol or Symbolic Rheme [e.g., a common noun] is a sign connected with its Object by an association of general ideas in such a way that its Replica calls up an image in the mind which image, owing to certain habits or dispositions of that mind, tends to produce a general concept, and the Replica is interpreted as a Sign of an Object that is an instance of that concept. Thus, the Rhematic Symbol either is, or is very like, what the logicians call a General Term. The Rhematic Symbol, like any Symbol, is necessarily itself of the nature of a general type, and is thus a Legisign. Its Replica, however, is a Rhematic Indexical Sinsign of a peculiar kind, in that the image it suggests to the mind acts upon a Symbol already in that mind to give rise to a General Concept. In this it differs from other Rhematic Indexical Sinsigns, including those which are Replicas of Rhematic Indexical Legisigns. Thus, the demonstrative pronoun \"that\" is a Legisign, being a general type; but it is not a Symbol, since it does not signify a general concept. Its Replica draws attention to a single Object, and is a Rhematic Indexical Sinsign. A Replica of the word \"camel\" is likewise a Rhematic Indexical Sinsign, being really affected, through the knowledge of camels, common to the speaker and auditor, by the real camel it denotes, even if this one is not individually known to the auditor; and it is through such real connection that the word \"camel\" calls up the idea of a camel. The same thing is true of the word \"phoenix.\" For although no phoenix really exists, real descriptions of the phoenix are well known to the speaker and his auditor; and thus the word is really affected by the Object denoted. But not only are the Replicas of Rhematic Symbols very different from ordinary Rhematic Indexical Sinsigns, but so likewise are Replicas of Rhematic Indexical Legisigns. For the thing denoted by \"that\" has not affected the replica of the word in any such direct and simple manner as that in which, for example, the ring of a telephone-bell is affected by the person at the other end who wants to make a communication. The Interpretant of the Rhematic Symbol often represents it as a Rhematic Indexical Legisign; at other times as an Iconic Legisign; and it does in a small measure partake of the nature of both."
+    },
+    {
+      "id": "p0097",
+      "text": "Peirce: CP 2.262 Cross-Ref:��"
+    },
+    {
+      "id": "p0098",
+      "text": "����������� 262. Ninth: A Dicent Symbol, or ordinary Proposition, is a sign connected with its object by an association of general ideas, and acting like a Rhematic Symbol, except that its intended interpretant represents the Dicent Symbol as being, in respect to what it signifies, really affected by its Object, so that the existence or law which it calls to mind must be actually connected with the indicated Object. Thus, the intended Interpretant looks upon the Dicent Symbol as a Dicent Indexical Legisign; and if it be true, it does partake of this nature, although this does not represent its whole nature. Like the Rhematic Symbol, it is necessarily a Legisign. Like the Dicent Sinsign it is composite inasmuch as it necessarily involves a Rhematic Symbol (and thus is for its Interpretant an Iconic Legisign) to express its information and a Rhematic Indexical Legisign to indicate the subject of that information. But its Syntax of these is significant. The Replica of the Dicent Symbol is a Dicent Sinsign of a peculiar kind. This is easily seen to be true when the information the Dicent Symbol conveys is of actual fact. When that information is of a real law, it is not true in the same fullness. For a Dicent Sinsign cannot convey information of law. It is, therefore, true of the Replica of such a Dicent Symbol only in so far as the law has its being in instances."
+    },
+    {
+      "id": "p0099",
+      "text": "Peirce: CP 2.263 Cross-Ref:��"
+    },
+    {
+      "id": "p0100",
+      "text": "����������� 263. Tenth: An Argument is a sign whose interpretant represents its object as being an ulterior sign through a law, namely, the law that the passage from all such premisses to such conclusions tends to the truth. Manifestly, then, its object must be general; that is, the Argument must be a Symbol. As a Symbol it must, further, be a Legisign. Its Replica is a Dicent Sinsign."
+    },
+    {
+      "id": "p0101",
+      "text": "Peirce: CP 2.264 Cross-Ref:��"
+    },
+    {
+      "id": "p0102",
+      "text": "����������� 264. The affinities of the ten classes are exhibited by arranging their designations in the triangular table here shown, which has heavy boundaries between adjacent squares that are appropriated to classes alike in only one respect. All other adjacent squares pertain to classes alike in two respects. Squares not adjacent pertain to classes alike in one respect only, except that each of the three squares of the vertices of the triangle pertains to a class differing in all three respects from the classes to which the squares along the opposite side of the triangle are appropriated. The lightly printed designations are superfluous."
+    },
+    {
+      "id": "p0103",
+      "text": "� -------------------------------------------------------"
+    },
+    {
+      "id": "p0104",
+      "text": "� | �� (I)�1 ���� | �� (V) ������ | �� (VIII) ��� | �� (X) ����� | | �� Rhematic � | �� Rhematic � | �� Rhematic � | �� Argument � |"
+    },
+    {
+      "id": "p0105",
+      "text": "� | �� Iconic ��� | �� Iconic ��� | �� Symbol ��� | �� Symbolic � | | �� Qualisign | �� Legisign � | �� Legisign � | �� Legisign � |"
+    },
+    {
+      "id": "p0106",
+      "text": "� -------------------------------------------------------"
+    },
+    {
+      "id": "p0107",
+      "text": "�� ��� | �� (II) ������ | �� (VI) ������ | �� (IX) ����� |"
+    },
+    {
+      "id": "p0108",
+      "text": "����� | �� Rhematic �� | �� Rhematic �� | �� Dicent ��� |"
+    },
+    {
+      "id": "p0109",
+      "text": "����� | �� Iconic ���� | �� Indexical � | �� Symbol ��� |"
+    },
+    {
+      "id": "p0110",
+      "text": "����� | �� Sinsign ��� | �� Legisign �� | �� Legisign � |"
+    },
+    {
+      "id": "p0111",
+      "text": "������ -------------------------------------------"
+    },
+    {
+      "id": "p0112",
+      "text": "������������� | �� (III) ���� | �� (VII) ���� | ������������� | �� Rhematic � | �� Dicent ��� |"
+    },
+    {
+      "id": "p0113",
+      "text": "������������� | �� Indexical | �� Indexical |"
+    },
+    {
+      "id": "p0114",
+      "text": "������������� | �� Sinsign �� | �� Legisign � |"
+    },
+    {
+      "id": "p0115",
+      "text": "�������������� --------------------------- ��"
+    },
+    {
+      "id": "p0116",
+      "text": "�������������������� | �� (IV) ����� |"
+    },
+    {
+      "id": "p0117",
+      "text": "�������������������� | �� Dicent ��� |"
+    },
+    {
+      "id": "p0118",
+      "text": "�������������������� | �� Indexical |"
+    },
+    {
+      "id": "p0119",
+      "text": "�������������������� | �� Sinsign �� |"
+    },
+    {
+      "id": "p0120",
+      "text": "��������������������� -------------"
+    },
+    {
+      "id": "p0121",
+      "text": "Peirce: CP 2.265 Cross-Ref:��"
+    },
+    {
+      "id": "p0122",
+      "text": "�8. DEGENERATE SIGNS"
+    },
+    {
+      "id": "p0123",
+      "text": "����������� 265. In the course of the above descriptions of the classes, certain subdivisions of some of them have been directly or indirectly referred to. Namely, beside the normal varieties of Sinsigns, Indices, and Dicisigns, there are others which are Replicas of Legisigns, Symbols, and Arguments, respectively. Beside the normal varieties of Qualisigns, Icons, and Rhemes, there are two series of others; to wit, those which are directly involved in Sinsigns, Indices, and Dicisigns, respectively, and also those which are indirectly involved in Legisigns, Symbols, and Arguments, respectively. Thus, the ordinary Dicent Sinsign is exemplified by a weathercock and its veering and by a photograph. The fact that the latter is known to be the effect of the radiations from the object renders it an index and highly informative. A second variety is a Replica of a Dicent Indexical Legisign. Thus any given street cry, since its tone and theme identifies the individual, is not a symbol, but an Indexical Legisign; and any individual instance of it is a Replica of it which is a Dicent Sinsign. A third variety is a Replica of a Proposition. A fourth variety is a Replica of an Argument. Beside the normal variety of the Dicent Indexical Legisign, of which a street cry is an example, there is a second variety, which is that sort of proposition which has the name of a well-known individual as its predicate; as if one is asked, \"Whose statue is this?\" the answer may be, \"It is Farragut.\" The meaning of this answer is a Dicent Indexical Legisign. A third variety may be a premiss of an argument. A Dicent Symbol, or ordinary proposition, in so far as it is a premiss of an Argument, takes on a new force, and becomes a second variety of the Dicent Symbol. It would not be worth while to go through all the varieties; but it may be well to consider the varieties of one class more. We may take the Rhematic Indexical Legisign. The shout of \"Hullo!\" is an example of the ordinary variety--meaning, not an individual shout, but this shout \"Hullo!\" in general--this type of shout. A second variety is a constituent of a Dicent Indexical Legisign; as the word \"that\" in the reply, \"that is Farragut.\" A third variety is a particular application of a Rhematic Symbol; as the exclamation \"Hark!\" A fourth and fifth variety are in the peculiar force a general word may have in a proposition or argument. It is not impossible that some varieties are here overlooked. It is a nice problem to say to what class a given sign belongs; since all the circumstances of the case have to be considered. But it is seldom requisite to be very accurate; for if one does not locate the sign precisely, one will easily come near enough to its character for any ordinary purpose of logic."
+    },
+    {
+      "id": "p0124",
+      "text": "Peirce: CP 2.266 Cross-Ref:��"
+    },
+    {
+      "id": "p0125",
+      "text": "�9. THE TRICHOTOMY OF ARGUMENTS"
+    },
+    {
+      "id": "p0126",
+      "text": "����������� 266. There are other subdivisions of some, at least, of the ten classes which are of greater logical importance. An Argument is always understood by its Interpretant to belong to a general class of analogous arguments, which class, as a whole, tends toward the truth. This may happen in three ways, giving rise to a trichotomy of all simple arguments into Deductions, Inductions, and Abductions."
+    },
+    {
+      "id": "p0127",
+      "text": "Peirce: CP 2.267 Cross-Ref:��"
+    },
+    {
+      "id": "p0128",
+      "text": "����������� 267. A Deduction is an argument whose Interpretant represents that it belongs to a general class of possible arguments precisely analogous which are such that in the long run of experience the greater part of those whose premisses are true will have true conclusions. Deductions are either Necessary or Probable. Necessary Deductions are those which have nothing to do with any ratio of frequency, but profess (or their interpretants profess for them) that from true premisses they must invariably produce true conclusions. A Necessary Deduction is a method of producing Dicent Symbols by the study of a diagram. It is either Corollarial or Theorematic. A Corollarial Deduction is one which represents the conditions of the conclusion in a diagram and finds from the observation of this diagram, as it is, the truth of the conclusion. A Theorematic Deduction is one which, having represented the conditions of the conclusion in a diagram, performs an ingenious experiment upon the diagram, and by the observation of the diagram, so modified, ascertains the truth of the conclusion."
+    },
+    {
+      "id": "p0129",
+      "text": "Peirce: CP 2.268 Cross-Ref:��"
+    },
+    {
+      "id": "p0130",
+      "text": "����������� 268. Probable Deductions, or more accurately, Deductions of Probability, are Deductions whose Interpretants represent them to be concerned with ratios of frequency. They are either Statistical Deductions or Probable Deductions Proper. A Statistical Deduction is a Deduction whose Interpretant represents it to reason concerning ratios of frequency, but to reason concerning them with absolute certainty. A Probable Deduction proper is a Deduction whose Interpretant does not represent that its conclusion is certain, but that precisely analogous reasonings would from true premisses produce true conclusions in the majority of cases, in the long run of experience."
+    },
+    {
+      "id": "p0131",
+      "text": "Peirce: CP 2.269 Cross-Ref:��"
+    },
+    {
+      "id": "p0132",
+      "text": "����������� 269. An Induction is a method of forming Dicent Symbols concerning a definite question, of which method the Interpretant does not represent that from true premisses it will yield approximately true results in the majority of instances in the long run of experience, but does represent that if this method be persisted in, it will in the long run yield the truth, or an indefinite approximation to the truth, in regard to every question. An Induction is either a Pooh-pooh Argument, or an Experimental Verification of a general Prediction, or an Argument from a Random Sample. A Pooh-pooh Argument is a method which consists in denying that a general kind of event ever will occur on the ground that it never has occurred. Its justification is that if it be persistently applied on every occasion, it must ultimately be corrected in case it should be wrong, and thus will ultimately reach the true conclusion. A verification of a general prediction is a method which consists in finding or making the conditions of the prediction and in concluding that it will be verified about as often as it is experimentally found to be verified. Its justification is that if the Prediction does not tend in the long run to be verified in any approximately determinate proportion of cases, experiment must, in the long run, ascertain this; while if the Prediction will, in the long run, be verified in any determinate, or approximately determinate, proportion of cases, experiment must in the long run, approximately ascertain what that proportion is. An Argument from a Random Sample, is a method of ascertaining what proportion of the members of a finite class possess a predesignate, or virtually predesignate, quality, by selecting instances from that class according to a method which will, in the long run, present any instance as often as any other, and concluding that the ratio found for such a sample will hold in the long run. Its justification is evident."
+    },
+    {
+      "id": "p0133",
+      "text": "Peirce: CP 2.270 Cross-Ref:��"
+    },
+    {
+      "id": "p0134",
+      "text": "����������� 270. An Abduction is a method of forming a general prediction without any positive assurance that it will succeed either in the special case or usually, its justification being that it is the only possible hope of regulating our future conduct rationally, and that Induction from past experience gives us strong encouragement to hope that it will be successful in the future."
+    },
+    {
+      "id": "p0135",
+      "text": "Peirce: CP 2.271 Cross-Ref:��"
+    },
+    {
+      "id": "p0136",
+      "text": "�10. KINDS OF PROPOSITIONS"
+    },
+    {
+      "id": "p0137",
+      "text": "����������� 271. A Dicent Symbol, or general proposition, is either Particular or Universal. A Particular Dicent Symbol is represented by its Interpretant to indicate fact of existence; as, \"Some swan is black,\" i.e., there exists a black swan. A Universal Dicent Symbol is represented by its Interpretant to indicate a real law; as \"No swan is black,\" i.e., no amount of research will ever discover a black individual among swans. A Dicent Symbol is either Non-relative or Relative. A Non-relative Dicent Symbol is not concerned with the identity of more than one individual. But this must be understood in a particular way, the proposition being first expressed in an exemplar manner. Thus \"No swan is black\" seems to be concerned with the identity of all swans and all black objects. But it is to be understood that the proposition is to be considered under this form: Taking any one object in the universe you please, it is either not a swan or is not black. A Relative Dicent Symbol is concerned with the identity of more than one individual, or of what may be more than one, in an exemplar expression, as, \"Take any individual, A, you please, and thereafter an individual, B, can be found, such that if A is a city of over a hundred thousand inhabitants, B will be a spot on this map corresponding to A.\" Whether a proposition is to be regarded as non-relative or relative depends on what use is to be made of it in argument. But it does not follow that the distinction is merely one of outward guise; for the force of the proposition is different according to the application that is to be made of it. It may here be noted as a matter of correct terminology (according to the views set forth in the second part [of the published portion] of this syllabus),�1 that a Hypothetical Proposition is any proposition compounded of propositions. The old doctrine is that a hypothetical proposition is either conditional, copulative, or disjunctive. But a conditional is properly a disjunctive proposition. Some propositions may equally well be regarded as copulative or disjunctive. Thus, at once, either Tully or not Cicero and either Cicero or not Tully, is the same as, either at once, Tully and Cicero or not Tully and not Cicero. Any definition may be regarded as a proposition of this sort; and for this reason such propositions might be termed Definiform, or Definitory. A copulative proposition is naturally allied to a particular proposition, a disjunctive proposition to a universal proposition."
+    },
+    {
+      "id": "p0138",
+      "text": "Peirce: CP 2.272 Cross-Ref:��"
+    },
+    {
+      "id": "p0139",
+      "text": "����������� 272. If parts of a proposition be erased so as to leave blanks in their places, and if these blanks are of such a nature that if each of them be filled by a proper name the result will be a proposition, then the blank form of proposition which was first produced by the erasures is termed a rheme. According as the number of blanks in a rheme is 0, 1, 2, 3, etc., it may be termed a medad (from {m�den}, nothing), monad, dyad, triad, etc., rheme."
+    },
+    {
+      "id": "p0140",
+      "text": "Peirce: CP 2.273 Cross-Ref:��"
+    },
+    {
+      "id": "p0141",
+      "text": "�11. REPRESENT �1"
+    },
+    {
+      "id": "p0142",
+      "text": "����������� 273. To stand for, that is, to be in such a relation to another that for certain purposes it is treated by some mind as if it were that other."
+    },
+    {
+      "id": "p0143",
+      "text": "Peirce: CP 2.273 Cross-Ref:��"
+    },
+    {
+      "id": "p0144",
+      "text": "����������� Thus a spokesman, deputy, attorney, agent, vicar, diagram, symptom, counter, description, concept, premiss, testimony, all represent something else, in their several ways, to minds who consider them in that way. See Sign.�2 When it is desired to distinguish between that which represents and the act or relation of representing, the former may be termed the \"representamen,\" the latter the \"representation.\""
+    }
+  ],
+  "anchors": {
+    "peirce-triadic-sign": {
+      "paragraphId": "p0008",
+      "start": 17,
+      "end": 244,
+      "quote": "A sign, or representamen, is something which stands to somebody for something in some respect or capacity. It addresses somebody, that is, creates in the mind of that person an equivalent sign, or perhaps a more developed sign.",
+      "match": "normalized-exact"
+    }
+  }
+}

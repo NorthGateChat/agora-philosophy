@@ -9,6 +9,9 @@ const releaseDirectory = resolve(projectRoot, "release");
 const brand = JSON.parse(
   await readFile(resolve(projectRoot, "brand.json"), "utf8"),
 );
+const packageMetadata = JSON.parse(
+  await readFile(resolve(projectRoot, "package.json"), "utf8"),
+);
 const archivePath = resolve(
   releaseDirectory,
   `${brand.slug}-${brand.version}.zip`,
@@ -38,6 +41,16 @@ if (manifest.manifest_version !== 3) {
   throw new Error("Refusing to package a non-MV3 extension");
 }
 
+const versions = {
+  brand: brand.version,
+  package: packageMetadata.version,
+  manifest: manifest.version,
+};
+
+if (new Set(Object.values(versions)).size !== 1) {
+  throw new Error(`Version mismatch: ${JSON.stringify(versions)}`);
+}
+
 await mkdir(releaseDirectory, { recursive: true });
 await rm(archivePath, { force: true });
 
@@ -55,6 +68,18 @@ const archivedFiles = execFileSync("unzip", ["-Z1", archivePath], {
 
 if (!archivedFiles.includes("manifest.json")) {
   throw new Error("Packaged archive does not contain manifest.json at its root");
+}
+
+const archivedManifest = JSON.parse(
+  execFileSync("unzip", ["-p", archivePath, "manifest.json"], {
+    encoding: "utf8",
+  }),
+);
+
+if (archivedManifest.version !== brand.version) {
+  throw new Error(
+    `Packaged manifest version ${archivedManifest.version} does not match ${brand.version}`,
+  );
 }
 
 console.log(`Created ${archivePath}`);

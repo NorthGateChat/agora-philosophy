@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-outlines-of-psychology-chapter-7-1dc76b8b",
+  "title": "章 7",
+  "englishTitle": "Chapter 7",
+  "work": "《心理学纲要》",
+  "englishWork": "Outlines of Psychology",
+  "locator": "章 7",
+  "englishLocator": "Chapter 7",
+  "version": "莱比锡大学冯特数字档案，Charles Hubbard Judd 1907 年第三次修订公版英译，《心理学纲要》第7节第7项；卡片以省略号移除图8引用与坐标字母",
+  "englishVersion": "Leipzig University Wundt digital archive, Charles Hubbard Judd's third revised public-domain English edition (1907), Outlines of Psychology, §7.7; ellipses omit the reference to Fig. 8 and coordinate letters",
+  "sourceUrl": "https://psychologie.lw.uni-leipzig.de/wundt/opera/wundt/OLiPsych/OLiPsy07.htm",
+  "source": {
+    "contentType": "text/html",
+    "sha256": "3ae8a8985f8a3f05bf66b58f9d777ec409fee3e35a5f9cf8790c0b61c4957d6c"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "2b18c47f94d366b9b55577ec93148c76258b74172ba45327b439eba7de84e1d2",
+  "inputHash": "c4442cb634a580d7da4956de38822e8c9ade21c76cab8d922b8faeaaed2457fe",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "&sect; 7. SIMPLE FEELINGS. 1. Simple feelings may originate in very many more ways than simple sensations. For even such feelings as we never observe except in connection with more or less complex ideational processes, are often subjectively unanalyzable (p. 38). Thus, for example, the feeling of tonal harmony is just as simple as the feeling connected with a single tone. The only essential difference between the two is that the feelings which correspond to simple sensations can be easily isolated from the interconnections of which they form a part in our experience, by the same method of abstraction as that which we employed in discovering the simple sensations (p. 32). Those feelings, on the other hand, which are connected with some composite ideational compound, can never be separated from the feelings which enter into the compound as subjective complements of the sensation factors. Thus, for example, it is impossible to separate the feeling of harmony connected with the chord c e g from the simple feelings connected with each of the single tones c , e, and g. The latter may, indeed, be pushed into the background, for as we shall see later (&sect; 12, 3a), they always unite with the feeling of harmony to form a unitary total feeling, but they can never be eliminated."
+    },
+    {
+      "id": "p0002",
+      "text": "2. The feeling connected with a simple sensation is commonly known as a sense-feeling, or as the affective tone of a sensation. These two expressions are capable of misinterpretation in opposite ways. There is a tendency to see in the term \"sense-feeling\" a reference, not merely to a component of immediate experience which may be isolated by abstraction, but more than that, reference to a component of such experience which may appear quite independently of other elements. The term \"affective tone\", on the other hand, is looked upon as indicating that some affective quality is an invariable attribute of a sensation, just as \"color-tone\" is a necessary determinant of a color sensation. In reality, however, a sense-feeling without a sensation can no more exist than can a feeling of tonal harmony without tonal sensations. When, as is sometimes the case, the feelings accompanying sensations of pain, of pressure, of heat and of cold, and the feelings accompanying muscle sensations, are called independent sense-feelings, it is due to the confusion of the concepts sensation and feeling (p. 40) which is still prevalent, especially in physiology. As a result of this confusion certain sensations, such as those of touch, are called \"feelings\", and in the case of some sensations accompanied by strong feelings, such as sensations of pain, the discrimination of the two elements is neglected. In the second place, it would be just as inadmissable to ascribe to a given sensation, as one of its attributes, a definite feeling fixed in quality and intensity. The real truth is that in every case the sensation is only one of the many factors which determine the feeling present at a given moment. Besides the sensation there are certain processes which have gone before and certain permanent dispositions � conditions which we can only partially account for in special cases � all of which play an essential part. The concept \"sense-feeling\" or \"affective tone\" is, accordingly, in a double sense the product of analysis and abstraction: first, we must think of the simple feeling as separated from its concomitant pure sensation, and second, we must pick out from among all the various changing affective elements which are connected with a given sensation under different conditions, the one which is most constant and the one in the case of which all the influences which could disturb or complicate the simple effect of the sensation are as far as possible absent."
+    },
+    {
+      "id": "p0003",
+      "text": "The first of these conditions is comparatively easy to meet, if we keep in mind the psychological meaning of the concepts sensation and feeling. The second is very difficult, and, especially in the case of the most highly developed sensational systems, that is, the auditory and visual systems, it is never really possible to remove entirely such indirect influences. Thus, for example, the sensation green arouses almost unavoidably the idea of green vegetation, and since there are connected with this idea composite feelings the character of which may be entirely independent of the affective tone of the color itself, it is impossible to determine directly whether the feeling observed when a green impression is presented, is a pure affective tone, a feeling aroused by the attending idea, or a combination of both."
+    },
+    {
+      "id": "p0004",
+      "text": "2a. This difficulty has led many psychologists to argue against the existence of any pure affective tone whatever. They assert that every sensation arouses some accompanying ideas, and that the affective action of the sensation is due in every case to these ideas. But the results of experimental variation of the conditions for light sensations, tell against this view. If the attendant ideas were the only sources of the feeling, then the feeling would necessarily be strongest when the sensational contents of the impression were most like those of the ideas. This is by no means the case. The affective tone of a color is greatest when its grade of saturation reaches a maximum. The pure colors of the spectrum observed in surrounding darkness have the strongest affective tone. These colors are, however, generally very different from those of the natural objects to which accompanying ideas might refer. There is equally little justification for the attempts to derive tonal feelings exclusively from ideas. It can not be doubted that familiar musical ideas may be aroused through a single tone; still, on the other hand, the constancy with which certain tonal qualities are chosen to express particular feelings, as, for example, deep tones to express grave and sad feelings, can be understood only on the ground that the corresponding affective quality belongs to the simple tone sensation, rather than to a suggested idea. The circle in which the argument moves is even more obvious when the affective tones of sensations of taste, smell, and the general sense are referred to accompanying ideas. When, for example, the agreeable or disagreeable tone of a taste sensation is increased by the recollection of the same impression as experienced before, this can be possible only under the condition that the earlier impression was itself agreeable or disagreeable."
+    },
+    {
+      "id": "p0005",
+      "text": "3. The varieties of simple feelings are exceedingly numerous. The feelings corresponding to a particular sensational system form an affective system, since, in general, a change in the quality or intensity of the affective tone runs parallel with every change in the quality or intensity of the sensations. At the same time these changes in the affective systems are essentially different from the changes in the sensational systems which occur at the same time. Thus, if the intensity of a sensation is varied, the affective tone may change not only in intensity, but also in quality; and if the quality of a sensation is varied, the affective tone may change not only in quality, but also in intensity. For example, increase the sensation sweet in intensity and it changes gradually from agreeable to disagreeable. Or, gradually substitute for a sweet sensation one of sour or bitter, keeping the intensity constant, it will be observed that, for equal intensities, sour, and more especially bitter, produce much stronger feelings than sweet. In general, then, every change in sensation is usually accompanied by a twofold change in feeling. The way in which changes in the quality and intensity of affective tones are related to each other follows the principle that every series of affective changes in one dimension ranges between opposites, not, as is the case with the corresponding sensational changes, between greatest differences (p. 37)."
+    },
+    {
+      "id": "p0006",
+      "text": "4. In accordance with this principle there correspond to the greatest qualitative differences in sensation, the greatest opposites in affective quality, and the maxima of affective intensities. These extremes are either equal, or at least, according to the special peculiarities of the qualitative opposites, approximately equal. The middle point between them corresponds, when only the single dimension to which the opposites belong is considered, to an absence of all intensity. This absence of intensity can be observed only when the corresponding sensational system is absolutely one-dimensional. In all other cases, a point which is a neutral middle for one particular series of sensational differences, belongs at the same time to another sensational dimension or even to a number of such dimensions, in each of which it has a definite affective value. Thus, for example, spectral yellow and blue are opposite colors which have correspondingly opposite affective tones. In passing gradually along the color line from one of these to the other, green would be the neutral middle between them. But green itself stands in affective contrast with red; and, furthermore, it is, like every saturated color, one extremity of a series made up of the transitional stages of a single color-tone to white. Again, the system of simple tone sensations forms a continuity of only one dimension, but in this case more than in others it is impossible to isolate the corresponding affective tones through abstraction, as we did the pure sensations, because in actual experience we always have, not only the tonal series to deal with, but also series of transitions from absolutely simple tones to noises which are made up of profusions of simple tones. The result of these conditions is that every many-dimensional sensational system has a corresponding complex system of affective tones, in which every point generally belongs at once to several dimensions, so that the neutral middle between opposite feelings can actually be found in experience only in the special cases where the affective tone of a particular sensation corresponds to the neutral middle of all the dimensions to which it belongs. This special condition is obviously fulfilled, at least approximately, for the many-dimensional sensational systems, especially those of sight and hearing, in just the cases in which it is of special practical value for the undisturbed occurrence of affective processes. For vision it is sensations of medium brightness, and those of the low grades of chromatic saturation approximating them, which form the neutral indifference-zones of affective quality; in the case of hearing it is the auditory impressions of our ordinary environment, which are between a tone and a noise in character (as, for example, the human voice). On both sides of these zones arise the more intense affective tones of the more marked sensational qualities."
+    },
+    {
+      "id": "p0007",
+      "text": "5. The variations in affective quality and intensity which run parallel to the different grades of sensational intensity, are much simpler. They can be most clearly seen in the various sensational systems of the general sense. Each of these systems is of a uniform quality throughout, and is fairly well represented geometrically by a single point (p. 35), so that the only possible sensational changes are those of intensity, and these can be attended only by a one-dimensional series of affective changes between opposites. The neutral indifference-zone is, accordingly, always easy to observe in these cases. It corresponds to the medium sensations of pressure, heat, and cold, which medium sensations are connected with the normal, medium intensity of ordinary sense-stimuli. The simple feelings on both sides of this zone exhibit decidedly opposite characters, and can usually be classified on one side as pleasurable feelings, and on the other as unpleasurable (v. inf. 7). The unpleasurable feelings are the only ones which can be produced with certainty, by increasing the intensity of the sensation. Through habituation to moderate stimuli, such an expansion of the indifference-zone has taken place in these systems of the general sense, that when the stimuli are weak, as a rule only a succession of sensations strikingly different in intensity or quality, can produce noticeable feelings. In such cases, feelings of pleasure always correspond to sensations of medium intensity."
+    },
+    {
+      "id": "p0008",
+      "text": "The regular relation between sensational intensity and affective tone, can be better observed without this influence of contrast, in the case of certain sensations of smell and taste. At first a pleasurable feeling arises with weak sensations and increases with the increasing intensity of the sensations to a maximum, then the feeling sinks to zero with a certain medium sensational intensity, and finally, when this intensity increases still more, the feeling becomes unpleasurable and increases until the sensational maximum is reached."
+    },
+    {
+      "id": "p0009",
+      "text": "6. The variety of simple affective qualities seems to be indefinitely great, at least it is greater than that of sensations. This is due to two facts. First, every sensation of the many-dimensional systems belongs at once to several series of feelings (p. 88). Second, and this is the chief reason, the different compounds arising from the various combinations of sensations, such as intensive, spatial, and temporal ideas, and also certain stages in the course of emotions and volitions, have corresponding feelings which are irreducible, and must therefore be classed among the simple feelings (p. 38)"
+    },
+    {
+      "id": "p0010",
+      "text": "It is greatly to be regretted that the names of simple feelings are so much more hazy than the names of sensations. The proper nomenclature of feeling is limited entirely to the expression of certain general antitheses, such as agreeable and disagreeable, grave and gay, excited and quiet, etc. These designations are usually based on the emotions into which the feelings enter as elements, and they are, furthermore, so general that each includes a large number of single simple feelings of very different character. In other cases the names of complex ideas with affective characters similar to the feeling in question are used in describing the feelings connected with simple impressions, as, for example, by Goethe in his description of the affective tone of colors, and by many writers on music in describing the feelings accompanying clangs. This poverty of language in special names for the feelings, is a psychological consequence of the subjective nature of the feelings. All the motives of practical life which give rise to the names of objects and their attributes, are here wanting. To infer from this poverty of language that there is a corresponding poverty of affective qualities themselves, is a psychological mistake, which is the more fatal since it renders an adequate investigation of the composite affective processes impossible from the first."
+    },
+    {
+      "id": "p0011",
+      "text": "7. In consequence of the difficulties indicated, a complete list of simple affective qualities is out of the question, even more than is a complete list in the case of simple sensations. Then, too, there are still other reasons why it would be impossible to make such a list of feelings. The feelings, by virtue of the attributes described above, do not form separate systems, as do the sensations of tone, of light, or of taste, but all feelings are united in a single manifold, interconnected in all its parts (p. 36). In this manifold of feelings, it is however, possible to distinguish certain different chief affective series, or dimensions, terminating in affective opposites of predominant character. Such series, or dimensions may be designated by the two names which indicate their opposite extremes. Each name is, however, to be looked upon as a collective name including a great variety of feelings differing from one another in certain minor individual characteristics."
+    },
+    {
+      "id": "p0012",
+      "text": "Three such chief dimensions may be distinguished ( Fig. 8 ). We call them the series of pleasurable and unpleasurable feelings ( ab ) that of arousing and subduing feelings ( cd ) and finally that of feelings of strain and relaxation ( ef ) . Any concrete feeling may belong to all of these dimensions, or it may belong to only two, or even to only one of them. The last mentioned possibility is all that makes it possible to distinguish the different directions. The"
+    },
+    {
+      "id": "p0013",
+      "text": "fundamental feeling qualities can be represented in the form of a three-dimensional figure the central point (N, Fig. 8 ) of which is the indifference point. Three lines indicating the three dimensions of feeling pass through this indifference point. A given feeling may lie in one or more of these dimensions."
+    },
+    {
+      "id": "p0014",
+      "text": "8. Feelings connected with sensations of the general sense and with impressions of smell and taste, may be regarded as good examples of pure pleasurable and unpleasurable forms. A sensation of pain, for example, is regularly accompanied by an unpleasurable feeling without any admixture of other affective forms. In connection with pure sensations, arousing and subduing feelings may be observed best in the case of color impressions and clang impressions. Thus, red is arousing, blue subduing. Feelings of strain and relaxation are always connected with the processes of attention. Thus, when we expect a sense impression, we note a feeling of strain, and on the arrival of the expected event, we note a feeling of relaxation. Both the expectation and satisfaction may be accompanied at the same time by a feeling of excitement or, under special conditions, by pleasurable or unpleasurable feelings. These other feelings may, however, be entirely absent, and then the feelings of strain and relaxation are recognized as specific forms which can not be reduced to others, just as the other forms were recognized as distinct and separate in the examples mentioned before. The presence of more than one affective tendency may be discovered in the case of very many feelings which are, nevertheless, just as simple in quality, as the feelings mentioned. Thus, the feelings of seriousness and gaiety connected with the sensible impressions of low and high tones or dark and bright colors, are to be regarded as characteristic qualities which are outside the indifference-zone in both the pleasurable and unpleasurable dimension and the exciting and subduing dimension. We are never to forget here that pleasurable and unpleasurable, exciting and subduing, are not names of single affective qualities, but of dimensions or series, within which an indefinitely large number of simple qualities appear, so that the unpleasurable quality of seriousness is not only to be distinguished from that of a painful touch, of a discord, etc., but even the different cases of seriousness itself may vary in their quality. Again, the series of pleasurable and unpleasurable feelings, is united with that of feelings of strain and relaxation, in the case of the affective tones of rhythms. The regular succession of strain and relaxation in these cases is attended by pleasure, the disturbance of this regularity is attended by the opposite feeling, as when we are disappointed or surprised. Then, too, under certain circumstances the feeling of rhythm may be of either an exciting or a subduing character."
+    },
+    {
+      "id": "p0015",
+      "text": "8a. Of the three affective dimensions mentioned, only that of pleasurable and unpleasurable feelings has generally been recognized; the others are usually treated as emotions. But the emotions, as we shall see in &sect; 13, are combinations of feelings. It is obvious, therefore, that the fundamental forms of emotions must have their antecedents in the affective elements. Some psychologists have regarded pleasurable and unpleasurable feelings, not as collective terms including a great variety of simple feelings, but as entirely uniform, concrete states, so that, for example, the unpleasurableness of a toothache, of an intellectual failure, and of a tragical experience are regarded as identical in their affective contents. Still others seek to identify the feelings with special sensations, especially with cutaneous sensations or muscle sensations. Such theories are utterly helpless when confronted with the problems that arise in the study of complex emotions, as for example, throughout the sciences of aesthetics or ethics, or else they make shift to meet these problems by an intellectualistic mode of interpretation copied from the psychology of the unscientific man. In this latter case the aesthetic effects are entirely suppressed under certain logical reflections about such effects, and then the assertion is subsequently accepted that these logical reflections are themselves the aesthetical effect. It would be more within reason to think that the six classes of feelings which appeared in the classification of the chief affective tendencies, or dimensions (pleasure, unpleasantness, excitation and subduing feeling, strain and relaxation) are themselves simple, concrete qualities, capable of giving rise to qualitative differences in emotions through combinations in different proportions and in different intensities, and through such combinations only. Such a view of feeling as this, seems in fact to be supported by the testimony of those who are partially hypnotized and are, therefore, through the consequent concentration of consciousness (&sect; 18, 8) in a condition especially adapted to subjective analysis of the feelings (O. Vogt). It is possible, however, that the concentration of consciousness which is necessary for this discrimination of the chief affective tendencies in hypnosis, hinders, after all, a complete analysis. At all events, the supposition that there are six uniform fundamental qualities is contradicted by the character and attributes of simple color feelings and tonal feelings. When, for example, one changes the deep sky-blue of the spectrum at which he may be looking, into indigo-blue, he will feel in both cases the peculiar quieting effect of blue, but in the two cases there will be a different shade of this feeling which it would be very difficult to account for by assuming the admixture of any other feeling. It is still more difficult to give adequate explanations of the feelings which are connected with complex impressions, on the basis of this assumption that there are only three pairs of simple feelings. Thus such musical intervals as the third, fourth, and fifth are accompanied, each by feelings of pleasure which are not merely quantitatively different, but also qualitatively different. The lack of proper designations makes very difficult, to be sure, the accurate verbal discrimination of these finer shades of feeling, but this lack of terms can not be attributed to a lack of feelings, especially as in this case there are obvious grounds on which the lack of terms can be more fully understood. Indeed, one might draw upon the case of sensations for corroboration of this view in regard to the lack of terms for feelings. The names of sensations are very much more numerous than the names of feelings, because of the constant use of such names for objective designations, but even though this is true, yet the names of sensations are very far indeed from equaling in number the different qualities that are subjectively distinguished, especially in the cases of tones, lights, and colors."
+    },
+    {
+      "id": "p0016",
+      "text": "References. Goethe, Farbenlehre, Pt. 6. Fechner, Vorschule der &Auml;sthetik, vol. II, p. 212. Nahlowsky, Das Gef&uuml;hlsleben, 2nd ed., 1884. Ziegler, Das Gef&uuml;hl, 1893. Lehmann, Die Hauptgesetze des menschl. Gef&uuml;hlslebens, 1892. Wundt, Grundz. 5th ed., vol. II, Chap. 2; Lectures, lecture 14. Lipps, Vom F&uuml;hlen, Wollen und Denken, 1902. O. Vogt, Zeitschrift fur Hypnotismus, vols. 14 and 15. geiger, Archiv f. Psych., vol.4."
+    },
+    {
+      "id": "p0017",
+      "text": "9. The question whether or not particular physiological processes correspond to the simple feelings is more difficult to answer than was the similar question in regard to the sensations. In looking for such processes, it follows from the subjective nature of the feelings, that we should not expect to find them, as in the case of sensations, among the processes produced directly in the organism by external agents; we must look rather among the reactions which arise indirectly from these first processes. Further evidence pointing in the same direction is derived from observation of psychical compounds made up of affective elements, that is, from observation of emotions and volitions, the physiological concomitants of which are always external movement."
+    },
+    {
+      "id": "p0018",
+      "text": "The analysis of sensations, and of the psychical compounds derived from them, makes direct use of the impression method; while the investigation of feelings, and of the processes resulting from their combinations, can employ this method only indirectly. On the other hand, the expression method, that is, the investigation of the physiological reactions of psychical processes, is especially adapted to the examination of feelings and of processes made up of feelings. All the phenomena in which the inner state of the organism is outwardly expressed, may be utilized as aids in the expression method. Such are, besides the movements of the external muscles, especially the respiratory and cardiac movements, the contraction and dilation of the blood-vessels in particular organs, the dilation and contraction of the pupil of the eye, etc. The most delicate of these is the beating of the heart, which can be examined as exactly reproduced in the pulse of some peripheral artery. In addition to these variations in the pulse, the tension of the muscles of the small arteries (the so-called vaso-motor innervations) and changes in the respiratory rhythm, are more or less characteristic symptoms. The mimetic movements appear clearly only when the feelings pass into emotions (&sect; 13, 4)."
+    },
+    {
+      "id": "p0019",
+      "text": "10. Of the chief dimensions of feeling mentioned above, especially the dimension of pleasurable and unpleasurable feelings can be shown to stand in regular relation to the pulse. When the feeling is pleasurable, the pulse is retarded and intensified, when unpleasurable, the pulse is accelerated and weakened. Of the other forms of feeling, the exciting feelings show their presence through stronger pulse-beats, and subduing feelings through weaker pulse-beats, there being no apparent change of rate in either case if other feelings do not complicate matters. For feelings of strain, the pulse is slow and weak; for feelings of relaxation, rapid and weak."
+    },
+    {
+      "id": "p0020",
+      "text": "These results may be summarized in the following table."
+    },
+    {
+      "id": "p0021",
+      "text": "Pulse |����������������������|"
+    },
+    {
+      "id": "p0022",
+      "text": "Strong Weak"
+    },
+    {
+      "id": "p0023",
+      "text": "|�����������| |������������|"
+    },
+    {
+      "id": "p0024",
+      "text": "slow * rapid slow * rapid"
+    },
+    {
+      "id": "p0025",
+      "text": "* * * * * *"
+    },
+    {
+      "id": "p0026",
+      "text": "* * * * * *"
+    },
+    {
+      "id": "p0027",
+      "text": "* * * * * *"
+    },
+    {
+      "id": "p0028",
+      "text": "Pleasurable * Relaxation Strain * Unpleasurable"
+    },
+    {
+      "id": "p0029",
+      "text": "feeling * |�����������| * feeling"
+    },
+    {
+      "id": "p0030",
+      "text": "Arousing Subduing"
+    },
+    {
+      "id": "p0031",
+      "text": "feeling feeling"
+    },
+    {
+      "id": "p0032",
+      "text": "|�����������������������|"
+    },
+    {
+      "id": "p0033",
+      "text": "|����������������������������������|"
+    },
+    {
+      "id": "p0034",
+      "text": "Changes in the pulse are accompanied by equally characteristic changes in the innervations of respiration. It can be observed that with the rise of the feeling of strain there is an inhibition of respiration which may reach the point of complete stopping of respiration. This inhibition is followed, when the strain is relieved, by a sudden strengthening and hastening of respiration. In the case of a pleasurable feeling, respiration is less intense but more rapid, while in the case of unpleasant feeling the opposite is true and respiration is deep and slow. In view of the fact that most of the feelings belong at the same time to more than one dimension, the innervations of respiration are in many cases very complex in character, so that an unambiguous inference of the state of feeling can not be drawn from the physiological processes."
+    },
+    {
+      "id": "p0035",
+      "text": "10a. The physiological conditions of cardiac, vaso-motor, and respiratory symptoms are, for the most part, still obscure. The cardiac innervations are the ones which have been most fully investigated. Physiology shows that the heart is connected with the central organs by two kinds of nerves: excitatory nerves, which run through the sympathetic system and originate indirectly in the medulla, and inhibitory nerves, which belong to the tenth cranial nerve (vagus) and also have their source in the medulla. The normal regularity of the pulse depends on a certain equilibrium between excitatory and inhibitory influences. Such influences come not only from the brain, but also from the centers in the heart itself. Thus, every increase and every decrease of the energy of the heart may be interpreted in two different ways. Increase may be due to an increase of excitatory, or to a decrease of inhibitory innervation, and decrease may be due to a decrease in excitatory or to an increase in inhibitory innervation, or in both cases the two influences may be united. We have no universally applicable means of investigating these possibilities, still, the fact that the stimulation of the inhibitory nerves has a quicker effect than the stimulation of the excitatory, gives us good ground in many cases for conjecturing the presence of the one or the other. The changes in the pulse always follow very quickly the sensations that cause them. It is, therefore, probable that in the case of feelings and emotions, we have chiefly changes in inhibitory innervation, originating in the brain and conducted along the vagus. It may well be assumed that the affective tone of sensation corresponds on its physiological side to a spreading of the stimulation from the sensory center to those central regions which are connected with the sources of the inhibitory nerves of the heart. What central regions these are, we do not know. But the fact that the physiological substrata for all the elements of our psychological experience, are in all probability to be found in the cerebral cortex, leads very naturally to the assumption that the same is true of the center of these inhibitory innervations. Furthermore, the essential differences between the attributes of feelings and those of sensations, make it probable that this center is not identical with the sensory centers. If a special cortical region is assumed as the medium for these inhibition effects, there is no reason for supposing a special inhibitory region for each sensory center. Indeed, the complete uniformity in the physiological symptoms goes more to show that there is only one such region, which must serve at the same time as a kind of central organ for the connection of the various sensory centers. (For further significance of such a central region, and its probable anatomical position, compare &sect; 15, 2a.)"
+    },
+    {
+      "id": "p0036",
+      "text": "References. Mosso, &Uuml;ber den Kreislauf des Blutes im menschl. Gehirn, 1881. F&Eacute;R&Eacute;, Sensation et mouvement, 1887. Lehmann, Hauptgesetze des menschl. Gef&uuml;hlslebens, 1892, and Die k&ouml;rperlichen &Auml;u&szlig;erungen psychischer Zust&auml;nde, I and II (with Atlas) 1889�91. Wundt, Bemerkungen zur Theorie der Gef&uuml;hle, Phil. Stud., vol 15. Meumann and Zoneff, Brahn, Gent, Phil. Stud., vol. 18.Isenberg and Vogt, Zeitschr. f. Hypnotismus, vol. 10. Wundt, Grundz. 5th ed., vol. II, Chap. II. Lectures, lecture 14."
+    }
+  ],
+  "anchors": {
+    "psychology-foundations-wundt-feeling-dimensions": {
+      "paragraphId": "p0012",
+      "start": 0,
+      "end": 48,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0012",
+          "start": 0,
+          "end": 48,
+          "text": "Three such chief dimensions may be distinguished"
+        },
+        {
+          "paragraphId": "p0012",
+          "start": 61,
+          "end": 126,
+          "text": "We call them the series of pleasurable and unpleasurable feelings"
+        },
+        {
+          "paragraphId": "p0012",
+          "start": 134,
+          "end": 172,
+          "text": "that of arousing and subduing feelings"
+        },
+        {
+          "paragraphId": "p0012",
+          "start": 180,
+          "end": 235,
+          "text": "and finally that of feelings of strain and relaxation ("
+        }
+      ],
+      "quote": "Three such chief dimensions may be distinguished ... We call them the series of pleasurable and unpleasurable feelings ... that of arousing and subduing feelings ... and finally that of feelings of strain and relaxation."
+    }
+  }
+}

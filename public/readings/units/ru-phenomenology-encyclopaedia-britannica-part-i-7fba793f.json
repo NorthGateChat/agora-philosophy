@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-phenomenology-encyclopaedia-britannica-part-i-7fba793f",
+  "title": "部分 I",
+  "englishTitle": "Part I",
+  "work": "〈现象学〉（《大英百科全书》）",
+  "englishWork": "“Phenomenology” (Encyclopaedia Britannica)",
+  "locator": "部分 I",
+  "englishLocator": "Part I",
+  "version": "《大英百科全书》第14版第17卷（1929）原书扫描，胡塞尔〈现象学〉第一部分“现象学心理学”之“现象学—心理学与本质还原”，印刷页700第2栏，C. V. Salmon英译，完整连续句；仅确认美国公版",
+  "englishVersion": "Original scan of Encyclopaedia Britannica, 14th ed., vol. 17 (1929), Husserl's ‘Phenomenology,’ Part I, ‘Phenomenological Psychology,’ subsection ‘Phenomenological-psychological and Eidetic Reductions,’ print p. 700, col. 2, trans. C. V. Salmon, complete continuous sentence; U.S. public-domain status only",
+  "sourceUrl": "https://archive.org/details/in.ernet.dli.2015.73095/page/n780/mode/1up",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "b2bac80d83ccdec1cc5fd86c0cc5df43f94930d8bd52e857e226bd1ea38b7af6"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "96c9ab90030c2be9c6b2951cf3e4456ab90d87a009ddf1ca5005d3051982ca0c",
+  "inputHash": "f46f513a8f373749bedfe8f4af02e5a0e39784823556aaba8ac599b626977308",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "I. PHENOMENOLOGICAL PSYCHOLOGY"
+    },
+    {
+      "id": "p0002",
+      "text": "Phenomenology denotes a new, descriptive, philosophical method, which, since the concluding years of the last century, has established (i) an a priori psychological discipline, able to provide the only secure basis on which a strong empirical psychology can be built, and (2) a universal philosophy, which can supply an organum for the methodical revision of all the sciences."
+    },
+    {
+      "id": "p0003",
+      "text": "Present-day psychology, as the science of the “psychical” in its concrete connection with spatio-temporal reality, regards as its material whatever is present in the world as “ego-istic”; i.e., “living,” perceiving, thinking, willing, etc., actual, potential and habitual. And as the psychical is known as a certain stratum of existence, proper to men and beasts, psychology may be considered as a branch of anthropology and zoology. But animal nature is a part of physical reality, and that which is concerned with physical reality is natural science. Is it, then, possible to separate the psychical cleanly enough from the physical to establish a pure psychology parallel to natural science? That a purely psychological investigation is practicable within limits is shown by our obligation to it for our fundamental conceptions of the psychical, and most of those of the psycho-physical."
+    },
+    {
+      "id": "p0004",
+      "text": "But before determining the question of an unlimited psychology, we must be sure of the characteristics of psychological experience and the psychical data it provides. We turn naturally to our"
+    },
+    {
+      "id": "p0005",
+      "text": "PHENOMENOLOGY"
+    },
+    {
+      "id": "p0006",
+      "text": "immediate experiences. But we cannot discover the psychical in any experience, except by a “reflection,’’ or perversion of the ordinary attitude. We are accustomed to concentrate upon the matters, thoughts, and values of the moment, and not upon the psychical “act of experience” in which these are apprehended. This “act” is r'fevealed by a “reflection”; and a reflection can be practised on every experience. Instead of the matters themselves, the values, goals, utilities, etc., we regard the subjective experiences in which these “appear.” These “appearances” are phenomena, whose nature is to be a “consciousness-of” their object, real or unreal as it be. Common language catches this sense of “relativity,” saying, I was thinking of something, I was frightened of something, etc. Phenomenological psychology takes its name from the “phenomena,” with the psychological aspect of which it is concerned: and the word “intentional” has been borrowed from the scholastic to denote the essential “reference” character of the phenomena. All consciousness is “intentional.”"
+    },
+    {
+      "id": "p0007",
+      "text": "In unreflective consciousness we are “directed” upon objects, we “intend” them ; and reflection reveals this to be an immanent process characteristic of all experience, though infinitely varied in form. To be conscious of something is no empty having of that something in consciousness. Each phenomenon has its own intentional structure, which analysis shows to be an ever-widening system of individually intentional and intentionally related components. The perception of a cube, for example, reveals a multiple and synthesized intention: a continuous variety in the “appearance” of the cube, according to differences in the points of view from which it is seen, and corresponding differences in “perspective,” and all the difference between the “front side” actually seen at the moment and the “backside” which is not seen, and which remains, therefore, relatively “indeterminate,” and yet is supposed equally to be existent. Observation of this “stream” of “appearance-aspects” and of the manner of their synthesis, shows that every phase and interval is already in itself a “consciousnessof” something, yet in such a way that with the constant entry of new phases the total consciousness, at any moment, lacks not synthetic unity, and is, in fact, a consciousness of one and the same object. The intentional structure of the train of a perception must conform to a certain type, if any physical object is to be perceived as there! And if the same object be intuited in other modes, if it be imagined, or remembered, or copied, all its intentional forms recur, though modified in character from what they were in the perception, to correspond to their new modes. The same is true of every kind of psychical experience. Judgment, valuation, pursuit, these also are no empty experiences having in consciousness of judgments, values, goals and means, but are likewise experiences compounded of an intentional stream, each conforming to its own fast type."
+    },
+    {
+      "id": "p0008",
+      "text": "Phenomenological psychology’s comprehensive task is the systematic examination of the types and forms of intentional experience, and the reduction of their structures to the prime intentions, learning thus what is the nature of the psychical, and comprehending the being of the soul."
+    },
+    {
+      "id": "p0009",
+      "text": "The validity of these. investigations will obviously extend beyond the particularity of the psychologist’s own soul. For psychical life may be revealed to us not only in self-consciousness but equally in our consciousness of other selves, and this latter source of experience offers us more than a reduplication of what we find in our self-consciousness, for it establishes the differences between “own” and “other” which we experience, and presents us with the characteristics of the “social-life.” And hence the further task accrues to psychology of revealing the intentions of which the “social life” consists."
+    },
+    {
+      "id": "p0010",
+      "text": "Phenomenological-psychological and Eidetic Reductions."
+    },
+    {
+      "id": "p0011",
+      "text": "— ^The Phenomenological psychology must examine the self’s experience of itself and its derivative experience of other selves and of society, but whether, in so doing, it can be free of all psycho-physical admixture, is not yet clear. Can one reach a really pure self-experience and purely psychical data? This difficulty, even since Brentano’s discovery of intentionality, as the fundamental character of the psychical, has blinded psychologists to the possibilities of phenomenological psychology. The psychologist"
+    },
+    {
+      "id": "p0012",
+      "text": "finds his self-consciousness mixed everywhere with “external” experience, and non-psychical realities. For what is experienced as external belongs not to the intentional “internal,” though our experience of it belongs there as an experience of the external. The phenomenologist, who will only notice phenomena, and know purely his own “life,” must practice an epoché. He must inhibit every ordinary objective “position,” and partake in no judgment concerning the objective world. The experience itself will remain what it was, an experience of this house, of this body, of this world in general, in its particular mode. For one cannot describe any intentional experience, even though it be “illusory,” a selfcontradicting judgment and the like, without describing what in the experience is, as such, the object of consciousness."
+    },
+    {
+      "id": "p0013",
+      "text": "Our comprehensive kiroxv puts, as we say, the world between brackets, excludes the world which is simply there! from the subject’s field, presenting in its stead the so-and-so-experiencedperceived-remembered-judged-thought-valued-etc., world, as such, the “bracketed” world. Not the world or any part of it appears, but the “sense” of the world. To enjoy phenomenological experience we must retreat from the objects posited in the natural attitude to the multiple modes of their “appearance,” to the “bracketed” objects."
+    },
+    {
+      "id": "p0014",
+      "text": "The phenomenological reduction to phenomena, to the purely psychical, advances by two steps: (i) systematic and radical kroxv of every objectifying “position” in an experience, practised both upon the regard of particular objects and upon the entire attitude of mind, and ( 2 ) expert recognition, comprehension and description of the manifold “appearances” of what are no longer “objects” but “unities” of “sense.” So that the phenomenological description will comprise two parts, description of the “noetic” (j'occo) or “experiencing” and description of the “noematic” {vorjfxa) or the “e.xperienced.” Phenomenological experience, is the only experience which may properly be called “internal” and there is no limit to its practice. And as a similar “bracketing” of objective, and description of what then “appears” (“noema” in “noesis”), can be performed upon the “life” of another self which we represent to ourselves, the “reductive” method can be extended from one’s own self-experience to one’s experience of other selves. And, further, that society, which we experience in a common consciousness, may be reduced not only to the intentional fields of the individual consciousness, but also by the means of an inter-subjective reduction, to that which unites these, namely the phenomenological unity of the social life. Thus enlarged, the psychological concept of internal experience reaches its full extent."
+    },
+    {
+      "id": "p0015",
+      "text": "But it takes more than the unity of a manifold “intentional life,” with its inseparable complement of “sense-unities,” to make a “soul.” For from the individual life that “ego-subject” cannot be disjoined, which persists as an id3ntical ego or “pole,” to the particular intentions, and the “habits” growing out of these. Thus the “inter-subjective,” phenomenologically reduced and concretely apprehended, is seen to be a “society” of “persons,” who share a conscious life."
+    },
+    {
+      "id": "p0016",
+      "text": "Phenomenological psychology can be purged of every empirical and psycho-physical element, but, being so purged, it cannot deal with “matters of fact.” Any closed field may be considered as regards its “essence,” its et8os, and we may disregard the factual side of our phenomena, and use them as “examples” merely. We shall ignore individual souls and societies, to learn their a priori, their “possible” forms. Our the.sis will be “theoretical,” observing the invariable through variation, disclosing a typical realm of a priori. There will be no psychical existence whose “style” we shall not know. Psychological phenomenology must rest upon eidetic phenomenology."
+    },
+    {
+      "id": "p0017",
+      "text": "The phenomenology of the perception of bodies, for example, will not be an account of actually occurring perceptions, or those which may be expected to occur, but of that invariable “structure,” apart from which no perception of a body, single or prolonged, can be conceived. The phenomenological reduction reveals the phenomena of actual internal experience; the eidetic reduction, the essential forms constraining psychical existence."
+    },
+    {
+      "id": "p0018",
+      "text": "Men now demand that empirical psychology shall conform to"
+    },
+    {
+      "id": "p0019",
+      "text": "I"
+    },
+    {
+      "id": "p0020",
+      "text": "PHENOMENOLOG Y"
+    },
+    {
+      "id": "p0021",
+      "text": "701"
+    },
+    {
+      "id": "p0022",
+      "text": "the exactness required by modern natural science. Natural science, which was once a vague, inductive empiric, owes it modern character to the a priori system of forms, nature as it is “conceivable,” which its separate disciplines, pure geometry, laws of motion, time, etc., have contributed. The methods of natural science and psychology are quite distinct, but the latter, like the former, can only reach “exactness” by a rationalization of the “essential.”"
+    },
+    {
+      "id": "p0023",
+      "text": "The psycho-physical has an a priori which must be learned by any complete psychology, this a priori is not phenomenological, for it depends no less upon the essence of physical, or more particularly organic nature."
+    }
+  ],
+  "anchors": {
+    "husserl": {
+      "paragraphId": "p0012",
+      "start": 368,
+      "end": 479,
+      "quote": "He must inhibit every ordinary objective “position,” and partake in no judgment concerning the objective world.",
+      "match": "normalized-exact"
+    },
+    "husserl-intentionality": {
+      "paragraphId": "p0006",
+      "start": 1036,
+      "end": 1071,
+      "quote": "All consciousness is “intentional.”",
+      "match": "normalized-exact"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-metaphysics-book-iv-chapter-3-2ca3be90",
+  "title": "卷 IV · 章 3",
+  "englishTitle": "Book IV · Chapter 3",
+  "work": "《形而上学》",
+  "englishWork": "Metaphysics",
+  "locator": "卷 IV · 章 3",
+  "englishLocator": "Book IV · Chapter 3",
+  "version": "MIT 经典文库 W. D. Ross 公版英译，亚里士多德《形而上学》IV.3，1005b19—20",
+  "englishVersion": "MIT Internet Classics Archive, W. D. Ross public-domain translation, Aristotle, Metaphysics IV.3, 1005b19–20",
+  "sourceUrl": "https://classics.mit.edu/Aristotle/metaphysics.4.iv.html",
+  "source": {
+    "url": "https://classics.mit.edu/Aristotle/metaphysics.4.iv.html",
+    "contentType": "text/html",
+    "sha256": "9a3a8658a690f42ad99589baeead484b5d5ab8065016d65cb5c3aa1b711531d6"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "238e2941754f869a89f4e721ba56403b99f8c3729bbbc6a97876b152b0ba4786",
+  "inputHash": "1da2da45bb05f224b554c60d5d444676b8348ddd9b78ad940fdcb4f73434e8b2",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Part 3"
+    },
+    {
+      "id": "p0002",
+      "text": "\""
+    },
+    {
+      "id": "p0003",
+      "text": "\"We must state whether it belongs to one or to different sciences to inquire into the truths which are in mathematics called axioms, and into substance. Evidently, the inquiry into these also belongs to one science, and that the science of the philosopher; for these truths hold good for everything that is, and not for some special genus apart from others. And all men use them, because they are true of being qua being and each genus has being. But men use them just so far as to satisfy their purposes; that is, as far as the genus to which their demonstrations refer extends. Therefore since these truths clearly hold good for all things qua being (for this is what is common to them), to him who studies being qua being belongs the inquiry into these as well. And for this reason no one who is conducting a special inquiry tries to say anything about their truth or falsity,-neither the geometer nor the arithmetician. Some natural philosophers indeed have done so, and their procedure was intelligible enough; for they thought that they alone were inquiring about the whole of nature and about being. But since there is one kind of thinker who is above even the natural philosopher (for nature is only one particular genus of being), the discussion of these truths also will belong to him whose inquiry is universal and deals with primary substance. Physics also is a kind of Wisdom, but it is not the first kind.-And the attempts of some of those who discuss the terms on which truth should be accepted, are due to a want of training in logic; for they should know these things already when they come to a special study, and not be inquiring into them while they are listening to lectures on it."
+    },
+    {
+      "id": "p0004",
+      "text": "\"Evidently then it belongs to the philosopher, i.e. to him who is studying the nature of all substance, to inquire also into the principles of syllogism. But he who knows best about each genus must be able to state the most certain principles of his subject, so that he whose subject is existing things qua existing must be able to state the most certain principles of all things. This is the philosopher, and the most certain principle of all is that regarding which it is impossible to be mistaken; for such a principle must be both the best known (for all men may be mistaken about things which they do not know), and non-hypothetical. For a principle which every one must have who understands anything that is, is not a hypothesis; and that which every one must know who knows anything, he must already have when he comes to a special study. Evidently then such a principle is the most certain of all; which principle this is, let us proceed to say. It is, that the same attribute cannot at the same time belong and not belong to the same subject and in the same respect; we must presuppose, to guard against dialectical objections, any further qualifications which might be added. This, then, is the most certain of all principles, since it answers to the definition given above. For it is impossible for any one to believe the same thing to be and not to be, as some think Heraclitus says. For what a man says, he does not necessarily believe; and if it is impossible that contrary attributes should belong at the same time to the same subject (the usual qualifications must be presupposed in this premiss too), and if an opinion which contradicts another is contrary to it, obviously it is impossible for the same man at the same time to believe the same thing to be and not to be; for if a man were mistaken on this point he would have contrary opinions at the same time. It is for this reason that all who are carrying out a demonstration reduce it to this as an ultimate belief; for this is naturally the starting-point even for all the other axioms."
+    }
+  ],
+  "anchors": {
+    "aristotle-noncontradiction": {
+      "paragraphId": "p0004",
+      "start": 966,
+      "end": 1075,
+      "quote": "The same attribute cannot at the same time belong and not belong to the same subject and in the same respect.",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

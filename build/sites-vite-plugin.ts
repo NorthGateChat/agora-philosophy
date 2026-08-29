@@ -14,7 +14,7 @@ async function exists(path: string): Promise<boolean> {
   }
 }
 
-// Packages Sites metadata and migrations after Vite finishes compiling.
+// Packages Sites metadata after Vite finishes compiling.
 export function sites(): Plugin {
   let root = process.cwd();
 

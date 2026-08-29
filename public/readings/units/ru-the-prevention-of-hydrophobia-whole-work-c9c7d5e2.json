@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-prevention-of-hydrophobia-whole-work-c9c7d5e2",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《预防恐水病》",
+  "englishWork": "The Prevention of Hydrophobia",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 原刊扫描，《大众科学月刊》第25卷（1884年7月）第376页，《预防恐水病》开篇连续两句；由《科学评论》译出，原报告由巴斯德、Chamberland与Roux于1884年5月19日提交法国科学院",
+  "englishVersion": "Wikisource original journal scan, Popular Science Monthly, vol. 25 (July 1884), p. 376, the first two continuous sentences of The Prevention of Hydrophobia; translated from Revue Scientifique, from the report communicated by Pasteur, Chamberland, and Roux to the French Academy of Sciences on 19 May 1884",
+  "sourceUrl": "https://en.wikisource.org/wiki/Page:Popular_Science_Monthly_Volume_25.djvu/388",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Page:Popular_Science_Monthly_Volume_25.djvu/388",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Page%3APopular+Science+Monthly+Volume+25.djvu%2F388&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "19f66e030d7b22deb5c13512381d9e8e7761b47873c05b6c79507f8ea988f1b7"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "9958d850eb2979b8ebb2c128b4560a2c47b73b6dc3064601e5414a28aee3d428",
+  "inputHash": "77c74c6f8a948e72c8e1dab80e106cad1f2189dd34d0615d841b0c8efb686137",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "376"
+    },
+    {
+      "id": "p0002",
+      "text": "THE POPULAR SCIENCE MONTHLY"
+    },
+    {
+      "id": "p0003",
+      "text": "gate the subject, and from their labors we shall by-and-by be in possession of the first really accurate and scientific examination of the effects of volcanic eruptions, which in this case bids likely to result, to meteorological science at least, in a gain whose immense importance it is impossible now to calculate. Nor is it unlikely that this \"biggest terrestrial experiment\" afforded us by Nature may ultimately prove to have been not the least of her beneficent gifts to humanity.— Proceedings of the Royal Geographical Society."
+    },
+    {
+      "id": "p0004",
+      "text": "THE PREVENTION OF HYDROPHOBIA. [ 1 ]"
+    },
+    {
+      "id": "p0005",
+      "text": "By M. LOUIS PASTEUR."
+    },
+    {
+      "id": "p0006",
+      "text": "T HE important fact that certain viruses may be varied in potency, and that protection against one may be afforded by another less potent, is to-day not only gained for science, but has entered the stage of application. It is obvious that great interest attaches, in pursuing this line of study, to the investigation of methods of attenuation adapted to new virus. I announce to-day an advance thus made in regard to rabies."
+    },
+    {
+      "id": "p0007",
+      "text": "In passing from a dog to a monkey, and then from one monkey to another, the potency of rabies-virus decreases at each transfer. After its strength has been thus diminished, if the virus is then transferred to a dog, a rabbit, or a Guinea-pig, it still remains attenuated. In other words, it does not regain all at once the intensity of virus from a mad dog. Only a small number of transfers from monkey to monkey is necessary to bring the virus to such a state of attenuation that it will not induce madness in a dog when introduced hypodermically. Even inoculation by trepanning, that most certain method of communicating rabies, will produce no result except that of causing in the animal a condition of insusceptibility to rabies."
+    },
+    {
+      "id": "p0008",
+      "text": "The potency of rabies-virus increases in passing from one rabbit to another, or from one Guinea-pig to another. When it has been brought to a maximum in rabbits, it exhibits its full strength on being transferred to the dog, and is then more potent than virus from a mad dog. Such virus inoculated into the circulatory system of a dog invariably causes madness which results in death."
+    },
+    {
+      "id": "p0009",
+      "text": "Although the virus rises in potency at each transfer from rabbit to rabbit, or from Guinea-pig to Guinea-pig, it must pass through several of these animals in order to regain its maximum potency, when this has first been reduced in monkeys. In like manner, the virus of"
+    },
+    {
+      "id": "p0010",
+      "text": "↑ Communicated to the Academy of Sciences, May 19, 1884, by M. Pasteur and MM. Chamberland and Roux."
+    }
+  ],
+  "anchors": {
+    "science-pasteur-attenuation": {
+      "paragraphId": "p0006",
+      "start": 0,
+      "end": 364,
+      "quote": "The important fact that certain viruses may be varied in potency, and that protection against one may be afforded by another less potent, is to-day not only gained for science, but has entered the stage of application. It is obvious that great interest attaches, in pursuing this line of study, to the investigation of methods of attenuation adapted to new virus.",
+      "match": "normalized-exact"
+    }
+  }
+}

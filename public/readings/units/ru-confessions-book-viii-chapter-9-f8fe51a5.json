@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-confessions-book-viii-chapter-9-f8fe51a5",
+  "title": "卷 VIII · 章 9",
+  "englishTitle": "Book VIII · Chapter 9",
+  "work": "《忏悔录》",
+  "englishWork": "Confessions",
+  "locator": "卷 VIII · 章 9",
+  "englishLocator": "Book VIII · Chapter 9",
+  "version": "New Advent，J. G. Pilkington 1887 年 NPNF 公版英译，《忏悔录》第八卷第 9 章第 21 节；卡片以省略号标示同节内删节",
+  "englishVersion": "New Advent, J. G. Pilkington public-domain translation in NPNF (1887), Confessions VIII.9.21; internal omission marked with an ellipsis",
+  "sourceUrl": "https://www.newadvent.org/fathers/110108.htm",
+  "source": {
+    "url": "https://www.newadvent.org/fathers/110108.htm",
+    "contentType": "text/html",
+    "sha256": "6ed45270282ab5dee84f97bce2931465da2a532815fc11cabd8fed57c080b097"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "915838b66efc3cd703a2c3d19009325ce07c6a60e8af5b37058d1876591e664f",
+  "inputHash": "a671c4bb340e6f623d85e6d8f436b6d2e2ae75461e46c260959363dcb8171082",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter 9. That the Mind Commands the Mind, But It Wills Not Entirely."
+    },
+    {
+      "id": "p0002",
+      "text": "21. Whence is this monstrous thing? And why is it? Let Your mercy shine on me, that I may inquire, if so be the hiding-places of man's punishment, and the darkest contritions of the sons of Adam, may perhaps answer me. Whence is this monstrous thing? And why is it? The mind commands the body, and it obeys immediately; the mind commands itself, and is resisted. The mind commands the hand to be moved, and such readiness is there that the command is scarce to be distinguished from the obedience . Yet the mind is mind , and the hand is body. The mind commands the mind to will, and yet, though it be itself, it obeys not. Whence this monstrous thing? And why is it? I repeat, it commands itself to will, and would not give the command unless it willed; yet is not that done which it commands. But it wills not entirely; therefore it commands not entirely. For so far forth it commands, as it wills; and so far forth is the thing commanded not done, as it wills not. For the will commands that there be a will;— not another, but itself. But it does not command entirely, therefore that is not which it commands. For were it entire, it would not even command it to be, because it would already be. It is, therefore, no monstrous thing partly to will, partly to be unwilling, but an infirmity of the mind , that it does not wholly rise, sustained by truth , pressed down by custom. And so there are two wills, because one of them is not entire; and the one is supplied with what the other needs."
+    }
+  ],
+  "anchors": {
+    "augustine-divided-will": {
+      "paragraphId": "p0002",
+      "start": 266,
+      "end": 362,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0002",
+          "start": 266,
+          "end": 362,
+          "text": "The mind commands the body, and it obeys immediately; the mind commands itself, and is resisted."
+        },
+        {
+          "paragraphId": "p0002",
+          "start": 795,
+          "end": 857,
+          "text": "But it wills not entirely; therefore it commands not entirely."
+        }
+      ],
+      "quote": "The mind commands the body, and it obeys immediately; the mind commands itself, and is resisted. … But it wills not entirely; therefore it commands not entirely."
+    }
+  }
+}

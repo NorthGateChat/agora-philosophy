@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-isha-upanishad-whole-work-407fcc5f",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《自在奥义书》",
+  "englishWork": "Isha Upanishad",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Internet Archive原书扫描，Robert Ernest Hume 1921年公版英译《十三部主要奥义书》，《自在奥义书》第1偈，印刷页362（扫描/PDF第382页），全偈完整照录；仅将分行排印合并为行文，中文为项目研读译文",
+  "englishVersion": "Internet Archive book scan, Robert Ernest Hume's public-domain translation (1921), The Thirteen Principal Upanishads, Isha Upanishad verse 1, print p. 362 (scan/PDF p. 382), the complete verse quoted in full; printed verse lineation normalized into running text; Chinese is a project study translation",
+  "sourceUrl": "https://archive.org/details/thirteenprincipa00hume",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "c10d008b5a9f54d50a090ce54dc12656a3c0c1bafc57512cc09ef74429d77752"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "a109d58ee6502b5878f449842048deec30ed1f1a9facc425c60feed53e7e1259",
+  "inputHash": "83ff2cb8d64c24cd63b503994b576bfe98453a125db2d405a66972e2a55bfcd6",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "ISHA UPANISHAD — WHOLE WORK"
+    },
+    {
+      "id": "p0002",
+      "text": "l£A UPANISHAD1"
+    },
+    {
+      "id": "p0003",
+      "text": "Recognition of the unity underlying the diversity of the world"
+    },
+    {
+      "id": "p0004",
+      "text": "1. By the Lord (īśa) enveloped must this all be —"
+    },
+    {
+      "id": "p0005",
+      "text": "Whatever moving thing there is in the moving world. With this renounced, thou mayest enjoy."
+    },
+    {
+      "id": "p0006",
+      "text": "Covet not the wealth of any one at all."
+    },
+    {
+      "id": "p0007",
+      "text": "Non-attachment of deeds on the person of a renouncer"
+    },
+    {
+      "id": "p0008",
+      "text": "2. Even while doing deeds here,"
+    },
+    {
+      "id": "p0009",
+      "text": "One may desire to live a hundred years."
+    },
+    {
+      "id": "p0010",
+      "text": "Thus on thee — not otherwise than this is it —"
+    },
+    {
+      "id": "p0011",
+      "text": "The deed ( karman ) adheres not on the man."
+    },
+    {
+      "id": "p0012",
+      "text": "The forbidding future for slayers of the Self"
+    },
+    {
+      "id": "p0013",
+      "text": "3. Devilish ( asurya2' ) are those worlds called,3 With blind darkness (lamas) covered o’er !"
+    },
+    {
+      "id": "p0014",
+      "text": "Unto them, on deceasing, go"
+    },
+    {
+      "id": "p0015",
+      "text": "Whatever folk are slayers4 of the Self.6"
+    },
+    {
+      "id": "p0016",
+      "text": "The all-surpassing, paradoxical world-being"
+    },
+    {
+      "id": "p0017",
+      "text": "4. Unmoving, the One ( ekam ) is swifter than the mind."
+    },
+    {
+      "id": "p0018",
+      "text": "The sense-powers ( deva ) reached not It, speeding on before. Past others running, This goes standing."
+    },
+    {
+      "id": "p0019",
+      "text": "In It Matarisvan places action.6"
+    },
+    {
+      "id": "p0020",
+      "text": "1 So called from its first word; or sometimes ‘Isavasyam’ from its first two words; or sometimes the * Vajasaneyi-Samhita Upanishad’ from the name of the recension of the White Yajur-Veda of which this Upanishad forms the final, the fortieth, chapter."
+    },
+    {
+      "id": "p0021",
+      "text": "2 Compare the persons called ‘ devilish,’ dsura, at Chand. 8. 8. 5. A variant reading here (accordant with a literalism interpreted in the following line) is a-surya, ‘ sunless.’"
+    },
+    {
+      "id": "p0022",
+      "text": "3 The word nama here might mean ‘ certainly ’ instead of ‘ called.’"
+    },
+    {
+      "id": "p0023",
+      "text": "4 This idea is in sharp contrast with the doctrine of Katha 2. 19 d (and BhG. 2. 19), where it is stated that ‘ he [i.e. the Self] slays not, is not slain.’ The word atma-han here, of course, is metaphorical, like ‘ smother,’ * stifle,’ ‘ completely suppress.’"
+    },
+    {
+      "id": "p0024",
+      "text": "6 The whole stanza is a variation of Brih. 4. 4. it."
+    },
+    {
+      "id": "p0025",
+      "text": "6 So Com. But apcis may refer, cosmogonically, to * the [primeval] waters.’"
+    },
+    {
+      "id": "p0026",
+      "text": "36 a"
+    },
+    {
+      "id": "p0027",
+      "text": "[-10"
+    },
+    {
+      "id": "p0028",
+      "text": "5. It moves. It moves not."
+    },
+    {
+      "id": "p0029",
+      "text": "It is far, and It is near."
+    },
+    {
+      "id": "p0030",
+      "text": "It is within all this,"
+    },
+    {
+      "id": "p0031",
+      "text": "And It is outside of all this.1"
+    },
+    {
+      "id": "p0032",
+      "text": "6. Now, he who on all beings"
+    },
+    {
+      "id": "p0033",
+      "text": "Looks as just (eva) in the Self (Ātman),"
+    },
+    {
+      "id": "p0034",
+      "text": "And on the Self as in all beings — 2 He does not shrink away from Him.3"
+    },
+    {
+      "id": "p0035",
+      "text": "7. In whom all beings"
+    },
+    {
+      "id": "p0036",
+      "text": "Have become just (eva) the Self of the discerner —"
+    },
+    {
+      "id": "p0037",
+      "text": "Then what delusion ( moha ), what sorrow (soka) is there, Of him who perceives the unity !"
+    },
+    {
+      "id": "p0038",
+      "text": "Characteristics of the world-ruler"
+    },
+    {
+      "id": "p0039",
+      "text": "8. He has environed. The- bright, the bodiless, the scatheless, The sinewless, the pure (suddha), unpierced by evil (a-papa- viddha) !"
+    },
+    {
+      "id": "p0040",
+      "text": "Wise (kavi), intelligent (manisin), encompassing (paribhu), self- existent (svayambhu),"
+    },
+    {
+      "id": "p0041",
+      "text": "Appropriately he distributed objects ( artha ) through the eternal years."
+    },
+    {
+      "id": "p0042",
+      "text": "Transcending, while involving, the antithesis of knowing"
+    },
+    {
+      "id": "p0043",
+      "text": "9. Into blind darkness enter they That worship ignorance ;"
+    },
+    {
+      "id": "p0044",
+      "text": "Into darkness greater than that, as it were, they That delight in knowledge.4"
+    },
+    {
+      "id": "p0045",
+      "text": "10. Other, indeed, they say, than knowledge!"
+    },
+    {
+      "id": "p0046",
+      "text": "Other, they say, than non-knowledge ! 5 — Thus we have heard from the wise (dhlra)"
+    },
+    {
+      "id": "p0047",
+      "text": "Who to us have explained It.0"
+    },
+    {
+      "id": "p0048",
+      "text": "1 The very same ideas as in this stanza, though not all the same words, recur at BhG. 13. 15 a, b, d."
+    },
+    {
+      "id": "p0049",
+      "text": "^ This universal presence is claimed by Krishna for himself at BhG. 6. 30 a, b."
+    },
+    {
+      "id": "p0050",
+      "text": "3 The indefinite word tatas may mean 1 from these beings,’ or ‘ from this Self,’ or ‘from this time on,’ or pregnantly all these. — The whole line recurs at Brih. 4. 4. 13d; Katha 4. 5 d ; 4. 1 2 d."
+    },
+    {
+      "id": "p0051",
+      "text": "4 This stanza is identical with Brih. 4. 4. 10."
+    },
+    {
+      "id": "p0052",
+      "text": "5 The point here made is that both knowledge and lack of knowledge are inadequate for apprehending the Ultimate."
+    },
+    {
+      "id": "p0053",
+      "text": "6 A somewhat more concrete, and perhaps earlier, form of this stanza occurs as Ken a 3 e-h."
+    },
+    {
+      "id": "p0054",
+      "text": "ii-] ISA UPANISHAD"
+    },
+    {
+      "id": "p0055",
+      "text": "ix. Knowledge and non-knowledge —"
+    },
+    {
+      "id": "p0056",
+      "text": "He who this pair conjointly ( saha ) knows,"
+    },
+    {
+      "id": "p0057",
+      "text": "With non-knowledge passing over death,"
+    },
+    {
+      "id": "p0058",
+      "text": "With knowledge wins the immortal.1"
+    },
+    {
+      "id": "p0059",
+      "text": "The inadequacy of any antithesis of being"
+    },
+    {
+      "id": "p0060",
+      "text": "12. Into blind darkness enter they"
+    },
+    {
+      "id": "p0061",
+      "text": "Who worship non-becoming ( a-sambkuti ) ;"
+    },
+    {
+      "id": "p0062",
+      "text": "Into darkness greater than that, as it were, they Who delight in becoming ( sambhuti )."
+    },
+    {
+      "id": "p0063",
+      "text": "13. Other, indeed — they say — than origin (sambhava) !"
+    },
+    {
+      "id": "p0064",
+      "text": "Other — they say — than non-origin ( a-sambhava ) !"
+    },
+    {
+      "id": "p0065",
+      "text": "— Thus have we heard from the wise"
+    },
+    {
+      "id": "p0066",
+      "text": "Who to us have explained It."
+    },
+    {
+      "id": "p0067",
+      "text": "Becoming and destruction a fundamental duality"
+    },
+    {
+      "id": "p0068",
+      "text": "14. Becoming ( sambhuti ) and destruction (vinasa) —"
+    },
+    {
+      "id": "p0069",
+      "text": "He who this pair conjointly (saha) knows,"
+    },
+    {
+      "id": "p0070",
+      "text": "With destruction passing over death,"
+    },
+    {
+      "id": "p0071",
+      "text": "With becoming wins the immortal."
+    },
+    {
+      "id": "p0072",
+      "text": "A dying person’s prayer"
+    },
+    {
+      "id": "p0073",
+      "text": "15. With a golden vessel2"
+    },
+    {
+      "id": "p0074",
+      "text": "The Real’s face is covered o’er."
+    },
+    {
+      "id": "p0075",
+      "text": "That do thou, O Pushan, uncover For one w'hose lawr is the Real3 to see.4"
+    },
+    {
+      "id": "p0076",
+      "text": "16. O Nourisher (pusan), the sole Seer ( ekarsi ), O Con- troller (yama), O Sun (surya), offspring of Prajapati, spread forth thy rays ! Gather thy brilliance ( tejas ) ! 5 What is thy"
+    },
+    {
+      "id": "p0077",
+      "text": "1 This stanza occurs again in Maitri 7. 9."
+    },
+    {
+      "id": "p0078",
+      "text": "2 The sun."
+    },
+    {
+      "id": "p0079",
+      "text": "s For the petitioner (who calls himself ‘ satya-dharma ’) to see through ; or ‘ For Him whose law is Truth (or, true) to be seen,’ [as, e. g., for Savitri in RV. 10.34. 10. 139. 3; or the Unknown Creator, RV. io. 121. 9; VS. 10. 103;"
+    },
+    {
+      "id": "p0080",
+      "text": "or Agni, RV. 1. 12. 7]; or, ‘For that [neuter] which has the Real as its nature [or, essence ; or, law] to be seen.’"
+    },
+    {
+      "id": "p0081",
+      "text": "4 These lines occur with slight variations at Maitri 6. 35 and Brih. 5. 15. 1."
+    },
+    {
+      "id": "p0082",
+      "text": "B According to this translation the idea is entirely honorific of the effulgence of the sun. Or, with a different grouping of words, the meaning might possibly be the petition : ‘ Spread apart thy rays [that I may enter through the sun (as well as see through — according to the previous petition) into the Real ; then] gather [thy rays together again, as normal]. The brilliance which is thy fairest form, . . .’ At best the passage is of obscure mystical significance."
+    },
+    {
+      "id": "p0083",
+      "text": "fairest form — that ot thee I see. He who is yonder, yonder Person ( purasa ) — I myself am he !"
+    },
+    {
+      "id": "p0084",
+      "text": "1 7. [My] breath (vayu) to the immortal wind ( anila)\\x This body then ends in ashes ! Om !"
+    },
+    {
+      "id": "p0085",
+      "text": "O Purpose ( kra/u 2), remember! The deed (krla) remember! O Purpose, remember ! The deed remember !"
+    },
+    {
+      "id": "p0086",
+      "text": "General prayer of petition and adoration"
+    },
+    {
+      "id": "p0087",
+      "text": "18. O Agni, by a goodly path to prosperity (rat) lead us,"
+    },
+    {
+      "id": "p0088",
+      "text": "Thou god who knowest all the ways !"
+    },
+    {
+      "id": "p0089",
+      "text": "Keep far from us crooked-going sin ( etias ) ! 3"
+    },
+    {
+      "id": "p0090",
+      "text": "Most ample expression of adoration to thee would we render ! 4"
+    },
+    {
+      "id": "p0091",
+      "text": "1 This formula recurs at Brih. 5. 15. The idea that at death the several parts of microcosmic man revert to the corresponding elements of the macrocosm is expressed several times in Sanskrit literature. With the specific mention here, compare ‘ his spirit ( ātman ) to the wind ( vata ) ’ in the Cremation Hymn, RV. 10. 16. 3a ; ‘ with his breath {prana) to wind ( vayu ),’ Sat. Br. 10. 3. 3. 8 ; ‘ his breath {prana) to wind (vata),’ Brih. 3. 2. 13; and even of the sacrificial animal, ‘its breath [prana ) to wind ( vata ),’ Ait. Br. 2. 6."
+    },
+    {
+      "id": "p0092",
+      "text": "2 Compare the statement in Chand. 3. 14. I, ‘ Now, verily, a person consists of purpose ( kratu-maya ).’"
+    },
+    {
+      "id": "p0093",
+      "text": "3 Other prayers for freedom from sin ( enas , compare also agas) are atRV. r. 24. 9 d ; 3. 7. 10 d; 7. 86. 3 a, 4d; 7. 88. 6 c ; 7. 89. 5 c, d ; 7. 93. 7 c, d ; 8.67(56). 17 ; 10. 35. 3 a, c ; 10. 37. 12 ; AV. 6. 97. 2 d ; 6. 115. 1, 2, 3; 6. 1 16. 2, 3 ; 6. 1 17; 6. 1 1 8 ; 6. 1 19 ; 6. 120."
+    },
+    {
+      "id": "p0094",
+      "text": "4 This stanza is identical with RV. 1. 189. 1, and the second line also with AV. 4. 39. 10 b."
+    },
+    {
+      "id": "p0095",
+      "text": "3 65"
+    }
+  ],
+  "anchors": {
+    "indian-upanishad-renunciation-enjoyment": {
+      "paragraphId": "p0004",
+      "start": 3,
+      "end": 49,
+      "match": "normalized-adjacent-paragraphs",
+      "segments": [
+        {
+          "paragraphId": "p0004",
+          "start": 3,
+          "end": 49,
+          "text": "By the Lord (īśa) enveloped must this all be —"
+        },
+        {
+          "paragraphId": "p0005",
+          "start": 0,
+          "end": 91,
+          "text": "Whatever moving thing there is in the moving world. With this renounced, thou mayest enjoy."
+        },
+        {
+          "paragraphId": "p0006",
+          "start": 0,
+          "end": 39,
+          "text": "Covet not the wealth of any one at all."
+        }
+      ],
+      "quote": "By the Lord (īśa) enveloped must this all be— Whatever moving thing there is in the moving world. With this renounced, thou mayest enjoy. Covet not the wealth of any one at all."
+    }
+  }
+}

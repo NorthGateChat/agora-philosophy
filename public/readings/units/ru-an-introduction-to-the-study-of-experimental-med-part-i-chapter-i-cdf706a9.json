@@ -1,0 +1,599 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-an-introduction-to-the-study-of-experimental-med-part-i-chapter-i-cdf706a9",
+  "title": "部分 I · 章 I",
+  "englishTitle": "Part I · Chapter I",
+  "work": "《实验医学研究导论》",
+  "englishWork": "An Introduction to the Study of Experimental Medicine",
+  "locator": "部分 I · 章 I",
+  "englishLocator": "Part I · Chapter I",
+  "version": "Wikimedia Commons 公版扫描并由 Faded Page 转录复核，贝尔纳《实验医学研究导论》，Henry Copley Greene 1927 年英译，第一部分第1章第V节，第19—20页，以“Hence we may say”开头的连续原文",
+  "englishVersion": "Wikimedia Commons public-domain scan cross-checked against the Faded Page transcription, Bernard, An Introduction to the Study of Experimental Medicine, Henry Copley Greene translation (1927), Part I, Chapter I, §V, pp. 19–20, continuous passage beginning “Hence we may say”",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_introduction_to_the_study_of_experimental_medicine_-_Translated_by_H.C._Greene_(IA_b21270557).pdf",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "3073114c21c36dc5125ea91fd5867a7b2f386cea057c255243eb8c6fdadc2a5a"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "cb94ec10507626fc8509f99c66e139ed8b8eb5eaf7cd79bd7b4bfba877b3b9d9",
+  "inputHash": "c12a54e889596b4fd63aded9fb07779be6ebb7141a0d4adfd4cccf0febee899b",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER I"
+    },
+    {
+      "id": "p0002",
+      "text": "OBSERVATION AND EXPERIMENT"
+    },
+    {
+      "id": "p0003",
+      "text": "Only within very narrow boundaries can man observe the phe- nomena which surround him; most of them naturally escape his senses, and mere observation is not enough. To extend his knowl- edge, he has had to increase the power of his organs by means of special appliances; at the same time he has equipped himself with various instruments enabling him to penetrate inside of bodies, to dissociate them and to study their hidden parts. A necessary order may thus be established among the different processes of investiga- tion or research, whether simple or complex : the first apply to those objects easiest to examine, for which our senses suffice; the second bring within our observation, by various means, objects and phenom- ena which would otherwise remain unknown to us forever, because in their natural state they are beyond our range. Investigation, now simple, again equipped and perfected, is therefore destined to make us discover and note the more or less hidden phenomena which sur- round us."
+    },
+    {
+      "id": "p0004",
+      "text": "But man does not limit himself to seeing ; he thinks and insists on learning the meaning of the phenomena whose existence has been revealed to him by observation. So he reasons, compares facts, puts questions to them, and by the answers which he extracts, tests one by another. This sort of control, by means of reasoning and facts, is what constitutes experiment, properly speaking; and it is the only process that we have for teaching ourselves about the nature of things outside us."
+    },
+    {
+      "id": "p0005",
+      "text": "In the philosophic sense, observation shows, and experiment teaches. This first distinction will serve as our starting point in examining the different definitions of observation and experiment devised by philosophers and physicians."
+    },
+    {
+      "id": "p0006",
+      "text": "5"
+    },
+    {
+      "id": "p0007",
+      "text": "6"
+    },
+    {
+      "id": "p0008",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0009",
+      "text": "I. Various Definitions of Obseevation and Experiment"
+    },
+    {
+      "id": "p0010",
+      "text": "Men sometimes seem to confuse experiment with observation. Bacon appears to combine them when be says: \"Observation and experiment for gathering material, induction and deduction for elaborating it : tbese are our only good intellectual tools.\""
+    },
+    {
+      "id": "p0011",
+      "text": "Physicians and physiologists, like most men of science, distin- guish observation from experiment, but do not entirely agree in defin- ing the two terms."
+    },
+    {
+      "id": "p0012",
+      "text": "Zimmermann ^ expresses himself as follows : \"An experiment dif- fers from an observation in this, that knowledge gained through observation seems to appear of itself, while that which an experiment brings us is the fruit of an effort that we make, with the object of knowing whether something exists or does not exist.\""
+    },
+    {
+      "id": "p0013",
+      "text": "This definition embodies a rather generally accepted opinion. According to this definition, observation would be noting objects or phenomena, as nature usually presents them, while experiment would be noting phenomena created or defined by the experimenter. We should set up a sort of contrast, in this way, between observers and experimenters : the first being passive in the appearance of phenom- ena; the second, on the other hand, taking a direct and active part in producing them. Cuvier expressed the same thought in saying: \"The observer listens to nature; the experimenter questions and forces her to unveil herself.\""
+    },
+    {
+      "id": "p0014",
+      "text": "At first sight, and considering things in a general way, this dis^ tinction between the experimenter's activity and the observer's pas- sivity seems plain and easy to establish. But as soon as we come down to experimental practice we find that, in many instances, the separation is very hard to make, and that it sometimes even involves obscurity. This comes, it seems to me, from confusing the art of investigation, which seeks and establishes facts, with the art of reason- ing, which works them up logically in the search for truth. Now in investigation there may be activity, at once of the mind and of the senses, whether in making observations or in making experiments."
+    },
+    {
+      "id": "p0015",
+      "text": "Indeed, if we chose to admit that observation is characterized by this alone, that men of science note phenomena which nature pro- duces spontaneously and without interference by them, still we could"
+    },
+    {
+      "id": "p0016",
+      "text": "* Zimmermann, Traiti sur Vexp^rience en mMecine, Paris, 1774. Vol. I, p. 45."
+    },
+    {
+      "id": "p0017",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0018",
+      "text": "7"
+    },
+    {
+      "id": "p0019",
+      "text": "not conclude that the mind, like the hand, always remains inactive in observation ; and we should be led to distin^ish under this head two kinds of observations, some passive, others active. I assume, for instance, what often occurs, — that some endemic disease appears in a region and presents itself to a physician's observation. Here is a spontaneous or passive observation which the physician makes by chance and without being led to it by any preconceived idea. But after observing the first case, if the physician has an idea that the appearance of this disease may well be related to certain special me- teorological or hygienic circumstances, he takes a journey to other regions where the same disease prevails, to see whether it develops under the same conditions. This second observation, made in view of a preconceived idea of the nature and cause of the disease, is what we must obviously call an induced or active observation. I should say as much of an astronomer who, in watching the sky, dis- covers a planet passing, by chance, before his telescope ; in this case he makes a fortuitous or passive observation, i.e., without a precon- ceived idea. But, if the astronomer, after noting the aberrations of a planet, goes on to make observations, to seek a reason for them, then I should say that he makes active observations, i.e., observations produced by a preconceived idea of the cause of the aberration. We might multiply instances of this kind ad infinitum, to prove that, in noting natural phenomena that present themselves, the mind is now passive, now active, — which means, in other words, that observations are made, now without a preconceived idea and by chance, and again with a preconceived idea, i.e., with intention to verify the accuracy of a mental conception."
+    },
+    {
+      "id": "p0020",
+      "text": "On the other hand, if we concede, as we said above, that experi- ment is characterized by this alone, that men of science note phe- nomena which they have produced artificially and which would not naturally have presented themselves, even then we could not find that the experimenter's hand always actively interfered to bring about the appearance of these phenomena. In certain cases indeed we have seen accidents where nature acted for him ; and here again, from the point of view of manual intervention, we shall be forced to distinguish between active experiments and passive experiments. Let me assume that a physiologist wishes to study digestion and to learn what happens in a living animal's stomach; he will divide the walls of the abdomen and stomach according to known operative"
+    },
+    {
+      "id": "p0021",
+      "text": "8"
+    },
+    {
+      "id": "p0022",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0023",
+      "text": "rules and will establish what is called a gastric fistula. The physi- ologist will certainly think that he has made an experiment, because he has interfered actively to make phenomena appear which did not present themselves naturally to his eyes. But now, let me ask, did Dr. W. Beaumont make an experiment when he came across that young Canadian hunter who had received a point-blank gun-shot in the left hypochondria, and who had a wide fistula of the stomach in the scar, through which one could look inside that organ? Dr. Beaumont took this man into his service and was able to study the phenomena of gastric digestion de vim for several years, as he shows in the interesting journal which he has given us on this subject.^ In the first case, the physiologist acted on the preconceived idea of studying digestive phenomena and made an active experiment. In the second case, an accident produced a fistula of the stomach, and it presented itself fortuitously to Dr. Beaumont. According to our definition, he made a passive experiment. These examples therefore prove that, in verifying the phenomena called experiments, the experi- menter's manual activity does not always come in, since it happens that the phenomena, as we have seen, may present themselves as fortuitous or passive observations."
+    },
+    {
+      "id": "p0024",
+      "text": "But certain physiologists and physicians characterize observation and experiment somewhat differently. For them, observation con- sists in noting everything normal and regular. It matters little whether the investigator has produced the appearance of the phe^ nomena himself or by another's hands or by accident; he considers them without disturbing them in their natural state and so mak6s an observation. Thus, according to these authors, observations were made in both examples of gastric fistula cited above, because in both cases we had under our eyes digestive phenomena in their natural state. The fistula served only for seeing better and making observa- tions under the most favorable conditions."
+    },
+    {
+      "id": "p0025",
+      "text": "Experiment, according to the same physiologists, implies, on the contrary, the idea of a variation or disturbance that an investigatoi: brings into the conditions of natural phenomena. This definition corresponds, in fact, to a large group of experiments made in physi- ology, which might be called experiments by destruction. This form of experimenting, which goes back to Galen, is the simplest; it"
+    },
+    {
+      "id": "p0026",
+      "text": "■W. Beaumont, Experiments and Observations on the Oastrio Juice and on Physiological Digestion. Boston, 1834."
+    },
+    {
+      "id": "p0027",
+      "text": "OF EXPEEIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0028",
+      "text": "9"
+    },
+    {
+      "id": "p0029",
+      "text": "should suggest itself to the minds of anatomists wishing to learn, in the living subject, the use of parts that they have isolated by dis- section in the cadaver. To do this, we suppress an organ in the living subject, by a section or ablation ; and from the disturbance pro- duced in the whole organism or in a special function, we deduce the function of the missing organ. This essentially analytic, experimen- tal method is put in practice every day in physiology. For instance, anatomy had taught us that two principal nerves diverge in the face : the facial (seventh cranial) and the trigeminal (fifth cranial) ; to learn their functions, they were cut, one at a time. The result showed that section of the facial nerve brings about loss of movement, and section of the trigeminal, loss of sensation, from which it was con- cluded that the facial is the motor nerve of the face, and the tri- geminal the sensory nerve."
+    },
+    {
+      "id": "p0030",
+      "text": "We said that, in studying digestion by means of a fistula, we merely make an observation, according to the definition which we are examining. But after we have established the fistula, if we go on to cut the nerves of the stomach, in order to se^e the changes which result in the digestive function, then, according to the same way of thinking, we make an experiment, because we seek to learn the function of a part from the disturbance which its suppression in- volves. And this may be summed up by saying that in experimenta- tion we make judgments by comparing two facts, one normal, the other abnormal."
+    },
+    {
+      "id": "p0031",
+      "text": "This definition of experiment necessarily assumes that experi- menters must be able to touch the body on which they wish to act, whether by destroying it or by altering it, so as to learn the part which it plays in the phenomena of nature. As we shall later see, it is on this very possibility of acting, or not acting, on a body that the distinction will exclusively rest between sciences called sciences of observation and sciences called experimental."
+    },
+    {
+      "id": "p0032",
+      "text": "But if the definition of experiment which we have just given dif- fers from the definition examined in the first place in that it admits that we make an experiment only when we can vary or can dissociate phenomena by a kind of analysis, still it resembles the first in that it also always assumes an intentional activity on the experimenter's part, in producing a disturbance of the phenomena. Now it will be easy to show that the operator's intentional action can often be replaced by an accident. Here too, as in the first definition, we"
+    },
+    {
+      "id": "p0033",
+      "text": "10"
+    },
+    {
+      "id": "p0034",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0035",
+      "text": "might distinguish between disturbances occurring intentionally and disturbances occurring spontaneously or unintentionally. Indeed taking again the example in which a physiologist cuts the facial nerve to learn its function, I assume that a ball, a sabre cut or a splinter of stone, has cut or destroyed the facial nerve; there will result fortuitously a paralysis of movement, i.e., a disturbance, ex- actly the same as that which the physiologist caused intentionally."
+    },
+    {
+      "id": "p0036",
+      "text": "It is the same in the case of numberless pathological lesions which are real experiments, by which physicians and physiologists profit, without any purpose on their part to produce the lesions, which result from disease. I emphasize this idea now, because it will be useful to us later, to prove that medicine includes real experiments which are spontaneous, and not produced by physicians.^"
+    },
+    {
+      "id": "p0037",
+      "text": "I will make one more remark by way of conclusion. If indeed we characterize experiment by a variation or disturbance brought into a phenomenon, it is only in so far as we imply that the disturbance must be compared with the normal state. As experiments indeed are only judgments, they necessarily require comparison between two things; and the intentional or active element in an experiment is really the comparison which the mind intends to make. Now, whether the alteration is produced by accident or otherwise, the experimenter's mind compares none the less. It is therefore un- necessary to regard as a disturbance one of the facts to be compared, especially as there is nothing disturbed or abnormal in nature ; every- thing happens according to laws which are absolute, i.e., always normal and determined. Effects vary with the conditions which bring them to pass, but laws do not vary. Physiological and patho- logical states are ruled by the same forces ; they differ only because of the special conditions under which the vital laws manifest themselves."
+    },
+    {
+      "id": "p0038",
+      "text": "II. Gaining Experience and Relying on Observation Is Differ- ent FROM Making Experiments and Making Observations"
+    },
+    {
+      "id": "p0039",
+      "text": "The general objection which I make to the preceding definitions"
+    },
+    {
+      "id": "p0040",
+      "text": "is that they give words too narrow a meaning, by taking account of"
+    },
+    {
+      "id": "p0041",
+      "text": "only the art of investigation, instead of considering observation and"
+    },
+    {
+      "id": "p0042",
+      "text": "experiment at the same time as the two opposite extremes of experi-"
+    },
+    {
+      "id": "p0043",
+      "text": "'Lallemand, Propositions de pathologic tendant d iclairer plusfieurs points de physiologie. Thesis. Paris, 1818. 2nd edition, 1824."
+    },
+    {
+      "id": "p0044",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0045",
+      "text": "11"
+    },
+    {
+      "id": "p0046",
+      "text": "mental reasoning. So we find these definitions lacking in clearness and generality. To give the definition its full usefulness and value, therefore, I think that we must distinguish what pertains to the method of investigation, used to gather facts, from the characteristics of the intellectual method, which utilizes facts and makes them at once the support and the criterion of the experimental method."
+    },
+    {
+      "id": "p0047",
+      "text": "In French the word experience in the singular means, in general and in the abstract, the knowledge gained in the practice of life. When we apply to a physician the word experience in the singular, it means the information which he has gained in the practice of medi- cine. It is the same with the other professions; and it is in this sense that we say that a man has gained experience, or that he has experience. Subsequently the word experience (experiment) in the concrete was extended to cover the facts which give us experimental information about things."
+    },
+    {
+      "id": "p0048",
+      "text": "The word observation in the singular, in its general and abstract use, means noting a fact accurately with the help of appropriate studies and means of investigation. In the concrete the word ob- servation has been extended to cover the facts noted; and it is in this sense that we speak of medical observations, astronomical observations, etc."
+    },
+    {
+      "id": "p0049",
+      "text": "Speaking concretely, when we say \"making experiments or mak- ing observations,\" we mean that we devote ourselves to investigation and to research, that we make attempts and trials in order to gain facts from which the mind, through reasoning, may draw knowledge or instruction."
+    },
+    {
+      "id": "p0050",
+      "text": "Speaking in the abstract, when we say \"relying on observation and gaining experience,\" we mean that observation is the mind's sup- port in reasoning, and experience the mind's support in deciding, or still better, the fruit of exact reasoning applied to the interpretation of facts. It follows from this that we can gain experience without making experiments, solely by reasoning appropriately about well- established facts, just as we can make experiments and observations without gaining experience, if we limit ourselves to noting facts."
+    },
+    {
+      "id": "p0051",
+      "text": "Observation, then, is what shows facts; experiment is what teaches about facts and gives experience in relation to anything. But as this teaching can come through comparison and judgment only, i.e., by sequence of reasoning, it follows that man alone is ca- pable of gaining experience and perfecting himself by it."
+    },
+    {
+      "id": "p0052",
+      "text": "12"
+    },
+    {
+      "id": "p0053",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0054",
+      "text": "\"Experience,\" says Goethe, \"disciplines man every day.\" But this is because man reasons accurately and experimentally about what he observes ; otherwise he could not correct himself. The insane, who have lost their reason, no longer learn from experience; they no longer reason experimentally. Experience, then, is the privilege of reason. \"Only man may verify his thoughts and set them in order; only man may correct, rectify, improve, perfect and so make himself every day more skilful, wise and fortunate. Finally for man alone does the art exist, that supreme art of which the most vaunted arts are mere tools and raw material: the art of reason, reasoning.\" *"
+    },
+    {
+      "id": "p0055",
+      "text": "In experimental medicine, we shall use the word experience in the same general sense in which it is still everywhere used. Men of science learn every day from experience ; by experience they con- stantly correct their scientific ideas, their theories; rectify them, bring them into harmony with more and more facts, and so come nearer and nearer to the truth."
+    },
+    {
+      "id": "p0056",
+      "text": "We can learn, — i.e., gain experience of our surroundings, — in two ways, empirically and experimentally. First there is a sort of teaching or unconscious and empirical experience, which we get from dealing with separate objects. But the knowledge which we gain in this way is also accompanied necessarily by vague experimental reasoning which we carry on quite unawares, and in consequence of which we bring together facts to make a judgment about them. Ex- perience, then, may be gained by empirical and unconscious reason- ing; but the obscure and spontaneous movement of the mind has been raised by men of science into a clear and reasoned method, which therefore proceeds consciously and more swiftly toward a definite goal. Such is the experimental method in the sciences by which experience is always gained by virtue of precise reasoning based on an idea born of observation and controlled by experiment. In all experimental knowledge, indeed, there are three phases; an observation made, a comparison established and a judgment ren- dered. By the experimental method, we simply make a judgment on the facts around us, by help of a criterion which is itself just another fact so arranged as to control the judgment and to afford experience. Taken in this general sense, experience is the one source of human knowledge. The mind in itself has only the feeling"
+    },
+    {
+      "id": "p0057",
+      "text": "* Laromigui^re, Diacours sur Videntite: (Euvres. Vol. I, p. 329."
+    },
+    {
+      "id": "p0058",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0059",
+      "text": "13"
+    },
+    {
+      "id": "p0060",
+      "text": "of a necessary relation between things : it can know the form of that relation only by experience."
+    },
+    {
+      "id": "p0061",
+      "text": "Two things must, therefore, be considered in the experimental method: (1) The art of getting accurate facts by means of rigorous investigation; (2) the art of working them up by means of experi- mental reasoning, so as to deduce knowledge of the law of phe- nomena. We said that experimental reasoning always and neces- sarily deals with two facts at a time : observation, used as a starting point ; experiment, used as conclusion or control. Tn reasoning, how- ever, we can distinguish between actual observation and experiment only, as it were, by logical abstraction and because of the position in which they stand."
+    },
+    {
+      "id": "p0062",
+      "text": "But outside of experimental reasoning, observation and experi- ment no longer exist in this abstract sense; there are only concrete facts in each, to be got by precise and rigorous methods of investiga- tion. We shall see, further on, that the investigator himself must be analyzed into observer and experimenter; not according to whether he is active or passive in producing phenomena, but according to whether he acts on them or not, to make himself their master."
+    },
+    {
+      "id": "p0063",
+      "text": "III. The Investigator; Scientific Research"
+    },
+    {
+      "id": "p0064",
+      "text": "The art of investigation is the cornerstone of all the experimental sciences. If the facts used as a basis for reasoning are ill-estab- lished or erroneous, everything will crumble or be falsified; and it is thus that errors in scientific theories most often originate in errors of fact."
+    },
+    {
+      "id": "p0065",
+      "text": "In investigation, considered as the art of experimental research, we find only facts brought to light by investigators and noted as rigorously as possible with the help of the most suitable means. There is no further occasion here to distinguish observers from ex- perimenters by the character of the processes of investigation used. In the last section I showed that the definitions and distinctions which men have tried to set up on the basis of the investigator's activity or passivity cannot be sustained. Observers and experi- menters, indeed, are investigators seeking to note facts to the best of their ability, using more or less complicated means for this purpose according to the complexity of the phenomena that they study. Both need the same manual and intellectual activity, the same"
+    },
+    {
+      "id": "p0066",
+      "text": "14"
+    },
+    {
+      "id": "p0067",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0068",
+      "text": "dexterity, tiie same spirit of invention, to create and perfect the different pieces of apparatus or instruments for investigation which, for the most part, they have in common. Every science has its own kind of investigation and its equipment of special instruments and methods. This, after all, is plain enough, since every science is characterized by the nature of its probleriis and by the variety of the phenomena that it studies. Medical investigation is the most com- plicated of all: it includes all the methods proper to anatomical, physiological and therapeutic research, and, as it develops, it also bor- rows from chemistry and physics many means of research which become powerful allies. In the experimental sciences all progress is measured by improvement in the means of investigation. The whole future of experimental medicine depends on creating a method of research which may be applied fruitfully to the study of vital phe- nomena, whether in a normal or abnormal state. I shall not here dwell on the necessity of such a method of investigation in experi- mental medicine, and I shall not even attempt to enumerate the difficulties. I shall limit myself to saying that my whole scientific life is devoted to contributing my share to the immense work which modern science will have the glory of having understood, and the merit of having begun, while leaving to future ages the task of con- tinuing and finally establishing it. The two volumes which will form my work on the Principles of Experimental Medicine will be devoted solely to elaborating the methods of experimental investiga- tion applied to physiology, pathology and therapeutics. But as no one man can consider all aspects of medical investigation, I shall limit myself further in this vast subject, by dealing especially with systematization of the methods of zoological vivisection. It can- not be gainsaid that this is the most delicate and difficult branch of biological investigation ; but I deem it the most fruitful and per- haps the most immediately useful for the advancement of experi- mental medicine."
+    },
+    {
+      "id": "p0069",
+      "text": "In scientific investigation, minutiae of method are of the highest importance. The happy choice of an animal, an instrument con- structed in some special way, one reagent used instead of another, may often suffice to solve the most abstract and lofty questions. Every time that a new and reliable means of experimental analysis makes its appearance, we invariably see science make progress in the questions to which this means of analysis can be applied. On"
+    },
+    {
+      "id": "p0070",
+      "text": "OP EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0071",
+      "text": "15"
+    },
+    {
+      "id": "p0072",
+      "text": "the contrary, a bad method or defective processes of research may cause the gravest errors, and may retard science by leading it astray. In a word, the greatest scientific truths are rooted in details of experimental investigation which form, as it were, the soil in which these truths develop."
+    },
+    {
+      "id": "p0073",
+      "text": "One must be brought up in laboratories and live in them, to appreciate the full importance of all the details of procedure in investigation, which are so often neglected or despised by the false men of science calling themselves generalizers. Yet we shall reach really fruitful and luminous generalizations about vital phenomena only in so far as we ourselves experiment and, in hospitals, amphi- theatres, or laboratories, stir the fetid or throbbing ground of life. It has somewhere been said that true science is like a flowering and delectable plateau which can be attained only after climbing craggy steeps and scratching one's legs against branches and brushwood. If a comparison were required to express my idea of the science of life, I should say that it is a superb and dazzlingly lighted hall which may be reached only by passing through a long and ghastly kitchen."
+    },
+    {
+      "id": "p0074",
+      "text": "IV. Obseevers and Experimenters; the Sciences of Observa- tion AND OF Experiment"
+    },
+    {
+      "id": "p0075",
+      "text": "We have just seen that, from the point of view of the art of in- vestigation, observation and experiment should be considered only as facts brought out by investigators, and we have added that methods of investigation do not differentiate the men who observe from the men who experiment. Wliere then, you will ask, is the difference between observers and experimenters ? It is here : we give the name observer to the man who applies methods of investigation, whether simple or complex, to the study of phenomena which he does not vary and which he therefore gathers as nature offers them. We give the name experimenter to the man who applies methods of in- vestigation, whether simple or complex, so as to make natural phe- nomena vary, or so as to alter them with some purpose or other, and to make them present themselves in circumstances or conditions in which nature does not show them. In this sense, observation ia investigation of a natural phenomenon, and experiment is investiga- tion of a phenomenon altered by the investigator. We shall see that this distinction, apparently quite external and depending simply on a"
+    },
+    {
+      "id": "p0076",
+      "text": "16"
+    },
+    {
+      "id": "p0077",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0078",
+      "text": "definition of words, still supplies the one meaning with which to grasp the important difference separating sciences of observation from sciences of experimentation or experimental sciences. We said, in an earlier paragxaph, that the words observation and experi- ment, taken in an abstract sense, mean, the first, purely and simply noting a fact, the second, testing an idea by a fact But if we consider observation merely in this abstract sense, we cannot deduce from it any science of observation. By simply noting facts, we can never succeed in establishing a science. Pile up facts or observations as we may, we shall be none the wiser. To leam, we must neces- sarily reason about what we have observed, compare the facts and judge them by other facts used as controls. But one observation may serve as control for another observation, so that a science of obser- vation is simply a science made up of observations, i.e., a science in which we reason about facts observed in their natural state, as we have already defined them. An experimental science, or science of experimentation, is a science made up of experiments, i.e., one in which we reason on experimental facts found in conditions created and determined by the experimenter himself."
+    },
+    {
+      "id": "p0079",
+      "text": "Certain sciences, like astronomy, will always remain sciences of observation, because the phenomena studied are outside our sphere of action ; but terrestrial sciences may be, at once, sciences of observation and experimental sciences. Let me add that all these sciences begin as sciences of pure observation; only as we go into the analysis of phenomena do they become experimental, because the observer, turning experimenter, invents methods of investigation to penetrate bodies and vary the conditions of phenomena. Experimentation is only utilizing methods of investigation peculiar to experi- menters."
+    },
+    {
+      "id": "p0080",
+      "text": "Now experimental reasoning is absolutely the same, whether in sciences of observation or in experimental sciences. We find the same judgment by comparison based on two facts, one used as start- ing point, the other as conclusion, of our reasoning. Only in the sciences of observation, the two facts are always observations ; while in the experimental sciences, the two facts may be taken exclusively from experimentation, or at the same time from experimentation and from observation, according to the special case and according to how deeply we go into experimental analysis. A physician observing a dis- ease in different circumstances, reasoning about the influence of these"
+    },
+    {
+      "id": "p0081",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0082",
+      "text": "17"
+    },
+    {
+      "id": "p0083",
+      "text": "circumstances, and deducing consequences which are controlled by other observations, — this physician reasons experimentally, even though he makes no experiments. But if he wishes to go further, and to know the inner mechanism of the disease, he will have to deal with hidden phenomena, and so he will experiment ; but he will still reason in the same way."
+    },
+    {
+      "id": "p0084",
+      "text": "A naturalist observing animals in all the conditions necessary to their existence, and deducing from these observations consequences verified and controlled by other observations, — such a naturalist uses the experimental method even though he performs no experiments, properly speaking. But if he has to go on to observe phenomena inside the stomach, he is forced to invent more or less complex meth- ods of experimentation in order to look inside a cavity hidden from sight. His experimental reasoning, nevertheless, is the same; Reaumur and Spallanzani alike apply the experimental method when making their observations of natural history or their experiments with digestion. When Pascal made a barometric observation at the bottom of the Tour Saint Jacques, and later took another at the top of the tower, we must admit that he performed an experiment; yet here were simply two comparative observations of air pressure car- ried out in view of the preconceived idea that this pressure should vary according to height. On the other hand, when Jenner,^ in observing a cuckoo on a tree, used a spy-glass so as not to frighten it, he made a mere observation, because he did not compare this cuckoo with a previous cuckoo, to deduce a conclusion from the observation and to form a judgment about it. In the same way an astronomer first makes observations and then reasons about them to deduce a system of ideas which he controls by observations made in conditions suited to his purpose. The astronomer reasons like an experimenter, because the experience which he gains implies judgment throughout and comparison between two facts bound together in the mind by an idea."
+    },
+    {
+      "id": "p0085",
+      "text": "However, as we have said already, we must clearly differentiate astronomers from the men of science concerned with terrestrial sci- ence, in that astronomers limit themselves perforce to observation, as they cannot go into the skies to experiment on the planets. In this power of the investigator to act on phenomena, precisely here"
+    },
+    {
+      "id": "p0086",
+      "text": "• Jenner, On the natural history of the cuckoo. {Philosophical Transactions, 1788, Chap. XVI, p. 432.)"
+    },
+    {
+      "id": "p0087",
+      "text": "18"
+    },
+    {
+      "id": "p0088",
+      "text": "AN INTEODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0089",
+      "text": "is the difference separating the so-called sciences of experimentation from those of observation."
+    },
+    {
+      "id": "p0090",
+      "text": "Laplace considers astronomy a science of observation, because we can only observe the movements of the planets ; we cannot reach them, indeed, to alter their course and to experiment v^^ith them. ^^On earth,\" said Laplace, \"we make phenomena vary by experi- ments ; in the sky, we carefully define all the phenomena presented to us by celestial motion.\" ^ Certain physicians call medicine a sci- ence of observations, because they wrongly think that experimenta- tion is inapplicable to it."
+    },
+    {
+      "id": "p0091",
+      "text": "Fundamentally, all sciences reason in the same way and aim at the same object. They all try to reach knowledge of the law of phe- nomena, so as to foresee, vary or master phenomena. Astrono- mers foretell the movements of the stars; they deduce from them a quantity of practical ideas; but they cannot alter celestial phenom- ena by experimentation as do chemists and physicists the phenomena of their sciences."
+    },
+    {
+      "id": "p0092",
+      "text": "If then, from the point of view of philosophic method, there is no essential difference between sciences of observation and sciences of experimentation, still there is a real one from the point of view of the practical consequences, which man deduces from them, and the power which he gains by their means. In sciences of observation, man observes and reasons expeiimentally, but he does not experi- ment; and in this sense we might say that a science of observation is a passive science. In sciences of experimentation, man observes, but in addition he acts on matter, analyzes its properties and to his own advantage brings about the appearance of phenomena which doubtless always occur according to natural laws, but in conditions which nature often has not yet achieved. With the help of these active experimental sciences, man becomes an inventor of phenom- ena, a real foreman of creation; and under this head we cannot set limits to the power that he may gain over nature through future progress in the experimental sciences."
+    },
+    {
+      "id": "p0093",
+      "text": "The question remains whether medicine should continue a science of observation or become an experimental science. Medicine must doubtless begin as simple clinical observation. Then, since the human organism is in itself a harmonious unit, a little world (micro- cosm) contained in the great world (macrocosm), men have actually"
+    },
+    {
+      "id": "p0094",
+      "text": "•Laplace. Systime du monde. Chap. II."
+    },
+    {
+      "id": "p0095",
+      "text": "OF EXPEEIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0096",
+      "text": "19"
+    },
+    {
+      "id": "p0097",
+      "text": "maintained that life is indivisible and that we should limit our- selves to observing the phenomena presented to us as a whole by liv- ing organisms, whether well or sick, and should content ourselves with reasoning on the facts observed. But if we admit that we must so limit ourselves, and if we posit as a principle that medicine is only a passive science of observation, then physicians should no more touch the human body than astronomers touch the planets. Hence, normal and pathological anatomy, vivisection applied to physiology, pathology and therapeutics, — all would become completely useless. Medicine so conceived can lead only to prognosis and to hygienic prescriptions of doubtful utility; it is the negation of active medi- cine, i.e., of real and scientific therapeutics."
+    },
+    {
+      "id": "p0098",
+      "text": "This is by no means the place to begin examining so important a definition as that of experimental medicine. I propose to treat this question later with all necessary amplification. I shall limit myself here to saying that I think that medicine is destined to be an experimental and progressive science; and precisely because of my conviction in this respect, I am putting together this work with the object of contributing my share toward encouraging the development of scientific and experimental medicine."
+    },
+    {
+      "id": "p0099",
+      "text": "V. Experiment Is Fundamentally Only Induced Observation"
+    },
+    {
+      "id": "p0100",
+      "text": "Despite the important difference, which we have just pointed out, between the so-called sciences of observation and of experimentation, observers and experimenters still have the common and immediate object, in their investigations, of establishing and noting facts and phenomena as rigorously as possible, and with the help of the most appropriate means ; they behave exactly as if they were dealing with two ordinary observations. In both cases, indeed, a fact is simply noted ; the only difference is this, — as the fact which an experimenter must verify does not present itself to him naturally, he must make it appear, i.e., induce it, for a special reason and with a definite ob- ject. Hence we may say that an experiment is fundamentally just an observation induced with some object or other. In the experimental method, search for facts, i.e., investigation, is always accompanied by reasoning, so that experimenters usually make an experiment to control or verify the value of an experimental idea. Hence, in this"
+    },
+    {
+      "id": "p0101",
+      "text": "20"
+    },
+    {
+      "id": "p0102",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0103",
+      "text": "case, the experiment is an observation induced with the object of control."
+    },
+    {
+      "id": "p0104",
+      "text": "Still, to complete our definition and to extend it to the sciences of observation, it is worth recalling here that, to verify an idea, it is not always absolutely necessary to make an experiment or an obser- vation ourselves. We shall have recourse to experimentation per- force only when the observation to be induced is not already pre- pared in nature. But if an observation has already been made, either naturally or accidentally, or even by another investigator, then we may take it ready made, and produce it simply to serve as verifica- tion of the experimental idea. And this may be summed up again by saying that, in this case, the experiment is just an observation produced for the purpose of control. It follows that, to reason ex- perimentally,, we must usually have an idea and afterwards induce or produce facts, i.e., observations, to control our preconceived idea."
+    },
+    {
+      "id": "p0105",
+      "text": "We shall examine later the importance of preconceived experi- mental ideas; let it suffice us now to say that the idea, by virtue of which we undertake an experiment, may be more or less clearly defined, according to the nature of the subject and according to the state of perfection of the science in which we are experimenting. Indeed the guiding idea of an experiment should include everything already known about the subject, so as to direct our search more surely toward problems whose solution may be fruitful in the ad- vancement of science. In established sciences, like physics and chemistry, experimental ideas are deduced in logical sequence from ruling theories, and are submitted with a clearly defined meaning to the control of experiment ; but in the case of a. science in its infancy, like medicine, where complex and obscure questions are still to be studied, experimental ideas do not always emerge from rather vague conceptions. What then must be done? Must we abstain and wait for observations to present themselves spontaneously and so bring us clearer ideas? We might often wait long and even in vain; in any case we gain by experimenting. But in this instance we can guide ourselves only by a kind of intuition, as we catch sight of prob- abilities; and if the subject is entirely dark and unexplored, physi- ologists should not be afraid even to act somewhat at random, so as to try, — permit me the common expression, — fishing in troubled waters. This amounts to saying that, in the midst of the functional disturbances which they produce, they may hope to see some unex-"
+    },
+    {
+      "id": "p0106",
+      "text": "OF EXPEEIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0107",
+      "text": "21"
+    },
+    {
+      "id": "p0108",
+      "text": "pected phenomena emerge which may give direction to their re- search. Such groping experiments, which are very common in physi- ology and therapeutics because of the complex and backward state of these sciences, may be called experiments to see, because they are intended to make a first observation emerge, unforeseen and unde- termined in advance, but whose appearance may suggest an experi- mental idea and open a path for research."
+    },
+    {
+      "id": "p0109",
+      "text": "There are instances, then, in which we experiment without hav- ing a probable idea to verify. However, experimentation in this instance is none the less intended to induce an observation, only it induces it with a view to finding an idea which shall point out a later path to follow in investigation. We may therefore say that the ex- periment is then an observation induced with the object of bringing to birth an idea."
+    },
+    {
+      "id": "p0110",
+      "text": "To sum up, the investigator seeks and concludes ; he includes both observations and experiments, he pursues the discovery of new ideas, even while seeking facts from which to draw a conclusion, or an experiment calculated to control other ideas."
+    },
+    {
+      "id": "p0111",
+      "text": "In a general and abstract sense, an experimenter, then, is a man who produces or induces, in definite conditions, observed facts, to derive from them the instruction which he wishes, — that is, experi- ence. An observer is a man who gathers observed facts and who decides whether they have been ascertained by the help of appro- priate means. Thus it is that experimenters must at the same time be good observers, and that in the experimental method, experiment and observation always advance side by side."
+    },
+    {
+      "id": "p0112",
+      "text": "VI. In ExPERIMENTAIi REASONING, EXPERIMENTERS ArE I^OT"
+    },
+    {
+      "id": "p0113",
+      "text": "Separate from Observers"
+    },
+    {
+      "id": "p0114",
+      "text": "Men of science who mean to embrace the principles of the ex- perimental method as a whole, must fulfill two classes of conditions and must possess two qualities of mind which are indispensable if they are to reach their goal and succeed in the discovery of truth. First, they must have ideas which they submit to the control of facts ; but at the same time they must make sure that the facts which serve as starting point or as control for the idea are correct and well established ; they must be at once observers and experimenters."
+    },
+    {
+      "id": "p0115",
+      "text": "Observers, we said, purely and simply not© the phenomena before"
+    },
+    {
+      "id": "p0116",
+      "text": "22"
+    },
+    {
+      "id": "p0117",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0118",
+      "text": "their eyes. They must be anxious only to forearm themselves against errors of observation which might make them incompletely see or poorly define a phenomenon. To this end they use every instrument which may help make their observations more complete. Observers, then, must be photographers of phenomena ; their observations must accurately represent nature. We must observe without any pre- conceived idea; the observer's mind must be passive, that is, must hold its peace; it listens to nature and writes at nature's dictation."
+    },
+    {
+      "id": "p0119",
+      "text": "But when a fact is once noted and a phenomenon well observed, reasoning intervenes, and the experimenter steps forward to interpret the phenomenon."
+    },
+    {
+      "id": "p0120",
+      "text": "An experimenter, as we have already said, is a man inspired by a more or less probable but anticipated interpretation of observed phenomena, to devise experiments which, in the logical order of his anticipations, shall bring results serving as controls for his hypothesis or preconceived idea. To do this, an exp>erimenter re- flects, tries out, gropes, compares, contrives, so as to find the experi- mental conditions best suited to gain the end which he sets before him. Of necessity we experiment with a preconceived idea. An experimenter's mind must be active, i.e., must question nature, and put all manner of queries to it according to the various hypotheses which suggest themselves."
+    },
+    {
+      "id": "p0121",
+      "text": "But when the conditions of an experiment are once established and worked up according to the mind's preconceived idea, an induced or premeditated observation will, as we said, result. Phenomena then appear which the experimenter has caused, but which must now be noted, so as to learn next how to use them to control the experimental idea which brought them to birth. !Now, from the moment when the result of an experiment appears, the experi- menter is confronted with a real observation which he has induced and must note, like any other observation, without any preconceived idea. The experimenter must now disappear or rather change him- self instantly into an observer; and it is only after he has noted the results of the experiment exactly, like those of an ordinary observa- tion, that his mind will come back, to reason, compare and decide whether his experimental hypothesis is verified or disproved by these very results. To maintain the comparison suggested above, I may say that our experimenter puts questions to nature ; but that, as soon as she speaks, he must hold his peace ; he must note her answer, hear"
+    },
+    {
+      "id": "p0122",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0123",
+      "text": "23"
+    },
+    {
+      "id": "p0124",
+      "text": "her out and in every case accept her decision. It has been said that the experimenter must force nature to unveil herself. Yes, the ex- perimenter doubtless forces nature to unveil herself by attacking her with all manner of questions; he must never ansv^er for her nor listen partially to her answers by taking, from the results of an ex- periment, only those which support or confirm his hypothesis. We shall see later that this is one of the great stumbling blocks of the experimental method. An experimenter, who clings to his precon- ceived idea and notes the results of his experiment only from this point of view, falls inevitably into error, because he fails to note what he has not foreseen and so makes a partial observation. An experimenter must not hold to his idea, except as a means of inviting an answer from nature. But he must submit his idea to nature and be ready to abandon, to alter or to supplant it, in ac- cordance with what he learns from observing the phenomena which, he has induced."
+    },
+    {
+      "id": "p0125",
+      "text": "Two operations must therefore be considered in any experiment. The first consists in premeditating and bringing to pass the condi- tions of the experiment; the second consists in noting the results of the experiment. It is impossible to devise an experiment without a preconceived idea ; devising an experiment, we said, is putting a question ; we never conceive a question without an idea which invites an answer. I consider it, therefore, an absolute principle that ex- periments must always be devised in view of a preconceived idea, no matter if the idea be not very clear nor very well defined. As for noting the results of the experiment, which is itself only an induced observation, I posit it similarly as a principle that we must here, aB always, observe without a preconceived idea."
+    },
+    {
+      "id": "p0126",
+      "text": "In the experimenter, we might also differentiate and separate the man who preconceives and devises an experiment from the man who carries it out or notes its results. In the former, it is the scientific investigator's mind that acts; in the latter, it is the senses that observe and note. What I am setting forth is most strikingly proved in the case of Francois Huber.^ Though blind, this great naturalist left us admirable experiments which he conceived and afterward had carried out by his serving man, who, for his part, had not a single scientific idea. So Huber was the directing mind that"
+    },
+    {
+      "id": "p0127",
+      "text": "' Francois Huber, 'Nouvelles Observations sur les Aheilles, 2nd edition, ex- panded by hi^ son, Pierre Huber, Geneva, 1814."
+    },
+    {
+      "id": "p0128",
+      "text": "24"
+    },
+    {
+      "id": "p0129",
+      "text": "AN INTRODUCTION TO THE STUDY"
+    },
+    {
+      "id": "p0130",
+      "text": "devised the experiment ; but he was forced to borrow anotber's senses. The serving man stood for tbe passive senses, obedient to tbe mind in carrying out an experiment devised in tbe ligbt of a preconceived idea."
+    },
+    {
+      "id": "p0131",
+      "text": "People wbo condemn tbe use of bypotbeses and of preconceived ideas in tbe experimental method make tbe mistake of confusing in- vention of an experiment with noting its results. We may truly say that tbe results of an experiment must be noted by a mind stripped of bypotbeses and preconceived ideas. But we must beware of proscribing the use of bypotbeses and of ideas wben devising ex- periments or imagining means of observation. On tbe contrary, as we shall soon see, we must give free rein to our imagination; tbe idea is tbe essence of all reasoning and all invention. All progress depends on tbat. It cannot be smothered or driven away on tbe pretence tbat it may do barm ; it must only be regulated and given a criterion, wbich is quite anotber matter."
+    },
+    {
+      "id": "p0132",
+      "text": "Tbe true scientist is one wbose work includes both experi- mental tbeory and experimental practice. (1) He notes a fact; (2) a propos of tbis fact, an idea is bom in bis mind; (3) in tbe ligbt of tbis idea, be reasons, devises an experiment, imagines and brings to pass its material conditions ; (4) from tbis experiment, new phenomena result wbicb must be observed, and so on and so forth. Tbe mind of a scientist is always placed, as it were, between two observations: one wbicb serves as starting point for reasoning, and tbe other wbicb serves as conclusion."
+    },
+    {
+      "id": "p0133",
+      "text": "To make myself clearer, I bave endeavored to separate tbe dif- ferent operations of experimental reasoning. But wben it all takes place at tbe same time in tbe bead of a scientist, abandoning bim- self to investigation in a science as vague as medicine still is, tben tbe results of observation are so entangled witb tbe bases of experiment tbat it would be alike impossible and useless to try to dis- sociate, from their inextricable mingling, eacb one of these terms. It is enougb to remember tbe principle that an a priori idea, or better, an bypotbesis, is a stimulus to experiment, and tbat we must let our- selves go witb it freely, provided tbat we observe tbe results of our experiment rigorously and fully. If an bypotbesis is not verified and disappears, tbe facts wbicb it bas enabled us to find are none tbe less acquired as indestructible materials for science."
+    },
+    {
+      "id": "p0134",
+      "text": "Observers and experimenters, tben, correspond to different phases"
+    },
+    {
+      "id": "p0135",
+      "text": "OF EXPERIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0136",
+      "text": "25"
+    },
+    {
+      "id": "p0137",
+      "text": "of experimental research. The observer does not reason, he notes; the experimenter, on the other hand, reasons and grounds himself on acquired facts, to imagine and induce rationally other facts. But though in theory and abstractly we may differentiate observers from experimenters, it seems impossible to separate them in practice, since we see that one and the same investigator, perforce, is alternately observer and experimenter."
+    },
+    {
+      "id": "p0138",
+      "text": "Things happen constantly, indeed, in this way when a single man of science discovers and explains a whole scientific question un- aided. But it more often happens in the evolution of science, that different parts of experimental reasoning are shared by several men. Some of these, both in medicine and in natural history, merely gather and assemble observations; others manage to formulate more or less ingenious and more or less probable hypotheses based on these obser- vations; then others come in to create conditions favoring the birth of an experiment to control these hypotheses; finally others apply themselves more especially to generalizing and systematizing the results obtained by the different observers and experimenters. This parceling out of the experimental domain is useful, because each one of its various parts is all the better cultivated. In fact we can easily conceive that, in certain sciences, the means of observation and experimentation are such specialized instruments that their manage- ment and use require a certain manual dexterity or the sharpening of certain senses. But while I accept specialization in the practice, I reject it utterly in the theory of science. I believe, indeed, that making generalization one's specialty is anti-philosophic and anti- scientific, in spite of what has been proclaimed by a modern philo- sophic school which piques itself on its scientific basis."
+    },
+    {
+      "id": "p0139",
+      "text": "Experimental science, however, cannot advance on a single side of the method taken separately; it goes ahead only by the union of all parts of the method converging toward a common goal. Men who gather observations are useful only because their observations are afterward introduced into experimental reasoning; in other words, endless accumulation of observations leads nowhere. Men, who formulate hypotheses a propos of observations gathered by others, are useful only in so far as men seek to verify these hypotheses by ex- perimenting; else these hypotheses, unverified or unverifiable by experiment, would engender nothing but systems and would bring us back to scholasticism. Men who experiment, despite all their dex-"
+    },
+    {
+      "id": "p0140",
+      "text": "26 THE STUDY OF EXPEEIMENTAL MEDICINE"
+    },
+    {
+      "id": "p0141",
+      "text": "terity, cannot solve problems unless they are inspired by a fortunate hypothesis based on accurate and well-made observations. Finally men who generalize can make lasting theories only in so far as they themselves learn all the scientific details that these theories are intended to represent. Scientific generalization must proceed from particular facts to principles ; and principles are the more stable as they rest on deeper details, just as a stake is the firmer, the farther it is driven into the ground."
+    },
+    {
+      "id": "p0142",
+      "text": "We see, then, that the elements of the scientific method are inter- related. Facts are necessary materials; but their working up by experimental reasoning, i.e., by theory, is what establishes and really builds up science. Ideas, given form by facts, embody science. A scientific hypothesis is merely a scientific idea, preconceived or pre- visioned. A theory is merely a scientific idea controlled by experi- ment. Reasoning merely gives a form to our ideas, so that every- thing, first and last, leads back to an idea. The idea is what estab- lishes, as we shall see, the starting point or the primum movens of all scientific reasoning, and it is also the goal in the mind's aspiration toward the unknown."
+    }
+  ],
+  "anchors": {
+    "science-bernard-induced-observation": {
+      "paragraphId": "p0100",
+      "start": 692,
+      "end": 1007,
+      "quote": "Hence we may say that an experiment is fundamentally just an observation induced with some object or other. In the experimental method, search for facts, i.e., investigation, is always accompanied by reasoning, so that experimenters usually make an experiment to control or verify the value of an experimental idea.",
+      "match": "normalized-exact"
+    }
+  }
+}

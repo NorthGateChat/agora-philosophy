@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-on-the-principles-of-political-economy-and-taxat-preface-preface-11db4edc",
+  "title": "序言",
+  "englishTitle": "Preface",
+  "work": "《政治经济学及赋税原理》",
+  "englishWork": "On the Principles of Political Economy and Taxation",
+  "locator": "序言",
+  "englishLocator": "Preface",
+  "version": "古登堡计划英文文本，《政治经济学及赋税原理》初版序言第 iv 页",
+  "englishVersion": "Project Gutenberg English text, Principles of Political Economy and Taxation, first-edition Preface, p. iv",
+  "sourceUrl": "https://www.gutenberg.org/files/33310/33310-h/33310-h.htm",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "a8cdc1fce93ad9d35d89225c5bef64f10e6aa031e5b1cd44b9fa95863dfdb9eb"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "7819333966d79bac4e6c8beae8a9d3def60894e26d9a0eb232e670d54cd3a7b1",
+  "inputHash": "43a13e2dd284dd6b27c2f7daae1403e0dc663b538db1cae1c8baaef0805f7121",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "PREFACE."
+    },
+    {
+      "id": "p0002",
+      "text": "The produce of the earth--all that is derived from its surface by the united application of labour, machinery, and capital, is divided among three classes of the community; namely, the proprietor of the land, the owner of the stock or capital necessary for its cultivation, and the labourers by whose industry it is cultivated."
+    },
+    {
+      "id": "p0003",
+      "text": "But in different stages of society, the proportions of the whole produce of the earth which will be allotted to each of these classes, under the names of rent, profit, and wages, will be essentially different; depending mainly on the actual fertility of the soil, on the accumulation of capital and population, and on the skill, ingenuity, and instruments employed in agriculture."
+    },
+    {
+      "id": "p0004",
+      "text": "To determine the laws which regulate this distribution, is the principal problem in Political Economy: much as the science has been improved by the writings of Turgot, Stuart, Smith, Say, Sismondi, and others, they afford very little satisfactory information respecting the natural course of rent, profit, and wages."
+    },
+    {
+      "id": "p0005",
+      "text": "In 1815, Mr. Malthus in his \"Inquiry into the Nature and Progress of Rent,\" and a Fellow of University College, Oxford, in his \"Essay on the Application of Capital to Land,\" presented to the world, nearly at the same moment, the true doctrine of rent; without a knowledge of which it is impossible to understand the effect of the progress of wealth on profits and wages, or to trace satisfactorily the influence of taxation on different classes of the community, particularly when the commodities taxed are the productions immediately derived from the surface of the earth. Adam Smith, and the other able writers to whom I have alluded, not having viewed correctly the principles of rent, have, it appears to me, overlooked many important truths, which can only be discovered after the subject of rent is thoroughly understood."
+    },
+    {
+      "id": "p0006",
+      "text": "To supply this deficiency, abilities are required of a far superior cast to any possessed by the writer of the following pages; yet after having given to this subject his best consideration--after the aid which he has derived from the works of the above-mentioned eminent writers--and after the valuable experience which a few late years, abounding in facts, have yielded to the present generation--it will not, he trusts, be deemed presumptuous in him to state his opinions on the laws of profits and wages, and on the operation of taxes. If the principles which he deems correct should be found to be so, it will be for others more able than himself to trace them to all their important consequences."
+    },
+    {
+      "id": "p0007",
+      "text": "The writer, in combating received opinions, has found it necessary to advert more particularly to those passages in the writings of Adam Smith from which he sees reason to differ; but he hopes it will not on that account be suspected that he does not, in common with all those who acknowledge the importance of the science of Political Economy, participate in the admiration which the profound work of this celebrated author so justly excites."
+    },
+    {
+      "id": "p0008",
+      "text": "The same remark may be applied to the excellent works of M. Say, who not only was the first, or among the first, of continental writers, who justly appreciated and applied the principles of Smith, and who has done more than all other continental writers taken together, to recommend the principles of that enlightened and beneficial system to the nations of Europe; but who has succeeded in placing the science in a more logical, and more instructive order; and has enriched it by several discussions, original, accurate, and profound. The respect, however, which the author entertains for the writings of this gentleman, has not prevented him from commenting with that freedom which he thinks the interests of science require, on such passages of the \"Economie Politique,\" as appeared at variance with his own ideas."
+    }
+  ],
+  "anchors": {
+    "economics-ricardo-distribution": {
+      "paragraphId": "p0004",
+      "start": 0,
+      "end": 101,
+      "quote": "To determine the laws which regulate this distribution, is the principal problem in Political Economy",
+      "match": "normalized-exact"
+    }
+  }
+}

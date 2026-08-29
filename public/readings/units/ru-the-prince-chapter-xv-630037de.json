@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-prince-chapter-xv-630037de",
+  "title": "章 XV",
+  "englishTitle": "Chapter XV",
+  "work": "《君主论》",
+  "englishWork": "The Prince",
+  "locator": "章 XV",
+  "englishLocator": "Chapter XV",
+  "version": "古登堡计划 W. K. Marriott 公版英译，《君主论》第 15 章；卡片以省略号标示中间删节",
+  "englishVersion": "Project Gutenberg, W. K. Marriott public-domain translation, The Prince, Chapter XV; internal omission marked with an ellipsis",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/1232/pg1232-images.html",
+  "preparedSourceUrl": "https://gutenberg.pglaf.org/1/2/3/1232/1232-0.txt",
+  "source": {
+    "url": "https://gutenberg.pglaf.org/1/2/3/1232/1232-0.txt",
+    "contentType": "text/plain",
+    "sha256": "fa1d336fe2a4f76c256088085c3e8fab7caae7110632f0f6e084bfba24c074ec"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "42a5bd8c8fa01f9d4e737ba5f3967fe24002773362ead9af0d0f5f6426cb8092",
+  "inputHash": "ab89fc084b25bba51a8615e70513662f0fc2210cec6179517d951bc148572b8c",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "CHAPTER XV."
+    },
+    {
+      "id": "p0002",
+      "text": "CONCERNING THINGS FOR WHICH MEN, AND ESPECIALLY PRINCES, ARE PRAISED OR BLAMED"
+    },
+    {
+      "id": "p0003",
+      "text": "It remains now to see what ought to be the rules of conduct for a prince towards subject and friends. And as I know that many have written on this point, I expect I shall be considered presumptuous in mentioning it again, especially as in discussing it I shall depart from the methods of other people. But, it being my intention to write a thing which shall be useful to him who apprehends it, it appears to me more appropriate to follow up the real truth of the matter than the imagination of it; for many have pictured republics and principalities which in fact have never been known or seen, because how one lives is so far distant from how one ought to live, that he who neglects what is done for what ought to be done, sooner effects his ruin than his preservation; for a man who wishes to act entirely up to his professions of virtue soon meets with what destroys him among so much that is evil."
+    },
+    {
+      "id": "p0004",
+      "text": "Hence it is necessary for a prince wishing to hold his own to know how to do wrong, and to make use of it or not according to necessity. Therefore, putting on one side imaginary things concerning a prince, and discussing those which are real, I say that all men when they are spoken of, and chiefly princes for being more highly placed, are remarkable for some of those qualities which bring them either blame or praise; and thus it is that one is reputed liberal, another miserly, using a Tuscan term (because an avaricious person in our language is still he who desires to possess by robbery, whilst we call one miserly who deprives himself too much of the use of his own); one is reputed generous, one rapacious; one cruel, one compassionate; one faithless, another faithful; one effeminate and cowardly, another bold and brave; one affable, another haughty; one lascivious, another chaste; one sincere, another cunning; one hard, another easy; one grave, another frivolous; one religious, another unbelieving, and the like. And I know that every one will confess that it would be most praiseworthy in a prince to exhibit all the above qualities that are considered good; but because they can neither be entirely possessed nor observed, for human conditions do not permit it, it is necessary for him to be sufficiently prudent that he may know how to avoid the reproach of those vices which would lose him his state; and also to keep himself, if it be possible, from those which would not lose him it; but this not being possible, he may with less hesitation abandon himself to them. And again, he need not make himself uneasy at incurring a reproach for those vices without which the state can only be saved with difficulty, for if everything is considered carefully, it will be found that something which looks like virtue, if followed, would be his ruin; whilst something else, which looks like vice, yet followed brings him security and prosperity."
+    }
+  ],
+  "anchors": {
+    "machiavelli": {
+      "paragraphId": "p0003",
+      "start": 394,
+      "end": 497,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0003",
+          "start": 394,
+          "end": 497,
+          "text": "it appears to me more appropriate to follow up the real truth of the matter than the imagination of it;"
+        },
+        {
+          "paragraphId": "p0003",
+          "start": 668,
+          "end": 770,
+          "text": "he who neglects what is done for what ought to be done, sooner effects his ruin than his preservation;"
+        }
+      ],
+      "quote": "It appears to me more appropriate to follow up the real truth of the matter than the imagination of it; ... he who neglects what is done for what ought to be done, sooner effects his ruin than his preservation."
+    }
+  }
+}

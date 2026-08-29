@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-the-discourse-on-love-sutta-nip-ta-1-8-whole-work-0761bbd2",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《慈经》",
+  "englishWork": "The Discourse on Love (Sutta Nipāta 1.8)",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "SuttaCentral/Bilara已发布数据固定提交21b240d60ee298ea0bab0868d058dfac04dbd1fd，Bhikkhu Sujato 2021年CC0英译《经集》1.8，第150颂、第8.1—8.4段；完整连续四行，仅将换行规范为空格，中文为项目研读译文",
+  "englishVersion": "SuttaCentral/Bilara published data at frozen commit 21b240d60ee298ea0bab0868d058dfac04dbd1fd, Bhikkhu Sujato's 2021 CC0 translation of Sutta Nipāta 1.8, verse 150, segments 8.1–8.4; four complete consecutive lines with line breaks normalized to spaces; Chinese is a project study translation",
+  "sourceUrl": "https://suttacentral.net/snp1.8/en/sujato",
+  "preparedSourceUrl": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/kn/snp/vagga1/snp1.8_translation-en-sujato.json",
+  "source": {
+    "url": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/kn/snp/vagga1/snp1.8_translation-en-sujato.json",
+    "retrievalUrl": "https://raw.githubusercontent.com/suttacentral/bilara-data/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/kn/snp/vagga1/snp1.8_translation-en-sujato.json",
+    "contentType": "application/json",
+    "sha256": "7f3c59ed40f7e7b9af78dd401c22e05179f6c449812b618fcf7c9036cc1adf3d"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "eebc97341b2dcdbd28ac33a8309718e931844b4f5936b46343ac6991f4be8844",
+  "inputHash": "068243eafa2ff571fdbad61bf55a4f3cd8f981aae071e0c7b96d2cd115a70833",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Anthology of Discourses 1.8 The Discourse on Love"
+    },
+    {
+      "id": "p0002",
+      "text": "Those who are skilled in the meaning of scripture should practice as follows to realize the state of peace. Let them be capable and upright, very upright, easy to speak to, gentle and humble;"
+    },
+    {
+      "id": "p0003",
+      "text": "content and unburdensome, unbusied, living lightly, alert, with senses calmed, courteous, not fawning on families."
+    },
+    {
+      "id": "p0004",
+      "text": "Let them not do the slightest thing that others who are wise would blame. May they be happy and safe! May all beings be happy!"
+    },
+    {
+      "id": "p0005",
+      "text": "Whatever living creatures there are with not a one left out— frail or firm, long or large, medium, small, tiny or round,"
+    },
+    {
+      "id": "p0006",
+      "text": "seen or unseen, living far or near, those who have been born and those about to be born— may all beings be happy!"
+    },
+    {
+      "id": "p0007",
+      "text": "Let none deceive another, nor look down on anyone anywhere. Though provoked or aggrieved, let them not wish pain on each other."
+    },
+    {
+      "id": "p0008",
+      "text": "Even as a mother would protect with her life her child, her only child, so too for all creatures unfold a boundless heart."
+    },
+    {
+      "id": "p0009",
+      "text": "With love for the whole world, unfold a boundless heart: above, below, all round, unconstricted, without enmity or foe."
+    },
+    {
+      "id": "p0010",
+      "text": "When standing, walking, sitting, or lying down while yet unweary, keep this ever in mind; for this, they say, is a divine meditation in this life."
+    },
+    {
+      "id": "p0011",
+      "text": "Avoiding harmful views, virtuous, accomplished in insight, with desire for sensual pleasures dispelled, they never return to a womb again."
+    }
+  ],
+  "anchors": {
+    "indian-buddha-metta": {
+      "paragraphId": "p0009",
+      "start": 0,
+      "end": 119,
+      "quote": "With love for the whole world, unfold a boundless heart: above, below, all round, unconstricted, without enmity or foe.",
+      "match": "normalized-exact"
+    }
+  }
+}

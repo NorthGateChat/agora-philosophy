@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-discourses-book-i-chapter-2-730b2536",
+  "title": "卷 I · 章 2",
+  "englishTitle": "Book I · Chapter 2",
+  "work": "《论说集》",
+  "englishWork": "Discourses",
+  "locator": "卷 I · 章 2",
+  "englishLocator": "Book I · Chapter 2",
+  "version": "古登堡计划乔治·朗公版英译，爱比克泰德《论说集》第一卷第2章；卡片以省略号标示中间删节",
+  "englishVersion": "Project Gutenberg, George Long public-domain translation, Epictetus, Discourses I.2; internal omission marked with an ellipsis",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/10661/pg10661-images.html",
+  "source": {
+    "contentType": "text/plain",
+    "sha256": "e7e681c4ffac454809d001572fd46ae16d1d878aa062c469daa33a1d05050402"
+  },
+  "selectionMethod": "configured-pattern",
+  "contentHash": "84abf090b09252510c80e2ede3229fdfe94149fd8f2fdac5d8b563426173ac36",
+  "inputHash": "a0dbd7a22f81ca4af5d1e31bd34fe0226356af28be16031cc7591055cdb74da2",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "HOW A MAN ON EVERY OCCASION CAN MAINTAIN HIS PROPER CHARACTER.—To the rational animal only is the irrational intolerable; but that which is rational is tolerable. Blows are not naturally intolerable. How is that? See how the Lacedaemonians endure whipping when they have learned that whipping is consistent with reason. To hang yourself is not intolerable. When then you have the opinion that it is rational, you go and hang yourself. In short, if we observe, we shall find that the animal man is pained by nothing so much as by that which is irrational; and, on the contrary, attracted to nothing so much as to that which is rational."
+    },
+    {
+      "id": "p0002",
+      "text": "Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum. But that which is great and superior perhaps belongs to Socrates and such as are like him. Why then, if we are naturally such, are not a very great number of us like him? Is it true then that all horses become swift, that all dogs are skilled in tracking footprints? What then, since I am naturally dull, shall I, for this reason, take no pains? I hope not. Epictetus is not superior to Socrates; but if he is not inferior, this is enough for me; for I shall never be a Milo, and yet I do not neglect my body; nor shall I be a Croesus, and yet I do not neglect my property; nor, in a word, do we neglect looking after anything because we despair of reaching the highest degree."
+    }
+  ],
+  "anchors": {
+    "epictetus-preserve-character": {
+      "paragraphId": "p0001",
+      "start": 63,
+      "end": 162,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0001",
+          "start": 63,
+          "end": 162,
+          "text": "To the rational animal only is the irrational intolerable; but that which is rational is tolerable."
+        },
+        {
+          "paragraphId": "p0001",
+          "start": 320,
+          "end": 434,
+          "text": "To hang yourself is not intolerable. When then you have the opinion that it is rational, you go and hang yourself."
+        }
+      ],
+      "quote": "To the rational animal only is the irrational intolerable; but that which is rational is tolerable. … To hang yourself is not intolerable. When then you have the opinion that it is rational, you go and hang yourself."
+    }
+  }
+}

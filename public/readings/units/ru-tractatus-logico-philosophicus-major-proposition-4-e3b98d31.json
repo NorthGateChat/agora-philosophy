@@ -1,0 +1,1027 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-tractatus-logico-philosophicus-major-proposition-4-e3b98d31",
+  "title": "主命题 4",
+  "englishTitle": "Major proposition 4",
+  "work": "《逻辑哲学论》",
+  "englishWork": "Tractatus Logico-Philosophicus",
+  "locator": "主命题 4",
+  "englishLocator": "Major proposition 4",
+  "version": "Wikisource 公版英文文本，《逻辑哲学论》4.121、4.1212，Ogden/Ramsey 1922 年英译；卡片以省略号标示跨编号删节",
+  "englishVersion": "Wikisource public-domain English text, Tractatus 4.121 and 4.1212, Ogden/Ramsey translation (1922); omission between numbered remarks marked with an ellipsis",
+  "sourceUrl": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Tractatus+Logico-Philosophicus%2F4&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "38be920cbf5c7172609594028e2fad7869c9565f117100db2a019a595539a673"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "156436b850dd0178686197af74ee227c3cfb7ebcca28f309e97ab6af2a0d3de0",
+  "inputHash": "653657930549ea10b07c1fd4985cd6c114e96b50b743a0356300b960f7ba4e78",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "4 The thought is the significant proposition."
+    },
+    {
+      "id": "p0002",
+      "text": "4.001 The totality of propositions is the language."
+    },
+    {
+      "id": "p0003",
+      "text": "4.002 Man possesses the capacity of constructing languages, in which every sense can be expressed, without having an idea how and what each word means—just as one speaks without knowing how the single sounds are produced."
+    },
+    {
+      "id": "p0004",
+      "text": "Colloquial language is a part of the human organism and is not less complicated than it."
+    },
+    {
+      "id": "p0005",
+      "text": "From it it is humanly impossible to gather immediately the logic of language."
+    },
+    {
+      "id": "p0006",
+      "text": "Language disguises the thought; so that from the external form of the clothes one cannot infer the form of the thought they clothe, because the external form of the clothes is constructed with quite another object than to let the form of the body be recognized."
+    },
+    {
+      "id": "p0007",
+      "text": "The silent adjustments to understand colloquial language are enormously complicated."
+    },
+    {
+      "id": "p0008",
+      "text": "4.003 Most propositions and questions, that have been written about philosophical matters, are not false, but senseless. We cannot, therefore, answer questions of this kind at all, but only state their senselessness. Most questions and propositions of the philosophers result from the fact that we do not understand the logic of our language."
+    },
+    {
+      "id": "p0009",
+      "text": "(They are of the same kind as the question whether the Good is more or less identical than the Beautiful.)"
+    },
+    {
+      "id": "p0010",
+      "text": "And so it is not to be wondered at that the deepest problems are really no problems."
+    },
+    {
+      "id": "p0011",
+      "text": "4.0031 All philosophy is “Critique of language” (but not at all in Mauthner’s sense). Russell’s merit is to have shown that the apparent logical form of the proposition need not be its real form."
+    },
+    {
+      "id": "p0012",
+      "text": "4.01 The proposition is a picture of reality."
+    },
+    {
+      "id": "p0013",
+      "text": "The proposition is a model of the reality as we think it is."
+    },
+    {
+      "id": "p0014",
+      "text": "4.011 At the first glance the proposition—say as it stands printed on paper—does not seem to be picture of the reality of which it treats. But nor does the musical score appear at first sight to be a picture of a musical piece; nor does our phonetic spelling (letters) seem to be a picture of our spoken language. And yet these symbolisms prove to be pictures—even in the ordinary sense of the word—of what they represent."
+    },
+    {
+      "id": "p0015",
+      "text": "4.012 It is obvious that we perceive a proposition of the form aRb as a picture. Here the sign is obviously a likeness of the signified."
+    },
+    {
+      "id": "p0016",
+      "text": "4.013 And if we penetrate to the essence of this pictorial nature we see that this is not disturbed by apparent irregularities (like the use of ♯ and ♭ in the score)."
+    },
+    {
+      "id": "p0017",
+      "text": "For these irregularities also picture what they are to express; only in another way."
+    },
+    {
+      "id": "p0018",
+      "text": "4.014 The gramophone record, the musical thought, the score, the waves of sound, all stand to one another in that pictorial internal relation, which holds between language and the world."
+    },
+    {
+      "id": "p0019",
+      "text": "To all of them the logical structure is common."
+    },
+    {
+      "id": "p0020",
+      "text": "(Like the two youths, their two horses and their lilies in the story. They are all in a certain sense one.)"
+    },
+    {
+      "id": "p0021",
+      "text": "4.0141 In the fact that there is a general rule by which the musician is able to read the symphony out of the score, and that there is a rule by which one could reconstruct the symphony from the line on a gramophone record and from this again—by means of the first rule—construct the score, herein lies the internal similarity between these things which at first sight seem to be entirely different. And the rule is the law of projection which projects the symphony into the language of the musical score. It is the rule of translation of this language into the language of the gramophone record."
+    },
+    {
+      "id": "p0022",
+      "text": "4.015 The possibility of all similes, of all the imagery of our language, rests on the logic of representation."
+    },
+    {
+      "id": "p0023",
+      "text": "4.016 In order to understand the essence of the proposition, consider hieroglyphic writing, which pictures the facts it describes."
+    },
+    {
+      "id": "p0024",
+      "text": "And from it came the alphabet without the essence of the representation being lost."
+    },
+    {
+      "id": "p0025",
+      "text": "4.02 This we see from the fact that we understand the sense of the propositional sign, without having had it explained to us."
+    },
+    {
+      "id": "p0026",
+      "text": "4.021 The proposition is a picture of reality, for I know the state of affairs presented by it, if I understand the proposition. And I understand the proposition, without its sense having been explained to me."
+    },
+    {
+      "id": "p0027",
+      "text": "4.022 The proposition shows its sense."
+    },
+    {
+      "id": "p0028",
+      "text": "The proposition shows how things stand, if it is true. And it says , that they do so stand."
+    },
+    {
+      "id": "p0029",
+      "text": "4.023 The proposition determines reality to this extent, that one only needs to say “Yes” or “No” to it to make it agree with reality."
+    },
+    {
+      "id": "p0030",
+      "text": "Reality must therefore be completely described by the proposition."
+    },
+    {
+      "id": "p0031",
+      "text": "A proposition is the description of a fact."
+    },
+    {
+      "id": "p0032",
+      "text": "As the description of an object describes it by its external properties so propositions describe reality by its internal properties."
+    },
+    {
+      "id": "p0033",
+      "text": "The proposition constructs a world with the help of a logical scaffolding, and therefore one can actually see in the proposition all the logical features possessed by reality if it is true. One can draw conclusions from a false proposition."
+    },
+    {
+      "id": "p0034",
+      "text": "4.024 To understand a proposition means to know what is the case, if it is true."
+    },
+    {
+      "id": "p0035",
+      "text": "(One can therefore understand it without knowing whether it is true or not.)"
+    },
+    {
+      "id": "p0036",
+      "text": "One understands it if one understands it constituent parts."
+    },
+    {
+      "id": "p0037",
+      "text": "4.025 The translation of one language into another is not a process of translating each proposition of the one into a proposition of the other, but only the constituent parts of propositions are translated."
+    },
+    {
+      "id": "p0038",
+      "text": "(And the dictionary does not only translate substantives but also adverbs and conjunctions, etc., and it treats them all alike.)"
+    },
+    {
+      "id": "p0039",
+      "text": "4.026 The meanings of the simple signs (the words) must be explained to us, if we are to understand them."
+    },
+    {
+      "id": "p0040",
+      "text": "By means of propositions we explain ourselves."
+    },
+    {
+      "id": "p0041",
+      "text": "4.027 It is essential to propositions, that they can communicate a new sense to us."
+    },
+    {
+      "id": "p0042",
+      "text": "4.03 A proposition must communicate a new sense with old words."
+    },
+    {
+      "id": "p0043",
+      "text": "The proposition communicates to us a state of affairs, therefore it must be essentially connected with the state of affairs."
+    },
+    {
+      "id": "p0044",
+      "text": "And the connexion is, in fact, that it is its logical picture."
+    },
+    {
+      "id": "p0045",
+      "text": "The proposition only asserts something, in so far as it is a picture."
+    },
+    {
+      "id": "p0046",
+      "text": "4.031 In the proposition a state of affairs is, as it were, put together for the sake of experiment."
+    },
+    {
+      "id": "p0047",
+      "text": "One can say, instead of, This proposition has such and such a sense, This proposition represents such and such a state of affairs."
+    },
+    {
+      "id": "p0048",
+      "text": "4.0311 One name stands for one thing, and another for another thing, and they are connected together. And so the whole, like a living picture, presents the atomic fact."
+    },
+    {
+      "id": "p0049",
+      "text": "4.0312 The possibility of propositions is based upon the principle of the representation of objects by signs."
+    },
+    {
+      "id": "p0050",
+      "text": "My fundamental thought is that the “logical constants” do not represent. That the logic of the facts cannot be represented."
+    },
+    {
+      "id": "p0051",
+      "text": "4.032 The proposition is a picture of its state of affairs, only in so far as it is logically articulated. (Even the proposition “ambulo” is composite, for its stem gives a different sense with another termination, or its termination with another stem.)"
+    },
+    {
+      "id": "p0052",
+      "text": "4.04 In the proposition there must be exactly as many thing distinguishable as there are in the state of affairs, which it represents."
+    },
+    {
+      "id": "p0053",
+      "text": "They must both possess the same logical (mathematical) multiplicity (cf. Hertz’s Mechanics, on Dynamic Models)."
+    },
+    {
+      "id": "p0054",
+      "text": "4.041 This mathematical multiplicity naturally cannot in its turn be represented. One cannot get outside it in the representation."
+    },
+    {
+      "id": "p0055",
+      "text": "4.0411 If we tried, for example, to express what is expressed by “( x ). fx ” by putting an index before fx , like: “Gen. fx ”, it would not do, we should not know what was generalized. If we tried to show it by an index g , like: “ f ( x g )” it would not do—we should not know the scope of the generalization."
+    },
+    {
+      "id": "p0056",
+      "text": "If we were to try it by introducing a mark in the argument places, like “( G, G ). F ( G, G )”, it would not do—we could not determine the identity of the variables, etc."
+    },
+    {
+      "id": "p0057",
+      "text": "All these ways of symbolizing are inadequate because they have not the necessary mathematical multiplicity."
+    },
+    {
+      "id": "p0058",
+      "text": "4.0412 For the same reason the idealist explanation of the seeing of spatial relations through “spatial spectacles” does not do, because it cannot explain the multiplicity of these relations."
+    },
+    {
+      "id": "p0059",
+      "text": "4.05 Reality is compared with the proposition."
+    },
+    {
+      "id": "p0060",
+      "text": "4.06 Propositions can be true or false only by being pictures of the reality."
+    },
+    {
+      "id": "p0061",
+      "text": "4.061 If one does not observe that propositions have a sense independent of the facts, one can easily believe that true and false are two relations between signs and things signified with equal rights."
+    },
+    {
+      "id": "p0062",
+      "text": "One could, then, for example, say that “ p ” signifies in the true way what “ ~p ” signifies in the false way, etc."
+    },
+    {
+      "id": "p0063",
+      "text": "4.062 Can we not make ourselves understood by means of false propositions as hitherto with true ones, so long as we know that they are meant to be false? No! For a proposition is true, if what we assert by means of it is the case; and if by “ p ” we mean ~p , and what we mean is the case, then “ p ” in the new conception is true and not false."
+    },
+    {
+      "id": "p0064",
+      "text": "4.0621 That, however, the signs “ p ” and “~ p ” can say the same thing is important, for it shows that the sign “ ~ ” corresponds to nothing in reality."
+    },
+    {
+      "id": "p0065",
+      "text": "That negation occurs in a proposition, is no characteristic of its sense ( ~ ~p=p )."
+    },
+    {
+      "id": "p0066",
+      "text": "The propositions “ p ” and “ ~p ” have opposite senses, but to them corresponds one and the same reality."
+    },
+    {
+      "id": "p0067",
+      "text": "4.063 An illustration to explain the concept of truth. A black spot on white paper; the form of the spot can be described by saying of each point of the plane whether it is white or black. To the fact that a point is black corresponds a positive fact; to the fact that a point is white (not black), a negative fact. If I indicate a point of the plane (a truth-value in Frege’s terminology), this corresponds to the assumption proposed for judgment, etc. etc."
+    },
+    {
+      "id": "p0068",
+      "text": "But to be able to say that a point is black or white, I must first know under what conditions a point is called white or black; in order to be able to say “ p ” is true (or false) I must have determined under what conditions I call “ p ” true, and thereby I determine the sense of the proposition."
+    },
+    {
+      "id": "p0069",
+      "text": "The point at which the simile breaks down is this: we can indicate a point on the paper, without knowing what white and black are; but to a proposition without a sense corresponds nothing at all, for it signifies no thing (truth-value) whose properties are called “false” or “true”; the verb of the proposition is not “is true” or “is false”—as Frege thought—but that which “is true” must already contain the verb."
+    },
+    {
+      "id": "p0070",
+      "text": "4.064 Every proposition must already have a sense; assertion cannot give it a sense, for what it asserts is the sense itself. And the same holds of denial, etc."
+    },
+    {
+      "id": "p0071",
+      "text": "4.0641 One could say, the denial is already related to the logical place determined by the proposition that is denied."
+    },
+    {
+      "id": "p0072",
+      "text": "The denying proposition determines a logical place other than does the proposition denied."
+    },
+    {
+      "id": "p0073",
+      "text": "The denying proposition determines a logical place, with the help of the logical place of the proposition denied, by saying that it lies outside the latter place."
+    },
+    {
+      "id": "p0074",
+      "text": "That one can deny again the denied proposition, shows that what is denied is already a proposition and not merely the preliminary to a proposition."
+    },
+    {
+      "id": "p0075",
+      "text": "4.1 A proposition presents the existence and non-existence of atomic facts."
+    },
+    {
+      "id": "p0076",
+      "text": "4.11 The totality of true propositions is the total natural science (or the totality of the natural sciences)."
+    },
+    {
+      "id": "p0077",
+      "text": "4.111 Philosophy is not one of the natural sciences."
+    },
+    {
+      "id": "p0078",
+      "text": "(The word “philosophy” must mean something which stands above or below, but not beside the natural sciences.)"
+    },
+    {
+      "id": "p0079",
+      "text": "4.112 The object of philosophy is the logical clarification of thoughts."
+    },
+    {
+      "id": "p0080",
+      "text": "Philosophy is not a theory but an activity."
+    },
+    {
+      "id": "p0081",
+      "text": "A philosophical work consists essentially of elucidations."
+    },
+    {
+      "id": "p0082",
+      "text": "The result of philosophy is not a number of “philosophical propositions”, but to make propositions clear."
+    },
+    {
+      "id": "p0083",
+      "text": "Philosophy should make clear and delimit sharply the thoughts which otherwise are, as it were, opaque and blurred."
+    },
+    {
+      "id": "p0084",
+      "text": "4.1121 Psychology is no nearer related to philosophy, than is any other natural science."
+    },
+    {
+      "id": "p0085",
+      "text": "The theory of knowledge is the philosophy of psychology."
+    },
+    {
+      "id": "p0086",
+      "text": "Does not my study of sign-language correspond to the study of thought processes which philosophers held to be so essential to the philosophy of logic? Only they got entangled for the most part in unessential psychological investigations, and there is an analogous danger for my method."
+    },
+    {
+      "id": "p0087",
+      "text": "4.1122 The Darwinian theory has no more to do with philosophy than has any other hypothesis of natural science."
+    },
+    {
+      "id": "p0088",
+      "text": "4.113 Philosophy limits the disputable sphere of natural science."
+    },
+    {
+      "id": "p0089",
+      "text": "4.114 It should limit the thinkable and thereby the unthinkable."
+    },
+    {
+      "id": "p0090",
+      "text": "It should limit the unthinkable from within through the thinkable."
+    },
+    {
+      "id": "p0091",
+      "text": "4.115 It will mean the unspeakable by clearly displaying the speakable."
+    },
+    {
+      "id": "p0092",
+      "text": "4.116 Everything that can be thought at all can be thought clearly. Everything that can be said can be said clearly."
+    },
+    {
+      "id": "p0093",
+      "text": "4.12 Propositions can represent the whole reality, but they cannot represent what they must have in common with reality in order to be able to represent it—the logical form."
+    },
+    {
+      "id": "p0094",
+      "text": "To be able to represent the logical form, we should have to be able to put ourselves with the propositions outside logic, that is outside the world."
+    },
+    {
+      "id": "p0095",
+      "text": "4.121 Propositions cannot represent the logical form: this mirrors itself in the propositions."
+    },
+    {
+      "id": "p0096",
+      "text": "That which mirrors itself in language, language cannot represent."
+    },
+    {
+      "id": "p0097",
+      "text": "That which expresses itself in language, we cannot express by language."
+    },
+    {
+      "id": "p0098",
+      "text": "The propositions show the logical form of reality."
+    },
+    {
+      "id": "p0099",
+      "text": "They exhibit it."
+    },
+    {
+      "id": "p0100",
+      "text": "4.1211 Thus a proposition “ fa ” shows that in its sense the object a occurs, two propositions “ fa ” and “ ga ” that they are both about the same object."
+    },
+    {
+      "id": "p0101",
+      "text": "If two propositions contradict one another, this is shown by their structure; similarly if one follows from another, etc."
+    },
+    {
+      "id": "p0102",
+      "text": "4.1212 What can be shown cannot be said."
+    },
+    {
+      "id": "p0103",
+      "text": "4.1213 Now we understand our feeling that we are in possession of the right logical conception, if only all is right in our symbolism."
+    },
+    {
+      "id": "p0104",
+      "text": "4.122 We can speak in a certain sense of formal properties of objects and atomic facts, or of properties of the structure of facts, and in the same sense of formal relations and relations of structures."
+    },
+    {
+      "id": "p0105",
+      "text": "(Instead of property of the structure I also say “internal property”; instead of relation of structures “internal relation”."
+    },
+    {
+      "id": "p0106",
+      "text": "I introduce these expressions in order to show the reason for the confusion, very widespread among philosophers, between internal relations and proper (external) relations.)"
+    },
+    {
+      "id": "p0107",
+      "text": "The holding of such internal properties and relations cannot, however, be asserted by propositions, but it shows itself in the propositions, which present the facts and treat of the objects in question."
+    },
+    {
+      "id": "p0108",
+      "text": "4.1221 An internal property of a fact we also call a feature of this fact. (In the sense in which we speak of facial features.)"
+    },
+    {
+      "id": "p0109",
+      "text": "4.123 A property is internal if it is unthinkable that its object does not possess it."
+    },
+    {
+      "id": "p0110",
+      "text": "(This blue colour and that stand in the internal relation of brighter and darker eo ipso. It is unthinkable that these two objects should not stand in this relation.)"
+    },
+    {
+      "id": "p0111",
+      "text": "(Here to the shifting use of the words “property” and “relation” there corresponds the shifting use of the word “object”.)"
+    },
+    {
+      "id": "p0112",
+      "text": "4.124 The existence of an internal property of a possible state of affairs is not expressed by a proposition, but it expresses itself in the proposition which presents that state of affairs, by an internal property of this proposition."
+    },
+    {
+      "id": "p0113",
+      "text": "It would be as senseless to ascribe a formal property to a proposition as to deny it the formal property."
+    },
+    {
+      "id": "p0114",
+      "text": "4.1241 One cannot distinguish forms from one another by saying that one has this property, the other that: for this assumes that there is a sense in asserting either property of either form."
+    },
+    {
+      "id": "p0115",
+      "text": "4.125 The existence of an internal relation between possible states of affairs expresses itself in language by an internal relation between the propositions presenting them."
+    },
+    {
+      "id": "p0116",
+      "text": "4.1251 Now this settles the disputed question “whether all relations are internal or external”."
+    },
+    {
+      "id": "p0117",
+      "text": "4.1252 Series which are ordered by internal relations I call formal series."
+    },
+    {
+      "id": "p0118",
+      "text": "The series of numbers is ordered not by an external, but by an internal relation."
+    },
+    {
+      "id": "p0119",
+      "text": "Similarly the series of propositions “ aRb ”,"
+    },
+    {
+      "id": "p0120",
+      "text": "“(∃ x ): aRx.xRb ”,"
+    },
+    {
+      "id": "p0121",
+      "text": "“(∃ x,y ): aRx.xRy.yRb ”, etc."
+    },
+    {
+      "id": "p0122",
+      "text": "(If b stands in one of these relations to a , I call b a successor of a .)"
+    },
+    {
+      "id": "p0123",
+      "text": "4.126 In the sense in which we speak of formal properties we can now speak also of formal concepts."
+    },
+    {
+      "id": "p0124",
+      "text": "(I introduce this expression in order to make clear the confusion of formal concepts with proper concepts which runs through the whole of the old logic.)"
+    },
+    {
+      "id": "p0125",
+      "text": "That anything falls under a formal concept as an object belonging to it, cannot be expressed by a proposition. But it is shown in the symbol for the object itself. (The name shows that it signifies an object, the numerical sign that it signifies a number, etc.)"
+    },
+    {
+      "id": "p0126",
+      "text": "Formal concepts, cannot, like proper concepts, be presented by a function."
+    },
+    {
+      "id": "p0127",
+      "text": "For their characteristics, the formal properties, are not expressed by the functions."
+    },
+    {
+      "id": "p0128",
+      "text": "The expression of a formal property is a feature of certain symbols."
+    },
+    {
+      "id": "p0129",
+      "text": "The sign that signifies the characteristics of a formal concept is, therefore, a characteristic feature of all symbols, whose meanings fall under the concept. The expression of the formal concept is therefore a propositional variable in which only this characteristic feature is constant."
+    },
+    {
+      "id": "p0130",
+      "text": "4.127 The propositional variable signifies the formal concept, and its values signify the objects which fall under this concept."
+    },
+    {
+      "id": "p0131",
+      "text": "4.1271 Every variable is the sign of a formal concept."
+    },
+    {
+      "id": "p0132",
+      "text": "For every variable presents a constant form, which all its values possess, and which can be conceived as a formal property of these values."
+    },
+    {
+      "id": "p0133",
+      "text": "4.1272 So the variable name “ x ” is the proper sign of the pseudo-concept object ."
+    },
+    {
+      "id": "p0134",
+      "text": "Wherever the word “object” (“thing”, “entity”, etc.) is rightly used, it is expressed in logical symbolism by the variable name."
+    },
+    {
+      "id": "p0135",
+      "text": "For example in the proposition “there are two objects which …”, by “(∃x,y)…”."
+    },
+    {
+      "id": "p0136",
+      "text": "Wherever it is used otherwise, i.e. as a proper concept word, there arise senseless pseudo-propositions."
+    },
+    {
+      "id": "p0137",
+      "text": "So one cannot, e.g. say “There are objects” as one says “There are books”. Nor “There are 100 objects” or “There are ℵ 0 objects”."
+    },
+    {
+      "id": "p0138",
+      "text": "And it is senseless to speak of the number of all objects."
+    },
+    {
+      "id": "p0139",
+      "text": "The same holds of the words “Complex”, “Fact”, “Function”, “Number”, etc."
+    },
+    {
+      "id": "p0140",
+      "text": "They all signify formal concepts and are presented in logical symbolism by variables, not by functions or classes (as Frege and Russell thought)."
+    },
+    {
+      "id": "p0141",
+      "text": "Expressions like “1 is a number”, “there is only one number nought”, and all like them are senseless."
+    },
+    {
+      "id": "p0142",
+      "text": "(It is as senseless to say, “there is only one 1” as it would be to say: 2+2 is at 3 o’clock equal to 4.)"
+    },
+    {
+      "id": "p0143",
+      "text": "4.12721 The formal concept is already given with an object, which falls under it. One cannot, therefore, introduce both, the objects which fall under a formal concept and the formal concept itself, as primitive ideas. One cannot, therefore, e.g. introduce (as Russell does) the concept of function and also special functions as primitive ideas; or the concept of number and definite numbers."
+    },
+    {
+      "id": "p0144",
+      "text": "4.1273 If we want to express in logical symbolism the general proposition “ b is a successor of a ” we need for this an expression for the general term of the formal series: aRb , (∃ x ): aRx.xRb , (∃ x,y ): aRx.xRy.yRb ,… The general term of a formal series can only be expressed by a variable, for the concept symbolized by “term of this formal series” is a formal concept. (This Frege and Russell overlooked; the way in which they express general propositions like the above is, therefore, false; it contains a vicious circle.)"
+    },
+    {
+      "id": "p0145",
+      "text": "We can determine the general term of the formal series by giving its first term and the general form of the operation, which generates the following term out of the preceding proposition."
+    },
+    {
+      "id": "p0146",
+      "text": "4.1274 The question about the existence of a formal concept is senseless. For no proposition can answer such a question."
+    },
+    {
+      "id": "p0147",
+      "text": "(For example, one cannot ask: “Are there unanalysable subject-predicate propositions?”)"
+    },
+    {
+      "id": "p0148",
+      "text": "4.128 The logical forms are anumerical ."
+    },
+    {
+      "id": "p0149",
+      "text": "Therefore there are in logic no pre-eminent numbers, and therefore there is no philosophical monism or dualism, etc."
+    },
+    {
+      "id": "p0150",
+      "text": "4.2 The sense of a proposition is its agreement and disagreement with the possibilities of the existence and non-existence of the atomic facts."
+    },
+    {
+      "id": "p0151",
+      "text": "4.21 The simplest proposition, the elementary proposition, asserts the existence of an atomic fact."
+    },
+    {
+      "id": "p0152",
+      "text": "4.211 It is a sign of an elementary proposition, that no elementary proposition can contradict it."
+    },
+    {
+      "id": "p0153",
+      "text": "4.22 The elementary proposition consists of names. It is a connexion, a concatenation, of names."
+    },
+    {
+      "id": "p0154",
+      "text": "4.221 It is obvious that in the analysis of propositions we must come to elementary propositions, which consist of names in immediate combination."
+    },
+    {
+      "id": "p0155",
+      "text": "The question arises here, how the propositional connexion comes to be."
+    },
+    {
+      "id": "p0156",
+      "text": "4.2211 Even if the world is infinitely complex, so that every fact consists of an infinite number of atomic facts and every atomic fact is composed of an infinite number of objects, even then there must be objects and atomic facts."
+    },
+    {
+      "id": "p0157",
+      "text": "4.23 The name occurs in the proposition only in the context of the elementary proposition."
+    },
+    {
+      "id": "p0158",
+      "text": "4.24 The names are the simple symbols, I indicate them by single letters ( x, y, z )."
+    },
+    {
+      "id": "p0159",
+      "text": "The elementary proposition I write as function of the names, in the form “ fx ”, “ ϕ ( x,y )”, etc."
+    },
+    {
+      "id": "p0160",
+      "text": "Or I indicate it by the letters p, q, r ."
+    },
+    {
+      "id": "p0161",
+      "text": "4.241 If I use two signs with one and the same meaning, I express this by putting between them the sign “=”."
+    },
+    {
+      "id": "p0162",
+      "text": "“ a=b ” means then, that the sign “ a ” is replaceable by the sign “ b ”."
+    },
+    {
+      "id": "p0163",
+      "text": "(If I introduce by an equation a new sign “ b ”, by determining that it shall replace a previously known sign “ a ”, I write the equation—definition —(like Russell) in the form “ a=b Def.”. A definition is a symbolic rule.)"
+    },
+    {
+      "id": "p0164",
+      "text": "4.242 Expressions of the form “ a=b ” are therefore only expedients in presentation: They assert nothing about the meaning of the signs “ a ” and “ b ”."
+    },
+    {
+      "id": "p0165",
+      "text": "4.243 Can we understand two names without knowing whether they signify the same thing or two different things? Can we understand a proposition in which two names occur, without knowing if they mean the same or different things?"
+    },
+    {
+      "id": "p0166",
+      "text": "If I know the meaning of an English and a synonymous German word, it is impossible for me not to know that they are synonymous, it is impossible for me not to be able to translate them into one another."
+    },
+    {
+      "id": "p0167",
+      "text": "Expressions like “ a=a ”, or expressions deduced from these are neither elementary propositions nor otherwise significant signs. (This will be shown later.)"
+    },
+    {
+      "id": "p0168",
+      "text": "4.25 If the elementary proposition is true, the atomic fact exists; if it is false the atomic fact does not exist."
+    },
+    {
+      "id": "p0169",
+      "text": "4.26 The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false."
+    },
+    {
+      "id": "p0170",
+      "text": "4.27 With regard to the existence of n atomic facts there are K n = ∑ v = 0 n ( n v ) {\\displaystyle \\mathbf {K} _{n}=\\sum _{v=0}^{n}{\\binom {n}{v}}} possibilities."
+    },
+    {
+      "id": "p0171",
+      "text": "It is possible for all combinations of atomic facts to exist, and the others not to exist."
+    },
+    {
+      "id": "p0172",
+      "text": "4.28 To these combinations correspond the same number of possibilities of the truth—and falsehood—of n elementary propositions."
+    },
+    {
+      "id": "p0173",
+      "text": "4.3 The truth-possibilities of the elementary propositions mean the possibilities of the existence and non-existence of the atomic facts. 4.31 The truth-possibilities can be presented by schemata of the following kind (\"T\" means \"true\", \"F\" \"false\". The rows of T's and F's under the row of the elementary propositions mean their truth-possibilities in an easily intelligible symbolism)."
+    },
+    {
+      "id": "p0174",
+      "text": "p q r"
+    },
+    {
+      "id": "p0175",
+      "text": "T T T"
+    },
+    {
+      "id": "p0176",
+      "text": "F T T"
+    },
+    {
+      "id": "p0177",
+      "text": "T F T"
+    },
+    {
+      "id": "p0178",
+      "text": "T T F"
+    },
+    {
+      "id": "p0179",
+      "text": "F F T"
+    },
+    {
+      "id": "p0180",
+      "text": "F T F"
+    },
+    {
+      "id": "p0181",
+      "text": "T F F"
+    },
+    {
+      "id": "p0182",
+      "text": "F F F"
+    },
+    {
+      "id": "p0183",
+      "text": "p q"
+    },
+    {
+      "id": "p0184",
+      "text": "T T"
+    },
+    {
+      "id": "p0185",
+      "text": "F T"
+    },
+    {
+      "id": "p0186",
+      "text": "T F"
+    },
+    {
+      "id": "p0187",
+      "text": "F F"
+    },
+    {
+      "id": "p0188",
+      "text": "p"
+    },
+    {
+      "id": "p0189",
+      "text": "T"
+    },
+    {
+      "id": "p0190",
+      "text": "F"
+    },
+    {
+      "id": "p0191",
+      "text": "4.4 A proposition is the expression of agreement and disagreement with the truth-possibilities of the elementary propositions."
+    },
+    {
+      "id": "p0192",
+      "text": "4.41 The truth-possibilities of the elementary propositions are the conditions of the truth and falsehood of the propositions."
+    },
+    {
+      "id": "p0193",
+      "text": ".411 It seems probable even at first sight that the introduction of the elementary propositions is fundamental for the comprehension of the other kinds of propositions. Indeed the comprehension of the general propositions depends palpably on that of the elementary propositions."
+    },
+    {
+      "id": "p0194",
+      "text": "4.42 With regard to the agreement and disagreement of a proposition with the truth-possibilities of n elementary propositions there are ∑ K = 0 K n ( K n κ ) = L n {\\displaystyle \\sum _{K=0}^{K_{n}}{K_{n} \\choose \\kappa }=L_{n}} possibilities."
+    },
+    {
+      "id": "p0195",
+      "text": "Agreement with the truth-possibilities can be expressed by co-ordinating with them in the schema the mark \"T\" (true)."
+    },
+    {
+      "id": "p0196",
+      "text": "Absence of this mark means disagreement."
+    },
+    {
+      "id": "p0197",
+      "text": "4.431 The expression of the agreement and disagreement with the truth-possibilities of the elementary-propositions expresses the truth-conditions of the proposition. The proposition is the expression of its truth- conditions."
+    },
+    {
+      "id": "p0198",
+      "text": "(Frege has therefore quite rightly put them at the beginning, as explaining the signs of his logical symbolism. Only Frege's explanation of the truth-concept is false: if \"the true\" and \"the false\" were real objects and the arguments in ~ p etc., then the sense of ~ p would by no means be determined by Frege's determination.)"
+    },
+    {
+      "id": "p0199",
+      "text": "4.44 The sign which arises from the co-ordination of that mark \"T\" with the truth-possibilities is a propositional sign."
+    },
+    {
+      "id": "p0200",
+      "text": "4.441 It is clear that to the complex of the signs \"F\" and \"T\" no object (or complex of objects) corresponds; any more than to horizontal and vertical lines or to brackets. There are no \"logical objects\"."
+    },
+    {
+      "id": "p0201",
+      "text": "Something analogous holds of course for all signs, which express the same as the schemata of \"T\"and \"F\"."
+    },
+    {
+      "id": "p0202",
+      "text": "4.442 Thus e.g."
+    },
+    {
+      "id": "p0203",
+      "text": "\""
+    },
+    {
+      "id": "p0204",
+      "text": "p q"
+    },
+    {
+      "id": "p0205",
+      "text": "T T T"
+    },
+    {
+      "id": "p0206",
+      "text": "F T T"
+    },
+    {
+      "id": "p0207",
+      "text": "T F"
+    },
+    {
+      "id": "p0208",
+      "text": "F F T \""
+    },
+    {
+      "id": "p0209",
+      "text": "\""
+    },
+    {
+      "id": "p0210",
+      "text": "is a propositional sign."
+    },
+    {
+      "id": "p0211",
+      "text": "(Frege's assertion sign \" |- \" is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way."
+    },
+    {
+      "id": "p0212",
+      "text": "\"|-\" belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)"
+    },
+    {
+      "id": "p0213",
+      "text": "If the sequence of the truth-possibilities in the schema is once for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this column as a row the propositional sign becomes: \"(T—T) ( p,q )\" or more plainly: \"(T T F T) ( p,q )\"."
+    },
+    {
+      "id": "p0214",
+      "text": "(The number of places in the left-hand bracket is determined by the number of terms in the right-hand bracket.)"
+    },
+    {
+      "id": "p0215",
+      "text": "4.45 For n elementary propositions there are L n possible groups of truth-conditions."
+    },
+    {
+      "id": "p0216",
+      "text": "The groups of truth-conditions which belong to the truth-possibilities of a number of elementary propositions can be ordered in a series."
+    },
+    {
+      "id": "p0217",
+      "text": "4.46 Among the possible groups of truth-conditions there are two extreme cases."
+    },
+    {
+      "id": "p0218",
+      "text": "In the one case the proposition is true for all the truth-possibilities of the elementary propositions. We say that the truth-conditions are tautological ."
+    },
+    {
+      "id": "p0219",
+      "text": "In the second case the proposition is false for all the truth-possibilities. The truth-conditions are self-contradictory ."
+    },
+    {
+      "id": "p0220",
+      "text": "In the first case we call the proposition a tautology, in the second case a contradiction."
+    },
+    {
+      "id": "p0221",
+      "text": "4.461 The proposition shows what it says, the tautology and the contradiction that they say nothing."
+    },
+    {
+      "id": "p0222",
+      "text": "The tautology has no truth-conditions, for it is unconditionally true; and the contradiction is on no condition true."
+    },
+    {
+      "id": "p0223",
+      "text": "Tautology and contradiction are without sense."
+    },
+    {
+      "id": "p0224",
+      "text": "(Like the point from which two arrows go out in opposite directions.)"
+    },
+    {
+      "id": "p0225",
+      "text": "(I know, e.g. nothing about the weather, when I know that it rains or does not rain.)"
+    },
+    {
+      "id": "p0226",
+      "text": "4.4611 Tautology and contradiction are, however, not nonsensical ; they are part of the symbolism, in the same way that \"0\" is part of the symbolism of Arithmetic."
+    },
+    {
+      "id": "p0227",
+      "text": "4.462 Tautology and contradiction are not pictures of the reality. They present no possible state of affairs. For the one allows every possible state of affairs, the other none ."
+    },
+    {
+      "id": "p0228",
+      "text": "In the tautology the conditions of agreement with the world — the presenting relations — cancel one another, so that it stands in no presenting relation to reality."
+    },
+    {
+      "id": "p0229",
+      "text": "4.463 The truth-conditions determine the range, which is left to the facts by the proposition."
+    },
+    {
+      "id": "p0230",
+      "text": "(The proposition, the picture, the model, are in a negative sense like a solid body, which restricts the free movement of another: in a positive sense, like the space limited by solid substance, in which a body may be placed.)"
+    },
+    {
+      "id": "p0231",
+      "text": "Tautology leaves to reality the whole infinite logical space; contradiction fills the whole logical space and leaves no point to reality. Neither of them, therefore, can in any way determine reality."
+    },
+    {
+      "id": "p0232",
+      "text": "4.464 The truth of tautology is certain, of propositions possible, of contradiction impossible."
+    },
+    {
+      "id": "p0233",
+      "text": "(Certain, possible, impossible: here we have an indication of that gradation which we need in the theory of probability.)"
+    },
+    {
+      "id": "p0234",
+      "text": "4.465 The logical product of a tautology and a proposition says the same as the proposition. Therefore that product is identical with the proposition. For the essence of the symbol cannot be altered without altering its sense."
+    },
+    {
+      "id": "p0235",
+      "text": "4.466 To a definite logical combination of signs corresponds a definite logical combination of their meanings; every arbitrary combination only corre- sponds to the unconnected signs."
+    },
+    {
+      "id": "p0236",
+      "text": "That is, propositions which are true for every state of affairs cannot be combinations of signs at all, for otherwise there could only correspond to them definite combinations of objects."
+    },
+    {
+      "id": "p0237",
+      "text": "(And to no logical combination corresponds no combination of the objects.)"
+    },
+    {
+      "id": "p0238",
+      "text": "Tautology and contradiction are the limiting cases of the combinations of symbols, namely their dissolution."
+    },
+    {
+      "id": "p0239",
+      "text": "4.4661 Of course the signs are also combined with one another in the tautology and contradiction, i.e. they stand in relations to one another, but these relations are meaningless, unessential to the symbol ."
+    },
+    {
+      "id": "p0240",
+      "text": "4.5 Now it appears to be possible to give the most general form of proposition; i.e. to give a description of the propositions of some one sign language, so that every possible sense can be expressed by a symbol, which falls under the description, and so that every symbol which falls under the description can express a sense, if the meanings of the names are chosen accordingly."
+    },
+    {
+      "id": "p0241",
+      "text": "It is clear that in the description of the most general form of proposition only what is essential to it may be described — otherwise it would not be the most general form."
+    },
+    {
+      "id": "p0242",
+      "text": "That there is a general form is proved by the fact that there cannot be a proposition whose form could not have been foreseen ( i.e. constructed). The general form of proposition is: Such and such is the case."
+    },
+    {
+      "id": "p0243",
+      "text": "4.51 Suppose all elementary propositions were given me: then we can simply ask: what propositions I can build out of them. And these are all propositions and so are they limited."
+    },
+    {
+      "id": "p0244",
+      "text": "4.52 The propositions are everything which follows from the totality of all elementary propositions (of course also from the fact that it is the totality of them all ). (So, in some sense, one could say, that all propositions are generalizations of the elementary propositions.)"
+    },
+    {
+      "id": "p0245",
+      "text": "4.53 The general propositional form is a variable."
+    }
+  ],
+  "anchors": {
+    "wittgenstein-proposition-shows-form": {
+      "paragraphId": "p0095",
+      "start": 6,
+      "end": 94,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0095",
+          "start": 6,
+          "end": 94,
+          "text": "Propositions cannot represent the logical form: this mirrors itself in the propositions."
+        },
+        {
+          "paragraphId": "p0102",
+          "start": 7,
+          "end": 40,
+          "text": "What can be shown cannot be said."
+        }
+      ],
+      "quote": "Propositions cannot represent the logical form: this mirrors itself in the propositions. ... What can be shown cannot be said."
+    }
+  }
+}

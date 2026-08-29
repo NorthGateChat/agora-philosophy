@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-daodejing-chapter-33-32e797a3",
+  "title": "章 33",
+  "englishTitle": "Chapter 33",
+  "work": "《道德经》",
+  "englishWork": "Daodejing",
+  "locator": "章 33",
+  "englishLocator": "Chapter 33",
+  "version": "中国哲学书电子化计划《道德经》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Chinese Text Project received digital text of the Daodejing; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://ctext.org/dao-de-jing",
+  "source": {
+    "url": "https://ctext.org/dao-de-jing",
+    "contentType": "text/html",
+    "sha256": "d80f32135d9847e4e724583d3923ab20fd341ce49ba3634deef1ac5a7781cb47"
+  },
+  "selectionMethod": "quote-guided-boundary",
+  "contentHash": "bd34aa41ed6ebfd28378c2d80483ca529f58f614c2167b4e1763c551d3c00f97",
+  "inputHash": "bb5b3546739289f8aa7943971e18bef8a97b153cc18313a48bb03bef19c8112f",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "[33]"
+    },
+    {
+      "id": "p0002",
+      "text": "知人者智，自知者明。勝人者有力，自勝者強。知足者富。強行者有志。不失其所者久。死而不亡者壽。"
+    },
+    {
+      "id": "p0003",
+      "text": "(Discriminating between attributes) He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty. He who is satisfied with his lot is rich; he who goes on acting with energy has a (firm) will. He who does not fail in the requirements of his position, continues long; he who dies and yet does not perish, has longevity."
+    }
+  ],
+  "anchors": {
+    "chinese-laozi-self-knowledge": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 21,
+      "quote": "知人者智，自知者明。胜人者有力，自胜者强。",
+      "match": "normalized-exact"
+    }
+  }
+}

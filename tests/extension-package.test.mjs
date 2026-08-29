@@ -1,17 +1,38 @@
 import assert from "node:assert/strict";
-import { access, readFile } from "node:fs/promises";
-import { dirname, resolve } from "node:path";
+import { access, readFile, readdir, stat } from "node:fs/promises";
+import { dirname, relative, resolve } from "node:path";
 import test from "node:test";
 import { fileURLToPath } from "node:url";
+import { gzipSync } from "node:zlib";
 
 const projectRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const distDirectory = resolve(projectRoot, "extension-dist");
+// Keep the complete 1,452-card catalog available offline while preventing
+// accidental entry-bundle growth from swallowing the lazy reading dossiers.
+const offlineEntryBudgetBytes = 2_200_000;
+const offlineEntryGzipBudgetBytes = 825_000;
 const brand = JSON.parse(
   await readFile(resolve(projectRoot, "brand.json"), "utf8"),
 );
 
 async function readJson(path) {
   return JSON.parse(await readFile(path, "utf8"));
+}
+
+async function collectExtensionFiles(directory) {
+  const entries = await readdir(directory, { withFileTypes: true });
+  const nested = await Promise.all(
+    entries
+      .filter((entry) => entry.name !== ".DS_Store")
+      .map(async (entry) => {
+        const absolutePath = resolve(directory, entry.name);
+        if (entry.isDirectory()) {
+          return collectExtensionFiles(absolutePath);
+        }
+        return [relative(distDirectory, absolutePath).replaceAll("\\", "/")];
+      }),
+  );
+  return nested.flat().sort();
 }
 
 function pngDimensions(buffer) {
@@ -55,18 +76,18 @@ test("extension manifest is a minimal localized MV3 new-tab override", async () 
 
 test("all manifest locales contain translated store metadata", async () => {
   const expected = {
-    zh_CN: [brand.storeNameZhHans, brand.descriptionZhHans],
-    zh_TW: [brand.storeNameZhHant, brand.descriptionZhHant],
-    en: [brand.storeNameEn, brand.descriptionEn],
+    zh_CN: [brand.storeNameZhHans, brand.shortNameZh, brand.descriptionZhHans],
+    zh_TW: [brand.storeNameZhHant, brand.shortNameZh, brand.descriptionZhHant],
+    en: [brand.storeNameEn, brand.shortNameEn, brand.descriptionEn],
   };
 
-  for (const [locale, [name, description]] of Object.entries(expected)) {
+  for (const [locale, [name, shortName, description]] of Object.entries(expected)) {
     const messages = await readJson(
       resolve(distDirectory, "_locales", locale, "messages.json"),
     );
     assert.equal(messages.extensionName.message, name);
+    assert.equal(messages.extensionShortName.message, shortName);
     assert.equal(messages.extensionDescription.message, description);
-    assert.ok(messages.extensionShortName.message);
     assert.ok(messages.extensionSlogan.message);
   }
 });
@@ -83,6 +104,113 @@ test("new-tab HTML loads only packaged resources", async () => {
     assert.doesNotMatch(reference, /^(?:data|javascript):/i);
   }
   assert.match(html, /Content-Security-Policy/);
+});
+
+test("extension payload excludes research caches and source documents", async () => {
+  // package-extension.mjs zips this directory verbatim, so checking the staged
+  // payload protects the release boundary without creating another archive.
+  const packagedFiles = await collectExtensionFiles(distDirectory);
+  const forbiddenFiles = packagedFiles.filter(
+    (path) =>
+      /(?:^|\/)research\/source-cache(?:\/|$)/i.test(path) ||
+      /\.pdf$/i.test(path) ||
+      (/(?:^|\/)research(?:\/|$)/i.test(path) && /\.txt$/i.test(path)),
+  );
+
+  assert.deepEqual(
+    forbiddenFiles,
+    [],
+    `extension payload contains research-only files: ${forbiddenFiles.join(", ")}`,
+  );
+});
+
+test("deep-reading content stays lazy while the offline catalog keeps a bounded entry", async () => {
+  const html = await readFile(resolve(distDirectory, "newtab.html"), "utf8");
+  const entryReference = html.match(
+    /<script[^>]+src=["']([^"']+\.js)["'][^>]*>/,
+  )?.[1];
+
+  assert.ok(entryReference, "newtab.html must declare a JavaScript entry");
+  const entryPath = resolve(distDirectory, entryReference);
+  const entrySource = await readFile(entryPath);
+  const entryBytes = (await stat(entryPath)).size;
+  const compressedEntryBytes = gzipSync(entrySource, { level: 9 }).byteLength;
+  assert.ok(
+    entryBytes < offlineEntryBudgetBytes,
+    `initial JavaScript is ${entryBytes} bytes; the synchronous offline catalog exceeded its 2.2 MB budget`,
+  );
+  assert.ok(
+    compressedEntryBytes < offlineEntryGzipBudgetBytes,
+    `initial JavaScript is ${compressedEntryBytes} bytes after gzip; the offline catalog exceeded its transfer budget`,
+  );
+
+  const assets = await readdir(resolve(distDirectory, "assets"));
+  for (const lazyChunk of [
+    "ReadingUnitReader-",
+    "thoughtDepthLoader-",
+    "sourceMetadata-",
+    "interpretationDetailsWestChinese-",
+    "interpretationDetailsMaoScience-",
+    "interpretationDetailsIndian-",
+    "interpretationDetailsEconomics-",
+    "illustrations-",
+  ]) {
+    assert.ok(
+      assets.some((asset) => asset.startsWith(lazyChunk) && asset.endsWith(".js")),
+      `${lazyChunk} must remain an asynchronously loaded chunk`,
+    );
+  }
+
+  const sourceMetadataChunk = assets.find(
+    (asset) => asset.startsWith("sourceMetadata-") && asset.endsWith(".js"),
+  );
+  assert.ok(sourceMetadataChunk);
+  const sourceMetadata = await readFile(
+    resolve(distDirectory, "assets", sourceMetadataChunk),
+    "utf8",
+  );
+  for (const marker of ["篇章已定位", "Passage located"]) {
+    assert.equal(
+      entrySource.includes(marker),
+      false,
+      `${marker} belongs to the lazy source dossier, not the new-tab entry`,
+    );
+    assert.ok(
+      sourceMetadata.includes(marker),
+      `${marker} must remain in the lazy source-metadata chunk`,
+    );
+  }
+});
+
+test("prepared reading units are packaged offline but stay outside JavaScript", async () => {
+  const sourceIndex = await readJson(resolve(projectRoot, "public/readings/index.json"));
+  const packagedIndex = await readJson(resolve(distDirectory, "readings/index.json"));
+  assert.deepEqual(packagedIndex, sourceIndex);
+
+  const packagedUnitNames = (await readdir(resolve(distDirectory, "readings/units"))).sort();
+  const expectedUnitNames = sourceIndex.units
+    .filter(({ availability }) => availability === "integrated-candidate")
+    .map(({ id }) => `${id}.json`)
+    .sort();
+  assert.deepEqual(packagedUnitNames, expectedUnitNames);
+
+  const assets = (await readdir(resolve(distDirectory, "assets")))
+    .filter((name) => name.endsWith(".js"));
+  const javascript = Buffer.concat(await Promise.all(
+    assets.map((name) => readFile(resolve(distDirectory, "assets", name))),
+  ));
+  const sampleUnit = await readJson(resolve(
+    distDirectory,
+    "readings/units",
+    packagedUnitNames[0],
+  ));
+  const sampleParagraph = sampleUnit.paragraphs.find(({ text }) => text.length >= 32)?.text;
+  assert.ok(sampleParagraph, "a packaged reading unit needs a representative paragraph");
+  assert.equal(
+    javascript.includes(Buffer.from(sampleParagraph)),
+    false,
+    "prepared source paragraphs belong in lazy JSON assets, not JavaScript chunks",
+  );
 });
 
 test("extension icons and release artwork have exact dimensions", async () => {

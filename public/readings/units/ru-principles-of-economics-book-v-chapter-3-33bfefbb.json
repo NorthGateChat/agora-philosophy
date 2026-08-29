@@ -1,0 +1,349 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-principles-of-economics-book-v-chapter-3-33bfefbb",
+  "title": "卷 V · 章 3",
+  "englishTitle": "Book V · Chapter 3",
+  "work": "《经济学原理》",
+  "englishWork": "Principles of Economics",
+  "locator": "卷 V · 章 3",
+  "englishLocator": "Book V · Chapter 3",
+  "version": "Liberty Fund OLL 英文文本，马歇尔《经济学原理》第八版，第五篇第 3 章第 7 节",
+  "englishVersion": "Liberty Fund OLL English text, Marshall, Principles of Economics, 8th edition, Book V, Chapter 3, §7",
+  "sourceUrl": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed",
+  "preparedSourceUrl": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+  "source": {
+    "url": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=31",
+    "contentType": "text/html",
+    "sha256": "b878b45cfe08e977fbb0433f70e9af0340eb1c8d0863552471a72509fffded0a"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "d0799edb7900381ee0cecd4a0f7d4de36fc7a305fb9e4ca64c359ec1de18bf1f",
+  "inputHash": "c808da37700e4d6d3201b5ff6206cbedce65456ff0b3952bafb5e084c9ec0269",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "§ 7."
+    },
+    {
+      "id": "p0002",
+      "text": "The remainder of the present volume will be chiefly occupied with interpreting and limiting this doctrine that the value of a thing tends in the long run to correspond to its cost of production. In particular the notion of equilibrium, which has been treated rather slightly in this chapter, will be studied more carefully in chapters V. and XII. of this Book: and some account of the controversy whether “cost of production” or “utility” governs value will be given in Appendix I. But it may be well to say a word or two here on this last point."
+    },
+    {
+      "id": "p0003",
+      "text": "We might as reasonably dispute whether it is the upper or the under blade of a pair of scissors that cuts a piece of paper, as whether value is governed by utility or cost of production. It is true that when one blade is held still, and the cutting is effected by moving the other, we may say with careless brevity that the cutting is done by the second; but the statement is not strictly accurate, and is to be excused only so long as it claims to be merely a popular and not a strictly scientific account of what happens."
+    },
+    {
+      "id": "p0004",
+      "text": "In the same way, when a thing already made has to be sold, the price which people will be willing to pay for it will be governed by their desire to have it, together with the amount they can afford to spend on it. Their desire to have it depends partly on the chance that, if they do not buy it, they will be able to get another thing like it at as low a price: this depends on the causes that govern the supply of it, and this again upon cost of production. But it may so happen that the stock to be sold is practically fixed. This, for instance, is the case with a fish market, in which the value of fish for the day is governed almost exclusively by the stock on the slabs in relation to the demand: and if a person chooses to take the stock for granted, and say that the price is governed by demand, his brevity may perhaps be excused so long as he does not claim strict accuracy. So again it may be pardonable, but it is not strictly accurate to say that the varying prices which the same rare book fetches, when sold and resold at Christie’s auction room, are governed exclusively by demand."
+    },
+    {
+      "id": "p0005",
+      "text": "Taking a case at the opposite extreme, we find some commodities which conform pretty closely to the law of constant return; that is to say, their average cost of production will be very nearly the same whether they are produced in small quantities or in large. In such a case the normal level about which the market price fluctuates will be this definite and fixed (money) cost of production. If the demand happens to be great, the market price will rise for a time above the level; but as a result production will increase and the market price will fall: and conversely, if the demand falls for a time below its ordinary level."
+    },
+    {
+      "id": "p0006",
+      "text": "In such a case, if a person chooses to neglect market fluctuations, and to take it for granted that there will anyhow be enough demand for the commodity to insure that some of it, more or less, will find purchasers at a price equal to this cost of production, then he may be excused for ignoring the influence of demand, and speaking of (normal) price as governed by cost of production—provided only he does not claim scientific accuracy for the wording of his doctrine, and explains the influence of demand in its right place."
+    },
+    {
+      "id": "p0007",
+      "text": "Thus we may conclude that,"
+    },
+    {
+      "id": "p0008",
+      "text": "as a general rule, the shorter the period which we are considering, the greater must be the share of our attention which is given to the influence of demand on value; and the longer the period, the more important will be the influence of cost of production on value. For the influence of changes in cost of production takes as a rule a longer time to work itself out than does the influence of changes in demand. The actual value at any time, the market value as it is often called, is often more influenced by passing events and by causes whose action is fitful and short lived, than by those which work persistently. But in long periods these fitful and irregular causes in large measure efface one another’s influence; so that in the long run persistent causes dominate value completely. Even the most persistent causes are however liable to change. For the whole structure of production is modified, and the relative costs of production of different things are permanently altered, from one generation to another."
+    },
+    {
+      "id": "p0009",
+      "text": "When considering costs from the point of view of the capitalist employer, we of course measure them in money; because his direct concern with the efforts needed for the work of his employees lies in the money payments he must make. His concern with the real costs of their effort and of the training required for it is only indirect, though a monetary assessment of his own labour is necessary for some problems, as will be seen later on. But when considering costs from the social point of view, when inquiring whether the cost of attaining a given result is increasing or diminishing with changing economic conditions, then we are concerned with the real costs of efforts of various qualities, and with the real cost of waiting. If the purchasing power of money, in terms of effort has remained about constant, and if the rate of remuneration for waiting has remained about constant, then the money measure of costs corresponds to the real costs: but such a correspondence is never to be assumed lightly. These considerations will generally suffice for the interpretation of the term Cost in what follows, even where no distinct indication is given in the context."
+    },
+    {
+      "id": "p0010",
+      "text": "10."
+    },
+    {
+      "id": "p0011",
+      "text": "IV. I. 2."
+    },
+    {
+      "id": "p0012",
+      "text": "11."
+    },
+    {
+      "id": "p0013",
+      "text": "Mill and some other economists have followed the practice of ordinary life in using the term Cost of production in two senses, sometimes to signify the difficulty of producing a thing, and sometimes to express the outlay of money that has to be incurred in order to induce people to overcome this difficulty and produce it. But by passing from one use of the term to the other without giving explicit warning, they have led to many misunderstandings and much barren controversy. The attack on Mill’s doctrine of Cost of Production in relation to Value, which is made in Cairnes’"
+    },
+    {
+      "id": "p0014",
+      "text": "Leading Principles, was published just after Mill’s death; and unfortunately his interpretation of Mill’s words was generally accepted as authoritative, because he was regarded as a follower of Mill. But in an article by the present writer on “Mill’s Theory of Value” ("
+    },
+    {
+      "id": "p0015",
+      "text": "Fortnightly Review, April 1876) it is argued that Cairnes had mistaken Mill’s meaning, and had really seen not more but less of the truth than Mill had done."
+    },
+    {
+      "id": "p0016",
+      "text": "The expenses of production of any amount of a raw commodity may best be estimated with reference to the “margin of production” at which no rent is paid. But this method of speaking has great difficulties with regard to commodities that obey the law of increasing return. It seemed best to note this point in passing: it will be fully discussed later on, chiefly in ch. XII."
+    },
+    {
+      "id": "p0017",
+      "text": "12."
+    },
+    {
+      "id": "p0018",
+      "text": "We have already (II. III.) noticed that the economic use of the term “production” includes the production of new utilities by moving a thing from a place in which it is less wanted to a place in which it is more wanted, or by helping consumers to satisfy their needs."
+    },
+    {
+      "id": "p0019",
+      "text": "13."
+    },
+    {
+      "id": "p0020",
+      "text": "See III. V. and IV. VII. 8."
+    },
+    {
+      "id": "p0021",
+      "text": "14."
+    },
+    {
+      "id": "p0022",
+      "text": "See IV. XIII. 2."
+    },
+    {
+      "id": "p0023",
+      "text": "15."
+    },
+    {
+      "id": "p0024",
+      "text": "See last paragraph of IV. XII."
+    },
+    {
+      "id": "p0025",
+      "text": "16."
+    },
+    {
+      "id": "p0026",
+      "text": "See III. III. 4."
+    },
+    {
+      "id": "p0027",
+      "text": "17."
+    },
+    {
+      "id": "p0028",
+      "text": "Measuring, as in the case of the demand curve, amounts of the commodity along"
+    },
+    {
+      "id": "p0029",
+      "text": "Ox and prices parallel to"
+    },
+    {
+      "id": "p0030",
+      "text": "Oy, we get for each point"
+    },
+    {
+      "id": "p0031",
+      "text": "M along"
+    },
+    {
+      "id": "p0032",
+      "text": "Ox a line"
+    },
+    {
+      "id": "p0033",
+      "text": "MP drawn at right angles to it measuring the supply price for the amount"
+    },
+    {
+      "id": "p0034",
+      "text": "OM, the extremity of which,"
+    },
+    {
+      "id": "p0035",
+      "text": "P, may be called a"
+    },
+    {
+      "id": "p0036",
+      "text": "supply point; this price"
+    },
+    {
+      "id": "p0037",
+      "text": "MP being made up of the supply prices of the several factors of production for the amount"
+    },
+    {
+      "id": "p0038",
+      "text": "OM. The locus of"
+    },
+    {
+      "id": "p0039",
+      "text": "P may be called the"
+    },
+    {
+      "id": "p0040",
+      "text": "supply curve."
+    },
+    {
+      "id": "p0041",
+      "text": "Suppose, for instance, that we classify the expenses of production of our representative firm, when an amount"
+    },
+    {
+      "id": "p0042",
+      "text": "OM of cloth is being produced under the heads of (i)"
+    },
+    {
+      "id": "p0043",
+      "text": "Mp 1 , the supply price of the wool and other circulating capital which would be consumed in making it, (ii)"
+    },
+    {
+      "id": "p0044",
+      "text": "p 1 p 2 the corresponding wear-and-tear and depreciation on buildings, machinery and other fixed capital; (iii)"
+    },
+    {
+      "id": "p0045",
+      "text": "p 2 p 3 the interest and insurance on all the capital, (iv)"
+    },
+    {
+      "id": "p0046",
+      "text": "p 3 p 4 the wages of those who work in the factory, and (v)"
+    },
+    {
+      "id": "p0047",
+      "text": "p 4 P the gross earnings of management, etc. of those who undertake the risks and direct the work. Thus as"
+    },
+    {
+      "id": "p0048",
+      "text": "M moves from"
+    },
+    {
+      "id": "p0049",
+      "text": "O towards the right"
+    },
+    {
+      "id": "p0050",
+      "text": "p 1 ,"
+    },
+    {
+      "id": "p0051",
+      "text": "p 2 ,"
+    },
+    {
+      "id": "p0052",
+      "text": "p 3 ,"
+    },
+    {
+      "id": "p0053",
+      "text": "p 4 will each trace out a curve, and the ultimate supply curve traced out by"
+    },
+    {
+      "id": "p0054",
+      "text": "P will be thus shown as obtained by superimposing the supply curves for the several factors of production of the cloth."
+    },
+    {
+      "id": "p0055",
+      "text": "It must be remembered that these supply prices are the prices not of units of the several factors but of those amounts of the several factors which are required for producing a yard of the cloth. Thus, for instance,"
+    },
+    {
+      "id": "p0056",
+      "text": "p 3 p 4 is the supply price not of any fixed amount of labour but of that amount of labour which is employed in making a yard where there is an aggregate production of"
+    },
+    {
+      "id": "p0057",
+      "text": "OM yards. (See above, § 3.) We need not trouble ourselves to consider just here whether the ground-rent of the factory must be put into a class by itself: this belongs to a group of questions which will be discussed later. We are taking no notice of rates and taxes, for which he would of course have to make his account."
+    },
+    {
+      "id": "p0058",
+      "text": "18."
+    },
+    {
+      "id": "p0059",
+      "text": "That is, a point moving along the supply curve towards the right may either rise or fall, or even it may alternately rise and fall; in other words, the supply curve may be inclined positively or negatively, or even at some parts of its course it may be inclined positively and at others negatively. (See footnote on p. 99.)"
+    },
+    {
+      "id": "p0060",
+      "text": "19."
+    },
+    {
+      "id": "p0061",
+      "text": "Compare V. I. 1. To represent the equilibrium of demand and supply geometrically we may draw the demand and supply curves together as in Fig. 19. If then"
+    },
+    {
+      "id": "p0062",
+      "text": "OR represents the rate at which production is being actually carried on, and"
+    },
+    {
+      "id": "p0063",
+      "text": "Rd the demand price is greater than"
+    },
+    {
+      "id": "p0064",
+      "text": "Rs the supply price, the production is exceptionally profitable, and will be increased."
+    },
+    {
+      "id": "p0065",
+      "text": "R, the"
+    },
+    {
+      "id": "p0066",
+      "text": "amount-index, as we may call it, will move to the right. On the other hand, if"
+    },
+    {
+      "id": "p0067",
+      "text": "Rd is less than"
+    },
+    {
+      "id": "p0068",
+      "text": "Rs, R will move to the left. If"
+    },
+    {
+      "id": "p0069",
+      "text": "Rd is equal to"
+    },
+    {
+      "id": "p0070",
+      "text": "Rs, that is, if"
+    },
+    {
+      "id": "p0071",
+      "text": "R is vertically under a point of intersection of the curves, demand and supply are in equilibrium."
+    },
+    {
+      "id": "p0072",
+      "text": "This may be taken as the typical diagram for stable equilibrium for a commodity that obeys the law of diminishing return. But if we had made"
+    },
+    {
+      "id": "p0073",
+      "text": "SS ‘ a horizontal straight line, we should have represented the case of “constant return,” in which the supply price is the same for all amounts of the commodity. And if we had made"
+    },
+    {
+      "id": "p0074",
+      "text": "SS ‘ inclined negatively, but less steeply than"
+    },
+    {
+      "id": "p0075",
+      "text": "DD ‘ (the necessity for this condition will appear more fully later on), we should have got a case of stable equilibrium for a commodity which obeys the law of increasing return. In either case the above reasoning remains unchanged without the alteration of a word or a letter; but the last case introduces difficulties which we have arranged to postpone."
+    },
+    {
+      "id": "p0076",
+      "text": "20."
+    },
+    {
+      "id": "p0077",
+      "text": "See below V. V. 2 and Appendix H. 4."
+    },
+    {
+      "id": "p0078",
+      "text": "21."
+    },
+    {
+      "id": "p0079",
+      "text": "See above pp. 34-36."
+    }
+  ],
+  "anchors": {
+    "economics-marshall-scissors": {
+      "paragraphId": "p0003",
+      "start": 0,
+      "end": 186,
+      "quote": "We might as reasonably dispute whether it is the upper or the under blade of a pair of scissors that cuts a piece of paper, as whether value is governed by utility or cost of production.",
+      "match": "normalized-exact"
+    }
+  }
+}

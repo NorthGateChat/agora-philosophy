@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-discourse-on-metaphysics-whole-work-94eeef55",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《形而上学谈》",
+  "englishWork": "Discourse on Metaphysics",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "Wikisource 1908 年公版英译扫描与校订文本，乔治·R. 蒙哥马利英译，《形而上学谈》§8；卡片以省略号标示中间删节",
+  "englishVersion": "Wikisource scan and transcription of George R. Montgomery's public-domain translation (1908), Discourse on Metaphysics §8; internal omission marked with an ellipsis",
+  "sourceUrl": "https://en.wikisource.org/wiki/Page:Leibniz_Discourse_on_Metaphysics_etc_(1908).djvu/38",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/Page:Leibniz_Discourse_on_Metaphysics_etc_(1908).djvu/38",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=Page%3ALeibniz+Discourse+on+Metaphysics+etc+%281908%29.djvu%2F38&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "11a7ad4e5ab280a787a27b005986cb7541b54f18c9b09f9030fdcbe0163e8f08"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "0f2fa4b7afb55a2fdabe3e4d5a4f0ece8d85b8ada1199b9b38608fc70823bb8c",
+  "inputHash": "cc585cf617c4e938c51767828cd4a80fbd86c49f6304888d14cd48dbc7b1f8e8",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "serves the force that he has given to created things. How far can we say either of these opinions is right?"
+    },
+    {
+      "id": "p0002",
+      "text": "In the first place since activity and passivity pertain properly to individual substances ( actiones sunt suppositorum ) it will be necessary to explain what such a substance is. It is indeed true that when several predicates are attributes of a single subject and this subject is not an attribute of another, we speak of it as an individual substance, but this is not enough, and such an explanation is merely nominal. We must therefore inquire what it is to be an attribute in reality of a certain subject. Now it is evident that every true predication has some basis in the nature of things, and even when a proposition is not identical, that is, when the predicate is not expressly contained in the subject, it is still necessary that it be virtually contained in it, and this is what the philosophers call in-esse , saying thereby that the predicate is in the subject. Thus the content of the subject must always include that of the predicate in such a way that if one understands perfectly the concept of the subject, he will know that the predicate appertains to it also. This being so, we are able to say that this is the nature of an individual substance or of a complete being, namely, to afford a conception so complete that the concept shall be sufficient for the understanding of it and for the deduction of all the predicates of which the substance is or may become the subject. Thus the quality of king, which belonged to Alexander the Great, an abstraction from the subject, is not sufficiently determined to constitute an individual, and does not contain the other qualities of the same subject, nor everything which the idea of this"
+    }
+  ],
+  "anchors": {
+    "leibniz-complete-concept": {
+      "paragraphId": "p0002",
+      "start": 532,
+      "end": 594,
+      "match": "ellipsis-ordered-segments",
+      "segments": [
+        {
+          "paragraphId": "p0002",
+          "start": 532,
+          "end": 594,
+          "text": "every true predication has some basis in the nature of things,"
+        },
+        {
+          "paragraphId": "p0002",
+          "start": 874,
+          "end": 1078,
+          "text": "Thus the content of the subject must always include that of the predicate in such a way that if one understands perfectly the concept of the subject, he will know that the predicate appertains to it also."
+        }
+      ],
+      "quote": "Every true predication has some basis in the nature of things, ... Thus the content of the subject must always include that of the predicate in such a way that if one understands perfectly the concept of the subject, he will know that the predicate appertains to it also."
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-rig-veda-mandala-10-hymn-129-2e934254",
+  "title": "曼荼罗 10 · 赞歌 129",
+  "englishTitle": "Mandala 10 · Hymn 129",
+  "work": "《梨俱吠陀》",
+  "englishWork": "Rig Veda",
+  "locator": "曼荼罗 10 · 赞歌 129",
+  "englishLocator": "Mandala 10 · Hymn 129",
+  "version": "Wikisource 逐字文本与 Internet Archive 扫描，R. T. H. Griffith 1897年第二版公版英译《梨俱吠陀》第2卷，第10卷第129首第6节，印刷页576，连续两句",
+  "englishVersion": "Wikisource text and Internet Archive scan, R. T. H. Griffith's public-domain translation, The Hymns of the Rigveda, 2nd ed., vol. II (1897), Mandala 10, Hymn 129, verse 6, print p. 576, two continuous sentences",
+  "sourceUrl": "https://en.wikisource.org/wiki/The_Hymns_of_the_Rigveda/Book_10/Hymn_129",
+  "source": {
+    "url": "https://en.wikisource.org/wiki/The_Hymns_of_the_Rigveda/Book_10/Hymn_129",
+    "retrievalUrl": "https://en.wikisource.org/w/api.php?action=parse&page=The+Hymns+of+the+Rigveda%2FBook+10%2FHymn+129&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "b53558cd725987afe0442d4912e9b156b0b47579e6c25cfcd35b6a8cccf67a74"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "0fbdb3c6ad4ff5d19940a510415ed32a15234f1af2f3ddb775710e38c06196a9",
+  "inputHash": "2014a746234a6c9b7c1dc73920f6a8ee0b9908d6dd09d89861e3627f7e686a29",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "1. THEN was not non-existent nor existent: there was no realm of air, no sky beyond it. What covered in, and where? and what gave shelter? Was water there, unfathomed depth of water? 2. Death was not then, nor was there aught immortal: no sign was there, the day's and night's divider. That One Thing, breathless, breathed by its own nature: apart from it was nothing whatsoever. 3. Darkness there was: at first concealed in darkness this All was indiscriminate chaos. All that existed then was void and formless: by the great power of Warmth was born that Unit. 4. Thereafter rose Desire in the beginning, Desire, the primal seed and germ of Spirit. Sages who searched with their heart's thought discovered the existent's kinship in the non-existent. 5. Transversely was their severing line extended: what was above it then, and what below it? There were begetters, there were mighty forces, free action here and energy up yonder 6. Who verily knows and who can here declare it, whence it was born and whence comes this creation? The Gods are later than this world's production. Who knows then whence it first came into being? 7. He, the first origin of this creation, whether he formed it all or did not form it, Whose eye controls this world in highest heaven, he verily knows it, or perhaps he knows not."
+    }
+  ],
+  "anchors": {
+    "indian-vedic-creation-question": {
+      "paragraphId": "p0001",
+      "start": 1031,
+      "end": 1127,
+      "quote": "The Gods are later than this world's production. Who knows then whence it first came into being?",
+      "match": "normalized-exact"
+    }
+  }
+}

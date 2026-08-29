@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-a-book-to-burn-reply-to-deng-shiyang-named-chapter-reply-to-deng-shiyang-f9165731",
+  "title": "篇 Reply to Deng Shiyang",
+  "englishTitle": "Chapter Reply to Deng Shiyang",
+  "work": "《焚书·答邓石阳》",
+  "englishWork": "A Book to Burn, Reply to Deng Shiyang",
+  "locator": "篇 Reply to Deng Shiyang",
+  "englishLocator": "Chapter Reply to Deng Shiyang",
+  "version": "维基文库《焚书·卷一·答邓石阳》通行数字文本；按卡片所列篇章核对字句，卡片采用简体规范字与现代标点",
+  "englishVersion": "Wikisource received digital text of A Book to Burn, vol. 1, Reply to Deng Shiyang; wording checked at the card's passage locator, with normalized simplified forms and modern punctuation on the card",
+  "sourceUrl": "https://zh.wikisource.org/wiki/%E7%84%9A%E6%9B%B8/%E5%8D%B71",
+  "source": {
+    "url": "https://zh.wikisource.org/wiki/%E7%84%9A%E6%9B%B8/%E5%8D%B71",
+    "retrievalUrl": "https://zh.wikisource.org/w/api.php?action=parse&page=%E7%84%9A%E6%9B%B8%2F%E5%8D%B71&redirects=1&prop=text%7Cdisplaytitle&format=json&formatversion=2",
+    "contentType": "text/html",
+    "sha256": "f0ac74a5add349ed5ffc4b8f0284f45f872945c268c0cfa22ecfe911eccdf476"
+  },
+  "selectionMethod": "matched-heading",
+  "contentHash": "c14ccc8e4dd7f4d333d827245549d7f8ed24945f407482e1b618f7bb1e7ae427",
+  "inputHash": "94afcb24e59bafaaf2ec0dd7a1221c8058b7568a8627f7aeda815774066b7ec9",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "答鄧石陽"
+    },
+    {
+      "id": "p0002",
+      "text": "穿衣吃飯即是人倫物理；除卻穿衣吃飯，無倫物矣。世間種種皆衣與飯類耳，故舉衣與飯而世間種種自然在其中，非衣食之外更有所謂種種絕與百姓不相同者也。學者只宜於倫物上識真空，不當於倫物上辨倫物。故曰：「明於庶物，察於人倫。」於倫物上加明察，則可以達本而識真源；否則，只在倫物上計較忖度，終無自得之日矣。支離、易簡之辨，正在於此。明察得真空，則為由仁義行，不明察，則為行仁義，入於支離而不自覺矣。可不慎乎！"
+    },
+    {
+      "id": "p0003",
+      "text": "昨者復書「真空」十六字，已說得無滲漏矣。今復為註解以請正，何如？所謂「空不用空」者，謂是太虛空之性，本非人之所能空也。若人能空之，則不得謂之太虛空矣，有何奇妙，而欲學者專以見性為極則也耶！所謂「終不能空」者，謂若容得一毫人力，便是塞了一分真空，塞了一分真空，便是染了一點塵垢。此一點塵垢便是千劫系驢之橛，永不能出離矣，可不畏乎！世間蕩平大路，千人共由，萬人共履，我在此，兄亦在此，合邑上下俱在此。若自生分別，則反不如百姓日用矣，幸裁之！"
+    },
+    {
+      "id": "p0004",
+      "text": "弟老矣，作筆草草，甚非其意。兄倘有誌易簡之理，不願虛生此一番，則弟雖吐肝膽之血以相究證，亦所甚願；如依舊橫此見解，不復以生死為念，千萬勿勞賜教也！"
+    }
+  ],
+  "anchors": {
+    "chinese-li-zhi-everyday-human-relations": {
+      "paragraphId": "p0002",
+      "start": 0,
+      "end": 34,
+      "quote": "穿衣吃饭即是人伦物理；除却穿衣吃饭，无伦物矣。世间种种皆衣与饭类耳。",
+      "match": "punctuation-insensitive"
+    }
+  }
+}

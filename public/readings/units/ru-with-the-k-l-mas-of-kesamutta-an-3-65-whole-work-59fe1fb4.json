@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-with-the-k-l-mas-of-kesamutta-an-3-65-whole-work-59fe1fb4",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《迦罗摩经》",
+  "englishWork": "With the Kālāmas of Kesamutta (AN 3.65)",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "SuttaCentral/Bilara已发布数据固定提交21b240d60ee298ea0bab0868d058dfac04dbd1fd，Bhikkhu Sujato 2018年CC0英译《增支部》3.65，第4.2—4.3段；两个连续段构成关于不善、伤害与舍弃的完整条件句，中文为项目研读译文",
+  "englishVersion": "SuttaCentral/Bilara published data at frozen commit 21b240d60ee298ea0bab0868d058dfac04dbd1fd, Bhikkhu Sujato's 2018 CC0 translation of AN 3.65, segments 4.2–4.3; two consecutive segments forming the complete conditional sentence on what is unskillful, harmful, and to be given up; Chinese is a project study translation",
+  "sourceUrl": "https://suttacentral.net/an3.65/en/sujato",
+  "preparedSourceUrl": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/an/an3/an3.65_translation-en-sujato.json",
+  "source": {
+    "url": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/an/an3/an3.65_translation-en-sujato.json",
+    "retrievalUrl": "https://raw.githubusercontent.com/suttacentral/bilara-data/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/an/an3/an3.65_translation-en-sujato.json",
+    "contentType": "application/json",
+    "sha256": "bd6d82e806eaf07f3d6e65a0a6a900002e620ade400b8fc81ff3d300b312f5b2"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "5ad8a140619a3b64833d02fdd99a02e9e64c36a5811ec29925cc71a2faa1d8ac",
+  "inputHash": "c007afbba6287607fb4b9f14fdf1a262f55572721a910c3f63b169e4d26a175e",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Numbered Discourses 3.65 7. The Great Chapter With the Kālāmas of Kesamutta"
+    },
+    {
+      "id": "p0002",
+      "text": "So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants when he arrived at a town of the Kālāmas named Kesamutta. The Kālāmas of Kesamutta heard: “It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Kesamutta. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha…’ It’s good to see such perfected ones.”"
+    },
+    {
+      "id": "p0003",
+      "text": "Then the Kālāmas went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their cupped palms toward the Buddha, some announced their name and clan, while some kept silent. Seated to one side the Kālāmas said to the Buddha:"
+    },
+    {
+      "id": "p0004",
+      "text": "“There are, sir, some ascetics and brahmins who come to Kesamutta. They explain and promote only their own doctrine, while they attack, badmouth, disparage, and smear the doctrines of others. Then some other ascetics and brahmins come to Kesamutta. They too explain and promote only their own doctrine, while they attack, badmouth, disparage, and smear the doctrines of others. So, sir, we’re doubting and uncertain: ‘I wonder who of these respected ascetics and brahmins speaks the truth, and who speaks falsehood?’” “It is enough, Kālāmas, for you to be doubting and uncertain. Doubt has come up in you about an uncertain matter."
+    },
+    {
+      "id": "p0005",
+      "text": "Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned train of thought, don’t go by the acceptance of a view after deliberation, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up."
+    },
+    {
+      "id": "p0006",
+      "text": "What do you think, Kālāmas? Does greed come up in a person for their welfare or harm?”"
+    },
+    {
+      "id": "p0007",
+      "text": "“Harm, sir.”"
+    },
+    {
+      "id": "p0008",
+      "text": "“A greedy individual, overcome by greed, kills living creatures, steals, commits adultery, lies, and encourages others to do the same. Is that for their lasting harm and suffering?”"
+    },
+    {
+      "id": "p0009",
+      "text": "“Yes, sir.”"
+    },
+    {
+      "id": "p0010",
+      "text": "“What do you think, Kālāmas? Does hate come up in a person for their welfare or harm?”"
+    },
+    {
+      "id": "p0011",
+      "text": "“Harm, sir.”"
+    },
+    {
+      "id": "p0012",
+      "text": "“A hateful individual, overcome by hate, kills living creatures, steals, commits adultery, lies, and encourages others to do the same. Is that for their lasting harm and suffering?”"
+    },
+    {
+      "id": "p0013",
+      "text": "“Yes, sir.”"
+    },
+    {
+      "id": "p0014",
+      "text": "“What do you think, Kālāmas? Does delusion come up in a person for their welfare or harm?”"
+    },
+    {
+      "id": "p0015",
+      "text": "“Harm, sir.”"
+    },
+    {
+      "id": "p0016",
+      "text": "“A deluded individual, overcome by delusion, kills living creatures, steals, commits adultery, lies, and encourages others to do the same. Is that for their lasting harm and suffering?”"
+    },
+    {
+      "id": "p0017",
+      "text": "“Yes, sir.”"
+    },
+    {
+      "id": "p0018",
+      "text": "“What do you think, Kālāmas, are these things skillful or unskillful?”"
+    },
+    {
+      "id": "p0019",
+      "text": "“Unskillful, sir.”"
+    },
+    {
+      "id": "p0020",
+      "text": "“Blameworthy or blameless?”"
+    },
+    {
+      "id": "p0021",
+      "text": "“Blameworthy, sir.”"
+    },
+    {
+      "id": "p0022",
+      "text": "“Criticized or praised by sensible people?”"
+    },
+    {
+      "id": "p0023",
+      "text": "“Criticized by sensible people, sir.”"
+    },
+    {
+      "id": "p0024",
+      "text": "“When you undertake them, do they lead to harm and suffering, or not? Or how do you see this?”"
+    },
+    {
+      "id": "p0025",
+      "text": "“When you undertake them, they lead to harm and suffering. That’s how we see it.”"
+    },
+    {
+      "id": "p0026",
+      "text": "“So, Kālāmas, when I said: ‘Please, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned train of thought, don’t go by the acceptance of a view after deliberation, don’t go by the appearance of competence, and don’t think “The ascetic is our respected teacher.” But when you know for yourselves: “These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering”, then you should give them up.’ That’s what I said, and this is why I said it."
+    },
+    {
+      "id": "p0027",
+      "text": "Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned train of thought, don’t go by the acceptance of a view after deliberation, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’ But when you know for yourselves: ‘These things are skillful, blameless, praised by sensible people, and when you undertake them, they lead to welfare and happiness’, then you should acquire them and keep them."
+    },
+    {
+      "id": "p0028",
+      "text": "What do you think, Kālāmas? Does contentment come up in a person for their welfare or harm?”"
+    },
+    {
+      "id": "p0029",
+      "text": "“Welfare, sir.”"
+    },
+    {
+      "id": "p0030",
+      "text": "“An individual who is content, not overcome by greed, doesn’t kill living creatures, steal, commit adultery, lie, or encourage others to do the same. Is that for their lasting welfare and happiness?”"
+    },
+    {
+      "id": "p0031",
+      "text": "“Yes, sir.”"
+    },
+    {
+      "id": "p0032",
+      "text": "“What do you think, Kālāmas? Does love come up in a person for their welfare or harm?… Does understanding come up in a person for their welfare or harm?… Is that for their lasting welfare and happiness?”"
+    },
+    {
+      "id": "p0033",
+      "text": "“Yes, sir.”"
+    },
+    {
+      "id": "p0034",
+      "text": "“What do you think, Kālāmas, are these things skillful or unskillful?”"
+    },
+    {
+      "id": "p0035",
+      "text": "“Skillful, sir.”"
+    },
+    {
+      "id": "p0036",
+      "text": "“Blameworthy or blameless?”"
+    },
+    {
+      "id": "p0037",
+      "text": "“Blameless, sir.”"
+    },
+    {
+      "id": "p0038",
+      "text": "“Criticized or praised by sensible people?”"
+    },
+    {
+      "id": "p0039",
+      "text": "“Praised by sensible people, sir.”"
+    },
+    {
+      "id": "p0040",
+      "text": "“When you undertake them, do they lead to welfare and happiness, or not? Or how do you see this?”"
+    },
+    {
+      "id": "p0041",
+      "text": "“When you undertake them, they lead to welfare and happiness. That’s how we see it.”"
+    },
+    {
+      "id": "p0042",
+      "text": "“So, Kālāmas, when I said: ‘Please, don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned train of thought, don’t go by the acceptance of a view after deliberation, don’t go by the appearance of competence, and don’t think “The ascetic is our respected teacher.” But when you know for yourselves: “These things are skillful, blameless, praised by sensible people, and when you undertake them, they lead to welfare and happiness”, then you should acquire them and keep them.’ That’s what I said, and this is why I said it."
+    },
+    {
+      "id": "p0043",
+      "text": "Then that noble disciple is rid of desire, rid of ill will, unconfused, aware, and mindful. They meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world—abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of compassion to the whole world—abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of rejoicing to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of rejoicing to the whole world—abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will."
+    },
+    {
+      "id": "p0044",
+      "text": "When that noble disciple has a mind that’s free of enmity and ill will, uncorrupted and purified, they’ve won four consolations in this very life. ‘If it turns out there is another world, and good and bad deeds have a result, then—when the body breaks up, after death—I’ll be reborn in a good place, a heavenly realm.’ This is the first consolation they’ve won."
+    },
+    {
+      "id": "p0045",
+      "text": "‘If it turns out there is no other world, and good and bad deeds don’t have a result, then in this very life I’ll keep myself free of enmity and ill will, untroubled and happy.’ This is the second consolation they’ve won."
+    },
+    {
+      "id": "p0046",
+      "text": "‘If it turns out that bad things happen to people who do bad things, then since I have no bad intentions, and since I’m not doing anything bad, how can suffering touch me?’ This is the third consolation they’ve won."
+    },
+    {
+      "id": "p0047",
+      "text": "‘If it turns out that bad things don’t happen to people who do bad things, then I still see myself pure on both sides.’ This is the fourth consolation they’ve won."
+    },
+    {
+      "id": "p0048",
+      "text": "When that noble disciple has a mind that’s free of enmity and ill will, uncorrupted and purified, they’ve won these four consolations in this very life.”"
+    },
+    {
+      "id": "p0049",
+      "text": "“That’s so true, Blessed One! That’s so true, Holy One! When that noble disciple has a mind that’s free of enmity and ill will, uncorrupted and purified, they’ve won these four consolations in this very life.…"
+    },
+    {
+      "id": "p0050",
+      "text": "Excellent, sir! Excellent!… We go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember us as lay followers who have gone for refuge for life.”"
+    }
+  ],
+  "anchors": {
+    "indian-buddha-kalama": {
+      "paragraphId": "p0005",
+      "start": 365,
+      "end": 565,
+      "quote": "But when you know for yourselves: ‘These things are unskillful, blameworthy, criticized by sensible people, and when you undertake them, they lead to harm and suffering’, then you should give them up.",
+      "match": "normalized-exact"
+    }
+  }
+}

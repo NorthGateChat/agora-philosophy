@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-a-letter-concerning-toleration-whole-work-15c3b51a",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《论宗教宽容》",
+  "englishWork": "A Letter Concerning Toleration",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "芝加哥大学 Founders' Constitution 原文选段，洛克《论宗教宽容》，关于世俗官长不能照管灵魂的第二项理由",
+  "englishVersion": "University of Chicago Founders' Constitution primary-text excerpt, Locke, A Letter Concerning Toleration, second reason why care of souls cannot belong to the civil magistrate",
+  "sourceUrl": "https://press-pubs.uchicago.edu/founders/documents/amendI_religions10.html",
+  "source": {
+    "url": "https://press-pubs.uchicago.edu/founders/documents/amendI_religions10.html",
+    "contentType": "text/html",
+    "sha256": "b0574726ef178bd90c9e74a50296d2fdccd1d0b9526470b429a356af905da42a"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "72f1df1a0c9e7e701c77564a01a4469b2c37cb046247bd3914c0bb2d9943d8dc",
+  "inputHash": "0e2e6f76b1ba521d529c36a57e39d361d37463911b2366a94d1eba315b3ba500",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Amendment I (Religion): John Locke, A Letter concerning Toleration"
+    },
+    {
+      "id": "p0002",
+      "text": "Amendment I (Religion)"
+    },
+    {
+      "id": "p0003",
+      "text": "Document 10"
+    },
+    {
+      "id": "p0004",
+      "text": "John Locke, A Letter concerning Toleration"
+    },
+    {
+      "id": "p0005",
+      "text": "1689 Montuori 17--25, 31--33, 45, 55, 65--69, 89, 91, 93"
+    },
+    {
+      "id": "p0006",
+      "text": "Now that the whole jurisdiction of the magistrate reaches only to these civil concernments, and that all civil power, right, and dominion, is bounded and confined to the only care of promoting these things; and that it neither can nor ought in any manner to be extended to the salvation of souls, these following considerations seem unto me abundantly to demonstrate."
+    },
+    {
+      "id": "p0007",
+      "text": "First. Because the care of souls is not committed to the civil magistrate, any more than to other men. It is not committed unto him, I say, by God; because it appears not that God has ever given any such authority to one man over another, as to compel any one to his religion. Nor can any such power be vested in the magistrate by the consent of the people, because no man can so far abandon the care of his own salvation as blindly to leave to the choice of any other, whether prince or subject, to prescribe to him what faith or worship he shall embrace. For no man can, if he would, conform his faith to the dictates of another. All the life and power of true religion consist in the inward and full persuasion of the mind; and faith is not faith without believing. Whatever profession we make, to whatever outward worship we conform, if we are not fully satisfied in our own mind that the one is true, and the other well pleasing unto God, such profession and such practice, far from being any furtherance, are indeed great obstacles to our salvation. For in this manner, instead of expiating other sins by the exercise of religion, I say, in offering thus unto God Almighty such a worship as we esteem to be displeasing unto him, we add unto the number of our other sins those also of hypocrisy, and contempt of his Divine Majesty."
+    },
+    {
+      "id": "p0008",
+      "text": "In the second place . The care of souls cannot belong to the civil magistrate, because his power consists only in outward force; but true and saving religion consists in the inward persuasion of the mind, without which nothing can be acceptable to God. And such is the nature of the understanding, that it cannot be compelled to the belief of anything by outward force. Confiscation of estate, imprisonment, torments, nothing of that nature can have any such efficacy as to make men change the inward judgment that they have framed of things."
+    },
+    {
+      "id": "p0009",
+      "text": "It may indeed be alleged that the magistrate may make use of arguments, and thereby draw the heterodox into the way of truth, and procure their salvation. I grant it; but this is common to him with other men. In teaching, instructing, and redressing the erroneous by reason, he may certainly do what becomes any good man to do. Magistracy does not oblige him to put off either humanity or Christianity; but it is one thing to persuade, another to command; one thing to press with arguments, another with penalties. This the civil power alone has a right to do; to the other good-will is authority enough. Every man has commission to admonish, exhort, convince another of error, and, by reasoning, to draw him into truth; but to give laws, receive obedience, and compel with the sword, belongs to none but the magistrate. And upon this ground, I affirm that the magistrate's power extends not to the establishing of any articles of faith, or forms of worship, by the force of his laws. For laws are of no force at all without penalties, and penalties in this case are absolutely impertinent, because they are not proper to convince the mind. Neither the profession of any articles of faith, nor the conformity to any outward form of worship (as has been already said), can be available to the salvation of souls, unless the truth of the one, and the acceptableness of the other unto God, be thoroughly believed by those that so profess and practise. But penalties are no way capable to produce such belief. It is only light and evidence that can work a change in men's opinions; and that light can in no manner proceed from corporal sufferings, or any other outward penalties."
+    },
+    {
+      "id": "p0010",
+      "text": "In the third place . The care of the salvation of men's souls cannot belong to the magistrate; because, though the rigour of laws and the force of penalties were capable to convince and change men's minds, yet would not that help at all to the salvation of their souls. For there being but one truth, one way to heaven, what hope is there that more men would be led into it if they had no other rule to follow but the religion of the court, and were put under the necessity to quit the light of their own reason, to oppose the dictates of their own consciences, and blindly to resign themselves up to the will of their governors, and to the religion which either ignorance, ambition, or superstition had chanced to establish in the countries where they were born? In the variety and contradiction of opinions in religion, wherein the princes of the world are as much divided as in their secular interests, the narrow way would be much straitened; one country alone would be in the right, and all the rest of the world put under an obligation of following their princes in the ways that lead to destruction; and that which heightens the absurdity, and very ill suits the notion of a Deity, men would owe their eternal happiness or misery to the places of their nativity."
+    },
+    {
+      "id": "p0011",
+      "text": "These considerations, to omit many others that might have been urged to the same purpose, seem unto me sufficient to conclude that all the power of civil government relates only to men's civil interests, is confined to the care of the things of this world, and hath nothing to do with the world to come."
+    },
+    {
+      "id": "p0012",
+      "text": "Let us now consider what a church is . A church, then, I take to be a voluntary society of men, joining themselves together of their own accord in order to the public worshipping of God in such manner as they judge acceptable to him, and effectual to the salvation of their souls."
+    },
+    {
+      "id": "p0013",
+      "text": "I say it is a free and voluntary society. Nobody is born a member of any church; otherwise the religion of parents would descend unto children by the same right of inheritance as their temporal estates, and every one would hold his faith by the same tenure he does his lands, than which nothing can be imagined more absurd. Thus, therefore, that matter stands. No man by nature is bound unto any particular church or sect, but every one joins himself voluntarily to that society in which he believes he has found that profession and worship which is truly acceptable to God. The hope of salvation, as it was the only cause of his entrance into that communion, so it can be the only reason of his stay there. For if afterwards he discover anything either erroneous in the doctrine or incongruous in the worship of that society to which he has joined himself, why should it not be as free for him to go out as it was to enter? No member of a religious society can be tied with any other bonds but what proceed from the certain expectation of eternal life. A church, then, is a society of members voluntarily uniting to this end."
+    },
+    {
+      "id": "p0014",
+      "text": "It follows now that we consider what is the power of this church, and unto what laws it is subject."
+    },
+    {
+      "id": "p0015",
+      "text": "Forasmuch as no society, how free soever, or upon whatsoever slight occasion instituted, whether of philosophers for learning, of merchants for commerce, or of men of leisure for mutual conversation and discourse, no church or company, I say, can in the least subsist and hold together, but will presently dissolve and break to pieces, unless it be regulated by some laws, and the members all consent to observe some order. Place and time of meeting must be agreed on; rules for admitting and excluding members must be established; distinction of officers, and putting things into a regular course, and such-like, cannot be omitted. But since the joining together of several members into this church-society, as has already been demonstrated, is absolutely free and spontaneous, it necessarily follows that the right of making its laws can belong to none but the society itself; or, at least (which is the same thing), to those whom the society by common consent has authorized thereunto."
+    },
+    {
+      "id": "p0016",
+      "text": ". . . . ."
+    },
+    {
+      "id": "p0017",
+      "text": "These things being thus determined, let us inquire, in the next place, how far the duty of toleration extends, and what is required from every one by it."
+    },
+    {
+      "id": "p0018",
+      "text": "And, first, I hold that no church is bound, by the duty of toleration, to retain any such person in her bosom as, after admonition, continues obstinately to offend against the laws of the society. . . ."
+    },
+    {
+      "id": "p0019",
+      "text": "Secondly, no private person has any right in any manner to prejudice another person in his civil enjoyments because he is of another church or religion. All the rights and franchises that belong to him as a man, or as a denizen, are inviolably to be preserved to him. These are not the business of religion. No violence nor injury is to be offered him, whether he be Christian or Pagan. Nay, we must not content ourselves with the narrow measures of bare justice; charity, bounty, and liberality must be added to it. This the Gospel enjoins, this reason directs, and this that natural fellowship we are born into requires of us. If any man err from the right way, it is his own misfortune, no injury to thee; nor therefore art thou to punish him in the things of this life because thou supposest he will be miserable in that which is to come."
+    },
+    {
+      "id": "p0020",
+      "text": "What I say concerning the mutual toleration of private persons differing from one another in religion, I understand also of particular churches which stand, as it were, in the same relation to each other as private persons among themselves: nor has any one of them any manner of jurisdiction over any other; no, not even when the civil magistrate (as it sometimes happens) comes to be of this or the other communion. For the civil government can give no new right to the church, nor the church to the civil government. So that whether the magistrate join himself to any church, or separate from it, the church remains always as it was before, a free and voluntary society. It neither requires the power of the sword by the magistrate's coming to it, nor does it lose the right of instruction and excommunication by his going from it. This is the fundamental and immutable right of a spontaneous society; that it has power to remove any of its members who transgress the rules of its institution; but it cannot, by the accession of any new members, acquire any right of jurisdiction over those that are not joined with it. And therefore peace, equity, and friendship are always mutually to be observed by particular churches, in the same manner as by private persons, without any pretence of superiority or jurisdiction over one another."
+    },
+    {
+      "id": "p0021",
+      "text": ". . . . ."
+    },
+    {
+      "id": "p0022",
+      "text": "In the last place . Let us now consider what is the magistrate's duty in the business of toleration, which certainly is very considerable."
+    },
+    {
+      "id": "p0023",
+      "text": "We have already proved that the care of souls does not belong to the magistrate. Not a magisterial care, I mean (if I may so call it), which consists in prescribing by laws and compelling by punishments. But a charitable care, which consists in teaching, admonishing, and persuading, cannot be denied unto any man. The care, therefore, of every man's soul belongs unto himself, and is to be left unto himself. But what if he neglect the care of his soul? I answer: What if he neglect the care of his health or of his estate, which things are nearlier related to the government of the magistrate than the other? Will the magistrate provide by an express law that such a one shall not become poor or sick? Laws provide, as much as is possible, that the goods and health of subjects be not injured by the fraud and violence of others; they do not guard them from the negligence or ill-husbandry of the possessors themselves. No man can be forced to be rich or healthful whether he will or no."
+    },
+    {
+      "id": "p0024",
+      "text": ". . . . ."
+    },
+    {
+      "id": "p0025",
+      "text": "But, after all, the principal consideration, and which absolutely determines this controversy, is this: Although the magistrate's opinion in religion be sound, and the way that he appoints be truly evangelical, yet, if I be not thoroughly persuaded thereof in my own mind, there will be no safety for me in following it. No way whatsoever that I shall walk in against the dictates of my conscience will ever bring me to the mansions of the blessed. I may grow rich by an art that I take not delight in, I may be cured of some disease by remedies that I have not faith in; but I cannot be saved by a religion that I distrust, and by a worship that I abhor. It is in vain for an unbeliever to take up the outward show of another man's profession. Faith only, and inward sincerity, are the things that procure acceptance with God. The most likely and most approved remedy can have no effect upon the patient if his stomach reject it as soon as taken; and you will in vain cram a medicine down a sick man's throat, which his particular constitution will be sure to turn into poison. In a word, whatsoever may be doubtful in religion, yet this at least is certain, that no religion which I believe not to be true can be either true or profitable unto me. In vain, therefore, do princes compel their subjects to come into their church communion, under pretence of saving their souls. If they believe, they will come of their own accord; if they believe not, their coming will nothing avail them. How great soever, in fine, may be the pretence of good-will and charity, and concern for the salvation of men's souls, men cannot be forced to be saved whether they will or no. And therefore, when all is done, they must be left to their own consciences."
+    },
+    {
+      "id": "p0026",
+      "text": ". . . . ."
+    },
+    {
+      "id": "p0027",
+      "text": "In the next place : As the magistrate has no power to impose by his laws the use of any rites and ceremonies in any church, so neither has he any power to forbid the use of such rites and ceremonies as are already received, approved, and practised by any church; because, if he did so, he would destroy the church itself: the end of whose institution is only to worship God with freedom after its own manner."
+    },
+    {
+      "id": "p0028",
+      "text": "You will say, by this rule, if some congregations should have a mind to sacrifice infants, or (as the primitive Christians were falsely accused) lustfully pollute themselves in promiscuous uncleanness, or practise any other such heinous enormities, is the magistrate obliged to tolerate them, because they are committed in a religious assembly? I answer: No. These things are not lawful in the ordinary course of life, nor in any private house; and therefore neither are they so in the worship of God, or in any religious meeting. But, indeed, if any people congregated upon account of religion should be desirous to sacrifice a calf, I deny that that ought to be prohibited by a law. Melibaeus, whose calf it is, may lawfully kill his calf at home, and burn any part of it that he thinks fit. For no injury is thereby done to any one, no prejudice to another man's goods. And for the same reason he may kill his calf also in a religious meeting. Whether the doing so be well-pleasing to God or no, it is their part to consider that do it. The part of the magistrate is only to take care that the commonwealth receive no prejudice, and that there be no injury done to any man, either in life or estate. And thus what may be spent on a feast may be spent on a sacrifice. But if peradventure such were the state of things that the interest of the commonwealth required all slaughter of beasts should be forborne for some while, in order to the increasing of the stock of cattle that had been destroyed by some extraordinary murrain, who sees not that the magistrate, in such a case, may forbid all his subjects to kill any calves for any use whatsoever? Only it is to be observed that, in this case, the law is not made about a religious, but a political matter; nor is the sacrifice, but the slaughter of calves, thereby prohibited."
+    },
+    {
+      "id": "p0029",
+      "text": "By this we see what difference there is between the church and the commonwealth. Whatsoever is lawful in the commonwealth cannot be prohibited by the magistrate in the church. Whatsoever is permitted unto any of his subjects for their ordinary use, neither can nor ought to be forbidden by him to any sect of people for their religious uses. If any man may lawfully take bread or wine, either sitting or kneeling in his own house, the law ought not to abridge him of the same liberty in his religious worship; though in the church the use of bread and wine be very different, and be there applied to the mysteries of faith and rites of divine worship. But those things that are prejudicial to the commonweal of a people in their ordinary use, and are therefore forbidden by laws, those things ought not to be permitted to churches in their sacred rites. Only the magistrate ought always to be very careful that he do not misuse his authority to the oppression of any church, under pretence of public good."
+    },
+    {
+      "id": "p0030",
+      "text": "It may be said: what if a church be idolatrous, is that also to be tolerated by the magistrate? In answer, I ask: What power can be given to the magistrate for the suppression of an idolatrous church, which may not in time and place be made use of to the ruin of an orthodox one? For it must be remembered that the civil power is the same everywhere, and the religion of every prince is orthodox to himself. If, therefore, such a power be granted unto the civil magistrate in spirituals, as that at Geneva (for example) he may extirpate, by violence and blood, the religion which is there reputed idolatrous, by the same rule another magistrate, in some neighbouring country, may oppress the reformed religion, and, in India, the Christian. The civil power can either change everything in religion, according to the prince's pleasure, or it can change nothing. If it be once permitted to introduce anything into religion, by the means of laws and penalties, there can be no bounds put to it; but it will in the same manner be lawful to alter everything, according to that rule of truth which the magistrate has framed unto himself. No man whatsoever ought therefore to be deprived of his terrestrial enjoyments upon account of his religion. Not even Americans, subjected unto a Christian prince, are to be punished either in body or goods for not embracing our faith and worship. If they are persuaded that they please God in observing the rites of their own country, and that they shall obtain happiness by that means, they are to be left unto God and themselves."
+    },
+    {
+      "id": "p0031",
+      "text": ". . . . ."
+    },
+    {
+      "id": "p0032",
+      "text": "But to come to particulars. I say, first, no opinions contrary to human society, or to those moral rules which are necessary to the preservation of civil society, are to be tolerated by the magistrate."
+    },
+    {
+      "id": "p0033",
+      "text": ". . . . ."
+    },
+    {
+      "id": "p0034",
+      "text": "Again: That church can have no right to be tolerated by the magistrate which is constituted upon such a bottom that all those who enter into it do thereby ipso facto deliver themselves up to the protection and service of another prince. For by this means the magistrate would give way to the settling of a foreign jurisdiction in his own country, and suffer his own people to be listed, as it were, for soldiers against his own government."
+    },
+    {
+      "id": "p0035",
+      "text": ". . . . ."
+    },
+    {
+      "id": "p0036",
+      "text": "Lastly, those are not at all to be tolerated who deny the being of a God . Promises, covenants, and oaths, which are the bonds of human society, can have no hold upon an atheist. The taking away of God, though but even in thought, dissolves all; besides also, those that by their atheism undermine and destroy all religion, can have no pretence of religion whereupon to challenge the privilege of a toleration. As for other practical opinions, though not absolutely free from all error, yet if they do not tend to establish domination over others, or civil impunity to the church in which they are taught, there can be no reason why they should not be tolerated."
+    },
+    {
+      "id": "p0037",
+      "text": "The Founders' Constitution"
+    },
+    {
+      "id": "p0038",
+      "text": "Volume 5, Amendment I (Religion), Document 10 http://press-pubs.uchicago.edu/founders/documents/amendI_religions10.html The University of Chicago Press"
+    },
+    {
+      "id": "p0039",
+      "text": "Locke, John. A Letter concerning Toleration . Latin and English texts revised and edited by Mario Montuori. The Hague: Martinus Nijhoff, 1963."
+    }
+  ],
+  "anchors": {
+    "locke-toleration-and-civil-power": {
+      "paragraphId": "p0008",
+      "start": 22,
+      "end": 369,
+      "quote": "The Care of Souls cannot belong to the Civil Magistrate, because his Power consists only in outward Force; but true and saving Religion consists in the inward Persuasion of the Mind, without which nothing can be acceptable to God. And such is the nature of the Understanding, that it cannot be compelled to the Belief of any thing by outward Force.",
+      "match": "normalized-exact"
+    }
+  }
+}

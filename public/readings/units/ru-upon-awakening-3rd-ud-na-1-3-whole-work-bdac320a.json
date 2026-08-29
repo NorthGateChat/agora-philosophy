@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "ru-upon-awakening-3rd-ud-na-1-3-whole-work-bdac320a",
+  "title": "全篇",
+  "englishTitle": "Whole work",
+  "work": "《自说经》“觉醒（三）”",
+  "englishWork": "Upon Awakening (3rd) (Udāna 1.3)",
+  "locator": "全篇",
+  "englishLocator": "Whole work",
+  "version": "SuttaCentral/Bilara已发布数据固定提交21b240d60ee298ea0bab0868d058dfac04dbd1fd，Bhikkhu Sujato 2021年CC0英译《自说经》1.3，第2.1段至第2.2段第一句；连续两句止于随后That is之前，独立呈现时规范对话引号，中文为项目研读译文",
+  "englishVersion": "SuttaCentral/Bilara published data at frozen commit 21b240d60ee298ea0bab0868d058dfac04dbd1fd, Bhikkhu Sujato's 2021 CC0 translation of Udāna 1.3, segment 2.1 through the first sentence of 2.2; two consecutive sentences ending before the following ‘That is:’, with dialogue punctuation normalized for standalone display; Chinese is a project study translation",
+  "sourceUrl": "https://suttacentral.net/ud1.3/en/sujato",
+  "preparedSourceUrl": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/kn/ud/vagga1/ud1.3_translation-en-sujato.json",
+  "source": {
+    "url": "https://github.com/suttacentral/bilara-data/blob/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/kn/ud/vagga1/ud1.3_translation-en-sujato.json",
+    "retrievalUrl": "https://raw.githubusercontent.com/suttacentral/bilara-data/21b240d60ee298ea0bab0868d058dfac04dbd1fd/translation/en/sujato/sutta/kn/ud/vagga1/ud1.3_translation-en-sujato.json",
+    "contentType": "application/json",
+    "sha256": "a99441da3c8b495c627b4f7d170e0555718081ffbbc943dc93267b9faa0fe307"
+  },
+  "selectionMethod": "whole-document",
+  "contentHash": "8c284870c84861d73f5bf7f7a18389972d7e2d003334db46cf7e0510084d9d49",
+  "inputHash": "68a514721b09ccfd9f5f44346d9b316651691bebfb8865bf03d09f2621e101ae",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Heartfelt Sayings 1.3 Upon Awakening (3rd)"
+    },
+    {
+      "id": "p0002",
+      "text": "So I have heard. At one time, when he was first awakened, the Buddha was staying in Uruvelā at the root of the tree of awakening on the bank of the Nerañjarā River. There the Buddha sat cross-legged for seven days without moving, experiencing the bliss of freedom. When seven days had passed, the Buddha emerged from that state of immersion. In the last watch, he carefully applied the mind to dependent origination, going both with and against the grain:"
+    },
+    {
+      "id": "p0003",
+      "text": "“So, when this exists, this comes to be; due to the arising of this, this arises. When this doesn’t exist, this doesn’t come to be; due to the cessation of this, this ceases. That is: Ignorance is a requirement for choices. Choices are a requirement for consciousness. Consciousness is a requirement for name and form. Name and form are requirements for the six sense fields. The six sense fields are requirements for contact. Contact is a requirement for feeling. Feeling is a requirement for craving. Craving is a requirement for grasping. Grasping is a requirement for continued existence. Continued existence is a requirement for rebirth. Rebirth is a requirement for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be. That is how this entire mass of suffering originates."
+    },
+    {
+      "id": "p0004",
+      "text": "When ignorance fades away and ceases no residue left behind, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. That is how this entire mass of suffering ceases.”"
+    },
+    {
+      "id": "p0005",
+      "text": "Then, understanding this matter, on that occasion the Buddha expressed this heartfelt sentiment:"
+    },
+    {
+      "id": "p0006",
+      "text": "“When things become clear to the keen, meditating brahmin, he remains, scattering Māra’s army, as the sun lights up the sky.”"
+    }
+  ],
+  "anchors": {
+    "indian-buddha-dependent-arising": {
+      "paragraphId": "p0003",
+      "start": 1,
+      "end": 174,
+      "quote": "So, when this exists, this comes to be; due to the arising of this, this arises. When this doesn’t exist, this doesn’t come to be; due to the cessation of this, this ceases.",
+      "match": "normalized-exact"
+    }
+  }
+}
