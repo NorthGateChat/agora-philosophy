@@ -39,12 +39,12 @@
 | --- | --- |
 | 内容与来源审计 | 通过；`npm run content:audit`，1,441 张卡 = 918 张已核原文节选 + 523 张命题整理，缺失出处、未处置项、语境、人工重点与阅读辅助均为 0 |
 | 阅读正文审计 | 通过；`npm run readings:audit`，542 个离线正文、705 个原句锚点；缺失正文、孤儿正文、锚点失败、重复正文、来源页杂质与篇章边界风险均为 0 |
-| 全量自动测试 | 通过；`node --test tests/*.test.mjs`，176 / 176 通过，0 失败 |
+| 全量自动测试 | 通过；`node --test tests/*.test.mjs`，178 / 178 通过，0 失败 |
 | ESLint 与差异格式 | 通过；`npm run lint` 与 `git diff --check` 均无错误 |
 | 网页生产构建 | 通过；`npm run build`；已移除 Sites／托管配置依赖，仅保留按需大块提示，不影响本地构建 |
-| Chrome 扩展构建 | 通过；`npm run build:extension`；初始入口 291.77 KiB，gzip 91.63 KiB，目录、原文正文与插图保持异步加载 |
+| Chrome 扩展构建 | 通过；`npm run build:extension`；初始入口 297.70 KiB，gzip 93.63 KiB，目录、原文正文与插图保持异步加载 |
 | 本地预览烟雾复核 | 通过；`http://localhost:3000/`；覆盖繁体中文、简体中文、英文，以及卡片、详情、来源档案、语境／辨析、整篇章阅读和原句自动定位；控制台 0 错误 |
-| 扩展 ZIP 校验 | 通过；`release/agora-philosophy-0.4.0.zip`，2,094 项、177,813,577 字节；SHA-256 `d81a6b975d583228c710819d54f2e8a7afa41421ef51cf5405c0c78c0c9e0efe`；`unzip -t` 与 `shasum -c` 均通过 |
+| 扩展 ZIP 校验 | 通过；`release/agora-philosophy-0.4.0.zip`，2,094 项、177,815,811 字节；SHA-256 `799d5479af33f853f0f3001122c7a3866de1eeafbd087cbec8a197c7c2654bd9`；`unzip -t` 与 `shasum -c` 均通过 |
 | 最终提交 | 本摘要随最终提交一并入库；提交哈希见最终交付说明或 `git log -1` |
 
 ## 发布边界

@@ -23,6 +23,8 @@ test("server-renders the minimal full-screen NOTHING FINAL experience", async ()
   assert.match(html, /<html lang="zh-CN">/i);
   assert.match(html, /<title>未定稿｜一页，一种思想。<\/title>/i);
   assert.match(html, /未定稿思想卡片/);
+  assert.match(html, /app-brand-lockup language-zh-hans/);
+  assert.match(html, /class="app-brand-icon" src="\/favicon\.svg"/);
   assert.match(html, /打开菜单/);
   assert.match(html, /corner-menu-scrim/);
   assert.match(html, /menu-brand-lockup/);

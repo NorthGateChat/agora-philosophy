@@ -63,6 +63,7 @@ test("the Western structural pass is quota-neutral and removes only its declared
     westernRetiredThoughtIds,
     westernStructuralExpansionThoughts,
   } = await tsImport("../content/philosophyStructuralExpansion.ts", import.meta.url);
+  const { contentLibraries } = await tsImport("../content/libraries.ts", import.meta.url);
   const { loadInterpretationDetailsForLibrary } = await tsImport(
     "../content/interpretationDetailLoader.ts",
     import.meta.url,
@@ -82,6 +83,11 @@ test("the Western structural pass is quota-neutral and removes only its declared
   );
 
   const publicIds = new Set(thoughts.map((thought) => thought.id));
+  const westernTopicIds = new Set(
+    contentLibraries.western.topics
+      .filter((topic) => topic.id !== "all")
+      .map((topic) => topic.id),
+  );
   for (const id of westernRetiredThoughtIds) {
     assert.ok(!publicIds.has(id), `${id} must be filtered from the public Western catalog`);
   }
@@ -89,6 +95,7 @@ test("the Western structural pass is quota-neutral and removes only its declared
     assert.ok(publicIds.has(thought.id), `${thought.id} must be public`);
     assertSourceLedCard(thought, westernDetails[thought.id]);
     assert.ok(thought.authorId?.trim(), `${thought.id}.authorId must be present`);
+    assert.ok(westernTopicIds.has(thought.topic), `${thought.id}.topic must be a live Western topic`);
     assert.doesNotMatch(thought.english, hanCharacter, `${thought.id}.english must not contain Chinese`);
   }
 

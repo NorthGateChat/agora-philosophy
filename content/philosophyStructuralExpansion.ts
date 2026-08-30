@@ -170,7 +170,7 @@ const seeds: StructuralSeed[] = [
   {
     id: "lucretius-nothing-from-nothing",
     profileId: "lucretius",
-    topic: "因果",
+    topic: "存在",
     text: "从无之中，从来没有任何事物诞生。",
     english: "Nothing from nothing ever yet was born.",
     work: "《物性论》",
@@ -189,7 +189,7 @@ const seeds: StructuralSeed[] = [
   {
     id: "lucretius-bodies-and-void",
     profileId: "lucretius",
-    topic: "宇宙",
+    topic: "存在",
     text: "因此，自立的整个自然由两类事物构成：物体与虚空；物体置于其中，也在其中运动。",
     english: "All nature, then, as self-sustained, consists of twain of things: of bodies and of void in which they’re set, and where they’re moved around.",
     work: "《物性论》",
@@ -208,7 +208,7 @@ const seeds: StructuralSeed[] = [
   {
     id: "lucretius-death-nothing",
     profileId: "lucretius",
-    topic: "生命",
+    topic: "存在",
     text: "因此，死亡对我们无所意味，也丝毫不关涉我们，因为心灵的本性终究有死。",
     english: "Therefore death to us is nothing, nor concerns us in the least, since nature of mind is mortal evermore.",
     work: "《物性论》",
@@ -246,7 +246,7 @@ const seeds: StructuralSeed[] = [
   {
     id: "ghazali-blind-belief-consciousness",
     profileId: "al_ghazali",
-    topic: "认识",
+    topic: "知识",
     text: "一旦放弃了盲从，就不可能再回到其中，因为这种信念的本质正在于它对自身毫无意识。",
     english: "Having once surrendered blind belief, it is impossible to return to it, for the essence of such belief is to be unconscious of itself.",
     work: "《迷途指津》（1909 年英译题作《安萨里的忏悔》）",
@@ -265,7 +265,7 @@ const seeds: StructuralSeed[] = [
   {
     id: "ghazali-experience-not-definition",
     profileId: "al_ghazali",
-    topic: "实践",
+    topic: "知识",
     text: "我看出，苏非之道在于体验而非定义；我所缺少的，不属于讲授的领域，而属于忘我与入门的领域。",
     english: "I saw that Sufism consists in experiences rather than in definitions, and that what I was lacking belonged to the domain, not of instruction, but of ecstasy and initiation.",
     work: "《迷途指津》（1909 年英译题作《安萨里的忏悔》）",
@@ -303,7 +303,7 @@ const seeds: StructuralSeed[] = [
   {
     id: "maimonides-negation-advances-knowledge",
     profileId: "maimonides",
-    topic: "认识",
+    topic: "知识",
     text: "要知道，情形确实如此：获得关于神之知识的人彼此差异极大；正如每增加一个属性，对象就更为明确、更接近观察者的真实把握，同样，每增加一个否定性属性，你便向关于神的知识前进一步，比那未曾否定你已由证明确信必须从神那里排除的性质之人，更接近神。",
     english: "Know that this is really the case, that those who have obtained a knowledge of God differ greatly from each other; for in the same way as by each additional attribute an object is more specified, and is brought nearer to the true apprehension of the observer, so by each additional negative attribute you advance toward the knowledge of God, and you are nearer to it than he who does not negative, in reference to God, those qualities which you are convinced by proof must be negatived.",
     work: "《迷途指津》",

@@ -62,6 +62,51 @@ button {
   transition: background-color 700ms ease, color 700ms ease;
 }
 
+.app-brand-lockup {
+  position: absolute;
+  top: calc(env(safe-area-inset-top) + 25px);
+  left: calc(env(safe-area-inset-left) + 28px);
+  z-index: 3;
+  display: inline-flex;
+  max-width: calc(100vw - env(safe-area-inset-left) - env(safe-area-inset-right) - 120px);
+  align-items: center;
+  gap: 9px;
+  color: inherit;
+  opacity: 0.58;
+  pointer-events: none;
+  user-select: none;
+  transition: color 700ms ease, opacity 180ms ease;
+}
+
+.app-brand-icon {
+  display: block;
+  width: 26px;
+  height: 26px;
+  flex: 0 0 auto;
+  border-radius: 6px;
+}
+
+.app-brand-lockup span {
+  overflow: hidden;
+  font-family: var(--serif);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0.12em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.app-brand-lockup.language-en span {
+  font-family: var(--sans);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+}
+
+.style-archive .app-brand-lockup {
+  max-width: calc(100vw - env(safe-area-inset-left) - env(safe-area-inset-right) - 250px);
+}
+
 .thought-field {
   position: absolute;
   inset: 0;
@@ -3512,6 +3557,31 @@ button:focus-visible {
 }
 
 @media (max-width: 599px) {
+  .app-brand-lockup {
+    top: calc(env(safe-area-inset-top) + 18px);
+    left: calc(env(safe-area-inset-left) + 20px);
+    max-width: calc(100vw - env(safe-area-inset-left) - env(safe-area-inset-right) - 92px);
+    gap: 8px;
+  }
+
+  .app-brand-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 5px;
+  }
+
+  .app-brand-lockup span {
+    font-size: 12px;
+  }
+
+  .app-brand-lockup.language-en span {
+    font-size: 10px;
+  }
+
+  .style-archive .app-brand-lockup {
+    max-width: calc(100vw - env(safe-area-inset-left) - env(safe-area-inset-right) - 180px);
+  }
+
   .onboarding-hint {
     max-width: calc(100vw - 28px);
     padding: 6px 9px;
@@ -3632,6 +3702,16 @@ button:focus-visible {
 
   .style-archive .manuscript-index strong {
     font-size: 48px;
+  }
+}
+
+@media (max-width: 380px) {
+  .style-archive .manuscript-index span {
+    display: none;
+  }
+
+  .style-archive .app-brand-lockup {
+    max-width: calc(100vw - env(safe-area-inset-left) - env(safe-area-inset-right) - 112px);
   }
 }
 

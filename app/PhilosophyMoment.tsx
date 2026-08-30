@@ -22,6 +22,7 @@ import {
   thoughtLevelConnections,
 } from "../content/libraries";
 import type { ThoughtDepth } from "../content/thoughtDepthLoader";
+import { migrateRetiredThoughtState } from "../content/retiredThoughtReplacements";
 import { contentLibraryThoughtIndex } from "../lib/contentLibraryThoughtIndex";
 import {
   resolveThoughtLineage,
@@ -234,6 +235,11 @@ function parseSavedIds(value: string): string[] {
     return [];
   }
 }
+
+function hasSameIds(left: readonly string[], right: readonly string[]): boolean {
+  return left.length === right.length && left.every((id, index) => id === right[index]);
+}
+
 const legacyStorageKeys = {
   saved: ["sixi-saved", "yinian-saved"],
   visualStyle: ["sixi-visual-style", "yinian-visual-style"],
@@ -784,16 +790,42 @@ export function PhilosophyMoment({
   useEffect(() => {
     const timer = window.setTimeout(() => {
       const storedSaved = readStoredPreference(storageKeys.saved, legacyStorageKeys.saved);
-      const storedSavedIds = storedSaved === null ? [] : parseSavedIds(storedSaved);
-      if (storedSaved !== null) setSaved(storedSavedIds);
+      const parsedSavedIds = storedSaved === null ? [] : parseSavedIds(storedSaved);
 
       const storedBlocked = window.localStorage.getItem(storageKeys.blocked);
-      const storedBlockedIds = storedBlocked === null ? [] : parseSavedIds(storedBlocked);
-      if (storedBlocked !== null) setBlocked(storedBlockedIds);
+      const parsedBlockedIds = storedBlocked === null ? [] : parseSavedIds(storedBlocked);
 
       const storedRecent = window.localStorage.getItem(storageKeys.recent);
-      const storedRecentIds = storedRecent === null ? [] : parseSavedIds(storedRecent).slice(-100);
-      if (storedRecent !== null) setRecent(storedRecentIds);
+      const parsedRecentIds = storedRecent === null ? [] : parseSavedIds(storedRecent);
+      const migratedThoughtState = migrateRetiredThoughtState({
+        saved: parsedSavedIds,
+        blocked: parsedBlockedIds,
+        recent: parsedRecentIds,
+      });
+      const storedSavedIds = migratedThoughtState.saved;
+      const storedBlockedIds = migratedThoughtState.blocked;
+      const storedRecentIds = migratedThoughtState.recent.slice(-100);
+
+      if (storedSaved !== null) {
+        setSaved(storedSavedIds);
+        if (!hasSameIds(parsedSavedIds, storedSavedIds)) {
+          window.localStorage.setItem(storageKeys.saved, JSON.stringify(storedSavedIds));
+        }
+      }
+
+      if (storedBlocked !== null) {
+        setBlocked(storedBlockedIds);
+        if (!hasSameIds(parsedBlockedIds, storedBlockedIds)) {
+          window.localStorage.setItem(storageKeys.blocked, JSON.stringify(storedBlockedIds));
+        }
+      }
+
+      if (storedRecent !== null) {
+        setRecent(storedRecentIds);
+        if (!hasSameIds(parsedRecentIds, storedRecentIds)) {
+          window.localStorage.setItem(storageKeys.recent, JSON.stringify(storedRecentIds));
+        }
+      }
 
       const storedEconomicsCollection = window.localStorage.getItem(storageKeys.economicsCollection);
       const restoredEconomicsCollection = isEconomicsCollectionId(storedEconomicsCollection)
@@ -1994,6 +2026,17 @@ export function PhilosophyMoment({
         onTouchEnd={onTouchEnd}
         aria-label={menuLabel(`${brand.nameZhHans}思想卡片`, `${brand.nameEn} thought card`)}
       >
+        <div className={`app-brand-lockup language-${languageMode}`}>
+          {/* The canonical local SVG is shared by the page, menu, browser tab, and extension build. */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            className="app-brand-icon"
+            src="/favicon.svg"
+            alt=""
+            aria-hidden="true"
+          />
+          <span>{localizedBrandName}</span>
+        </div>
         <div className="thought-field" aria-hidden="true">
           <div className="orbit orbit-wide" />
           <div className="orbit orbit-mid" />
@@ -2073,7 +2116,7 @@ export function PhilosophyMoment({
         >
           <div className="menu-heading">
             <div className="menu-brand-lockup">
-              {/* The canonical local SVG must stay byte-identical to the favicon and extension icon source. */}
+              {/* The canonical local SVG is shared by the page, menu, browser tab, and extension build. */}
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 className="menu-brand-icon"
