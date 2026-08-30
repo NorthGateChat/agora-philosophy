@@ -44,9 +44,9 @@
 | 网页生产构建 | 通过；`npm run build`；已移除 Sites／托管配置依赖，仅保留按需大块提示，不影响本地构建 |
 | Chrome 扩展构建 | 通过；`npm run build:extension`；初始入口 297.70 KiB，gzip 93.63 KiB，目录、原文正文与插图保持异步加载 |
 | 本地预览烟雾复核 | 通过；`http://localhost:3000/`；覆盖繁体中文、简体中文、英文，以及卡片、详情、来源档案、语境／辨析、整篇章阅读和原句自动定位；控制台 0 错误 |
-| 扩展 ZIP 校验 | 通过；`release/agora-philosophy-0.4.0.zip`，2,094 项、177,815,811 字节；SHA-256 `799d5479af33f853f0f3001122c7a3866de1eeafbd087cbec8a197c7c2654bd9`；`unzip -t` 与 `shasum -c` 均通过 |
+| 扩展 ZIP 校验 | 通过；`release/agora-philosophy-0.4.1.zip`，2,094 项、177,815,811 字节；SHA-256 `233f1a9ab2191cf91fd5b2123188a4a2b335a42787745046d7a4873475daea81`；`unzip -t` 与 `shasum -c` 均通过 |
 | 最终提交 | 本摘要随最终提交一并入库；提交哈希见最终交付说明或 `git log -1` |
 
 ## 发布边界
 
-本轮只做本地预览、本地构建与 Chrome 扩展打包准备。不使用 Sites，不做网站托管或线上部署，也不上传 Chrome Web Store。
+本轮不使用 Sites，也不做网站托管或线上部署。`0.4.1` 作为现有 Chrome Web Store 条目的三语品牌更新包单独提交，继续沿用原扩展 ID。

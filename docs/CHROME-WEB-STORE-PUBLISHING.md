@@ -41,7 +41,7 @@ npm run package:extension
 
 - `extension-dist/`：用于本地“加载已解压的扩展程序”；
 - `release/agora-philosophy-<版本号>.zip`：上传 Chrome Web Store 的 ZIP；
-- `store-assets/v7-current-ui/upload/{global,zh-CN,zh-TW,en}/`：0.4.0 商店图标、截图和宣传图上传素材。
+- `store-assets/v7-current-ui/upload/{global,zh-CN,zh-TW,en}/`：0.4.1 商店图标、截图和宣传图上传素材。
 
 上传前检查 ZIP：
 
@@ -92,7 +92,7 @@ Chrome 新标签页覆盖的官方说明见 [Override Chrome pages](https://deve
 
 > 一页，一种思想。
 
-0.4.0 的全球通用资源只从 `store-assets/v7-current-ui/upload/global/` 上传；简体中文、
+0.4.1 的全球通用资源只从 `store-assets/v7-current-ui/upload/global/` 上传；简体中文、
 繁体中文与英文的本地化资源分别从同级 `zh-CN/`、`zh-TW/`、`en/` 上传。`store-assets/`
 根目录的旧截图和宣传图仅作历史兼容，不是本版发布输入，不要误传。上传前执行：
 

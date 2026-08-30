@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.4.1] - 2026-08-30
+
 ### Added
 
 - 补入西方哲学与中国哲学 30 张经逐字核对的原文卡、科学思想 8 张原文卡，以及心理学与印度哲学 23 张有明确来源定位的编辑性研读卡；新增 61 张对应原创插图。
@@ -172,7 +174,8 @@
 - 可公开贡献的独立开源仓库、社区规范与自动化检查。
 - 独立的哲学内容目录，以及设置菜单中的源码与反馈入口。
 
-[Unreleased]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.4.0...HEAD
+[Unreleased]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.4.1...HEAD
+[0.4.1]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.4.0...v0.4.1
 [0.4.0]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.3.2...v0.4.0
 [0.3.2]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.3.1...v0.3.2
 [0.3.1]: https://github.com/NorthGateChat/agora-philosophy/compare/v0.3.0...v0.3.1

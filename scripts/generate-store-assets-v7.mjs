@@ -256,7 +256,7 @@ function marqueeOverlay(locale) {
     <rect x="610" y="49" width="740" height="462" rx="22" fill="none"
       stroke="${PALETTE.ivory}" stroke-opacity="0.22" filter="url(#shadow)"/>
     <rect x="610" y="49" width="740" height="462" rx="22" fill="url(#panel-fade)"/>
-    <text x="75" y="136" class="sans" fill="${PALETTE.ivory}" font-size="31"
+    <text x="125" y="136" class="sans" fill="${PALETTE.ivory}" font-size="31"
       letter-spacing="${locale === "en" || locale === "global" ? "3.2" : "7.6"}">${escapeXml(brandNameForLocale(locale))}</text>
     <text x="76" y="184" class="sans" fill="${PALETTE.orange}" font-size="10.5"
       letter-spacing="2.6">${escapeXml(copy.kicker)}</text>
